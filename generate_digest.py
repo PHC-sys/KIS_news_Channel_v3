@@ -113,12 +113,16 @@ def write_digest(client: anthropic.Anthropic, articles: list[dict], plan: str) -
 
     response = client.messages.create(
         model="claude-sonnet-4-5",
-        max_tokens=4096,
+        max_tokens=8192,
         system="당신은 KIS Global Brief 텔레그램 채널의 글로벌 마켓 뉴스 에디터입니다.",
         messages=[{"role": "user", "content": msg}],
     )
+    # max_tokens 도달 시 응답이 중간에 잘려 unclosed HTML 태그가 생길 수 있음
+    stop_reason = response.stop_reason
+    if stop_reason == "max_tokens":
+        print("[경고] max_tokens 도달 — 응답이 잘렸을 수 있음. 다이제스트를 확인하세요.")
     result = response.content[0].text.strip()
-    print("  2단계 완료.")
+    print(f"  2단계 완료. (stop_reason={stop_reason})")
     return result
 
 
@@ -142,6 +146,12 @@ def sanitize_html(text: str) -> str:
         text,
         flags=re.IGNORECASE,
     )
+    # 미닫힌 <blockquote> 자동 보정 (max_tokens 초과로 잘린 경우 대비)
+    open_count  = len(re.findall(r'<blockquote>', text, re.IGNORECASE))
+    close_count = len(re.findall(r'</blockquote>', text, re.IGNORECASE))
+    if open_count > close_count:
+        text = text.rstrip() + '</blockquote>' * (open_count - close_count)
+        print(f"[HTML 보정] 미닫힌 blockquote {open_count - close_count}개 자동 닫음")
     return text
 
 
