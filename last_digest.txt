@@ -4,113 +4,85 @@
 
 ✅ <b>간밤의 주요 헤드라인</b>
 
-<b>1. 이란전쟁 장기화로 글로벌 에너지 위기 티핑포인트 진입...80개국 긴급조치·여름 재고 바닥</b>
-<blockquote>거의 80개국이 비상조치에 나섰고 석유 재고는 바닥을 드러내면서 에너지 공급 위기가 새 국면으로 접어들었다. 유럽 천연가스 가격은 메가와트시당 50유로를 돌파했고, 호르무즈 해협 폐쇄 장기화 우려로 여름 성수기를 앞두고 공급 불안이 커지고 있다.
-<a href="https://www.ft.com/content/b0283843-21e6-42e2-bc71-b98cacf107f7">[FT]</a> <a href="https://www.ft.com/content/f636f726-b185-4f6a-91d2-75ea3d1b9beb">[FT]</a> <a href="https://www.wsj.com/finance/commodities-futures/european-gas-prices-rise-as-iran-war-drags-on-0466ca50">[WSJ]</a> <a href="https://www.wsj.com/finance/commodities-futures/oil-rises-amid-prospects-of-prolonged-strait-of-hormuz-closure-a6aba1c3">[WSJ]</a></blockquote>
+<b>1. Trump, 이란 공습 계획 화요일→수일 연기...걸프 3국 외교 개입</b>
+<blockquote>Trump 대통령이 화요일 예정이었던 이란 공습을 UAE·사우디·카타르의 요청으로 2~3일 연기했다고 밝혔다. 걸프 지도자들은 협상 시간을 요구했으며, 호르무즈 해협 폐쇄는 지속되고 있다.
+<a href="https://www.wsj.com/world/middle-east/trump-says-he-will-hold-off-on-iran-attack-as-serious-negotiations-are-under-way-7ff01a96">[WSJ]</a> <a href="https://www.ft.com/content/5cce5b90-a84d-4d4f-b271-de7940ac92c3">[FT]</a></blockquote>
 
-<b>2. UAE 원전 인근 드론 공격...이란 전쟁 극한 확전 신호</b>
-<blockquote>아랍에미리트 바라카 원자력발전소 인근에서 드론 공격으로 화재가 발생했다. 사상자는 없었고 방사능 수치도 정상이지만 이란 전쟁이 걸프 지역 핵심 인프라까지 위협하는 새로운 국면에 진입했다는 우려가 확산됐다.
-<a href="https://www.ft.com/content/c4b786a6-55d4-4689-b19e-48a48f7946e6">[FT]</a> <a href="https://www.wsj.com/world/middle-east/drone-strike-sparks-fire-near-u-a-e-nuclear-plant-b061ab0d">[WSJ]</a></blockquote>
+<b>2. 유가 3거래일 연속 상승...호르무즈 폐쇄 장기화에 재고 소진 우려</b>
+<blockquote>원유 선물이 호르무즈 해협 폐쇄가 계속되면서 글로벌 재고를 빠르게 고갈시키고 있다는 시장 우려 속에 상승했다. 미국과 이란의 협상 타결 전망은 여전히 불투명하다.
+<a href="https://www.wsj.com/finance/commodities-futures/oil-rises-amid-prospects-of-prolonged-strait-of-hormuz-closure-a6aba1c3">[WSJ]</a></blockquote>
 
-<b>3. 인플레 공포로 글로벌 채권 동반 셀오프...미국·일본 국채 급락</b>
-<blockquote>에너지 가격 급등에 따른 인플레이션 우려로 미국과 일본 국채 수익률이 동반 상승했다. 모기지 금리도 가파르게 뛰면서 주택시장 부담이 커졌고, 연준의 매파 전환 가능성도 거론되고 있다.
-<a href="https://www.ft.com/content/1a33355b-b080-49f6-88e1-e613843a8af0">[FT]</a> <a href="https://www.wsj.com/finance/investing/jgbs-slide-on-global-bond-selloff-789740a2">[WSJ]</a> <a href="https://www.ft.com/content/5e7f4da1-6cb4-44d8-9bce-4ddad53c7fd1">[FT]</a></blockquote>
+<b>3. 미국, 러시아산 석유 제재 30일 연장...이란 사태 유가 급등 차단 목적</b>
+<blockquote>미국 정부는 이란 전쟁으로 인한 연료비 폭등에 대응하기 위해 러시아산 석유 수입 제재 예외 조치를 30일 연장했다. 고유가가 미국 소비자에게 직접 타격을 주는 상황에서 단기 공급 확보가 시급하다는 판단이다.
+<a href="https://www.ft.com/content/df5fca22-d057-444f-b430-32623b196d00">[FT]</a></blockquote>
 
-<b>4. 미국 에너지 수출 급증으로 국내 재고 고갈...미국인 연료비 부담 가중</b>
-<blockquote>전 세계가 미국산 원유와 정제유를 사들이면서 미국 내 재고가 급격히 줄어들고 있다. 해외 수요 급증이 미국 소비자들의 유류비 상승을 부추기는 아이러니한 상황이 연출되고 있다.
-<a href="https://www.wsj.com/business/energy-oil/the-world-cant-get-enough-u-s-energy-keeping-prices-high-for-americans-77f0b63f">[WSJ]</a></blockquote>
+<b>4. 미국 천연가스 선물 4거래일째 상승...남부·동부 냉방 수요 급증</b>
+<blockquote>미국 천연가스 선물이 남부와 동부 지역의 냉방 수요 증가로 발전용 사용량이 늘어나면서 연속 상승했다. 이번 주 후반 일부 지역 기온이 내려갈 전망이지만 전력 소비 증가세는 지속될 것으로 보인다.
+<a href="https://www.wsj.com/finance/commodities-futures/european-gas-prices-rise-as-iran-war-drags-on-0466ca50">[WSJ]</a></blockquote>
 
-<b>5. 트럼프의 이란 전쟁으로 미국인 400억달러 연료비 추가 부담</b>
-<blockquote>휘발유와 경유 가격 급등으로 미국 가계가 짊어진 추가 비용이 400억달러에 달한다. 이는 미국 전역의 교량을 보수하거나 항공교통관제 시스템을 재구축하는 비용을 넘어서는 규모다.
-<a href="https://www.ft.com/content/32ff9d8d-0103-42f8-8a78-10e2216b8fe2">[FT]</a></blockquote>
+<b>5. Kevin Warsh 연준 의장, 금요일 백악관 취임식...Trump 정치적 영향력 과시</b>
+<blockquote>Trump 대통령이 금요일 백악관에서 차기 연준 의장 Kevin Warsh의 취임식을 주최한다. 이례적인 행사는 대통령이 Warsh 임명에 각별한 관심을 갖고 있음을 보여준다.
+<a href="https://www.wsj.com/economy/central-banking/trump-will-host-swearing-in-ceremony-for-new-fed-chair-warsh-8d20d962">[WSJ]</a></blockquote>
 
-<b>6. 중국 4월 경제지표 예상외 약세...소비·투자·부동산 전방위 둔화</b>
-<blockquote>중국의 4월 산업생산과 소매판매가 모두 예상을 밑돌며 모멘텀 약화가 뚜렷해졌다. 이란 위기가 소비자 신뢰를 압박하고 있으며, 부동산 시장은 일본식 장기 침체 조짐을 보이고 있다.
-<a href="https://www.wsj.com/economy/chinas-april-activity-data-weakens-despite-export-strength-d6e12d09">[WSJ]</a> <a href="https://www.ft.com/content/5b1dcd37-7567-4302-9f7a-424ec7e43ee0">[FT]</a> <a href="https://www.ft.com/content/381fa2a2-cb54-4d2d-bcf0-c05dd493264d">[FT]</a></blockquote>
-
-<b>7. 미중, 무역·투자 협의체 설립 합의...베이징 회담 핵심 성과</b>
-<blockquote>트럼프-시진핑 정상회담 후 중국 정부가 미국과 무역·투자 협의체 설립에 합의했다고 공식 발표했다. 양국 무역전쟁 휴전을 공고히 하는 신호로 해석된다.
-<a href="https://www.ft.com/content/aed42b42-0ca2-4104-848a-c8bca33fd837">[FT]</a> <a href="https://www.wsj.com/world/china/china-says-it-has-agreed-with-u-s-to-set-up-trade-and-investment-bodies-f4752b03">[WSJ]</a></blockquote>
-
-<b>8. 바이두 분기 영업익 급감...AI 수익화 지연에 중국 경제 둔화 겹쳐</b>
-<blockquote>중국 최대 검색엔진 바이두가 또다시 큰 폭의 영업이익 감소를 기록했다. AI 투자 확대에도 매출은 4분기 연속 하락했고 수익 전환에는 시간이 걸릴 것으로 보인다.
-<a href="https://www.wsj.com/business/earnings/baidus-profit-slides-again-amid-slow-ai-payoff-1060fbdb">[WSJ]</a></blockquote>
-
-<b>9. 일본, 에너지 위기 대응 추경 편성...국채 추가 발행 우려</b>
-<blockquote>다카이치 총리가 에너지 위기 대응을 위해 추가경정예산 편성을 검토한다고 밝혔다. 수주 동안 부인해 온 입장을 뒤집은 것으로, 국채 추가 발행 우려가 부각되고 있다.
-<a href="https://www.ft.com/content/865ef75d-9499-4822-a9aa-1ab4199253c0">[FT]</a></blockquote>
-
-<b>10. 연준 차기 의장 위시, 원하던 환경 못 받아...금리 인하 시나리오 틀어져</b>
-<blockquote>케빈 위시 차기 연준 의장이 물려받을 경제 환경이 그가 기대했던 것과 크게 다르다. 그는 금리 인하를 원했지만, 현재 경제지표는 그것을 불가능하게 만들 수 있다.
+<b>6. Warsh 차기 연준 의장 딜레마...저금리 원하지만 인플레 데이터가 발목</b>
+<blockquote>Kevin Warsh가 물려받는 경제 상황은 그가 원하던 것과 다르다. 차기 연준 의장은 금리 인하를 원하지만, 인플레이션 데이터가 그를 불가능하게 만들 가능성이 높다.
 <a href="https://www.wsj.com/economy/central-banking/the-economy-kevin-warsh-is-inheriting-is-not-the-one-he-wanted-73ab43c2">[WSJ]</a></blockquote>
 
-<b>11. 우크라이나, 올해 최대 규모 모스크바 공습...전쟁 러시아 본토 확대</b>
-<blockquote>우크라이나가 모스크바를 겨냥해 올해 들어 최대 규모의 드론 공격을 감행했다. 젤렌스키 대통령은 러시아의 키이우 포격에 대한 정당한 보복이라며 공격 책임을 인정했다.
-<a href="https://www.wsj.com/world/russia/ukraine-increases-pressure-on-russia-with-biggest-strikes-on-moscow-this-year-6a75d265">[WSJ]</a> <a href="https://www.ft.com/content/c7e98e0b-90c4-4602-86d7-5a99b1b0b7ab">[FT]</a></blockquote>
+<b>7. Kevin Warsh 연준 체제 전망 Q&A...FT 독자 질의응답</b>
+<blockquote>FT 미국 경제 에디터와 시장 에디터가 독자들의 질문에 답했다. Warsh 체제 하 통화정책 방향성과 시장 영향에 대한 분석이 담겼다.
+<a href="https://www.ft.com/content/a53c2628-094b-4524-95d8-4eab1f48ce15">[FT]</a></blockquote>
 
-<b>12. 미군, 나이지리아서 IS 전투원 약 20명 사살</b>
-<blockquote>미군이 나이지리아에서 이슬람국가(IS) 전투원 약 20명을 공습으로 제거했다. 며칠 전 IS 2인자를 사살한 작전에 이은 후속 타격이다.
-<a href="https://www.wsj.com/world/africa/u-s-forces-kill-about-20-islamic-state-fighters-in-nigeria-ad7b2bf4">[WSJ]</a></blockquote>
+<b>8. 미 국채 수익률 소폭 상승...중동 정세 불확실성 속 관망세</b>
+<blockquote>국채 수익률이 소폭 상승했다. 시장은 중동에서 다음 전개를 기다리는 모습이다.
+<a href="https://www.wsj.com/finance/investing/jgbs-slide-on-global-bond-selloff-789740a2">[WSJ]</a></blockquote>
 
-<b>13. WHO, 콩고 에볼라 발생에 국제 보건 비상사태 선포</b>
-<blockquote>세계보건기구가 콩고민주공화국에서 발생한 에볼라 바이러스 확산에 국제 보건 비상사태를 선포했다. 약 80명이 사망했으며, 희귀 변종이 우간다로 유입되면서 실제 확산 규모가 알려진 것보다 클 수 있다는 우려가 나온다.
-<a href="https://www.wsj.com/world/africa/who-declares-global-health-emergency-after-ebola-outbreak-in-congo-4ec2b74b">[WSJ]</a> <a href="https://www.ft.com/content/aa55ba2b-8476-4718-8d28-5f60df6ff19c">[FT]</a></blockquote>
+<b>9. WSJ 달러지수 0.23% 하락 95.66...5거래일 연속 상승 멈춰</b>
+<blockquote>WSJ 달러지수가 0.2% 하락하며 5거래일 연속 상승세가 끝났다.
+<a href="https://www.wsj.com/finance/currencies/asian-currencies-weaken-amid-rising-oil-prices-65c0852f">[WSJ]</a></blockquote>
 
-<b>14. 영국 노동당 내분 격화...브렉시트 재점화로 파라지 집권 가능성 경고</b>
-<blockquote>데이비드 래미 부총리가 노동당 내부에서 EU 관계를 둘러싼 분열이 계속되면 극우 정치인 나이절 파라지의 집권을 초래할 것이라고 경고했다. 노동당 대표 경선을 앞두고 브렉시트 재논의가 내부 갈등을 부추기고 있다.
-<a href="https://www.ft.com/content/692bdf31-1cd1-4c63-9c69-60f2e3b5b398">[FT]</a> <a href="https://www.ft.com/content/86280bc9-eb6c-43b9-ae69-83ce043326f0">[FT]</a></blockquote>
+<b>10. 금 3거래일 연속 하락 $4552.50...은도 0.1% 내려</b>
+<blockquote>Comex 금 선물이 거의 0.1% 하락 마감하며 3거래일 연속 약세를 이어갔다. 은 역시 0.1% 내렸다.
+<a href="https://www.wsj.com/finance/commodities-futures/gold-consolidates-may-be-weighed-by-fed-rate-hike-expectations-0d9492fb">[WSJ]</a></blockquote>
 
-<b>15. 라이언에어, 여름 성수기 가격 약세 경고...주가 급락</b>
-<blockquote>유럽 최대 저비용항공사 라이언에어가 여름 성수기 가격이 예상보다 약하고 예약이 막판까지 미뤄지고 있다고 경고했다. 연료비 급등도 수익성을 압박하면서 주가가 큰 폭으로 하락했다.
+<b>11. NextEra, Dominion Energy $670억 인수...$4200억 유틸리티 공룡 탄생</b>
+<blockquote>NextEra가 Dominion Energy를 670억 달러에 인수하며 미국 동부 지역을 아우르는 전력 대기업이 탄생한다. 플로리다·캐롤라이나·버지니아 영토를 합친 규모로, AI 데이터센터 전력 수요 급증에 대응하기 위한 메가딜이다.
+<a href="https://www.wsj.com/business/energy-oil/nextera-to-buy-dominion-energy-in-67-billion-deal-cc3c94b0">[WSJ]</a> <a href="https://www.ft.com/content/a17f615a-cf05-4079-92a8-a8ab6370ae98">[FT]</a></blockquote>
+
+<b>12. AI 칩 전환 쉽게 만드는 Decart, 밸류 $40억 육박...Nvidia 신규 투자</b>
+<blockquote>AI 컴퓨팅을 더 효율적으로 만드는 스타트업 Decart의 기업가치가 40억 달러에 육박했다. Nvidia가 신규 투자자로 참여하면서 AI 칩 전환 용이성이 주목받고 있다.
+<a href="https://www.wsj.com/tech/ai/startup-makes-switching-ai-chips-easierand-nvidia-is-a-new-investor-c78e3a54">[WSJ]</a></blockquote>
+
+<b>13. 실적 랠리 이번 주 핵심 고비...Nvidia·주요 리테일러 실적 대기</b>
+<blockquote>Nvidia와 주요 소매업체 실적 발표를 앞두고 투자자들이 주목하고 있다. S&P 500은 0.1% 미만 하락, 다우 산업평균은 0.3% 상승 마감했다.
+<a href="https://www.wsj.com/finance/stocks/global-stocks-markets-dow-news-05-18-2026-f8053b68">[WSJ]</a></blockquote>
+
+<b>14. Ryanair 주가 급락...성수기 앞두고 가격 약세·막판 예약 지속 경고</b>
+<blockquote>유럽 저가항공사 Ryanair가 여름 성수기를 앞두고 가격 약세, 막판 예약 증가, 연료비 급등을 경고하며 주가가 하락했다.
 <a href="https://www.wsj.com/business/airlines/ryanair-sees-weaker-pricing-as-travelers-hold-off-on-bookings-98208d6f">[WSJ]</a></blockquote>
 
-<b>16. 독일 실업자 300만 명 돌파...노동력 부족에서 채용 동결로 급선회</b>
-<blockquote>유로존 최강 고용시장이던 독일에서 실업자가 15년 만에 처음으로 300만 명을 넘어섰다. 기업들이 채용을 대거 중단하면서 노동력 부족 국면이 빠르게 반전됐다.
-<a href="https://www.ft.com/content/2a6c1cb9-6c11-41c8-a8ea-a367b8799126">[FT]</a></blockquote>
+<b>15. 미국 주택건설업체 신뢰지수 5월 개선...affordability 과제는 여전</b>
+<blockquote>5월 미국 주택건설업체 신뢰지수가 개선됐지만 여전히 마이너스 영역에 머물렀다. 모기지 금리 상승, 높은 건축비, 이란 전쟁 관련 경제 불확실성이 부담으로 작용하고 있다.
+<a href="https://www.wsj.com/economy/housing/u-s-home-builder-sentiment-improved-in-may-but-affordability-challenges-persist-76a4695f">[WSJ]</a></blockquote>
 
-<b>17. 영국 주택 가격 5월 상승폭 10년 만에 최고</b>
-<blockquote>영국 5월 평균 주택 가격이 전월 대비 1.2% 올라 최근 10년 평균인 1.0%를 크게 웃돌았다. 금리 불확실성에도 주택시장은 견조한 흐름을 보이고 있다.
-<a href="https://www.wsj.com/finance/investing/u-k-home-price-rise-in-may-reaches-10-year-high-rightmove-says-00ebb6e2">[WSJ]</a></blockquote>
+<b>16. Publicis, LiveRamp $25.5억 인수...AI 역량 강화 위한 2019년 이후 최대 딜</b>
+<blockquote>프랑스 광고 그룹 Publicis가 미국 데이터 플랫폼 LiveRamp을 25억5000만 달러에 인수한다. 2019년 이후 최대 규모 인수로, AI 역량 강화를 위한 전략적 행보다.
+<a href="https://www.wsj.com/business/deals/frances-publicis-to-acquire-liveramp-for-2-55-billion-in-ai-push-fd04a740">[WSJ]</a></blockquote>
 
-<b>18. 스위스 1분기 GDP 0.5% 성장...이란 전쟁 리스크 잔존</b>
-<blockquote>스위스 경제가 1분기 0.5% 성장하며 회복세를 이어갔다. 다만 이란 전쟁 여파가 향후 수개월간 성장 모멘텀을 흔들 수 있다는 우려가 나온다.
-<a href="https://www.wsj.com/economy/swiss-economy-expands-again-7c5e2890">[WSJ]</a></blockquote>
+<b>17. 영국, 2008년 금융위기 이후 핵심 은행 규제 완화 추진...£800억 대출 여력 확대</b>
+<blockquote>영국 재무부 차관이 2008년 금융위기 이후 도입된 링펜싱(업무분리) 규제를 완화하면 800억 파운드의 추가 대출 여력이 생긴다고 밝혔다.
+<a href="https://www.ft.com/content/81f0698c-07d7-4d9d-9f01-0e7d0d7e0461">[FT]</a></blockquote>
 
-<b>19. 영란은행 부총재 "금리 인하 성급히 나서선 안 돼"...정치 불확실성 경고</b>
-<blockquote>사라 브리든 영란은행 부총재가 정치적 불확실성이 기업에 악영향을 주고 있다며 금리 인하에 '성급하게(trigger happy)' 나서서는 안 된다고 강조했다.
-<a href="https://www.ft.com/content/95a51a35-950f-4143-a20b-088f7c42b4ff">[FT]</a></blockquote>
+<b>18. Bank of England 유가 충격 모델링 오류 논란...가정값 적용 시 모순</b>
+<blockquote>Bank of England가 2025년 8월 사용한 가정을 2026년 4월 데이터에 적용하면 모순이 발생한다는 지적이 나왔다. 유가 충격 모델링의 신뢰성 문제가 제기됐다.
+<a href="https://www.ft.com/content/1e57f004-6af0-4e50-b162-981fd9ab2338">[FT]</a></blockquote>
 
-<b>20. 영국·걸프 FTA 막바지...자동차·금융 산업 수혜</b>
-<blockquote>영국이 걸프협력회의(GCC) 국가들과의 자유무역협정 타결을 목전에 두고 있다. 영국 럭셔리 자동차와 금융서비스 산업이 주요 수혜를 입을 것으로 예상된다.
-<a href="https://www.ft.com/content/51379a6a-3ed1-427c-b303-d1491b863ece">[FT]</a></blockquote>
+<b>19. 미중 정상회담 뒷이야기...실질 성과 적지만 시각적 연출은 주목</b>
+<blockquote>미중 정상회담에서 모험도, 성과도 거의 없었지만 시각적 연출은 흥미로웠다는 평가가 나왔다.
+<a href="https://www.ft.com/content/b3848645-19d3-4b7a-abfa-657c8d79b164">[FT]</a></blockquote>
 
-<b>21. 스페인 안달루시아 선거서 보스 약진...극우, 보수당 연정 파트너 부상</b>
-<blockquote>스페인 안달루시아 지방선거에서 극우 보스당이 약진하며 보수 국민당의 잠재적 연정 파트너로 떠올랐다. 산체스 총리의 사회노동당은 패배했다.
-<a href="https://www.ft.com/content/be7186e3-4df7-49b8-99bd-d06b1a5383ac">[FT]</a></blockquote>
-
-<b>22. EU, 기업에 非중국 부품 조달 의무화 추진...화학·산업기계 타깃</b>
-<blockquote>유럽연합이 기업들에게 중국이 아닌 공급처에서 부품을 구매하도록 강제하는 규정을 추진 중이다. 화학과 산업기계 제조업체가 주요 대상이다.
-<a href="https://www.ft.com/content/57b4852c-f323-45b8-b8d0-5a6426dd781e">[FT]</a></blockquote>
-
-<b>23. 삼성전자 파업 우려 완화...법원, 노조 생산중단 제한 가처분</b>
-<blockquote>한국 법원이 삼성전자 노조의 생산 중단 능력을 제한하는 가처분 결정을 내리면서 파업 우려가 누그러졌다. 삼성전자 주가는 상승했다.
-<a href="https://www.ft.com/content/8e708b02-96cf-44be-8ac0-d1b6022bff11">[FT]</a></blockquote>
-
-<b>24. 앵글로아메리칸, 호주 석탄자산 38.8억달러 매각...제철용 석탄서 완전 철수</b>
-<blockquote>앵글로아메리칸이 호주 제철용 석탄 자산을 최대 38억7500만달러에 매각하며 해당 사업에서 완전히 손을 뗀다. 텍 리소시즈와의 합병을 앞두고 포트폴리오를 단순화하는 작업의 일환이다.
-<a href="https://www.wsj.com/business/deals/anglo-american-to-sell-steelmaking-coal-assets-to-dhilmar-for-up-to-3-875-billion-064418cc">[WSJ]</a></blockquote>
-
-<b>25. 이네오스, 화학기업 주식 2억유로 매입...업계 '저평가' 판단</b>
-<blockquote>영국 화학그룹 이네오스가 동종업계 주식 바스켓에 2억유로를 투자하며 화학 섹터가 '저평가'돼 있다고 채권 투자자들에게 밝혔다.
-<a href="https://www.ft.com/content/978bda91-9215-45f8-861f-5c616cddfa4b">[FT]</a></blockquote>
-
-<b>26. 방산업체, 미 국방부에 中 희토류 자석 금지 연기 요청...수개월 앞 시한</b>
-<blockquote>미국 방산업체들이 중국산 희토류 자석 사용 금지 조치의 시행 연기를 국방부에 요청하고 있다. 수년간 준비해 온 규정이지만 이행 시한이 수개월 앞으로 다가온 지금도 준비가 부족하다는 것이다.
-<a href="https://www.ft.com/content/4d6651e1-17ff-4a72-b30b-065322cd58d0">[FT]</a></blockquote>
-
-<b>27. 미 아칸소주 캠든, 미사일 생산으로 활기...전시 수요 급증</b>
-<blockquote>미국 아칸소주 작은 도시 캠든이 미사일 생산 급증으로 활기를 띠고 있다. 전쟁 수요에 대응하기 위해 주민들이 방산 제조업으로 대거 몰려들고 있다.
-<a href="https://www.wsj.com/business/this-arkansas-town-is-humming-with-the-sound-of-missile-making-d7a301ac">[WSJ]</a></blockquote>
+<b>20. 독일 Commerzbank, UniCredit의 €390억 인수 제안 거부...Merz 총리도 반대</b>
+<blockquote>독일 2위 은행 Commerzbank가 이탈리아 UniCredit의 390억 유로 인수 제안을 거부했다. 독일 Friedrich Merz 총리도 반대 입장을 밝혔다.
+<a href="https://www.ft.com/content/7f1660c4-e99e-4520-b1ce-d27bbf51e488">[FT]</a></blockquote>
 
 ━━━━━━━━━━━━━━━━━━━━
 📡 <b>출처: WSJ · FT · The Economist</b>
