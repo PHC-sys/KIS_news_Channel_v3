@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# 환경변수
+.env
+
+# 임시 테스트 스크립트
+analyze_daytime.py
+
+# OS
+.DS_Store
+Thumbs.db

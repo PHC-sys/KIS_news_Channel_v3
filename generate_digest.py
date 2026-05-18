@@ -1,0 +1,162 @@
+"""
+Claude API를 사용해 overnight 수집 기사로 다이제스트를 자동 생성.
+생성된 내용을 last_digest.txt에 저장.
+
+2단계 호출:
+  1단계 — 기사 분석: 오늘의 매크로 서사 파악, 기사 선별·묶기·순서 계획
+  2단계 — 다이제스트 작성: 1단계 계획을 바탕으로 실제 작성
+
+지침 원천: README.md (단일 진실 원천)
+
+사용법:
+    python generate_digest.py
+"""
+
+import json
+import os
+import re
+import sys
+import io
+from datetime import datetime, timezone, timedelta
+from pathlib import Path
+
+import anthropic
+
+sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8", errors="replace")
+
+BASE_DIR    = Path(__file__).parent
+DIGEST_DB   = BASE_DIR / "digest_db"
+DIGEST_FILE = BASE_DIR / "last_digest.txt"
+KST         = timezone(timedelta(hours=9))
+
+
+# ─────────────────────────────────────────────────────────────────
+# README 로드
+# ─────────────────────────────────────────────────────────────────
+def load_readme() -> str:
+    return (BASE_DIR / "README.md").read_text(encoding="utf-8")
+
+
+# ─────────────────────────────────────────────────────────────────
+# 기사 로드
+# ─────────────────────────────────────────────────────────────────
+def load_articles() -> list[dict]:
+    today = datetime.now(KST).strftime("%Y-%m-%d")
+    path  = DIGEST_DB / f"{today}.json"
+    if not path.exists():
+        print(f"[오류] 오늘 기사 파일 없음: {path}")
+        print("       collect.py를 먼저 실행하세요.")
+        sys.exit(1)
+    articles = json.loads(path.read_text(encoding="utf-8"))
+    print(f"기사 로드: {len(articles)}건  ({today}.json)")
+    return articles
+
+
+def format_for_prompt(articles: list[dict]) -> str:
+    lines = []
+    for i, a in enumerate(articles, 1):
+        lines.append(
+            f"{i}. [{a['source']}] {a['title']}\n"
+            f"   요약: {a['summary']}\n"
+            f"   URL: {a['url']}\n"
+            f"   발행: {a['published']}"
+        )
+    return "\n\n".join(lines)
+
+
+# ─────────────────────────────────────────────────────────────────
+# 1단계: 서사 분석 및 편집 계획
+# ─────────────────────────────────────────────────────────────────
+def plan_digest(client: anthropic.Anthropic, articles: list[dict]) -> str:
+    print("  1단계: 서사 분석 중...")
+
+    msg = (
+        "아래 기사들을 FICC 매크로 트레이더 관점에서 분석해줘.\n\n"
+        "다음 순서로 계획을 짜줘:\n"
+        "1. 오늘의 핵심 매크로 서사 2~3개 (예: 이란전쟁→에너지충격→연준매파전환→금약세)\n"
+        "2. 포함할 기사 목록 (번호) — 애매하면 포함 방향으로, 스포츠·라이프스타일·오피니언·지역정치·개별기업 M&A·뉴스레터·데일리브리핑(예: FirstFT)만 제외\n"
+        "3. 주제가 겹치는 기사는 하나로 묶을 것 (묶을 기사 번호와 이유)\n"
+        "4. 서사 흐름에 맞는 최종 순서\n\n"
+        "계획만 간략히 출력하고, 다이제스트 본문은 쓰지 마.\n\n"
+        f"=== 기사 목록 ({len(articles)}건) ===\n"
+        + format_for_prompt(articles)
+    )
+
+    response = client.messages.create(
+        model="claude-sonnet-4-5",
+        max_tokens=1500,
+        system="당신은 FICC 매크로 트레이딩 전문 뉴스 에디터입니다.",
+        messages=[{"role": "user", "content": msg}],
+    )
+    plan = response.content[0].text.strip()
+    print("  1단계 완료.")
+    return plan
+
+
+# ─────────────────────────────────────────────────────────────────
+# 2단계: 다이제스트 작성
+# ─────────────────────────────────────────────────────────────────
+def write_digest(client: anthropic.Anthropic, articles: list[dict], plan: str) -> str:
+    print("  2단계: 다이제스트 작성 중...")
+
+    readme = load_readme()
+
+    msg = (
+        "아래 README.md를 읽고, 오늘 아침 글로벌 마켓 뉴스 다이제스트를 작성해줘.\n"
+        "1단계에서 이미 서사 분석과 편집 계획이 완성돼 있으니, 그 계획을 그대로 따라서 작성해줘.\n"
+        "다이제스트 텍스트만 출력하고, 앞뒤 설명은 일절 쓰지 마세요.\n\n"
+        f"=== README.md ===\n{readme}\n\n"
+        f"=== 1단계 편집 계획 ===\n{plan}\n\n"
+        f"=== 전체 기사 목록 ({len(articles)}건) ===\n"
+        + format_for_prompt(articles)
+    )
+
+    response = client.messages.create(
+        model="claude-sonnet-4-5",
+        max_tokens=4096,
+        system="당신은 KIS Global Brief 텔레그램 채널의 글로벌 마켓 뉴스 에디터입니다.",
+        messages=[{"role": "user", "content": msg}],
+    )
+    result = response.content[0].text.strip()
+    print("  2단계 완료.")
+    return result
+
+
+# ─────────────────────────────────────────────────────────────────
+# {DATE} 복원
+# ─────────────────────────────────────────────────────────────────
+def restore_date_placeholder(text: str) -> str:
+    # 한국어 형식: 2026년 5월 18일 (월)
+    # 점/슬래시/대시 형식: 2026.05.18 / 2026/05/18 / 2026-05-18
+    return re.sub(
+        r'\[\s*(?:'
+        r'\d{4}년\s*\d{1,2}월\s*\d{1,2}일?\s*(?:\([월화수목금토일]\))?'
+        r'|\d{4}[./\-]\d{1,2}[./\-]\d{1,2}\s*(?:\([월화수목금토일]\))?'
+        r')\s*\|',
+        '[{DATE} |',
+        text,
+    )
+
+
+# ─────────────────────────────────────────────────────────────────
+# 메인
+# ─────────────────────────────────────────────────────────────────
+def main():
+    if not os.environ.get("ANTHROPIC_API_KEY", "").strip():
+        print("[오류] 환경변수 ANTHROPIC_API_KEY 가 설정되지 않았습니다.")
+        sys.exit(1)
+
+    articles = load_articles()
+    client   = anthropic.Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
+
+    print("Claude API 호출 중... (2단계)")
+    plan   = plan_digest(client, articles)
+    digest = write_digest(client, articles, plan)
+    digest = restore_date_placeholder(digest)
+
+    DIGEST_FILE.write_text(digest, encoding="utf-8")
+    print(f"저장 완료: {DIGEST_FILE.name}  ({len(digest)}자)")
+
+
+if __name__ == "__main__":
+    main()
