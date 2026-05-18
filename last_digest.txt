@@ -4,53 +4,80 @@
 
 ✅ <b>간밤의 주요 헤드라인</b>
 
-<b>1. 호르무즈 해협 폐쇄 장기화 조짐...유가 상승세</b>
-<blockquote>호르무즈 해협 폐쇄가 장기화될 것이란 전망에 국제유가가 상승했다. 이란과의 전쟁으로 글로벌 원유 공급의 핵심 경로가 차단되면서 에너지 시장 불확실성이 커지고 있다.
-<a href="https://www.wsj.com/finance/commodities-futures/oil-rises-amid-prospects-of-prolonged-strait-of-hormuz-closure-a6aba1c3">[WSJ]</a></blockquote>
+<b>1. 차기 연준 의장 워시, 금리인하 여건 조성 실패...에너지 인플레이션이 발목</b>
+<blockquote>케빈 워시가 물려받는 경제 상황이 그가 원하던 것과 정반대로 흘러가고 있다. 워시는 금리 인하를 원하지만, 중동 전쟁 장기화로 에너지 가격이 급등하면서 인플레이션 압력이 되살아나 연준의 매파 전환 가능성이 커지고 있다.
+<a href="https://www.wsj.com/economy/central-banking/the-economy-kevin-warsh-is-inheriting-is-not-the-one-he-wanted-73ab43c2">[WSJ]</a></blockquote>
 
-<b>2. 이란발 에너지 위기 새 구간 진입...여름 피크 시즌 앞두고 재고 바닥</b>
-<blockquote>이란 전쟁으로 인한 에너지 공급 위기가 새로운 국면에 접어들었다. 원유 재고가 바닥나면서 각국 긴급 대응 조치가 확산되고 있으며, 여름 성수기를 앞두고 공급 부족이 더욱 악화될 전망이다.
-<a href="https://www.ft.com/content/f636f726-b185-4f6a-91d2-75ea3d1b9beb">[FT]</a> <a href="https://www.ft.com/content/08665686-f673-46ca-9dba-fd34e1546e7c">[FT]</a></blockquote>
+<b>2. 바이두 순이익 또 급락...AI 수익화 지연에 4분기 연속 매출 감소</b>
+<blockquote>중국 최대 검색엔진 바이두가 순이익 급락과 함께 4분기 연속 매출 감소를 기록했다. AI 투자에도 불구하고 수익으로 이어지지 않으면서 실적 부진이 이어지고 있다.
+<a href="https://www.wsj.com/business/earnings/baidus-profit-slides-again-amid-slow-ai-payoff-1060fbdb">[WSJ]</a></blockquote>
 
-<b>3. UAE 핵발전소 인근 드론 피격...이란 전쟁 확산 국면</b>
-<blockquote>UAE 바라카 원전 인근에서 드론 공격으로 화재가 발생했다. 당국은 방사능 수치가 정상이며 부상자는 없다고 밝혔으나, 중동 전쟁이 걸프 핵심 인프라로 확대되면서 전쟁 리스크 프리미엄이 급등하고 있다.
-<a href="https://www.wsj.com/world/middle-east/drone-strike-sparks-fire-near-u-a-e-nuclear-plant-b061ab0d">[WSJ]</a> <a href="https://www.ft.com/content/c4b786a6-55d4-4689-b19e-48a48f7946e6">[FT]</a></blockquote>
+<b>3. 라이언에어, 여름 성수기 앞두고 가격 약세 경고...연료비 급등에 주가 급락</b>
+<blockquote>유럽 최대 저가항공사 라이언에어가 여름 성수기를 앞두고 항공권 가격 약세와 막판 예약 감소를 경고했다. 이란 전쟁 여파로 항공유 비용이 급등하면서 수익성 악화 우려가 커지자 주가가 급락했다.
+<a href="https://www.wsj.com/business/airlines/ryanair-sees-weaker-pricing-as-travelers-hold-off-on-bookings-98208d6f">[WSJ]</a></blockquote>
 
-<b>4. 연준 매파 전환 우려 부상...인플레 압력 재점화</b>
-<blockquote>에너지 가격 급등으로 인플레이션 우려가 되살아나면서 연준의 매파적 정책 전환 가능성이 부각되고 있다. 시장에서는 금리 인상 기대가 강화되며 채권·금 등 안전자산 수요에 영향을 미치는 중이다.
-<a href="https://www.ft.com/content/e92afb1c-6abc-4883-b268-98b91c1a9679">[FT]</a></blockquote>
+<b>4. 유럽 천연가스 가격 50유로 돌파...중동 전쟁 장기화에 공급 불안 심화</b>
+<blockquote>유럽 천연가스 가격이 메가와트시당 50유로를 넘어섰다. 이란 전쟁이 해결 기미 없이 장기화하면서 트레이더들의 공급 불안 심리가 커지고 있다.
+<a href="https://www.wsj.com/finance/commodities-futures/european-gas-prices-rise-as-iran-war-drags-on-0466ca50">[WSJ]</a></blockquote>
 
-<b>5. 글로벌 국채 매도세 확산...일본 국채도 동반 하락</b>
-<blockquote>글로벌 국채 시장에서 매도세가 확산되며 일본 국채(JGB)도 도쿄 장 초반 가격이 하락했다. 연준 금리 인상 기대와 에너지 위기로 인한 인플레 압력이 채권 약세를 부추기고 있다.
-<a href="https://www.wsj.com/finance/investing/jgbs-slide-on-global-bond-selloff-789740a2">[WSJ]</a></blockquote>
+<b>5. 장기 국채금리 추가 상승 시 유로화 압박 전망</b>
+<blockquote>유로존 장기물 국채금리가 추가로 오를 경우 유로화가 압박받을 수 있다는 관측이 나왔다. 에너지 인플레이션으로 채권 매도세가 이어지면서 통화 약세 우려가 제기됐다.
+<a href="https://www.wsj.com/finance/currencies/asian-currencies-weaken-amid-rising-oil-prices-65c0852f">[WSJ]</a></blockquote>
 
-<b>6. 금값 약세 압력...연준 금리인상 기대에 매력 감소</b>
-<blockquote>금값이 아시아 장 초반 횡보세를 보이며 약세 압력에 노출됐다. 연준 금리 인상 기대가 강화되면서 무이자 자산인 금의 매력이 줄어들고 있다는 분석이다.
-<a href="https://www.wsj.com/finance/commodities-futures/gold-consolidates-may-be-weighed-by-fed-rate-hike-expectations-0d9492fb">[WSJ]</a></blockquote>
+<b>6. 앵글로아메리칸, 호주 원료탄 자산 최대 38.8억 달러에 매각...텍 인수 앞두고 포트폴리오 단순화</b>
+<blockquote>앵글로아메리칸이 호주 원료탄 자산을 최대 38.8억 달러에 매각하며 원료탄 사업에서 완전히 손을 뗀다. 텍 리소시스와의 합병을 앞두고 사업 포트폴리오를 단순화하려는 전략의 일환이다.
+<a href="https://www.wsj.com/business/deals/anglo-american-to-sell-steelmaking-coal-assets-to-dhilmar-for-up-to-3-875-billion-064418cc">[WSJ]</a></blockquote>
 
-<b>7. 미중, 무역·투자 협의체 설립 합의...베이징 회담 핵심 성과</b>
-<blockquote>백악관은 트럼프-시진핑 정상회담에서 양국이 무역·투자 협의체 설립에 합의했다고 밝혔다. 무역전쟁 와중에 '안정성'을 촉진하기 위한 조치로, 긴장 완화 신호로 해석된다.
-<a href="https://www.ft.com/content/aed42b42-0ca2-4104-848a-c8bca33fd837">[FT]</a> <a href="https://www.wsj.com/world/china/china-says-it-has-agreed-with-u-s-to-set-up-trade-and-investment-bodies-f4752b03">[WSJ]</a></blockquote>
+<b>7. 스위스 1분기 GDP 0.5% 성장...하지만 이란 전쟁이 회복 발목 잡을 전망</b>
+<blockquote>스위스 경제가 1분기 0.5% 성장하며 회복세를 이어갔다. 하지만 이란 전쟁 장기화가 앞으로 수개월간 스위스 경제 회복을 위협할 수 있다는 우려가 나온다.
+<a href="https://www.wsj.com/economy/swiss-economy-expands-again-7c5e2890">[WSJ]</a></blockquote>
 
-<b>8. 우크라 모스크바 대규모 드론 공격...젤렌스키 "정당한 보복"</b>
-<blockquote>우크라이나가 올해 들어 최대 규모의 드론 공격으로 모스크바를 타격했다. 젤렌스키 대통령은 러시아의 키이우 폭격에 대한 정당한 보복이라며 공격 책임을 인정했다. 장거리 타격 능력 강화로 전쟁이 러시아 본토로 확산되고 있다.
-<a href="https://www.wsj.com/world/russia/ukraine-increases-pressure-on-russia-with-biggest-strikes-on-moscow-this-year-6a75d265">[WSJ]</a> <a href="https://www.ft.com/content/c7e98e0b-90c4-4602-86d7-5a99b1b0b7ab">[FT]</a></blockquote>
+<b>8. 인플레이션 우려에 글로벌 채권 매도세 확대...미국·일본 금리 동반 상승</b>
+<blockquote>에너지 가격 급등으로 인플레이션 우려가 커지면서 글로벌 채권시장에서 매도세가 확대됐다. 미국과 일본 국채금리가 동반 상승하며 투자자들의 불안 심리가 반영됐다.
+<a href="https://www.ft.com/content/1a33355b-b080-49f6-88e1-e613843a8af0">[FT]</a></blockquote>
 
-<b>9. 아시아 산업 슈퍼사이클 전망...AI·에너지·방산이 성장 동력</b>
-<blockquote>아시아가 산업 슈퍼사이클에 진입하고 있다는 분석이 나왔다. AI뿐 아니라 에너지, 방산, 산업 설비투자(capex)가 향후 성장을 견인할 것으로 전망된다.
-<a href="https://www.ft.com/content/8f941e6a-8b78-4408-8703-78ef9e61d82a">[FT]</a></blockquote>
+<b>9. 일본 다카이치 총리, 이란 위기 대응 추경예산 편성 선회...국채 추가 발행 우려</b>
+<blockquote>일본 다카이치 총리가 수 주간 부인해오던 추경예산 편성을 전격 결정했다. 이란 에너지 위기 대응을 위한 조치지만, 국채 추가 발행으로 이어질 가능성에 시장이 우려하고 있다.
+<a href="https://www.ft.com/content/865ef75d-9499-4822-a9aa-1ab4199253c0">[FT]</a></blockquote>
 
-<b>10. 영국 기업투자 성장률, 美 절반 수준...격차 확대</b>
-<blockquote>영국의 기업 투자 증가율이 미국의 절반에도 미치지 못하는 것으로 나타났다. 2019년 이후 양국 간 투자 성장 격차가 뚜렷하게 벌어지고 있다.
-<a href="https://www.ft.com/content/c182ac84-8d6f-4f2f-a1ba-3961c55fc5f3">[FT]</a></blockquote>
+<b>10. 영국 주택가격 5월 1.2% 상승...10년래 최고 상승률 기록</b>
+<blockquote>라이트무브에 따르면 영국 주택 평균 가격이 5월 1.2% 올라 지난 10년간 5월 평균 상승률 1.0%를 넘어섰다. 주택시장 회복세가 10년 만에 최고 수준으로 강화되고 있다.
+<a href="https://www.wsj.com/finance/investing/u-k-home-price-rise-in-may-reaches-10-year-high-rightmove-says-00ebb6e2">[WSJ]</a></blockquote>
 
-<b>11. 영국-걸프 무역협정 임박...럭셔리카·금융 수혜</b>
-<blockquote>영국이 걸프 국가들과의 무역협정 체결을 눈앞에 뒀다. 오랫동안 협상해온 이번 합의는 영국 럭셔리 자동차와 금융서비스 산업에 큰 수혜를 줄 것으로 기대된다.
-<a href="https://www.ft.com/content/51379a6a-3ed1-427c-b303-d1491b863ece">[FT]</a></blockquote>
+<b>11. 중국 4월 경제지표 예상외 둔화...소비·투자·부동산 전방위 위축</b>
+<blockquote>중국 4월 경제활동 지표가 예상을 밑돌며 광범위한 둔화 조짐을 보였다. 소비, 투자, 부동산 부문이 모두 주춤하면서 경기 모멘텀이 약화되고 있다는 분석이다.
+<a href="https://www.wsj.com/economy/chinas-april-activity-data-weakens-despite-export-strength-d6e12d09">[WSJ]</a></blockquote>
 
-<b>12. WHO, 콩고 에볼라 발병에 글로벌 보건 비상사태 선포</b>
-<blockquote>세계보건기구(WHO)가 콩고민주공화국 에볼라 발병에 대해 국제 공중보건 비상사태를 선포했다. 약 80명이 사망한 이번 전염병이 현재 파악된 것보다 더 큰 규모일 수 있다는 우려에서다. 희귀 변종이 우간다로 확산된 상황이다.
-<a href="https://www.wsj.com/world/africa/who-declares-global-health-emergency-after-ebola-outbreak-in-congo-4ec2b74b">[WSJ]</a> <a href="https://www.ft.com/content/aa55ba2b-8476-4718-8d28-5f60df6ff19c">[FT]</a></blockquote>
+<b>12. 유럽 정유업체·항공사, 제트연료 부족 사태 피할 수 있다고 자신...미국·아프리카산 수입 확대</b>
+<blockquote>유럽 정유업체와 항공사들이 제트연료 부족 사태를 피할 수 있다는 자신감을 보였다. 정유사들이 생산을 최대치로 늘리고 미국 및 아프리카산 수입을 확대해 중동 공급 차질을 메우고 있다.
+<a href="https://www.ft.com/content/ceaaff8e-719f-4fa6-b64f-491c05fb2fcc">[FT]</a></blockquote>
 
-━━━━━━━━━━━━━━━━━━━━
-📡 <b>출처: WSJ · FT · The Economist</b>
+<b>13. 미 방산업체, 중국산 희토류 자석 금지 유예 촉구...수 년 준비했지만 수개월 앞두고 혼란</b>
+<blockquote>미국 방산업체들이 중국산 희토류 자석 사용 금지 조치의 시행 유예를 요청하고 있다. 수년간 준비해온 조치지만 시행까지 수개월밖에 남지 않은 시점에서 대체 공급망 확보에 어려움을 겪고 있다.
+<a href="https://www.ft.com/content/4d6651e1-17ff-4a72-b30b-065322cd58d0">[FT]</a></blockquote>
+
+<b>14. 트럼프 이란 전쟁, 미국인에 400억 달러 연료비 폭탄...교량 수리비·항공관제 예산 초과</b>
+<blockquote>이란 전쟁으로 미국인들이 휘발유와 경유에 추가로 지출하는 비용이 400억 달러에 달한다. 이는 미국 전역 교량 수리 비용이나 항공관제 시스템 재정비 예산을 웃도는 규모다.
+<a href="https://www.ft.com/content/32ff9d8d-0103-42f8-8a78-10e2216b8fe2">[FT]</a></blockquote>
+
+<b>15. 중국이 어떻게 미국의 시장 지배를 돕는가...금융 역량 부족이 달러 패권 굳혀</b>
+<blockquote>중국이 경제 규모에 비해 금융 강국으로 성장하지 못하면서 역설적으로 미국의 글로벌 금융시장 지배력을 강화하는 결과를 낳고 있다. 중국의 자본시장 발전 제약이 달러 패권을 공고히 하고 있다는 분석이다.
+<a href="https://www.ft.com/content/6228616c-0231-4926-ac1b-7125759c34a7">[FT]</a></blockquote>
+
+<b>16. 영국 재정의 '이탈리아화'...정치 혼란과 예산 부족에 투자자들 경계</b>
+<blockquote>투자자들이 영국의 잦은 정치 혼선과 재정 적자를 경계하고 있다. 영국 재정이 이탈리아처럼 정치 불안정과 만성 적자 문제에 시달릴 수 있다는 우려가 커지고 있다.
+<a href="https://www.ft.com/content/fa96e027-6727-484b-895b-c1f193b0ce35">[FT]</a></blockquote>
+
+<b>17. EU, 기업에 비(非)중국 부품 의무 구매 강제 추진...화학·기계 업종 겨냥</b>
+<blockquote>유럽연합이 역내 기업들에 중국산이 아닌 부품을 의무적으로 구매하도록 강제하는 규정을 추진 중이다. 화학 및 산업 기계 제조업체를 주요 대상으로 삼고 있다.
+<a href="https://www.ft.com/content/57b4852c-f323-45b8-b8d0-5a6426dd781e">[FT]</a></blockquote>
+
+<b>18. 자산운용사·헤지펀드, 전쟁 와중에도 중동 투자 확대 의지...장기 성장 전망 주목</b>
+<blockquote>글로벌 자산운용사와 헤지펀드들이 이란 전쟁에도 불구하고 중동 지역 투자 확대 계획을 유지하고 있다. 현재 혼란을 넘어 중동의 장기 성장 잠재력에 주목하고 있다는 입장이다.
+<a href="https://www.ft.com/content/d4dd2412-57f9-4973-81e1-c637e148f8d6">[FT]</a></blockquote>
+
+<b>19. 중동 분쟁에 주택담보대출 비용 급등...중앙은행 금리 동결에도 대출금리는 오름세</b>
+<blockquote>중동 분쟁 여파로 북미와 유럽에서 주택담보대출 비용이 크게 올랐다. 각국 중앙은행이 금리를 동결하고 있지만 채권금리 상승으로 대출 비용이 올라가고 있다.
+<a href="https://www.ft.com/content/5e7f4da1-6cb4-44d8-9bce-4ddad53c7fd1">[FT]</a></blockquote>
+
+<b

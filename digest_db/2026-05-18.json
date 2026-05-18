@@ -1,5 +1,365 @@
 [
   {
+    "url": "https://www.wsj.com/tech/ai/move-over-coreweave-here-comes-nebius-5fbe89bf",
+    "title": "Move Over CoreWeave, Here Comes Nebius",
+    "summary": "With AI cloud competition heating up, this company that used to own Russia’s biggest search engine is making its case.",
+    "source": "WSJ",
+    "section": "markets",
+    "published": "2026-05-18T09:30:00+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/economy/central-banking/the-economy-kevin-warsh-is-inheriting-is-not-the-one-he-wanted-73ab43c2",
+    "title": "The economy Kevin Warsh is inheriting isn't the one he wanted",
+    "summary": "The next Fed chair wants lower rates. But the data might make that impossible.",
+    "source": "WSJ",
+    "section": "economy",
+    "published": "2026-05-18T09:30:00+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/business/media/senators-work-to-ban-gambling-ads-targeting-minors-9cf39d00",
+    "title": "Senators Work to Ban Gambling Ads Targeting Minors",
+    "summary": "The legislation coincides with a boom in sports betting and prediction markets that has exacerbated fears about young people gambling.",
+    "source": "WSJ",
+    "section": "business",
+    "published": "2026-05-18T09:30:00+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/business/airlines/tsa-offsite-security-screening-be866b31",
+    "title": "TSA Experiments With Off-Site Screening to Relieve Airport Congestion",
+    "summary": "A pilot program for Delta and JetBlue passengers at Boston’s Logan Airport could expand.",
+    "source": "WSJ",
+    "section": "business",
+    "published": "2026-05-18T09:30:00+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/cfo-journal/the-academic-scramble-to-prepare-future-accountants-for-ai-ac9208fc",
+    "title": "The Academic Scramble to Prepare Future Accountants for AI",
+    "summary": "The school year is ending, but for accounting professors, the challenge of shaking up a traditionally static curriculum is just beginning.",
+    "source": "WSJ",
+    "section": "business",
+    "published": "2026-05-18T09:30:00+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/business/earnings/baidus-profit-slides-again-amid-slow-ai-payoff-1060fbdb",
+    "title": "Baidu’s Profit Slides Again Amid Slow AI Payoff",
+    "summary": "The Chinese search-engine operator recorded another sharp profit drop and a fourth straight quarter of revenue declines.",
+    "source": "WSJ",
+    "section": "business",
+    "published": "2026-05-18T09:25:00+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/business/airlines/ryanair-sees-weaker-pricing-as-travelers-hold-off-on-bookings-98208d6f",
+    "title": "Ryanair Shares Fall After Company Warns of Weaker Pricing, Late Bookings",
+    "summary": "The airline group warned of weakening prices into the key summer season, last-minute bookings and a spike in fuel costs.",
+    "source": "WSJ",
+    "section": "business",
+    "published": "2026-05-18T08:34:00+00:00"
+  },
+  {
+    "url": "https://www.ft.com/content/66aa99a3-5978-458c-93a9-3a916440a841",
+    "title": "What version of Manchesterism is Andy Burnham offering?",
+    "summary": "His success as a business-friendly metro mayor sits uneasily with his Labour positioning",
+    "source": "FT",
+    "section": "world",
+    "published": "2026-05-18T08:33:16+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/finance/commodities-futures/european-gas-prices-rise-as-iran-war-drags-on-0466ca50",
+    "title": "European Gas Prices Rise as Iran War Drags on",
+    "summary": "European natural-gas prices broke above 50 euros a megawatt-hour as traders see little sign of a resolution in the Middle East.",
+    "source": "WSJ",
+    "section": "markets",
+    "published": "2026-05-18T08:05:00+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-18-2026",
+    "title": "Stock Market Today: Stock Futures Slip Amid Mideast Pessimism",
+    "summary": "Mounting costs of war weigh on investors",
+    "source": "WSJ",
+    "section": "markets",
+    "published": "2026-05-18T08:04:15+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/finance/currencies/asian-currencies-weaken-amid-rising-oil-prices-65c0852f",
+    "title": "Euro Could Fall if Long-Dated Yields Rise Further",
+    "summary": "The euro could come under pressure if yields in long-dated eurozone government bond yields rise further.",
+    "source": "WSJ",
+    "section": "markets",
+    "published": "2026-05-18T07:55:00+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/business/deals/anglo-american-to-sell-steelmaking-coal-assets-to-dhilmar-for-up-to-3-875-billion-064418cc",
+    "title": "Anglo American to Sell Australian Steelmaking Coal Assets for Up to $3.875 Billion",
+    "summary": "The sale will complete Anglo American’s exit from steelmaking coal and is part of a drive to simplify its portfolio ahead of a merger with Teck Resources.",
+    "source": "WSJ",
+    "section": "business",
+    "published": "2026-05-18T07:47:00+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/economy/swiss-economy-expands-again-7c5e2890",
+    "title": "Swiss Economy Expands Again",
+    "summary": "GDP grew 0.5% in the first quarter, but the war in Iran threatens to derail Switzerland’s recovery in the coming months.",
+    "source": "WSJ",
+    "section": "economy",
+    "published": "2026-05-18T07:33:00+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/world/africa/u-s-forces-kill-about-20-islamic-state-fighters-in-nigeria-ad7b2bf4",
+    "title": "U.S. Airstrikes Kill About 20 Islamic State Fighters in Nigeria",
+    "summary": "The U.S. attacks came days after an operation that killed the group’s second in command.",
+    "source": "WSJ",
+    "section": "world",
+    "published": "2026-05-18T07:13:00+00:00"
+  },
+  {
+    "url": "https://www.ft.com/content/1a33355b-b080-49f6-88e1-e613843a8af0",
+    "title": "Bonds extend sell-off on inflation fears",
+    "summary": "US and Japanese yields rise amid investor concern over surge in energy prices",
+    "source": "FT",
+    "section": "markets",
+    "published": "2026-05-18T07:02:34+00:00"
+  },
+  {
+    "url": "https://www.ft.com/content/865ef75d-9499-4822-a9aa-1ab4199253c0",
+    "title": "Japan’s Takaichi calls for extra budget as Iran energy crisis bites",
+    "summary": "Prime minister’s U-turn follows weeks of denials and raises concerns that further bond issuance will be needed",
+    "source": "FT",
+    "section": "world",
+    "published": "2026-05-18T06:50:58+00:00"
+  },
+  {
+    "url": "https://www.ft.com/content/73039afd-a0b4-4ce7-9875-40b1fb312073",
+    "title": "Bonds bad",
+    "summary": "Plus, stocks bad",
+    "source": "FT",
+    "section": "markets",
+    "published": "2026-05-18T05:30:02+00:00"
+  },
+  {
+    "url": "https://www.ft.com/content/8e708b02-96cf-44be-8ac0-d1b6022bff11",
+    "title": "Fears of Samsung strike ease after court ruling",
+    "summary": "Shares rise after injunction restricts unions’ ability to halt production at South Korean chipmaker",
+    "source": "FT",
+    "section": "world",
+    "published": "2026-05-18T05:13:35+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/finance/investing/u-k-home-price-rise-in-may-reaches-10-year-high-rightmove-says-00ebb6e2",
+    "title": "U.K. Home Price Rise in May Reaches 10-Year High, Rightmove Says",
+    "summary": "The average price for the month was up 1.2%, compared with a typical average of 1% for the month over the past ten years.",
+    "source": "WSJ",
+    "section": "markets",
+    "published": "2026-05-18T05:07:00+00:00"
+  },
+  {
+    "url": "https://www.ft.com/content/d92d63a4-460d-416a-ae72-5e87a20a77c0",
+    "title": "EU races to find deal compromise as Trump tariff deadline looms",
+    "summary": "Also in this newsletter: European and Gulf leaders discuss Iran war fallout",
+    "source": "FT",
+    "section": "world",
+    "published": "2026-05-18T05:00:03+00:00"
+  },
+  {
+    "url": "https://www.ft.com/content/381fa2a2-cb54-4d2d-bcf0-c05dd493264d",
+    "title": "China is not Japan",
+    "summary": "But its real estate market has been doing a darn good impression",
+    "source": "FT",
+    "section": "world",
+    "published": "2026-05-18T05:00:03+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/economy/chinas-april-activity-data-weakens-despite-export-strength-d6e12d09",
+    "title": "China’s Economy Unexpectedly Weakens",
+    "summary": "Momentum slowed across the board as consumption, investment and real estate all stumbled.",
+    "source": "WSJ",
+    "section": "world",
+    "published": "2026-05-18T04:45:00+00:00"
+  },
+  {
+    "url": "https://www.ft.com/content/7d309f94-3618-4511-9778-d1447799c5e4",
+    "title": "Anthropic to brief global financial watchdog on cyber flaws exposed by Mythos",
+    "summary": "US tech group will discuss capabilities of its new AI model with members of the Financial Stability Board",
+    "source": "FT",
+    "section": "markets",
+    "published": "2026-05-18T04:00:22+00:00"
+  },
+  {
+    "url": "https://www.ft.com/content/c8f77520-e9db-4185-8725-3859aa5e86a3",
+    "title": "Too many young people pushed towards university, says UK government adviser",
+    "summary": "Former cabinet minister Alan Milburn to call for more funding for technical and vocational courses",
+    "source": "FT",
+    "section": "world",
+    "published": "2026-05-18T04:00:22+00:00"
+  },
+  {
+    "url": "https://www.ft.com/content/d74dea05-3054-41e7-9556-8f4debed3763",
+    "title": "Cambridge Science Park launches £3bn expansion plan",
+    "summary": "Hub for scientific and tech innovation aims to triple in size over next 30 years",
+    "source": "FT",
+    "section": "world",
+    "published": "2026-05-18T04:00:22+00:00"
+  },
+  {
+    "url": "https://www.ft.com/content/ceaaff8e-719f-4fa6-b64f-491c05fb2fcc",
+    "title": "European oil refiners and airlines confident jet fuel shortages can be avoided",
+    "summary": "Refiners maximise production and increase imports from US and Africa to offset loss of Middle Eastern supplies",
+    "source": "FT",
+    "section": "markets",
+    "published": "2026-05-18T04:00:13+00:00"
+  },
+  {
+    "url": "https://www.ft.com/content/4d6651e1-17ff-4a72-b30b-065322cd58d0",
+    "title": "Defence groups clamour to delay US ban on Chinese rare earth magnets",
+    "summary": "Military contractors want more time to comply with prohibition years in the making and now just months away",
+    "source": "FT",
+    "section": "markets",
+    "published": "2026-05-18T04:00:13+00:00"
+  },
+  {
+    "url": "https://www.ft.com/content/32ff9d8d-0103-42f8-8a78-10e2216b8fe2",
+    "title": "Donald Trump’s Iran war hits Americans with $40bn fuel bill",
+    "summary": "Extra spending on petrol and diesel exceeds cost of repairing country’s bridges or rebooting air traffic control",
+    "source": "FT",
+    "section": "markets",
+    "published": "2026-05-18T04:00:13+00:00"
+  },
+  {
+    "url": "https://www.ft.com/content/978bda91-9215-45f8-861f-5c616cddfa4b",
+    "title": "Jim Ratcliffe’s Ineos takes €200mn punt on chemical sector peers",
+    "summary": "Group invests in basket of company equities and tells bondholders the sector is ‘undervalued’",
+    "source": "FT",
+    "section": "markets",
+    "published": "2026-05-18T04:00:13+00:00"
+  },
+  {
+    "url": "https://www.ft.com/content/19e68223-1b35-41e7-b1f2-2633f9d618db",
+    "title": "UBS: the bank that outgrew a country",
+    "summary": "Can a state with 9mn people host a financial behemoth?",
+    "source": "FT",
+    "section": "markets",
+    "published": "2026-05-18T04:00:13+00:00"
+  },
+  {
+    "url": "https://www.ft.com/content/846479c8-4ab0-4812-a1d5-08abdd8b952b",
+    "title": "The fate of OpenAI’s $1tn IPO will be decided in an Oakland jury room",
+    "summary": "Elon Musk’s legal challenge could derail the AI start-up’s commercial ambitions",
+    "source": "FT",
+    "section": "markets",
+    "published": "2026-05-18T04:00:13+00:00"
+  },
+  {
+    "url": "https://www.ft.com/content/6228616c-0231-4926-ac1b-7125759c34a7",
+    "title": "How China enables American domination",
+    "summary": "It is a stunted financial power, leaving the US free to rule global markets",
+    "source": "FT",
+    "section": "markets",
+    "published": "2026-05-18T04:00:13+00:00"
+  },
+  {
+    "url": "https://www.ft.com/content/fa96e027-6727-484b-895b-c1f193b0ce35",
+    "title": "The Italianisation of Britain’s finances",
+    "summary": "Investors have watched the UK’s political flip-flopping and budgetary shortfalls with alarm",
+    "source": "FT",
+    "section": "markets",
+    "published": "2026-05-18T04:00:13+00:00"
+  },
+  {
+    "url": "https://www.ft.com/content/57b4852c-f323-45b8-b8d0-5a6426dd781e",
+    "title": "EU plans to force companies to buy parts from non-Chinese suppliers",
+    "summary": "Proposed rules seek to target chemicals and industrial machinery makers",
+    "source": "FT",
+    "section": "world",
+    "published": "2026-05-18T04:00:13+00:00"
+  },
+  {
+    "url": "https://www.ft.com/content/9d0b3cb4-04e9-45d4-9832-80a437b37bb4",
+    "title": "Transcript of an interview with Sarah Breeden",
+    "summary": "Transcript from an interview with the deputy governor of the Bank of England",
+    "source": "FT",
+    "section": "world",
+    "published": "2026-05-18T04:00:13+00:00"
+  },
+  {
+    "url": "https://www.ft.com/content/d4dd2412-57f9-4973-81e1-c637e148f8d6",
+    "title": "Investment firms look beyond Iran war to expand in Middle East",
+    "summary": "Asset managers and hedge funds say they remain committed to the region despite the current disruption",
+    "source": "FT",
+    "section": "markets",
+    "published": "2026-05-18T04:00:04+00:00"
+  },
+  {
+    "url": "https://www.ft.com/content/5e7f4da1-6cb4-44d8-9bce-4ddad53c7fd1",
+    "title": "Mortgage costs rise sharply on Middle East conflict",
+    "summary": "Home loans have become more expensive in North America and Europe despite central banks keeping rates on hold",
+    "source": "FT",
+    "section": "world",
+    "published": "2026-05-18T04:00:04+00:00"
+  },
+  {
+    "url": "https://www.ft.com/content/2a6c1cb9-6c11-41c8-a8ea-a367b8799126",
+    "title": "Germany goes from labour shortages to hiring freezes",
+    "summary": "Once one of the Eurozone’s strongest jobs markets, the number of unemployed has topped 3mn for the first time in 15 years",
+    "source": "FT",
+    "section": "world",
+    "published": "2026-05-18T04:00:04+00:00"
+  },
+  {
+    "url": "https://www.ft.com/content/95a51a35-950f-4143-a20b-088f7c42b4ff",
+    "title": "BoE should not be ‘trigger happy’ on rates, says top official",
+    "summary": "Sarah Breeden warns of hit to business from political uncertainty",
+    "source": "FT",
+    "section": "world",
+    "published": "2026-05-18T04:00:04+00:00"
+  },
+  {
+    "url": "https://www.ft.com/content/1ee1dd82-ccdc-4da0-9d75-c8af3bbcd70b",
+    "title": "The Islamists battling Sudan’s ruthless paramilitaries",
+    "summary": "Role of brigades that helped Sudanese army win battles against RSF militia has alarmed Washington and Abu Dhabi",
+    "source": "FT",
+    "section": "world",
+    "published": "2026-05-18T04:00:04+00:00"
+  },
+  {
+    "url": "https://www.ft.com/content/b0283843-21e6-42e2-bc71-b98cacf107f7",
+    "title": "Are we at the tipping point for global energy supplies?",
+    "summary": "Nearly 80 countries have introduced emergency measures as oil stockpiles run low",
+    "source": "FT",
+    "section": "world",
+    "published": "2026-05-18T04:00:00+00:00"
+  },
+  {
+    "url": "https://www.ft.com/content/5b1dcd37-7567-4302-9f7a-424ec7e43ee0",
+    "title": "China warns of ‘severe’ global conditions as economy shows weakness",
+    "summary": "April industrial output and retail sales growth slow as Iran crisis hits consumer confidence",
+    "source": "FT",
+    "section": "economy",
+    "published": "2026-05-18T03:50:54+00:00"
+  },
+  {
+    "url": "https://www.ft.com/content/dc1ad108-dc2e-4635-8e5d-75bfd9840a50",
+    "title": "Leaders’ judgment matters more than ever in the age of AI",
+    "summary": "A professor explores how to hone abilities too rarely nurtured in business schools",
+    "source": "FT",
+    "section": "us",
+    "published": "2026-05-18T03:30:03+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/world/kyiv-enters-a-hopeful-spring-after-surviving-the-wars-darkest-winter-2c65b0a4",
+    "title": "Kyiv Enters a Hopeful Spring After Surviving the War’s Darkest Winter",
+    "summary": "Warm weather and battlefield success have infused Ukraine’s capital city with optimism, even as bombs fall.",
+    "source": "WSJ",
+    "section": "world",
+    "published": "2026-05-18T03:00:00+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/business/energy-oil/the-world-cant-get-enough-u-s-energy-keeping-prices-high-for-americans-77f0b63f",
+    "title": "The World Can’t Get Enough U.S. Energy, Keeping Prices High for Americans",
+    "summary": "Overseas buyers are looking to America for oil and transportation fuels, helping deplete its domestic inventories.",
+    "source": "WSJ",
+    "section": "markets",
+    "published": "2026-05-18T02:00:00+00:00"
+  },
+  {
     "url": "https://www.wsj.com/finance/investing/jgbs-slide-on-global-bond-selloff-789740a2",
     "title": "JGBs Slide on Global Bond Selloff",
     "summary": "JGBs slide in price terms in early Tokyo session on a global government bond selloff.",
