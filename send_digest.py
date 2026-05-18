@@ -85,23 +85,33 @@ def split_message(text: str, limit: int = MAX_MSG_LEN) -> list[str]:
 
 async def send(text: str) -> None:
     bot = Bot(token=TELEGRAM_BOT_TOKEN)
-    chunks = split_message(text)
-    total = len(chunks)
+    # 레이블 포함한 최종 청크 생성 (레이블 길이까지 감안해 분할)
+    raw_chunks = split_message(text)
+    total = len(raw_chunks)
 
-    for i, chunk in enumerate(chunks, 1):
-        label = f"\n\n({'계속 ' + str(i) + '/' + str(total) if total > 1 else ''})" if total > 1 else ""
+    final_chunks = []
+    for i, chunk in enumerate(raw_chunks, 1):
+        label = f"\n\n(계속 {i}/{total})" if total > 1 else ""
+        final_chunks.append(chunk + label)
+
+    failed = 0
+    for i, chunk in enumerate(final_chunks, 1):
         try:
             await bot.send_message(
                 chat_id=DIGEST_CHAT_ID,
-                text=chunk + label,
+                text=chunk,
                 parse_mode=ParseMode.HTML,
                 disable_web_page_preview=True,
             )
-            print(f"[{i}/{total}] 발송 완료")
+            print(f"[{i}/{total}] 발송 완료  ({len(chunk)}자)")
             if i < total:
-                await asyncio.sleep(1)
+                await asyncio.sleep(2)
         except TelegramError as e:
             print(f"[오류] 발송 실패 ({i}/{total}): {e}")
+            failed += 1
+
+    if failed:
+        sys.exit(f"[실패] {failed}건 전송 오류 — 위 로그 확인")
 
 
 def main():

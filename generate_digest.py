@@ -123,6 +123,29 @@ def write_digest(client: anthropic.Anthropic, articles: list[dict], plan: str) -
 
 
 # ─────────────────────────────────────────────────────────────────
+# HTML 정제 — 텔레그램이 허용하지 않는 태그 속성 제거
+# ─────────────────────────────────────────────────────────────────
+def sanitize_html(text: str) -> str:
+    """
+    텔레그램 HTML 모드는 <b>, <i>, <u>, <s>, <a href="...">, <blockquote>,
+    <code>, <pre> 만 지원한다.
+    Claude 가 <b > (공백) 또는 <b class="..."> 등을 출력할 경우 파싱 오류 발생.
+    → 허용 태그에서 속성을 모두 제거하고, 그 외 태그는 이스케이프 처리.
+    """
+    # 속성 있는 단순 태그 → 속성 제거 (<b style="x"> → <b>)
+    for tag in ("b", "strong", "i", "em", "u", "s", "strike", "del", "code", "blockquote"):
+        text = re.sub(rf'<{tag}\s[^>]*>', f'<{tag}>', text, flags=re.IGNORECASE)
+    # <a> 는 href 만 남긴다 (<a href="URL" target="_blank"> → <a href="URL">)
+    text = re.sub(
+        r'<a\s+[^>]*href=["\']([^"\']+)["\'][^>]*>',
+        r'<a href="\1">',
+        text,
+        flags=re.IGNORECASE,
+    )
+    return text
+
+
+# ─────────────────────────────────────────────────────────────────
 # {DATE} 복원
 # ─────────────────────────────────────────────────────────────────
 def restore_date_placeholder(text: str) -> str:
@@ -152,6 +175,7 @@ def main():
     print("Claude API 호출 중... (2단계)")
     plan   = plan_digest(client, articles)
     digest = write_digest(client, articles, plan)
+    digest = sanitize_html(digest)
     digest = restore_date_placeholder(digest)
 
     DIGEST_FILE.write_text(digest, encoding="utf-8")
