@@ -232,8 +232,7 @@ def filter_with_haiku(
 # ─────────────────────────────────────────────────────────────────
 
 def format_alert(articles: list[dict]) -> str:
-    now_kst = datetime.now(KST).strftime("%H:%M")
-    parts = [f"🔔 <b>마켓 업데이트</b> [{now_kst} KST]\n━━━━━━━━━━━━━━━━━━━━"]
+    parts = []
 
     for i, a in enumerate(articles, 1):
         summary = a["summary"][:200] if a["summary"] else ""
