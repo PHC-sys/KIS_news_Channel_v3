@@ -1,104 +1,128 @@
-🌙 <b>간밤의 글로벌 마켓 뉴스</b>
-[{DATE} | WSJ · FT · Economist ]
+🌙 **간밤의 글로벌 마켓 뉴스**
+[ 2026. 5. 19. | WSJ · FT · Economist ]
 ━━━━━━━━━━━━━━━━━━━━
 
-✅ <b>간밤의 주요 헤드라인</b>
+✅ **간밤의 주요 헤드라인**
 
-<b>1. 트럼프, 이란 공습 2~3일 연기...걸프 지도자들 협상 시간 요청</b>
-<blockquote>트럼프 대통령이 화요일로 예정됐던 이란 공습을 2~3일 유예한다고 밝혔다. UAE·사우디·카타르 등 걸프 지도자들이 이란과의 전쟁 종결 협상을 위해 시간을 달라고 요청했다는 것이 이유다. 호르무즈 해협 재개방 협상이 진전될지 주목된다.
+<b>1. 트럼프, 화요일 이란 공격 보류 발표...걸프 산유국 협상 요청 수용</b>
+<blockquote>트럼프 대통령이 화요일로 예정됐던 이란 공격을 잠정 보류한다고 발표했다. UAE·사우디·카타르 등 걸프 지도자들이 이란과 평화 협상 기회를 위해 2~3일 공격 유예를 요청했다. 호르무즈 해협은 여전히 봉쇄 상태다.
 <a href="https://www.wsj.com/world/middle-east/trump-says-he-will-hold-off-on-iran-attack-as-serious-negotiations-are-under-way-7ff01a96">[WSJ]</a> <a href="https://www.ft.com/content/5cce5b90-a84d-4d4f-b271-de7940ac92c3">[FT]</a></blockquote>
 
-<b>2. 미국, 이란發 유가 억제 위해 러시아 석유 제재 30일 연장 승인</b>
-<blockquote>미국 정부가 러시아산 석유에 대한 30일 만기 제재 면제 라이선스를 갱신했다. 이란 전쟁으로 치솟은 유가를 억제하기 위해 글로벌 공급망을 유지하려는 조치로 풀이된다. 소비자 부담이 정책 우선순위로 떠올랐다.
+<b>2. 미국, 러시아산 석유 제재 30일 연장...이란發 유가 급등 억제 시도</b>
+<blockquote>미국이 러시아산 석유 제재 라이선스를 30일 연장했다. 이란 전쟁으로 인한 연료비 급등이 미국 소비자를 압박하자 공급 감소를 최소화하려는 조치로 풀이된다.
 <a href="https://www.ft.com/content/df5fca22-d057-444f-b430-32623b196d00">[FT]</a></blockquote>
 
-<b>3. 유가 상승세 지속...호르무즈 장기 폐쇄에 재고 바닥 우려</b>
-<blockquote>원유 선물이 상승세를 이어갔다. 호르무즈 해협 폐쇄가 계속되면서 글로벌 원유 재고가 빠르게 감소하고 있지만, 미국과 이란 간 합의 전망은 여전히 불투명하다. 일각에서는 공급 차질 완화 기대로 가격 하락세를 전망하기도 한다.
-<a href="https://www.wsj.com/finance/commodities-futures/oil-rises-amid-prospects-of-prolonged-strait-of-hormuz-closure-a6aba1c3">[WSJ]</a> <a href="https://www.wsj.com/finance/commodities-futures/oil-falls-as-supply-disruption-concerns-ease-550f49df">[WSJ]</a></blockquote>
+<b>3. 국제유가 상승 지속...호르무즈 봉쇄 장기화로 재고 소진 우려</b>
+<blockquote>원유 선물이 상승세를 이어갔다. 호르무즈 해협 폐쇄 장기화로 글로벌 재고가 빠르게 소진되고 있으며, 미국-이란 간 합의 전망도 불투명하다는 우려가 시장을 압박했다.
+<a href="https://www.wsj.com/finance/commodities-futures/oil-rises-amid-prospects-of-prolonged-strait-of-hormuz-closure-a6aba1c3">[WSJ]</a></blockquote>
 
-<b>4. 미 천연가스 선물 4거래일 연속 상승...남부·동부 냉방 수요 급증</b>
-<blockquote>미국 천연가스 선물이 4거래일째 상승세를 이어갔다. 남부와 동부 지역에서 기온이 오르면서 발전 부문의 가스 수요가 늘어난 영향이다. 이번 주 후반 기온이 다소 낮아질 것으로 예상되지만 여름 성수기 진입을 앞두고 시장 긴장이 높아지고 있다.
+<b>4. 금 가격 하락, 국채 수익률 상승...이란 평화 협상 기대감 반영</b>
+<blockquote>금 선물이 아시아 장 초반 하락 전환했다. 미국-이란 평화 협상 기대감이 안전자산 수요를 줄였고, 유가 하락 전망도 인플레 압력 완화 기대를 키웠다. 국채 수익률은 소폭 상승했다.
+<a href="https://www.wsj.com/finance/commodities-futures/gold-rises-amid-hopes-for-u-s-iran-peace-deal-5d83a4b1">[WSJ]</a> <a href="https://www.wsj.com/finance/commodities-futures/oil-falls-as-supply-disruption-concerns-ease-550f49df">[WSJ]</a></blockquote>
+
+<b>5. 미국 천연가스 선물 4거래일 연속 상승...남부·동부 냉방 수요 급증</b>
+<blockquote>미국 천연가스 선물이 4거래일째 상승했다. 남부와 동부 지역 폭염으로 발전 수요가 증가했으며, 주 후반 날씨 완화 전망에도 불구하고 강세가 이어졌다.
 <a href="https://www.wsj.com/finance/commodities-futures/european-gas-prices-rise-as-iran-war-drags-on-0466ca50">[WSJ]</a></blockquote>
 
-<b>5. 금 가격 3거래일 연속 하락...이란 평화 협상 기대에 안전자산 수요 위축</b>
-<blockquote>금 선물이 0.07% 하락한 온스당 $4,552.50에 마감하며 3일 연속 내림세를 보였다. 미국-이란 평화 협상에 대한 기대가 커지면서 안전자산 선호가 약화됐다. 은 역시 0.1% 하락했다.
-<a href="https://www.wsj.com/finance/commodities-futures/gold-consolidates-may-be-weighed-by-fed-rate-hike-expectations-0d9492fb">[WSJ]</a> <a href="https://www.wsj.com/finance/commodities-futures/gold-rises-amid-hopes-for-u-s-iran-peace-deal-5d83a4b1">[WSJ]</a></blockquote>
-
-<b>6. 일본 1분기 경제성장 가속화...BOJ 금리인상 근거 강화</b>
-<blockquote>일본 경제가 2026년 1분기에도 성장 탄력을 이어갔다. 이번 결과는 일본은행(BOJ)의 조만간 금리 인상 가능성을 뒷받침하는 자료로 평가된다. 시장은 BOJ 정책 결정 시점에 주목하고 있다.
+<b>6. 일본 1분기 GDP 성장 가속...BOJ 금리인상 근거 강화</b>
+<blockquote>일본 경제가 2026년 1분기에도 확장세를 이어갔다. 성장률이 예상을 웃돌며 일본은행(BOJ)의 조기 금리인상 명분이 강화됐다.
 <a href="https://www.wsj.com/economy/japans-economy-accelerated-in-first-quarter-backing-case-for-rate-hikes-2a7c5f55">[WSJ]</a></blockquote>
 
-<b>7. 일본 국채 반등...전일 급락 후 기술적 되살림에 미국-이란 평화 기대 작용</b>
-<blockquote>도쿄 장 초반 일본 국채(JGB) 가격이 대부분 상승했다. 월요일 매도세 이후 기술적 반등이 나타났고, 미국-이란 평화 협상 기대가 안전자산 수요를 되살렸다. 일본 금리 인상 우려는 여전히 채권 시장의 변동 요인이다.
-<a href="https://www.wsj.com/finance/investing/jgbs-mostly-rise-on-likely-technical-rebound-u-s-iran-peace-deal-hopes-051df85a">[WSJ]</a> <a href="https://www.wsj.com/finance/investing/jgbs-slide-on-global-bond-selloff-789740a2">[WSJ]</a></blockquote>
+<b>7. 일본 국채 수익률 상승...미국-이란 평화 협상 기대에 기술적 반등</b>
+<blockquote>일본 국채(JGB)가 도쿄 장 초반 가격 상승(수익률 하락) 전환했다. 전날 매도세 이후 기술적 반등과 미국-이란 평화 협상 기대감이 수익률 상승 압력을 일시 완화했다.
+<a href="https://www.wsj.com/finance/investing/jgbs-mostly-rise-on-likely-technical-rebound-u-s-iran-peace-deal-hopes-051df85a">[WSJ]</a></blockquote>
 
-<b>8. 미 국채 금리 소폭 상승...중동 정세 변수에 시장 관망세</b>
-<blockquote>미국 국채 금리가 소폭 올랐다. 투자자들은 중동 정세의 다음 전개 양상을 지켜보며 거래를 자제했다. 이란 협상 진전 여부가 채권 시장의 방향을 좌우할 전망이다.
-<a href="https://www.wsj.com/finance/investing/jgbs-slide-on-global-bond-selloff-789740a2">[WSJ]</a></blockquote>
+<b>8. 호주 중앙은행, 3연속 금리인상 후 이란 충격 관망...금리동결 시사</b>
+<blockquote>호주중앙은행(RBA)이 3회 연속 금리인상으로 시간을 확보했다며, 이란 분쟁이 호주 경제에 미칠 영향을 지켜본 뒤 추가 인상 여부를 결정하겠다고 밝혔다.
+<a href="https://www.wsj.com/economy/central-banking/australias-central-bank-could-hold-rates-as-it-weighs-iran-impact-87ae9ed5">[WSJ]</a></blockquote>
 
-<b>9. WSJ 달러지수 0.23% 하락...5거래일 연속 상승 기록 중단</b>
-<blockquote>WSJ 달러지수가 0.2% 내려 95.66을 기록하며 5거래일 연속 상승세가 멈췄다. 이란 협상 기대가 안전자산 수요를 약화시키면서 달러 강세가 일시 주춤했다.
+<b>9. Kevin Warsh 연준의장, 인플레 압력 속 저금리 기대 좌절...딜레마 심화</b>
+<blockquote>Kevin Warsh 차기 연준의장은 저금리를 선호해왔지만, 이란 전쟁 여파로 인플레 압력이 지속되며 금리인하 여지가 좁아졌다. 시장은 그의 통화정책 독립성에 우려를 표명하고 있다.
+<a href="https://www.wsj.com/economy/central-banking/the-economy-kevin-warsh-is-inheriting-is-not-the-one-he-wanted-73ab43c2">[WSJ]</a></blockquote>
+
+<b>10. 트럼프, Warsh 연준의장 취임식 백악관 주최...통화정책 정치화 우려</b>
+<blockquote>트럼프 대통령이 금요일 백악관에서 Kevin Warsh 신임 연준의장 취임식을 주최한다. 대통령의 연준 인사에 대한 과도한 개입 시도로 해석되며, 중앙은행 독립성 훼손 우려가 커지고 있다.
+<a href="https://www.wsj.com/economy/central-banking/trump-will-host-swearing-in-ceremony-for-new-fed-chair-warsh-8d20d962">[WSJ]</a></blockquote>
+
+<b>11. 달러지수 0.23% 하락해 95.66...5거래일 연속 상승 마감</b>
+<blockquote>WSJ 달러지수가 0.2% 하락하며 5거래일 연속 강세를 마감했다. 이란 평화 협상 기대감과 유가 하락 전망이 달러 강세 압력을 완화했다.
 <a href="https://www.wsj.com/finance/currencies/asian-currencies-weaken-amid-rising-oil-prices-65c0852f">[WSJ]</a></blockquote>
 
-<b>10. 시진핑·푸틴, 중국 정상회담 앞두고 Power of Siberia 2 가스관 논의 재개</b>
-<blockquote>블라디미르 푸틴 러시아 대통령과 시진핑 중국 국가주석이 베이징 정상회담에서 초대형 가스 프로젝트 'Power of Siberia 2' 파이프라인 건설을 논의할 예정이다. 이번 회담은 트럼프의 중국 방문 직후 열려 미·중·러 삼각 구도에서 에너지 전략의 의미를 더한다.
-<a href="https://www.ft.com/content/7612a618-fbaf-4e3e-8e55-0cf5cc88d132">[FT]</a> <a href="https://www.economist.com/china/2026/05/18/now-its-vladimir-putins-turn-to-visit-beijing">[Economist]</a></blockquote>
-
-<b>11. 시진핑, 트럼프에 "푸틴이 우크라 침공 후회할 수 있다" 언급...ICC 공조 제안도</b>
-<blockquote>시진핑 주석이 트럼프 대통령에게 푸틴이 우크라이나 침공을 후회할 가능성이 있다고 말한 것으로 전해졌다. 트럼프는 국제형사재판소(ICC)에 맞서 푸틴과 협력하자는 제안도 꺼냈다. 미·중·러 관계 재편 가능성을 시사하는 발언이다.
-<a href="https://www.ft.com/content/567c57b0-6346-43e6-9d14-840a793b4d1d">[FT]</a></blockquote>
-
-<b>12. NextEra, Dominion 인수로 $420bn 미국 최대 전력 회사 탄생...데이터센터 벨리 장악</b>
-<blockquote>NextEra Energy가 Dominion Energy를 $670억(주식 포함 시 $4,200억)에 인수하며 미국 동부 해안 전력 공룡이 탄생한다. 플로리다·노스캐롤라이나·버지니아 등 AI 데이터센터가 집중된 '데이터센터 벨리'를 장악하게 돼, AI 인프라 전력 수요 독점 우려가 제기된다.
-<a href="https://www.wsj.com/business/energy-oil/nextera-to-buy-dominion-energy-in-67-billion-deal-cc3c94b0">[WSJ]</a> <a href="https://www.ft.com/content/a17f615a-cf05-4079-92a8-a8ab6370ae98">[FT]</a> <a href="https://www.ft.com/content/4850e61e-df5b-4219-85cc-f039af545110">[FT]</a></blockquote>
-
-<b>13. Google-Blackstone, $50억 AI 클라우드 합작사 설립...내년 500MW 데이터센터 가동</b>
-<blockquote>Google과 Blackstone이 새 AI 클라우드 회사를 출범한다. Blackstone이 $50억을 출자해 지분 과반을 보유하고, 내년 500MW 규모 데이터센터를 가동할 계획이다. 전력·데이터센터 인프라 섹터의 투자 가치가 재조명받고 있다.
-<a href="https://www.wsj.com/tech/ai/google-and-blackstone-to-create-new-ai-cloud-company-0e35b91f">[WSJ]</a> <a href="https://www.ft.com/content/5730b605-8fb2-4973-a188-b4a587ce3580">[FT]</a></blockquote>
-
-<b>14. NextEra-Dominion 메가딜, 주정부 규제 승인이 최대 관건...전기료 인상 우려</b>
-<blockquote>NextEra와 Dominion의 합병이 완성되려면 연방 및 주정부 규제 당국의 승인을 받아야 한다. 당국은 합병이 소비자에게 이익이 되고 전기료 인상을 초래하지 않는다는 점을 확인해야 하며, 승인 과정이 거래의 가장 큰 변수가 될 전망이다.
-<a href="https://www.wsj.com/business/energy-oil/the-biggest-challenge-of-a-utility-megadeal-regulators-26583103">[WSJ]</a></blockquote>
-
-<b>15. Kevin Warsh 차기 Fed 의장, 금요일 백악관 취임식...트럼프 각별한 관심</b>
-<blockquote>트럼프 대통령이 금요일 백악관에서 Kevin Warsh 신임 연준 의장 취임식을 주최한다. 트럼프가 Fed 의장 임명에 이례적으로 깊은 관심을 보이고 있다는 신호다. Warsh는 금리 인하를 선호하지만, 현재 경제 여건은 그 길을 어렵게 만들고 있다.
-<a href="https://www.wsj.com/economy/central-banking/trump-will-host-swearing-in-ceremony-for-new-fed-chair-warsh-8d20d962">[WSJ]</a> <a href="https://www.wsj.com/economy/central-banking/the-economy-kevin-warsh-is-inheriting-is-not-the-one-he-wanted-73ab43c2">[WSJ]</a></blockquote>
-
-<b>16. Economist, "트럼프 정책 혼선이 美 경제에 미친 비용" 추산</b>
-<blockquote>Economist지가 트럼프 대통령의 불규칙한 정책 결정이 미국 경제 성장을 얼마나 끌어내렸는지 분석했다. 정책 불확실성이 투자·소비 심리를 위축시키고 성장률을 낮추는 데 기여했다는 평가다.
-<a href="https://www.economist.com/finance-and-economics/2026/05/18/how-much-is-donald-trump-costing-americas-economy">[Economist]</a></blockquote>
-
-<b>17. 정부 부채 급증 파장이 글로벌 채권 시장 강타...美만 여유</b>
-<blockquote>각국 정부의 부채 확대가 채권 시장에 여파를 미치고 있다. 다만 미국은 다른 나라들보다 상대적으로 유리한 차입 여건을 유지하고 있어, 글로벌 투자자들이 여전히 미 국채를 선호하는 모습이다.
-<a href="https://www.wsj.com/articles/see-how-the-global-government-debt-binge-is-rippling-through-markets-cb9ce3ca">[WSJ]</a></blockquote>
-
-<b>18. 미 주택건설업체 신뢰지수 5월 개선됐으나 여전히 마이너스...모기지금리·전쟁 여파</b>
-<blockquote>미국 주택건설업체 신뢰지수가 5월 개선됐지만 여전히 부정적 영역에 머물렀다. 모기지 금리 상승과 건설 비용 부담, 이란 전쟁에 따른 경제 불확실성이 주택 시장 회복을 가로막고 있다.
+<b>12. 미국 주택건설업자 신뢰지수 5월 개선...인플레·금리 압박은 지속</b>
+<blockquote>5월 미국 주택건설업자 신뢰지수가 개선됐지만 여전히 부정적 영역에 머물렀다. 이란 전쟁 여파로 인한 금리 상승·비용 증가·경기 불확실성이 주택 건설 회복을 제약하고 있다.
 <a href="https://www.wsj.com/economy/housing/u-s-home-builder-sentiment-improved-in-may-but-affordability-challenges-persist-76a4695f">[WSJ]</a></blockquote>
 
-<b>19. Ryanair 주가 급락...여름 성수기 앞두고 가격 약세·막판 예약 증가·유류비 급등 경고</b>
-<blockquote>Ryanair 주가가 급락했다. 회사가 여름 성수기를 앞두고 항공권 가격 약세, 막판 예약 증가 추세, 유류비 급등을 경고하면서 투자 심리가 악화됐다.
-<a href="https://www.wsj.com/business/airlines/ryanair-sees-weaker-pricing-as-travelers-hold-off-on-bookings-98208d6f">[WSJ]</a></blockquote>
-
-<b>20. S&P 500 거의 보합, 다우는 0.3% 상승...Nvidia·소매 실적 대기</b>
-<blockquote>S&P 500 지수가 0.1% 미만 하락하며 거의 보합 마감했고, 다우존스 산업평균지수는 0.3% 올랐다. 투자자들은 Nvidia와 주요 소매업체 실적 발표를 기다리며 관망세를 보였다.
-<a href="https://www.wsj.com/finance/stocks/global-stocks-markets-dow-news-05-18-2026-f8053b68">[WSJ]</a></blockquote>
-
-<b>21. 영국, 2008년 금융위기 이후 은행 링펜싱 규제 완화 추진...€800억 대출 여력 확대</b>
-<blockquote>영국 재무부가 2008년 금융위기 이후 도입한 은행 링펜싱(업무 분리) 규제를 완화할 계획이다. 규제를 느슨하게 조정하면 €800억 규모의 추가 대출 여력이 생긴다는 것이 정부 설명이다.
-<a href="https://www.ft.com/content/81f0698c-07d7-4d9d-9f01-0e7d0d7e0461">[FT]</a></blockquote>
-
-<b>22. Commerzbank, UniCredit의 €390억 인수 제안 거부...독일 총리도 반대</b>
-<blockquote>Commerzbank이 UniCredit의 €390억 인수 제안을 거부했다. Friedrich Merz 독일 총리도 거래에 반대 입장을 밝혀, 유럽 은행 통합 논의에 제동이 걸렸다.
-<a href="https://www.ft.com/content/7f1660c4-e99e-4520-b1ce-d27bbf51e488">[FT]</a></blockquote>
-
-<b>23. Bank of England 유가충격 모델 엇나가...2025년 8월 전제 2026년 4월에 적용 불가</b>
-<blockquote>영국 중앙은행(BOE)이 유가 충격을 모델링할 때 사용한 전제가 시간이 지나면서 현실과 맞지 않게 됐다. 2025년 8월 모델 가정이 2026년 4월 데이터에는 적용되지 않아, BOE 예측 신뢰성에 의문이 제기되고 있다.
-<a href="https://www.ft.com/content/1e57f004-6af0-4e50-b162-981fd9ab2338">[FT]</a></blockquote>
-
-<b>24. 러시아 전선 지상·공중 모두 고전...여름이 우크라 전환점 될지 시험대</b>
-<blockquote>러시아군이 지상과 공중 전선에서 모두 어려움을 겪고 있다. 이번 여름이 우크라이나가 미약한 우위를 전략적 전환점으로 바꿀 수 있을지 시험하는 시기가 될 전망이다.
+<b>13. 러시아 전쟁 지상·공중 모두 열세...여름이 우크라이나 전환점 시험대</b>
+<blockquote>러시아군이 지상전과 공중전 모두에서 고전하고 있다. 올 여름 우크라이나가 전술적 우위를 전략적 전환점으로 이어갈 수 있을지 주목된다.
 <a href="https://www.wsj.com/world/russias-war-is-going-badlyon-the-ground-and-in-the-air-447ce204">[WSJ]</a></blockquote>
 
+<b>14. 시진핑, 트럼프에 "Putin이 침공 후회할 수도"...ICC 공조 시사도</b>
+<blockquote>시진핑 주석이 트럼프에게 Putin이 우크라이나 침공을 후회할 수 있다고 말했다. 트럼프는 국제형사재판소(ICC)에 대응해 Putin과 협력하자고 제안한 것으로 알려졌다.
+<a href="https://www.ft.com/content/567c57b0-6346-43e6-9d14-840a793b4d1d">[FT]</a></blockquote>
+
+<b>15. Putin·시진핑, 중국 정상회담서 Power of Siberia 2 가스관 논의</b>
+<blockquote>Putin 러시아 대통령과 시진핑 주석이 중국 정상회담에서 대형 가스 파이프라인 'Power of Siberia 2' 프로젝트를 논의할 예정이다. 트럼프의 베이징 방문 직후 열리는 회담이다.
+<a href="https://www.ft.com/content/7612a618-fbaf-4e3e-8e55-0cf5cc88d132">[FT]</a> <a href="https://www.economist.com/china/2026/05/18/now-its-vladimir-putins-turn-to-visit-beijing">[Economist]</a></blockquote>
+
+<b>16. 글로벌 정부 부채 급증이 채권시장 압박...미국은 상대적 여력</b>
+<blockquote>각국 정부의 부채 증가가 글로벌 채권시장을 압박하고 있지만, 투자자들은 미국에 다른 국가보다 더 많은 차입 여력을 주고 있다.
+<a href="https://www.wsj.com/articles/see-how-the-global-government-debt-binge-is-rippling-through-markets-cb9ce3ca">[WSJ]</a></blockquote>
+
+<b>17. NextEra·Dominion $670억 합병...미국 최대 유틸리티 탄생, AI 전력 수요 겨냥</b>
+<blockquote>NextEra가 Dominion Energy를 $670억에 인수해 미국 동부 에너지 거대 기업을 탄생시킨다. 합병 후 시가총액 $4,200억 규모로, 버지니아 '데이터센터 앨리' 전력 수요를 확보하는 전략이다.
+<a href="https://www.wsj.com/business/energy-oil/nextera-to-buy-dominion-energy-in-67-billion-deal-cc3c94b0">[WSJ]</a> <a href="https://www.ft.com/content/a17f615a-cf05-4079-92a8-a8ab6370ae98">[FT]</a> <a href="https://www.ft.com/content/4850e61e-df5b-4219-85cc-f039af545110">[FT]</a></blockquote>
+
+<b>18. NextEra·Dominion 합병, 최대 관문은 규제 승인...전기요금 인상 우려</b>
+<blockquote>NextEra와 Dominion 합병은 주 정부 및 연방 규제 당국 승인이 최대 관건이다. 두 회사는 합병이 소비자에게 이익이며 전기요금 인상 없다는 점을 입증해야 한다.
+<a href="https://www.wsj.com/business/energy-oil/the-biggest-challenge-of-a-utility-megadeal-regulators-26583103">[WSJ]</a></blockquote>
+
+<b>19. Google·Blackstone, $50억 AI 클라우드 신설...Blackstone 과반 지분</b>
+<blockquote>Google과 Blackstone이 미국 AI 클라우드 회사를 설립한다. Blackstone이 $50억 출자로 과반 지분을 보유하며, 내년 500MW 데이터센터 용량을 가동할 계획이다.
+<a href="https://www.wsj.com/tech/ai/google-and-blackstone-to-create-new-ai-cloud-company-0e35b91f">[WSJ]</a> <a href="https://www.ft.com/content/5730b605-8fb2-4973-a188-b4a587ce3580">[FT]</a></blockquote>
+
+<b>20. 중국 리튬 대기업 Tianqi "전기 선박·트럭이 배터리 호황 주도"</b>
+<blockquote>중국 리튬 기업 Tianqi가 전기 선박·트럭 등 산업용 배터리 장비 수요가 예상보다 빠르게 증가하며 배터리 시장 성장을 견인할 것이라고 전망했다.
+<a href="https://www.ft.com/content/e2fb0537-eb5c-4080-af58-42d6c009c455">[FT]</a></blockquote>
+
+<b>21. SpaceX IPO, 헤지펀드 D1 Capital에 $200억 지분 안겨줄 듯</b>
+<blockquote>헤지펀드 D1 Capital이 SpaceX 지분으로 약 $200억 수익을 거둘 전망이다. SpaceX는 다음 달 상장 예정이며, D1은 운용자산의 60%를 SpaceX 주식으로 보유하고 있다.
+<a href="https://www.ft.com/content/f0838802-a923-43eb-9ea1-331cf6b5f038">[FT]</a> <a href="https://www.wsj.com/finance/investing/the-little-known-hedge-fund-that-stands-to-make-over-10-billion-on-spacex-44504c7a">[WSJ]</a></blockquote>
+
+<b>22. Standard Chartered, 2030년 ROTE 18% 목표...기업 기능 인력 감축</b>
+<blockquote>Standard Chartered가 2030년까지 유형자본이익률(ROTE) 18% 달성을 목표로 제시하고, 기업 지원 부문 인력을 감축해 효율성을 높이겠다고 밝혔다.
+<a href="https://www.wsj.com/finance/banking/stanchart-lays-out-plan-for-18-return-corporate-job-cuts-83478ea2">[WSJ]</a></blockquote>
+
+<b>23. Ryanair 주가 급락..."여름 성수기 가격 약세·예약 지연·연료비 급등"</b>
+<blockquote>Ryanair 주가가 하락했다. 항공사는 여름 성수기 항공권 가격 약세와 막판 예약 증가, 연료비 급등을 경고했다.
+<a href="https://www.wsj.com/business/airlines/ryanair-sees-weaker-pricing-as-travelers-hold-off-on-bookings-98208d6f">[WSJ]</a></blockquote>
+
+<b>24. 트럼프 행정부, '정부 법무 남용' 피해자에 $18억 보상 기금 조성</b>
+<blockquote>트럼프 행정부가 정부의 '법무 남용(lawfare)' 피해자에게 $18억 보상 기금을 조성한다. 트럼프 대통령과 가족은 국세청(IRS) 세금 자료 유출 소송 $100억을 취하하며 합의했다.
+<a href="https://www.ft.com/content/9a0d6eee-8c63-4299-97ea-f9cccbad5566">[FT]</a></blockquote>
+
+<b>25. Citi·BlackRock, 유럽 사모대출에 €150억 파트너십...M&A 파이낸싱 강화</b>
+<blockquote>Citi가 BlackRock과 €150억 규모 파트너십을 체결해 유럽·중동 사모 M&A 파이낸싱을 확대한다. 사모대출 시장 경쟁력을 높이려는 전략이다.
+<a href="https://www.ft.com/content/65602a81-ee5b-4b65-803d-a7570fb5d5c8">[FT]</a></blockquote>
+
+<b>26. 영국, 2008년 금융위기 이후 은행 규제 완화 추진...€800억 대출 여력 확보</b>
+<blockquote>영국 재무부가 2008년 금융위기 이후 도입된 링펜스(ringfencing) 규제를 완화해 은행들이 €800억 추가 대출 여력을 확보하도록 할 계획이다.
+<a href="https://www.ft.com/content/81f0698c-07d7-4d9d-9f01-0e7d0d7e0461">[FT]</a></blockquote>
+
+<b>27. Commerzbank, UniCredit의 €390억 인수 제안 거부...독일 정부도 반대</b>
+<blockquote>Commerzbank가 UniCredit의 €390억 인수 제안을 거부했다. 독일 총리 Friedrich Merz도 반대 입장을 밝히며 정치적 압력이 거세지고 있다.
+<a href="https://www.ft.com/content/7f1660c4-e99e-4520-b1ce-d27bbf51e488">[FT]</a></blockquote>
+
+<b>28. Economist "트럼프 정책 불확실성, 미국 GDP 성장 0.5~1%p 끌어내려"</b>
+<blockquote>Economist지가 트럼프 행정부의 정책 불확실성이 미국 경제 성장률을 0.5~1%포인트 끌어내렸다고 분석했다. 변동성 높은 정책 집행이 투자와 소비를 위축시키고 있다.
+<a href="https://www.economist.com/finance-and-economics/2026/05/18/how-much-is-donald-trump-costing-americas-economy">[Economist]</a></blockquote>
+
+<b>29. FT "Putin 체제 균열 조짐...서방 압박 장기전 전망 흔들려"</b>
+<blockquote>FT가 러시아 Putin 체제에 균열 조짐이 보인다고 보도했다. Putin은 서방을 장기전으로 압도할 수 있다는 확신을 갖고 있었지만, 최근 전황 악화로 그 전망이 시험받고 있다.
+<a href="https://www.ft.com/content/7cc7357b-446d-4cbe-9438-f505dd457c3d">[FT]</a></blockquote>
+
+<b>30. FT "트럼프, 동맹국에 '정치적 독'...이란 전쟁 여파로 지지층 급속 이탈"</b>
+<blockquote>FT가 트럼프 대통령의 이란 전쟁이 그의 정치적 영향력을 급속히 약화시키고 있다고 분석했다. 대통령의 '포퓰리스트 전쟁'이 동맹국 정치인들에게도 타격을 주고 있다.
+<a href="https://www.ft.com/content/4ecb3d54-2851-48b8-bd11-c3128dcbcca0">[FT]</a></blockquote>
+
 ━━━━━━━━━━━━━━━━━━━━
-📡 <b>출처: WSJ · FT · The Economist</b>
+📡 **출처: WSJ · FT · The Economist**
