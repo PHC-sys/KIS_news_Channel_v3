@@ -35,13 +35,16 @@ WSJ_RSS_FEEDS = {
     "world":    "https://feeds.content.dowjones.io/public/rss/RSSWorldNews",
     "economy":  "https://feeds.content.dowjones.io/public/rss/socialeconomyfeed",
     "business": "https://feeds.content.dowjones.io/public/rss/WSJcomUSBusiness",
+    "us":       "https://feeds.content.dowjones.io/public/rss/RSSUSnews",
+    "politics": "https://feeds.content.dowjones.io/public/rss/socialpoliticsfeed",
 }
 
 FT_RSS_FEEDS = {
-    "markets":        "https://www.ft.com/markets?format=rss",
-    "world":          "https://www.ft.com/world?format=rss",
-    "economy":        "https://www.ft.com/global-economy?format=rss",
-    "commodities":    "https://www.ft.com/commodities?format=rss",
+    "markets":          "https://www.ft.com/markets?format=rss",
+    "world":            "https://www.ft.com/world?format=rss",
+    "economy":          "https://www.ft.com/global-economy?format=rss",
+    "commodities":      "https://www.ft.com/commodities?format=rss",
+    "emerging-markets": "https://www.ft.com/emerging-markets?format=rss",
     "currencies":     "https://www.ft.com/currencies?format=rss",
     "equities":       "https://www.ft.com/equities?format=rss",
     "us":             "https://www.ft.com/us?format=rss",
