@@ -43,7 +43,7 @@ TEST_MODE = "--test" in sys.argv
 WINDOW_MINUTES = 120 if TEST_MODE else 15
 
 HEADERS     = {"User-Agent": "Mozilla/5.0 (compatible; RSSReader/1.0)"}
-MAX_PER_FEED = 10
+MAX_PER_FEED = 20
 
 from config import ALL_SOURCES, TELEGRAM_BOT_TOKEN, DIGEST_CHAT_ID
 
@@ -192,12 +192,14 @@ def filter_with_haiku(
     prompt = (
         "아래 기사들 중 글로벌 Cross-Asset FICC 트레이더가 즉시 알아야 할 기사 번호만 골라줘.\n\n"
         "포함:\n"
-        "- 중앙은행 결정·발언 (Fed, ECB, BOJ 등)\n"
+        "- 중앙은행 결정·발언·전망 변화 (Fed, ECB, BOJ, BOE, RBA 등)\n"
         "- 금리·인플레이션·고용 지표 서프라이즈\n"
-        "- 지정학 리스크 확대 (전쟁, 제재)\n"
+        "- 국채·길트·채권시장 급변 또는 취약성 경고\n"
+        "- 달러·주요 환율 급변\n"
+        "- 지정학 리스크 확대 (전쟁, 제재, 협상 타결)\n"
         "- 에너지·원자재 급등락\n"
         "- 주요국 무역·관세 변화\n"
-        "- 환율·채권시장 급변\n"
+        "- 주식시장 급변 경고 (correction, crash 우려)\n"
         "- 시장 전체 영향 주는 주요 기업 실적\n\n"
         "제외:\n"
         "- 스포츠, 라이프스타일, 문화\n"
