@@ -40,7 +40,7 @@ KST       = timezone(timedelta(hours=9))
 TEST_MODE = "--test" in sys.argv
 
 # 테스트: 2시간 / 일반: 10분
-WINDOW_MINUTES = 120 if TEST_MODE else 10
+WINDOW_MINUTES = 120 if TEST_MODE else 15
 
 HEADERS     = {"User-Agent": "Mozilla/5.0 (compatible; RSSReader/1.0)"}
 MAX_PER_FEED = 10
