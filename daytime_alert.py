@@ -305,7 +305,7 @@ def main():
         return
 
     # 3. Haiku 필터링
-    client = anthropic.Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
+    client = anthropic.Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"], max_retries=3)
     important = filter_with_haiku(client, articles)
 
     # 4. 결과 처리
