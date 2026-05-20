@@ -4,169 +4,129 @@
 
 ✅ <b>간밤의 주요 헤드라인</b>
 
-<b>1. Trump, 이란에 2~3일 시한 제시...군사행동 위협 재개</b>
-<blockquote>Trump 대통령이 이란과의 협상 타결을 위해 "2~3일 혹은 다음 주 초"까지 시한을 설정하며 군사행동 재개 가능성을 경고했다. 한편 미국은 인도양에서 이란 연계 유조선을 나포해 경제적 압박을 강화했다.
-<a href="https://www.ft.com/content/95b98e06-3a04-4cfa-9722-f8bd27a5109b">[FT]</a> <a href="https://www.wsj.com/world/middle-east/u-s-seized-iran-linked-oil-tanker-in-the-indian-ocean-704f5f3c">[WSJ]</a></blockquote>
+<b>1. 연준 4월 의사록, 다수 위원 금리 인상 논의 시작...완화 바이어스 제거 요구</b>
+<blockquote>4월 FOMC 의사록에서 다수 위원이 금리 인상 가능성을 논의하기 시작했으며, 일부는 완화 기조 관련 문구 삭제를 선호했다. 이란 전쟁과 AI 붐이 금리 전망을 재편하면서, 지난 2년간 지배적이던 금리 인하 논의가 사실상 막을 내렸다.
+<a href="https://www.ft.com/content/4af468f5-66f7-4fa9-a030-749087000229">[FT]</a> <a href="https://www.wsj.com/economy/central-banking/fed-minutes-reveal-support-for-rate-hikes-if-inflation-proves-persistent-97e63b1c">[WSJ]</a></blockquote>
 
-<b>2. 중재국들, 미-이란 협상 진전 미미 평가...호르무즈 봉쇄 장기화 우려</b>
-<blockquote>중재국들은 미국과 이란 간 협상이 여전히 큰 간극을 보이고 있다고 평가했다. Trump 대통령이 무력 사용을 철회했다가 다시 위협하는 등 입장이 오락가락하면서 협상 불확실성이 커지고 있다.
-<a href="https://www.wsj.com/world/middle-east/mediators-see-little-progress-in-iran-u-s-talks-df997c73">[WSJ]</a></blockquote>
+<b>2. 호르무즈 해협 유조선 2척 통과 확인...유가 6% 급락해 배럴당 $105</b>
+<blockquote>중국행 초대형 유조선 2척이 호르무즈 해협을 통과하면서 에너지 흐름 재개 기대가 커졌다. 브레ント유는 약 6% 하락해 배럴당 $105를 기록했으며, Trump 대통령이 이란과 협상이 최종 단계라고 언급하면서 낙폭이 확대됐다.
+<a href="https://www.ft.com/content/110b9bb3-ec4f-460d-bfe6-4ffae9a2e945">[FT]</a> <a href="https://www.wsj.com/finance/commodities-futures/oil-edges-lower-as-traders-assess-middle-east-developments-032db2d7">[WSJ]</a></blockquote>
 
-<b>3. Trump, 시진핑에게 "이란 무기지원 않겠다" 약속 받아</b>
-<blockquote>Trump 대통령은 시진핑 주석이 이란에 무기를 지원하지 않겠다고 약속했다고 밝혔다. 한편 Trump는 시진핑에게 Putin이 우크라이나 침공을 "후회할 것"이라고 말했다고 전했다.
-<a href="https://www.ft.com/content/95b98e06-3a04-4cfa-9722-f8bd27a5109b">[FT]</a> <a href="https://www.ft.com/content/567c57b0-6346-43e6-9d14-840a793b4d1d">[FT]</a></blockquote>
+<b>3. Trump-Netanyahu 긴장된 통화...이란 협상 두고 이견 노출</b>
+<blockquote>Trump 대통령과 Netanyahu 이스라엘 총리가 화요일 저녁 긴장된 통화를 나눴다. Netanyahu는 이란과의 전쟁 종식 협정에 강하게 반발했고, Trump는 외교 프로세스를 옹호했다.
+<a href="https://www.wsj.com/world/middle-east/trump-netanyahu-hold-testy-call-over-iran-c31d9aee">[WSJ]</a></blockquote>
 
-<b>4. UN, 글로벌 성장률 전망 하향...호르무즈 봉쇄 지속 시 추가 둔화 경고</b>
-<blockquote>UN은 중동 분쟁 장기화로 에너지 가격이 상승하면서 올해 글로벌 경제가 금세기 최저 수준 성장을 기록할 것으로 내다봤다. 호르무즈 해협 봉쇄가 지속될 경우 성장률은 더욱 떨어질 것으로 경고했다.
-<a href="https://www.wsj.com/economy/global/un-lowers-growth-forecasts-as-middle-east-conflict-extends-cb9f4df8">[WSJ]</a></blockquote>
+<b>4. Nvidia 1분기 실적 폭발, 매출 $820억+자사주 $800억 매입 발표</b>
+<blockquote>Nvidia가 AI 에이전트와 데이터센터 컴퓨팅 수요 급증에 힘입어 1분기 매출 $820억을 기록하며 또 한 번 기록적인 분기를 달성했다. 동시에 $800억 규모 자사주 매입 계획도 발표했다.
+<a href="https://www.wsj.com/tech/ai/nvidia-nvda-1st-quarter-earnings-report-2026-stock-c2bb9c1c">[WSJ]</a> <a href="https://www.ft.com/content/a7aa26d1-1bad-407f-8bff-4ae491cb8ce0">[FT]</a></blockquote>
 
-<b>5. 미 국채 수익률 재차 상승...이란 교착에 인플레 우려 확대</b>
-<blockquote>호르무즈 해협 폐쇄가 지속되면서 에너지 가격과 인플레이션 우려가 높아지자 미 국채가 매도세를 보였고 수익률은 다시 상승했다. 투자자들은 중동 위기의 물가 파급효과를 경계하고 있다.
-<a href="https://www.wsj.com/finance/investing/jgbs-mostly-rise-on-likely-technical-rebound-u-s-iran-peace-deal-hopes-051df85a">[WSJ]</a></blockquote>
+<b>5. SpaceX, 사상 최대 IPO 신청서 제출...$800억+ 조달 전망</b>
+<blockquote>Elon Musk가 이끄는 SpaceX가 투자 설명서를 제출하며 6월 중순 조기 상장을 준비 중이다. $800억 이상 조달이 예상되는 역사상 최대 IPO가 될 전망이다.
+<a href="https://www.wsj.com/finance/spacex-files-ipo-spcx-stock-2c52451d">[WSJ]</a> <a href="https://www.ft.com/content/c9713173-6bf4-4406-8152-ae010898ac75">[FT]</a></blockquote>
 
-<b>6. 달러지수 0.35% 상승...최근 7거래일 중 6일 강세</b>
-<blockquote>WSJ 달러지수는 95.99로 0.35% 올랐다. 최근 7거래일 중 6일 상승하며 강세 흐름을 이어가고 있다.
-<a href="https://www.wsj.com/finance/currencies/asian-currencies-consolidate-may-be-aided-by-signs-of-stabilizing-risk-sentiment-6a242b97">[WSJ]</a></blockquote>
+<b>6. OpenAI, 9월 상장 목표로 IPO 준비 착수...밸류에이션 $1조 예상</b>
+<blockquote>OpenAI가 Goldman Sachs 및 Morgan Stanley와 함께 IPO 준비에 돌입했으며, 빠르면 이번 주 내 신청서 제출 가능성이 점쳐진다. 9월 상장을 목표로 하며 기업가치 $1조로 평가받고 있다.
+<a href="https://www.wsj.com/tech/ai/openai-ipo-filing-date-0ec95af5">[WSJ]</a> <a href="https://www.ft.com/content/028a169f-cd1c-438b-b50d-df4af6297318">[FT]</a></blockquote>
 
-<b>7. 유가 하락...Trump, 이란과 합의까지 며칠 여유 언급</b>
-<blockquote>Trump 대통령이 추가 군사행동 전 이란과의 합의를 위해 며칠의 시간을 주겠다고 밝히면서 유가 선물은 소폭 하락 마감했다. 시장은 미-이란 협상 진전 가능성을 주시하고 있다.
-<a href="https://www.wsj.com/finance/commodities-futures/oil-falls-as-supply-disruption-concerns-ease-550f49df">[WSJ]</a></blockquote>
+<b>7. Anthropic, 2분기 첫 흑자 전환 예상...매출 130% 급증해 $109억</b>
+<blockquote>AI 스타트업 Anthropic이 2분기 매출 $109억을 기록하며 전년 대비 130% 급증한 가운데 첫 영업이익 흑자 전환을 달성할 것으로 전망된다.
+<a href="https://www.wsj.com/tech/ai/mind-blowing-growth-is-about-to-propel-anthropic-into-its-first-profitable-quarter-7edbf2f4">[WSJ]</a></blockquote>
 
-<b>8. 금 가격 하락...미-이란 협상 교착 지속에도 안전자산 수요 제한적</b>
-<blockquote>금 가격은 하락 마감했다. 미국과 이란 간 협상이 같은 문제를 반복하며 교착 상태를 이어가고 있지만, 안전자산 수요는 제한적이었다.
-<a href="https://www.wsj.com/finance/commodities-futures/gold-rises-amid-hopes-for-u-s-iran-peace-deal-5d83a4b1">[WSJ]</a></blockquote>
+<b>8. Google, OpenAI 제치고 소비자 AI 시장 1위 등극</b>
+<blockquote>Google이 OpenAI를 제치고 소비자용 AI 부문 1위로 올라섰다. 다만 사용자들이 월 수천조 개 토큰을 소모하며 운영 부담이 커지고 있다.
+<a href="https://www.economist.com/business/2026/05/20/google-is-dethroning-openai-as-the-king-of-consumer-ai">[Economist]</a></blockquote>
 
-<b>9. 투자자들, 인플레 재상승 우려...물가연동채 수요는 여전히 낮아</b>
-<blockquote>투자자들은 인플레이션이 다시 급등할 가능성을 경계하고 있지만, 정작 물가연동채권(TIPS) 매수는 저조한 상황이다. 시장은 인플레 리스크를 인식하면서도 채권 포지셔닝에는 소극적인 모습이다.
-<a href="https://www.economist.com/finance-and-economics/2026/05/19/investors-fear-another-surge-in-inflation">[Economist]</a></blockquote>
+<b>9. Meta, 8,000명 해고 단행...AI 전환 위해 전체 인력 10% 감축</b>
+<blockquote>Meta가 AI 투자 비용 상쇄를 위해 약 8,000명, 전체 직원의 10%를 감원한다. Mark Zuckerberg CEO는 향후 '전사적 정리해고'는 없을 것이라며 직원들을 안심시켰다.
+<a href="https://www.wsj.com/tech/ai/meta-begins-laying-off-thousands-of-employees-as-it-transforms-around-ai-3c31a9eb">[WSJ]</a> <a href="https://www.ft.com/content/ef46bd8f-51ee-4c06-b5ab-1de23114f81a">[FT]</a></blockquote>
 
-<b>10. 캐나다 4월 인플레 2.8%로 가속...휘발유 가격 급등 영향</b>
-<blockquote>캐나다 4월 소비자물가 상승률이 2.8%를 기록하며 전월 대비 상승했다. 휘발유 가격 급등이 주요 원인이지만, 근원 인플레이션 지표는 여전히 안정적 수준을 유지하고 있다.
-<a href="https://www.wsj.com/economy/central-banking/canada-inflation-heats-up-to-2-8-in-april-7d4e6fbd">[WSJ]</a></blockquote>
+<b>10. Trump 가족 IRS 감사 면제 합의...대통령·가족·기업 세무 추적 중단</b>
+<blockquote>Trump 행정부가 대통령과 그 가족, 기업에 대한 국세청(IRS) 세무 조사를 중단하는 합의안을 확정했다. 진행 중이던 감사가 전면 면제됐다.
+<a href="https://www.wsj.com/politics/policy/trump-family-irs-audit-settlement-analysis-4fa8cc66">[WSJ]</a></blockquote>
 
-<b>11. EU, 비료 비축 검토...중동 전쟁으로 식량위기 우려</b>
-<blockquote>EU는 중동 전쟁으로 비료 공급이 차질을 빚으면서 식량위기 가능성에 대비해 비료 비축 방안을 검토 중이다.
-<a href="https://www.ft.com/content/6414307b-eff4-4dc6-9093-9368ce6c7f37">[FT]</a></blockquote>
+<b>11. 쿠바 Raúl Castro, 미국 법원에 살인 혐의로 기소</b>
+<blockquote>미국 연방법원이 쿠바 전 국가평의회 의장 Raúl Castro를 살인 혐의로 기소했다. 1996년 민간 항공기 격추 사건과 관련된 것으로, Trump 행정부의 쿠바 정권 압박 수위가 높아졌다.
+<a href="https://www.wsj.com/politics/policy/raul-castro-charged-with-murder-in-u-s-court-2fb2fdb6">[WSJ]</a> <a href="https://www.ft.com/content/5e5e7ec7-247c-40f0-a5b4-c60893785496">[FT]</a></blockquote>
 
-<b>12. Trump, 텍사스 상원 경선서 Ken Paxton 지지...공화당 내 긴장 고조</b>
-<blockquote>Trump 대통령이 텍사스 상원 공화당 경선에서 현역 의원 John Cornyn 대신 논란의 주 법무장관 Ken Paxton을 지지하고 나섰다. 경선 막판의 이번 개입은 공화당 내부에 파장을 일으키고 있다.
-<a href="https://www.wsj.com/politics/elections/trump-texas-senate-endorsement-cornyn-paxton-8e7af62d">[WSJ]</a> <a href="https://www.ft.com/content/cd5d3094-c490-4866-b0de-cc5917fed18c">[FT]</a></blockquote>
+<b>12. 국채 수익률 하락 마감...전쟁 인플레이션과 경기둔화 우려 교차</b>
+<blockquote>미 국채 수익률이 하락 마감했다. 투자자들은 전쟁 기반 인플레이션 압력과 경기 둔화 우려 사이에서 방향을 가늠하고 있다.
+<a href="https://www.wsj.com/finance/investing/jgbs-mixed-ahead-of-20-year-auction-0e30b21d">[WSJ]</a></blockquote>
 
-<b>13. 상원, 이란 전쟁권한 제한 결의안 진행...Cassidy, 경선 패배 후 찬성 전환</b>
-<blockquote>공화당 Bill Cassidy 상원의원이 Trump 지원으로 경선에서 패배한 직후, 의회 승인 없는 이란 전쟁을 제한하는 결의안 진행에 찬성표를 던졌다. Trump의 전쟁 권한을 견제하려는 초당적 움직임이 가시화되고 있다.
-<a href="https://www.wsj.com/politics/policy/senate-advances-war-powers-measure-after-gops-cassidy-switches-sides-29a6e7e6">[WSJ]</a></blockquote>
+<b>13. 금·은 가격 상승...금리 인상 압력에도 강세 지속</b>
+<blockquote>금과 은 선물 가격이 상승 마감했다. 트레이더들은 금리 인상 가능성이 가격 압박 요인이 될 수 있다고 보고 있지만, 당장은 상승세가 유지됐다.
+<a href="https://www.wsj.com/finance/commodities-futures/gold-edges-higher-on-possible-technical-recovery-333902c9">[WSJ]</a></blockquote>
 
-<b>14. 정부, Trump 및 자녀 세무감사 영구 면제 합의...反무기화 펀드에 이어 추가 특혜</b>
-<blockquote>Trump 대통령과 연방정부 간 합의에 Trump 본인과 자녀에 대한 모든 세무감사를 중단한다는 내용이 추가됐다. 이는 18억 달러 규모의 "反무기화 펀드" 설립에 이은 후속 조치다.
-<a href="https://www.wsj.com/politics/policy/government-deal-with-trump-expands-to-end-tax-audits-aad8f2bc">[WSJ]</a> <a href="https://www.ft.com/content/57334fae-a475-4ab0-a202-8df3766927e4">[FT]</a></blockquote>
+<b>14. 미국 원유 재고 4주 연속 감소...790만 배럴 줄어</b>
+<blockquote>미국 상업용 원유 재고가 지난주 790만 배럴 감소하며 4주 연속 하락했다. 애널리스트들은 300만 배럴 감소를 예상했으나 실제 감소폭은 두 배 이상이었다.
+<a href="https://www.wsj.com/business/energy-oil/u-s-crude-oil-stockpiles-post-fourth-straight-weekly-draw-440652c9">[WSJ]</a></blockquote>
 
-<b>15. Trump "反무기화 펀드" 18억 달러 규모 확정...지지자 보상 논란</b>
-<blockquote>Trump 대통령의 측근과 지지자들이 정부의 부당 대우를 이유로 18억 달러 규모의 보상 기금을 받게 됐다. 기금 배분 기준과 정당성을 둘러싼 논란이 확대되고 있다.
-<a href="https://www.wsj.com/politics/policy/what-to-know-about-trumps-1-8-billion-anti-weaponization-fund-d8ceb872">[WSJ]</a></blockquote>
+<b>15. 영국, 식품 관세 인하+버스 요금 인하...생계비 부담 완화 패키지</b>
+<blockquote>Rachel Reeves 영국 재무장관이 식품 수입관세 인하 및 어린이 버스 요금 인하를 포함한 대규모 생계비 부담 완화 대책을 발표할 예정이다. 유권자 지지 회복이 목표다.
+<a href="https://www.ft.com/content/3694c56b-3f79-4a06-bdfb-09220e2083bb">[FT]</a></blockquote>
 
-<b>16. Trump, 1분기 빅테크 주식 3,700회 거래...활발한 계좌 활동 포착</b>
-<blockquote>Trump 대통령의 투자 계좌에서 1분기 3,700건 이상의 거래가 이뤄진 것으로 나타났다. 주요 빅테크 주식 거래가 급증하면서 이해충돌 우려가 제기되고 있다.
-<a href="https://www.wsj.com/finance/stocks/trump-stock-trades-ce970ce9">[WSJ]</a></blockquote>
+<b>16. 영국 4월 인플레이션 둔화...에너지 보조금 효과</b>
+<blockquote>영국 4월 인플레이션율이 예상보다 크게 둔화됐다. 가계 에너지 요금 인하를 위한 정부 조치가 본격 시행되면서 물가 상승세가 꺾였다.
+<a href="https://www.wsj.com/world/europe/u-k-inflation-slowed-in-april-7a07fb79">[WSJ]</a></blockquote>
 
-<b>17. 영국 Burnham, 노동당 경선 선두...좌파 정책 공약에 채권시장 긴장</b>
-<blockquote>Andy Burnham Manchester 시장이 영국 노동당 당수 경선에서 선두를 달리고 있다. 그의 재정규율 준수 약속 속에서도 증세 가능성이 거론되며 채권시장 긴장감이 고조되고 있다.
-<a href="https://www.ft.com/content/074f9b1f-8fdc-45c1-b44b-625a6494660f">[FT]</a></blockquote>
+<b>17. 영국, 러시아산 정제유 제재 완화...이란 전쟁 공급 문제 대응</b>
+<blockquote>영국 정부가 러시아산 원유를 정제해 만든 항공유·디젤에 대한 제재를 완화했다. 이란 전쟁으로 인한 공급 부족 문제를 완화하기 위한 조치로, 미국도 유사한 조치를 시행했다.
+<a href="https://www.ft.com/content/60068372-a271-429f-8b31-ed18f0d3e10f">[FT]</a></blockquote>
 
-<b>18. 영국 재무부, 슈퍼마켓에 식품 가격상한 압박...업계 반발</b>
-<blockquote>영국 재무부가 인플레이션 억제를 위해 대형 슈퍼마켓들에 식품 가격 상한제 도입을 압박하고 있다. 유통업계는 정부의 가격통제 시도에 강하게 반발하고 있다.
-<a href="https://www.ft.com/content/85736371-40bc-4ec1-a502-4f557d3a68b0">[FT]</a></blockquote>
+<b>18. 영국, 연료세 인상 연기...연말까지 유예</b>
+<blockquote>영국 정부가 예정됐던 연료세 인상을 올해 말까지 연기했다. 유가 상승 국면에서 추가 부담을 피하기 위한 조치다.
+<a href="https://www.ft.com/content/e301a9df-2d11-49e9-9c09-ae66af1d9866">[FT]</a></blockquote>
 
-<b>19. 영국 재무장관, 고가 주택 해외 매수자에 "과점세" 검토</b>
-<blockquote>Rachel Reeves 재무장관이 고가 주택에 대한 맨션세와 별도로 비거주 외국인 구매자에게 추가 부담금을 부과하는 방안을 검토 중이다. 올리가르히 프리미엄으로 불리는 이 제도는 부유층 과세 강화 기조의 일환이다.
-<a href="https://www.ft.com/content/a4ec032c-0631-495d-9d97-314be4e86e50">[FT]</a></blockquote>
+<b>19. 영국-걸프 무역협정 확정...연간 £37억 경제효과 전망</b>
+<blockquote>영국 정부가 걸프 국가들과의 무역협정을 최종 확정했다. 정부는 이 협정이 장기적으로 연간 최대 £37억 규모의 경제효과를 가져올 것으로 추산했다.
+<a href="https://www.ft.com/content/7c08f1c9-0d5f-44f4-899f-bf922005aefa">[FT]</a></blockquote>
 
-<b>20. ECB, 6월 금리인상 전망 우세...호르무즈 봉쇄에도 시장 안정</b>
-<blockquote>호르무즈 해협이 여전히 폐쇄된 상황에서도 시장이 비교적 안정세를 유지하면서 ECB의 6월 금리인상 가능성이 커지고 있다. 인플레 압력이 지속되는 가운데 긴축 기조가 이어질 전망이다.
-<a href="https://www.ft.com/content/19f0e4ad-12f9-4521-ac5b-6dd091dd7806">[FT]</a></blockquote>
+<b>20. 이스라엘 조기 총선 법안 진전...Netanyahu 레퍼렌덤 성격</b>
+<blockquote>이스라엘 의회가 조기 총선을 위한 의회 해산 법안을 진전시켰다. Netanyahu 총리에 대한 사실상의 국민투표 성격을 띠게 될 전망이다.
+<a href="https://www.ft.com/content/58ea5761-aa4a-4098-b657-67d8716d9b77">[FT]</a></blockquote>
 
-<b>21. 일본은행, 6월 금리인상 추진 전망...FT 모니터링팀 분석</b>
-<blockquote>FT 통화정책 레이더팀은 일본은행이 6월 금리인상을 단행할 것으로 전망했다. 글로벌 인플레 압력과 엔화 약세 우려가 긴축 정책 전환을 뒷받침하고 있다.
-<a href="https://www.ft.com/content/d9e5e1f7-fec7-4e63-b26a-883129b24052">[FT]</a></blockquote>
+<b>21. 이스라엘 극우 장관, 유럽 활동가 조롱 영상 논란...외교적 반발 확산</b>
+<blockquote>이스라엘 극우 장관 Ben-Gvir가 유럽 활동가들을 조롱하고 모욕하는 영상이 공개되면서 서방 동맹국들의 외교적 반발이 확산되고 있다.
+<a href="https://www.ft.com/content/a3658698-2381-4e8c-94d2-f71dabb836ba">[FT]</a></blockquote>
 
-<b>22. 주가 연일 최고치 경신...채권시장 불안과 대조적, 조정 위험 경고</b>
-<blockquote>월가 주요 지수가 이란 전쟁으로 인한 경제 불안에도 연일 최고치를 경신하자, 투자자들은 채권시장 불안과 괴리된 주식시장에 조정 위험이 있다고 경고했다.
-<a href="https://www.ft.com/content/ce55bdaa-2c80-410b-91b9-4bec5459e570">[FT]</a></blockquote>
+<b>22. 아프리카 연료 위기 심화...케냐·코모로 폭력 시위, 모잠비크 파업</b>
+<blockquote>디젤 및 휘발유 가격 급등으로 아프리카 여러 나라에서 시위가 확산되고 있다. 케냐와 코모로에서는 폭력 충돌이 발생했고, 모잠비크에서는 파업이 벌어졌다.
+<a href="https://www.ft.com/content/273aee17-25ee-4608-9be2-88433e28270e">[FT]</a></blockquote>
 
-<b>23. 빅테크 자사주 매입 축소 추세...Nvidia는 예외 전망</b>
-<blockquote>주요 빅테크 기업들이 자사주 매입을 줄이고 있는 가운데, Nvidia는 예외적으로 대규모 자사주 매입을 지속할 것으로 예상된다.
-<a href="https://www.wsj.com/finance/stocks/big-tech-is-cutting-back-on-buybacks-nvidia-could-be-the-exception-8fc6044f">[WSJ]</a></blockquote>
+<b>23. 인도네시아, 원자재 수출 통제 강화...국영기업이 유일 수출 창구</b>
+<blockquote>인도네시아 정부가 팜유, 석탄, 니켈 수출을 담당할 국영기업을 설립해 유일 수출 창구로 삼을 계획이다. 원자재 강국의 수출 통제 강화로 시장 영향이 예상된다.
+<a href="https://www.ft.com/content/ff05fd54-9c36-4fcd-b277-64216609b4d1">[FT]</a></blockquote>
 
-<b>24. 태양광 주식 투자, 무역장벽 주목해야...에너지 위기에 보호주의 확산</b>
-<blockquote>에너지 위기로 각국 정부의 보호주의 정책이 강화되면서, 태양광 투자자들은 무역장벽 수혜 기업에 주목해야 한다는 분석이 나왔다.
-<a href="https://www.wsj.com/finance/investing/to-cash-in-on-solar-stocks-look-for-trade-barriers-ad33e94f">[WSJ]</a></blockquote>
+<b>24. Target 수년래 최강 매출 성장...제품·매장 쇄신 효과</b>
+<blockquote>Target이 수년 만에 가장 강력한 매출 증가율을 기록했다. 쇄신된 제품과 매장에 더 많은 쇼핑객이 몰리면서 부진한 실적에서 벗어났다.
+<a href="https://www.wsj.com/business/earnings/target-tgt-earnings-q1-2026-38e988fe">[WSJ]</a></blockquote>
 
-<b>25. Cerebras IPO 성공에 월가, 테크 기업 상장 붐 예상</b>
-<blockquote>칩 설계업체 Cerebras의 64억 달러 규모 IPO 성공으로 월가는 SpaceX, OpenAI, Anthropic 등 대형 테크기업 상장 붐이 올 것으로 기대하고 있다.
-<a href="https://www.ft.com/content/b839fea1-8563-4a34-b8f0-1c735f23467f">[FT]</a></blockquote>
+<b>25. Lowe's 매출 증가...온라인 성장 견인</b>
+<blockquote>주택개선 리테일러 Lowe's가 1분기 매출 증가를 기록했다. 온라인 채널 성장이 견인했지만, 정체된 주택시장이 여전히 부담 요인으로 작용하고 있다.
+<a href="https://www.wsj.com/business/retail/lowes-sales-boosted-by-online-growth-8f54154d">[WSJ]</a></blockquote>
 
-<b>26. 시진핑-Putin, Power of Siberia 2 가스관 협의...Trump 방중 직후 정상회담</b>
-<blockquote>시진핑 주석과 Putin 대통령이 중국 정상회담에서 대규모 가스관 프로젝트 Power of Siberia 2에 대해 논의한다. Trump 대통령의 베이징 방문 직후 열리는 이번 회담이 주목받고 있다.
-<a href="https://www.ft.com/content/7612a618-fbaf-4e3e-8e55-0cf5cc88d132">[FT]</a></blockquote>
+<b>26. TJX 실적 호조, 연간 가이던스 상향...오프프라이스 리테일 강세</b>
+<blockquote>T.J. Maxx 모기업 TJX Cos.가 1분기 매출 증가와 함께 연간 가이던스를 상향 조정했다. 신중한 소비 환경 속에서도 오프프라이스 리테일러로 고객이 집중되고 있다.
+<a href="https://www.wsj.com/business/retail/tjx-raises-fy-guidance-as-consumers-flock-to-the-off-price-retailer-9b93acb8">[WSJ]</a></blockquote>
 
-<b>27. 일본·한국, 에너지 협력 심화 합의...중동 위기 대응</b>
-<blockquote>일본과 한국이 중동 에너지 위기에 공동 대응하기 위해 에너지 협력을 강화하기로 합의했다. 양국은 공급망 다변화와 비축 확대 방안을 논의했다.
-<a href="https://www.ft.com/content/e4e6c218-b951-4b84-8645-86de5ebbfa3b">[FT]</a></blockquote>
+<b>27. Urban Outfitters, 1분기 기록적 매출 달성</b>
+<blockquote>Urban Outfitters가 1분기 사상 최고 매출 및 수익을 기록했다. 매출은 11% 증가한 $14.8억을 달성했다.
+<a href="https://www.wsj.com/business/earnings/urban-outfitters-first-quarter-sales-climb-on-growth-across-all-segments-3713fa4e">[WSJ]</a></blockquote>
 
-<b>28. 스웨덴, 프랑스에 40억 달러 규모 프리깃함 4척 발주</b>
-<blockquote>스웨덴이 러시아 위협에 대응해 발트해 안보를 강화하기 위해 프랑스에 40억 달러 규모 해군 프리깃함 4척을 발주했다고 Ulf Kristersson 총리가 밝혔다.
-<a href="https://www.wsj.com/world/europe/sweden-orders-four-navy-frigates-from-france-in-4-billion-deal-fc9e6571">[WSJ]</a></blockquote>
+<b>28. Intuit, 17% 인력 감축...AI 투자 본격화</b>
+<blockquote>TurboTax 및 QuickBooks 제작사 Intuit이 직원의 약 5분의 1을 감원한다. AI를 사업의 중심축으로 삼으면서 구조조정을 단행했다.
+<a href="https://www.wsj.com/business/earnings/intuit-to-cut-staff-invest-savings-into-big-bets-de705f7b">[WSJ]</a></blockquote>
 
-<b>29. 독일, Uniper 지분 99%→25%로 축소...민영화 착수</b>
-<blockquote>독일 정부가 우크라이나 전쟁으로 인한 에너지 위기 당시 국유화한 가스 수입업체 Uniper의 지분을 99%에서 25%로 줄이는 민영화 작업에 착수한다고 밝혔다.
-<a href="https://www.wsj.com/world/europe/germany-to-sell-off-most-of-its-stake-in-nationalized-utility-uniper-ad8f36bd">[WSJ]</a> <a href="https://www.ft.com/content/1c892dee-f962-424e-bcbf-9f1438d919c1">[FT]</a></blockquote>
+<b>29. 하원, 주택 법안 통과...건설사 구제 조항 포함</b>
+<blockquote>공화당이 장악한 하원이 새 연방 주택법을 통과시켰다. 상원안에 포함됐던 임대주택 7년 내 매각 의무 조항을 삭제해 건설사들에 숨통을 틔워줬다.
+<a href="https://www.wsj.com/politics/policy/newly-passed-housing-bill-throws-lifeline-to-homebuilders-d5dec1d4">[WSJ]</a></blockquote>
 
-<b>30. 이스라엘 우파 장관, ICC 체포영장 발부 주장..."전쟁 선포"</b>
-<blockquote>이스라엘 극우파 Bezalel Smotrich 재무장관이 국제형사재판소(ICC)가 자신에 대한 체포영장을 발부하려 한다며 이는 "전쟁 선포"라고 주장했다.
-<a href="https://www.ft.com/content/57e7facc-1f4f-4364-ae2b-a5944faf01c2">[FT]</a></blockquote>
+<b>30. Trump, 18억달러 '반무기화' 기금 소송 제기돼</b>
+<blockquote>1월 6일 경찰관 2명이 Trump 행정부의 $18억 규모 보상 프로그램이 정치적 폭력을 자금 지원하고 조장할 것이라며 소송을 제기했다.
+<a href="https://www.wsj.com/us-news/law/two-jan-6-police-officers-sue-to-stop-trumps-anti-weaponization-fund-7ca74cb5">[WSJ]</a></blockquote>
 
-<b>31. 이스라엘 고립 심화...비판국 늘지만 진성 우방도 이탈 중</b>
-<blockquote>이스라엘이 비판 여론만큼 국제적으로 고립되지는 않았지만, 일부 전통적 우방 국가들마저 등을 돌리기 시작하면서 외교적 입지가 좁아지고 있다.
-<a href="https://www.economist.com/international/2026/05/19/israel-the-lonely">[Economist]</a></blockquote>
+<b>31. 백악관 볼룸 프로젝트 10억달러 예산 의회 반발</b>
+<blockquote>Trump 대통령의 백악관 볼룸 프로젝트에 책정된 약 $10억 예산이 의회에서 반발에 부딪혔다. 공화당 내 'YOLO 코커스'의 입김이 커지고 있다.
+<a href="https://www.wsj.com/politics/policy/trump-ballroom-gop-senators-725af4d4">[WSJ]</a></blockquote>
 
-<b>32. Home Depot 1분기 이익 감소...대형 프로젝트 지출 위축</b>
-<blockquote>Home Depot의 1분기 순이익이 감소했다. CFO Richard McPhail은 경제 불확실성으로 주택 소유자들이 대규모 리모델링 프로젝트 지출을 계속 줄이고 있다고 밝혔다.
-<a href="https://www.wsj.com/business/retail/home-depot-posts-lower-profit-amid-slow-home-improvement-activity-2dd942c6">[WSJ]</a></blockquote>
-
-<b>33. Toll Brothers, 평균 주택 가격 100만 달러 돌파</b>
-<blockquote>럭셔리 주택건설업체 Toll Brothers는 지난 분기 계약 완료한 주택의 평균 가격이 2024년 중반 이후 처음으로 100만 달러를 넘어섰다고 밝혔다.
-<a href="https://www.wsj.com/business/earnings/homebuilder-toll-brothers-profit-declines-less-than-expected-d44fbe52">[WSJ]</a></blockquote>
-
-<b>34. 미국 4월 주택 계약 1.4% 증가...경제 불확실성에도 회복세</b>
-<blockquote>전미부동산협회(NAR)에 따르면 미국 4월 주택계약건수가 전월 대비 1.4% 증가했다. 경제 불확실성 속에서도 주택시장이 회복 조짐을 보이고 있다.
-<a href="https://www.wsj.com/economy/housing/u-s-pending-home-sales-rose-in-april-despite-economic-uncertainty-4f780d3f">[WSJ]</a></blockquote>
-
-<b>35. Berkshire, Delta 항공 지분 26억 달러 매입...항공주 재진입</b>
-<blockquote>Berkshire Hathaway가 1분기 Delta 항공 지분 26억 달러어치를 매입하며 항공주에 다시 진입했다. Greg Abel CEO는 Warren Buffett과 달리 항공업에 우호적인 태도를 보이고 있다.
-<a href="https://www.wsj.com/business/airlines/berkshire-hathaway-greg-abel-airlines-da88062b">[WSJ]</a></blockquote>
-
-<b>36. Agnico Eagle, 캐나다 북극권 금광에 24억 달러 투자 승인</b>
-<blockquote>캐나다 광산기업 Agnico Eagle이 북극권 Hope Bay 금광 프로젝트에 24억 달러를 투자하기로 승인했다. 이 광산은 중국이 운영을 희망했으나 무산된 곳이다.
-<a href="https://www.wsj.com/world/americas/agnico-eagle-approves-2-4-billion-investment-in-gold-project-207bdeea">[WSJ]</a></blockquote>
-
-<b>37. Analog Devices, Empower Semiconductor 15억 달러 인수</b>
-<blockquote>반도체 기업 Analog Devices가 Empower Semiconductor를 15억 달러에 인수한다. AI 컴퓨팅 전력공급 시장에서 입지를 확대하려는 전략이다.
-<a href="https://www.wsj.com/business/deals/analog-devices-to-buy-empower-semiconductor-for-1-5-billion-bcbe4d3d">[WSJ]</a></blockquote>
-
-<b>38. Chanel, 중국 매장 확대...신임 디자이너 효과에 매출·이익 성장 회복</b>
-<blockquote>Chanel이 신임 디자이너의 "Blazy 열풍"에 힘입어 중국 내 매장을 늘리고 매출과 이익 성장을 회복했다고 밝혔다. 럭셔리 업계 부진 속에서 이례적인 턴어라운드로 평가받고 있다.
-<a href="https://www.ft.com/content/5e61fa6a-61b2-45df-b775-21270cf9b49b">[FT]</a> <a href="https://www.economist.com/business/2026/05/19/chanels-creative-revival-is-paying-off">[Economist]</a></blockquote>
-
-<b>39. 전시 럭셔리 소비...경제 신호는 무엇인가</b>
-<blockquote>전쟁 중에도 고급 소비재 시장이 활황을 보이면서 이것이 경제 전반에 대해 무엇을 시사하는지 분석이 이어지고 있다.
-<a href="https://www.ft.com/content/420ea217-978d-4463-9d59-3a4116ca91e1">[FT]</a></blockquote>
-
-<b>40. Monzo, 유럽 확장 선언...수익 급증에 CEO "유럽엔 Monzo형 공백"</b>
-<blockquote>영국 디지털은행 Monzo의 Diana Layfield CEO가 수익 급증을 배경으로 유럽 시장 확장 계획을 밝혔다. 그는 "유럽 전역에 Monzo형 공백이 존재한다"고 강조했다.
-<a href="https://www.ft.com/content/8e876ceb-234b-4cfa-954b-61cae8ede712">[FT]</a></blockquote>
-
-<b>41. Deutsche Bank, 러시아 제재 위반으로 영국서 벌금</b>
-<blockquote>영국 해외자산제재이행실(OFSI)이 Deutsche Bank에 러시아 제재 위반으로 16만5,000파운드의 벌금을 부과했다. 스트리밍 업체 Okko 관련 결제 건이 적발됐다.
-<a href="https://www.ft.com/content/b8062770-0ffe-44e0-8144-e0e807b21a45">[FT]</a></blockquote>
-
-<b>42. Trump, 노동통계국장 후보 상원에 공식 제출</b>
-<blockquote>백악관이 Brett Matsumoto를 차기 노</blockquote>
+━━━━━━━━━━━━━━━━━━━━
+📡 <b>출처: WSJ · FT · The Economist</b>
