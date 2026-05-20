@@ -86,7 +86,9 @@ def split_message(text: str, limit: int = MAX_MSG_LEN) -> list[str]:
 async def send(text: str) -> None:
     bot = Bot(token=TELEGRAM_BOT_TOKEN)
     # 레이블 포함한 최종 청크 생성 (레이블 길이까지 감안해 분할)
-    raw_chunks = split_message(text)
+    # 레이블 "(계속 10/10)" 최대 길이만큼 여유를 두고 분할
+    LABEL_RESERVE = 20
+    raw_chunks = split_message(text, limit=MAX_MSG_LEN - LABEL_RESERVE)
     total = len(raw_chunks)
 
     final_chunks = []
