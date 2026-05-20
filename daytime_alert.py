@@ -190,16 +190,18 @@ def filter_with_haiku(
         )
 
     prompt = (
-        "아래 기사들 중 글로벌 Cross-Asset FICC 매크로 트레이더에게 필요한 기사 번호를 모두 골라줘.\n"
-        "피드 자체가 WSJ·FT·Economist로 한정되어 있으니, 아래 제외 항목이 아니면 포함해.\n\n"
-        "제외 (이것만 걸러내면 됨):\n"
+        "아래는 WSJ·FT·Economist 피드에서 수집한 기사들이다.\n"
+        "모든 기사는 기본적으로 IMPORTANT다.\n"
+        "아래 제외 목록에 명백히 해당하는 것만 걸러내고, 나머지는 전부 포함해라.\n"
+        "의심스러우면 포함해라.\n\n"
+        "제외 (명백히 이것에 해당하는 것만):\n"
         "- 스포츠, 라이프스타일, 문화, 연예\n"
         "- Q&A·독자 질의응답·뉴스레터 형식\n"
         "- 스타트업 펀딩·벤처 투자\n"
         "- 광고·미디어·소비재 섹터 개별 기업 M&A\n"
         "- 오피니언·칼럼 (단, 매크로 분석 포함된 것은 포함)\n"
         "- 지역 생활·복지·교육 이슈\n\n"
-        "중요한 기사 없으면 → NONE\n"
+        "해당 없으면 → NONE\n"
         "있으면 → IMPORTANT: 1,3,5  (번호만, 설명 없이)\n\n"
         f"=== 기사 목록 ({len(articles)}건) ===\n"
         + "\n\n".join(lines)
@@ -208,7 +210,7 @@ def filter_with_haiku(
     response = client.messages.create(
         model="claude-haiku-4-5",
         max_tokens=100,
-        system="FICC 뉴스 필터. 지정된 형식으로만 응답.",
+        system="FICC 뉴스 필터. 기본값은 IMPORTANT다. 명백한 제외 항목만 걸러내고 나머지는 전부 포함해. 지정된 형식으로만 응답.",
         messages=[{"role": "user", "content": prompt}],
     )
 
