@@ -31,28 +31,43 @@ DIGEST_CHAT_ID     = _require("DIGEST_CHAT_ID")   # KIS Global Brief 채널
 # RSS 피드
 # ─────────────────────────────────────────────
 WSJ_RSS_FEEDS = {
-    "markets":  "https://feeds.content.dowjones.io/public/rss/RSSMarketsMain",
-    "world":    "https://feeds.content.dowjones.io/public/rss/RSSWorldNews",
-    "economy":  "https://feeds.content.dowjones.io/public/rss/socialeconomyfeed",
-    "business": "https://feeds.content.dowjones.io/public/rss/WSJcomUSBusiness",
-    "us":       "https://feeds.content.dowjones.io/public/rss/RSSUSnews",
-    "politics": "https://feeds.content.dowjones.io/public/rss/socialpoliticsfeed",
+    "markets":    "https://feeds.content.dowjones.io/public/rss/RSSMarketsMain",
+    "world":      "https://feeds.content.dowjones.io/public/rss/RSSWorldNews",
+    "economy":    "https://feeds.content.dowjones.io/public/rss/socialeconomyfeed",
+    "business":   "https://feeds.content.dowjones.io/public/rss/WSJcomUSBusiness",
+    "us":         "https://feeds.content.dowjones.io/public/rss/RSSUSnews",
+    "politics":   "https://feeds.content.dowjones.io/public/rss/socialpoliticsfeed",
+    "whats-news": "https://feeds.content.dowjones.io/public/rss/RSSWSJD",
+    "opinion":    "https://feeds.content.dowjones.io/public/rss/RSSOpinion",
 }
 
 FT_RSS_FEEDS = {
+    # 기존
     "markets":          "https://www.ft.com/markets?format=rss",
     "world":            "https://www.ft.com/world?format=rss",
     "economy":          "https://www.ft.com/global-economy?format=rss",
     "commodities":      "https://www.ft.com/commodities?format=rss",
     "emerging-markets": "https://www.ft.com/emerging-markets?format=rss",
-    "currencies":     "https://www.ft.com/currencies?format=rss",
-    "equities":       "https://www.ft.com/equities?format=rss",
-    "us":             "https://www.ft.com/us?format=rss",
-    "asia-pacific":   "https://www.ft.com/asia-pacific?format=rss",
-    "europe":         "https://www.ft.com/europe?format=rss",
+    "currencies":       "https://www.ft.com/currencies?format=rss",
+    "equities":         "https://www.ft.com/equities?format=rss",
+    "us":               "https://www.ft.com/us?format=rss",
+    "asia-pacific":     "https://www.ft.com/asia-pacific?format=rss",
+    "europe":           "https://www.ft.com/europe?format=rss",
+    # 신규
+    "lex":              "https://www.ft.com/lex?format=rss",
+    "capital-markets":  "https://www.ft.com/capital-markets?format=rss",
+    "banking":          "https://www.ft.com/banking?format=rss",
+    "alphaville":       "https://www.ft.com/alphaville?format=rss",
+    "opinion":          "https://www.ft.com/opinion?format=rss",
+    "fund-management":  "https://www.ft.com/fund-management?format=rss",
+    "middle-east":      "https://www.ft.com/middle-east?format=rss",
+    "companies":        "https://www.ft.com/companies?format=rss",
+    "technology":       "https://www.ft.com/technology?format=rss",
+    "homepage":         "https://www.ft.com/?format=rss",
 }
 
 ECONOMIST_RSS_FEEDS = {
+    # 기존
     "finance":       "https://www.economist.com/finance-and-economics/rss.xml",
     "business":      "https://www.economist.com/business/rss.xml",
     "leaders":       "https://www.economist.com/leaders/rss.xml",
@@ -62,6 +77,10 @@ ECONOMIST_RSS_FEEDS = {
     "asia":          "https://www.economist.com/asia/rss.xml",
     "china":         "https://www.economist.com/china/rss.xml",
     "international": "https://www.economist.com/international/rss.xml",
+    # 신규
+    "middle-east-africa": "https://www.economist.com/middle-east-and-africa/rss.xml",
+    "special-report":     "https://www.economist.com/special-report/rss.xml",
+    "world-this-week":    "https://www.economist.com/the-world-this-week/rss.xml",
 }
 
 ALL_SOURCES = {
