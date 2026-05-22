@@ -124,7 +124,7 @@ def write_digest(client: anthropic.Anthropic, articles: list[dict], plan: str) -
 
     response = client.messages.create(
         model="claude-sonnet-4-5",
-        max_tokens=8192,
+        max_tokens=16000,
         system="당신은 KIS Global Brief 텔레그램 채널의 글로벌 마켓 뉴스 에디터입니다.",
         messages=[{"role": "user", "content": msg}],
     )
