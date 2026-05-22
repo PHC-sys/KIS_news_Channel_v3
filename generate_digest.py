@@ -13,7 +13,6 @@ Claude API를 사용해 overnight 수집 기사로 다이제스트를 자동 생
 """
 
 import json
-import math
 import os
 import re
 import sys
@@ -66,93 +65,6 @@ def format_for_prompt(articles: list[dict]) -> str:
 
 
 # ─────────────────────────────────────────────────────────────────
-# Haiku 사전 필터 (144건 → ~50건으로 압축)
-# ─────────────────────────────────────────────────────────────────
-HAIKU_BATCH = 30   # 배치당 기사 수
-
-
-def prefilter_with_haiku(client: anthropic.Anthropic, articles: list[dict]) -> list[dict]:
-    """Haiku로 FICC 무관 기사를 사전 제거 (배치 처리)"""
-    print(f"  Haiku 사전 필터: {len(articles)}건 처리 중...")
-
-    kept: list[dict] = []
-    total_batches = math.ceil(len(articles) / HAIKU_BATCH)
-
-    for batch_num in range(total_batches):
-        batch = articles[batch_num * HAIKU_BATCH : (batch_num + 1) * HAIKU_BATCH]
-
-        lines = []
-        for i, a in enumerate(batch, 1):
-            lines.append(
-                f"{i}. [{a['source']}] {a['title']}\n"
-                f"   요약: {a['summary'][:200]}\n"
-                f"   URL: {a['url']}"
-            )
-
-        prompt = (
-            "아래는 WSJ·FT·Economist에서 수집한 기사들이다.\n"
-            "FICC 매크로 트레이더 아침 브리핑에 포함할 기사 번호를 골라라.\n\n"
-            "=== [포함] ===\n"
-            "- 금리·채권·국채·수익률·크레딧스프레드\n"
-            "- 외환·FX·달러·엔·위안·원화 개입·변동성\n"
-            "- 원유·가스·금속·농산물 등 원자재\n"
-            "- 중앙은행·Fed·ECB·BOJ·한국은행 정책·발언\n"
-            "- 거시경제 지표 (CPI, PCE, 고용, GDP, PMI, 무역수지 등)\n"
-            "- 미국·유럽·중국 재정·통화 정책\n"
-            "- 무역분쟁·관세·제재·지정학적 리스크\n"
-            "- 이란·중동·핵·에너지 지정학\n"
-            "- 시장 전체에 영향하는 대형 빅테크 실적 (Apple·Nvidia·TSMC·Walmart 등)\n"
-            "- 주요국 정치 (재무장관 발언, 예산안, 선거 결과 등)\n"
-            "- 금융 규제·시스템 리스크·레버리지\n\n"
-            "=== [제외] ===\n"
-            "- 스포츠 (F1·골프·축구·NBA 등 경기·선수·구단)\n"
-            "- 게임·영화·음악·연예·팟캐스트\n"
-            "- 패션·뷰티·여행·호텔·식음료\n"
-            "- 소매 유통 개별 실적 (Ross·Target·Deckers·Foot Locker 등)\n"
-            "- 스타트업·VC 펀딩 (핀테크·거시 무관)\n"
-            "- 지역 사건사고·범죄 (금융 무관)\n"
-            "- 전염병·보건 단신 (금융 무관)\n"
-            "- 마케팅·광고·브랜드 캠페인\n"
-            "- 학교·교육·육아·주거 생활 팁\n\n"
-            "없으면 → NONE\n"
-            "있으면 → KEEP: 1,3,5  (번호만, 설명 없이)\n\n"
-            f"=== 기사 ({len(batch)}건) ===\n"
-            + "\n\n".join(lines)
-        )
-
-        response = client.messages.create(
-            model="claude-haiku-4-5",
-            max_tokens=200,
-            system=(
-                "FICC 매크로 트레이더 뉴스 필터. "
-                "금리·환율·원자재·중앙은행·지정학 관련 기사만 통과. "
-                "스포츠·연예·여행·소매유통·스타트업은 제외. "
-                "지정된 형식으로만 응답."
-            ),
-            messages=[{"role": "user", "content": prompt}],
-        )
-
-        result = response.content[0].text.strip()
-        print(f"  배치 {batch_num + 1}/{total_batches} Haiku: {result}")
-
-        if result == "NONE" or "KEEP:" not in result:
-            continue
-
-        try:
-            idx_str = result.replace("KEEP:", "").strip()
-            indices = [int(x.strip()) for x in idx_str.split(",")]
-            for i in indices:
-                if 1 <= i <= len(batch):
-                    kept.append(batch[i - 1])
-        except Exception as e:
-            print(f"  [경고] 배치 {batch_num + 1} 파싱 오류: {e} — 배치 전체 유지")
-            kept.extend(batch)
-
-    print(f"  Haiku 사전 필터 완료: {len(articles)}건 → {len(kept)}건")
-    return kept
-
-
-# ─────────────────────────────────────────────────────────────────
 # 1단계: 서사 분석 및 편집 계획
 # ─────────────────────────────────────────────────────────────────
 def plan_digest(client: anthropic.Anthropic, articles: list[dict]) -> str:
@@ -162,20 +74,35 @@ def plan_digest(client: anthropic.Anthropic, articles: list[dict]) -> str:
         "아래 기사들을 FICC 매크로 트레이더 관점에서 분석해줘.\n\n"
         "다음 순서로 계획을 짜줘:\n"
         "1. 오늘의 핵심 매크로 서사 2~3개 (예: 이란전쟁→에너지충격→연준매파전환→금약세)\n"
-        "2. 포함할 기사 목록 (번호) — 애매하면 포함 방향으로, 아래 항목만 제외:\n"
-        "   - 스포츠·라이프스타일·문화\n"
-        "   - 오피니언·칼럼 (팩트 없는 것)\n"
-        "   - Q&A·독자 질의응답 형식 기사 (예: FT Live Q&A, 에디터 독자 문답)\n"
+        "2. 포함할 기사 목록 (번호)\n\n"
+        "   【총량 제한】 최종 포함 기사는 반드시 30건 이하로 맞춰라.\n"
+        "   기사가 많을 때는 아래 우선순위로 엄격히 걸러낼 것.\n\n"
+        "   【최우선 포함】\n"
+        "   - 금리·채권·국채·수익률·크레딧스프레드\n"
+        "   - 외환·FX·달러·엔·위안·원화\n"
+        "   - 원유·가스·금속·농산물 등 원자재\n"
+        "   - 중앙은행·Fed·ECB·BOJ 정책·발언\n"
+        "   - 거시경제 지표 (CPI, PCE, 고용, GDP, PMI 등)\n"
+        "   - 무역분쟁·관세·제재·지정학적 리스크\n"
+        "   - 이란·중동·핵·에너지 지정학\n"
+        "   - 미국·유럽·중국 재정정책·주요국 예산\n\n"
+        "   【제한적 포함 — 전체에서 최대 3건】\n"
+        "   - 개별 기업 기사 (Apple·Nvidia·TSMC 등 시장 전체 영향 있는 대형 실적만)\n"
+        "   - AI·테크 산업 동향 (SpaceX·Anthropic 등 1건 이내, 거시 연관 있을 때만)\n\n"
+        "   【반드시 제외】\n"
+        "   - 스포츠·라이프스타일·문화·연예\n"
+        "   - 오피니언·칼럼 (구체적 팩트 없는 것)\n"
+        "   - Q&A·독자 질의응답 (예: FT Live Q&A)\n"
         "   - 뉴스레터·데일리브리핑 (예: FirstFT)\n"
-        "   - 스타트업 펀딩·밸류에이션 기사 (예: AI 스타트업 시리즈 투자, 기업가치)\n"
-        "   - 테러·군사 충돌 단신 (지정학 리스크 확대가 아닌 것, 예: IS 전투원 사살)\n"
-        "   - 전염병·보건 이슈 (금리·환율·원자재에 직접 영향 없는 것, 예: 에볼라 단신)\n"
-        "   - 지역 선거·내정 (단, 영국·유로존·미국 정치는 환율·금리 영향 있으면 포함)\n"
-        "   - 개별 기업 M&A (시장 전체 영향 없는 것, 예: 광고·미디어·소비재 기업 딜)\n"
-        "   - 개별 기업 노사 이슈 (예: 파업 가처분 등)\n"
-        "   - 특정 기업의 섹터 저평가 주장·자사 투자 발표\n"
-        "3. 주제가 겹치는 기사는 하나로 묶을 것 (묶을 기사 번호와 이유)\n"
-        "4. 서사 흐름에 맞는 최종 순서\n\n"
+        "   - 스타트업 펀딩·VC 투자·기업가치 추정\n"
+        "   - 테러·군사 단신 (지정학 리스크 확대 아닌 것)\n"
+        "   - 전염병·보건 이슈 (금리·환율·원자재 영향 없는 것)\n"
+        "   - 지역 선거·내정 (영국·유로존·미국 정치 제외)\n"
+        "   - 소매·유통·소비재 기업 M&A·실적 (Ross·Target·Deckers 등)\n"
+        "   - 개별 기업 노사 이슈\n"
+        "   - 특정 기업의 섹터 저평가 주장·자사주 매입 발표\n\n"
+        "3. 주제가 겹치는 기사는 하나로 묶을 것 (묶을 기사 번호와 이유) — 같은 이슈 중복 제거\n"
+        "4. 서사 흐름에 맞는 최종 순서 (매크로 → 지정학 → 정책 → 시장 순)\n\n"
         "계획만 간략히 출력하고, 다이제스트 본문은 쓰지 마.\n\n"
         f"=== 기사 목록 ({len(articles)}건) ===\n"
         + format_for_prompt(articles)
@@ -281,13 +208,7 @@ def main():
     articles = load_articles()
     client   = anthropic.Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
 
-    # Haiku 사전 필터: FICC 무관 기사 제거 (입력 토큰·출력 길이 동시 절감)
-    articles = prefilter_with_haiku(client, articles)
-    if not articles:
-        print("[오류] Haiku 필터 후 기사 없음 — collect.py 재실행 필요")
-        sys.exit(1)
-
-    print(f"Claude Sonnet 호출 중... (2단계, 입력 {len(articles)}건)")
+    print("Claude API 호출 중... (2단계)")
     plan   = plan_digest(client, articles)
     digest = write_digest(client, articles, plan)
     digest = sanitize_html(digest)
