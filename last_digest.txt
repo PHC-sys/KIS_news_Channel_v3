@@ -4,73 +4,145 @@
 
 ✅ <b>간밤의 주요 헤드라인</b>
 
-<b>1. 美-이란 협상 난항 지속...핵 프로그램·제재 완화 간극 여전</b>
-<blockquote>미국과 이란 간 협상이 핵 프로그램 축소와 제재 완화 조건을 두고 교착 국면에 빠졌다. 양측 모두 합의 동기가 있지만 입장 차이가 여전히 커 Trump 대통령은 "나쁜 딜은 하지 않을 것"이라고 선을 그었다.
-<a href="https://www.wsj.com/world/middle-east/iran-talks-bog-down-over-nuclear-program-sanctions-relief-31702b6f">[WSJ]</a></blockquote>
+<b>1. 美 이란 미사일 기지 타격에도 협상 지속...호르무즈 재개 기대에 국채 매수세</b>
+<blockquote>미국이 이란 남부 미사일 발사 시설을 타격했으나 호르무즈 해협 재개를 위한 양국 협상은 계속되고 있다. 이란은 인터넷 접속을 수개월 만에 복구하며 협상 진전 신호를 보냈다. 시장에서는 합의 기대감에 국채 매수세가 유입돼 수익률이 하락했다.
+<a href="https://www.ft.com/content/eec48003-35a8-4932-bac0-573cdaade0e5">[FT]</a> <a href="https://www.ft.com/content/a9a3a9e5-854a-4ccb-af03-d73f69ed0cd6">[FT]</a> <a href="https://www.wsj.com/finance/jgbs-fall-on-possible-technical-correction-2fa6bd43">[WSJ]</a></blockquote>
 
-<b>2. 이란 협상단 카타르 긴급 방문...중재국, 합의 최종 조율 박차</b>
-<blockquote>이란 의회 의장과 수석 협상가가 도하를 전격 방문하며 중재국들이 美-이란 협상안의 세부 사항을 마무리하기 위해 집중 조율에 나섰다.
-<a href="https://www.ft.com/content/fa47c6bc-0910-4882-afa2-3e4aedb4ab6c">[FT]</a></blockquote>
+<b>2. 이란, 경제 제재 해제 노린 협상 전략...트럼프 정치적 승리는 차단</b>
+<blockquote>이란은 호르무즈 해협 인근 교전에도 협상 테이블을 유지하며 경제 제재 해제와 트럼프 대통령의 정치적 득점 방지라는 두 가지 목표를 동시에 추구하고 있다. 테헤란은 합의 조건을 신중히 조율 중이다.
+<a href="https://www.wsj.com/world/middle-east/iran-pursues-deal-that-brings-economic-relief-without-handing-trump-victory-57129289">[WSJ]</a></blockquote>
 
-<b>3. 美-이란 프레임워크 구조 윤곽...60일 잠정 합의안 부상</b>
-<blockquote>Donald Trump 대통령은 협상 타결이 임박했다고 밝혔지만 "서두르지 않는다"는 입장도 함께 내놨다. Economist는 60일 프레임워크 합의안이 논의 중이며, 핵심 쟁점은 핵 프로그램 제한 수준과 제재 해제 시점이라고 분석했다.
-<a href="https://www.economist.com/middle-east-and-africa/2026/05/25/what-an-america-iran-deal-might-look-like">[Economist]</a></blockquote>
+<b>3. 이란 협상 진전 신호에도 유가 반등...중동 긴장에 변동성 지속</b>
+<blockquote>원유 선물은 전일 급락 이후 반등했다. 미국과 이란 간 군사 충돌이 이어지는 가운데 협상 기대감이 맞물리며 에너지 시장 변동성이 커지고 있다.
+<a href="https://www.wsj.com/finance/commodities-futures/oil-futures-mixed-as-traders-assess-middle-east-developments-c72d9429">[WSJ]</a></blockquote>
 
-<b>4. LNG 유조선 2척 호르무즈 해협 통과...에너지 공급 재개 신호</b>
-<blockquote>LNG 유조선 2척이 호르무즈 해협을 통과했고, 토요일에는 원유 운반선도 이 항로를 건넜다. 협상 진전에 따른 긴장 완화 조짐이 에너지 수송로 재개로 이어지고 있다.
-<a href="https://www.ft.com/content/9d2cdd87-5f4c-4ce1-a2d1-610729dd4aa9">[FT]</a></blockquote>
-
-<b>5. 브렌트유 7% 급락...투자자들은 여전히 회의적 반응</b>
-<blockquote>미-이란 협상 기대감에 브렌트유가 약 7% 하락했고 다우존스 선물도 상승했지만, 투자자들은 협상 진전이 실질적 영향을 미칠지에 대해 여전히 의구심을 표하고 있다.
-<a href="https://www.wsj.com/finance/oil-prices-drop-on-prospect-of-iran-deal-but-investors-arent-celebrating-yet-6d5a483a">[WSJ]</a></blockquote>
-
-<b>6. 유가 하락세 지속...생산 정상화·재고 복구 시간 필요</b>
-<blockquote>선박 운항이 재개되더라도 해운업계는 여전히 신중한 태도를 보이고 있으며, 생산 시설과 재고가 정상 수준으로 회복되기까지 상당한 시간이 소요될 전망이다.
-<a href="https://www.wsj.com/business/energy-oil/oil-markets-hormuz-us-iran-deal-cf79ca70">[WSJ]</a></blockquote>
-
-<b>7. FT 분석 "에너지 쇼크 아직 끝나지 않았다"...복구 장기화 경고</b>
-<blockquote>호르무즈 재개 합의가 이뤄지더라도 공급망 정상화에는 시간이 걸릴 것이라며, 에너지 시장 충격이 당분간 지속될 것이라는 분석이 나왔다.
-<a href="https://www.ft.com/content/36345a2b-e7bc-4077-8e88-5874cf9a723d">[FT]</a></blockquote>
-
-<b>8. 네타냐후, 헤즈볼라 공격 강화 지시...이란 협상 견제 의도</b>
-<blockquote>이스라엘 총리 Netanyahu는 군에 헤즈볼라 공격을 강화하라고 명령했다. 극우 각료들은 美-이란 평화협정이 이스라엘 작전을 제약할 수 있다는 우려 속에 레바논 내 '고강도 캠페인'을 요구하고 있다.
+<b>4. 이스라엘 극우파, 헤즈볼라 고강도 공격 촉구...美-이란 협상 견제</b>
+<blockquote>이스라엘 극우 세력이 미국과 이란의 평화 합의가 이스라엘의 군사 작전을 제약할 것을 우려해 레바논 헤즈볼라에 대한 고강도 공격을 요구하고 있다. 이스라엘군의 레바논 공습이 강화되는 양상이다.
 <a href="https://www.ft.com/content/016e3b6e-5324-4aa9-a82f-74ca56d88107">[FT]</a></blockquote>
 
-<b>9. 달러 약세 지속...美-이란 합의 기대에 리스크 자산 선호</b>
-<blockquote>호르무즈 해협 재개 전망에 힘입어 달러화가 추가 하락했다. 美-이란 협상 낙관론이 리스크 자산 선호로 이어지며 외환시장 변동성이 확대됐다.
-<a href="https://www.wsj.com/finance/currencies/risk-assets-firmer-on-u-s-iran-de-escalation-hopes-oil-key-swing-factor-52fde778">[WSJ]</a></blockquote>
+<b>5. 美 5월 소비자신뢰 하락...중동 전쟁 인플레 효과 확대</b>
+<blockquote>컨퍼런스보드의 5월 소비자신뢰지수가 전월 대비 하락했다. 중동 전쟁으로 인한 에너지 가격 상승이 물가 압력을 키우면서 소비심리가 악화됐다.
+<a href="https://www.wsj.com/economy/central-banking/u-s-consumer-sentiment-worsened-in-may-74ee03ed">[WSJ]</a></blockquote>
 
-<b>10. 미 10년물 금리, 유로존보다 가파른 상승 전망</b>
-<blockquote>Natixis는 미국 경제의 강한 펀더멘털을 근거로 미국 10년물 국채 금리가 유로존 동급 채권 금리보다 더 크게 상승할 것으로 내다봤다.
-<a href="https://www.wsj.com/finance/investing/jgbs-rise-amid-falling-crude-oil-prices-c4af0851">[WSJ]</a></blockquote>
+<b>6. ECB 고위 인사들, 6월 금리인상 가능성 시사...에너지 인플레 확산 우려</b>
+<blockquote>ECB의 Philip Lane·Isabel Schnabel이 에너지 가격 상승이 경제 전반으로 파급되고 있다며 6월 회의에서 금리 인상 가능성을 시사했다. 중동 전쟁 여파로 유로존 인플레 압력이 높아지는 상황이다.
+<a href="https://www.ft.com/content/e9f01829-1c6a-4200-a7fd-c1c8ceae8304">[FT]</a></blockquote>
 
-<b>11. 연준 차기 의장 Kevin Warsh, 내부 반발 직면</b>
-<blockquote>Kevin Warsh가 차기 연준 의장으로 지명되기도 전에 연준 내부에서 Barr 및 Waller가 공개 반대 의사를 표명하며 통화정책 불확실성이 높아지고 있다.
-<a href="https://www.wsj.com/opinion/kevin-warshs-internal-opponents-fire-away-ed44453f">[WSJ]</a></blockquote>
+<b>7. ECB, AI 버블 금융안정 리스크 경고...프라이빗 크레디트 투자 과열</b>
+<blockquote>유럽중앙은행이 프라이빗 크레디트 자금이 몰린 AI 붐이 기술의 잠재력을 과대평가할 경우 투자자 손실로 이어질 수 있다며 금융시스템 리스크를 경고했다.
+<a href="https://www.ft.com/content/7ecdff9f-4f3a-40dd-b984-9860097dd083">[FT]</a></blockquote>
 
-<b>12. 영국 재무장관, 핵심 부문 '영국산 우선 구매' 추진</b>
-<blockquote>Rachel Reeves 재무장관이 조선·철강·AI·에너지 인프라 등 핵심 산업에서 국내 조달을 우선하는 정책을 추진한다. 영국 정부의 산업정책 강화 움직임이 본격화되고 있다.
-<a href="https://www.ft.com/content/dcbb9223-044f-4363-8ab6-c3d283209872">[FT]</a></blockquote>
+<b>8. Micron 시총 48일 만에 2배 $1조 돌파...나스닥·S&P 500 상승 견인</b>
+<blockquote>메모리 반도체 업체 Micron Technology의 시가총액이 48일 만에 2배로 늘어 $1조를 넘어섰다. 반도체주 랠리가 나스닥 종합지수와 S&P 500 지수 상승을 주도했다.
+<a href="https://www.wsj.com/finance/stocks/global-stocks-markets-dow-news-05-26-2026-901372fa">[WSJ]</a> <a href="https://www.wsj.com/finance/stocks/oil-edges-higher-u-s-futures-pare-gains-as-u-s-iran-tensions-rise-31b424de">[WSJ]</a></blockquote>
 
-<b>13. 캐나다 Carney 총리, 앨버타 분리주의 경고..."브렉시트식 후회 불러올 것"</b>
-<blockquote>캐나다 총리가 산유주 앨버타의 독립 움직임을 "위험한 허세"라며 강하게 경고했다. 앨버타 분리주의가 영국의 브렉시트처럼 후회스러운 결과를 낳을 것이라고 지적했다.
-<a href="https://www.ft.com/content/5c3d12ba-c959-4d84-b0ee-b9258a749cd4">[FT]</a></blockquote>
+<b>9. 메모리 반도체 ETF 87% 급등...출시 50일 만에 $100억 돌파</b>
+<blockquote>Roundhill Memory ETF(DRAM)가 4월 출시 이후 50일 만에 87% 급등하며 자산 $100억을 돌파했다. AI 투자 열풍이 메모리 칩 시장으로 집중되고 있다.
+<a href="https://www.ft.com/content/95415dfc-904e-4ce5-a457-f50041c07ec9">[FT]</a></blockquote>
 
-<b>14. Rubio 국무장관 인도 방문...美-인도 관계 복원 시도</b>
-<blockquote>Marco Rubio 국무장관의 인도 방문은 미국의 '아메리카 퍼스트' 정책 추진 과정에서 악화된 양국 관계를 회복하려는 최근 노력의 일환이다.
-<a href="https://www.wsj.com/world/india/america-first-shadows-visit-by-rubio-to-repair-rift-with-india-1d72e023">[WSJ]</a></blockquote>
+<b>10. 헤지펀드, AI 소프트 매도·반도체 집중 매수...포지셔닝 재편</b>
+<blockquote>헤지펀드들이 AI 소프트웨어주를 줄이고 반도체주로 자금을 이동하고 있다. AI 투자 전략이 하드웨어 중심으로 재편되는 흐름이 포착됐다.
+<a href="https://www.ft.com/content/66fc88ec-af0d-452f-a535-193d9d5279f8">[FT]</a></blockquote>
 
-<b>15. 교황 Leo, AI를 성경 '바벨탑'에 비유...무장 해제 촉구</b>
-<blockquote>교황 Leo는 인공지능의 위협을 성경의 바벨탑에 비유하며 AI가 "이윤 숭배"에 의해 추진되는 기술 혁명이라고 경고했다. 가톨릭 교회 수장이 AI 백래시에 도덕적 무게를 더하고 있다.
-<a href="https://www.wsj.com/world/pope-leo-ai-encyclical-c5e1af6c">[WSJ]</a></blockquote>
+<b>11. SpaceX IPO 임박...나스닥 구조 바꿀 초대형 공모</b>
+<blockquote>SpaceX의 기업공개(IPO)가 임박했다. 상장 규모가 워낙 커 나스닥 시장 구조 자체를 바꿀 수 있다는 분석이 나온다.
+<a href="https://www.ft.com/content/a401b0c0-fcc0-4bae-9f57-e8d5c0957a70">[FT]</a></blockquote>
 
-<b>16. SpaceX IPO 관전 포인트...Elon Musk에 중력은 적용되지 않는가</b>
-<blockquote>역대 최대 규모 공모를 앞둔 Elon Musk는 기관투자자가 아닌 일반 개인투자자를 동원하는 전략을 구사하고 있다. 기업가치 논란 속에서도 그의 영향력은 여전히 강력하다는 평가다.
-<a href="https://www.wsj.com/tech/spacexs-ipo-is-a-bet-gravity-doesnt-apply-to-elon-musk-f798e814">[WSJ]</a></blockquote>
+<b>12. '기가 IPO' 급증, 공모시장 축소 징후...Economist 경고</b>
+<blockquote>초대형 IPO가 잇따르는 것은 역설적으로 공모시장 전체가 위축되고 있다는 신호라는 분석이 나왔다. 소수 거대 기업만 상장하는 구조적 문제가 부각되고 있다.
+<a href="https://www.economist.com/finance-and-economics/2026/05/26/giga-ipos-are-a-symptom-of-public-markets-giga-problem">[Economist]</a></blockquote>
 
-<b>17. 이란 전쟁이 미국 농업 대출에 미치는 영향</b>
-<blockquote>미 중서부 대출기관 조사 결과 농가 대출 상환률이 하락한 반면 대출 수요는 증가한 것으로 나타났다. 에너지 가격 상승이 농업 부문 재무 건전성에 부담을 주고 있다.
-<a href="https://www.wsj.com/finance/banking/iran-war-us-farm-loans-c5ff71b4">[WSJ]</a></blockquote>
+<b>13. 트럼프 행정부, 합법 이민 제한 강화...그린카드 신청 조건 대폭 축소</b>
+<blockquote>트럼프 행정부가 과거 불법 체류 이력이 있거나 비자 갱신 공백이 있는 이민자의 그린카드 신청을 제한하는 정책을 발표했다. 합법 이민 경로가 크게 좁아질 전망이다.
+<a href="https://www.wsj.com/politics/policy/green-card-policy-changes-explained-9243ee08">[WSJ]</a> <a href="https://www.economist.com/united-states/2026/05/26/the-trump-administrations-big-move-to-limit-legal-immigration">[Economist]</a></blockquote>
+
+<b>14. 중국, 對아프리카 관세 전면 철폐...트럼프 관세 우회로 활용</b>
+<blockquote>중국이 아프리카 국가에 대한 관세를 철폐했다. 아프리카 국가들이 미국 수출에 어려움을 겪는 가운데 중국은 이를 무역 우회 경로로 활용하려는 것으로 풀이된다.
+<a href="https://www.wsj.com/world/africa/china-africa-tariffs-664f62eb">[WSJ]</a></blockquote>
+
+<b>15. 텍사스 상원 결선투표 주목...트럼프 공화당 장악력 시험대</b>
+<blockquote>텍사스 상원 결선투표에서 트럼프 대통령이 지지한 Ken Paxton의 승패가 공화당 내 대통령 영향력을 가늠할 시금석이 될 전망이다.
+<a href="https://www.ft.com/content/f85f4807-515d-4dc8-aec4-62d9e4824197">[FT]</a></blockquote>
+
+<b>16. EU, 중국 JD.com의 Ceconomy 인수 심층 조사 착수...對中 견제 강화</b>
+<blockquote>유럽연합 집행위가 중국 전자상거래 업체 JD.com의 독일 가전유통 Ceconomy 인수 건에 대한 심층 조사에 착수했다. EU가 중국 기업 인수 건을 상세 심사하는 첫 사례가 될 전망이다.
+<a href="https://www.ft.com/content/662aac0e-54c8-45be-9ed3-7fdbffb1d4f0">[FT]</a></blockquote>
+
+<b>17. 美 주택 가격 상승세 둔화...3월 증가율 소폭 감소</b>
+<blockquote>3월 미국 주택 가격 상승률이 전월 대비 소폭 둔화했다. 모기지 금리 상승으로 주택 구매력이 약화된 영향이다.
+<a href="https://www.wsj.com/economy/housing/u-s-home-price-growth-slowed-in-march-4e6b871b">[WSJ]</a></blockquote>
+
+<b>18. 구리·목재·경유·알루미늄 급등이 주택시장 타격...주택당 구리 400파운드 사용</b>
+<blockquote>미국 주택 한 채당 평균 400파운드 이상의 구리가 사용되는 가운데 원자재 가격 급등이 주택 건설 비용을 끌어올리고 있다. 구리·목재·경유·알루미늄 등 핵심 자재 가격 상승이 주택시장의 새로운 걸림돌로 부상했다.
+<a href="https://www.wsj.com/finance/commodities-futures/the-housing-markets-latest-hurdles-copper-lumber-diesel-and-aluminum-70b45947">[WSJ]</a></blockquote>
+
+<b>19. 캐나다 4월 공장 출하 4.6% 급증...유가 급등 효과</b>
+<blockquote>캐나다의 4월 제조업 출하액이 전월 대비 4.6% 증가해 3개월 연속 상승세를 이어갔다. 유가 급등이 출하 증가를 견인했다.
+<a href="https://www.wsj.com/economy/canada-factory-sales-jump-an-estimated-4-6-in-april-59ef2ae8">[WSJ]</a></blockquote>
+
+<b>20. 캐나다 주요 은행 2분기 실적 양호 예상...신용손실 주목</b>
+<blockquote>캐나다 주요 은행들의 2분기 실적 발표를 앞두고 양호한 실적이 예상되나 경기 둔화로 신용손실충당금 규모가 관건이 될 전망이다.
+<a href="https://www.wsj.com/finance/banking/canadas-big-banks-expected-to-post-solid-second-quarter-but-outlook-in-focus-on-soft-backdrop-f237a1fd">[WSJ]</a></blockquote>
+
+<b>21. 英, Justin Sun 암호화폐 거래소 제재...러시아 거래 연루</b>
+<blockquote>영국이 트럼프 가문 암호화폐 사업 후원자였던 Justin Sun의 거래소를 러시아 관련 거래 혐의로 제재했다. 최근 Sun과 트럼프 가문은 공개적으로 결별한 상태다.
+<a href="https://www.wsj.com/finance/currencies/u-k-sanctions-justin-suns-crypto-exchange-over-russia-business-bc11b9b6">[WSJ]</a></blockquote>
+
+<b>22. 금 $4500.40 마감, 이틀 연속 하락...은 0.5% 상승</b>
+<blockquote>Comex 금 선물이 0.46% 하락한 $4500.40에 마감하며 이틀 연속 하락했다. 은 선물은 0.5% 상승했다.
+<a href="https://www.wsj.com/finance/commodities-futures/gold-edges-lower-as-traders-weigh-u-s-iran-deals-developments-bd37a475">[WSJ]</a></blockquote>
+
+<b>23. 美 천연가스 선물 상승 출발...연휴 이후 재개</b>
+<blockquote>메모리얼데이 연휴 이후 재개된 미국 천연가스 선물이 소폭 상승 출발했다.
+<a href="https://www.wsj.com/articles/european-gas-rises-on-u-s-iran-uncertainty-lng-disruptions-2555ad78">[WSJ]</a></blockquote>
+
+<b>24. 美 정부, First Brands에 관세 $2.86억 미납 청구...중국산 수입 가액 축소 혐의</b>
+<blockquote>미국 정부가 파산한 자동차 부품 업체 First Brands Group을 관세 사기 혐의로 고발하며 $2.86억 청구권을 제출했다. 중국산 수입 제품 가액을 축소 신고해 관세를 회피했다는 주장이다.
+<a href="https://www.wsj.com/pro/bankruptcy/u-s-government-hits-first-brands-with-286-million-claim-in-underpaid-tariffs-a2251078">[WSJ]</a></blockquote>
+
+<b>25. BP 의장 Albert Manifold 즉각 해임...괴롭힘 행위 논란</b>
+<blockquote>BP 이사회가 Albert Manifold 의장을 거버넌스 감독 실패와 용인 불가능한 행위를 이유로 만장일치로 즉각 해임했다. 여러 동료들이 그의 관여 방식을 공격적이라고 지적한 것으로 알려졌다.
+<a href="https://www.wsj.com/business/energy-oil/bps-chairman-albert-manifold-unanimously-removed-by-board-3fca4857">[WSJ]</a> <a href="https://www.ft.com/content/e63db59c-ed38-4930-b320-3b2481bf8e60">[FT]</a></blockquote>
+
+<b>26. Ferrari 첫 전기차 Luce 디자인 논란...시총 $50억 증발</b>
+<blockquote>Ferrari가 $640,000짜리 첫 전기차 Luce를 공개했으나 디자인을 조롱하는 온라인 밈이 쏟아지며 시가총액 $50억이 사라졌다. 경영진 내부에서도 럭셔리 전기차 수요를 놓고 의견이 엇갈리고 있다.
+<a href="https://www.wsj.com/business/autos/launch-of-ferraris-640-000-ev-erupts-into-a-storm-about-its-looks-ab3fe91c">[WSJ]</a> <a href="https://www.ft.com/content/17939c73-e747-4c95-a234-22ae966eb30c">[FT]</a></blockquote>
+
+<b>27. American Airlines, Starlink 기내 인터넷 도입...SpaceX, 항공사 장악 확대</b>
+<blockquote>American Airlines가 기내 인터넷 서비스로 SpaceX의 Starlink를 도입한다. SpaceX는 United·Southwest·Alaska Air에 이어 기내 인터넷 시장 지배력을 확대하고 있다.
+<a href="https://www.wsj.com/business/airlines/american-airlines-to-offer-starlink-internet-on-flights-dcd07845">[WSJ]</a></blockquote>
+
+<b>28. AutoZone 3분기 매출 증가...날씨 영향으로 성장세 둔화</b>
+<blockquote>AutoZone의 3분기 매출이 국내 사업 성장에 힘입어 증가했으나 선선한 날씨로 인해 성장세가 둔화됐다.
+<a href="https://www.wsj.com/business/earnings/autozone-sales-rise-on-domestic-growth-419c8cc7">[WSJ]</a></blockquote>
+
+<b>29. Dropbox 공동창업자 Houston, 19년 만에 CEO 사임...회장직 전환</b>
+<blockquote>Dropbox 공동창업자이자 CEO Andrew Houston이 19년 만에 최고경영자직에서 물러나 회장직으로 전환한다.
+<a href="https://www.wsj.com/business/c-suite/dropbox-ceo-to-step-down-after-19-years-3b482d07">[WSJ]</a></blockquote>
+
+<b>30. DuPont, 역분할 계획 승인...실적 가이던스 유지</b>
+<blockquote>소재·화학 업체 DuPont이 주주와 이사회 승인을 받아 역분할을 추진하며 실적 가이던스를 유지했다.
+<a href="https://www.wsj.com/business/retail/dupont-plans-reverse-stock-split-backs-guidance-39d9398b">[WSJ]</a></blockquote>
+
+<b>31. Eli Lilly, 백신 개발사 3곳 인수...감염병 예방 사업 재개</b>
+<blockquote>체중감량 약물 시장 선두주자 Eli Lilly가 백신 개발업체 3곳을 인수하며 감염병 예방 분야에 다시 주력하고 있다.
+<a href="https://www.wsj.com/business/deals/eli-lilly-curevo-limmatech-vaccine-deal-cd5d50fa">[WSJ]</a></blockquote>
+
+<b>32. 보험업계 임원 Greg Lindberg, 사기·뇌물 혐의로 징역 12년 선고</b>
+<blockquote>보험업계 경영자 Greg Lindberg가 대규모 사기 및 뇌물 제공 혐의로 두 건의 연방 형사 유죄 판결을 받고 징역 12년형을 선고받았다.
+<a href="https://www.wsj.com/finance/insurance-executive-sentenced-to-12-years-for-massive-fraud-bribery-952e2a11">[WSJ]</a></blockquote>
+
+<b>33. Mango 창업자 아들 Jonathan Andic, 일시 사임...부친 사망 조사 집중</b>
+<blockquote>패션 브랜드 Mango 창업자의 아들 Jonathan Andic이 아버지의 사망을 둘러싼 살인 혐의 조사에 집중하기 위해 직무에서 일시 물러났다.
+<a href="https://www.wsj.com/business/retail/mango-says-late-founders-son-stepping-down-temporarily-d1239156">[WSJ]</a> <a href="https://www.ft.com/content/fc589bbd-dd6d-48a3-97ee-cfb9b7ddc30c">[FT]</a></blockquote>
+
+<b>34. 영국·유럽, 5월 역대 최고 기온 경신...런던 35.1°C 기록</b>
+<blockquote>영국과 유럽이 5월 역대 최고 기온을 경신했다. 런던의 최고 기온이 35.1°C를 기록하며 종전 월별 최고치를 2°C 이상 초과했다.
+<a href="https://www.ft.com/content/5eb3df17-24f6-4575-a50e-782ee97c5f52">[FT]</a></blockquote>
+
+<b>35. 우크라이나, 포탄 공급 연합에서 9개국 이탈...체코 주도 계획 절반으로 축소</b>
+<blockquote>우크라이나에 수백만 발의 포탄을 공급하기 위한 체코 주도 연합국이 지난 12월 이후 절반으로 줄어든 것으로 나타났다. 우크라이나 대통령이 밝혔다.
+<a href="https://www.ft.com/content/f5dd7bd9-6da8-438b-bf80-1f942b91333d">[FT]</a></blockquote>
 
 ━━━━━━━━━━━━━━━━━━━━
 📡 <b>출처: WSJ · FT · The Economist</b>
