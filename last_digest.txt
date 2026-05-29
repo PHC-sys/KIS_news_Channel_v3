@@ -4,109 +4,101 @@
 
 ✅ <b>간밤의 주요 헤드라인</b>
 
-<b>1. 美·이란 휴전 연장 합의 임박...호르무즈 재개방 기대</b>
-<blockquote>Scott Bessent 미 재무장관은 미국과 이란이 '합의 골자'를 마련했다고 밝혔다. 호르무즈 해협의 단계적 재개방과 이란의 핵 활동 제한 약속이 핵심이며, 최종 승인은 Trump 대통령 결정에 달렸다. 다만 휴전 연장 합의 임박 소식에도 양측은 간밤 다시 교전했다.
-<a href="https://www.wsj.com/world/middle-east/u-s-and-iran-have-makings-of-a-deal-bessent-says-bf7aa79b">[WSJ]</a> <a href="https://www.ft.com/content/89c43161-27c3-4e4d-a5f6-49d895cde3da">[FT]</a> <a href="https://www.ft.com/content/de9e4ee6-a370-4934-a456-41bd10a60350">[FT]</a></blockquote>
+<b>1. 브렌트유 5월 19% 급락...2020년 이후 최대 낙폭 기록</b>
+<blockquote>미국-이란 휴전협상 진전 소식에 호르무즈 해협 재개방 기대감이 확산되며 유가가 급락했다. 브렌트유는 5월 한 달간 19% 하락해 2020년 이후 가장 큰 월간 낙폭을 기록했다. Trump 대통령은 호르무즈 해협 "무제한 통행"을 포함한 이란과의 최종 합의안을 약속했다.
+<a href="https://www.ft.com/content/5e10717a-0c6f-4c51-bf88-de47568bb885">[FT]</a> <a href="https://www.ft.com/content/84c15446-c6d6-47ad-93ee-80963ab3e4d4">[FT]</a> <a href="https://www.wsj.com/finance/commodities-futures/oil-falls-on-optimism-over-potential-u-s-iran-deal-fe2baf3d">[WSJ]</a></blockquote>
 
-<b>2. 美 1분기 GDP 1.6% 성장으로 하향 수정...기업 이익은 급증</b>
-<blockquote>미국 경제는 1분기 연율 1.6% 성장에 그쳐 당초 추정치를 하회했다. 반면 기업 이익은 전년 대비 가장 큰 폭으로 증가했다. 이란 전쟁으로 경제 불확실성이 지속되는 가운데 노동시장도 주춤한 모습이다.
-<a href="https://www.wsj.com/economy/q1-gross-domestic-product-revision-e1a6ff93">[WSJ]</a></blockquote>
+<b>2. 카자흐스탄, 이란 고농축 우라늄 인수 제안...협상 최대 난제 해법 부상</b>
+<blockquote>국제원자력기구(IAEA)에 따르면 카자흐스탄이 이란의 고농축 우라늄 재고를 인수하겠다고 제안했다. 이란 핵물질 처리 문제는 미-이란 종전 협상의 가장 까다로운 쟁점으로, 카자흐스탄의 제안이 돌파구가 될지 주목된다.
+<a href="https://www.ft.com/content/78931fe0-a21a-4183-baf3-4e43c526e462">[FT]</a></blockquote>
 
-<b>3. 美 연준 선호 인플레 지표 4월에도 목표 상회...유가 영향 지속</b>
-<blockquote>연준이 주목하는 PCE 물가지수는 4월에도 상승세가 둔화됐으나 여전히 목표치를 웃돌았다. 이란 전쟁 영향으로 에너지 가격이 오르면서 인플레이션 압력이 이어지고 있다. 일부 ECB 위원들은 4월 회의에서 금리 인상 가능성을 열어뒀던 것으로 드러났다.
-<a href="https://www.wsj.com/economy/central-banking/iran-war-keeps-feds-inflation-gauge-above-inflation-target-7b6926d1">[WSJ]</a> <a href="https://www.ft.com/content/ff56da96-fb1b-4924-9c44-b5442c531022">[FT]</a> <a href="https://www.wsj.com/pro/central-banking/some-ecb-officials-were-open-to-rate-rise-in-april-56ebdb3c">[WSJ]</a></blockquote>
+<b>3. UAE, 이란 본토 수십 차례 공습 참여...개전 초기부터 은밀히 개입</b>
+<blockquote>UAE가 중동 전쟁 초기부터 수주간 이란 본토를 수십 차례 공습했던 것으로 확인됐다. 이전까지 알려지지 않았던 규모의 UAE 개입은 역내 동맹 구도와 향후 긴장 완화 협상에 복잡한 변수로 작용할 전망이다.
+<a href="https://www.wsj.com/world/middle-east/the-u-a-e-s-secret-role-in-the-war-involved-dozens-of-strikes-on-iran-7fd28c40">[WSJ]</a></blockquote>
 
-<b>4. 美 실업수당 청구 증가...노동시장 불확실성 반영</b>
-<blockquote>지난주 미국의 신규 실업수당 청구 건수가 증가하며 이란 전쟁 속 경제 불확실성 가운데 노동시장이 주춤하고 있음을 시사했다.
-<a href="https://www.wsj.com/economy/jobs/u-s-jobless-claims-rose-last-week-5e4b14e1">[WSJ]</a></blockquote>
+<b>4. 연준 Bowman, 단기 에너지 인플레이션 대응 경계 발언</b>
+<blockquote>Michelle Bowman 연준 이사는 일시적 에너지 가격 상승에 대응하면 불필요한 통화긴축으로 경제활동과 고용시장에 부담을 줄 수 있다고 경고했다. 유가 급락에도 불구하고 인플레이션 경로 불확실성은 여전히 정책 판단의 핵심 변수로 남아 있다.
+<a href="https://www.wsj.com/economy/central-banking/feds-bowman-wary-of-reacting-to-short-term-energy-inflation-3d0dcea5">[WSJ]</a></blockquote>
 
-<b>5. Chevron CEO "여름 유가 급등 경고"...호르무즈 봉쇄로 공급 바닥</b>
-<blockquote>Chevron 최고경영자는 호르무즈 해협 봉쇄로 하루 최대 1,300만 배럴의 공급이 차단되면서 재고가 바닥나고 있다며, 여름 성수기를 앞두고 유가 급등을 경고했다. 유가 선물은 미·이란 합의 기대감에 소폭 상승 마감했다.
-<a href="https://www.ft.com/content/7b3211f8-2bca-4429-9bb6-0fa32f410b4d">[FT]</a> <a href="https://www.wsj.com/finance/commodities-futures/oil-gains-on-possible-technical-correction-aea37dd4">[WSJ]</a></blockquote>
+<b>5. 영란은행 Bailey 총재, 중동 휴전에도 금리인하 신중 입장 견지</b>
+<blockquote>Andrew Bailey 영란은행 총재는 중동 휴전이 이뤄져도 "여전히 불확실성을 만들 것"이라며 금리인하는 통화정책 당국이 "훨씬 더 확신할 수 있을 때" 가능하다고 밝혔다. 에너지 가격 변동성이 진정된 뒤에도 인플레이션 기조 확인이 필요하다는 신호다.
+<a href="https://www.ft.com/content/495ee364-b774-4647-b1f6-5993ebfbf3b5">[FT]</a></blockquote>
 
-<b>6. 단기 채권펀드로 자금 몰려...인플레 우려에 투자자 방어</b>
-<blockquote>인플레이션에 민감한 투자자들이 초단기 채권펀드로 몰리며 사상 최대 자금 유입을 기록했다. BlackRock은 "전통적 분산투자 수단이 난관에 봉착했다"고 분석했다.
-<a href="https://www.wsj.com/finance/stocks/inflation-wary-investors-pour-into-short-dated-bond-funds-5695cfa4">[WSJ]</a></blockquote>
+<b>6. 프랑스 인플레이션 2년래 최고...ECB 6월 금리인상 가능성</b>
+<blockquote>프랑스 소비자물가가 에너지 비용 상승으로 2년 이상 만에 최고치를 기록했다. 이 결과는 유럽중앙은행(ECB)이 다음 달 회의에서 2023년 이후 처음으로 금리를 인상할 가능성을 높이고 있다.
+<a href="https://www.wsj.com/economy/global/french-inflation-rises-to-more-than-two-year-high-as-energy-costs-intensify-f5bf318a">[WSJ]</a></blockquote>
 
-<b>7. 캐나다 중앙은행 "은행권, 장기 유가 충격 견딜 여력 충분"</b>
-<blockquote>캐나다 은행들은 지난 1년간 재무 건전성을 강화해 이란 전쟁이 장기화되고 에너지 가격 급등이 지속되더라도 고객 대출을 유지할 수 있다고 Bank of Canada가 밝혔다. 한편 캐나다 1분기 경상수지 적자는 직접투자 소득 흑자 감소로 확대됐다.
-<a href="https://www.wsj.com/economy/central-banking/canada-lenders-well-placed-to-handle-prolonged-energy-price-shock-central-bank-says-a36cdcc9">[WSJ]</a> <a href="https://www.wsj.com/economy/trade/canada-1q-current-account-deficit-widens-967526c4">[WSJ]</a></blockquote>
+<b>7. 다음주 미국 고용·ISM 지표 집중...연준 금리 전망 가늠자</b>
+<blockquote>다음 주 미국 고용지표와 제조업·서비스업 ISM 지수가 발표되며 투자자들은 연준의 금리 경로 전망을 재평가할 예정이다. 최근 유가 급락과 에너지 인플레이션 완화 신호 속에서 고용시장 강도가 핵심 변수로 떠올랐다.
+<a href="https://www.wsj.com/economy/week-ahead-for-fx-bonds-u-s-jobs-ism-data-in-focus-cb592017">[WSJ]</a></blockquote>
 
-<b>8. Anthropic, $965억 밸류로 OpenAI 제쳐...AI 투자 열기 정점</b>
-<blockquote>AI 기업 Anthropic이 $650억 신규 투자 유치를 확정하며 기업가치 $9,650억으로 OpenAI를 넘어섰다. Altimeter Capital, Dragoneer, Greenoaks, Sequoia Capital이 라운드를 주도했다. SpaceX IPO 서류에 명시된 Anthropic과의 데이터센터 계약은 3년이 아닌 180일 단기 계약이라는 Elon Musk의 트윗으로 논란이 일기도 했다.
-<a href="https://www.wsj.com/tech/ai/anthropic-valuation-openai-80bf2c0a">[WSJ]</a> <a href="https://www.ft.com/content/fd0aec4a-50d1-4594-b489-7420bd0b4268">[FT]</a> <a href="https://www.ft.com/content/7df0906c-6d9b-4440-b94e-65af0a785f7b">[FT]</a> <a href="https://www.ft.com/content/f757f67f-a7b4-45ec-a42e-026b986631e0">[FT]</a></blockquote>
+<b>8. WSJ 달러인덱스 5월 0.61% 상승...95.58 기록</b>
+<blockquote>WSJ 달러인덱스는 이틀 연속 하락했으나 5월 한 달간 0.61% 상승하며 95.58을 기록했다. 미국 경제 견조세와 캐나다 경기침체 우려 속에 달러 강세 흐름이 이어졌다.
+<a href="https://www.wsj.com/finance/currencies/asian-currencies-consolidate-as-traders-ponder-potential-u-s-iran-deal-67871a3c">[WSJ]</a></blockquote>
 
-<b>9. Dell 매출 88% 급증...AI 수요에 연간 전망 상향</b>
-<blockquote>Dell Technologies는 AI 인프라 수요 급증에 힘입어 매출이 전년 대비 88% 급증했다. 회사는 연간 매출 전망을 $1,650억~$1,690억으로 상향 조정했다. 기존 예상치는 $1,380억~$1,420억이었다.
-<a href="https://www.wsj.com/business/earnings/dell-raises-fiscal-year-outlook-after-sales-soar-88-18163354">[WSJ]</a></blockquote>
+<b>9. 일본, 한 달간 엔화 개입에 73조 원 투입...사상 최대 규모</b>
+<blockquote>일본 정부는 4월 28일부터 5월 27일까지 엔화 방어를 위해 11조 7350억 엔(약 73조 원) 이상을 투입한 것으로 확인됐다. 이는 월간 기준 사상 최대 외환시장 개입 규모다.
+<a href="https://www.wsj.com/economy/central-banking/japan-spent-record-11-735-trillion-yen-on-currency-intervention-5a0267e2">[WSJ]</a></blockquote>
 
-<b>10. 반도체·메모리 랠리 지속...소프트웨어는 침체 탈출</b>
-<blockquote>AI 지출이 소프트웨어에서 반도체로 이동하면서 칩·메모리 섹터 랠리가 계속됐다. Snowflake 주가 급등은 소프트웨어 기업들이 침체를 벗어나려면 무엇을 해야 하는지 보여준 사례로 평가된다.
-<a href="https://www.ft.com/content/e6e2228a-1f94-4afb-b165-ce3c2daaa084">[FT]</a> <a href="https://www.ft.com/content/689ffcf5-e593-4cd1-ad99-dc0595696495">[FT]</a></blockquote>
+<b>10. 금 5월 1.2% 하락...3개월 연속 약세</b>
+<blockquote>Comex 금 선물은 29일 1.4% 상승 마감했으나 5월 한 달간 1.2% 하락하며 3개월 연속 약세를 기록했다. 최종 가격은 온스당 $4,560.50. 중동 휴전 기대감에 안전자산 수요가 감소했다.
+<a href="https://www.wsj.com/finance/commodities-futures/gold-edges-lower-as-traders-assess-potential-u-s-iran-deal-1e19fe0e">[WSJ]</a></blockquote>
 
-<b>11. Amazon, AI 사용률 리더보드 폐지..."무조건 쓰지 말라"</b>
-<blockquote>Amazon은 임직원들의 AI 도구 사용률 순위를 추적하던 내부 리더보드를 폐지했다. 고위 임원 Dave Treadwell은 "AI를 쓰기 위해 AI를 쓰지 말라"며 비용 상승을 우려했다.
-<a href="https://www.ft.com/content/b1a62a7f-6df5-4c90-94ce-64ce9c9961b6">[FT]</a></blockquote>
+<b>11. 캐나다 GDP 2분기 연속 마이너스...경기침체 진입 가능성</b>
+<blockquote>캐나다 경제가 1분기 예상 밖으로 위축되며 2분기 연속 마이너스 성장을 기록했다. 연초 경제활동이 정체되면서 캐나다가 경기침체에 빠졌을 가능성이 높아졌다.
+<a href="https://www.wsj.com/economy/central-banking/canada-gdp-dips-0-1-in-first-quarter-6cdd1517">[WSJ]</a></blockquote>
 
-<b>12. IBM·Red Hat, AI 기반 오픈소스 보안에 $50억 투입</b>
-<blockquote>IBM과 Red Hat은 'Project Lightwell'이라는 이름으로 AI 기반 오픈소스 보안 이니셔티브에 $50억을 투자한다. 2만 명의 엔지니어를 투입해 신뢰할 수 있는 엔터프라이즈급 오픈소스 검증 체계를 구축할 계획이다.
-<a href="https://www.wsj.com/tech/ai/ibm-red-hat-pledge-5-billion-for-ai-driven-open-source-security-initiative-4f1e03a4">[WSJ]</a></blockquote>
+<b>12. 시카고 PMI 5월 62.7로 급등...4월 수축권 탈출</b>
+<blockquote>MNI Indicators가 집계한 시카고 기업활동지수가 5월 62.7로 급등하며 4월 49.2(수축권)에서 벗어났다. 미국 제조업 회복세를 시사하는 신호다.
+<a href="https://www.wsj.com/economy/chicago-business-activity-surges-in-may-52341d68">[WSJ]</a></blockquote>
 
-<b>13. Tilman Fertitta, Caesars를 $176억에 인수...카지노 업계 대형 딜</b>
-<blockquote>억만장자 Tilman Fertitta의 Fertitta Entertainment가 Caesars Entertainment를 주당 $31 전액 현금으로 인수한다. 인수 대금 $57억에 부채 $119억을 합쳐 총 거래 규모는 $176억이다. 최근 수년간 게임 업계 최대 딜 중 하나로 꼽힌다.
-<a href="https://www.wsj.com/business/deals/caesars-to-be-acquired-by-fertitta-entertainment-in-all-cash-deal-3eb69d1c">[WSJ]</a> <a href="https://www.ft.com/content/86b4d885-0bba-4547-832b-bb2481f3cae9">[FT]</a></blockquote>
+<b>13. 미국 신용카드 연체율 금융위기 이후 최고...총 부채 $1.25조</b>
+<blockquote>높은 금리와 고질적 인플레이션으로 미국 소비자 신용카드 연체율이 금융위기 이후 최고치를 기록했다. 총 신용카드 부채는 $1.25조에 달하며 "생존 부채" 패턴이 확산되고 있다.
+<a href="https://www.wsj.com/personal-finance/credit/us-credit-card-debt-af5c7c77">[WSJ]</a></blockquote>
 
-<b>14. 인플레 압박 속 소비자 가치 추구 가속...리테일 실적 엇갈려</b>
-<blockquote>Costco는 3분기 매출 증가세를 이어갔고, Dollar Tree와 Burlington Stores도 실적 호조와 함께 연간 전망을 상향했다. 반면 Gap은 Old Navy 성장 둔화로 연간 매출 전망을 하향 조정했고, American Eagle은 핵심 여성복 카테고리 부진을 인정했다. 기업들은 소형 패키지, 밸류 메뉴 등 가격에 민감한 소비자를 겨냥한 전략을 강화하고 있다.
-<a href="https://www.wsj.com/business/earnings/costco-profit-rises-as-value-offerings-draw-pressured-consumers-30fde86f">[WSJ]</a> <a href="https://www.wsj.com/business/retail/dollar-tree-posts-higher-profit-revenue-f7ad7d23">[WSJ]</a> <a href="https://www.wsj.com/business/retail/burlington-lifts-outlook-as-quarterly-sales-jump-5db79c01">[WSJ]</a> <a href="https://www.wsj.com/business/retail/gap-cuts-full-year-sales-outlook-citing-slower-old-navy-growth-693428f0">[WSJ]</a> <a href="https://www.wsj.com/business/retail/american-eagle-outfitters-first-quarter-sales-rise-despite-core-brand-decline-ece3db92">[WSJ]</a> <a href="https://www.wsj.com/business/retail/americans-are-sick-of-high-prices-companies-are-finally-doing-something-about-it-a4506def">[WSJ]</a></blockquote>
+<b>14. 미국 주식 2023년 이래 최장 주간 연속 상승...AI 기대감</b>
+<blockquote>미국 주식시장이 AI 열풍과 미-이란 휴전 연장 기대감에 힘입어 2023년 이후 가장 긴 주간 연속 상승세를 기록했다. 유가 하락도 주식시장을 사상최고가로 밀어올렸다.
+<a href="https://www.ft.com/content/d218a534-7f63-4bd9-867d-f47f4727e2e1">[FT]</a> <a href="https://www.wsj.com/finance/stocks/oil-declines-lift-stocks-to-fresh-records-243d065e">[WSJ]</a></blockquote>
 
-<b>15. 중국 전기차 업체 실적 부진...Li Auto 손실 전환, XPeng 매출 급감</b>
-<blockquote>Li Auto는 주력 플러그인 하이브리드 수요 둔화와 마진 축소로 적자를 기록했다. XPeng은 1분기 매출 급감으로 지난해 말 흑자 전환 후 다시 손실로 돌아섰다. 중국 경제의 양극화와 석탄광산 폭발 사고는 중국 경제의 이중 속도 성장을 보여준다.
-<a href="https://www.wsj.com/business/autos/li-auto-suffers-loss-as-hybrid-sales-slow-shrinking-margins-cd6ced55">[WSJ]</a> <a href="https://www.wsj.com/business/earnings/xpeng-posts-loss-as-revenue-slumps-despite-stronger-margins-98177a06">[WSJ]</a> <a href="https://www.economist.com/china/2026/05/28/a-coalmine-explosion-lays-bare-chinas-two-speed-economy">[Economist]</a></blockquote>
+<b>15. Dell 주가 급등...데이터센터 매출·국방부 계약 호재</b>
+<blockquote>Dell 주가가 데이터센터 부문 매출 호조와 국방부 신규 계약 소식에 급등했다. Trump 대통령 측 계정이 $100만 이상 매수한 이후 Dell 주가는 150% 상승했다.
+<a href="https://www.wsj.com/tech/dell-stock-soars-on-data-center-revenue-and-pentagon-deal-6645700b">[WSJ]</a></blockquote>
 
-<b>16. EU, 중국산 수입품 쿼터·관세 확대 추진...칩 공급망 위기 대응 권한도 강화</b>
-<blockquote>EU 산업 담당 집행위원 Stéphane Séjourné는 핵심 산업에 대한 '실존적 위협'에 맞서 중국산 제품 수입 쿼터와 관세를 확대하겠다고 밝혔다. 별도로 EU는 위기 시 칩 제조사들에게 기존 계약을 무시하고 공급처를 변경하도록 강제할 수 있는 권한을 담은 법안 초안을 마련했다. 한편 JD.com의 €26억 Ceconomy 인수 건은 EU 역내 경쟁 왜곡 우려로 심층 조사에 들어갔다.
-<a href="https://www.ft.com/content/e28fe696-ac30-4543-a105-febc82789f87">[FT]</a> <a href="https://www.ft.com/content/9d7d6204-4fc7-4f1d-af05-473c3649efcd">[FT]</a> <a href="https://www.wsj.com/world/europe/jd-coms-2-6-billion-ceconomy-takeover-move-faces-in-depth-eu-probe-d5ebdafe">[WSJ]</a></blockquote>
+<b>16. Citadel Securities, 이란 변동성에 1분기 매출 $4.3B 기록</b>
+<blockquote>마켓메이커 Citadel Securities는 유가와 미 국채금리가 요동친 1분기 거래 매출 $4.3B, 순이익 $1.9B를 기록했다. 중동 전쟁발 변동성 확대가 실적을 견인했다.
+<a href="https://www.ft.com/content/bcec986d-52ac-47c5-a0c5-74cbe59dd524">[FT]</a></blockquote>
 
-<b>17. 독일, EU 금융서비스 감독 일원화 입장 전환..."국익보다 자본시장 통합"</b>
-<blockquote>독일 재무장관은 자본시장 통합이 "국익 고수보다 중요하다"며 EU 차원의 금융서비스 감독 강화에 찬성 입장을 밝혔다. 기존 독일의 국가별 감독 선호 기조에서 전환한 것이다.
-<a href="https://www.ft.com/content/c7507d54-768a-49ab-95e9-06ac13e94966">[FT]</a></blockquote>
+<b>17. Trump 행정부, USMCA 자동차 미국산 비중 50% 요구</b>
+<blockquote>Trump 행정부는 미국·멕시코·캐나다 무역협정(USMCA) 재협상에서 역내 생산 자동차의 최소 50%를 미국산으로 채울 것을 요구했다. 현행 협정에는 미국 특정 비중 조항이 없다.
+<a href="https://www.wsj.com/politics/policy/trump-administration-wants-autos-under-usmca-to-be-at-least-50-made-in-america-c6204c18">[WSJ]</a></blockquote>
 
-<b>18. 캐나다 Mark Carney, 對美 경제 다변화 추진하면서도 미국 투자 유치 나서</b>
-<blockquote>캐나다 총리 Mark Carney는 뉴욕 출장에서 미국 기업들을 적극 유치했다. 수개월간 새로운 경제 파트너를 물색하며 對미 의존도를 낮춰온 것과 대조적인 모습이다.
-<a href="https://www.wsj.com/world/americas/carney-is-steering-canada-away-from-the-u-s-but-still-wants-its-investors-0646f65f">[WSJ]</a></blockquote>
+<b>18. 중국, EU 보조금 규제 추진에 무역보복 조사 위협</b>
+<blockquote>중국은 EU가 고(高)보조금 외국 제품 수입 제한안을 추진할 경우 EU를 대상으로 무역 조사를 개시하겠다고 위협했다. 유럽의 중국산 제품 견제에 대한 맞대응 신호다.
+<a href="https://www.wsj.com/world/europe/china-threatens-to-launch-trade-probes-against-the-european-union-cdf0c62f">[WSJ]</a></blockquote>
 
-<b>19. CIBC, 카리브해 사업부 $16억에 매각...자사주 매입 나서</b>
-<blockquote>캐나다 CIBC는 카리브해 자회사 지분 91.7%를 Bank of N.T. Butterfield & Son에 현금 $10억과 Butterfield 주식 5,210만주(현재 가치 $6.45억)에 매각한다. 매각 후 자사주 매입에 나설 계획이다.
-<a href="https://www.wsj.com/finance/banking/cibc-to-sell-caribbean-arm-for-1-6-billion-a356dcd1">[WSJ]</a></blockquote>
+<b>19. CVC, IFF 식품원료 부문 $4.3B에 인수</b>
+<blockquote>사모펀드 CVC가 향료업체 IFF의 최대 사업부인 식품원료 부문을 $4.3B에 인수한다. IFF는 수익성 개선을 위한 사업 정리 작업을 이어가고 있다.
+<a href="https://www.ft.com/content/d56a6bff-4d50-419e-94c1-45378213c744">[FT]</a> <a href="https://www.wsj.com/business/deals/flavor-maker-iff-nears-4-billion-deal-to-sell-food-ingredients-business-to-cvc-84f0171f">[WSJ]</a></blockquote>
 
-<b>20. TD Bank, 배당 인상...캐나다 주요 은행 실적 호조</b>
-<blockquote>Toronto-Dominion Bank는 최근 분기 실적 호조에 힘입어 배당금을 인상했다. 캐나다 주요 은행들이 투자자 환원을 확대하는 흐름에 동참했다.
-<a href="https://www.wsj.com/finance/banking/td-bank-lifts-dividend-after-strong-quarter-for-operations-7fcb3bc4">[WSJ]</a></blockquote>
+<b>20. Universal Music, Bill Ackman의 $65B 인수 제안 거부</b>
+<blockquote>Universal Music Group 최대주주는 Bill Ackman의 Pershing Square가 제시한 $65B 인수안을 "세계 최대 음악기업을 저평가했다"며 거부했다. Ackman은 암스테르담 상장을 뉴욕으로 옮기면 가치가 상승할 것이라고 주장했다.
+<a href="https://www.ft.com/content/ea70bb98-d808-4cd3-b07c-979f779e495d">[FT]</a> <a href="https://www.wsj.com/business/media/universal-music-group-rejects-65-billion-buyout-offer-from-bill-ackman-a326ce79">[WSJ]</a></blockquote>
 
-<b>21. Netanyahu, 가자지구 70% 점령 명령...남부 레바논 공습도 확대</b>
-<blockquote>이스라엘 총리 Benjamin Netanyahu는 가자지구의 70%를 장악하라고 군에 지시하며 "Hamas를 압박하고 있다"고 밝혔다. 동시에 남부 레바논 공습도 확대했다. 베이루트 남부 교외에 대한 새로운 공습은 양국의 워싱턴 '안보 회담' 하루 전에 이뤄졌다.
-<a href="https://www.ft.com/content/a05555e9-a6ba-4162-976c-faac6840716a">[FT]</a> <a href="https://www.ft.com/content/f62d983b-b82c-46a4-9d13-b3a8a568ae17">[FT]</a></blockquote>
+<b>21. SEC, 기후 리스크 공시 의무 폐지 추진</b>
+<blockquote>미국 증권거래위원회(SEC)가 Biden 시대 기업 기후 리스크 공시 의무를 "월권"으로 규정하고 폐지 절차에 착수했다. 기후공시 규제는 공화당 행정부 출범 이후 철회 1순위 규제로 꼽혀왔다.
+<a href="https://www.ft.com/content/9f64a3ed-960e-4a64-93df-323c7b043d6a">[FT]</a></blockquote>
 
-<b>22. 스웨덴, 우크라이나에 Saab 전투기 공급 합의...EU 차관 $29억 투입</b>
-<blockquote>우크라이나는 EU 지원 차관 중 약 $29억을 스웨덴 Saab 전투기 구매에 배정하기로 했다. 양국이 전투기 공급 계약에 합의했다.
-<a href="https://www.wsj.com/world/europe/sweden-agrees-to-saab-fighter-jet-deal-with-ukraine-8bf60a88">[WSJ]</a></blockquote>
+<b>22. Kalshi, 미국 첫 무기한선물 출시...암호화폐 거래 가능</b>
+<blockquote>상품선물거래위원회(CFTC) 승인을 받아 예측시장 플랫폼 Kalshi가 미국 최초로 무기한선물 상품을 출시했다. 미국 투자자들은 Kalshi 플랫폼에서 암호화폐 거래에 접근할 수 있게 됐다.
+<a href="https://www.wsj.com/finance/commodities-futures/kalshi-launches-first-perpetual-futures-in-the-u-s-fc066443">[WSJ]</a></blockquote>
 
-<b>23. Exxon, 베네수엘라 복귀 타진...19년 만의 귀환에 난관 산적</b>
-<blockquote>Exxon Mobil은 19년 만에 베네수엘라에서 원유 생산을 재개하기 위한 협상을 진행 중이지만 여러 장애물이 남아 있다.
-<a href="https://www.wsj.com/business/energy-oil/inside-exxons-dilemma-over-returning-to-venezuela-4b8f4f5d">[WSJ]</a></blockquote>
+<b>23. 러시아 드론, 루마니아 아파트 충돌...NATO 긴장 고조</b>
+<blockquote>러시아 드론이 NATO 회원국 루마니아의 아파트에 충돌해 수명이 부상했다. NATO와 루마니아 정부는 "무모한" 확전 행위라며 규탄했고, 러시아가 우크라이나 밖으로 폭력을 확산시킬 것이라는 우려가 커지고 있다.
+<a href="https://www.ft.com/content/c834acfc-1c9c-4181-bb75-683cc3a9292f">[FT]</a> <a href="https://www.wsj.com/world/europe/russian-drone-crashes-into-apartment-building-in-nato-member-romania-16a50198">[WSJ]</a></blockquote>
 
-<b>24. Trump 행정부, $250 지폐에 대통령 얼굴 검토...의회 승인 필요</b>
-<blockquote>Trump 행정부는 새로 발행할 $250 지폐에 Trump 대통령 얼굴을 넣는 방안을 논의 중이다. Scott Bessent 재무장관은 살아있는 인물을 지폐에 넣지 못하도록 한 현행법이 개정되면 추진 가능하다고 밝혔다.
-<a href="https://www.wsj.com/politics/policy/putting-trumps-face-on-250-bill-faces-hurdles-b0add402">[WSJ]</a></blockquote>
-
-<b>25. 영국 청년 실업 '잃어버린 세대' 확대...거의 100만 명 미취업</b>
-<blockquote>영국에서 일하지도 않고 학교나 직업훈련도 받지 않는 청년이 거의 100만 명에 달한다. Alan Milburn 보고서는 차기 노동당 정부의 최우선 과제가 돼야 한다고 지적한다.
-<a href="https://www.wsj.com/opinion/britain-workers-welfare-state-alan-milburn-report-16633b94">[WSJ]</a> <a href="https://www.ft.com/content/a39bf957-81e7-427c-bb50-b292ee3e086a">[FT]</a></blockquote>
-
-<b>26. 교황 Leo 첫 회칙, AI와 기술 메시아주의 경고..."인간을 대체하지 말라"</b>
-<blockquote>교황 Leo는 첫 회칙에서 인공지능으로 인간을 대체하려는 시도를 경고하며 기술 메시아주의를 비판했다. 인간 존엄성과 AI의 관계를 다룬 이번 회칙은 실리콘밸리의 진지한 도전과제를 정면으로 다뤘다는 평가다.
-<a href="https://www.economist.com/europe/2026/05/28/leos-first-encyclical-attacks-technological-messianism">[Economist]</a> <a href="https://www.ft.com/content/e98d7451-19ee-472e-9b92-8938eab0e205">[FT]</a></blockquote>
+<b>24. Blue Origin 로켓 발사대서 폭발...인명 피해 없어</b>
+<blockquote>Jeff Bezos의 우주기업 Blue Origin의 New Glenn 로켓이 발사 준비 중 발사대에서 폭발했다. Blue Origin은 모든 인원이 안전하다고 밝혔다.
+<a href="https://www.wsj.com/business/blue-origins-rocket-explosion-launch-6a9a1af6">[WSJ]</a></blockquote>
 
 ━━━━━━━━━━━━━━━━━━━━
 📡 <b>출처: WSJ · FT · The Economist</b>
