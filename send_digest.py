@@ -54,6 +54,21 @@ def split_message(text: str, limit: int = MAX_MSG_LEN) -> list[str]:
     header = parts[0]  # 🌙 헤더 부분
     articles = parts[1:]  # 각 기사 블록
 
+    # 기사 패턴 매칭 실패 시 — 빈 줄(\n\n) 단위 fallback 분할
+    if not articles:
+        blocks = re.split(r'(?=\n\n)', text)
+        chunks = []
+        current = ""
+        for block in blocks:
+            if len(current) + len(block) > limit and current:
+                chunks.append(current.rstrip())
+                current = block.lstrip()
+            else:
+                current += block
+        if current.strip():
+            chunks.append(current.rstrip())
+        return [c for c in chunks if c.strip()]
+
     # 푸터가 마지막 기사에 붙어 있으면 분리
     footer = ""
     if articles:
