@@ -95,7 +95,7 @@ def plan_digest(client: anthropic.Anthropic, articles: list[dict]) -> str:
 
     response = client.messages.create(
         model="claude-sonnet-4-5",
-        max_tokens=1500,
+        max_tokens=3000,
         system="당신은 FICC 매크로 트레이딩 전문 뉴스 에디터입니다.",
         messages=[{"role": "user", "content": msg}],
     )
