@@ -4,161 +4,93 @@
 
 ✅ <b>간밤의 주요 헤드라인</b>
 
-<b>1. 미국-이란 충돌 재격화...쿠웨이트 공항 드론 공격 사망자 발생</b>
-<blockquote>미국과 이란이 페르시아만에서 새롭게 교전을 벌이면서 이란의 드론이 쿠웨이트 공항을 공격해 1명이 사망하고 수십 명이 부상했다. 4월 휴전 이후 가장 격렬한 충돌로 외교적 해결 노력이 교착 상태에 빠졌다는 신호로 해석된다.
-<a href="https://www.ft.com/content/54b8e0a6-beba-47a8-82a8-28cae47275f3">[FT]</a></blockquote>
+<b>1. 이스라엘-레바논 휴전 합의 발표...Hezbollah 거부로 즉각 긴장</b>
+<blockquote>미 국무부가 이스라엘과 레바논 간 휴전 이행 합의를 발표했으나 Hezbollah가 이스라엘군 공격 중단 요구를 거부하면서 휴전안은 발표 직후부터 삐걱거리고 있다. 협정은 Hezbollah의 남부 레바논 전투원 철수와 이스라엘군 공격 중단을 전제로 한다.
+<a href="https://www.ft.com/content/468ce636-1a7e-4a14-9be1-6d0f48b6b48f">[FT]</a> <a href="https://www.wsj.com/world/middle-east/israel-and-lebanons-renewed-ceasefire-is-already-under-strain-6a984630">[WSJ]</a></blockquote>
 
-<b>2. 쿠웨이트 공항 공격에 미중동 전쟁 확산 우려 고조...호르무즈 봉쇄 장기화</b>
-<blockquote>이란의 쿠웨이트 공항 드론 공격으로 미국과 이란 간 휴전이 흔들리고 있다. 두 나라는 페르시아만에서 격렬한 교전을 벌였으며, 이는 4월 휴전 합의 이후 가장 큰 규모의 충돌로 기록됐다.
-<a href="https://www.wsj.com/world/middle-east/u-s-iran-trade-heavy-fire-in-persian-gulf-testing-fragile-ceasefire-d4787573">[WSJ]</a></blockquote>
+<b>2. 이란, 쿠웨이트 공항 공격으로 중동 긴장 격화...Trump 압박 수위 높여</b>
+<blockquote>이란이 쿠웨이트 공항을 타격하며 최근 1주일 내 세 번째 공격을 감행했다. Hormuz 해협 봉쇄 대치 국면에서 민감한 표적으로 공격 범위를 넓히며 Trump 행정부를 압박하는 양상이다.
+<a href="https://www.wsj.com/world/middle-east/iran-ratchets-up-pressure-on-trump-with-kuwait-airport-attack-024f850c">[WSJ]</a></blockquote>
 
-<b>3. 하원, Trump 이란 전쟁권한 제한 결의안 통과...공화당 내 반전 여론 확산</b>
-<blockquote>공화당 주도 하원이 의회 승인 없이 이란 전쟁을 계속할 수 없도록 대통령 권한을 제한하는 결의안을 통과시켰다. 전쟁이 대규모 폭격 단계에서 불안정한 휴전으로 전환되면서 공화당 의원들의 지지가 약화되고 있다는 신호다.
-<a href="https://www.wsj.com/politics/gop-led-house-votes-to-limit-trumps-iran-war-powers-3d9d0fac">[WSJ]</a></blockquote>
+<b>3. Trafigura "에너지 시장 전환점 경고"...중동 분쟁에 공급 타이트닝 우려</b>
+<blockquote>세계 최대 원자재 트레이더 Trafigura가 중동 분쟁으로 글로벌 원자재 시장이 혼란에 빠졌다며 공급 추가 축소 시 가격 급등 가능성을 경고했다. 에너지 시장이 "변곡점"에 있다는 진단이다.
+<a href="https://www.wsj.com/business/energy-oil/commodities-trader-trafigura-warns-of-tipping-point-in-energy-markets-5de13237">[WSJ]</a></blockquote>
 
-<b>4. Trump-Netanyahu 이란 전쟁 종전 전략 놓고 균열...레바논·테헤란 협상 이견</b>
-<blockquote>두 정상은 전례 없는 협력 속에 전쟁을 시작했지만, 현재 레바논 문제와 테헤란과의 협상 방식을 놓고 의견이 엇갈리면서 동맹 관계에 긴장이 고조되고 있다.
-<a href="https://www.wsj.com/world/middle-east/trump-netanyahu-iran-war-lebanon-8fdba5cb">[WSJ]</a></blockquote>
+<b>4. 미 국채 수익률 하락...중동 완화 기대에 안전자산 수요 증가</b>
+<blockquote>미국 국채 수익률이 중동 휴전 합의 소식과 금요일 고용지표 발표를 앞두고 하락했다. 지정학 리스크 완화 기대가 채권 매수세를 이끌었다.
+<a href="https://www.wsj.com/finance/investing/jgbs-mixed-boj-rate-increase-prospects-could-weigh-48b7f444">[WSJ]</a></blockquote>
 
-<b>5. 걸프국 호르무즈 우회 송유관 협상 착수...3개월 넘은 봉쇄 대안 모색</b>
-<blockquote>중요 해상 항로인 호르무즈 해협이 3개월 넘게 차단되면서 걸프 산유국들이 원유 수출을 위한 대안 송유관 건설 협상에 나섰다. 전쟁 장기화로 에너지 공급망 다변화 필요성이 커지고 있다.
-<a href="https://www.ft.com/content/2842a164-bd15-4d76-be8b-b4f52321f57a">[FT]</a></blockquote>
+<b>5. Broadcom 시총 $285bn 증발...AI 칩 매출 전망 실망에 12% 급락</b>
+<blockquote>AI 칩 업체 Broadcom의 주가가 매출 전망치 하향에 목요일 12% 폭락하며 시가총액 $285bn이 사라졌다. 역대 최대 규모의 기업가치 손실 사례 중 하나로 기록됐다.
+<a href="https://www.ft.com/content/c8d506d3-7e81-49be-bb72-24ae289b9240">[FT]</a></blockquote>
 
-<b>6. 미국 원유 재고 8백만 배럴 급감...2004년 이후 최저 수준 근접</b>
-<blockquote>미국 원유 재고가 6주 연속 감소하며 이번주 8백만 배럴 줄어들었다. 수출이 증가하고 정유 공장이 거의 최대 가동률로 운영되면서 재고가 빠르게 소진되고 있다.
-<a href="https://www.wsj.com/business/energy-oil/u-s-crude-oil-stockpiles-post-sixth-straight-weekly-drop-fe2b9375">[WSJ]</a></blockquote>
+<b>6. Anthropic, AI 개발 글로벌 일시중단 촉구...자가개선 리스크 경고</b>
+<blockquote>기업가치 $1조 AI 스타트업 Anthropic이 인공지능 모델이 인간 개입 없이 자가 개선할 수준에 근접했다며 글로벌 차원의 AI 개발 중단을 요청했다. 미 NSA가 Anthropic의 Mythos 모델을 사이버 공격에 활용 중인 사실도 공개됐다.
+<a href="https://www.wsj.com/tech/ai/anthropic-urges-global-pause-in-ai-development-flags-self-improvement-risk-99cefb73">[WSJ]</a> <a href="https://www.ft.com/content/d02d91b3-2636-454e-9442-dc7e69f51815">[FT]</a></blockquote>
 
-<b>7. Trump 이란 전쟁으로 미국 원유 재고 20년 최저...가격 폭등 경고</b>
-<blockquote>이란 전쟁으로 미국 원유 재고가 2004년 이후 가장 낮은 수준으로 떨어졌다. 업계는 재고가 '위험 수준'에 도달하면서 가격이 곧 급등할 수 있다고 경고하고 있다.
-<a href="https://www.ft.com/content/d0be73c8-b8d8-4ffd-874e-e97a6ecffef7">[FT]</a></blockquote>
+<b>7. 다우지수 사상 최고 vs 나스닥 하락...헬스케어·금융株로 섹터 로테이션</b>
+<blockquote>다우지수가 875포인트 상승하며 최고치를 경신한 반면 기술주 중심의 나스닥은 Broadcom 충격으로 하락했다. 헬스케어와 금융주가 상승을 주도하며 뚜렷한 섹터 로테이션 양상이 나타났다.
+<a href="https://www.wsj.com/finance/stocks/dow-notches-fresh-record-buoyed-by-healthcare-financial-stocks-a6a7c5ad">[WSJ]</a> <a href="https://www.wsj.com/finance/stocks/u-s-tech-futures-slip-while-oil-falls-on-lebanon-ceasefire-89ef4b13">[WSJ]</a></blockquote>
 
-<b>8. 원유 3거래일 연속 상승...미-이란 교전에 공급 차단 장기화 우려</b>
-<blockquote>미국과 이란의 새로운 교전으로 긴장이 고조되고 원유 공급 차단이 장기화될 것이라는 우려가 커지면서 원유 선물 가격이 3거래일 연속 상승했다.
-<a href="https://www.wsj.com/finance/commodities-futures/oil-rises-amid-signs-of-u-s-iran-peace-talks-stalling-c497548f">[WSJ]</a></blockquote>
+<b>8. SpaceX, $75bn 규모 IPO 조건 공개...주당 $135 단일가 제시</b>
+<blockquote>Elon Musk의 SpaceX가 주당 $135에 신주를 매각해 $75bn을 조달하는 IPO 조건을 발표했다. 가격 밴드 설정과 투자자 피드백 수렴이라는 통상적 절차를 생략한 파격 방식이다. Goldman Sachs는 2030년까지 SpaceX의 AI 매출이 100배 증가할 것으로 전망했다.
+<a href="https://www.wsj.com/business/spacex-ipo-would-raise-75-billion-281b0886">[WSJ]</a> <a href="https://www.ft.com/content/516cd0e5-a402-4b6c-8035-d688dc5f0cf4">[FT]</a></blockquote>
 
-<b>9. 미국 증시 중동 충돌에 하락...다우 1.2%, S&P 0.7% 하락</b>
-<blockquote>미국과 이란의 최근 충돌로 주식시장의 장기 상승 행진이 확실히 꺾였다. 다우존스 산업평균지수는 1.2%, 나스닥 종합지수는 0.9%, S&P 500 지수는 0.7% 하락 마감했다.
-<a href="https://www.wsj.com/finance/stocks/u-s-stock-futures-steady-though-oil-rises-on-mideast-escalation-d2641d4d">[WSJ]</a></blockquote>
+<b>9. NextEra-Dominion $420bn 합병 추진...에너지 섹터 메가딜</b>
+<blockquote>미국 전력 대기업 NextEra Energy와 Dominion Energy가 기업가치 $420bn 규모의 합병을 추진 중이다. 에너지 인프라 부문 최대 규모 통합 거래로 주목된다.
+<a href="https://www.ft.com/content/ab04db62-3a9a-467c-8dd2-fda069906cb2">[FT]</a></blockquote>
 
-<b>10. 미국 국채 수익률 상승...중동 긴장에 유가 동반 오름세</b>
-<blockquote>미-이란 휴전이 점점 불안정해지고 호르무즈 해협이 계속 폐쇄되면서 국채 수익률이 올랐다. 에너지 가격 상승에 따른 인플레 재점화 우려가 채권 시장에 반영되고 있다.
-<a href="https://www.wsj.com/finance/jgbs-fall-on-likely-technical-correction-356ff65a">[WSJ]</a></blockquote>
+<b>10. Blackstone 사모신용펀드, 환매 5% 상한 설정...$4.4bn 인출 요청 쇄도</b>
+<blockquote>Blackstone이 주력 사모신용펀드에 대한 2분기 환매 요청액이 $4.5bn에 달하자 인출 한도를 5%로 제한했다. 올해 초 전액 환매를 허용한 것과 대조적인 조치다.
+<a href="https://www.wsj.com/finance/investing/investors-seek-to-pull-10-from-blackstones-giant-private-credit-fund-7cbca527">[WSJ]</a> <a href="https://www.ft.com/content/4eca0255-27e7-47cc-8ebf-c9cc00c62e29">[FT]</a></blockquote>
 
-<b>11. 댈러스 연준 Logan, 올해 금리 인상 가능성 시사...인플레 대응 경고</b>
-<blockquote>댈러스 연준 총재 Lorie Logan이 연준이 통화정책을 긴축해야 할 수 있다고 미국 중앙은행 관계자 중 가장 직접적인 경고를 내놨다. 에너지 주도 인플레이션 압력이 지속되면서 금리 인상 가능성이 거론되고 있다.
-<a href="https://www.wsj.com/economy/central-banking/logan-fed-may-need-to-hike-interest-rates-this-year-to-confront-inflation-53a73e28">[WSJ]</a></blockquote>
+<b>11. Bitcoin 급락세...Strategy 보유분 매각 후 투자심리 위축</b>
+<blockquote>Bitcoin이 Strategy社의 보유 물량 매각 소식 이후 투자자들의 불안이 확산되며 급락했다. 2022년 11월 이후 최대 주간 낙폭을 기록 중이다.
+<a href="https://www.ft.com/content/06bb85c7-ab3c-4cc2-bdcf-679976b6e901">[FT]</a></blockquote>
 
-<b>12. 연준 베이지북, 에너지 주도 인플레 계속...소비자 약세 지속</b>
-<blockquote>연준 조사에 따르면 미국 기업들은 이란 전쟁 3개월째를 맞아 에너지 주도 가격 상승과 경제 불확실성을 겪고 있다. 중산층 가구가 인플레이션 상승으로 점점 더 압박받고 있는 것으로 나타났다.
-<a href="https://www.wsj.com/economy/central-banking/energy-costs-continue-to-feed-inflation-feds-beige-book-shows-38d21929">[WSJ]</a></blockquote>
+<b>12. 대형 은행들, 토큰화 예금 시스템 공동 구축...스테이블코인 경쟁 대응</b>
+<blockquote>JPMorgan, Citigroup 등 주요 은행들이 블록체인 기반 토큰화 예금 네트워크 구축 계획을 밝혔다. 스테이블코인과 암호화폐 업체의 경쟁 압박에 대응하려는 움직임이다.
+<a href="https://www.wsj.com/finance/banking/jpmorgan-citi-and-big-banks-plan-new-tokenized-deposit-system-to-answer-crypto-6b2d696b">[WSJ]</a></blockquote>
 
-<b>13. 연준 베이지북, 소비자 약세와 AI 투자 의존 부각...중산층 압박 심화</b>
-<blockquote>연준의 경기 보고서는 중산층 가구가 인플레이션 상승으로 점점 더 큰 압박을 받고 있으며, 경제 성장이 인공지능 인프라 구축에 크게 의존하고 있다고 지적했다.
-<a href="https://www.ft.com/content/930784a7-4f5c-4d8c-83d0-c60267db7f98">[FT]</a></blockquote>
+<b>13. Andy Burnham, 영국 노동당 당수 도전 선언...하원 보궐선거 출마</b>
+<blockquote>Greater Manchester 시장 Andy Burnham이 다가오는 하원 보궐선거 승리 시 Keir Starmer 후임 노동당 대표 경선에 출마하겠다고 밝혔다. 영국 정치권에 새로운 변수가 될 전망이다.
+<a href="https://www.ft.com/content/40881578-9d19-4edc-a6f5-544190ccaf59">[FT]</a></blockquote>
 
-<b>14. 재무장관 Bessent, 인플레 급등 "일시적 현상"...경제 기조 방어</b>
-<blockquote>재무장관이 Donald Trump의 경제 실적을 옹호하며 최근 인플레이션 급등은 단기 변동일 뿐이라고 주장했다. 이란 전쟁에 대한 불만이 커지는 가운데 나온 발언이다.
-<a href="https://www.ft.com/content/b8d9c334-f7c5-4806-b2db-75dda9ae6613">[FT]</a></blockquote>
+<b>14. Trump, Todd Blanche 법무장관 지명...상원 인준 격돌 예고</b>
+<blockquote>Donald Trump 대통령이 Todd Blanche를 법무장관에 지명하며 법무부 장악을 공식화했다. 상원 인준 과정에서 격렬한 공방이 예상된다.
+<a href="https://www.wsj.com/politics/policy/trump-says-he-will-nominate-todd-blanche-as-attorney-general-19343a47">[WSJ]</a></blockquote>
 
-<b>15. Kevin Warsh, 연준 의장-부의장 역할 분리 필요...권한 집중 우려</b>
-<blockquote>연준 의장이 통화정책과 규제 감독을 모두 담당하는 현 구조에서 벗어나 역할을 분리해야 한다는 주장이 제기됐다. 권한 집중에 따른 정책 왜곡 가능성을 줄이기 위한 개혁 방안으로 논의되고 있다.
-<a href="https://www.ft.com/content/0b191fbf-8b4a-44a0-b9ac-2ddbb46afafc">[FT]</a></blockquote>
+<b>15. John Bolton, 기밀정보 보유 혐의 유죄인정 합의...벌금형 전망</b>
+<blockquote>Trump 전 국가안보보좌관 John Bolton이 기밀정보 무단 보유 혐의 1건에 유죄를 인정하고 벌금을 납부하는 내용의 사법거래에 합의했다. Bolton은 퇴임 후 Trump를 공개 비판해 왔다.
+<a href="https://www.wsj.com/us-news/john-bolton-plea-classified-documents-07ee7a50">[WSJ]</a></blockquote>
 
-<b>16. 백악관, 강제노동 조사 후 최소 10% 관세 제안...캐나다·멕시코·EU 등 대상</b>
-<blockquote>미 무역대표부는 강제노동으로 생산된 것으로 추정되는 상품에 대한 조사를 마치고 캐나다, 멕시코, 대만, EU, 영국 등 다수 교역국 제품에 10% 관세를 부과하겠다고 밝혔다.
-<a href="https://www.wsj.com/economy/trade/u-s-proposes-at-least-10-tariffs-on-trading-partners-after-probe-into-forced-labor-511511f5">[WSJ]</a></blockquote>
+<b>16. 공화당 내 Trump "무기화 펀드" 법안 갈등 격화...상원서 공개 충돌</b>
+<blockquote>공화당 일부 의원들이 Donald Trump 대통령의 $1.8bn 규모 "反무기화 기금" 폐기 법안을 추진하며 당내 갈등이 본회의장으로 번졌다. 기금 운용의 투명성과 적법성을 둘러싼 논란이 지속되고 있다.
+<a href="https://www.wsj.com/politics/policy/gop-senators-fight-over-trump-fund-spills-onto-floor-4de6b204">[WSJ]</a></blockquote>
 
-<b>17. 미국 강제노동 명목 10% 관세 부과 추진...대법원 패소 후 새 법적 근거</b>
-<blockquote>대법원이 트럼프 대통령의 광범위한 글로벌 관세를 무효화한 지 수개월 만에 행정부가 다른 법적 근거를 동원해 새로운 관세를 부과하겠다고 밝혔다. 행정부의 관세 부과 시도가 이번에도 유지될지 주목된다.
-<a href="https://www.wsj.com/economy/trade/what-to-know-about-trumps-latest-tariffs-362fa148">[WSJ]</a></blockquote>
+<b>17. HSBC·Standard Chartered 주가 급락...홍콩 자금이동 규제 우려</b>
+<blockquote>홍콩 은행 계좌에 대한 중국 본토 자금 유입 제한 가능성이 제기되자 런던 상장 HSBC와 Standard Chartered 주가가 급락했다. 아시아 비중이 큰 두 은행의 수익성에 타격이 예상된다.
+<a href="https://www.wsj.com/world/china/hsbc-stanchart-shares-slide-as-new-rules-could-restrict-chinese-funds-in-hong-kong-accounts-5d068a1a">[WSJ]</a></blockquote>
 
-<b>18. 백악관 10% 관세 부활 시도에 브라질 정치 폭풍...Lula, 야권 견제</b>
-<blockquote>트럼프 행정부의 관세 위협이 브라질 내 정치적 파장으로 번지고 있다. Lula 대통령은 미국 로비에 나선 주요 선거 경쟁자 Flávio Bolsonaro를 강하게 비난하며 대선 구도에 영향을 주고 있다.
-<a href="https://www.ft.com/content/96a0039e-9336-4851-b107-49db6e45a33b">[FT]</a></blockquote>
+<b>18. 중국, 호적제도 개혁 단행...노동력 이동 자유화 추진</b>
+<blockquote>중국 정부가 농촌 노동력의 도시 이주를 제약하던 호적(戶籍) 제도 개혁에 나섰다. 경기 둔화 우려 속에 국내 이주 노동자 계층의 소비와 이동성을 높이려는 조치로 풀이된다.
+<a href="https://www.wsj.com/opinion/china-gets-anxious-enough-to-choose-worker-freedom-b22478bd">[WSJ]</a></blockquote>
 
-<b>19. SpaceX, $1.8조 기업가치 목표 역대 최대 IPO 추진...$86bn 조달 계획</b>
-<blockquote>일론 머스크의 우주 로켓 및 AI 그룹 SpaceX가 월스트리트 역사상 최대 규모 상장을 목표로 투자자들에게 $1.8조 기업가치를 제시하고 있다. 최대 $86bn 자금 조달을 계획 중이다.
-<a href="https://www.ft.com/content/95286aa1-ee55-4a45-86b8-951cc0fb23a8">[FT]</a></blockquote>
+<b>19. HSBC 스위스, 레바논 중앙은행 스캔들 수사 대상...프랑스 검찰 입건</b>
+<blockquote>프랑스 검찰이 레바논 전 중앙은행 총재 Riad Salameh 연루 스캔들과 관련해 HSBC 스위스 법인을 정식 수사 대상으로 입건하고 예비 기소했다.
+<a href="https://www.ft.com/content/2f4c6b4f-c8eb-4be1-b041-22ac2a7b282d">[FT]</a></blockquote>
 
-<b>20. SpaceX, $75bn 규모 비전통적 IPO 조건 공개...주당 $135 고정가</b>
-<blockquote>SpaceX가 주당 $135에 주식을 판매할 계획이며, 가격 범위를 설정하고 투자자 피드백을 반영하는 관행을 따르지 않는 비전통적 방식을 채택했다. 역대 최대 규모 IPO로 주목받고 있다.
-<a href="https://www.wsj.com/business/spacex-ipo-would-raise-75-billion-281b0886">[WSJ]</a></blockquote>
+<b>20. 캐나다 정부, AI 성장펀드에 $360m 투입..."주권 AI 산업" 육성</b>
+<blockquote>캐나다 정부가 새 국가 AI 전략의 일환으로 유망 AI 기업 지원을 위한 $360m 규모 기술성장펀드를 조성한다. 자국 AI 산업 경쟁력 강화가 목표다.
+<a href="https://www.wsj.com/tech/ai/canadian-government-plans-360-million-tech-growth-fund-in-effort-to-drive-sovereign-ai-industry-aef5d3e2">[WSJ]</a></blockquote>
 
-<b>21. Google, 역사적 증자 규모 $85bn으로 확대...AI 투자 강한 수요</b>
-<blockquote>구글이 20년 만에 처음 진행하는 주식 발행 규모를 $85bn으로 늘렸다. AI 지출 확대 계획에도 불구하고 투자자들의 수요가 강하게 나타나면서 증액이 이뤄졌다.
-<a href="https://www.ft.com/content/85299cdd-d9b3-4b40-8d10-73fc9ddb4573">[FT]</a></blockquote>
+<b>21. Bank of England 금리인상 압력 증가...에너지 쇼크 2차 파급 선제 대응 필요</b>
+<blockquote>영국 중앙은행이 에너지 가격 충격의 2차 파급 효과에 선제적으로 대응해야 한다는 주장이 제기됐다. 인플레이션 재확산 우려 속에 금리인상 압력이 커지고 있다.
+<a href="https://www.ft.com/content/821b704c-57f9-4431-a364-37c7eef47e9f">[FT]</a></blockquote>
 
-<b>22. SpaceX, $55bn AI 칩 공장 세금 감면 확보...텍사스 주민 반발 속 승인</b>
-<blockquote>일론 머스크의 Terafab 공장이 지역 주민들의 격렬한 반대와 법적 소송 위협에도 불구하고 텍사스 카운티로부터 세금 감면을 받았다. $55bn 규모 AI 칩 시설에 대한 논란이 계속되고 있다.
-<a href="https://www.ft.com/content/86b2440a-60ce-4a5b-94ba-a6a4456ae574">[FT]</a></blockquote>
-
-<b>23. Vanguard ETF, 사상 첫 $1조 돌파...SpaceX·Anthropic IPO 수요 반영</b>
-<blockquote>뱅가드 펀드가 첫 $1조 자산 규모를 돌파한 ETF가 됐다. 급속한 성장은 SpaceX와 Anthropic 같은 메가 IPO를 매수할 준비가 된 패시브 자금의 규모를 보여준다.
-<a href="https://www.ft.com/content/8ef1cf70-c6bb-47ea-9f6b-94dd394e8795">[FT]</a></blockquote>
-
-<b>24. Meta, 비즈니스 전체 운영 AI 에이전트 출시...WhatsApp 수익화 전략</b>
-<blockquote>마크 저커버그가 기업 전체를 운영할 수 있는 새로운 AI 에이전트를 공개했다. 이는 핵심 소비자 사업을 넘어 확장하려는 메타의 노력 일환이며, 메시징 앱 왓츠앱을 더 큰 비즈니스로 전환하려는 전략이다.
-<a href="https://www.wsj.com/tech/mark-zuckerberg-wants-metas-new-ai-agents-to-run-your-whole-business-6e2100e2">[WSJ]</a></blockquote>
-
-<b>25. Anthropic, IPO 준비하며 기업 파트너 프로그램 확대...수익 지속성 입증</b>
-<blockquote>AI 대기업 Anthropic이 상장을 앞두고 Claude Partner Network를 강화하고 있다. '수익의 지속성'을 입증하기 위해 기업 파트너십 네트워크를 공고히 하고 있다.
-<a href="https://www.wsj.com/cio-journal/anthropic-bulks-up-its-enterprise-partner-program-amid-ipo-plans-560a9b82">[WSJ]</a></blockquote>
-
-<b>26. Broadcom, AI 칩 수요에 매출 급증...반도체 매출 두 배 이상 증가</b>
-<blockquote>반도체 및 소프트웨어 제조사 브로드컴이 AI 칩 수요 증가로 분기 매출이 크게 늘었다. AI 반도체 매출이 $10.8bn으로 두 배 이상 증가하며 맞춤형 AI 가속기와 AI 네트워킹 수요가 뒷받침했다.
-<a href="https://www.wsj.com/business/earnings/broadcom-revenue-climbs-on-ai-chip-demand-7accd3b2">[WSJ]</a></blockquote>
-
-<b>27. 일본 하드웨어 주식 급등...산업 강점 부각되는 국면</b>
-<blockquote>일본 하드웨어 주식이 다시 한번 급등세를 보이고 있다. 현재 상승세는 일본의 산업적 강점을 잘 활용하는 방향으로 전개되고 있다는 평가다.
-<a href="https://www.ft.com/content/f6404a95-f1b3-430c-ba85-490121df9487">[FT]</a></blockquote>
-
-<b>28. 비트코인 4거래일 연속 하락...주요 지지자 매도에 암호화폐 겨울 심화</b>
-<blockquote>비트코인의 가장 큰 지지자 중 한 명이 매도에 나서면서 디지털 토큰이 4거래일 연속 하락했다. 암호화폐 시장의 침체가 더욱 심화되고 있다.
-<a href="https://www.wsj.com/finance/currencies/the-crypto-winter-turns-colder-as-bitcoin-extends-its-slide-a86d04b8">[WSJ]</a></blockquote>
-
-<b>29. Macy's 고객 지출 증가...고급화 전략 효과...터닝어라운드 지속</b>
-<blockquote>메이시스와 자매 브랜드 블루밍데일스, 블루머큐리가 고급 제품 라인을 확대한 결과 고객들이 적극적으로 구매하고 있다. 백화점 체인의 턴어라운드가 계속되고 있다는 신호다.
-<a href="https://www.wsj.com/business/retail/macys-earnings-q1-2026-m-stock-4a2cf228">[WSJ]</a></blockquote>
-
-<b>30. ISM 서비스업 지수 5월 54.5...확장세 지속</b>
-<blockquote>미국 공급관리협회(ISM)의 서비스업 구매관리자지수(PMI)가 5월 54.5를 기록하며 4월 53.6에서 상승했다. 서비스 부문의 활동 확장세가 계속되고 있다.
-<a href="https://www.wsj.com/economy/u-s-services-sector-activity-continued-to-expand-in-may-f8843d5b">[WSJ]</a></blockquote>
-
-<b>31. ADP 민간 고용 5월 12.2만명 증가...예상치 상회</b>
-<blockquote>민간 기업들이 5월에 순증 12.2만 개 일자리를 추가했다고 ADP가 발표했다. 4월 10.5만 명 증가에 이어 이코노미스트 예상치 11만 명을 웃돌았다.
-<a href="https://www.wsj.com/economy/jobs/adp-says-private-sector-hiring-stayed-strong-last-month-d564e465">[WSJ]</a></blockquote>
-
-<b>32. 우크라이나, 상트페테르부르크 공격...Putin 경제포럼 앞두고 긴장</b>
-<blockquote>우크라이나가 러시아 대통령이 이번 주 연설할 예정인 경제포럼 참석자들이 도착하는 가운데 상트페테르부르크의 석유 터미널과 해군기지를 공격했다.
-<a href="https://www.wsj.com/world/russia/ukraine-strikes-st-petersburg-ahead-of-putins-economic-forum-8b6a1dba">[WSJ]</a></blockquote>
-
-<b>33. 독일 극우 AfD 고위 인사, 크렘린 측과 접촉...Nord Stream 재개 논의</b>
-<blockquote>독일 여론조사 선두인 극우 정당 AfD의 고위 관계자가 크렘린 측 인사들과 회담을 가졌다. 러시아산 가스 공급을 Nord Stream을 통해 재개하는 방안을 지지하는 정당의 움직임으로 주목된다.
-<a href="https://www.ft.com/content/50bed197-f30b-443e-85e0-5631315e893e">[FT]</a></blockquote>
-
-<b>34. EU, 미국 테크 인프라 의존 줄이기 패키지 발표...반도체·클라우드 포함</b>
-<blockquote>EU 집행위원회가 반도체부터 클라우드 서비스, 데이터센터, AI에 이르는 다양한 기술 인프라를 대상으로 한 기술 주권 패키지 정책을 발표했다. 대외 의존도를 낮추려는 전략이다.
-<a href="https://www.wsj.com/world/europe/eu-makes-bid-to-cut-reliance-on-u-s-tech-infrastructure-b0ca4b56">[WSJ]</a></blockquote>
-
-<b>35. 영국, 국방비 £15bn 증액 앞두고 재무부가 전투기 지출 통제 계획</b>
-<blockquote>Keir Starmer 총리가 군사 지출 £15bn 증액을 발표할 준비를 하는 가운데, 재무부가 국방부의 전투기 지출을 직접 통제하기로 했다. 국방부의 예산 실수 이후 나온 조치다.
-<a href="https://www.ft.com/content/f910fdc1-5721-41b7-8727-d5fb1f4ff4e0">[FT]</a></blockquote>
-
-<b>36. 사우디 PIF, 외국인 CEO 물러나고 현지 인사로 교체...2034 월드컵 대비</b>
-<blockquote>사우디아라비아 국부펀드 PIF가 외국인 최고경영자들을 현지 인사로 교체하고 있다. 2034년 월드컵 개최를 앞두고 국내 투자에 집중하는 전략 전환으로 풀이된다.
-<a href="https://www.ft.com/content/0336d33d-0a7a-451c-8bf2-7c7dbe83f903">[FT]</a></blockquote>
-
-<b>37. 영국 신입 일자리 광고 10년 새 절반 수준...청년 고용 대책 시급</b>
-<blockquote>온라인 신입 일자리 광고가 지난 10년간 절반으로 급감했다. 정부가 교육·고용·훈련을 받지 않는 청년 문제 해결을 시도하는 가운데 나온 지표다.
-<a href="https://www.ft.com/content/07a43a15-4353-4269-9410-7a46643625fb">[FT]</a></blockquote>
-
-<b>38. 아이오와 공화당 경선, Trump 지지 후보 패배...농촌 불만 반영</b>
-<blockquote>농민이자 사업가인 Zach Lahn이 트럼프 대통령이 지지한 현직 하원의원을 아이오와 공화당 주지사 경선에서 이겼다. 트럼프 지지 후보가 경선에서 패배한 드문 사례로 대통령에 대한 반발로 해석된다.
-<a href="https://www.wsj.com/politics/elections/farmer-poised-to-upset-trump-backed-candidate-in-gop-primary-for-iowa-governor-18fb291c">[WSJ]</a></blockquote>
-
-<b>39. 캘리포니아 주지사 경선, Steve Hilton 선두...11월 결선 전망</b>
-<blockquote>영국 출신 정치 고문 출신 Steve Hilton이 캘리포니아 주지사 예비선거에서 선두를 달리고 있다. 11월 본선에서 민주당 Xavier Becerra와 맞붙을 것으로 예상된다.
-<a href="https://www.ft.com/content/e3df0e9d-b77c-4de8-bdd0-d76bb59162a2">[FT]</a></blockquote>
+<b>22. 미국 신규실업수당 22.5만건...건전한 노동시장 수준 유지</b>
+<blockquote>지난주 미국 신규 실업수당 청구 건수가 22만5천 건으로 증가했지만 여전히 견조한 노동시장과 부합하는 범위 내에 머물렀다. 금요일 고용지표 발표를 앞두고 시장의 관심이 집중되고 있다.
+<a href="https://www.wsj.com/economy/jobs/u-s-jobless-claims-rose-last-week-18d06023">[WSJ]</a></blockquote>
 
 ━━━━━━━━━━━━━━━━━━━━
 📡 <b>출처: WSJ · FT · The Economist</b>
