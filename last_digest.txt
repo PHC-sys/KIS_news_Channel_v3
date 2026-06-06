@@ -4,153 +4,33 @@
 
 ✅ <b>간밤의 주요 헤드라인</b>
 
-<b>1. 美 5월 雇用 17.2만 명 증가...실업률 4.3% 유지, 시장 예상 상회</b>
-<blockquote>미국 노동부가 5월 신규 고용이 17.2만 명 증가했다고 발표했다. 시장 예상을 웃돌며 실업률은 4.3%로 전월과 동일했다. 고용 시장의 견고함이 재확인되면서 연준의 통화정책 방향에 영향을 미칠 전망이다.
-<a href="https://www.wsj.com/economy/consumers/may-jobs-report-unemployment-fde062e1">[WSJ]</a></blockquote>
+<b>1. 미국·이란 다시 공격 교환...휴전 합의 위태</b>
+<blockquote>미군이 호르무즈 해협 상공에서 드론을 요격한 가운데 이란이 쿠웨이트와 바레인을 공격하며 양국 간 긴장이 재점화됐다. 지난달 체결된 휴전 합의가 흔들리면서 중동 지정학 리스크가 다시 고조되는 양상이다.
+<a href="https://www.ft.com/content/ea62e338-1730-4fdd-996c-efcfe36561bf">[FT]</a></blockquote>
 
-<b>2. WSJ 달러지수 96.60으로 급등...5거래일 중 4일 상승</b>
-<blockquote>WSJ 달러지수가 이번 주 1.07% 상승해 96.60을 기록했다. 금요일에만 0.6% 오르며 최근 5거래일 중 4일간 상승세를 나타냈다. 강한 고용지표가 달러 강세를 견인했다.
-<a href="https://www.wsj.com/finance/currencies/u-s-jobs-data-may-offer-bullish-catalyst-for-dollar-vs-yen-a3908fa6">[WSJ]</a></blockquote>
+<b>2. 에티하드 항공, 이란 전쟁 전 수준 회복...중동 경유 수요 되살아</b>
+<blockquote>아부다비 에티하드 항공이 전쟁 발발 당시 전 기종이 운항 중단됐으나 중동 경유 수요가 회복되면서 이란 전쟁 이전 운항 규모를 곧 넘어설 전망이다. 항공사 측은 가격 인하 없이도 탑승률이 올라가고 있다고 밝혔다.
+<a href="https://www.ft.com/content/07b1eaa6-725a-406e-aa8b-020dbe53aaea">[FT]</a></blockquote>
 
-<b>3. 美 2년물 국채 수익률 1년 최고...금리 인상 베팅 급증</b>
-<blockquote>뜨거운 고용 지표 이후 투자자들이 국채를 대거 매도하면서 2년물 수익률이 1년 만에 최고 수준으로 치솟았다. 올해 연준의 금리 인상 가능성이 다시 수면 위로 떠오르며 채권 시장 변동성이 확대됐다.
-<a href="https://www.wsj.com/finance/investing/jgbs-edge-higher-tracking-gains-in-u-s-treasurys-6baebd83">[WSJ]</a></blockquote>
+<b>3. 유조선 업계, 호르무즈 재개방 앞두고 운임 급락 우려</b>
+<blockquote>이란 전쟁 기간 사상 최고 수익을 올린 유조선 선주들이 호르무즈 해협 재개방 시 운임이 급락할 것을 우려하며 수익을 신규 선박 발주에 쏟아붓고 있다. 해협이 정상화되면 유조선 시장이 공급 과잉에 직면할 가능성이 크다.
+<a href="https://www.ft.com/content/786f23d9-876d-4c56-a9e8-67ac5b78cd49">[FT]</a></blockquote>
 
-<b>4. 연준 금리인하 카드 무효화...美 노동시장 강세 확인</b>
-<blockquote>5월 고용 증가가 예상치의 두 배 수준을 기록하고 실업률도 불변을 유지하면서 연준의 금리 인하 가능성이 사실상 사라졌다. 시장에서는 오히려 금리 인상 시나리오에 무게를 두기 시작했다.
-<a href="https://www.ft.com/content/033902cd-4ee4-47b9-bd26-83bc42fc7def">[FT]</a></blockquote>
+<b>4. Trump, 법원 무효화 이후 관세 재가동...법적 도전 견디는 체제 구축 시도</b>
+<blockquote>Trump 대통령이 법원의 관세 무효 판결 이후 새로운 징벌적 무역조치 체제를 마련하며 관세 전쟁을 재개했다. 법적 공방을 견딜 수 있는 구조로 관세를 재설계하면서 무역정책 불확실성이 다시 커지고 있다.
+<a href="https://www.ft.com/content/7e5cfed4-dd91-435d-914a-677f97822724">[FT]</a></blockquote>
 
-<b>5. 美 고용시장 온도는...현재 '따뜻함', 과열 땐 연준 냉각 나설 듯</b>
-<blockquote>최근 고용 지표는 미국 노동시장이 과열보다는 견조한 수준에 있다는 평가를 받고 있다. 다만 추가 강세 시 연준의 긴축 재개 가능성이 높아, 향후 지표에 시장 관심이 집중된다.
-<a href="https://www.economist.com/finance-and-economics/2026/06/05/how-hot-is-americas-labour-market">[Economist]</a></blockquote>
+<b>5. Trump 지지율 하락세...경제·이란 전쟁 우려에도 핵심 지지층은 견고</b>
+<blockquote>경제 및 이란 전쟁에 대한 우려로 Trump 대통령의 지지율이 하락했으나 오하이오주 중서부 보수 지역 유권자들은 2024년 공약 이행을 이유로 여전히 강한 지지를 보내고 있다. 정치적 압박이 커지는 가운데 핵심 지지층은 흔들림이 없는 모습이다.
+<a href="https://www.wsj.com/politics/policy/as-trumps-support-slips-these-voters-say-why-theyre-sticking-with-him-3b3546c3">[WSJ]</a></blockquote>
 
-<b>6. 내주 美 인플레 지표·ECB 금리 결정 집중 조명</b>
-<blockquote>다음 주 미국 인플레이션 지표 발표와 ECB의 금리 결정이 예정돼 있다. 연준의 올해 금리 인상 가능성을 가늠하는 중요한 시점이 될 것으로 시장은 전망하고 있다.
-<a href="https://www.wsj.com/economy/week-ahead-for-fx-bonds-u-s-inflation-data-due-ecb-likely-to-raise-rates-13f47b90">[WSJ]</a></blockquote>
+<b>6. OpenAI, 미국민에 AI 지분 주는 국부펀드 제안...공적 불안 완화 목표</b>
+<blockquote>OpenAI가 인공지능의 사회적 영향에 대한 대중 우려를 완화하기 위해 미국 국민에게 AI 기업 지분을 배분하는 국부펀드 방식 구상을 제안했다. 새로운 재정정책 및 기술정책 방향 전환 가능성이 주목된다.
+<a href="https://www.ft.com/content/8559a3f9-86de-4a1c-8a75-6623e83e6a00">[FT]</a></blockquote>
 
-<b>7. 나스닥 4% 폭락...칩주 일제 급락</b>
-<blockquote>금리 상승 우려가 확산되면서 나스닥 지수가 4% 급락했다. 특히 반도체 및 메모리 기업 주가가 대거 하락하며 기술주 전반에 매도세가 강화됐다.
-<a href="https://www.ft.com/content/2929bbd3-1f71-4424-a577-f016c3c65603">[FT]</a></blockquote>
-
-<b>8. 칩주 급락, 대형주 편중 시장에 더 큰 타격</b>
-<blockquote>주요 주가지수가 소수 대형 기술주에 크게 의존하고 있는 가운데 반도체 종목의 급락이 시장 전체에 더 큰 충격을 가했다. 시장 구조의 취약성이 재확인됐다는 분석이다.
-<a href="https://www.wsj.com/finance/stocks/carnage-in-chip-stocks-hits-extra-hard-in-top-heavy-market-7f0ea76a">[WSJ]</a></blockquote>
-
-<b>9. 강한 고용 지표에 美 증시 약세...칩주 혈전</b>
-<blockquote>고용 지표 호조가 오히려 증시에 악재로 작용했다. 금리 인상 우려로 기술주, 특히 반도체 관련 종목이 큰 폭으로 하락하며 나스닥 대폭락을 초래했다.
-<a href="https://www.wsj.com/finance/stocks/strong-job-growth-weakens-stocks-4fd74931">[WSJ]</a></blockquote>
-
-<b>10. SpaceX, Google과 월 10억 달러 클라우드 컴퓨팅 계약 체결</b>
-<blockquote>SpaceX가 Google과 매월 약 10억 달러, 총 300억 달러 규모의 클라우드 컴퓨팅 용량 리스 계약을 맺었다. 이번 계약은 기록적인 IPO를 앞둔 Elon Musk의 로켓·AI 복합기업에 새로운 수익원을 제공한다.
-<a href="https://www.ft.com/content/77982a06-7d75-45a4-a64f-f8dc89a6a626">[FT]</a></blockquote>
-
-<b>11. SpaceX, Google에 월 10억 달러 클라우드 서비스 제공 합의</b>
-<blockquote>Google이 SpaceX에 매월 거의 10억 달러를 지급하는 클라우드 컴퓨팅 계약을 체결했다. SpaceX의 AI 사업에 새로운 수익 흐름을 더하며 IPO를 앞둔 기업가치 상승에 힘을 실어주고 있다.
-<a href="https://www.wsj.com/tech/google-to-pay-spacex-nearly-1-billion-a-month-in-cloud-computing-deal-788d8aaa">[WSJ]</a></blockquote>
-
-<b>12. SpaceX IPO에 개인투자자 수만 명 몰려...최대 25% 배정 검토</b>
-<blockquote>SpaceX의 750억 달러 규모 기록적 IPO에서 개인 투자자들에게 최대 25%까지 배정하는 방안이 추진되고 있다. 수만 명의 소매 투자자가 관심을 등록하며 높은 수요를 보이고 있다.
-<a href="https://www.ft.com/content/3cf5aed7-1a57-44ad-b9bc-11c779a5d2de">[FT]</a></blockquote>
-
-<b>13. 英 소매투자자 3만 명 넘게 SpaceX IPO 수요 등록</b>
-<blockquote>영국에서만 3만 명이 넘는 개인 투자자가 SpaceX IPO에 대한 관심을 사전 등록했다. 전례 없는 수요가 확인되면서 IPO 성공에 대한 기대가 높아지고 있다.
-<a href="https://www.ft.com/content/f83779b4-7958-4515-b874-5b0b13dc04f8">[FT]</a></blockquote>
-
-<b>14. Morgan Stanley, SpaceX 2040년 매출 3.4조 달러 전망</b>
-<blockquote>Morgan Stanley가 주요 투자자들에게 공유한 자료에 따르면 SpaceX의 2040년 매출이 3.4조 달러에 달할 것으로 예상된다. 이는 1.77조 달러에 이르는 현재 기업가치 산정의 배경이 됐다.
-<a href="https://www.wsj.com/finance/banking/morgan-stanley-sees-spacexs-revenue-reaching-3-4-trillion-in-2040-c8a7f431">[WSJ]</a></blockquote>
-
-<b>15. Meta, 대규모 증자 검토...AI 인프라 투자 자금 확보 목적</b>
-<blockquote>Facebook의 모기업 Meta가 AI 인프라 투자를 위해 수백억 달러 규모의 신주 발행을 검토 중이다. Google과의 대규모 거래 이후 AI 자본 경쟁이 본격화되는 가운데 나온 움직임이다.
-<a href="https://www.ft.com/content/e6df645d-1709-4a77-b15d-aa43a0209efd">[FT]</a></blockquote>
-
-<b>16. Trump, AI 기업에 정부 지분 투자 시사</b>
-<blockquote>Donald Trump 대통령이 AI 기업들과의 '파트너십'을 통해 정부가 지분을 확보할 가능성을 시사했다. 11월 중간선거를 앞두고 유권자들의 기술 우려를 완화하려는 의도로 풀이된다.
-<a href="https://www.ft.com/content/b1ab6106-77e6-4218-9eb4-e44bd56ca400">[FT]</a></blockquote>
-
-<b>17. CFO들, AI 토큰 사용량 추적 어려움 호소</b>
-<blockquote>재무담당 임원들이 기업 내 AI 사용량을 정확히 파악하는 데 어려움을 겪고 있다고 밝혔다. 벤더들이 토큰 단위로 요금을 부과하기 시작하면서 비용 관리에 대한 우려가 커지고 있다.
-<a href="https://www.wsj.com/cfo-journal/the-metric-cfos-struggle-to-track-ai-usage-3b30c10c">[WSJ]</a></blockquote>
-
-<b>18. Raspberry Pi 급등...AI 연계 하드웨어 수요 몰려</b>
-<blockquote>소형 저가 컴퓨터 제조업체 Raspberry Pi의 주가가 급등했다. AI 붐과 연계된 하드웨어 수요가 강세를 보이며 상반기 판매량이 400만 대를 넘어설 것으로 회사는 전망했다.
-<a href="https://www.ft.com/content/22c5c127-fbab-44eb-a982-a26b9a40eb5c">[FT]</a></blockquote>
-
-<b>19. 주요 인덱스, 메가캡 IPO 편입 규칙 놓고 갈등</b>
-<blockquote>SpaceX 같은 초대형 IPO의 지수 편입 시점과 방식을 둘러싸고 주요 인덱스 운용사들이 서로 다른 입장을 보이고 있다. 투자자들의 포트폴리오 노출도에 영향을 미칠 수 있어 논란이 되고 있다.
-<a href="https://www.wsj.com/finance/stocks/stock-indexes-are-divided-on-rules-for-megacap-ipos-how-exposed-will-you-be-31818da1">[WSJ]</a></blockquote>
-
-<b>20. ECB, 약한 성장에도 인플레 우려로 6월 인상 예상</b>
-<blockquote>유로존 경제 성장세가 약화됐음에도 불구하고 인플레이션 압력이 지속되면서 ECB의 6월 금리 인상 가능성이 높아지고 있다. 현재로서는 인플레 우려가 성장 둔화 우려를 앞서고 있다는 분석이다.
-<a href="https://www.ft.com/content/bce919cc-c115-41cb-bc73-6ce248a4b4ab">[FT]</a></blockquote>
-
-<b>21. 유로존 1분기 GDP 역성장...아일랜드 급락이 주원인</b>
-<blockquote>아일랜드 경제의 '극적인' 슬럼프가 유로존 전체 경제를 역성장으로 밀어 넣었다. 이코노미스트들은 다국적 기업의 국경 간 자금 흐름 때문에 아일랜드 GDP 예측이 '불가능'하다고 지적했다.
-<a href="https://www.ft.com/content/be3ab4de-0a3f-4942-bd94-6180289142f8">[FT]</a></blockquote>
-
-<b>22. BoJ, 임금 강세에 6월 금리 인상 가능성 부상</b>
-<blockquote>일본 4월 현금 수입 증가율이 2024년 말 이후 최고를 기록하면서 일본은행의 6월 금리 인상 가능성이 커졌다. 임금 상승세가 통화정책 변화의 근거가 되고 있다.
-<a href="https://www.ft.com/content/aa31a355-365e-4a07-a1eb-7155a6569a8a">[FT]</a></blockquote>
-
-<b>23. 인도 중앙은행, 루피 방어 위해 외국인 채권 면세</b>
-<blockquote>인도 중앙은행이 외국인 자본 유출과 이란 전쟁 여파로 루피화 압박이 지속되자 외국인 투자자의 채권 투자에 대한 세금을 면제하기로 했다. 금리는 동결했다.
-<a href="https://www.ft.com/content/4a0dc7f4-33e5-4584-a60d-be701a2978ed">[FT]</a></blockquote>
-
-<b>24. 캐나다 실업률 6.6%로 하락...고용 8.78만 명 증가</b>
-<blockquote>캐나다 5월 고용이 8.78만 명 증가하며 실업률이 예상 밖으로 6.6%까지 낮아졌다. 2024년 초 이후 최강 월간 고용 증가로 1~4월 누적 감소분 상당 부분을 회복했다.
-<a href="https://www.wsj.com/economy/jobs/canada-unemployment-rate-unexpectedly-drops-to-6-6-in-may-739f473a">[WSJ]</a></blockquote>
-
-<b>25. 금 4.9% 급락해 4,337달러...이번 주 낙폭 확대</b>
-<blockquote>금요일 금 가격이 3.1% 하락하고 은은 거의 6.6% 급락했다. 주간 기준으로도 두 금속 모두 손실을 기록하며 금 온스당 4,337.10달러로 마감했다.
-<a href="https://www.wsj.com/finance/commodities-futures/gold-pressured-by-rate-hike-fears-as-middle-east-uncertainty-persists-45467dd9">[WSJ]</a></blockquote>
-
-<b>26. 유가 하락...美·이란 분쟁 해소 기대감 우세</b>
-<blockquote>원유 선물이 하락 마감했다. 미국과 이란 간 분쟁 해소에 대한 시장 기대가 재발 우려를 앞서면서 유가 하락 압력이 작용했다.
-<a href="https://www.wsj.com/finance/commodities-futures/oil-edges-lower-amid-mixed-middle-east-developments-9e993f72">[WSJ]</a></blockquote>
-
-<b>27. Trump, 이란과 협상 지속 중...국정원장에 대규모 정보기관 해고 지시</b>
-<blockquote>Donald Trump 대통령이 차기 국가정보국장 대행 Bill Pulte에게 정보기관 직원 대규모 해고를 시작하라고 지시했다. 한편 이란과의 협상은 계속 진행 중이라고 밝혔다.
-<a href="https://www.wsj.com/politics/national-security/trump-urges-less-shackled-pulte-to-fire-intelligence-community-employees-aa62d70d">[WSJ]</a></blockquote>
-
-<b>28. Putin, Zelenskyy 회담 제안 거부...병사들에 계속 전투 명령</b>
-<blockquote>러시아 크렘린궁의 'Davos 포럼'에서 Vladimir Putin이 우크라이나 대통령 Volodymyr Zelenskyy의 회담 제안을 거부하고 병사들에게 전쟁 지속을 명령했다. 미국 우파와의 관계 강화에 더 관심을 보였다.
-<a href="https://www.wsj.com/world/russia/at-russias-davos-putin-tells-his-soldiers-to-keep-fighting-29de85f0">[WSJ]</a></blockquote>
-
-<b>29. Zelenskyy, 전장 우위 확보 후 Putin에게 첫 직접 서한</b>
-<blockquote>우크라이나가 전장에서 보다 강한 위치를 확보한 가운데 Volodymyr Zelenskyy 대통령이 러시아 침공 이후 처음으로 Putin에게 서한을 보내 회담을 제안했다. 평화 협상 재개를 목표로 하고 있다.
-<a href="https://www.wsj.com/world/zelensky-open-letter-putin-ukraine-6110e8cc">[WSJ]</a></blockquote>
-
-<b>30. 시진핑, 올해 첫 해외 방문지로 평양 선택</b>
-<blockquote>중국 국가주석 시진핑이 올해 첫 해외 방문지로 북한 평양을 선택했다. 미국의 최대 적대국들 사이에서 북한의 전략적 중요성이 높아지고 있음을 보여주는 행보다.
-<a href="https://www.wsj.com/world/asia/xi-to-leave-china-for-first-time-this-year-destination-pyongyang-8d9ff7d1">[WSJ]</a></blockquote>
-
-<b>31. 美 남성, 중국 스파이 활동 혐의 인정</b>
-<blockquote>미국인 Thomas Pauken II가 미국 내에서 중국 요원으로 활동한 혐의를 인정했다. 미국인들이 베이징을 위해 은밀히 활동한 혐의로 기소된 일련의 사건 중 최신 사례다.
-<a href="https://www.wsj.com/world/china/american-pleads-guilty-to-working-in-u-s-as-chinese-agent-c9e9530c">[WSJ]</a></blockquote>
-
-<b>32. 우크라이나 해상 드론, 루마니아 항구서 폭발</b>
-<blockquote>이탈한 우크라이나 해상 드론이 루마니아 항구에서 폭발했다. 키이우는 러시아의 전파 교란으로 인해 자국 공중 및 해상 드론이 NATO 국가로 진로를 벗어나고 있다고 비난했다.
-<a href="https://www.ft.com/content/4223a806-f50d-4959-a14e-34fd15bed886">[FT]</a></blockquote>
-
-<b>33. 유럽 항공사, 지연 보상금 32억 유로 미지급</b>
-<blockquote>FT 분석에 따르면 유럽 항공사들이 2011년 이후 지급해야 할 보상금 180억 유로 중 극히 일부만 지급한 것으로 나타났다. 미지급 금액만 32억 유로에 달한다.
-<a href="https://www.ft.com/content/f4e31fa8-b1fc-46ca-8d92-6d4c45e49313">[FT]</a></blockquote>
-
-<b>34. 美, USMCA 협상서 중국 부품 배제 압박</b>
-<blockquote>미국이 무역협상에서 북미 지역 차량에서 중국산 공급품을 줄이는 동시에 미국산 부품 비중을 늘리기 위한 강력한 규칙을 요구하고 있다. USMCA 재협상의 핵심 쟁점이다.
-<a href="https://www.ft.com/content/e1a1f02e-a55d-442d-a51f-000c33173dcd">[FT]</a></blockquote>
-
-<b>35. Franklin 자산운용, SEC와 1억 달러 합의</b>
-<blockquote>Franklin의 Western Asset Management가 SEC의 민사 조사를 마무리하며 1억 달러 합의안에 서명했다. 이 펀드 매니저의 전직 스타 트레이더는 형사 재판을 앞두고 있다.
-<a href="https://www.ft.com/content/d74b3177-e934-4444-acf7-876b10888b34">[FT]</a></blockquote>
-
-<b>36. 콜롬비아 우파 후보 '타이거', 채권 투자자들 환호</b>
-<blockquote>우파 포퓰리스트 Abelardo de la Espriella가 결선 투표를 앞두고 있는 가운데 채권 투자자들이 그의 공공지출 대폭 삭감 공약에 베팅하고 있다.
-<a href="https://www.ft.com/content/62b6b2c4-5d7a-4992-94bb-2c7c080b7e55">[FT]</a></blockquote>
-
-<b>37. GOP 상원, 700억 달러 국경 법안 통과...Trump 반무기화 기금은 존치</b>
-<blockquote>공화당 상원이 700억 달러 규모 이민 단속 법안을 통과시켰지만 Donald Trump 대통령의 18억 달러 '반무기화' 기금을 입법으로 폐지하는 데는 실패했다. 일부 의원들은 공식 폐지를 강력히 요구했었다.
-<a href="https://www.wsj.com/politics/policy/gop-senators-fight-over-trump-fund-spills-onto-floor-4de6b204">[WSJ]</a></blockquote>
+<b>7. 아일랜드 정부, 러시아향 알루미나 수출 압박...무기 전용 우려</b>
+<blockquote>아일랜드 의원들이 Oleg Deripaska 계열 아일랜드 공장에서 생산된 알루미나 원료가 러시아 무기에 사용될 경우 EU 제재를 가할 것을 요구하고 있다. 유럽 내 대러 제재 압력이 강화되는 흐름이다.
+<a href="https://www.ft.com/content/4f271639-cf23-4c36-bfda-9c739eaa0797">[FT]</a></blockquote>
 
 ━━━━━━━━━━━━━━━━━━━━
 📡 <b>출처: WSJ · FT · The Economist</b>
