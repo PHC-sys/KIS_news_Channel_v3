@@ -4,161 +4,125 @@
 
 ✅ <b>간밤의 주요 헤드라인</b>
 
-<b>1. 이란과 이스라엘, 상호 공격 중단 선언...트럼프 휴전 연장 노력 탄력</b>
-<blockquote>이란과 이스라엘이 주말 상호 미사일 공격 후 군사작전 중단을 선언했다. 트럼프 대통령은 양측에 "사격 중지"를 촉구하며 휴전 연장을 추진 중이다. 호르무즈 해협 봉쇄 우려가 완화되면서 유가 상승폭이 축소됐다.
-<a href="https://www.ft.com/content/700c27f3-6768-4c7a-86bc-ca847de9df55">[FT]</a></blockquote>
+<b>1. 미국, 이란에 군사 타격 개시...Apache 헬기 격추 보복</b>
+<blockquote>미국이 호르무즈 해협 순찰 중이던 Apache 헬기가 이란의 공격으로 격추된 데 대한 보복으로 이란 내 목표물에 대한 공습을 실시했다. 미 중부사령부는 "부당한 이란의 공격에 대한 비례적 대응"이라고 밝혔다. 중동 군사 긴장이 새로운 국면으로 접어들었다.
+<a href="https://www.ft.com/content/ceb10e74-9ff1-4cf6-82e0-70161c6f1f09">[FT]</a></blockquote>
 
-<b>2. 이란·이스라엘, 레바논 교착 속 휴전 반복 시험...중동 긴장 지속</b>
-<blockquote>헤즈볼라 문제를 둘러싼 레바논 교착이 이란-미국 간 취약한 휴전을 반복적으로 시험하고 있다. 주말 양측의 보복 공격은 휴전 합의의 불안정성을 드러냈다.
-<a href="https://www.ft.com/content/7a96137c-63ce-4115-a362-f36fe68a1469">[FT]</a></blockquote>
+<b>2. 호르무즈 해협 통행량 '의미 있게' 회복 중...유가 하락</b>
+<blockquote>미국 에너지부 장관 Chris Wright는 호르무즈 해협을 통한 석유 운송량이 "의미 있게" 증가하고 있다고 밝혔다. 다만 완전한 정상화까지는 수개월이 소요될 전망이다. 중동 평화 협상 기대감과 맞물려 유가는 하락세를 나타냈다.
+<a href="https://www.ft.com/content/c7e5bbbd-65ed-4678-baee-a4b63123e0e5">[FT]</a></blockquote>
 
-<b>3. 트럼프, 네타냐후 이란 공습 저지 실패...중동 통제력 약화 신호</b>
-<blockquote>트럼프 대통령이 네타냐후 총리와의 전화 통화에서 이란 공습 자제를 요구했으나 실패했다. 이는 중동 전쟁 종식을 위한 트럼프의 노력이 약화되고 있음을 보여준다.
-<a href="https://www.wsj.com/world/middle-east/trump-and-netanyahus-rift-over-lebanon-is-deepening-df16b6c9">[WSJ]</a></blockquote>
+<b>3. 귀금속 가격 하락...Trump 군사 보복 발언에도 안전자산 매력 약화</b>
+<blockquote>Trump 대통령이 헬기 공격에 대한 군사 보복을 예고했음에도 불구하고 금을 비롯한 귀금속 선물가격이 하락 마감했다. 지정학 리스크보다 인플레이션 우려가 안전자산 수요에 더 큰 영향을 미치는 것으로 풀이된다.
+<a href="https://www.wsj.com/finance/commodities-futures/gold-falls-as-geopolitical-tensions-spark-inflation-concerns-18d4be4a">[WSJ]</a></blockquote>
 
-<b>4. 이란·이스라엘 충돌 격화 속 군사작전 종료 선언...베이루트 공습·석유화학 시설 타격</b>
-<blockquote>이란은 이스라엘을 향해 여러 차례 공격을 가했고, 이스라엘은 이란의 주요 석유화학 시설을 포함한 목표물을 타격했다. 양측은 이후 공격 종료를 선언했다.
-<a href="https://www.wsj.com/world/middle-east/iran-fires-missiles-at-israel-after-israeli-airstrike-on-beirut-a93b4da7">[WSJ]</a></blockquote>
+<b>4. EU, 러시아 원유 가격 상한 인상 중단 검토...중동 공급 차질 반영</b>
+<blockquote>EU가 러시아산 원유에 적용 중인 배럴당 $44 가격 상한을 $70로 올리려던 계획을 중단할 가능성이 제기됐다. 중동 전쟁으로 인한 공급 차질을 고려한 조치로 보인다.
+<a href="https://www.ft.com/content/a61e339d-7387-4f21-acb0-851732f2d6f5">[FT]</a></blockquote>
 
-<b>5. 유가, 이란·이스라엘 공격 교환 후 상승...공급 차질 우려 반영</b>
-<blockquote>원유 선물은 이스라엘과 이란이 주말 공격을 교환한 뒤 3거래일 만에 처음 상승했다. 양측이 추가 공격 중단을 선언하기 전 공급 차질 우려가 반영됐다.
-<a href="https://www.wsj.com/finance/commodities-futures/oil-prices-rise-amid-escalating-supply-disruption-concerns-a2670a9a">[WSJ]</a></blockquote>
+<b>5. 사회보장 신탁기금, 2032년 고갈 전망...감세·이민 감소 영향</b>
+<blockquote>미국 사회보장청은 은퇴 급여 지급을 위한 신탁기금이 2032년 말 소진될 것이라고 밝혔다. 새 세법, 출산율 하락, 이민 감소가 기금 수입을 줄이고 있다. 기금 고갈 시 급여는 법정 수입 범위 내로 자동 삭감된다.
+<a href="https://www.wsj.com/politics/policy/social-security-trust-insolvency-2032-d26bf25e">[WSJ]</a></blockquote>
 
-<b>6. 유가, 이란 공격 종료 선언 후 상승폭 축소...호르무즈 우려 완화</b>
-<blockquote>이란이 이스라엘에 대한 군사작전 종료를 선언하면서 유가 상승폭이 축소됐다. 중동 전쟁 종식과 호르무즈 해협 재개방 노력에 차질이 생길 것이란 우려가 완화됐다.
-<a href="https://www.wsj.com/world/middle-east/oil-climbs-as-israel-iran-clashes-stoke-middle-east-escalation-fears-24dc8c59">[WSJ]</a></blockquote>
+<b>6. 연준 신임 의장 Kevin Warsh...금리 인하 근거 약화</b>
+<blockquote>Economist 분석에 따르면 Kevin Warsh 신임 연준 의장이 금리 인하를 단행할 명분이 약화되고 있다. 인플레이션 압력이 지속되는 가운데 Trump 대통령의 압력과 재정 불안이 동시에 심화되면서 통화정책 딜레마가 커지고 있다.
+<a href="https://www.economist.com/leaders/2026/06/09/the-federal-reserve-must-soon-give-donald-trump-bad-news">[Economist]</a></blockquote>
 
-<b>7. 금, 0.03% 소폭 하락 마감...은 0.8% 하락</b>
-<blockquote>금 선물은 소폭 하락 마감했고 은은 0.8% 가까이 내렸다. 두 금속 모두 이틀 연속 하락세를 기록했다.
-<a href="https://www.wsj.com/finance/commodities-futures/gold-rises-long-term-view-remains-positive-734209fe">[WSJ]</a></blockquote>
+<b>7. 연준, 글로벌 역할 재고 필요...외환 안정 개입은 외교 결정</b>
+<blockquote>FT는 연준이 다른 국가의 금융 안정을 위한 개입에 나설 경우 이는 경제 정책뿐 아니라 외교 정책 결정이기도 하다며, 연준의 글로벌 역할에 대한 재검토가 필요하다고 분석했다.
+<a href="https://www.ft.com/content/5510c113-22f1-4234-897a-bdd5e97e9946">[FT]</a></blockquote>
 
-<b>8. 나스닥 지수 상승 마감...금요일 매도세 만회</b>
-<blockquote>미 증시는 나스닥 종합지수 주도로 대부분 상승 마감했다. 기술주가 반등했고 이란과 이스라엘의 공격 재개 후 중단 선언이 긍정적 영향을 미쳤다.
-<a href="https://www.wsj.com/finance/stocks/oil-rises-on-israel-iran-escalation-u-s-tech-futures-climb-c58953e6">[WSJ]</a></blockquote>
+<b>8. 4월 미국 무역적자 거의 변화 없어...관세 정책 효과 미미</b>
+<blockquote>4월 미국 무역적자가 전월과 거의 동일한 수준을 기록하면서 Trump 행정부의 관세 정책이 무역 불균형 해소에 별다른 효과를 내지 못하고 있다는 분석이 나온다.
+<a href="https://www.wsj.com/economy/trade/u-s-trade-deficit-nearly-flat-in-april-af570b79">[WSJ]</a></blockquote>
 
-<b>9. 월가, 반도체 주식 주도 반등...AI 열기 재점화</b>
-<blockquote>Intel과 Micron 등 반도체 주식이 크게 상승하며 월가가 반등했다. AI 관련 주식에 대한 열기가 되살아났다.
-<a href="https://www.ft.com/content/2f0f727b-5315-445c-b8f1-6aa65bd7474c">[FT]</a></blockquote>
+<b>9. 미-캐나다 무역협상 난항...캐나다 보복관세가 장애물</b>
+<blockquote>미국 무역대표부의 Jamieson Greer 대표는 캐나다의 미국산 제품에 대한 보복 관세 조치가 양국 간 무역협정 재협상의 주요 걸림돌이라고 밝혔다. 협상 진전이 미미한 상황이다.
+<a href="https://www.wsj.com/world/americas/ustr-greer-blames-canada-tariffs-for-minimal-progress-on-trade-talks-542db4ed">[WSJ]</a></blockquote>
 
-<b>10. OpenAI, IPO 신청서 제출...시가총액 1조 달러 이상 전망</b>
-<blockquote>ChatGPT 개발사 OpenAI가 기업공개(IPO) 신청서를 비공개 제출했다. 시장은 기업가치를 1조 달러 이상으로 평가하고 있다.
-<a href="https://www.ft.com/content/a347e00a-2952-41ad-9f12-88c01ba199d6">[FT]</a></blockquote>
+<b>10. Trump, 60개국에 강제노동 명목 관세 부과...보호무역 확대</b>
+<blockquote>WSJ 사설은 Trump 행정부가 강제노동을 명분으로 약 60개국에 관세를 부과한 것을 "또 다른 대규모 증세"라고 비판했다. 보호무역 정책이 더욱 확대되는 양상이다.
+<a href="https://www.wsj.com/opinion/trumps-latest-big-tax-increase-3f063a31">[WSJ]</a></blockquote>
 
-<b>11. OpenAI, IPO 신청...최상위 AI 스타트업 투자 심리 시험대</b>
-<blockquote>ChatGPT 개발사가 비공개로 IPO 신청서를 제출했다. 다만 "상장까지는 시간이 걸릴 수 있다"고 밝혔다.
-<a href="https://www.wsj.com/tech/ai/openai-kicks-off-ipo-process-in-test-of-investor-appetite-for-top-ai-labs-eb7bebe1">[WSJ]</a></blockquote>
-
-<b>12. 애플, 대기해온 AI 기반 Siri 공개...프라이버시 강조</b>
-<blockquote>애플이 수년간 지연됐던 AI 기반 새 Siri를 공개했다. 구글과 협력 개발한 기술로 프라이버시 차별화를 내세웠다.
-<a href="https://www.ft.com/content/28205edf-baeb-4b97-a89d-e9f4838ff6ff">[FT]</a></blockquote>
-
-<b>13. 애플, AI 강화 Siri 발표...핵심 내용 정리</b>
-<blockquote>애플이 새로운 Siri 챗봇을 선보였다. 구글과 개발한 이 기술로 AI 분야 만회를 노리고 있다.
-<a href="https://www.wsj.com/tech/apple-wwdc-2026-annoucements-69c7948c">[WSJ]</a></blockquote>
-
-<b>14. Nvidia, 한국 기업들과 AI 인프라 구축 계약...아시아 거점 확대</b>
-<blockquote>Nvidia가 한국 주요 기술 기업들과 대규모 AI 인프라 구축 협력에 나섰다. 아시아 데이터센터 입지 강화와 AI 생태계 확장이 목표다.
-<a href="https://www.wsj.com/business/nvidia-strikes-ai-infrastructure-deals-with-south-korean-tech-firms-36117f39">[WSJ]</a></blockquote>
-
-<b>15. WSJ 달러지수 0.10% 하락한 96.50 기록...3거래일 중 2일 하락</b>
-<blockquote>WSJ 달러지수가 0.1% 하락했다. 최근 3거래일 중 2일 하락세를 보였다.
-<a href="https://www.wsj.com/finance/currencies/asian-currencies-mixed-amid-growing-fed-rate-hike-expectations-6dd3448b">[WSJ]</a></blockquote>
-
-<b>16. 미 국채 수익률 상승...중동 정세·고금리 전망 반영</b>
-<blockquote>국채 수요가 감소하고 수익률은 이틀 연속 상승했다. 시장은 중동 긴장과 미국의 높은 금리 전망을 소화하고 있다.
-<a href="https://www.wsj.com/finance/investing/jgb-futures-fall-tracking-price-declines-in-u-s-treasury-market-48c22757">[WSJ]</a></blockquote>
-
-<b>17. 미 고용 트렌드 지수 5월 하락...107.01 기록</b>
-<blockquote>고용 트렌드 지수(ETI)가 5월 107.01로 하락했다. 4월 수정치 107.88에서 내려왔다.
-<a href="https://www.wsj.com/economy/central-banking/u-s-employment-trends-index-ticked-down-in-may-6eaa5095">[WSJ]</a></blockquote>
-
-<b>18. 연방법원, 트럼프 H-1B 비자 수수료 10만 달러 무효 판결...권한 남용 판단</b>
-<blockquote>연방 판사가 트럼프 행정부의 H-1B 비자 신규 신청 수수료 10만 달러 부과를 무효화했다. 법원은 이를 무단 과세이자 권한 남용으로 판단했다.
-<a href="https://www.ft.com/content/2ab284d9-eb38-4b42-b01a-2b375a08c1b0">[FT]</a></blockquote>
-
-<b>19. 법원, 트럼프 10만 달러 H-1B 비자 수수료 무효화...기술기업 환영</b>
-<blockquote>연방 판사가 트럼프 행정부의 H-1B 비자 수수료를 무효화했다. 지난해 도입된 이 수수료는 특히 기술 기업들 사이에서 혼란과 우려를 불러일으켰다.
-<a href="https://www.wsj.com/politics/policy/judge-strikes-down-trump-administrations-100-000-h-1b-visa-fee-f167da26">[WSJ]</a></blockquote>
-
-<b>20. 미 국방부, Alibaba·Baidu·BYD 중국 군사기업 블랙리스트 재등록</b>
-<blockquote>미 국방부가 세 기업을 중국 군사기업 블랙리스트에 재등록했다. 2월 갑작스런 삭제 후 국가안보 위험으로 다시 지정됐다.
+<b>11. 미 국방부, 알리바바·바이두·BYD 블랙리스트 재등재</b>
+<blockquote>미국 국방부가 2월 삭제했던 알리바바, 바이두, BYD를 중국 군사기업 블랙리스트에 재등재했다. 미중 기술·안보 갈등이 재차 격화되고 있다.
 <a href="https://www.ft.com/content/0689d87b-8ad3-4b7c-87e3-e06f07891a17">[FT]</a></blockquote>
 
-<b>21. 트럼프 관세장벽 계속 높아져...강제노동 명분 남용 비판</b>
-<blockquote>트럼프 행정부가 강제노동을 이유로 새로운 관세를 부과하고 있다. 전문가들은 이를 허위 명분이라고 비판한다.
-<a href="https://www.ft.com/content/ed7c8cb6-821e-47f3-80c0-463f4bca6e3e">[FT]</a></blockquote>
+<b>12. 대만 야당 지도자, 미중에 대만을 '폰' 삼지 말라 경고</b>
+<blockquote>대만 최대 야당인 국민당(KMT) 주석이 FT 인터뷰에서 미국과 중국에 대만을 협상의 '폰'으로 이용하지 말 것을 요구하며 양안 대화 확대를 촉구했다. 워싱턴 방문을 앞두고 나온 발언이다.
+<a href="https://www.ft.com/content/4f667f6f-efd0-4c3f-ab49-9f0d1099a8ba">[FT]</a></blockquote>
 
-<b>22. 독일, 프랑스와 전투기 공동개발 중단...유럽 방산 자주권 차질</b>
-<blockquote>독일이 프랑스와의 전투기 공동개발 프로젝트를 철회했다. 참여 기업들 간 주도권 다툼이 원인이었다.
-<a href="https://www.wsj.com/world/europe/germany-drops-jet-project-with-france-in-setback-for-european-defense-sovereignty-3f7a8b27">[WSJ]</a></blockquote>
+<b>13. 시장 변동성 확대 원인 분석...통화정책 불확실성 지목</b>
+<blockquote>FT는 최근 시장 변동성이 커진 배경으로 연준의 통화정책 방향에 대한 불확실성, 지정학 리스크, AI 투자 과열 우려 등을 꼽았다. 투자자들의 불안 심리가 고조되고 있다.
+<a href="https://www.ft.com/content/e7b70df7-2632-4f7e-9462-c22b8e3a4e51">[FT]</a></blockquote>
 
-<b>23. 베를린, 독불 전투기 공동개발 중단...1000억 유로 프로젝트 축소</b>
-<blockquote>독일 Merz 총리가 1000억 유로 규모 방산 프로젝트를 '전투 클라우드' 협력으로 축소 제안했다.
-<a href="https://www.ft.com/content/c13f2931-f2b5-49f7-93ef-b605c22547de">[FT]</a></blockquote>
+<b>14. 나스닥 하락, AI 주식 후퇴...변동성 거래 지속</b>
+<blockquote>나스닥 지수가 하락 마감했다. AI 관련 고공행진 종목들이 후퇴하며 낙폭을 주도했으나 나머지 시장 전반은 상승세를 보여 섹터별 양극화가 두드러졌다.
+<a href="https://www.ft.com/content/13d4845a-f278-489b-ab89-a2e9e6a79ede">[FT]</a></blockquote>
 
-<b>24. 중국 시진핑, 북한 김정은과 정상회담...서방 견제 동맹 강화</b>
-<blockquote>시진핑 주석이 평양에서 김정은과 이틀간 정상회담을 연다. 서방에 대한 양국 동맹 강화가 목적이다.
-<a href="https://www.wsj.com/world/asia/what-xi-and-kim-want-from-their-summit-in-north-korea-99a330b3">[WSJ]</a></blockquote>
+<b>15. 기술주 흔들림...SpaceX IPO 앞두고 투심 약화</b>
+<blockquote>SpaceX 상장을 앞두고 기술주가 약세를 보였다. 주택 판매 회복과 유가 고공행진 전망이 맞물려 투자자들의 관심이 분산되는 모습이다.
+<a href="https://www.wsj.com/finance/stocks/tech-stocks-waver-ahead-of-spacexs-ipo-66ab536b">[WSJ]</a></blockquote>
 
-<b>25. 중국 혁신역량과 경제 위기, 21세기 향방 가를 대결</b>
-<blockquote>중국은 혁신적이지만 경제는 엉망이다. 어느 쪽이 승리할지가 21세기를 정의할 것이다.
-<a href="https://www.economist.com/finance-and-economics/2026/06/08/china-is-innovative-its-economy-is-a-mess-which-will-win-out">[Economist]</a></blockquote>
+<b>16. 5월 주택 판매 3.2% 증가...올해 최대 폭 상승</b>
+<blockquote>5월 미국 기존주택 판매가 3.2% 증가하며 올해 가장 큰 폭의 상승을 기록했다. 모기지 금리 완화와 재고 증가가 구매자들을 시장으로 끌어들였다.
+<a href="https://www.wsj.com/economy/housing/may-home-sales-notched-their-biggest-rise-this-year-bd192cf1">[WSJ]</a></blockquote>
 
-<b>26. 이탈리아 최대 은행, 세계 최고(最古) 은행 MPS 인수 제안...306억 유로</b>
-<blockquote>이탈리아 최대 은행이 세계에서 가장 오래된 은행 MPS 인수에 나섰다. 상당한 비용 절감 효과를 기대한다고 밝혔다.
-<a href="https://www.ft.com/content/64cdd219-a131-46a0-946b-36922bbf4767">[FT]</a></blockquote>
+<b>17. 캐나다 무역흑자 15개월 만에 최대...미국행 원유·차량 수출 급증</b>
+<blockquote>캐나다의 4월 상품 무역수지 흑자가 15개월 만에 최대 규모로 확대됐다. 미국향 원유 및 차량 수출이 기록적 수준으로 증가하면서 수출이 사상 최고치를 경신했다.
+<a href="https://www.wsj.com/economy/trade/canada-goods-trade-surplus-widens-in-april-7e72081d">[WSJ]</a></blockquote>
 
-<b>27. 세계 최고(最古) 은행 MPS 놓고 입찰 경쟁...이탈리아 은행권 격변</b>
-<blockquote>시에나의 Monte dei Paschi di Siena 은행이 갑자기 인기 인수 대상으로 떠올랐다.
-<a href="https://www.economist.com/finance-and-economics/2026/06/08/a-bidding-war-erupts-for-the-worlds-oldest-bank">[Economist]</a></blockquote>
+<b>18. Broadcom·Apollo·Blackstone, 350억 달러 AI 인프라 플랫폼 출범</b>
+<blockquote>Broadcom이 Apollo Global Management, Blackstone의 신용·보험 부문과 손잡고 초기 자본금 350억 달러 규모의 AI 인프라 금융 플랫폼을 출범했다. AI 데이터센터 확대에 대규모 민간 자본이 투입된다.
+<a href="https://www.wsj.com/tech/ai/broadcom-apollo-blackstone-launch-35-billion-ai-infrastructure-platform-8fc8f65e">[WSJ]</a></blockquote>
 
-<b>28. Roche, Nurix 혈액암 신약 라이선스 계약...최대 23억 달러</b>
-<blockquote>스위스 제약사 Roche가 Nurix에 선급금 7억 달러를 지급한다. 개발비는 Roche 60%, Nurix 40% 분담한다.
-<a href="https://www.wsj.com/business/deals/roche-enters-2-3-billion-blood-cancer-drug-deal-with-nurix-therapeutics-41f1f782">[WSJ]</a></blockquote>
+<b>19. Anthropic, Mythos급 모델 일반 공개...위험 질의는 구형 모델로</b>
+<blockquote>Anthropic이 새로운 'Mythos급' AI 모델을 일반에 공개했다. 사이버 보안이나 생물무기 등 위험 주제에 대한 질의는 자동으로 구형 Opus 모델로 전환되는 안전장치가 적용됐다.
+<a href="https://www.wsj.com/tech/ai/anthropic-claude-fable-ai-model-f41fb5d7">[WSJ]</a></blockquote>
 
-<b>29. Johnson & Johnson, Firefly Bio 10억 달러에 인수...항암 파이프라인 강화</b>
-<blockquote>Johnson & Johnson이 바이오 기업 Firefly Bio를 현금 10억 달러에 인수하기로 합의했다. 항암 신약 파이프라인 확충이 목적이다.
-<a href="https://www.wsj.com/tech/biotech/johnson-johnson-to-buy-firefly-bio-for-1-billion-7451d97f">[WSJ]</a></blockquote>
+<b>20. 애플 Siri, AI 경쟁의 다크호스...모델 없이도 수익화 가능</b>
+<blockquote>Economist는 애플이 자체 AI 모델 개발 없이도 새 Siri를 통해 AI 경쟁에서 승리할 수 있는 위치에 있다고 분석했다. 기기 통합과 생태계 우위가 핵심 강점으로 꼽힌다.
+<a href="https://www.economist.com/business/2026/06/09/apples-new-siri-is-a-dark-horse-in-the-ai-race">[Economist]</a></blockquote>
 
-<b>30. Incyte, 혈액질환 바이오 Vega 최대 20억 달러 인수...출혈질환 진출</b>
-<blockquote>Incyte가 Vega Therapeutics를 최대 20억 달러에 인수한다. 혈액 포트폴리오를 출혈질환 영역으로 확장한다.
-<a href="https://www.wsj.com/tech/biotech/incyte-to-buy-vega-therapeutics-for-up-to-2-billion-229dcbae">[WSJ]</a></blockquote>
+<b>21. 백악관, AI 테스트 기관에 공개 보고서 중단 요구...통제 강화</b>
+<blockquote>Trump 행정부가 정부 산하 AI 테스트 기관에 공개 보고서 발행 중단을 요청했다. 국가안보 우려가 커지는 가운데 AI 모델에 대한 백악관의 통제를 강화하려는 신호로 해석된다.
+<a href="https://www.wsj.com/politics/policy/white-house-reins-in-ai-testing-unit-as-national-security-concerns-grow-8bd33fbb">[WSJ]</a></blockquote>
 
-<b>31. Incyte, 혈액질환 바이오텍과 20억 달러 계약 체결</b>
-<blockquote>중견 제약사들이 대형 제약사와의 경쟁에서 파이프라인을 보강하고 규모를 키우고 있다.
-<a href="https://www.ft.com/content/a438f9c6-22bd-4dd3-967e-007c95d64d37">[FT]</a></blockquote>
+<b>22. EU, 메타에 WhatsApp AI 에이전트 개방 명령</b>
+<blockquote>EU 집행위원회가 메타에 WhatsApp을 경쟁 AI 에이전트에 개방하도록 긴급 조치를 내렸다. 빠르게 발전하는 자율 에이전트 시장에서 EU의 선제적 개입 의지가 드러났다.
+<a href="https://www.ft.com/content/dda5bc48-d2ef-40ce-98f7-920bb8cf65ca">[FT]</a></blockquote>
 
-<b>32. Blackstone, 사모펀드 지분 20억 달러어치 매각 추진...유동성 시험대</b>
-<blockquote>이 규모의 거래 중 최대급으로, 오래된 사모펀드 투자 지분에 대한 투자자 수요를 시험할 전망이다.
-<a href="https://www.ft.com/content/98ccabf5-229f-4a47-b125-7c4538a6ee3f">[FT]</a></blockquote>
+<b>23. Kalshi, 내부자 거래 방지 위해 직장 공개 규정 도입</b>
+<blockquote>예측시장 플랫폼 Kalshi가 특정 거래에 대해 사용자의 직장 공개를 의무화하는 규정을 도입한다. 의심스러운 거래 활동에 대한 우려가 커지면서 새로운 안전장치를 마련했다.
+<a href="https://www.wsj.com/finance/regulation/kalshi-plans-to-require-users-disclose-where-they-work-to-make-certain-trades-7c6ada99">[WSJ]</a></blockquote>
 
-<b>33. Meta, 데이터센터 건설 인력 양성 '인력 아카데미' 개설</b>
-<blockquote>5주 무료 교육 프로그램으로 수료 후 일자리를 보장한다. 최근 8000명 해고에 이은 조치다.
-<a href="https://www.wsj.com/tech/ai/meta-launches-workforce-academy-to-train-workers-to-build-data-centers-35470a80">[WSJ]</a></blockquote>
+<b>24. GSK, 미국 암 바이오텍 Nuvalent 106억 달러 인수</b>
+<blockquote>영국 제약사 GSK가 미국 암 치료제 바이오텍 Nuvalent를 106억 달러에 인수한다. 폐암 치료제 후보물질 3개를 확보하며 종양학 분야를 강화하고, 추가 인수도 예고됐다.
+<a href="https://www.ft.com/content/c22fca23-2917-420b-9538-744a093d4b47">[FT]</a></blockquote>
 
-<b>34. Amazon, Corning과 데이터센터 광케이블 수십억 달러 계약</b>
-<blockquote>Amazon이 Corning과 광섬유·케이블·연결 솔루션 공급 계약을 체결했다. 확대되는 데이터센터 인프라를 지원한다.
-<a href="https://www.wsj.com/tech/amazon-enters-agreement-with-corning-for-optical-fiber-for-data-centers-352c7fa7">[WSJ]</a></blockquote>
+<b>25. Apollo, 일본 생명보험사 인수 추진...규제 장벽 예상</b>
+<blockquote>미국 자산운용사 Apollo가 성장 가속화를 위해 일본 생명보험사 인수를 추진 중이다. 다만 일본 당국의 자국 기업 선호 성향으로 규제 허가가 난관에 부딪힐 가능성이 있다.
+<a href="https://www.ft.com/content/7462744e-530e-459b-a89f-581a242bc0f9">[FT]</a></blockquote>
 
-<b>35. Wix.com, 직원 20% 감축하고 전망 하향...구조조정 지속</b>
-<blockquote>웹사이트 구축 플랫폼 Wix가 사업 일부를 축소하며 조직 재편을 진행 중이다. 이는 2026년 예약 및 매출 성장에 부담이 될 것으로 예상된다.
-<a href="https://www.wsj.com/business/retail/wix-com-slashes-20-of-staff-lowers-outlook-as-restructuring-continues-922b9e4f">[WSJ]</a></blockquote>
+<b>26. GM, 자체 배터리 기술 투자 확대...중국 의존도 축소</b>
+<blockquote>GM이 중국의 배터리 기술 지배력에 맞서기 위해 자체 배터리 기술에 투자를 늘리고 있다. 전기차 판매 부진 속에서 AI 데이터센터용 에너지 저장 배터리 시장으로 방향을 선회하고 있다.
+<a href="https://www.ft.com/content/6a26c6e1-ec55-4a6a-8ddc-18405ca52c9a">[FT]</a></blockquote>
 
-<b>36. Honeywell, 항공우주 부문 분할 앞두고 연간 가이던스 유지</b>
-<blockquote>Honeywell이 항공우주 사업부 분사를 앞두고 연간 실적 전망을 재확인했다.
-<a href="https://www.wsj.com/business/honeywell-backs-full-year-guidance-ahead-of-aerospace-spinoff-df2cb6d1">[WSJ]</a></blockquote>
+<b>27. BP, 구조조정 일환 신규 부문장 임명...운영 단순화 추진</b>
+<blockquote>BP가 운영 단순화와 의사결정 속도 향상을 위한 구조조정의 일환으로 신설 상류·하류 부문 책임자를 임명했다. Gordon Birrell이 상류 부문을, Richard Harding이 하류 부문 임시 책임자를 맡는다.
+<a href="https://www.wsj.com/business/energy-oil/bp-names-heads-of-newly-created-segments-part-of-simplification-push-13a88132">[WSJ]</a></blockquote>
 
-<b>37. 미 천연가스 선물 하락...6월 후반 기온 전망·LNG 수출 정비 영향</b>
-<blockquote>미 천연가스 선물이 하락 마감했다. 6월 후반 기온 전망이 낮아지고 LNG 수출이 정비로 감소한 영향이다.
-<a href="https://www.wsj.com/articles/natural-u-s-gas-futures-decline-on-weather-outlook-8e5989d8">[WSJ]</a></blockquote>
+<b>28. 원자력 에너지 대중 지지 증가...AI 전력 수요가 촉매</b>
+<blockquote>원자력 에너지에 대한 대중의 지지가 확대되고 있다. 특히 기술 업계가 AI 인프라의 전력 수요 해결책으로 원자력을 옹호하면서 관심이 가속화되고 있다.
+<a href="https://www.wsj.com/business/energy-oil/nuclear-energy-public-support-bb744e6e">[WSJ]</a></blockquote>
 
-<b>38. 사우디 Aramco, 아시아향 7월 원유 가격 인하...수요 둔화 반영</b>
-<blockquote>Aramco가 7월 아시아 인도분 Arab Light 원유 공식판매가를 지역 벤치마크 대비 배럴당 9.50달러 프리미엄으로 책정했다. 6월 15.50달러에서 하락했다.
-<a href="https://www.wsj.com/business/energy-oil/saudi-arabia-cuts-july-crude-prices-for-asia-as-demand-slows-8e21d556">[WSJ]</a></blockquote>
+<b>29. 영국 Starmer, Burnham 지지 장관에 사퇴 압력</b>
+<blockquote>영국 Starmer 총리가 노동당 내 경쟁자인 맨체스터 시장 Burnham을 지지하는 장관들에게 사퇴를 요구할 방침이다. Burnham 지지자들은 이미 당수 도전에 필요한 의원 수를 확보했다고 주장한다.
+<a href="https://www.ft.com/content/56bae666-52f8-42ed-846c-abe65c94eb2d">[FT]</a></blockquote>
 
-<b>39. 필리핀 남부 7.8 강진으로 최소 35명 사망...건물 붕괴·도로 파손</b>
-<blockquote>민다나오 섬 인근 해상에서 발생한 7.8 규모 지진으로 필리핀 전역에서 건물이 무너지고 도로가 파손됐다.
-<a href="https://www.wsj.com/world/asia/powerful-earthquake-rocks-southern-philippines-6f10662c">[WSJ]</a></blockquote>
+<b>30. 천연가스 선물 보합세...수요 강세와 냉각 날씨 전망 상쇄</b>
+<blockquote>미국 천연가스 선물이 소폭 하락 마감했다. 이번 주 강한 수요와 6월 후반 냉각한 날씨 전망이 맞물리면서 등락을 거듭하는 박스권 거래가 이어졌다.
+<a href="https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-inch-down-in-early-trading-5d2b7dc2">[WSJ]</a></blockquote>
 
 ━━━━━━━━━━━━━━━━━━━━
 📡 <b>출처: WSJ · FT · The Economist</b>
