@@ -4,125 +4,85 @@
 
 ✅ <b>간밤의 주요 헤드라인</b>
 
-<b>1. 미국, 이란에 군사 타격 개시...Apache 헬기 격추 보복</b>
-<blockquote>미국이 호르무즈 해협 순찰 중이던 Apache 헬기가 이란의 공격으로 격추된 데 대한 보복으로 이란 내 목표물에 대한 공습을 실시했다. 미 중부사령부는 "부당한 이란의 공격에 대한 비례적 대응"이라고 밝혔다. 중동 군사 긴장이 새로운 국면으로 접어들었다.
-<a href="https://www.ft.com/content/ceb10e74-9ff1-4cf6-82e0-70161c6f1f09">[FT]</a></blockquote>
+<b>1. 미국, 이란에 2차 공습 감행...트럼프 "오늘 다시 타격" 경고</b>
+<blockquote>미국이 이란을 상대로 이틀 연속 공습을 실시했다. 트럼프 대통령은 수요일 오전 이란을 다시 공격할 것이라고 예고했으며, 이는 전날 제한적 타격 이후 추가 압박 의지를 드러낸 것으로 풀이된다.
+<a href="https://www.wsj.com/world/middle-east/u-s-launches-fresh-wave-of-strikes-against-iran-2a23d87b">[WSJ]</a></blockquote>
 
-<b>2. 호르무즈 해협 통행량 '의미 있게' 회복 중...유가 하락</b>
-<blockquote>미국 에너지부 장관 Chris Wright는 호르무즈 해협을 통한 석유 운송량이 "의미 있게" 증가하고 있다고 밝혔다. 다만 완전한 정상화까지는 수개월이 소요될 전망이다. 중동 평화 협상 기대감과 맞물려 유가는 하락세를 나타냈다.
-<a href="https://www.ft.com/content/c7e5bbbd-65ed-4678-baee-a4b63123e0e5">[FT]</a></blockquote>
+<b>2. 이란 갈등 재격화에 유가 급등...취약한 휴전 긴장 고조</b>
+<blockquote>미국의 2차 공습으로 이란과의 취약한 휴전이 새로운 압력을 받으면서 유가가 급등세를 보였다. 중동 긴장이 에너지 시장 변동성을 키우고 있다는 우려가 확산됐다.
+<a href="https://www.ft.com/content/e8bea0ec-8dee-495a-8cf3-b5cbb283ccae">[FT]</a></blockquote>
 
-<b>3. 귀금속 가격 하락...Trump 군사 보복 발언에도 안전자산 매력 약화</b>
-<blockquote>Trump 대통령이 헬기 공격에 대한 군사 보복을 예고했음에도 불구하고 금을 비롯한 귀금속 선물가격이 하락 마감했다. 지정학 리스크보다 인플레이션 우려가 안전자산 수요에 더 큰 영향을 미치는 것으로 풀이된다.
-<a href="https://www.wsj.com/finance/commodities-futures/gold-falls-as-geopolitical-tensions-spark-inflation-concerns-18d4be4a">[WSJ]</a></blockquote>
+<b>3. 트럼프 "이란, 평화협상 미진행 시 대가 치를 것"...전면전 위험 부각</b>
+<blockquote>사흘간의 군사 충돌 끝에 트럼프 대통령은 이란이 평화 협상에 나서지 않으면 "대가를 치르게 될 것"이라고 경고했다. 양측 모두 압박과 전면전 사이의 경계선을 조율하고 있는 것으로 분석된다.
+<a href="https://www.wsj.com/world/middle-east/three-days-of-clashes-show-the-iran-conflict-is-entering-a-dangerous-new-phase-0b677422">[WSJ]</a></blockquote>
 
-<b>4. EU, 러시아 원유 가격 상한 인상 중단 검토...중동 공급 차질 반영</b>
-<blockquote>EU가 러시아산 원유에 적용 중인 배럴당 $44 가격 상한을 $70로 올리려던 계획을 중단할 가능성이 제기됐다. 중동 전쟁으로 인한 공급 차질을 고려한 조치로 보인다.
-<a href="https://www.ft.com/content/a61e339d-7387-4f21-acb0-851732f2d6f5">[FT]</a></blockquote>
+<b>4. 이란 "저수지 피격으로 2만 명 물 공급 차단"...민간 피해 확대</b>
+<blockquote>이란 당국은 미국의 공습으로 저수지 시설이 파괴돼 약 2만 명이 물 공급을 받지 못하게 됐다고 밝혔다. 미국은 이란 방공망과 레이더 시설을 타격했다고 발표했지만, 민간 피해 논란이 커지고 있다.
+<a href="https://www.ft.com/content/155db8a4-f2ff-463b-9c6c-2b1a8104750c">[FT]</a></blockquote>
 
-<b>5. 사회보장 신탁기금, 2032년 고갈 전망...감세·이민 감소 영향</b>
-<blockquote>미국 사회보장청은 은퇴 급여 지급을 위한 신탁기금이 2032년 말 소진될 것이라고 밝혔다. 새 세법, 출산율 하락, 이민 감소가 기금 수입을 줄이고 있다. 기금 고갈 시 급여는 법정 수입 범위 내로 자동 삭감된다.
-<a href="https://www.wsj.com/politics/policy/social-security-trust-insolvency-2032-d26bf25e">[WSJ]</a></blockquote>
+<b>5. 호르무즈 해협 '암흑 항해' 증가...트럼프 "비밀 작전 지원"</b>
+<blockquote>호르무즈 해협을 통과하는 유조선들이 위치추적장치를 끄고 이동하는 '암흑 항해(dark transit)'를 늘리고 있다. 트럼프 대통령은 미국이 원유 수송을 돕기 위한 비밀 작전을 수행하고 있다고 밝혔다.
+<a href="https://www.ft.com/content/31450147-1b85-4ecf-a60d-0c0e3a298ae7">[FT]</a></blockquote>
 
-<b>6. 연준 신임 의장 Kevin Warsh...금리 인하 근거 약화</b>
-<blockquote>Economist 분석에 따르면 Kevin Warsh 신임 연준 의장이 금리 인하를 단행할 명분이 약화되고 있다. 인플레이션 압력이 지속되는 가운데 Trump 대통령의 압력과 재정 불안이 동시에 심화되면서 통화정책 딜레마가 커지고 있다.
-<a href="https://www.economist.com/leaders/2026/06/09/the-federal-reserve-must-soon-give-donald-trump-bad-news">[Economist]</a></blockquote>
+<b>6. 유가 상승세, 중동 긴장에 공급 차질 우려 반영</b>
+<blockquote>트럼프 대통령이 이란에 대한 추가 공습을 예고하면서 유가 선물이 상승했다. 이란 측도 협상 재고와 군사적 대응을 시사하며 호르무즈 해협 인근 공급 차질 우려가 커졌다.
+<a href="https://www.wsj.com/finance/commodities-futures/oil-rises-on-escalating-supply-disruption-concerns-c05bc14e">[WSJ]</a></blockquote>
 
-<b>7. 연준, 글로벌 역할 재고 필요...외환 안정 개입은 외교 결정</b>
-<blockquote>FT는 연준이 다른 국가의 금융 안정을 위한 개입에 나설 경우 이는 경제 정책뿐 아니라 외교 정책 결정이기도 하다며, 연준의 글로벌 역할에 대한 재검토가 필요하다고 분석했다.
-<a href="https://www.ft.com/content/5510c113-22f1-4234-897a-bdd5e97e9946">[FT]</a></blockquote>
+<b>7. 미국 원유 재고 7주 연속 감소...720만배럴 줄어</b>
+<blockquote>전략비축유(SPR)를 제외한 미국 상업용 원유 재고가 6월 5일 종료 주간 720만배럴 감소했다. 시장 예상치 290만배럴을 크게 웃도는 감소폭으로, 공급 타이트 우려를 키우고 있다.
+<a href="https://www.wsj.com/business/energy-oil/u-s-crude-oil-inventories-fall-for-seventh-straight-week-f74c47a1">[WSJ]</a></blockquote>
 
-<b>8. 4월 미국 무역적자 거의 변화 없어...관세 정책 효과 미미</b>
-<blockquote>4월 미국 무역적자가 전월과 거의 동일한 수준을 기록하면서 Trump 행정부의 관세 정책이 무역 불균형 해소에 별다른 효과를 내지 못하고 있다는 분석이 나온다.
-<a href="https://www.wsj.com/economy/trade/u-s-trade-deficit-nearly-flat-in-april-af570b79">[WSJ]</a></blockquote>
+<b>8. 시리아, 걸프전 수혜...이라크 원유 지중해 수출 루트 부활</b>
+<blockquote>이라크 원유를 지중해로 수출하는 구(舊) 송유관 경로가 재개되면서 시리아 신정부가 예상치 못한 수혜를 누리고 있다. 걸프 전쟁 여파로 중동 에너지 공급망이 재편되는 모습이다.
+<a href="https://www.economist.com/middle-east-and-africa/2026/06/10/syria-is-an-unexpected-beneficiary-of-the-gulf-war">[Economist]</a></blockquote>
 
-<b>9. 미-캐나다 무역협상 난항...캐나다 보복관세가 장애물</b>
-<blockquote>미국 무역대표부의 Jamieson Greer 대표는 캐나다의 미국산 제품에 대한 보복 관세 조치가 양국 간 무역협정 재협상의 주요 걸림돌이라고 밝혔다. 협상 진전이 미미한 상황이다.
-<a href="https://www.wsj.com/world/americas/ustr-greer-blames-canada-tariffs-for-minimal-progress-on-trade-talks-542db4ed">[WSJ]</a></blockquote>
+<b>9. 미국 5월 CPI 4.2%...3년래 최고, 에너지 비용 급등</b>
+<blockquote>미국 소비자물가가 5월 전년비 4.2% 상승하며 3년 만에 최고치를 기록했다. 이란 전쟁에 따른 에너지 가격 급등이 전체 물가를 끌어올렸으며, 시장 예상에 부합하는 수준이었다.
+<a href="https://www.wsj.com/economy/cpi-inflation-report-may-2026-60db25fe">[WSJ]</a></blockquote>
 
-<b>10. Trump, 60개국에 강제노동 명목 관세 부과...보호무역 확대</b>
-<blockquote>WSJ 사설은 Trump 행정부가 강제노동을 명분으로 약 60개국에 관세를 부과한 것을 "또 다른 대규모 증세"라고 비판했다. 보호무역 정책이 더욱 확대되는 양상이다.
-<a href="https://www.wsj.com/opinion/trumps-latest-big-tax-increase-3f063a31">[WSJ]</a></blockquote>
+<b>10. 물가 급등에 실질임금 1년치 상승분 증발...작년 1월 수준 복귀</b>
+<blockquote>인플레이션이 다시 임금 상승을 앞지르면서 미국 노동자들의 실질 구매력이 악화되고 있다. 휘발유 가격 상승으로 지난 1년간의 명목 임금 상승분이 모두 상쇄됐고, 인플레이션 조정 후 평균 시간당 임금은 지난해 1월 수준으로 되돌아갔다.
+<a href="https://www.wsj.com/economy/inflation-wages-american-workers-cbe3f187">[WSJ]</a></blockquote>
 
-<b>11. 미 국방부, 알리바바·바이두·BYD 블랙리스트 재등재</b>
-<blockquote>미국 국방부가 2월 삭제했던 알리바바, 바이두, BYD를 중국 군사기업 블랙리스트에 재등재했다. 미중 기술·안보 갈등이 재차 격화되고 있다.
-<a href="https://www.ft.com/content/0689d87b-8ad3-4b7c-87e3-e06f07891a17">[FT]</a></blockquote>
+<b>11. 높은 인플레이션에 연준 매파 전환 압력 증대</b>
+<blockquote>예상을 웃도는 인플레이션 지표와 견조한 고용시장이 맞물리면서 연준의 커뮤니케이션 기조 변화 압력이 커지고 있다. 시장에서는 금리 정책의 매파적 선회 가능성이 점쳐지고 있다.
+<a href="https://www.ft.com/content/6dadf620-2f11-46d6-81bb-3ab8933a4dcf">[FT]</a></blockquote>
 
-<b>12. 대만 야당 지도자, 미중에 대만을 '폰' 삼지 말라 경고</b>
-<blockquote>대만 최대 야당인 국민당(KMT) 주석이 FT 인터뷰에서 미국과 중국에 대만을 협상의 '폰'으로 이용하지 말 것을 요구하며 양안 대화 확대를 촉구했다. 워싱턴 방문을 앞두고 나온 발언이다.
-<a href="https://www.ft.com/content/4f667f6f-efd0-4c3f-ab49-9f0d1099a8ba">[FT]</a></blockquote>
+<b>12. 캐나다 중앙은행, 정책 딜레마 속 금리 동결...2.25% 유지</b>
+<blockquote>캐나다 중앙은행이 기준금리를 2.25%로 동결했다. Tiff Macklem 총재는 약한 경제와 높은 에너지 가격이라는 양면 리스크에 대응하는 최선의 접근이라고 설명했다.
+<a href="https://www.wsj.com/economy/central-banking/bank-of-canada-holds-interest-rates-steady-as-officials-grapple-with-policy-dilemma-c0d4c39d">[WSJ]</a></blockquote>
 
-<b>13. 시장 변동성 확대 원인 분석...통화정책 불확실성 지목</b>
-<blockquote>FT는 최근 시장 변동성이 커진 배경으로 연준의 통화정책 방향에 대한 불확실성, 지정학 리스크, AI 투자 과열 우려 등을 꼽았다. 투자자들의 불안 심리가 고조되고 있다.
-<a href="https://www.ft.com/content/e7b70df7-2632-4f7e-9462-c22b8e3a4e51">[FT]</a></blockquote>
+<b>13. 다우 2026년 최대 낙폭...중동 충돌·인플레이션 우려 겹쳐</b>
+<blockquote>중동의 새로운 군사 충돌과 인플레이션 우려가 동시에 부각되면서 다우지수가 올해 들어 최대 낙폭을 기록했다. 트럼프 대통령의 이란 추가 타격 예고로 유가가 오르자 시장 불안이 증폭됐다.
+<a href="https://www.wsj.com/finance/stocks/global-stocks-markets-dow-news-06-10-2026-c106c317">[WSJ]</a></blockquote>
 
-<b>14. 나스닥 하락, AI 주식 후퇴...변동성 거래 지속</b>
-<blockquote>나스닥 지수가 하락 마감했다. AI 관련 고공행진 종목들이 후퇴하며 낙폭을 주도했으나 나머지 시장 전반은 상승세를 보여 섹터별 양극화가 두드러졌다.
-<a href="https://www.ft.com/content/13d4845a-f278-489b-ab89-a2e9e6a79ede">[FT]</a></blockquote>
+<b>14. 미국 테크주 급락, 변동성 확대...SpaceX 상장 앞두고 약세</b>
+<blockquote>미국 기술주가 대거 하락하며 월가의 변동성이 커졌다. SpaceX의 역사적인 시장 데뷔를 앞두고 투자 심리가 위축된 모습이다.
+<a href="https://www.ft.com/content/bbc8c712-23fe-4cad-b2ee-39dec0e0f3ca">[FT]</a></blockquote>
 
-<b>15. 기술주 흔들림...SpaceX IPO 앞두고 투심 약화</b>
-<blockquote>SpaceX 상장을 앞두고 기술주가 약세를 보였다. 주택 판매 회복과 유가 고공행진 전망이 맞물려 투자자들의 관심이 분산되는 모습이다.
-<a href="https://www.wsj.com/finance/stocks/tech-stocks-waver-ahead-of-spacexs-ipo-66ab536b">[WSJ]</a></blockquote>
+<b>15. 미 국채 수익률 상승...트럼프 이란 위협·인플레이션 우려</b>
+<blockquote>트럼프 대통령의 이란 추가 공습 예고와 높은 인플레이션 지표 발표로 미 국채 수익률이 일제히 올랐다. 중동 긴장과 물가 압력이 채권시장에 동시 악재로 작용하고 있다.
+<a href="https://www.wsj.com/finance/investing/jgbs-fall-amid-higher-crude-oil-prices-5126b6e8">[WSJ]</a></blockquote>
 
-<b>16. 5월 주택 판매 3.2% 증가...올해 최대 폭 상승</b>
-<blockquote>5월 미국 기존주택 판매가 3.2% 증가하며 올해 가장 큰 폭의 상승을 기록했다. 모기지 금리 완화와 재고 증가가 구매자들을 시장으로 끌어들였다.
-<a href="https://www.wsj.com/economy/housing/may-home-sales-notched-their-biggest-rise-this-year-bd192cf1">[WSJ]</a></blockquote>
+<b>16. 금값 4일 연속 하락, $4108.20 마감...3.56% 급락</b>
+<blockquote>금 선물이 3.56% 하락한 온스당 $4108.20에 거래를 마쳤으며, 은도 0.8% 내렸다. 두 귀금속 모두 4거래일 연속 하락세를 지속했다.
+<a href="https://www.wsj.com/finance/commodities-futures/golds-focus-now-turns-to-continuation-of-downtrend-chart-shows-14f05cd1">[WSJ]</a></blockquote>
 
-<b>17. 캐나다 무역흑자 15개월 만에 최대...미국행 원유·차량 수출 급증</b>
-<blockquote>캐나다의 4월 상품 무역수지 흑자가 15개월 만에 최대 규모로 확대됐다. 미국향 원유 및 차량 수출이 기록적 수준으로 증가하면서 수출이 사상 최고치를 경신했다.
-<a href="https://www.wsj.com/economy/trade/canada-goods-trade-surplus-widens-in-april-7e72081d">[WSJ]</a></blockquote>
+<b>17. 달러지수 96.58...이틀 연속 상승, 0.07% 오름세</b>
+<blockquote>WSJ 달러지수가 0.1% 상승한 96.58을 기록하며 이틀째 상승했다. 중동 지정학 리스크와 높은 인플레이션이 달러 수요를 뒷받침했다.
+<a href="https://www.wsj.com/finance/currencies/asian-currencies-weaken-against-u-s-dollar-ahead-of-cpi-data-9e112c11">[WSJ]</a></blockquote>
 
-<b>18. Broadcom·Apollo·Blackstone, 350억 달러 AI 인프라 플랫폼 출범</b>
-<blockquote>Broadcom이 Apollo Global Management, Blackstone의 신용·보험 부문과 손잡고 초기 자본금 350억 달러 규모의 AI 인프라 금융 플랫폼을 출범했다. AI 데이터센터 확대에 대규모 민간 자본이 투입된다.
-<a href="https://www.wsj.com/tech/ai/broadcom-apollo-blackstone-launch-35-billion-ai-infrastructure-platform-8fc8f65e">[WSJ]</a></blockquote>
+<b>18. 트럼프, 對멕시코·캐나다 무역협정 재협상 시사..."우리가 필요로 하는 것 없어"</b>
+<blockquote>트럼프 대통령이 2020년 체결된 USMCA(미국·멕시코·캐나다 무역협정)를 갱신하지 않을 수 있다고 시사했다. "그들이 가진 것 중 우리가 필요로 하는 게 없다"며 재협상 가능성을 열어뒀다.
+<a href="https://www.ft.com/content/e55a6ab9-d5dd-4a9f-bcb5-9bc0d23e08fb">[FT]</a></blockquote>
 
-<b>19. Anthropic, Mythos급 모델 일반 공개...위험 질의는 구형 모델로</b>
-<blockquote>Anthropic이 새로운 'Mythos급' AI 모델을 일반에 공개했다. 사이버 보안이나 생물무기 등 위험 주제에 대한 질의는 자동으로 구형 Opus 모델로 전환되는 안전장치가 적용됐다.
-<a href="https://www.wsj.com/tech/ai/anthropic-claude-fable-ai-model-f41fb5d7">[WSJ]</a></blockquote>
+<b>19. Economist "트럼프의 이란 차선책...자존심 접고 전쟁 전보다 못한 합의 받아들여야"</b>
+<blockquote>이코노미스트는 트럼프 대통령이 자존심을 접고 전쟁 이전 현상보다 불리한 조건의 협상안을 수용하는 것이 '최악을 피하는 선택(least bad option)'이라고 평가했다.
+<a href="https://www.economist.com/leaders/2026/06/10/donald-trumps-least-bad-option-in-iran">[Economist]</a></blockquote>
 
-<b>20. 애플 Siri, AI 경쟁의 다크호스...모델 없이도 수익화 가능</b>
-<blockquote>Economist는 애플이 자체 AI 모델 개발 없이도 새 Siri를 통해 AI 경쟁에서 승리할 수 있는 위치에 있다고 분석했다. 기기 통합과 생태계 우위가 핵심 강점으로 꼽힌다.
-<a href="https://www.economist.com/business/2026/06/09/apples-new-siri-is-a-dark-horse-in-the-ai-race">[Economist]</a></blockquote>
-
-<b>21. 백악관, AI 테스트 기관에 공개 보고서 중단 요구...통제 강화</b>
-<blockquote>Trump 행정부가 정부 산하 AI 테스트 기관에 공개 보고서 발행 중단을 요청했다. 국가안보 우려가 커지는 가운데 AI 모델에 대한 백악관의 통제를 강화하려는 신호로 해석된다.
-<a href="https://www.wsj.com/politics/policy/white-house-reins-in-ai-testing-unit-as-national-security-concerns-grow-8bd33fbb">[WSJ]</a></blockquote>
-
-<b>22. EU, 메타에 WhatsApp AI 에이전트 개방 명령</b>
-<blockquote>EU 집행위원회가 메타에 WhatsApp을 경쟁 AI 에이전트에 개방하도록 긴급 조치를 내렸다. 빠르게 발전하는 자율 에이전트 시장에서 EU의 선제적 개입 의지가 드러났다.
-<a href="https://www.ft.com/content/dda5bc48-d2ef-40ce-98f7-920bb8cf65ca">[FT]</a></blockquote>
-
-<b>23. Kalshi, 내부자 거래 방지 위해 직장 공개 규정 도입</b>
-<blockquote>예측시장 플랫폼 Kalshi가 특정 거래에 대해 사용자의 직장 공개를 의무화하는 규정을 도입한다. 의심스러운 거래 활동에 대한 우려가 커지면서 새로운 안전장치를 마련했다.
-<a href="https://www.wsj.com/finance/regulation/kalshi-plans-to-require-users-disclose-where-they-work-to-make-certain-trades-7c6ada99">[WSJ]</a></blockquote>
-
-<b>24. GSK, 미국 암 바이오텍 Nuvalent 106억 달러 인수</b>
-<blockquote>영국 제약사 GSK가 미국 암 치료제 바이오텍 Nuvalent를 106억 달러에 인수한다. 폐암 치료제 후보물질 3개를 확보하며 종양학 분야를 강화하고, 추가 인수도 예고됐다.
-<a href="https://www.ft.com/content/c22fca23-2917-420b-9538-744a093d4b47">[FT]</a></blockquote>
-
-<b>25. Apollo, 일본 생명보험사 인수 추진...규제 장벽 예상</b>
-<blockquote>미국 자산운용사 Apollo가 성장 가속화를 위해 일본 생명보험사 인수를 추진 중이다. 다만 일본 당국의 자국 기업 선호 성향으로 규제 허가가 난관에 부딪힐 가능성이 있다.
-<a href="https://www.ft.com/content/7462744e-530e-459b-a89f-581a242bc0f9">[FT]</a></blockquote>
-
-<b>26. GM, 자체 배터리 기술 투자 확대...중국 의존도 축소</b>
-<blockquote>GM이 중국의 배터리 기술 지배력에 맞서기 위해 자체 배터리 기술에 투자를 늘리고 있다. 전기차 판매 부진 속에서 AI 데이터센터용 에너지 저장 배터리 시장으로 방향을 선회하고 있다.
-<a href="https://www.ft.com/content/6a26c6e1-ec55-4a6a-8ddc-18405ca52c9a">[FT]</a></blockquote>
-
-<b>27. BP, 구조조정 일환 신규 부문장 임명...운영 단순화 추진</b>
-<blockquote>BP가 운영 단순화와 의사결정 속도 향상을 위한 구조조정의 일환으로 신설 상류·하류 부문 책임자를 임명했다. Gordon Birrell이 상류 부문을, Richard Harding이 하류 부문 임시 책임자를 맡는다.
-<a href="https://www.wsj.com/business/energy-oil/bp-names-heads-of-newly-created-segments-part-of-simplification-push-13a88132">[WSJ]</a></blockquote>
-
-<b>28. 원자력 에너지 대중 지지 증가...AI 전력 수요가 촉매</b>
-<blockquote>원자력 에너지에 대한 대중의 지지가 확대되고 있다. 특히 기술 업계가 AI 인프라의 전력 수요 해결책으로 원자력을 옹호하면서 관심이 가속화되고 있다.
-<a href="https://www.wsj.com/business/energy-oil/nuclear-energy-public-support-bb744e6e">[WSJ]</a></blockquote>
-
-<b>29. 영국 Starmer, Burnham 지지 장관에 사퇴 압력</b>
-<blockquote>영국 Starmer 총리가 노동당 내 경쟁자인 맨체스터 시장 Burnham을 지지하는 장관들에게 사퇴를 요구할 방침이다. Burnham 지지자들은 이미 당수 도전에 필요한 의원 수를 확보했다고 주장한다.
-<a href="https://www.ft.com/content/56bae666-52f8-42ed-846c-abe65c94eb2d">[FT]</a></blockquote>
-
-<b>30. 천연가스 선물 보합세...수요 강세와 냉각 날씨 전망 상쇄</b>
-<blockquote>미국 천연가스 선물이 소폭 하락 마감했다. 이번 주 강한 수요와 6월 후반 냉각한 날씨 전망이 맞물리면서 등락을 거듭하는 박스권 거래가 이어졌다.
-<a href="https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-inch-down-in-early-trading-5d2b7dc2">[WSJ]</a></blockquote>
+<b>20. 미 법무부, 대형 은행 '탈은행화(debanking)' 조사 착수</b>
+<blockquote>Jeanine Pirro가 이끄는 워싱턴 DC 연방검찰이 JPMorgan, Bank of America 등 대형 은행들을 상대로 이른바 '탈은행화(debanking)' 의혹에 대한 소환장을 발부했다.
+<a href="https://www.wsj.com/finance/regulation/jeanine-pirros-prosecutors-probe-big-banks-for-alleged-debanking-13568e9b">[WSJ]</a></blockquote>
 
 ━━━━━━━━━━━━━━━━━━━━
 📡 <b>출처: WSJ · FT · The Economist</b>
