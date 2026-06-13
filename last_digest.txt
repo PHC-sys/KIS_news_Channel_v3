@@ -1,72 +1,24 @@
 🌙 <b>간밤의 글로벌 마켓 뉴스</b>
-[ 2026. 6. 13. | WSJ · FT · Economist ]
+[{DATE} | WSJ · FT · Economist ]
 ━━━━━━━━━━━━━━━━━━━━
 
 ✅ <b>간밤의 주요 헤드라인</b>
 
-<b>1. 미국·이란 평화협정 문안 합의...호르무즈 해협 재개 기대감 확산</b>
-<blockquote>파키스탄 총리가 미국과 이란 간 평화협정 문안이 합의됐다고 밝혔다. 미국 고위 관리는 양측이 수일 내 서명할 것으로 예상한다고 말했다. 트럼프 대통령도 협정 타결이 임박했다고 거듭 확인했다.
-<a href="https://www.ft.com/content/b91fc27b-8e50-48c1-b9e6-0c93aea19b76">[FT]</a> <a href="https://www.wsj.com/world/middle-east/trumps-iran-deal-still-has-to-get-past-the-revolutionary-guard-c13ea381">[WSJ]</a></blockquote>
+<b>1. Trump, 일요일 미-이란 호르무즈 해협 재개방 협정 서명 발표...에너지 공급 정상화 기대</b>
+<blockquote>Trump 대통령은 미국과 이란이 일요일 호르무즈 해협 재개방 협정에 서명할 것이라고 밝혔다. 이란 측은 시기가 불확실하다고 신중한 입장을 보였으나, 파키스탄은 휴전 연장 합의가 임박했다고 전했다. 호르무즈 해협은 전 세계 원유 수송의 주요 경로로, 재개방 시 에너지 공급 불안 해소가 전망된다.
+<a href="https://www.ft.com/content/726f4afe-c3ff-4ec0-bfc9-b572b419e11f">[FT]</a></blockquote>
 
-<b>2. 유가 3개월 최저 & 국채 랠리...중동 긴장 완화에 안전자산 선호 후퇴</b>
-<blockquote>미국-이란 협정 기대감에 유가가 3개월래 최저치로 하락했다. 미 국채 수익률도 하락하며 에너지 쇼크 완화 가능성이 채권시장을 지지했다. 주간 기준으로는 국채 수익률이 하락 마감했다.
-<a href="https://www.ft.com/content/9d8b31b0-1269-458e-b831-9b5e079e564e">[FT]</a> <a href="https://www.wsj.com/finance/investing/jgbs-rise-tracking-gains-in-u-s-treasurys-f1524f11">[WSJ]</a></blockquote>
+<b>2. 미-이란, 헬기 추락 사건 계기로 전쟁 위기서 협상 국면 전환...평화 합의 초읽기</b>
+<blockquote>미국 헬기 추락 사고가 양국 간 긴장 고조를 촉발했으나, 이후 양측이 사태 확대를 우려해 협상 테이블로 복귀했다. 군사적 충돌 위험이 고조된 뒤 오히려 외교적 해법 모색으로 전환된 배경이 주목된다. 협상 타결 시 중동 지정학 리스크 완화와 함께 원유 가격 하락 압력이 예상된다.
+<a href="https://www.wsj.com/world/middle-east/iran-war-peace-talks-what-happened-d033900f">[WSJ]</a></blockquote>
 
-<b>3. SpaceX IPO 사상 최대 기록...시총 2.1조 달러, 첫날 19% 급등</b>
-<blockquote>SpaceX가 750억 달러 규모 IPO로 시총 2.1조 달러를 기록하며 사상 최대 상장에 성공했다. 첫 거래일 주가는 19% 급등했고, Elon Musk는 세계 첫 조 단위 부자가 됐다. 투자자들은 AI와 우주 사업의 장기 비전을 높이 평가했다.
-<a href="https://www.wsj.com/business/spacex-now-worth-2-1-trillion-pulls-off-goldilocks-debut-bcc59ace">[WSJ]</a> <a href="https://www.ft.com/content/16387550-4d13-4d2d-b487-c4f6f4a5e9c8">[FT]</a> <a href="https://www.economist.com/business/2026/06/12/the-value-of-spacex-rockets-on-its-stock-market-debut">[Economist]</a></blockquote>
+<b>3. 이란 준군사조직 신임 사령관, 미국과 협상 주도...강경 노선에도 거래 주도권 장악</b>
+<blockquote>이란 혁명수비대 산하 준군사조직의 강경파 신임 사령관이 미국과의 협상을 주도하며 권력 중개자로 부상했다. 대미 강경 입장에도 불구하고 실리를 위한 협상 카드를 쥐고 있는 것으로 분석된다. 양국이 합의 임박 단계에 있는 가운데, 이란 내부 권력 구도가 협상 결과에 영향을 미칠 전망이다.
+<a href="https://www.wsj.com/world/middle-east/the-iranian-enforcer-driving-tehrans-hard-bargaining-with-the-u-s-b848e67c">[WSJ]</a></blockquote>
 
-<b>4. Musk 측근 Antonio Gracias, SpaceX 지분 680억 달러 평가...Valor Equity 2대 주주</b>
-<blockquote>Musk의 오랜 파트너이자 Valor Equity Partners 창업자인 Antonio Gracias가 SpaceX 2대 주주로서 680억 달러 규모의 평가 이익을 얻었다. Gracias는 초기 투자자로서 Musk의 주요 의사결정에 긴밀히 참여해왔다.
-<a href="https://www.wsj.com/business/musk-confidant-antonio-gracias-set-for-68-billion-spacex-win-83ad878a">[WSJ]</a></blockquote>
-
-<b>5. S&P 500·다우 상승 마감...금융주 강세에 SpaceX 열기 더해져</b>
-<blockquote>미 증시는 SpaceX 데뷔와 금융주 강세에 힘입어 상승 마감했다. 다우는 0.7%, S&P 500은 0.5%, 나스닥은 0.3% 올랐다. 기술주 상승폭은 제한적이었으나 금융주가 지수를 견인했다.
-<a href="https://www.wsj.com/finance/stocks/oil-falls-u-s-futures-rise-after-trump-calls-off-iran-strikes-5552ae7f">[WSJ]</a></blockquote>
-
-<b>6. 연준·영란은행 금리회의 앞두고 관망세...추가 인상 가능성은 열어둘 듯</b>
-<blockquote>다음 주 연준과 영란은행 회의에서 금리 동결이 예상되지만, 올해 말 추가 인상 가능성을 열어둘지 주목된다. 채권시장은 두 중앙은행의 신호를 기다리며 대기 모드에 진입했다.
-<a href="https://www.wsj.com/economy/week-ahead-for-fx-bonds-fed-boe-among-slew-of-central-bank-decisions-84aa152e">[WSJ]</a></blockquote>
-
-<b>7. ECB 분데스방크 총재, 추가 금리인상 가능성 시사...모든 옵션 열어둬</b>
-<blockquote>독일 분데스방크 총재 Joachim Nagel은 ECB가 여전히 추가 금리인상 가능성을 열어두고 있다고 밝혔다. 인플레이션 압력이 지속될 경우 긴축 재개 가능성도 배제할 수 없다는 입장이다.
-<a href="https://www.ft.com/content/ff7f0ce7-7202-4a34-b924-1ce1b1d742f4">[FT]</a></blockquote>
-
-<b>8. 영국 소비자 수요 약세 부각...BOE 인플레 리스크보다 경기 둔화 우려 커져</b>
-<blockquote>영국 경제지표는 소비자 수요 약세가 인플레이션 리스크를 압도하는 모습이다. 소비자들은 향후 물가 상승을 예상하지만, 기업들은 수요 부진으로 가격 인상을 주저하고 있다.
-<a href="https://www.ft.com/content/61a9d3a4-9d61-4e64-842e-f73d83db49cc">[FT]</a></blockquote>
-
-<b>9. 미국 6월 소비자 심리지수 48.9...5월 최저치서 소폭 반등에 그쳐</b>
-<blockquote>미시간대 6월 소비자 심리지수 예비치는 48.9로 5월 44.8에서 소폭 개선됐다. 사상 최저치에서 벗어났지만 여전히 부진한 수준에 머물며 경기 둔화 우려가 지속되고 있다.
-<a href="https://www.wsj.com/economy/consumers/consumer-sentiment-improves-slightly-in-june-but-remains-sluggish-e0848cbc">[WSJ]</a></blockquote>
-
-<b>10. 前 채권투자자 Ken Leech, SEC 조사 방해 혐의 유죄 인정</b>
-<blockquote>Western Asset Management 전 CIO Ken Leech가 SEC 조사를 방해한 혐의에 유죄를 인정했다. 검찰은 그가 수익성 높은 거래를 특정 고객에게만 배분하는 체리피킹 사기를 주도했다고 기소했다.
-<a href="https://www.wsj.com/finance/regulation/bond-investor-ken-leech-pleads-guilty-to-obstructing-sec-probe-60f28082">[WSJ]</a> <a href="https://www.ft.com/content/ea2f30d4-4ae4-47cc-b2a8-095328452f0b">[FT]</a></blockquote>
-
-<b>11. Sam Bankman-Fried 항소 기각...사기 유죄 확정, 25년 형 유지</b>
-<blockquote>연방항소법원은 FTX 창업자 Sam Bankman-Fried의 사기 유죄 판결 항소를 기각했다. 3인 판사 패널은 25년 징역형을 유지하며 암호화폐 업계 최대 사기 사건의 법적 절차가 마무리됐다.
-<a href="https://www.ft.com/content/adbf76dc-c476-4f8f-9a6e-3bea0a5c24a6">[FT]</a></blockquote>
-
-<b>12. BlackRock 사모신용펀드, 환매 요청 40%만 수용...13% 환매 압력 지속</b>
-<blockquote>BlackRock의 130억 달러 규모 HPS Corporate Lending Fund가 전체 자산의 13%에 달하는 환매 요청을 받았으나, 2분기 연속 5% 한도로 제한했다. 사모신용시장의 유동성 압력이 지속되고 있다.
-<a href="https://www.wsj.com/finance/investing/blackrock-private-credit-fund-faces-13-redemption-requests-5cba8e89">[WSJ]</a> <a href="https://www.ft.com/content/65adec62-3505-4d01-8aa6-a609aa7cfdcc">[FT]</a></blockquote>
-
-<b>13. 암호화폐 데이터 업체 Blockworks, Messari 인수...22년 밸류에이션 대비 할인</b>
-<blockquote>암호화폐 데이터 제공업체 Blockworks가 Messari를 1000만 달러 이상에 인수했다. Messari는 2022년 약 3억 달러로 평가받았으나, 암호화폐 시장 침체로 대폭 할인된 가격에 매각됐다.
-<a href="https://www.wsj.com/business/deals/crypto-data-provider-blockworks-acquires-messari-at-a-discount-c265af54">[WSJ]</a></blockquote>
-
-<b>14. 중국, 미국인 학자·기자 간첩 혐의로 체포...미중 긴장 고조</b>
-<blockquote>중국이 미얀마 출신 미국 활동가를 간첩 및 국가안보 위협 혐의로 체포했다고 발표했다. 이번 체포는 미중 간 외교 마찰을 더욱 심화시킬 전망이다.
-<a href="https://www.wsj.com/world/china/china-arrests-american-scholar-journalist-adding-to-friction-with-u-s-78d90266">[WSJ]</a></blockquote>
-
-<b>15. 중국 자동차 내수 부진 심화...해외선 인기, 본국선 외면</b>
-<blockquote>중국산 자동차가 전 세계에서 판매 호조를 보이는 가운데, 정작 중국 내수시장에서는 수요가 부진한 역설적 상황이 이어지고 있다. 중국 소비자들은 자국 브랜드보다 수입차를 선호하는 경향이 뚜렷하다.
-<a href="https://www.wsj.com/business/autos/everyone-loves-chinese-cars-except-the-chinese-b1533c82">[WSJ]</a></blockquote>
-
-<b>16. 이란 전쟁 장기화 시 식량 공급 위기 우려...비료 제조사 Fertiglobe 경고</b>
-<blockquote>글로벌 비료 제조업체 Fertiglobe CEO는 페르시아만 비료 공급 차질이 지속될 경우 식량 부족 악화와 곡물 가격 급등이 불가피하다고 경고했다. 비료 공급망 회복에는 상당 시간이 소요될 전망이다.
-<a href="https://www.wsj.com/world/middle-east/worlds-food-supply-imperiled-by-iran-war-fertilizer-manufacturer-fertiglobe-chief-says-878b25fb">[WSJ]</a></blockquote>
+<b>4. Amazon CEO와 Trump 행정부 논의 후 Anthropic AI 모델 외국 접근 전면 차단...기술 통제 강화</b>
+<blockquote>Andy Jassy Amazon CEO가 Trump 행정부와 공유한 정보를 계기로, 미국 정부가 Anthropic의 강력한 AI 모델에 대한 외국 접근을 급작스럽게 전면 차단했다. 이번 조치는 AI 기술의 해외 유출을 막기 위한 행정부의 강경한 통제 의지를 반영한다. 미중 기술 디커플링 심화 및 빅테크 규제 리스크 확대가 우려된다.
+<a href="https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578">[WSJ]</a></blockquote>
 
 ━━━━━━━━━━━━━━━━━━━━
 📡 <b>출처: WSJ · FT · The Economist</b>
