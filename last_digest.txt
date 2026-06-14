@@ -4,21 +4,49 @@
 
 ✅ <b>간밤의 주요 헤드라인</b>
 
-<b>1. Trump, 일요일 미-이란 호르무즈 해협 재개방 협정 서명 발표...에너지 공급 정상화 기대</b>
-<blockquote>Trump 대통령은 미국과 이란이 일요일 호르무즈 해협 재개방 협정에 서명할 것이라고 밝혔다. 이란 측은 시기가 불확실하다고 신중한 입장을 보였으나, 파키스탄은 휴전 연장 합의가 임박했다고 전했다. 호르무즈 해협은 전 세계 원유 수송의 주요 경로로, 재개방 시 에너지 공급 불안 해소가 전망된다.
-<a href="https://www.ft.com/content/726f4afe-c3ff-4ec0-bfc9-b572b419e11f">[FT]</a></blockquote>
+<b>1. 미국-이란, 호르무즈 재개방 평화협정 최종 합의...4개월 전쟁 종식</b>
+<blockquote>미국과 이란이 호르무즈 해협 재개방과 휴전 연장에 합의했다. 양국 정상은 금요일 협정에 서명할 예정이며, 미국은 이란 항구에 대한 해상 봉쇄를 해제한다. 협상 과정에서 레바논 내 이스라엘-헤즈볼라 충돌이 장애물로 작용했으나, Trump 대통령이 양측에 "후퇴"를 촉구하며 타결을 밀어붙였다.
+<a href="https://www.ft.com/content/76bed6e5-ab1f-43ff-a6c0-ae5e7cdbf3c1">[FT]</a> <a href="https://www.wsj.com/world/middle-east/iran-threatens-to-pull-out-of-talks-after-israel-strikes-beiruts-outskirts-d0390e22">[WSJ]</a></blockquote>
 
-<b>2. 미-이란, 헬기 추락 사건 계기로 전쟁 위기서 협상 국면 전환...평화 합의 초읽기</b>
-<blockquote>미국 헬기 추락 사고가 양국 간 긴장 고조를 촉발했으나, 이후 양측이 사태 확대를 우려해 협상 테이블로 복귀했다. 군사적 충돌 위험이 고조된 뒤 오히려 외교적 해법 모색으로 전환된 배경이 주목된다. 협상 타결 시 중동 지정학 리스크 완화와 함께 원유 가격 하락 압력이 예상된다.
-<a href="https://www.wsj.com/world/middle-east/iran-war-peace-talks-what-happened-d033900f">[WSJ]</a></blockquote>
+<b>2. 영국, 러시아 쉐도우 유조선 나포...우크라이나 전쟁 지원망 차단</b>
+<blockquote>영국이 English Channel에서 러시아 쉐도우 플릿 소속 유조선을 나포했다. 총리는 "러시아에 또 한 번의 타격"이라며 우크라이나 전쟁 자금줄을 끊기 위한 단속 강화 의지를 밝혔다. 서방의 러시아산 에너지 수출 통제가 한층 강화될 전망이다.
+<a href="https://www.ft.com/content/3fb01bb7-791f-449c-96c6-a75fd39220fd">[FT]</a></blockquote>
 
-<b>3. 이란 준군사조직 신임 사령관, 미국과 협상 주도...강경 노선에도 거래 주도권 장악</b>
-<blockquote>이란 혁명수비대 산하 준군사조직의 강경파 신임 사령관이 미국과의 협상을 주도하며 권력 중개자로 부상했다. 대미 강경 입장에도 불구하고 실리를 위한 협상 카드를 쥐고 있는 것으로 분석된다. 양국이 합의 임박 단계에 있는 가운데, 이란 내부 권력 구도가 협상 결과에 영향을 미칠 전망이다.
-<a href="https://www.wsj.com/world/middle-east/the-iranian-enforcer-driving-tehrans-hard-bargaining-with-the-u-s-b848e67c">[WSJ]</a></blockquote>
+<b>3. Kevin Warsh 첫 FOMC 주목...Fed 커뮤니케이션 체계 전환 예고</b>
+<blockquote>신임 연준 의장 Kevin Warsh의 첫 정책회의가 이번 주 열린다. 시장은 그가 전임자 대비 매파적 기조를 유지하면서도 Fed의 소통 방식을 개선할지 주목하고 있다. Warsh의 능력과 정책 방향에 대한 평가가 본격화될 예정이다.
+<a href="https://www.ft.com/content/c17424f0-244e-45f4-b1d7-a0ffcebc4cf0">[FT]</a></blockquote>
 
-<b>4. Amazon CEO와 Trump 행정부 논의 후 Anthropic AI 모델 외국 접근 전면 차단...기술 통제 강화</b>
-<blockquote>Andy Jassy Amazon CEO가 Trump 행정부와 공유한 정보를 계기로, 미국 정부가 Anthropic의 강력한 AI 모델에 대한 외국 접근을 급작스럽게 전면 차단했다. 이번 조치는 AI 기술의 해외 유출을 막기 위한 행정부의 강경한 통제 의지를 반영한다. 미중 기술 디커플링 심화 및 빅테크 규제 리스크 확대가 우려된다.
-<a href="https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578">[WSJ]</a></blockquote>
+<b>4. G7 정상회의 개막...이란 전쟁 이후 첫 정상급 외교 무대</b>
+<blockquote>프랑스 Macron 대통령이 주최하는 G7 정상회의가 이번 주 열린다. 이란 전쟁 종식 이후 첫 선진국 정상회의로, Trump 대통령을 포함한 주요국 정상들이 참석해 에너지 안보와 지정학 재편 방안을 논의한다. 영국 보궐선거와 맞물려 서방 공조 방향이 결정될 전망이다.
+<a href="https://www.ft.com/content/c6e9173b-0426-486b-bbba-124aeb28ee89">[FT]</a></blockquote>
+
+<b>5. Trump, 첨단 AI 모델 수출 전면 차단...동맹국도 예외 없어</b>
+<blockquote>Trump 행정부가 Anthropic의 최신 AI 모델 'Mythos'에 대한 수출을 전면 차단했다. 미국의 가장 가까운 동맹국도 접근이 불가능해졌으며, 이는 중국뿐 아니라 전 세계를 대상으로 한 AI 기술 통제 강화 조치다. 글로벌 AI 경쟁 구도에 큰 변화가 예상된다.
+<a href="https://www.economist.com/business/2026/06/14/donald-trump-has-cut-off-access-to-the-worlds-best-ai-model">[Economist]</a></blockquote>
+
+<b>6. 유럽 군비 경쟁이 낳은 호황 타운...주민 불만은 왜 커지나</b>
+<blockquote>영국과 프랑스 지방 도시에 방위산업 투자가 몰리며 일자리가 급증했지만, 지역 주민들 사이에선 불만이 고조되고 있다. 신규 인력 유입으로 인한 주거비 상승과 지역 공동체 분열이 주요 원인이다. 유럽 군비 증강이 지역 경제에 미치는 복합적 영향이 드러나고 있다.
+<a href="https://www.wsj.com/world/europe/europes-arms-race-is-creating-boomtowns-why-are-locals-so-unhappy-f103ccdf">[WSJ]</a></blockquote>
+
+<b>7. 스위스, 인구상한 국민투표 부결...EU와 외교 충돌 피해</b>
+<blockquote>스위스 유권자 54%가 인구를 1,000만 명으로 제한하는 국민투표안을 부결시켰다. 이민 관리를 위해 우파 정당이 제안한 이 안건이 통과됐다면 EU와 외교 갈등이 불가피했을 전망이다. 스위스는 이민 문제보다 EU와의 관계를 우선한 것으로 풀이된다.
+<a href="https://www.ft.com/content/633980b1-06ef-4e83-8551-7b5c6d55d4ac">[FT]</a></blockquote>
+
+<b>8. 영국, 전기차 의무판매 목표 완화...2030년 80%→50%로 하향</b>
+<blockquote>영국 총리 Starmer가 2030년까지 신차 판매의 80%를 전기차로 채우겠다던 목표를 50%로 대폭 낮출 예정이다. 일자리 손실 우려가 정책 후퇴의 배경으로 작용했다. 영국 자동차 산업의 탈탄소 전환 속도 조절이 불가피해졌다.
+<a href="https://www.ft.com/content/a38fc691-fa88-4636-b766-a0477fe80818">[FT]</a></blockquote>
+
+<b>9. Trump 시대 라틴아메리카 투자 매력도 급부상...신흥국 중 최고 성과</b>
+<blockquote>Trump 행정부 출범 이후 개도국 중 라틴아메리카가 가장 좋은 투자 성과를 기록하고 있다. 미국과의 무역 관계 개선 기대와 자원 수요 증가가 배경이다. 신흥국 자산 배분 전략에서 라틴아메리카 비중 확대 움직임이 감지된다.
+<a href="https://www.economist.com/finance-and-economics/2026/06/14/does-donald-trump-make-latin-america-a-good-bet">[Economist]</a></blockquote>
+
+<b>10. 에너지 위기 이후 기업 전력화 투자 가속...안보·비용 우려 반영</b>
+<blockquote>글로벌 에너지 위기를 겪은 기업들이 전력 시스템 전면 개편에 나서고 있다는 조사 결과가 나왔다. 에너지 안보와 비용 절감 우려가 전력화(electrification) 투자를 기업 의제 상위로 끌어올렸다. 탈탄소 전환이 리스크 관리 차원에서 재조명되고 있다.
+<a href="https://www.ft.com/content/336ad7d4-15b3-4033-9ff3-3ae03111eb1f">[FT]</a></blockquote>
+
+<b>11. 테크 IPO 붐 앞두고 자선기부 급증 전망...SpaceX 등 대어 상장</b>
+<blockquote>SpaceX를 필두로 한 AI 기업들의 IPO 물결이 스타트업 직원들에게 새로운 부를 안기며 자선단체로의 기부 급증이 예상된다. 테크 기업 공개 상장이 단순히 금융시장을 넘어 사회 전반에 미치는 영향이 커지고 있다.
+<a href="https://www.wsj.com/finance/investing/techs-next-ipo-wave-promises-a-charitable-windfall-885a1e74">[WSJ]</a></blockquote>
 
 ━━━━━━━━━━━━━━━━━━━━
 📡 <b>출처: WSJ · FT · The Economist</b>
