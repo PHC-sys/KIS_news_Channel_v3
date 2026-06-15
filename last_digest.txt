@@ -4,49 +4,153 @@
 
 ✅ <b>간밤의 주요 헤드라인</b>
 
-<b>1. 미국-이란, 호르무즈 재개방 평화협정 최종 합의...4개월 전쟁 종식</b>
-<blockquote>미국과 이란이 호르무즈 해협 재개방과 휴전 연장에 합의했다. 양국 정상은 금요일 협정에 서명할 예정이며, 미국은 이란 항구에 대한 해상 봉쇄를 해제한다. 협상 과정에서 레바논 내 이스라엘-헤즈볼라 충돌이 장애물로 작용했으나, Trump 대통령이 양측에 "후퇴"를 촉구하며 타결을 밀어붙였다.
-<a href="https://www.ft.com/content/76bed6e5-ab1f-43ff-a6c0-ae5e7cdbf3c1">[FT]</a> <a href="https://www.wsj.com/world/middle-east/iran-threatens-to-pull-out-of-talks-after-israel-strikes-beiruts-outskirts-d0390e22">[WSJ]</a></blockquote>
+<b>1. 미국-이란 협상 과정 공개...중재세력 수주간 활동</b>
+<blockquote>중재세력들이 워싱턴과 테헤란 간 거의 반세기에 걸친 적대관계를 해소하기 위해 수주간 협상안 마련에 나섰다. 양측은 호르무즈 해협 재개방과 핵협상 재개를 골자로 한 합의에 도달했다.
+<a href="https://www.ft.com/content/adb68e67-3d04-4a60-af30-dd9b1faee62b">[FT]</a></blockquote>
 
-<b>2. 영국, 러시아 쉐도우 유조선 나포...우크라이나 전쟁 지원망 차단</b>
-<blockquote>영국이 English Channel에서 러시아 쉐도우 플릿 소속 유조선을 나포했다. 총리는 "러시아에 또 한 번의 타격"이라며 우크라이나 전쟁 자금줄을 끊기 위한 단속 강화 의지를 밝혔다. 서방의 러시아산 에너지 수출 통제가 한층 강화될 전망이다.
-<a href="https://www.ft.com/content/3fb01bb7-791f-449c-96c6-a75fd39220fd">[FT]</a></blockquote>
+<b>2. 미국-이란 딜, 양측 주장 엇갈려...협정문 공개 앞둬</b>
+<blockquote>미국과 이란은 합의문 전문을 아직 공개하지 않았지만, 양측 모두 이번 딜을 승리로 규정했다. 협정문은 향후 수일 내 발표될 예정이다.
+<a href="https://www.wsj.com/world/middle-east/what-iran-and-the-u-s-are-saying-about-their-deal-f7796213">[WSJ]</a></blockquote>
 
-<b>3. Kevin Warsh 첫 FOMC 주목...Fed 커뮤니케이션 체계 전환 예고</b>
-<blockquote>신임 연준 의장 Kevin Warsh의 첫 정책회의가 이번 주 열린다. 시장은 그가 전임자 대비 매파적 기조를 유지하면서도 Fed의 소통 방식을 개선할지 주목하고 있다. Warsh의 능력과 정책 방향에 대한 평가가 본격화될 예정이다.
-<a href="https://www.ft.com/content/c17424f0-244e-45f4-b1d7-a0ffcebc4cf0">[FT]</a></blockquote>
+<b>3. 호르무즈 딜, G-7 정상회의 핵심 의제로 부상</b>
+<blockquote>Trump 대통령은 호르무즈 해협이 금요일까지 전면 재개될 것이라고 밝혔다. 협정문은 향후 수일 내 발표되며, 딜 관련 질문이 프랑스에서 열리는 G-7 회의를 지배할 전망이다.
+<a href="https://www.wsj.com/world/middle-east/questions-about-trumps-iran-deal-set-to-dominate-g-7-fcd7fcbc">[WSJ]</a></blockquote>
 
-<b>4. G7 정상회의 개막...이란 전쟁 이후 첫 정상급 외교 무대</b>
-<blockquote>프랑스 Macron 대통령이 주최하는 G7 정상회의가 이번 주 열린다. 이란 전쟁 종식 이후 첫 선진국 정상회의로, Trump 대통령을 포함한 주요국 정상들이 참석해 에너지 안보와 지정학 재편 방안을 논의한다. 영국 보궐선거와 맞물려 서방 공조 방향이 결정될 전망이다.
-<a href="https://www.ft.com/content/c6e9173b-0426-486b-bbba-124aeb28ee89">[FT]</a></blockquote>
+<b>4. Trump, 이란에 3000억달러 인센티브 검토...성과 연동 지급</b>
+<blockquote>Trump 행정부가 이란의 호르무즈 해협 개방 및 핵협상 이행 '성과'에 연동해 3000억달러 규모 인센티브 기금 조성을 검토 중이다. 테헤란의 협정 이행 여부가 지급 조건이다.
+<a href="https://www.ft.com/content/088c14d3-f708-44d8-a306-7996aa5211de">[FT]</a></blockquote>
 
-<b>5. Trump, 첨단 AI 모델 수출 전면 차단...동맹국도 예외 없어</b>
-<blockquote>Trump 행정부가 Anthropic의 최신 AI 모델 'Mythos'에 대한 수출을 전면 차단했다. 미국의 가장 가까운 동맹국도 접근이 불가능해졌으며, 이는 중국뿐 아니라 전 세계를 대상으로 한 AI 기술 통제 강화 조치다. 글로벌 AI 경쟁 구도에 큰 변화가 예상된다.
-<a href="https://www.economist.com/business/2026/06/14/donald-trump-has-cut-off-access-to-the-worlds-best-ai-model">[Economist]</a></blockquote>
+<b>5. 이스라엘, Trump-이란 딜에 경악...레바논 문제 갈등 우려</b>
+<blockquote>이스라엘 관리들은 테헤란에 대한 압박 완화와 레바논 문제를 둘러싼 미국과의 균열 위험을 놓고 고심하고 있다. 미국의 중동 정책 전환이 이스라엘 안보에 미칠 영향에 대한 우려가 확산되고 있다.
+<a href="https://www.wsj.com/world/middle-east/israel-iran-deal-lebanon-581695ac">[WSJ]</a></blockquote>
 
-<b>6. 유럽 군비 경쟁이 낳은 호황 타운...주민 불만은 왜 커지나</b>
-<blockquote>영국과 프랑스 지방 도시에 방위산업 투자가 몰리며 일자리가 급증했지만, 지역 주민들 사이에선 불만이 고조되고 있다. 신규 인력 유입으로 인한 주거비 상승과 지역 공동체 분열이 주요 원인이다. 유럽 군비 증강이 지역 경제에 미치는 복합적 영향이 드러나고 있다.
-<a href="https://www.wsj.com/world/europe/europes-arms-race-is-creating-boomtowns-why-are-locals-so-unhappy-f103ccdf">[WSJ]</a></blockquote>
+<b>6. Netanyahu, 이란 딜 국내 반발 직면...전시 정책 강력 옹호</b>
+<blockquote>Netanyahu 총리는 이란에 대한 공습이 성공적이었다고 주장하며 전시 정책을 강력히 옹호했다. 그러나 미국-이란 합의에 대한 이스라엘 국내 반발이 거세지고 있다.
+<a href="https://www.ft.com/content/9a6886c8-2ab3-4341-a5e6-a6cfc1be7386">[FT]</a></blockquote>
 
-<b>7. 스위스, 인구상한 국민투표 부결...EU와 외교 충돌 피해</b>
-<blockquote>스위스 유권자 54%가 인구를 1,000만 명으로 제한하는 국민투표안을 부결시켰다. 이민 관리를 위해 우파 정당이 제안한 이 안건이 통과됐다면 EU와 외교 갈등이 불가피했을 전망이다. 스위스는 이민 문제보다 EU와의 관계를 우선한 것으로 풀이된다.
-<a href="https://www.ft.com/content/633980b1-06ef-4e83-8551-7b5c6d55d4ac">[FT]</a></blockquote>
+<b>7. 미국-이란 딜에 글로벌 증시 급등...SpaceX IPO도 호재</b>
+<blockquote>미국과 이란의 잠정 평화합의로 글로벌 증시가 일제히 상승했다. SpaceX의 역사적인 기업공개도 투자심리 개선에 기여했다.
+<a href="https://www.ft.com/content/8a6849de-b27c-4680-a80d-42b85b0e77eb">[FT]</a></blockquote>
 
-<b>8. 영국, 전기차 의무판매 목표 완화...2030년 80%→50%로 하향</b>
-<blockquote>영국 총리 Starmer가 2030년까지 신차 판매의 80%를 전기차로 채우겠다던 목표를 50%로 대폭 낮출 예정이다. 일자리 손실 우려가 정책 후퇴의 배경으로 작용했다. 영국 자동차 산업의 탈탄소 전환 속도 조절이 불가피해졌다.
-<a href="https://www.ft.com/content/a38fc691-fa88-4636-b766-a0477fe80818">[FT]</a></blockquote>
+<b>8. 호르무즈 재개방에 주식 추가 상승 여지...Dow 사상 최고치</b>
+<blockquote>Trump 대통령의 이란 종전 합의 발표 이후 유가는 하락하고 채권은 랠리를 보였으며 Dow 산업평균지수는 사상 최고치로 마감했다. 호르무즈 해협이 재개방되면 주식시장은 추가 상승 여력이 있다는 분석이 나온다.
+<a href="https://www.wsj.com/finance/global-stocks-markets-dow-news-06-15-2026-c6898869">[WSJ]</a></blockquote>
 
-<b>9. Trump 시대 라틴아메리카 투자 매력도 급부상...신흥국 중 최고 성과</b>
-<blockquote>Trump 행정부 출범 이후 개도국 중 라틴아메리카가 가장 좋은 투자 성과를 기록하고 있다. 미국과의 무역 관계 개선 기대와 자원 수요 증가가 배경이다. 신흥국 자산 배분 전략에서 라틴아메리카 비중 확대 움직임이 감지된다.
-<a href="https://www.economist.com/finance-and-economics/2026/06/14/does-donald-trump-make-latin-america-a-good-bet">[Economist]</a></blockquote>
+<b>9. WSJ 달러지수 0.12% 하락...96.22 기록</b>
+<blockquote>WSJ 달러지수는 0.12% 하락한 96.22를 기록했다. 최근 3거래일 중 이틀간 하락세를 보였다.
+<a href="https://www.wsj.com/finance/currencies/asian-currencies-mostly-strengthen-on-u-s-iran-interim-peace-deal-78c42dff">[WSJ]</a></blockquote>
 
-<b>10. 에너지 위기 이후 기업 전력화 투자 가속...안보·비용 우려 반영</b>
-<blockquote>글로벌 에너지 위기를 겪은 기업들이 전력 시스템 전면 개편에 나서고 있다는 조사 결과가 나왔다. 에너지 안보와 비용 절감 우려가 전력화(electrification) 투자를 기업 의제 상위로 끌어올렸다. 탈탄소 전환이 리스크 관리 차원에서 재조명되고 있다.
-<a href="https://www.ft.com/content/336ad7d4-15b3-4033-9ff3-3ae03111eb1f">[FT]</a></blockquote>
+<b>10. SpaceX 주가 상장 첫날 이후 19.6% 추가 상승</b>
+<blockquote>Elon Musk의 AI·위성·로켓 그룹 SpaceX가 역사적인 상장 이후 월요일 거래에서 19.6% 추가 상승했다.
+<a href="https://www.ft.com/content/55fe2a70-4cf1-4749-a2c2-f0a5985dd281">[FT]</a></blockquote>
 
-<b>11. 테크 IPO 붐 앞두고 자선기부 급증 전망...SpaceX 등 대어 상장</b>
-<blockquote>SpaceX를 필두로 한 AI 기업들의 IPO 물결이 스타트업 직원들에게 새로운 부를 안기며 자선단체로의 기부 급증이 예상된다. 테크 기업 공개 상장이 단순히 금융시장을 넘어 사회 전반에 미치는 영향이 커지고 있다.
-<a href="https://www.wsj.com/finance/investing/techs-next-ipo-wave-promises-a-charitable-windfall-885a1e74">[WSJ]</a></blockquote>
+<b>11. 유가 선물, 3월 이후 최저...미국-이란 합의 여파</b>
+<blockquote>유가 선물은 미국과 이란이 중동 분쟁 종식 및 호르무즈 해협 재개방 합의에 도달하면서 3월 4일 이후 최저치로 마감했다.
+<a href="https://www.wsj.com/finance/commodities-futures/bremt-futures-may-fall-to-80-per-barrel-by-year-end-if-strait-of-hormuz-not-closed-again-5484ba25">[WSJ]</a></blockquote>
+
+<b>12. 미국 휘발유 가격 4달러 아래로 하락...2개월 만에 최저</b>
+<blockquote>호르무즈 해협 재개방 합의로 미국 평균 휘발유 가격이 갤런당 4달러 아래로 떨어져 거의 2개월 만에 최저치를 기록했다. 다만 분석가들은 급등 위험이 완전히 사라진 것은 아니라고 경고했다.
+<a href="https://www.ft.com/content/ff17e2a2-7744-4e19-9e1d-23bc5892191c">[FT]</a></blockquote>
+
+<b>13. 호르무즈 해협 정상화, 수주 소요 전망...재고 영향 지속</b>
+<blockquote>호르무즈 해협을 통한 물동량이 전쟁 이전 수준의 절반으로 회복되기까지 수주가 걸릴 수 있으며, 여파는 수개월간 지속될 것으로 보인다.
+<a href="https://www.wsj.com/business/energy-oil/how-quickly-can-the-strait-of-hormuz-get-back-up-and-running-a5380c70">[WSJ]</a></blockquote>
+
+<b>14. 천연가스 선물 소폭 상승...국내 수급에 집중</b>
+<blockquote>미국 천연가스 선물은 유가 및 유럽 가스 가격 하락에도 불구하고 소폭 상승했다. 시장은 국내 기상 여건과 냉방 수요 전망에 주목했다.
+<a href="https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-start-week-lower-dd26dee3">[WSJ]</a></blockquote>
+
+<b>15. 금 선물 2.7% 급등, 4328달러 마감...은도 3.3% 상승</b>
+<blockquote>Comex 금 선물은 2.7% 상승한 온스당 4328달러로 마감했으며, 은은 거의 3.3% 올랐다. 두 금속 모두 이틀 연속 상승세를 이어갔다.
+<a href="https://www.wsj.com/finance/commodities-futures/comex-gold-futures-likely-eyeing-resistance-at-4-400-ounce-daily-chart-shows-9a99eb24">[WSJ]</a></blockquote>
+
+<b>16. ConocoPhillips, 시리아와 가스 생산 재개 계약 임박</b>
+<blockquote>미국 에너지 메이저로서는 처음으로 ConocoPhillips가 시리아 정부와 가스 생산 재개 계약을 체결할 예정이다. 시리아는 수년간의 내전 이후 생산 활동 재건을 목표로 하고 있다.
+<a href="https://www.ft.com/content/d63c5138-bf81-4c7d-b39a-434499d09c8f">[FT]</a></blockquote>
+
+<b>17. ECB Nagel, 에너지 가격 충격 향후 수개월 지속 경고</b>
+<blockquote>독일 중앙은행 총재 Joachim Nagel은 에너지 가격 급등의 영향이 향후 수개월간 계속될 것이라고 경고했다. 미국-이란 평화 합의가 희망을 주고 있지만 에너지 쇼크 여파는 불가피하다는 전망이다.
+<a href="https://www.wsj.com/economy/central-banking/impact-of-iran-war-to-persist-despite-deal-offering-hope-for-peace-ecbs-nagel-says-614fe1ff">[WSJ]</a></blockquote>
+
+<b>18. 미국 산업생산 5월 0.1% 증가...예상 하회</b>
+<blockquote>미국 5월 산업생산은 0.1% 증가에 그쳤다. 4월 0.9% 증가에 이어 둔화된 수치로, WSJ이 집계한 시장 예상치 0.3% 증가를 밑돌았다.
+<a href="https://www.wsj.com/economy/u-s-industrial-production-edged-up-in-may-1a010ec3">[WSJ]</a></blockquote>
+
+<b>19. 뉴욕 제조업 지수 6월 5.7...전월 19.6서 둔화</b>
+<blockquote>뉴욕 연방준비은행 발표 6월 제조업 경기지수는 5.7을 기록해 5월 19.6에서 둔화됐다. 뉴욕주 제조업 경기가 여전히 확장세를 보이고 있지만 성장 속도는 둔화됐다.
+<a href="https://www.wsj.com/economy/central-banking/new-york-manufacturing-activity-grew-at-a-slower-pace-in-june-bde15706">[WSJ]</a></blockquote>
+
+<b>20. BOJ 6월 회의 프리뷰...통화정책 경로 주목</b>
+<blockquote>화요일 열리는 일본은행 6월 통화정책회의를 앞두고 FT가 주목해야 할 포인트를 정리했다. 에너지 가격 변동성이 일본 통화정책 경로에 미칠 영향이 관심사다.
+<a href="https://www.ft.com/content/037073f3-2055-4a00-8f23-aff3ccfb0800">[FT]</a></blockquote>
+
+<b>21. Kevin Warsh 연준 의장, 화요일 실시간 Q&A 예정</b>
+<blockquote>WSJ 수석 경제 담당 기자가 화요일 동부시간 오전 10~11시 실시간 서면 채팅을 진행한다. Kevin Warsh 연준 의장 취임 이후 통화정책 방향에 대한 질문을 받는다.
+<a href="https://www.wsj.com/economy/central-banking/live-q-a-kevin-warsh-takes-over-the-fedask-us-your-questions-d0ad6b7e">[WSJ]</a></blockquote>
+
+<b>22. 러시아 공습으로 키이우 성당 화재...동방정교 성지 피해</b>
+<blockquote>러시아의 대규모 공습으로 최소 11명이 사망하고 동방정교에서 가장 신성한 장소 중 하나가 훼손됐다. 우크라이나 문화유산에 심각한 피해를 입힌 밤이었다.
+<a href="https://www.wsj.com/world/russian-airstrikes-spark-blaze-at-kyiv-cathedral-1b2d8d2d">[WSJ]</a></blockquote>
+
+<b>23. 우크라이나 공중전 격화...러시아 미사일전 우위</b>
+<blockquote>러시아가 미사일 전쟁에서 사실상 우위를 점하고 있다. 우크라이나는 이 같은 상황이 바뀌기를 희망하고 있지만, 공중전 양상은 점점 더 위협적으로 변하고 있다.
+<a href="https://www.economist.com/europe/2026/06/15/the-terrifying-new-air-war-in-ukraine">[Economist]</a></blockquote>
+
+<b>24. EU-우크라이나 가입 협상 재개...헝가리 거부권 철회</b>
+<blockquote>헝가리 신정부가 거부권을 철회하면서 EU와 우크라이나 간 가입 협상 절차가 재개됐다.
+<a href="https://www.ft.com/content/19d88dc2-963b-45f2-9a23-9e328cc45948">[FT]</a></blockquote>
+
+<b>25. 영국 Starmer 방화 사건, 러시아 배후 지목</b>
+<blockquote>영국 총리 관저 방화 공격 배후에 러시아가 있는 것으로 드러났다. 핸들러는 친 크렘린 핵티비스트 그룹과 연계된 것으로 확인됐다.
+<a href="https://www.ft.com/content/dd79d6eb-44e4-4365-8c6e-a4fd64b211c8">[FT]</a></blockquote>
+
+<b>26. 프랑스-UAE 방산 협력 논의...독일과 결별 수순</b>
+<blockquote>프랑스가 독일과의 공동 전투기 프로젝트가 무산되고 탱크 개발도 지연되자 UAE와 방산 협력 협상에 나섰다. 파리는 베를린과의 결별 이후 걸프 지역으로 눈을 돌리고 있다.
+<a href="https://www.ft.com/content/ba5407fb-bbff-4606-ace7-c0664bebb2cd">[FT]</a></blockquote>
+
+<b>27. 캐나다, USMCA 재협상보다 관세 완화 우선 추구</b>
+<blockquote>캐나다 대사 Mark Wiseman은 캐나다인들이 7월 1일 시작되는 USMCA 공식 재협상 절차에 지나치게 집중해서는 안 된다고 밝혔다. 현재로서는 관세 완화가 더 중요한 목표라는 입장이다.
+<a href="https://www.wsj.com/world/americas/canada-more-focused-on-tariff-relief-over-usmca-renewal-ambassador-says-ffc3d593">[WSJ]</a></blockquote>
+
+<b>28. Gavin Newsom, 법무부 수사 대상...2028 대선 변수 부상</b>
+<blockquote>캘리포니아 주지사 Gavin Newsom은 법무부가 자신과 아내를 수사하고 있다고 밝혔다. 2028년 민주당 대선 후보로 거론되는 Newsom은 Trump가 정적을 겨냥해 연방 법집행 권한을 남용하고 있다고 비난했다.
+<a href="https://www.wsj.com/politics/policy/gavin-newsom-says-justice-department-is-investigating-him-and-his-wife-4098f3f3">[WSJ]</a></blockquote>
+
+<b>29. Fox, Roku 220억달러에 인수...미국 3위 TV 그룹 탄생</b>
+<blockquote>Fox가 스트리밍 플랫폼 Roku를 220억달러에 인수한다. 통합 회사는 시청점유율 기준 미국 3위 TV 그룹이 되며, 미디어 지형이 급격히 재편되고 있다.
+<a href="https://www.ft.com/content/9be374f2-3c20-435c-86a9-d919b0bf973b">[FT]</a></blockquote>
+
+<b>30. Fox-Roku 250억달러 딜...스트리밍 경쟁 격화</b>
+<blockquote>스트리밍 시청자 확보 경쟁이 치열해지는 가운데, Fox와 Roku의 결합은 양사 모두에 상당한 규모의 경제를 제공한다.
+<a href="https://www.wsj.com/business/deals/fox-roku-deal-f6e564f9">[WSJ]</a></blockquote>
+
+<b>31. Murdoch의 대형 인수 회피 전략, 스트리밍 시대에 전환점</b>
+<blockquote>Fox의 Roku 인수로 주가는 하락했지만, Murdoch 일가의 대형 인수 회피 성향이 스트리밍 시대를 맞아 전환점을 맞았다는 분석이 나온다.
+<a href="https://www.ft.com/content/8059f898-5b91-453c-8105-832b3009e9ed">[FT]</a></blockquote>
+
+<b>32. Nvidia, 250억달러 채권 발행 추진...2021년 이후 첫 딜</b>
+<blockquote>반도체 기업 Nvidia가 2021년 이후 처음으로 250억달러 이상 규모의 채권 발행을 추진한다. AI 섹터 차입 러시 속에서 투자자 수요를 시험할 전망이다.
+<a href="https://www.ft.com/content/c0e7cc58-e309-4f47-b466-d577c06cbeec">[FT]</a></blockquote>
+
+<b>33. Anthropic, 월 200달러 AI 요금제 사용 제한 소송 직면</b>
+<blockquote>Anthropic이 가장 비싼 Claude 챗봇 요금제의 사용 허용량을 과대 판매했다는 혐의로 집단소송에 휘말렸다. 소송은 집단소송 지위를 신청한 상태다.
+<a href="https://www.wsj.com/tech/ai/anthropic-sued-over-limits-on-its-200-a-month-ai-plans-e2a109e4">[WSJ]</a></blockquote>
+
+<b>34. 백악관, Anthropic의 중국 접근 차단...베이징 AI 경쟁력 강화 우려</b>
+<blockquote>백악관의 Anthropic Mythos 접근 중단 조치는 오히려 중국이 자체 AI 모델을 홍보하는 계기를 제공했다. 워싱턴의 규제가 베이징의 경쟁력을 강화시킬 수 있다는 우려가 제기된다.
+<a href="https://www.ft.com/content/d286851f-dcf6-4284-93cc-99063e169c11">[FT]</a></blockquote>
+
+<b>35. AI 가격 경쟁력 현실...Anthropic 밸류에이션 압박</b>
+<blockquote>금요일 백악관 조치 이전까지 Anthropic은 동종 기업 중 가장 합리적으로 평가받던 기업 중 하나였다. 그러나 AI 대기업들이 가격결정력에 대해 어려운 교훈을 얻고 있다.
+<a href="https://www.ft.com/content/5da5a881-835a-4e12-a957-e3a93702f0de">[FT]</a></blockquote>
+
+<b>36. 영국, 16세 이하 소셜미디어 금지...기술 기업 압박 강화</b>
+<blockquote>영국이 주요 소셜미디어 플랫폼에서 16세 미만 청소년을 금지하는 조치를 도입한다. 기술 기업들이 유해 콘텐츠와 중독성 알고리즘으로부터 청소년을 보호하는 데 충분한 노력을 기울이지 않고 있다는 압박이 커지고 있다.
+<a href="https://www.wsj.com/world/uk/u-k-to-ban-social-media-for-under-16s-2df2ffd8">[WSJ]</a></blockquote>
+
+<b>37. 영국 소셜미디어 금지, 어떻게 작동할까...호주보다 강력한 조치</b>
+<blockquote>Keir Starmer 정부는 기술적 난제에도 불구하고 호주보다 더 나아간 조치를 약속했다. 영국의 소셜미디어 금지 방식에 대한 관심이 집중되고 있다.
+<a href="https://www.ft.com/content/3759c05f-176e-44b0-989e-c5e9511ab825">[FT]</a></blockquote>
 
 ━━━━━━━━━━━━━━━━━━━━
 📡 <b>출처: WSJ · FT · The Economist</b>
