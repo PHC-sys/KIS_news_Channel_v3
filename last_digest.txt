@@ -4,133 +4,165 @@
 
 ✅ <b>간밤의 주요 헤드라인</b>
 
-<b>1. 미국·이란 평화협정 체결...자금동결 해제·제재 완화 약속</b>
-<blockquote>트럼프 대통령이 이란과 MOU를 체결하고 동결된 자금을 단계적으로 풀고 제재를 완화하겠다고 밝혔다. 테헤란은 "행동이 개선되면" 인센티브를 받게 되며, 탄도미사일은 보유할 수 있다. 대통령은 합의 조건을 지키지 않을 경우 폭격을 재개할 수 있다고 경고했다.
-<a href="https://www.ft.com/content/d4f89b6b-c213-4550-924b-a9ae45e24c37">[FT]</a> <a href="https://www.wsj.com/world/trump-defends-iran-deal-says-he-wants-to-avoid-economic-catastrophe-cdf41846">[WSJ]</a></blockquote>
+<b>1. 미국-이란 MOU 체결...호르무즈 해협 재개방 합의</b>
+<blockquote>미국과 이란이 호르무즈 해협 재개방과 전쟁 중단을 담은 양해각서에 서명했다. Trump 대통령은 이란의 '행동' 변화에 따라 제재 완화와 동결 자금 해제 등 인센티브를 제공하겠다고 밝혔으며, 이란의 탄도미사일 보유는 인정하는 입장을 취했다.
+<a href="https://www.ft.com/content/d4f89b6b-c213-4550-924b-a9ae45e24c37">[FT]</a></blockquote>
 
-<b>2. 트럼프 "이란 재건기금 $300bn 참여 안 해"...초당적 반발 확산</b>
-<blockquote>트럼프 대통령은 평화협정에 미국이 이란 재건기금에 투자한다는 보도를 부인하며 "경제 재앙을 피하고 싶다"고 밝혔다. 공화·민주 양당에서 협정 조건이 오바마 행정부보다 못하다는 비판이 쏟아졌다.
-<a href="https://www.ft.com/content/c6dbc33e-f12c-4608-bdf2-c8c4b1cdc211">[FT]</a> <a href="https://www.ft.com/content/db14774f-a16e-4996-9cdd-c4d3c2e36a78">[FT]</a></blockquote>
+<b>2. JD Vance, 이란 협상 비판한 이스라엘 정부 강력 규탄</b>
+<blockquote>Vance 부통령은 이란 협정을 비판한 이스라엘 정부 인사들을 향해 "현실을 직시해야 한다"며 강하게 반박했다. 협정이 다음 단계로 진행되는 과정에서 미국-이스라엘 동맹 내 균열이 뚜렷해지고 있다.
+<a href="https://www.ft.com/content/cbb2047a-91dd-4777-9051-e9c709f4388b">[FT]</a></blockquote>
 
-<b>3. WSJ, 이란 MOU 전문 분석 공개...협상 세부 조건 해부</b>
-<blockquote>WSJ이 입수한 MOU 원문 분석에 따르면 이란은 제재 완화와 자금 동결 해제를 조건으로 핵 프로그램과 역내 무장조직 지원을 단계적으로 축소한다. 단 탄도미사일 개발은 금지되지 않는다.
-<a href="https://www.wsj.com/world/middle-east/an-annotated-analysis-of-a-u-s-draft-of-the-iran-deal-6a9ec49f">[WSJ]</a></blockquote>
+<b>3. 미-이란 협상, 핵·미사일·민병대 문제 미해결</b>
+<blockquote>Trump 행정부가 체결한 이란 협정은 전쟁 개시 사유였던 핵 프로그램, 대규모 미사일 무기고, 역내 민병대 문제에 대해서는 어떠한 요구도 담지 않았다. 협상의 실질적 효과에 대한 의문이 제기되고 있다.
+<a href="https://www.wsj.com/world/middle-east/trumps-deal-sidesteps-key-reasons-he-went-to-war-with-iran-6820b1b4">[WSJ]</a></blockquote>
 
-<b>4. G7 정상회의서 이란 딜 논란...트럼프 "동맹 안심시켜"</b>
-<blockquote>트럼프 대통령은 G7 정상회의에서 동맹국들의 비판에 직면했으나, 이란 협정을 옹호하며 예년보다 차분한 태도를 보였다. NATO 사무총장 Mark Rutte는 영·프 주도로 호르무즈 해협 항행 복원을 지원할 준비가 됐다고 밝혔다.
-<a href="https://www.wsj.com/world/at-g-7-a-subdued-trump-spells-relief-for-allies-a7efe03f">[WSJ]</a> <a href="https://www.wsj.com/world/middle-east/natos-rutte-says-european-allies-set-to-help-restore-gulf-shipping-65c57a0c">[WSJ]</a></blockquote>
+<b>4. 이란, 60억 달러 동결자금 단계적 해제 받아</b>
+<blockquote>Trump 행정부와의 잠정 합의에 따라 카타르에 동결돼 있던 이란의 60억 달러 자금이 단계적으로 해제되며, 미국산 제품 구매에 사용될 예정이다. 석유 및 금융 제재 완화도 포함됐다.
+<a href="https://www.ft.com/content/905e17e6-0659-4e28-bab8-b733ba6be990">[FT]</a></blockquote>
 
-<b>5. IEA "중동 평화협정으로 내년 석유 공급 과잉 전망"</b>
-<blockquote>국제에너지기구(IEA)는 이란과의 평화협정으로 석유 흐름이 점차 재개되면 내년 생산 증가가 수요 전망을 웃돌 것으로 내다봤다. 호르무즈 위기 동안 풍부한 재고와 대체 공급원, AI 붐이 경제적 충격을 완화했다는 평가다.
-<a href="https://www.ft.com/content/43a47462-3102-4f77-a2fe-d9cf1217ac2f">[FT]</a> <a href="https://www.wsj.com/economy/global/five-things-the-hormuz-crisis-taught-us-about-the-global-economy-c9bd6b45">[WSJ]</a></blockquote>
+<b>5. 호르무즈 통행료 부과 가능성...해운업계 우려</b>
+<blockquote>미-이란 협정문의 모호한 표현으로 인해 60일 후 이란이 호르무즈 해협 통행료를 부과할 수 있다는 우려가 제기됐다. 해운업계는 말라카 해협과 유사한 기금 조성 방식이 도입될 가능성을 경계하고 있다.
+<a href="https://www.ft.com/content/d7e0c7ca-3485-4eef-ab8c-70db0bf4b8be">[FT]</a></blockquote>
 
-<b>6. 유가 시장, 전쟁 종식에도 $80 밑돌아...여름 성수기 앞두고 공급 과잉 우려</b>
-<blockquote>여름 재고 감소 우려와 $200 유가 공포는 사라지고 공급 과잉 전망이 시장을 지배하고 있다. 이란 경제 회복에도 수년 소요될 것으로 보이며, 제재 완화와 재건 지원이 관건이다.
-<a href="https://www.ft.com/content/388d3883-c77a-410b-84ff-80e4971656b0">[FT]</a> <a href="https://www.economist.com/middle-east-and-africa/2026/06/17/irans-battered-economy-will-take-years-to-recover-from-the-war">[Economist]</a></blockquote>
+<b>6. 유가·가솔린 급락에 나스닥 2% 급등</b>
+<blockquote>미-이란 협정 체결 소식에 가솔린 가격이 하락하고 나스닥 지수는 2% 가까이 급등했다. 중동 리스크 프리미엄 축소로 주식시장 전반에 강세가 나타났다.
+<a href="https://www.wsj.com/business/energy-oil/stocks-rally-gas-prices-fall-as-u-s-iran-move-ahead-on-peace-deal-e1b8d56a">[WSJ]</a></blockquote>
 
-<b>7. 미국 원유 재고 830만 배럴 감소...예상치 상회, 정제소 풀가동</b>
-<blockquote>미 에너지정보청(EIA)에 따르면 상업용 원유 재고가 전주 대비 830만 배럴 감소했다. 순수입 감소와 정제소 가동률 상승이 원인이다. 이코노미스트 전망치는 100만 배럴 감소였다.
-<a href="https://www.wsj.com/business/energy-oil/u-s-crude-oil-stockpiles-fall-more-than-expected-5138da65">[WSJ]</a></blockquote>
+<b>7. 원유 선물 하락세...공급 회복 시차 고려</b>
+<blockquote>호르무즈 해협 재개방 합의 직후의 시장 열기가 진정되며 원유 선물이 혼조세로 마감했다. 페르시아만 공급이 완전히 복구되기까지 상당한 시간이 소요될 것이라는 전망이 반영됐다.
+<a href="https://www.wsj.com/finance/commodities-futures/oil-falls-on-prospects-of-fast-reopening-of-strait-of-hormuz-ce60a695">[WSJ]</a></blockquote>
 
-<b>8. Warsh, 첫 FOMC서 금리 동결·연내 인상 시사...채권·주식 동반 약세</b>
-<blockquote>Kevin Warsh 신임 Fed 의장은 첫 회의에서 금리를 동결했지만, 더 많은 관리들이 올해 인상 필요성을 시사하며 시장을 놀라게 했다. 성명문은 대폭 축소됐고 명시적 포워드가이던스는 폐지됐다. dot plot은 매파적으로 나왔다.
-<a href="https://www.wsj.com/economy/central-banking/federal-reserve-interest-rate-decision-bd700510">[WSJ]</a> <a href="https://www.ft.com/content/f2463587-91e9-4da4-94b2-9cb9a270b74a">[FT]</a> <a href="https://www.ft.com/content/0fda593c-7de5-44e2-825c-53d7451d5f70">[FT]</a></blockquote>
+<b>8. 호르무즈 정상 운항 회복 수주 소요...물류 차질 지속</b>
+<blockquote>호르무즈 해협 통행량이 전쟁 이전 수준의 절반으로 회복되는 데만 수주가 걸리며, 파급 효과는 수개월간 지속될 전망이다. 해운 및 에너지 공급망의 즉각적 정상화는 어려울 것으로 분석됐다.
+<a href="https://www.wsj.com/business/energy-oil/how-quickly-can-the-strait-of-hormuz-get-back-up-and-running-a5380c70">[WSJ]</a></blockquote>
 
-<b>9. Warsh Fed 출범의 5가지 핵심 변화...새 태스크포스·짧아진 성명문·금리 인상 전망</b>
-<blockquote>Warsh 의장은 첫 회의에서 새 태스크포스 설치, 성명문 간소화, 연내 금리 인상 전망을 발표하며 Jerome Powell 시대와의 차별화를 시도했다. 시장은 매파 전환에 놀랐다.
-<a href="https://www.wsj.com/economy/central-banking/five-takeaways-from-kevin-warshs-first-meeting-as-fed-chairman-89174ad8">[WSJ]</a></blockquote>
+<b>9. 항공유 가격 급락...항공사들 비용 부담 완화</b>
+<blockquote>호르무즈 해협 재개방 합의로 항공유 가격이 급락하며 항공사들이 치솟았던 연료비 부담에서 벗어나게 됐다. 페르시아만 석유 수출 재개 전망이 반영된 결과다.
+<a href="https://www.ft.com/content/2586f3fe-29be-44fb-8f1a-cb18be9a0969">[FT]</a></blockquote>
 
-<b>10. Fed 성명문 축소·매파 dot plot...Warsh "포커 페이스" 전략</b>
-<blockquote>Warsh 의장은 명시적 포워드가이던스를 폐지하고 성명문을 축소했지만, FOMC 위원들의 금리 전망치(dot plot)는 매파적으로 나왔다. 인플레이션이 목표치의 거의 2배에 달하는 상황에서 금리 인상 가능성이 커졌다.
-<a href="https://www.ft.com/content/76c16d57-8546-412d-9b76-0e55e6a79348">[FT]</a> <a href="https://www.ft.com/content/e22bf189-e598-43c1-a35c-596e46fd6766">[FT]</a></blockquote>
+<b>10. OPEC, 원유 수요 정점 없을 것...2050년까지 증가 전망</b>
+<blockquote>OPEC는 2050년까지 전 세계 원유 수요가 일일 1,900만 배럴 증가해 약 1억 2,400만 배럴에 달할 것으로 예측했다. 도로 운송, 항공, 석유화학 부문이 수요 증가를 견인할 것으로 내다봤다.
+<a href="https://www.wsj.com/business/energy-oil/opec-sees-oil-demand-growing-with-no-peak-in-sight-ee9d7f61">[WSJ]</a></blockquote>
 
-<b>11. 국채 수익률 급등·주가 하락...Warsh 매파 전환에 시장 충격</b>
-<blockquote>Fed의 매파 전환 신호에 국채가 급락하며 수익률이 급등했고, 주식시장도 하락 마감했다. 투자자들은 연내 금리 인상 가능성을 재평가하고 있다.
-<a href="https://www.wsj.com/finance/stocks/global-stocks-markets-dow-update-06-17-2026-05228bac">[WSJ]</a> <a href="https://www.wsj.com/finance/investing/jgb-futures-rise-tracking-gains-in-u-s-treasury-market-7a7462ac">[WSJ]</a></blockquote>
+<b>11. 인도 전기차 수요 급증...유가 급등 여파</b>
+<blockquote>걸프 지역 석유 위기로 인한 유가 급등을 겪은 인도에서 전기차 판매와 전시장 문의가 크게 증가한 것으로 나타났다. 완성차 업체들이 수요 증가세를 보고하고 있다.
+<a href="https://www.ft.com/content/52395341-a04e-4474-aaf0-5725b0306cac">[FT]</a></blockquote>
 
-<b>12. 미국 5월 소매판매 예상 상회 증가...가솔린 가격 상승에도 소비 회복력</b>
-<blockquote>5월 미국 소매판매 증가율이 전월 대비 예상을 웃돌며 소비자들이 높은 가솔린 가격에도 구매를 지속하고 있음을 보여줬다. Warsh Fed 출범 시점에 경제가 여전히 견조하다는 신호다.
-<a href="https://www.wsj.com/economy/consumers/u-s-retailers-sales-growth-accelerated-last-month-90969438">[WSJ]</a> <a href="https://www.ft.com/content/a1cef91a-e590-4b01-a81e-5a1f9488cffe">[FT]</a></blockquote>
+<b>12. Kevin Warsh 첫 FOMC, 금리 동결...태스크포스 구성 발표</b>
+<blockquote>Kevin Warsh 신임 연준 의장이 첫 FOMC 회의에서 금리를 동결했다. 의장은 정책 연구를 위한 태스크포스 구성을 발표했으며, 시장은 그의 발언 하나하나에 주목했다.
+<a href="https://www.ft.com/content/0c09984c-8c4a-4c5f-9aa2-d96ee765ac32">[FT]</a></blockquote>
 
-<b>13. 영국 5월 인플레이션 2.8% 유지...이란 전쟁 충격 지속 우려 완화</b>
-<blockquote>영국 5월 소비자물가 상승률이 예상과 달리 2.8%를 유지했다. 이란 전쟁의 지속적 영향에 대한 영란은행(BoE)의 우려를 일부 완화시키는 수치다.
-<a href="https://www.ft.com/content/25ce9b8d-bc00-41cf-9f8c-bd526baf2eed">[FT]</a></blockquote>
+<b>13. BOE 금리 동결...호르무즈 재개에도 인플레 경계</b>
+<blockquote>영란은행이 기준금리를 3.75%로 동결했다. 미-이란 협정으로 유가가 하락했지만 영국 경제의 인플레이션 리스크는 여전하다는 판단이다.
+<a href="https://www.ft.com/content/be8397df-7c74-4eac-89cb-5936d7261b95">[FT]</a></blockquote>
 
-<b>14. 메모리칩 공급 부족에 Apple "가격 인상 불가피"...Tim Cook 독점 인터뷰</b>
-<blockquote>Tim Cook CEO는 WSJ 인터뷰에서 메모리칩 가격 급등으로 제품 가격 인상이 "불가피하다"고 밝혔다. iPhone 18 Pro가 $1,299까지 오를 수 있다는 분석이 나온다. 공급망 지배력을 가진 Apple도 예외가 아니다.
-<a href="https://www.wsj.com/tech/apple-price-increases-memory-supply-199845b1">[WSJ]</a> <a href="https://www.wsj.com/tech/personal-tech/apple-iphone-price-increase-e846d737">[WSJ]</a></blockquote>
+<b>14. 영국 민간 임금 상승률 5년 최저 기록</b>
+<blockquote>영국 민간 부문 임금 상승률이 5년래 최저 수준으로 둔화됐다. 이는 영란은행이 금리를 동결하는 근거로 작용했다.
+<a href="https://www.ft.com/content/c36b1556-8563-453b-860f-baaa8e5b6648">[FT]</a></blockquote>
 
-<b>15. OpenAI·Anthropic IPO 준비로 은행들 팀 분리...정보차단벽 구축</b>
-<blockquote>Goldman Sachs와 Morgan Stanley는 OpenAI와 Anthropic의 IPO를 동시에 준비하면서 정보 공유를 막기 위해 별도 팀을 구성하고 있다. AI 기업 공개 러시가 은행들의 조직 재편을 강제하고 있다.
-<a href="https://www.wsj.com/finance/banking/the-ipo-onslaught-is-forcing-bankers-to-pick-teams-50fab052">[WSJ]</a></blockquote>
+<b>15. ECB Lane, 유로존 인플레 장기간 2% 상회 전망</b>
+<blockquote>ECB 수석 이코노미스트 Philip Lane은 최근 에너지 가격 하락에도 불구하고 유로존 인플레이션이 장기간 2% 목표를 상회할 것으로 내다봤다. 고착화된 인플레 압력이 지속될 것이라는 분석이다.
+<a href="https://www.wsj.com/pro/central-banking/ecbs-chief-economist-sees-prolonged-period-of-high-inflation-278fceaa">[WSJ]</a></blockquote>
 
-<b>16. Anthropic CEO, G7서 "AI 분열 저항해야"...국제 협력 촉구</b>
-<blockquote>Dario Amodei Anthropic CEO는 G7 정상들에게 AI를 둘러싼 국제 분열을 피하라고 촉구했다. 경쟁사 Sam Altman도 이를 지지했다. 트럼프 대통령은 Fable 5 모델을 외국인에게 사실상 금지하면서도 협상은 계속된다고 밝혔다.
-<a href="https://www.ft.com/content/573925dd-6d41-4185-810d-2b848195903d">[FT]</a> <a href="https://www.wsj.com/tech/ai/trump-says-anthropic-negotiations-going-fine-as-ai-model-shutdown-drags-on-90b0a46b">[WSJ]</a></blockquote>
+<b>16. 미국 실업수당 청구 건수 주간 감소</b>
+<blockquote>6월 18일까지 일주일간 신규 실업수당 청구 건수가 22만 6,000건으로 전주 23만 건(상향 수정)에서 감소했다. 노동부가 발표한 수치다.
+<a href="https://www.wsj.com/economy/jobs/u-s-jobless-claims-fell-last-week-ceec6b9f">[WSJ]</a></blockquote>
 
-<b>17. 독·불, 대중 관세·쿼터 도입 추진...EU 보호주의 강화 신호</b>
-<blockquote>독일이 프랑스의 미국식 관세·쿼터 제안을 지지하며 유럽연합 집행위가 중국 수입 급증으로부터 산업을 보호하기 위해 더 신속히 움직일 수 있도록 했다. 글로벌 통상 분절화가 가속화되고 있다.
-<a href="https://www.ft.com/content/06b7fe04-25f7-445b-824a-135ae73596a5">[FT]</a></blockquote>
+<b>17. 미국 주식시장 주간 강세 마감 전망</b>
+<blockquote>미-이란 잠정 협정 체결 이후 미국 주식시장이 반등했으며 가솔린 가격도 하락 지속했다. 주간 기준 강세 마감이 유력해 보인다.
+<a href="https://www.wsj.com/finance/stocks/treasurys-stock-futures-rebound-on-u-s-iran-agreement-fed-reaction-512ef8ce">[WSJ]</a></blockquote>
 
-<b>18. 빅테크 자체 해저 케이블 확충...타국 안보 리스크 경고</b>
-<blockquote>미국 빅테크들이 자체 해저 데이터 케이블을 구축하며 데이터 고속도로를 장악하고 있다. 이는 다른 국가들에게 국가 안보 위협이 될 수 있다는 지적이 나온다.
-<a href="https://www.ft.com/content/f0d87ccb-57a7-4169-a1ae-2b7643f59cc5">[FT]</a></blockquote>
+<b>18. 국채 수익률 소폭 하락...Warsh 첫 회의 후</b>
+<blockquote>Kevin Warsh 신임 연준 의장의 첫 FOMC 회의 이후 미 국채 수익률이 소폭 하락했다. 시장은 신임 의장의 정책 기조를 파악하며 조정 중이다.
+<a href="https://www.wsj.com/finance/jgbs-fall-tracking-declines-in-u-s-treasurys-0c086030">[WSJ]</a></blockquote>
 
-<b>19. 중국 전기트럭 메이커들, 디젤 엔진 패권 도전</b>
-<blockquote>중국 트럭 제조사들이 전기 상용차 시장을 주도하며 디젤 엔진의 지배력에 도전하고 있다. 전기차 전환이 승용차를 넘어 대형 운송 수단으로 확산되는 중이다.
-<a href="https://www.ft.com/content/8bc04116-06f4-43b7-a4e7-a37bb19058f9">[FT]</a></blockquote>
+<b>19. 금 가격 주간 0.22% 소폭 상승</b>
+<blockquote>Comex 금 선물이 온스당 4,224.10달러에 거래를 마감하며 주간 0.22% 상승했다. 목요일 3.1% 급락 이후 소폭 회복했으나 은은 주간 하락세를 기록했다.
+<a href="https://www.wsj.com/finance/commodities-futures/gold-rises-after-fed-leaves-rates-unchanged-aacdebef">[WSJ]</a></blockquote>
 
-<b>20. 미국 주택 시장 공급 확대...주정부들 "그래니 플랫"·단일계단 규제 완화</b>
-<blockquote>주택 부족 문제가 심화되자 캘리포니아는 "그래니 플랫" 건설을 허용하고, 텍사스는 단일계단 건축 규정을 완화하며 공급 확충에 나섰다. 주택 소유가 손에 닿지 않는 현실에 초당적 합의가 이뤄지고 있다.
-<a href="https://www.wsj.com/economy/housing/housing-shortage-affordability-solutions-7b6b95e1">[WSJ]</a></blockquote>
+<b>20. 채권 수익률 하락 제한적...전쟁 종식에도</b>
+<blockquote>미-이란 전쟁 종식에도 불구하고 채권 수익률 하락 폭이 제한적이었다. 시장이 기대했던 것보다 완화적 반응이 적게 나타난 배경을 FT Alphaville이 분석했다.
+<a href="https://www.ft.com/content/70dd6c0b-c93f-4797-bf8f-050bc097c661">[FT]</a></blockquote>
 
-<b>21. 5월 주택 계약 체결 3.8% 증가...예상 크게 웃돌아</b>
-<blockquote>계약 체결 기반 주택 매매 선행지표인 NAR 지수가 5월 전월 대비 3.8% 상승해 76.8을 기록했다. 이코노미스트 전망치는 1% 증가였다. 주택 거래가 회복세를 보이고 있다.
-<a href="https://www.wsj.com/economy/housing/u-s-pending-home-sales-rises-more-than-expected-in-may-65a116c9">[WSJ]</a></blockquote>
+<b>21. Private Credit 펀드 환매 압력 지속...1년 이상 전망</b>
+<blockquote>Private Credit 펀드에 대한 투자자들의 환매 요청이 계속 높은 수준을 유지하고 있다. 애널리스트들은 이 같은 환매 압력이 1년 이상 지속되며 강제 청산 위험이 커질 것으로 예상했다.
+<a href="https://www.wsj.com/finance/investing/even-more-investors-want-out-of-private-credit-4c225a9c">[WSJ]</a></blockquote>
 
-<b>22. 빅테크, 탄소 제거 프로젝트에 $915m 투자</b>
-<blockquote>Anthropic, Google 등 테크 기업들이 구매 그룹 Frontier를 통해 대기 중 탄소 제거 기술에 9억 1,500만 달러를 투입하기로 했다. 탄소 제거 산업 확대를 목표로 한다.
-<a href="https://www.wsj.com/pro/sustainable-business/anthropic-google-other-tech-companies-commit-915-million-to-pull-carbon-out-of-the-sky-e2ee2c1e">[WSJ]</a></blockquote>
+<b>22. Hegseth 국방장관, 유럽 주둔 미군 재검토 발표</b>
+<blockquote>Pete Hegseth 국방장관이 유럽 내 미군 주둔 규모를 6개월간 재검토하겠다고 발표했다. 이란 전쟁 당시 지원이 부족했던 NATO 동맹국들을 비판하며 미국의 NATO 예산 기여 수준을 유럽의 국방비 지출에 연계하겠다고 경고했다.
+<a href="https://www.ft.com/content/41c23df5-91d1-4e6b-9ff1-bdb0ca221978">[FT]</a></blockquote>
 
-<b>23. CME Group CEO Terry Duffy 퇴임...CFO Lynne Fitzpatrick 후임</b>
-<blockquote>Terry Duffy CME Group CEO가 물러나고 CFO Lynne Fitzpatrick이 후임으로 임명됐다. Duffy의 장기 재임 동안 파생상품 거래소는 물리적 거래장에서 분산형 전자 거래로 전환했다.
-<a href="https://www.wsj.com/business/cme-groups-terry-duffy-to-step-down-as-ceo-lynne-fitzpatrick-to-take-helm-79f5310d">[WSJ]</a> <a href="https://www.ft.com/content/a8f5ff57-5870-4c07-91b5-a0487e339ea1">[FT]</a></blockquote>
+<b>23. G7, 우크라이나 외교 창구 역할...협상 모멘텀</b>
+<blockquote>G7이 우크라이나 평화 협상을 위한 외교 창구를 열었다. 유럽 측은 미국의 태도 변화에서 희망적 신호를 감지하고 있다.
+<a href="https://www.economist.com/europe/2026/06/18/the-g7-has-nudged-open-a-window-for-diplomacy-in-ukraine">[Economist]</a></blockquote>
 
-<b>24. 트럼프, 주 실업급여 사기 방지 미흡시 연방 지원 중단 경고</b>
-<blockquote>트럼프 행정부는 50개 주 전체에 실업보험 급여 사기 방지 조치를 이행하지 않으면 연방 자금 지원을 중단할 수 있다고 경고했다. 부정수급 단속을 강화하고 있다.
-<a href="https://www.wsj.com/politics/policy/state-unemployment-programs-targeted-in-federal-antifraud-campaign-32fdd4c9">[WSJ]</a></blockquote>
+<b>24. 오스트리아 총리, 푸틴과 직접 대화 주장</b>
+<blockquote>오스트리아의 Christian Stocker 총리가 FT 인터뷰에서 유럽이 Putin 러시아 대통령과 직접 대화해야 한다고 주장했다. 우크라이나 평화 협상에 '모멘텀'이 있다고 평가했다.
+<a href="https://www.ft.com/content/954d17f9-ce29-4b7a-9317-2aa575415e35">[FT]</a></blockquote>
 
-<b>25. 액티비스트 TCIM, Devon Energy 지분 확보...셰일 통합 바람 예고</b>
-<blockquote>행동주의 투자사 TCIM이 Devon Energy를 타깃으로 삼으면서 미국 셰일 오일 핵심 지대에서 통합 물결이 일 것이라는 관측이 나온다. 랜드마크 합병 이후 추가 인수합병 가능성이 커지고 있다.
-<a href="https://www.ft.com/content/0bf1aef6-d2a3-4a60-a6f8-d47c993f1c02">[FT]</a></blockquote>
+<b>25. Intel-Apple 파트너십 발표...Trump 직접 홍보</b>
+<blockquote>Trump 대통령이 Intel과 Apple의 파트너십을 직접 발표하며 한때 강자였던 칩 제조업체의 회생 계획을 지지했다. Intel 주가는 이 소식에 급등했다.
+<a href="https://www.wsj.com/tech/intel-shares-bounce-premarket-after-trump-announces-apple-partnership-19e5123d">[WSJ]</a></blockquote>
 
-<b>26. DOJ, Musk xAI 데이터센터 환경 소송서 방어...국가안보 명분</b>
-<blockquote>법무부는 Elon Musk의 xAI 미시시피 데이터센터에 대한 오염 소송에서 시설이 정부 국가안보용 AI 모델 훈련에 사용되고 있다며 방어에 나섰다.
-<a href="https://www.wsj.com/pro/sustainable-business/doj-defends-musks-xai-in-data-center-pollution-lawsuit-25df5258">[WSJ]</a></blockquote>
+<b>26. SpaceX, 200억 달러 채권 발행 추진</b>
+<blockquote>SpaceX가 기록적인 860억 달러 규모 IPO에 이어 200억 달러 채권 발행을 계획 중이다. AI와 로켓 사업을 위한 부채 조달에 나섰다.
+<a href="https://www.ft.com/content/8b73b4ce-3855-4b89-9110-3d892567f28a">[FT]</a></blockquote>
 
-<b>27. Diageo CEO Dave Lewis, 임원진에 비용 절감 목표 부여</b>
-<blockquote>Diageo의 신임 CEO Dave Lewis가 Johnnie Walker 제조사의 실적 회복을 위해 최고경영진에 비용 절감 목표를 부여하며 구조조정에 착수했다. 일자리 감축이 진행 중이다.
-<a href="https://www.ft.com/content/d7df5ecb-bd1e-4d1b-8042-f7094b3208e9">[FT]</a></blockquote>
+<b>27. Anthropic, 미 정부 AI 규제와 충돌</b>
+<blockquote>Anthropic이 초고성능 AI 모델 통제권을 둘러싸고 미국 정부와 갈등을 빚고 있다. 이 논쟁이 회사의 눈부신 상업적 성공에 타격을 줄 수 있다는 분석이 나왔다.
+<a href="https://www.economist.com/briefing/2026/06/18/anthropic-is-battling-uncle-sam-for-control-of-superpowered-ai">[Economist]</a></blockquote>
 
-<b>28. Thoma Bravo, Medallia 채권단에 넘겨...PE 최대급 손실</b>
-<blockquote>Thoma Bravo가 소프트웨어 기업 Medallia를 Blackstone 주도 채권단에 넘기고 부채 축소를 위해 $150m를 추가 투입한다. PE 업계 최대 손실 사례 중 하나가 될 전망이다.
-<a href="https://www.ft.com/content/ae4b6c77-9b3d-46fb-a7fc-59f072e7291b">[FT]</a></blockquote>
+<b>28. Trump AI 정책, 중국 모델 차용</b>
+<blockquote>Trump 행정부가 중국의 국영 AI 정책을 본뜬 접근법을 취하고 있다. 정부가 전략적 산업을 오랫동안 보호해왔지만, 주주로 나서는 것은 새로운 현상이다.
+<a href="https://www.ft.com/content/fd95e4c7-40d4-4074-a074-144809b97b45">[FT]</a></blockquote>
 
-<b>29. 트럼프 행정부, 해상풍력 취소 보상금 $765m 지급</b>
-<blockquote>트럼프 행정부가 해상풍력 프로젝트 취소 대가로 전력 개발사 Invenergy에 7억 6,500만 달러를 지급한다. Invenergy는 자금을 미 서부 천연가스·지열 프로젝트로 전환할 계획이다.
-<a href="https://www.ft.com/content/209c4e7d-d41a-4f1b-a5ee-6582af7af2b2">[FT]</a></blockquote>
+<b>29. Accenture 주가 급락...AI 위협 현실화</b>
+<blockquote>Accenture 주가가 18% 급락했다. CEO가 향후 몇 개월간 예상보다 낮은 매출을 전망하며 AI가 IT 컨설팅 비즈니스 모델을 위협하고 있다는 우려가 커졌다.
+<a href="https://www.ft.com/content/9f063b07-da39-4feb-92ab-ee0f91385c62">[FT]</a></blockquote>
 
-<b>30. 영국 대법원, 억만장자 트레이더 Alex Gerko 세금 소송서 패소 판결</b>
-<blockquote>영국 대법원이 트레이더는 거래 수익 배분에 대해 소득세를 내야 한다며 Alex Gerko의 항소를 기각했다. 금융업계 세금 판례에 영향을 줄 전망이다.
-<a href="https://www.ft.com/content/0d8cb50c-f17f-4af6-a5eb-e1f4206e3e96">[FT]</a></blockquote>
+<b>30. Robinhood 전망 긍정적...카지노형 금융 확산</b>
+<blockquote>Robinhood가 모든 것의 '카지노화' 추세 속에서 유리한 위치를 점하고 있다는 분석이 나왔다. 투기적 거래 수요 증가가 회사에 호재로 작용하고 있다.
+<a href="https://www.ft.com/content/b8747fd0-8ca6-4b93-8d3c-96e1b4d528f7">[FT]</a></blockquote>
 
-<b>31. 트럼프, Jay Clayton 정보국장 인준 지연...FISA 재승인·투표법 통과 요구</b>
-<blockquote>트럼프 대통령이 전 SEC 위원장 Jay Clayton의 국가정보국장 인준을 연기하고, 의회에 투표 신분확인법(SAVE Act) 통과와 FISA 재승인을 요구했다. 정책 제안과 인사를 연결하는 전술이다.
-<a href="https://www.ft.com/content/0ad5210a-3344-44b5-8344-d5a3e7493ce8">[FT]</a> <a href="https://www.wsj.com/politics/policy/trump-has-new-demands-for-congress-heres-how-they-all-connect-7f5586c1">[WSJ]</a></blockquote>
+<b>31. EU, 은행 역내 자본 이동 장벽 철폐 추진</b>
+<blockquote>유럽연합 집행위원회가 역내 은행들의 국경 간 자본 이동 장벽을 제거하는 방안을 담은 초안 보고서를 작성했다. 미국 경쟁사 대비 EU 은행들의 경쟁력을 높이기 위한 조치다.
+<a href="https://www.ft.com/content/bec1c122-04d6-4eab-b69c-c33d874cfa5b">[FT]</a></blockquote>
 
-<b>32. EU, 러시아 접촉해 우크라이나 협상 타진</b>
-<blockquote>EU 정상회의 의장 António Costa 사무실이 Vladimir Putin에 가까운 러시아 고위 관리와 통화를 진행하며 우크라이나 평화 협상 가능성을 탐색했다.
-<a href="https://www.ft.com/content/8873de89-c5d7-496d-b0e2-ed7811c318b3">[FT]</a></blockquote>
+<b>32. 사우디 PIF, EU 규제가 외국인 투자 저해 경고</b>
+<blockquote>사우디아라비아 국부펀드 PIF의 총재가 유럽연합의 규제가 외국인 투자자들에게 '손해'를 입히고 있다고 경고했다. EU의 외국 보조금 규제에 대한 우려가 제기되고 있다.
+<a href="https://www.ft.com/content/35e079fa-04d7-44ae-9567-a595353f05aa">[FT]</a></blockquote>
+
+<b>33. CME, CFTC 상대 소송...Kalshi 암호화폐 선물 승인 문제</b>
+<blockquote>CME가 CFTC의 Kalshi 디지털 통화 '무기한' 선물 계약 승인이 연방법 위반이라며 미국 파생상품 규제 당국을 상대로 소송을 제기했다. 선물거래소 간 경쟁이 법정 다툼으로 비화했다.
+<a href="https://www.ft.com/content/5e90353f-cefd-4f3d-aaf9-830244bd5b20">[FT]</a></blockquote>
+
+<b>34. Andy Burnham 보궐선거 승리 기대...Starmer 위기</b>
+<blockquote>노동당 리더십 후보인 Andy Burnham이 보궐선거에서 승리할 경우 Keir Starmer의 리더십에 심각한 타격이 예상된다. 영국 정치 지형에 추가 격변이 예고됐다.
+<a href="https://www.ft.com/content/44e1e71d-dcd2-4935-a14b-b14ed3b24bf8">[FT]</a></blockquote>
+
+<b>35. Economist, 영국 EU 재가입 시기상조 판단</b>
+<blockquote>Economist는 영국이 아직 EU 재가입 준비가 되지 않았다고 평가했다. 잃어버린 10년을 겪은 후 이제는 미래에 집중해야 할 시점이라고 주장했다.
+<a href="https://www.economist.com/leaders/2026/06/18/britain-is-not-yet-ready-to-rejoin-the-eu">[Economist]</a></blockquote>
+
+<b>36. 미얀마 내전, 중국이 실질적 승자</b>
+<blockquote>미얀마 내전의 실질적 승자는 중국이라는 분석이 나왔다. 중국은 미얀마를 고치려 하지 않지만 관리하는 데는 만족하고 있다는 평가다.
+<a href="https://www.economist.com/asia/2026/06/18/the-real-winner-in-myanmars-civil-war-is-china">[Economist]</a></blockquote>
+
+<b>37. 중국에서 뉴스 갈취 범죄 만연</b>
+<blockquote>중국에서 뉴스를 이용한 갈취 행위가 만연하고 있으며, 중국의 검열 당국이 이를 오히려 악화시키고 있을 가능성이 제기됐다.
+<a href="https://www.economist.com/china/2026/06/18/news-extortion-is-rife-in-china">[Economist]</a></blockquote>
+
+<b>38. 중국, 여전히 서구보다 높은 노동 강도 유지</b>
+<blockquote>중국이 훈장 제도를 통해 가장 힘든 노동을 하는 노동자들의 신분을 감추고 있다는 분석이 나왔다. 중국의 노동 강도는 여전히 서구를 압도하고 있다.
+<a href="https://www.economist.com/china/2026/06/18/how-china-still-outworks-the-west">[Economist]</a></blockquote>
+
+<b>39. 이란 전쟁, 아프리카에 경제 위기 초래</b>
+<blockquote>이란 전쟁이 아프리카 대륙에 2020년대 세 번째 경제 충격을 안겼다. 에너지 가격 상승이 아프리카 경제에 직격탄을 날렸다.
+<a href="https://www.economist.com/middle-east-and-africa/2026/06/18/the-iran-war-meant-an-economic-crisis-for-africa">[Economist]</a></blockquote>
+
+<b>40. 금 밀수 연간 1,200억 달러 규모...업계 경고</b>
+<blockquote>World Gold Council 의장이 불법 금 거래 규모가 연간 1,200억 달러 이상으로 증가했다며 밀수 '위기'를 경고했다. 금 산업 임원들이 문제의 심각성을 지적했다.
+<a href="https://www.ft.com/content/fa7f7285-7ff8-4b96-afce-c34c0c7822e0">[FT]</a></blockquote>
 
 ━━━━━━━━━━━━━━━━━━━━
 📡 <b>출처: WSJ · FT · The Economist</b>
