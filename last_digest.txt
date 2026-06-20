@@ -4,97 +4,41 @@
 
 ✅ <b>간밤의 주요 헤드라인</b>
 
-<b>1. 이스라엘-헤즈볼라 휴전 재합의...이란 딜 연기로 중동 긴장 잔존</b>
-<blockquote>이스라엘과 헤즈볼라가 레바논 교전 재발 이틀 만에 휴전 재합의했다. 스위스에서 예정됐던 미국-이란 핵협상은 레바논 교전 여파로 연기됐으며, 이란은 호르무즈 해협에서 경고 사격을 실시해 중동 긴장이 완전히 해소되지 않았음을 시사했다. 유가는 휴전 소식에 하락했다.
-<a href="https://www.wsj.com/world/middle-east/israel-hezbollah-clashes-put-iran-deal-under-early-pressure-0aa5ae90">[WSJ]</a> <a href="https://www.ft.com/content/ad95de96-4849-479e-b4e5-c5f15fcad581">[FT]</a> <a href="https://www.ft.com/content/bd4c29d7-8893-4007-8fff-0c4db216d06c">[FT]</a> <a href="https://www.ft.com/content/9cd814af-6144-4646-ad1c-a6292391e613">[FT]</a></blockquote>
+<b>1. 이란, 호르무즈 해협 봉쇄 선언...이스라엘-헤즈볼라 재충돌 속 긴장 고조</b>
+<blockquote>이란이 호르무즈 해협 봉쇄를 선언하며 전 세계 석유 공급망에 충격파가 확산되고 있다. 이는 이스라엘과 헤즈볼라 간 휴전 합의가 깨지고 레바논에서 교전이 재개된 직후 나온 조치다. 호르무즈 해협은 전 세계 석유 물동량의 약 20%가 통과하는 전략 요충지로, 봉쇄 장기화 시 원유 및 LNG 가격 급등이 불가피할 전망이다.
+<a href="https://www.ft.com/content/fad77f6e-b1db-460a-a0c8-c2fd132932f5">[FT]</a></blockquote>
 
-<b>2. 이란, 호르무즈 해협 통과 선박에 보험료 요구...물류 정상화 지연 우려</b>
-<blockquote>이란 정부는 호르무즈 해협을 통과하는 선박에 테헤란 승인 보험 가입을 의무화하는 '보험료' 징수 방침을 발표했다. 전쟁 전 수준의 절반까지 해협 통행량이 회복되려면 수 주가 소요될 전망이며, 페르시아만 산유국들의 원유 선적 재개 속도가 물류 회복의 관건으로 떠올랐다.
-<a href="https://www.ft.com/content/e1068044-5124-47d9-81ba-c4a3efc16384">[FT]</a> <a href="https://www.wsj.com/business/energy-oil/how-quickly-can-the-strait-of-hormuz-get-back-up-and-running-a5380c70">[WSJ]</a> <a href="https://www.wsj.com/business/energy-oil/hormuz-reopening-shifts-focus-to-gulf-oil-storage-and-shipping-53430fa8">[WSJ]</a></blockquote>
+<b>2. 미국-이란 스위스 평화협상 예정대로 진행...JD Vance 부통령 현지行</b>
+<blockquote>호르무즈 해협 봉쇄 발표에도 불구하고 미국과 이란 간 평화협상은 예정대로 스위스에서 진행된다. JD Vance 미국 부통령이 협상 참석차 스위스로 향했으며, 양측은 이스라엘-헤즈볼라 충돌 재개 국면에서도 대화 채널 유지 의지를 확인했다. 시장에서는 협상 타결 시 중동 긴장 완화와 에너지 공급 정상화 기대감이 형성되고 있다.
+<a href="https://www.wsj.com/world/middle-east/fighting-flares-again-in-lebanon-despite-israel-hezbollah-ceasefire-4d0ffae8">[WSJ]</a></blockquote>
 
-<b>3. Kevin Warsh 연준의장 첫 회의 후 금리인상 시사...시장 매파 전환 반영</b>
-<blockquote>Kevin Warsh 연준의장 취임 후 첫 정책회의에서 차기 금리 조정이 인상일 가능성을 시사하며 시장에 매파 시그널을 보냈다. 회의 직후 연준 감독 부의장 Michelle Bowman은 Bank of America 고객 초청 비공개 석상에서 발언해 논란이 일었다. Warsh 의장의 최대 시험대는 AI 붐이 인플레이션 압력을 냉각시킬지 과열시킬지 판단하는 것으로 평가된다.
-<a href="https://www.wsj.com/economy/central-banking/top-bank-regulator-spoke-at-an-invite-only-client-dinner-after-fed-meeting-9c7dc4a5">[WSJ]</a> <a href="https://www.ft.com/content/9c74c863-0010-41ac-8c44-81e4ad5370bd">[FT]</a> <a href="https://www.wsj.com/economy/central-banking/federal-reserve-warsh-alan-greenspan-e50dc94e">[WSJ]</a></blockquote>
+<b>3. 이란 원유, 2018년 이후 첫 공개시장 복귀 전망...증산 속도 주목</b>
+<blockquote>워싱턴-테헤란 합의에 따라 이란산 원유가 2018년 이후 처음으로 공개시장에 출하될 예정이다. 이란은 현재 일일 약 200만 배럴을 생산 중이며, 제재 해제 시 추가 증산 여력은 50만~80만 배럴 수준으로 추정된다. 시장에서는 이란의 증산 속도와 OPEC+ 감산 기조 유지 여부가 유가 방향성을 결정할 핵심 변수로 부상하고 있다.
+<a href="https://www.wsj.com/business/energy-oil/iran-can-now-sell-oil-how-fast-can-it-ramp-up-ccb6e58d">[WSJ]</a></blockquote>
 
-<b>4. 중앙은행들 이란 딜에도 인플레 경계 유지...에너지 가격 하락 안심 불가</b>
-<blockquote>이란 딜 합의로 에너지 가격이 하락했지만, 주요국 중앙은행 고위 관계자들은 글로벌 경제에 대한 경계를 늦추지 않고 있다. 복수의 정책 당국자들은 "안심 선언"을 내리기엔 시기상조라며 인플레이션 리스크 모니터링을 지속할 방침임을 밝혔다.
-<a href="https://www.ft.com/content/6a06bd52-3c74-43d1-a048-6e8b9790c56d">[FT]</a></blockquote>
+<b>4. Rahm Emanuel, 트럼프 對이란 휴전 합의 비판..."역사적 안보 실책"</b>
+<blockquote>Rahm Emanuel 전 시카고 시장이 트럼프 대통령의 이란 휴전 합의를 "역사적 미국 안보 실책"이라며 강도 높게 비판했다. 차기 민주당 대선후보로 거론되는 Emanuel은 트럼프가 이란과의 협상에서 "호되게 당했다"며, 중동 전략 전반을 재검토해야 한다고 주장했다. 이는 2026년 중간선거를 앞두고 민주당 내 對중동 정책 논쟁이 본격화되는 신호로 해석된다.
+<a href="https://www.ft.com/content/3be5a96f-f22e-4b8e-898f-fe10c2f84058">[FT]</a></blockquote>
 
-<b>5. 미 금리인상 기대에도 달러 강세 제한적 전망...MUFG</b>
-<blockquote>달러화가 1년래 최고치를 기록했지만, MUFG은행은 연준의 실제 금리인상 가능성이 시장 기대만큼 높지 않아 달러 강세가 제한적일 것으로 내다봤다. 달러는 장중 상승 후 약세로 전환했다.
-<a href="https://www.wsj.com/finance/currencies/yen-strengthens-amid-fx-intervention-risks-a6ba1cc5">[WSJ]</a></blockquote>
+<b>5. 영국 노동당 원내대표, Starmer에 퇴진 일정 제시 압박...주말 긴급 회동</b>
+<blockquote>영국 노동당 원내대표(Chief Whip)가 Keir Starmer 총리에게 점증하는 의원들의 퇴진 요구를 전달하며 구체적인 퇴진 일정 제시를 촉구했다. Starmer는 주말 동안 측근 및 당내 주요 인사들과 향후 거취를 논의 중이다. 노동당 내부 분열이 가시화되면서 영국 정국 불확실성이 고조되고 있으며, 파운드화 변동성 확대 가능성에 시장이 주목하고 있다.
+<a href="https://www.ft.com/content/e586d110-34cf-47c6-8a05-68750ee425dd">[FT]</a></blockquote>
 
-<b>6. 영국 Keir Starmer 총리 사퇴 압력 고조...Andy Burnham 승리로 리더십 위기</b>
-<blockquote>Andy Burnham 전 맨체스터 시장이 Makerfield 보궐선거에서 승리하며 노동당 차기 지도자로 급부상했다. 노동당 의원들은 Starmer 총리가 유임 시 의석을 잃을 것을 우려해 사퇴 압력을 강화하고 있으며, 내각 내 반란 조짐도 포착됐다. Burnham은 노동당 로고를 배제하고 지역 이슈와 개인 호소력에 집중해 Reform UK를 꺾었다.
-<a href="https://www.ft.com/content/dec7903b-8a5e-4de7-b8a9-656eed78cd90">[FT]</a> <a href="https://www.ft.com/content/5e8fa908-cea8-4c7d-af35-dd163cb41a3e">[FT]</a> <a href="https://www.ft.com/content/44e1e71d-dcd2-4935-a14b-b14ed3b24bf8">[FT]</a> <a href="https://www.ft.com/content/0e045c30-10b9-4243-8bc9-028781497e63">[FT]</a> <a href="https://www.ft.com/content/192c8b95-07ec-4d1f-b84d-1ca66d27baef">[FT]</a> <a href="https://www.wsj.com/opinion/andy-burnham-labour-party-keir-starmer-u-k-f80bc8f2">[WSJ]</a> <a href="https://www.ft.com/content/094b3f3d-8c66-46fa-bb2a-1b8186f3f054">[FT]</a></blockquote>
+<b>6. 스페인 법원, 산체스 총리 부인 여권 압수·부패 재판 회부 명령</b>
+<blockquote>스페인 법원이 Pedro Sánchez 총리의 부인을 부패 혐의로 재판에 회부하고 여권을 압수하라는 충격적 결정을 내렸다. 총리실은 판사의 권한 남용이라며 강력 반발하고 있다. 스페인 정치권에서는 이번 사법 조치가 산체스 정부의 안정성을 근본적으로 위협할 수 있다는 분석이 나오고 있으며, 유로존 남유럽 국가들의 정치 리스크 프리미엄 확대 우려가 제기되고 있다.
+<a href="https://www.ft.com/content/1ca7cd4f-8b93-46d1-81ae-2c506da275b0">[FT]</a></blockquote>
 
-<b>7. 이탈리아 Giorgia Meloni, Trump 발언에 강력 반발...미-유럽 관계 균열</b>
-<blockquote>Donald Trump 대통령이 이탈리아 언론에 Giorgia Meloni 총리가 G7 정상회의에서 사진 촬영을 "간청했다"고 발언하자, Meloni는 즉각 비난 성명을 냈다. 이번 충돌로 최근 G7에서 조성된 미-유럽 간 화해 분위기가 깨졌다는 평가가 나온다.
-<a href="https://www.wsj.com/world/europe/italys-meloni-hits-out-at-trump-as-u-s-europe-truce-breaks-down-3ab84f7a">[WSJ]</a> <a href="https://www.ft.com/content/f68fc9f4-ba49-472b-ac56-9b2d9236da53">[FT]</a></blockquote>
+<b>7. Giorgia Meloni, 트럼프 '구걸' 발언에 반격..."서방 적에 영합" 비판</b>
+<blockquote>이탈리아 Giorgia Meloni 총리가 트럼프 대통령의 "사진 한 장 찍으려고 구걸했다"는 발언에 대해 "서방의 적들에 영합하는 행태"라며 정면 반박했다. NATO 동맹국 간 공개 설전이 벌어지면서 대서양 동맹 결속에 균열 우려가 커지고 있다. 유럽 정치권에서는 트럼프의 동맹국 압박 기조가 유로존 방위비 지출 및 통화정책 기조에 미칠 파급효과를 주시하고 있다.
+<a href="https://www.ft.com/content/f68fc9f4-ba49-472b-ac56-9b2d9236da53">[FT]</a></blockquote>
 
-<b>8. Trump, 카타르 제공 전용기 수락해 이해충돌 논란...가격 $400mn</b>
-<blockquote>Donald Trump 대통령이 카타르 정부가 제공한 $400mn 규모의 전용기를 새 에어포스원으로 수락해 윤리 논란이 일었다. 개인 이익과 공무 간 이해충돌 문제가 제기되고 있다.
-<a href="https://www.ft.com/content/2bb0efd9-fe82-4943-ab5f-ac80682bee00">[FT]</a></blockquote>
+<b>8. 러시아, 우크라이나 드론 공습에 정유시설 마비...전역 연료 부족 심화</b>
+<blockquote>우크라이나군 드론의 집중 공격으로 러시아 주요 정유시설이 타격을 입으면서 러시아 전역에서 주유소 앞 대기 행렬이 속출하고 있다. 크렘린은 개전 4년째를 맞아 자국민에게 전쟁 영향을 차폐하려 했으나, 연료 부족 사태는 정치적 부담으로 급부상하고 있다. 에너지 분석가들은 러시아 정유 능력 복구에 수개월이 소요될 것으로 보고 있으며, 글로벌 정제유 공급 타이트 국면이 장기화될 가능성이 제기되고 있다.
+<a href="https://www.wsj.com/world/russia-faces-spreading-fuel-shortages-after-ukrainian-drones-pummel-refineries-60e96bc0">[WSJ]</a></blockquote>
 
-<b>9. Trump, 공화당 장악력 시험대...당내 반발 불거져</b>
-<blockquote>Donald Trump 대통령이 최근 일련의 결정으로 공화당 의원들을 당혹시키며 당내 장악력이 도전받고 있다. 트럼프는 "나는 대통령이고 당신은 아니다"라며 당내 비판을 일축했지만, 공화당 내부 불만이 가시화되고 있다.
-<a href="https://www.wsj.com/politics/policy/im-the-president-and-youre-not-trump-tests-his-power-and-frustrates-the-gop-871732c9">[WSJ]</a></blockquote>
-
-<b>10. 러시아 중앙은행 9회 연속 금리 인하...경기 위축 일시적 판단</b>
-<blockquote>러시아 중앙은행이 기준금리를 9회 연속 인하하며 경기 위축이 일시적이라고 평가했다. 은행은 추가 인하 가능성도 열어뒀다.
-<a href="https://www.wsj.com/pro/central-banking/russias-central-bank-cuts-key-rate-after-economy-contracts-e321b388">[WSJ]</a></blockquote>
-
-<b>11. 러시아 중앙은행 총재 Elvira Nabiullina 행사 연속 불참...후임 추측</b>
-<blockquote>Elvira Nabiullina 러시아 중앙은행 총재가 최근 여러 주요 행사에 불참하며 후임 인사 관측이 나오고 있다. 그의 건강 문제나 정치적 압력 가능성이 거론된다.
-<a href="https://www.ft.com/content/1dbfdddb-cf7b-485d-b060-c81caebc00a3">[FT]</a></blockquote>
-
-<b>12. 캐나다 은행감독청, 주요 은행 자본완충비율 축소...대출 확대 유도</b>
-<blockquote>캐나다 은행감독청이 주요 은행의 자본완충비율을 낮춰 대출 여력을 확대했다. 정부가 투자 유치로 경기 회복을 도모하는 가운데 나온 조치다.
-<a href="https://www.wsj.com/finance/regulation/canadas-bank-regulator-cuts-capital-buffer-for-big-banks-to-spur-lending-9c749551">[WSJ]</a></blockquote>
-
-<b>13. EU-중국 무역 긴장...유럽 업계, 수입 제한 합의 난항</b>
-<blockquote>중국산 제품 수출 급증으로 유럽 산업계가 타격을 받는 가운데, EU 지도부는 수입 제한 수위를 놓고 내부 합의에 어려움을 겪고 있다. 베이징과의 무역 전쟁 확대 여부를 둘러싼 유럽 내 의견 차가 뚜렷하다.
-<a href="https://www.wsj.com/economy/trade/chinese-export-flood-tests-europes-stomach-for-trade-war-with-beijing-c03a9ac1">[WSJ]</a></blockquote>
-
-<b>14. 미국, 독일 약가 정책 조사 착수...무역 분쟁 소지</b>
-<blockquote>미국 무역대표부가 독일 정부의 신약 할인 의무화 방침에 대한 조사에 착수했다. 제약업계 이익을 침해한다는 미국 측 주장으로 무역 분쟁 가능성이 제기된다.
-<a href="https://www.wsj.com/economy/trade/u-s-launches-trade-probe-into-germany-over-drug-pricing-8f7b0c06">[WSJ]</a></blockquote>
-
-<b>15. EU, 은행 크로스보더 자본 규제 완화 추진...미국 경쟁력 격차 축소</b>
-<blockquote>유럽연합 집행위원회가 역내 은행의 국경 간 자본 이동 장벽을 제거하는 초안을 마련했다. EU 은행들의 성과가 미국 경쟁사에 뒤처지는 상황에서 자본 효율을 높이려는 조치다.
-<a href="https://www.ft.com/content/bec1c122-04d6-4eab-b69c-c33d874cfa5b">[FT]</a> <a href="https://www.ft.com/content/f515887c-ddf0-422d-a76e-c600b0f8e364">[FT]</a></blockquote>
-
-<b>16. 독일 금융감독청, Berenberg 경영진 3명 해임...지배구조 위반 조사</b>
-<blockquote>독일 금융감독청 BaFin이 독일 최고령 은행 Berenberg의 경영진 3명을 해임했다. 은행 측이 기업지배구조 위반 가능성을 자체 보고한 데 따른 조치다.
-<a href="https://www.ft.com/content/c7c3708d-3727-41e3-b615-6159508fef13">[FT]</a></blockquote>
-
-<b>17. UniCredit, Commerzbank 지분 42.5%로 확대...공개매수 재개</b>
-<blockquote>이탈리아 UniCredit이 독일 Commerzbank 주주 대상 공개매수를 2주 연장하며 지분을 42.5%까지 늘릴 계획이다. 유럽 은행업 통합 관측이 높아지고 있다.
-<a href="https://www.wsj.com/business/deals/unicredit-to-lift-commerzbank-stake-to-42-5-after-initial-offer-period-eab1cff0">[WSJ]</a></blockquote>
-
-<b>18. AbbVie, 바이오텍 Apogee Therapeutics 약 $11bn 인수 임박</b>
-<blockquote>미국 제약사 AbbVie가 바이오텍 기업 Apogee Therapeutics를 약 $11bn에 인수하는 계약을 최종 조율 중이다. 빅파마의 신약 파이프라인 확충 M&A가 활발해지는 흐름이다.
-<a href="https://www.ft.com/content/cb5e94aa-1687-47fe-b55a-82e273e8b1bd">[FT]</a></blockquote>
-
-<b>19. 인도 재벌 Mukesh Ambani, 통신 자회사 Jio IPO 신청...인도 최대 규모 전망</b>
-<blockquote>인도 재벌 Mukesh Ambani의 Reliance Industries가 통신 자회사 Jio의 기업공개를 신청했다. 인도 사상 최대 규모 IPO가 될 것으로 예상된다.
-<a href="https://www.ft.com/content/7cdb0f6d-7176-4454-9010-2daba4d0b8b0">[FT]</a></blockquote>
-
-<b>20. 쿠바, 미국 압박 속 '긴급' 경제 자유화 개혁 통과</b>
-<blockquote>쿠바가 미국의 압박 속에서 경제 자유화 조치를 담은 '긴급' 개혁안을 통과시켰다. 1960년대 혁명 초기 이후 가장 큰 폭의 경제 개편이 될 전망이다.
-<a href="https://www.ft.com/content/f3532214-5707-41fe-bde6-8235b67f9e86">[FT]</a></blockquote>
-
-<b>21. 사모신용 리스크 현실화...Medallia 파산이 주는 경고</b>
-<blockquote>고객경험관리 기업 Medallia의 파산으로 사모신용(private credit) 대출자들이 사실상 지분 소유자로 전환되는 사태가 벌어졌다. '이자만 받는 투자자'로 자처했던 사모신용 펀드들이 부실 기업 경영 책임을 떠안게 됐다는 평가가 나온다.
-<a href="https://www.ft.com/content/f2add1ea-ed58-4925-8904-340ad1117043">[FT]</a></blockquote>
-
-<b>22. 패시브 투자 비판은 잘못된 공격...가격 왜곡은 액티브 책임</b>
-<blockquote>FT 칼럼니스트는 인덱스펀드가 자본 배분을 왜곡한다는 비판이 사실과 다르다고 반박했다. 기업 가치를 잘못 평가해 자본을 오배분하는 주체는 패시브가 아닌 액티브 투자자들이라는 지적이다.
-<a href="https://www.ft.com/content/3e9cfe15-c2c4-4e9c-9022-3a50a11f94dd">[FT]</a></blockquote>
-
-<b>23. OPEC 수요 전망에 회의론...희망적 사고 지적</b>
-<blockquote>OPEC의 석유 수요 전망이 지나치게 낙관적이라는 비판이 제기됐다. 전문가들은 카르텔의 예측이 현실보다 희망에 가깝다고 평가했다.
-<a href="https://www.ft.com/content/70b1fd1a-7589-4314-befd-9854e218ef87">[FT]</a></blockquote>
+<b>9. Zelenskyy, 폴란드 국가 훈장 반환...동맹국과 2차대전 역사 갈등 격화</b>
+<blockquote>우크라이나 Volodymyr Zelenskyy 대통령이 폴란드로부터 받은 국가 훈장을 반환하며 "더 많은 존중을 보여달라"고 요구했다. 양국 간 갈등은 제2차 세계대전 시기 역사 해석 차이에서 비롯됐으며, 최근 수개월간 외교 긴장이 고조돼 왔다. 우크라이나의 핵심 서방 동맹국인 폴란드와의 관계 악화는 향후 군사·재정 지원 협력에 차질을 빚을 수 있어 전쟁 국면 전개에 변수로 작용할 전망이다.
+<a href="https://www.ft.com/content/e19012a8-d5ee-472f-a319-12c1a5f64a4a">[FT]</a></blockquote>
 
 ━━━━━━━━━━━━━━━━━━━━
 📡 <b>출처: WSJ · FT · The Economist</b>
