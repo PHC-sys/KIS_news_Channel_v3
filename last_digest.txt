@@ -1,44 +1,84 @@
 🌙 <b>간밤의 글로벌 마켓 뉴스</b>
-[{DATE} | WSJ · FT · Economist ]
+[ 2026. 6. 22. | WSJ · FT · Economist ]
 ━━━━━━━━━━━━━━━━━━━━
 
 ✅ <b>간밤의 주요 헤드라인</b>
 
-<b>1. 이란, 호르무즈 해협 봉쇄 선언...이스라엘-헤즈볼라 재충돌 속 긴장 고조</b>
-<blockquote>이란이 호르무즈 해협 봉쇄를 선언하며 전 세계 석유 공급망에 충격파가 확산되고 있다. 이는 이스라엘과 헤즈볼라 간 휴전 합의가 깨지고 레바논에서 교전이 재개된 직후 나온 조치다. 호르무즈 해협은 전 세계 석유 물동량의 약 20%가 통과하는 전략 요충지로, 봉쇄 장기화 시 원유 및 LNG 가격 급등이 불가피할 전망이다.
-<a href="https://www.ft.com/content/fad77f6e-b1db-460a-a0c8-c2fd132932f5">[FT]</a></blockquote>
+<b>1. 미-이란 핵 협상, Trump 공격 경고에 중단...유가 상승세 지속</b>
+<blockquote>미국과 이란이 스위스에서 진행 중이던 핵 협상이 Trump 대통령의 이란 공격 경고로 중단됐다. Trump는 이란이 레바논 내 Hezbollah를 통제하지 않으면 추가 공격을 단행할 수 있다고 밝혔고, 이란은 협상 중단을 선언했다. 국제유가는 중동 긴장 고조로 상승세를 이어갔다.
+<a href="https://www.ft.com/content/c1014643-940c-4874-998a-0a52eb517c49">[FT]</a> <a href="https://www.wsj.com/world/middle-east/war-in-lebanon-casts-shadow-over-renewed-iran-u-s-nuclear-talks-f457c7e9">[WSJ]</a></blockquote>
 
-<b>2. 미국-이란 스위스 평화협상 예정대로 진행...JD Vance 부통령 현지行</b>
-<blockquote>호르무즈 해협 봉쇄 발표에도 불구하고 미국과 이란 간 평화협상은 예정대로 스위스에서 진행된다. JD Vance 미국 부통령이 협상 참석차 스위스로 향했으며, 양측은 이스라엘-헤즈볼라 충돌 재개 국면에서도 대화 채널 유지 의지를 확인했다. 시장에서는 협상 타결 시 중동 긴장 완화와 에너지 공급 정상화 기대감이 형성되고 있다.
-<a href="https://www.wsj.com/world/middle-east/fighting-flares-again-in-lebanon-despite-israel-hezbollah-ceasefire-4d0ffae8">[WSJ]</a></blockquote>
+<b>2. Israel, 미-이란 평화 위협 가능성...주요 동맹국과 정면 충돌 우려</b>
+<blockquote>미국과 이란의 평화 협상이 진행되는 가운데, Israel이 이를 훼손할 가능성이 제기되며 가장 중요한 동맹인 미국과의 충돌 위험이 부각되고 있다. Israel의 독자 행동이 중동 지정학 리스크를 확대시킬 수 있다는 우려가 커지는 상황이다.
+<a href="https://www.economist.com/middle-east-and-africa/2026/06/21/will-israel-undermine-americas-peace-with-iran">[Economist]</a></blockquote>
 
-<b>3. 이란 원유, 2018년 이후 첫 공개시장 복귀 전망...증산 속도 주목</b>
-<blockquote>워싱턴-테헤란 합의에 따라 이란산 원유가 2018년 이후 처음으로 공개시장에 출하될 예정이다. 이란은 현재 일일 약 200만 배럴을 생산 중이며, 제재 해제 시 추가 증산 여력은 50만~80만 배럴 수준으로 추정된다. 시장에서는 이란의 증산 속도와 OPEC+ 감산 기조 유지 여부가 유가 방향성을 결정할 핵심 변수로 부상하고 있다.
-<a href="https://www.wsj.com/business/energy-oil/iran-can-now-sell-oil-how-fast-can-it-ramp-up-ccb6e58d">[WSJ]</a></blockquote>
+<b>3. 이란 전쟁이 위협하는 글로벌 무역 chokepoint...주요 해상로 리스크 부각</b>
+<blockquote>이란 전쟁이 장기화되면서 세계 무역의 핵심 해상 통로들이 지정학적 긴장에 얼마나 취약한지가 드러나고 있다. 호르무즈 해협 등 주요 chokepoint가 봉쇄될 경우 글로벌 공급망에 심각한 타격이 예상된다.
+<a href="https://www.wsj.com/world/see-the-global-chokepoints-that-carry-much-of-the-worlds-trade-9683adf2">[WSJ]</a></blockquote>
 
-<b>4. Rahm Emanuel, 트럼프 對이란 휴전 합의 비판..."역사적 안보 실책"</b>
-<blockquote>Rahm Emanuel 전 시카고 시장이 트럼프 대통령의 이란 휴전 합의를 "역사적 미국 안보 실책"이라며 강도 높게 비판했다. 차기 민주당 대선후보로 거론되는 Emanuel은 트럼프가 이란과의 협상에서 "호되게 당했다"며, 중동 전략 전반을 재검토해야 한다고 주장했다. 이는 2026년 중간선거를 앞두고 민주당 내 對중동 정책 논쟁이 본격화되는 신호로 해석된다.
-<a href="https://www.ft.com/content/3be5a96f-f22e-4b8e-898f-fe10c2f84058">[FT]</a></blockquote>
+<b>4. Warsh 연준 의장, dot plot 폐지 추진...투자자들 차입비용 상승 경고</b>
+<blockquote>Kevin Warsh 연준 신임 의장이 미래 금리 경로를 제시하던 dot plot 폐지를 추진하자, 투자자들은 정책 불확실성 확대로 미국 차입비용이 상승할 수 있다고 경고했다. 시장 변동성이 커질 것이라는 우려도 나온다.
+<a href="https://www.ft.com/content/6a9330ad-a2db-494b-bf61-7dd417ab9c9a">[FT]</a></blockquote>
 
-<b>5. 영국 노동당 원내대표, Starmer에 퇴진 일정 제시 압박...주말 긴급 회동</b>
-<blockquote>영국 노동당 원내대표(Chief Whip)가 Keir Starmer 총리에게 점증하는 의원들의 퇴진 요구를 전달하며 구체적인 퇴진 일정 제시를 촉구했다. Starmer는 주말 동안 측근 및 당내 주요 인사들과 향후 거취를 논의 중이다. 노동당 내부 분열이 가시화되면서 영국 정국 불확실성이 고조되고 있으며, 파운드화 변동성 확대 가능성에 시장이 주목하고 있다.
-<a href="https://www.ft.com/content/e586d110-34cf-47c6-8a05-68750ee425dd">[FT]</a></blockquote>
+<b>5. Warsh, 연준 커뮤니케이션 규율 복원...전통적 접근 회귀</b>
+<blockquote>Kevin Warsh 의장은 연준의 커뮤니케이션 방식을 보다 규율 있는 전통적 모델로 되돌리고 있다. 과도한 시장 가이던스를 줄이고 정책 독립성을 강화하겠다는 의도로 풀이된다.
+<a href="https://www.wsj.com/opinion/kevin-warsh-returns-the-fed-to-a-more-disciplined-model-6fb72f6c">[WSJ]</a></blockquote>
 
-<b>6. 스페인 법원, 산체스 총리 부인 여권 압수·부패 재판 회부 명령</b>
-<blockquote>스페인 법원이 Pedro Sánchez 총리의 부인을 부패 혐의로 재판에 회부하고 여권을 압수하라는 충격적 결정을 내렸다. 총리실은 판사의 권한 남용이라며 강력 반발하고 있다. 스페인 정치권에서는 이번 사법 조치가 산체스 정부의 안정성을 근본적으로 위협할 수 있다는 분석이 나오고 있으며, 유로존 남유럽 국가들의 정치 리스크 프리미엄 확대 우려가 제기되고 있다.
-<a href="https://www.ft.com/content/1ca7cd4f-8b93-46d1-81ae-2c506da275b0">[FT]</a></blockquote>
+<b>6. 영국 Starmer 총리 사임 임박...Trump "실패 후 물러날 것"</b>
+<blockquote>Keir Starmer 영국 총리가 사임 직전인 것으로 전해졌다. Donald Trump 미 대통령은 Starmer가 "심각하게 실패한 후" 사임할 것이라고 언급했다. Starmer는 주말 동안 체커스 관저에서 부인 Victoria와 함께 정치적 미래를 논의 중인 것으로 알려졌다.
+<a href="https://www.ft.com/content/ed96e673-8d46-4dec-aebc-d69863b9e801">[FT]</a> <a href="https://www.ft.com/content/7852c1e4-9629-4a67-bf36-7177bc711e34">[FT]</a></blockquote>
 
-<b>7. Giorgia Meloni, 트럼프 '구걸' 발언에 반격..."서방 적에 영합" 비판</b>
-<blockquote>이탈리아 Giorgia Meloni 총리가 트럼프 대통령의 "사진 한 장 찍으려고 구걸했다"는 발언에 대해 "서방의 적들에 영합하는 행태"라며 정면 반박했다. NATO 동맹국 간 공개 설전이 벌어지면서 대서양 동맹 결속에 균열 우려가 커지고 있다. 유럽 정치권에서는 트럼프의 동맹국 압박 기조가 유로존 방위비 지출 및 통화정책 기조에 미칠 파급효과를 주시하고 있다.
-<a href="https://www.ft.com/content/f68fc9f4-ba49-472b-ac56-9b2d9236da53">[FT]</a></blockquote>
+<b>7. Burnham 보궐선거 승리, 길트 시장 압박 가능성 제기</b>
+<blockquote>Andy Burnham의 보궐선거 승리가 영국 국채(길트) 시장에 압력을 줄 수 있다는 관측이 나온다. Burnham이 차기 총리로 부상하면서 그의 재정정책 방향이 시장의 관심사로 떠올랐다.
+<a href="https://www.ft.com/content/ef90a1d9-605f-4818-bf2c-dfa70bd24860">[FT]</a></blockquote>
 
-<b>8. 러시아, 우크라이나 드론 공습에 정유시설 마비...전역 연료 부족 심화</b>
-<blockquote>우크라이나군 드론의 집중 공격으로 러시아 주요 정유시설이 타격을 입으면서 러시아 전역에서 주유소 앞 대기 행렬이 속출하고 있다. 크렘린은 개전 4년째를 맞아 자국민에게 전쟁 영향을 차폐하려 했으나, 연료 부족 사태는 정치적 부담으로 급부상하고 있다. 에너지 분석가들은 러시아 정유 능력 복구에 수개월이 소요될 것으로 보고 있으며, 글로벌 정제유 공급 타이트 국면이 장기화될 가능성이 제기되고 있다.
+<b>8. Burnham 진영, Ed Miliband 재무장관 구상에 노조 반발</b>
+<blockquote>Andy Burnham의 핵심 정부 인사 구상 중 Ed Miliband를 재무장관으로 임명하는 방안에 노조 지도부가 강하게 반발하고 있다. 노조 대표 Sharon Graham는 Miliband가 "일자리 창출의 올가미가 될 것"이라고 경고했다.
+<a href="https://www.ft.com/content/a6f68243-bf9b-4557-b6a7-ef7664aa5cc6">[FT]</a></blockquote>
+
+<b>9. Brexit 10주년, 영국 여전히 분열...EU 관계 재설정 논의 본격화</b>
+<blockquote>Brexit 국민투표 10주년을 맞아 영국은 여전히 분열된 모습을 보이고 있다. 영국 정부는 EU와의 관계 재설정 필요성에 무게를 두고 있지만, 재가입은 당분간 현실적이지 않다는 평가가 지배적이다.
+<a href="https://www.ft.com/content/0b0092ea-1fcd-4463-9e3b-c3d2a45d349f">[FT]</a></blockquote>
+
+<b>10. FT 사설 "Brexit 재논의 필요...재가입은 만병통치약 아냐"</b>
+<blockquote>FT는 사설에서 영국이 EU와의 관계를 재구축해야 하지만, 재가입 시도는 당분간 다른 성장 개혁에서 의회의 관심을 분산시킬 것이라고 지적했다. 실용적 접근이 필요하다는 주장이다.
+<a href="https://www.ft.com/content/102b1b7b-59dc-4150-8312-af6360e07d47">[FT]</a> <a href="https://www.ft.com/content/c5db4c04-0db7-4eec-a671-c022ad4b5025">[FT]</a></blockquote>
+
+<b>11. 영국 ONS, 주요 고용지표에 새 오류 인정...통계 신뢰성 타격</b>
+<blockquote>영국 통계청(ONS)이 주요 고용 데이터에서 또다시 오류를 인정하며 "품질 저하 수준"에 대해 경고했다. 시장의 면밀한 주시를 받는 통계에 대한 신뢰 회복 노력에 차질이 빚어졌다.
+<a href="https://www.ft.com/content/137b9379-de54-4411-8729-bc41e000345a">[FT]</a></blockquote>
+
+<b>12. 러시아, 우크라이나 정유시설 공격으로 연료 부족 확산</b>
+<blockquote>우크라이나 드론의 러시아 정유시설 공격이 계속되면서 러시아 내 연료 부족 사태가 확산되고 있다. 주유소 대기 줄이 늘어나며 Kremlin이 4년째 전쟁의 영향을 국민에게 차단하려던 노력에 타격을 주고 있다.
 <a href="https://www.wsj.com/world/russia-faces-spreading-fuel-shortages-after-ukrainian-drones-pummel-refineries-60e96bc0">[WSJ]</a></blockquote>
 
-<b>9. Zelenskyy, 폴란드 국가 훈장 반환...동맹국과 2차대전 역사 갈등 격화</b>
-<blockquote>우크라이나 Volodymyr Zelenskyy 대통령이 폴란드로부터 받은 국가 훈장을 반환하며 "더 많은 존중을 보여달라"고 요구했다. 양국 간 갈등은 제2차 세계대전 시기 역사 해석 차이에서 비롯됐으며, 최근 수개월간 외교 긴장이 고조돼 왔다. 우크라이나의 핵심 서방 동맹국인 폴란드와의 관계 악화는 향후 군사·재정 지원 협력에 차질을 빚을 수 있어 전쟁 국면 전개에 변수로 작용할 전망이다.
-<a href="https://www.ft.com/content/e19012a8-d5ee-472f-a319-12c1a5f64a4a">[FT]</a></blockquote>
+<b>13. 우크라이나, 벨라루스에 드론 장비 철거 최후통첩</b>
+<blockquote>Volodymyr Zelenskyy 우크라이나 대통령은 벨라루스 내 러시아 드론용 중계 장비를 일주일 내 철거하지 않으면 직접 제거하겠다고 경고했다. 벨라루스가 러시아 드론 작전에 협조하고 있다는 우크라이나의 판단이 반영됐다.
+<a href="https://www.ft.com/content/dd2868ef-b9a2-4b6e-ab52-e4d87a9a75d2">[FT]</a></blockquote>
+
+<b>14. 필리핀, 중국의 스카버러 환초 완전 장악 우려...군사 활동 급증</b>
+<blockquote>필리핀 국방장관은 중국이 분쟁 중인 스카버러 환초(Scarborough Shoal) 주변에서 군사 활동을 강화하며 완전 장악을 시도할 수 있다고 경고했다. 남중국해 긴장이 고조되는 양상이다.
+<a href="https://www.ft.com/content/d5191b00-dccb-465e-8afb-e61cc8260f93">[FT]</a></blockquote>
+
+<b>15. Meloni-Trump 관계 악화...이탈리아 총리 재선 앞두고 갈등 표면화</b>
+<blockquote>이탈리아 Giorgia Meloni 총리와 Donald Trump 미국 대통령 간 관계가 악화되고 있다. Meloni가 내년 재선을 준비하는 가운데 양국 정상 간 갈등이 표면화되며 유럽-미국 관계에도 영향을 줄 전망이다.
+<a href="https://www.ft.com/content/1adcac1d-d2d3-4a62-855d-7dd56319edbf">[FT]</a></blockquote>
+
+<b>16. 미국 저축률 급락...가계 소비 패턴 변화 주목</b>
+<blockquote>미국 가계 저축률이 급격히 하락한 것으로 나타났다. 다만 Economist는 아직 패닉 상황은 아니라고 분석했다. 저축률 하락이 소비 확대와 경기 회복의 신호인지, 아니면 재정 불안의 징후인지 해석이 엇갈린다.
+<a href="https://www.economist.com/finance-and-economics/2026/06/21/americas-savings-rate-has-plunged">[Economist]</a></blockquote>
+
+<b>17. 중국 AI 모델 발전 가속...미국과 격차 좁혀</b>
+<blockquote>중국이 새로운 AI 모델을 선보이며 미국과의 기술 격차를 좁히고 있다. 중국 AI 산업이 또 한 번 도약의 순간을 맞았다는 평가가 나온다.
+<a href="https://www.economist.com/china/2026/06/21/china-is-having-another-ai-moment">[Economist]</a></blockquote>
+
+<b>18. 방산 테크에 VC 자금 120억 달러 몰려...전쟁 특수에 밸류에이션 급등</b>
+<blockquote>방산 기술 스타트업에 대한 벤처캐피털 투자가 올해 이미 120억 달러를 넘어 작년 전체를 초과했다. 각종 전쟁 리스크 속에서 방산 테크 밸류에이션이 급등하며 과열 우려도 제기된다.
+<a href="https://www.ft.com/content/cb535f43-d2b7-4d14-82fe-abdd14765dfe">[FT]</a></blockquote>
+
+<b>19. 건설자재 그룹 CRH, Arcosa 인수 추진...역대 최대 딜</b>
+<blockquote>아일랜드 건설자재 그룹 CRH가 미국 달라스 소재 건설업체 Arcosa 인수를 추진 중이다. 시가총액 약 70억 달러 규모로 CRH 역사상 최대 인수합병(M&A)이 될 전망이다.
+<a href="https://www.ft.com/content/6c95c41b-7bf1-4adf-84e9-08356f8a4981">[FT]</a></blockquote>
 
 ━━━━━━━━━━━━━━━━━━━━
 📡 <b>출처: WSJ · FT · The Economist</b>
