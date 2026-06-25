@@ -4,109 +4,93 @@
 
 ✅ <b>간밤의 주요 헤드라인</b>
 
-<b>1. 원유 가격 전쟁 전 수준으로 급락...미-이란 분쟁 완화 신호</b>
-<blockquote>미국과 이란의 전쟁 발발 이후 급등했던 원유 선물 가격이 간밤 전쟁 이전 수준으로 하락했다. 페르시아만에서 원유 선적이 늘어나며 호르무즈 해협 정상화 기대감이 커진 영향이다. 다만 물류 재개에는 수개월이 소요될 전망이다.
-<a href="https://www.wsj.com/finance/commodities-futures/oil-falls-on-signs-of-more-easing-of-supply-disruptions-in-mideast-8b2de17c">[WSJ]</a> <a href="https://www.wsj.com/business/energy-oil/how-quickly-can-the-strait-of-hormuz-get-back-up-and-running-a5380c70">[WSJ]</a> <a href="https://www.wsj.com/business/energy-oil/u-s-crude-oil-inventories-fall-product-stocks-rise-10d9bae1">[WSJ]</a></blockquote>
+<b>1. 호르무즈 해협 컨테이너선 재공격...트럼프-이란 딜 붕괴 위험</b>
+<blockquote>이란이 호르무즈 해협에서 컨테이너선을 '미확인 발사체'로 공격하면서 국제해사기구(IMO)가 좌초 선박 대피 계획을 중단했다. 공격은 이란이 자국 허가 항로 외 통행을 경고한 직후 발생했으며, 트럼프 행정부의 해협 재개방 합의가 시험대에 올랐다.
+<a href="https://www.ft.com/content/5abcb3c1-8ce8-470f-8a37-f47af58b2f7c">[FT]</a> <a href="https://www.wsj.com/world/middle-east/iran-attacks-cargo-ship-testing-trumps-deal-to-reopen-strait-d3cf454c">[WSJ]</a></blockquote>
 
-<b>2. Trump, 가솔린 가격에 석유업계 압박...Biden 전철 밟아</b>
-<blockquote>Trump 대통령이 높은 가솔린 가격에 불만을 표하며 석유업계를 공개 비판했다. 일부 석유 업계 임원들은 연료 공급망이 느리게 움직이는 구조라는 점을 대통령에게 설명했지만, 정치적 압박은 지속될 것으로 보인다.
-<a href="https://www.wsj.com/business/energy-oil/trump-frustrated-with-high-gas-prices-channels-bidens-criticism-of-big-oil-0ac58b26">[WSJ]</a></blockquote>
+<b>2. 호르무즈 통행 정상화로 유가 전쟁 이전 수준 복귀...재공격에 반등 압력</b>
+<blockquote>브렌트유가가 배럴당 $72.48 이하로 하락하며 이란 전쟁 발발 전인 2월 말 수준을 회복했다. 호르무즈 해협을 통한 유조선 통행이 급증했으나, 간밤 재공격으로 여름 성수기를 앞둔 시장 긴축 전망이 다시 고개를 들고 있다.
+<a href="https://www.wsj.com/business/energy-oil/oil-prices-make-a-stunning-retreat-to-prewar-levels-where-do-we-go-from-here-e8c3a6ef">[WSJ]</a> <a href="https://www.ft.com/content/7a05c821-491f-41a7-8d03-53183fbbb719">[FT]</a></blockquote>
 
-<b>3. 금 11월 최저·은 6.4% 폭락...안전자산 수요 급감</b>
-<blockquote>금값이 11월 이후 최저 수준으로 3.4% 하락했고, 은은 6.4% 급락하며 두 금속 모두 4일 연속 하락세를 기록했다. 중동 지정학 리스크 완화로 안전자산 수요가 빠르게 축소되고 있다.
-<a href="https://www.wsj.com/finance/commodities-futures/gold-lower-amid-weak-sentiment-66a7543e">[WSJ]</a></blockquote>
+<b>3. 이라크, OPEC 증산 허용 촉구...호르무즈 봉쇄로 수출 급감</b>
+<blockquote>미국-이란 전쟁으로 호르무즈 해협이 막히면서 이라크의 원유 수출이 큰 타격을 입자, 바그다드 정부가 OPEC에 증산 쿼터 확대를 요청하고 나섰다. 이라크는 OPEC 3위 생산국으로 전체 공급 정책에 영향을 줄 전망이다.
+<a href="https://www.ft.com/content/1e59c76b-d1a4-4df7-8378-5219db3a3b80">[FT]</a></blockquote>
 
-<b>4. 미 국채 수익률 하락...에너지 가격 급락으로 인플레 우려 완화</b>
-<blockquote>미국 국채 수익률이 간밤 하락 폭을 확대했다. 원유 가격이 4% 넘게 떨어지며 전쟁 이전 수준으로 복귀한 것이 인플레 기대심리 완화로 이어졌다. 향후 경기지표와 인플레 데이터가 추가 변수다.
-<a href="https://www.wsj.com/finance/jgb-futures-edge-higher-tracking-mild-gains-in-u-s-treasury-market-adfa0a58">[WSJ]</a></blockquote>
+<b>4. 유럽 6월 기록적 폭염에 전력가격 급등...냉방 수요 폭발</b>
+<blockquote>영국과 유럽 전역에 6월 사상 최고 기온 경보가 발령되면서 에어컨 가동이 급증하고 전력망에 압력이 가중됐다. 전력가격은 기록적 수준으로 치솟았으며, UN 사무총장은 "런던이 익어가고 있다"고 경고했다.
+<a href="https://www.ft.com/content/5609310d-923b-47d0-b690-37a1c89e6097">[FT]</a> <a href="https://www.ft.com/content/ceca43a1-a514-416c-a75e-e069afe58071">[FT]</a></blockquote>
 
-<b>5. 달러 강세 지속, 수익률 괴리 확대...연준 전망 변화 반영</b>
-<blockquote>달러화가 강세를 보이는 가운데 국채 수익률과의 괴리가 커졌다. 시장은 연준의 정책 기조 변화 가능성을 반영하기 시작했으며, 지정학 긴장 완화도 달러 수요에 영향을 미쳤다.
-<a href="https://www.wsj.com/finance/currencies/asian-currencies-consolidate-may-be-weighed-by-risk-off-sentiment-5aef5a35">[WSJ]</a></blockquote>
+<b>5. 연준 선호 인플레 지표 4.1%...목표치 2배 돌파하며 2023년 4월 이후 최고</b>
+<blockquote>5월 개인소비지출(PCE) 물가지수가 전년비 4.1% 상승하며 연준의 2% 목표를 크게 웃돌았다. 이는 2023년 4월 이후 가장 높은 수치로, 연준의 매파 전환 압력을 강화하는 동시에 하반기 인플레이션 둔화 기대에 의문을 던진다.
+<a href="https://www.wsj.com/economy/central-banking/feds-preferred-inflation-gauge-climbs-above-target-range-b2220751">[WSJ]</a> <a href="https://www.ft.com/content/59dee44a-7cf3-44d5-a6e9-751d9683806a">[FT]</a></blockquote>
 
-<b>6. 미국 대형 은행, 연준 스트레스 테스트 통과...배당·자사주 확대 여력</b>
-<blockquote>JPMorgan과 Bank of America 등 미국 대형 은행들이 연준의 연례 스트레스 테스트를 무난히 통과했다. 연준이 작년부터 테스트 세부 내용을 사전 공개하면서 난이도가 낮아진 영향이다. 은행들은 자본 배분 확대에 나설 전망이다.
-<a href="https://www.wsj.com/finance/regulation/big-banks-ace-an-easier-annual-stress-test-6f85cdcc">[WSJ]</a> <a href="https://www.ft.com/content/7f33dfda-bc49-4645-8e71-422ba7cc4d17">[FT]</a></blockquote>
+<b>6. 연준 Williams "현 통화정책 2% 복귀에 적절"...멕시코는 6.5% 금리 동결</b>
+<blockquote>뉴욕 연준 총재 John Williams는 현재 통화정책 기조가 인플레이션을 2%로 복귀시키는 데 적절한 위치에 있다고 밝혔으나, 상당한 리스크가 남아있다고 경고했다. 한편 멕시코 중앙은행은 기준금리를 6.5%로 동결하며 당분간 현 수준을 유지할 것이라고 밝혔다.
+<a href="https://www.wsj.com/economy/central-banking/feds-williams-current-monetary-policy-stance-well-positioned-to-restore-inflation-to-2-ca78c142">[WSJ]</a> <a href="https://www.wsj.com/economy/central-banking/bank-of-mexico-leaves-benchmark-interest-rate-unchanged-052b377e">[WSJ]</a></blockquote>
 
-<b>7. 캐나다 중앙은행, 인플레 압력 과잉 대응 경계...회의록 공개</b>
-<blockquote>캐나다 중앙은행 회의록에서 6명의 고위 정책위원이 인플레 압력과 경기 둔화 리스크 사이 균형을 맞추기 위해 기준금리 동결이 적절하다는 데 합의한 것으로 나타났다. 물가 상승에 과잉 대응하지 않겠다는 신호다.
-<a href="https://www.wsj.com/economy/central-banking/bank-of-canada-careful-not-to-overreact-to-inflation-pressure-minutes-say-8206297a">[WSJ]</a></blockquote>
+<b>7. 미 국채 수익률 하락...경기 둔화 지표와 이란 공격 반응</b>
+<blockquote>미국 경제지표가 부진하고 이란의 재공격 보도가 나오면서 국채 수익률이 하락했다. 시장은 연준이 시장 가격에 반영된 것만큼 매파적일 필요가 없을 것으로 판단하고 있다.
+<a href="https://www.wsj.com/finance/investing/jgbs-rise-tracking-gains-in-u-s-treasurys-8e49bec6">[WSJ]</a></blockquote>
 
-<b>8. Micron 이익 15배 폭증, 메모리 칩 부족 2027년 이후까지 연장</b>
-<blockquote>Micron이 AI 기업들의 칩 수요 급증으로 전년 대비 15배 늘어난 이익을 기록했다. 회사는 컴퓨터 메모리 수요가 지속되며 칩 부족 현상이 2027년 이후까지 이어질 것으로 전망했다. 시간외 거래에서 주가가 급등했다.
-<a href="https://www.ft.com/content/9b739203-3274-43f1-b61e-c1905061d32a">[FT]</a> <a href="https://www.wsj.com/business/earnings/micron-revenue-soars-on-continued-memory-demand-d736b34b">[WSJ]</a></blockquote>
+<b>8. 신규 실업수당 21.5만 건으로 감소...내구재 주문은 예상 밑돌아</b>
+<blockquote>6월 25일 마감 주간 신규 실업수당 청구가 21만 5,000건으로 전주 대비 감소했으나, 5월 내구재 주문은 예상보다 큰 폭으로 줄어들며 경기 신호가 엇갈렸다. 두 달 연속 증가세를 이어가던 내구재 주문이 꺾인 것은 제조업 수요 둔화를 시사한다.
+<a href="https://www.wsj.com/economy/jobs/u-s-jobless-claims-fell-last-week-a62436da">[WSJ]</a> <a href="https://www.wsj.com/economy/may-durable-goods-orders-fall-slightly-more-than-forecast-2e42703d">[WSJ]</a></blockquote>
 
-<b>9. SK Hynix, 미국 상장으로 $29B 조달 계획...역대급 IPO</b>
-<blockquote>메모리 칩 대기업 SK Hynix가 미국 상장을 통해 290억 달러 규모 자금을 조달할 계획이다. 실현될 경우 2019년 Saudi Aramco IPO에 필적하는 역대 최대 규모 주식 매각 중 하나가 된다.
-<a href="https://www.wsj.com/business/sk-hynix-seeks-to-raise-about-29-billion-in-u-s-listing-4185ac59">[WSJ]</a></blockquote>
+<b>9. 애플 맥북·아이패드 20% 가격 인상...AI 메모리 부족에 시총 $263bn 증발</b>
+<blockquote>애플이 AI 기반 메모리 칩 부족으로 일부 맥북과 아이패드 가격을 모델당 $200 이상 인상하면서 시가총액 $2,630억이 사라졌다. Tim Cook CEO는 메모리 비용 상승이 "피할 수 없는" 조치라고 밝혔다.
+<a href="https://www.ft.com/content/0f067265-2baf-4b6e-8fb2-ed56daef6f3c">[FT]</a> <a href="https://www.wsj.com/tech/apple-raises-prices-on-macs-ipads-by-200-or-more-on-some-models-a7463f99">[WSJ]</a></blockquote>
 
-<b>10. Qualcomm, Meta와 데이터센터 칩 계약 체결...AI 소프트웨어 Modular $3.9B 인수</b>
-<blockquote>Qualcomm이 Meta를 첫 빅테크 데이터센터 칩 고객으로 확보했다고 발표하며 주가가 시간외에 15% 급등했다. 또한 AI 소프트웨어 기업 Modular를 39억 달러 주식 거래로 인수해 AI 생태계 확장에 나섰다.
-<a href="https://www.ft.com/content/e9c2ef9c-856c-48cf-a47e-48a807519a2b">[FT]</a> <a href="https://www.wsj.com/tech/ai/qualcomm-to-acquire-ai-software-firm-modular-in-3-9-billion-stock-deal-7b620c7c">[WSJ]</a></blockquote>
+<b>10. 마이크론 순이익 15배 급증...AI 메모리 수요에 빅테크 변동성 확대</b>
+<blockquote>마이크론이 AI 메모리 칩 수요 폭발로 전분기 대비 15배 이익 급증을 기록하며 주가가 급등했다. 반면 애플 급락으로 월가 기술주 섹터 로테이션이 가속화됐으며, AI 주식 변동성이 한 주간 극심했다는 분석이 나온다.
+<a href="https://www.ft.com/content/9b739203-3274-43f1-b61e-c1905061d32a">[FT]</a> <a href="https://www.ft.com/content/b3ad976b-9967-4952-92ff-822a8e253fb1">[FT]</a></blockquote>
 
-<b>11. OpenAI-Broadcom, AI 추론 맞춤형 칩 'Jalapeño' 공동 개발</b>
-<blockquote>OpenAI와 Broadcom이 AI 추론 효율성을 높이고 비용을 낮추기 위한 맞춤형 칩 Jalapeño를 개발했다. OpenAI는 모델과 제품 뒤의 전체 스택을 구축하려는 전략을 추진 중이다.
-<a href="https://www.wsj.com/tech/ai/openai-broadcom-develop-custom-chip-for-ai-inference-beafd74a">[WSJ]</a></blockquote>
+<b>11. Alphabet 주가 추가 하락...AI 핵심 인재 이탈 보도 지속</b>
+<blockquote>지난주 AI 설계자들이 떠난 데 이어 추가 인재 유출 보도가 나오면서 Alphabet 주가가 다시 하락했다. 구글의 AI 경쟁력 약화 우려가 커지는 가운데 시장은 빅테크 AI 주도권 재편 가능성에 주목하고 있다.
+<a href="https://www.wsj.com/tech/ai/alphabet-stock-falls-ai-departures-34dd9512">[WSJ]</a></blockquote>
 
-<b>12. 중국 슈퍼컴퓨터 세계 1위 탈환...LineShine 시스템 최고 성능</b>
-<blockquote>중국의 LineShine 슈퍼컴퓨터가 이번 주 발표된 Top500 순위에서 1위를 차지하며 미국을 제치고 세계 최고 성능 타이틀을 되찾았다. AI 경쟁에서 컴퓨팅 파워 우위 확보가 더욱 중요해지고 있다.
-<a href="https://www.wsj.com/tech/ai/chinese-supercomputer-overtakes-u-s-as-worlds-fastest-d0f8dbff">[WSJ]</a></blockquote>
+<b>12. ON Semi, Synaptics를 $7B에 인수...AI 물리 상호작용 솔루션 확보</b>
+<blockquote>ON Semiconductor가 전액 주식 교환 방식으로 Synaptics의 지분을 인수한다고 밝혔다. 기업가치 $70억 규모의 이번 거래로 ON Semi는 AI 컴퓨팅 플랫폼, 인간-기계 인터페이스, 연결 솔루션을 확보해 물리 세계와 상호작용하는 AI 수요에 대응한다.
+<a href="https://www.wsj.com/business/deals/on-semiconductor-to-buy-synaptics-in-all-stock-deal-with-7-billion-enterprise-value-4b5000fc">[WSJ]</a></blockquote>
 
-<b>13. 비트코인 20개월 최저 $60K 이하...리테일 자금 AI 주식으로 이동</b>
-<blockquote>비트코인 가격이 6만 달러 아래로 떨어지며 20개월 만에 최저치를 기록했다. 시장 심리 악화와 함께 개인투자자들이 암호화폐에서 AI 관련 주식으로 자금을 이동시키고 있는 것으로 분석된다.
-<a href="https://www.ft.com/content/41d1da8f-e1a8-4953-9d89-a8caa84cd26c">[FT]</a></blockquote>
+<b>13. Merck, Bio-Techne를 $11B에 인수...실험 도구 사업 확대</b>
+<blockquote>독일 Merck가 미국 실험실 장비업체 Bio-Techne를 $110억에 인수한다고 발표했다. 새로 취임한 Kai Beckmann CEO의 첫 대형 딜로, 10년 만에 최대 규모 인수를 통해 실험실 도구 사업을 강화한다.
+<a href="https://www.wsj.com/business/deals/germanys-merck-to-buy-bio-techne-for-11-billion-a0eff431">[WSJ]</a></blockquote>
 
-<b>14. Trump-의회 터키 무기 판매 대립...주택법안 서명도 취소</b>
-<blockquote>Trump 행정부가 터키에 대한 무기 판매를 추진하며 의회와 충돌하고 있다. NATO 앙카라 정상회담을 앞두고 의회 거부권 무효화를 추진할 전망이다. 한편 대통령은 초당적 주택법안 서명을 갑자기 취소하며 유권자 자격 법안 통과를 요구했다.
-<a href="https://www.wsj.com/politics/national-security/a-turkish-arms-sale-leads-to-a-face-off-between-trump-and-congress-ee55c700">[WSJ]</a> <a href="https://www.wsj.com/politics/policy/trump-abruptly-cancels-signing-ceremony-for-bipartisan-housing-bill-c94f5ff1">[WSJ]</a> <a href="https://www.ft.com/content/771adcdd-03e9-4c59-9bf1-49b3a52cc2bd">[FT]</a></blockquote>
+<b>14. 미 대법원, Bayer Roundup 소송 승소 판결...수십억 달러 배상 청구 제동</b>
+<blockquote>미국 대법원이 Bayer의 제초제 Roundup 발암 논란 소송에서 회사 손을 들어주며, 수천 건의 추가 청구 근거가 됐던 하급심 판결을 뒤집었다. Bayer는 이번 판결로 수십억 달러 규모 배상 청구 해결에 탄력을 받게 됐다.
+<a href="https://www.wsj.com/us-news/law/bayer-wins-supreme-court-challenge-over-roundup-litigation-9a8b80fc">[WSJ]</a> <a href="https://www.ft.com/content/4f87f951-a647-497a-90a6-bc28c14fe419">[FT]</a></blockquote>
 
-<b>15. 뉴욕 민주당 예비선거, Mamdani 사회주의 진영 3곳 승리...중간선거 변수</b>
-<blockquote>뉴욕시에서 열린 민주당 하원의원 예비선거에서 시장 Zohran Mamdani가 지원한 사회주의 성향 후보 3명이 주류 민주당 후보를 꺾고 승리했다. Darializa Avila Chevalier 등 당선자들은 ICE 폐지와 전국 임대료 통제를 주장하며, 2026년 중간선거에서 민주당 내 분열 심화 가능성을 키웠다.
-<a href="https://www.wsj.com/politics/elections/mamdani-deepens-his-influenceand-the-dividein-the-democratic-party-0c6374fc">[WSJ]</a> <a href="https://www.ft.com/content/c2ae8dcf-ac18-4683-a206-707024514649">[FT]</a> <a href="https://www.wsj.com/politics/elections/key-takeaways-from-the-new-york-house-primaries-16234968">[WSJ]</a></blockquote>
+<b>15. JPMorgan, 공동 사장 2명 승진...Dimon 후계 경쟁 가열</b>
+<blockquote>JPMorgan Chase가 Doug Petno와 Troy Rohrbaugh를 공동 사장으로 임명하며 Jamie Dimon의 후계자 찾기에 속도를 냈다. 두 임원은 회사 최대 사업부문을 맡게 되며, Marianne Lake는 은행을 떠났다.
+<a href="https://www.wsj.com/finance/banking/jpmorgan-names-co-presidents-in-effort-to-find-successors-for-jamie-dimon-aafb5c27">[WSJ]</a> <a href="https://www.ft.com/content/4f191eea-2486-4c43-9e17-0f8dcd340b23">[FT]</a></blockquote>
 
-<b>16. 국방부, Lockheed Martin에 $35B Thaad 미사일 계약...이란 전쟁 재고 보충</b>
-<blockquote>미국 국방부가 Lockheed Martin에 최대 350억 달러 규모의 Thaad 요격미사일 생산 계약을 체결했다. 이란 전쟁으로 소진된 미군 재고를 보충하기 위한 조치로, 향후 7년간 연간 수백 기를 생산할 계획이다.
-<a href="https://www.wsj.com/politics/national-security/lockheed-martin-lands-35-billion-missile-defense-deal-21135083">[WSJ]</a> <a href="https://www.wsj.com/business/lockheed-martin-gets-more-than-35-billion-u-s-contract-for-thaad-systems-04406fc9">[WSJ]</a></blockquote>
+<b>16. EU, 미국 대상 관세 인하 발표...다음 싸움은 규제 장벽</b>
+<blockquote>유럽연합이 미국산 제품에 대한 관세를 낮추기로 했으나, 트럼프 행정부는 이제 미국 기업에 불리하다고 보는 EU 규제를 바꾸라고 압박할 것으로 보인다. 무역 협상의 다음 전선이 비관세 장벽으로 이동하고 있다.
+<a href="https://www.wsj.com/world/europe/the-eu-is-cutting-tariffs-on-the-u-s-now-comes-the-next-fight-11ccf6ce">[WSJ]</a></blockquote>
 
-<b>17. 독일, 2차대전 이후 최대 군함 프로젝트 취소...Rheinmetall 급락</b>
-<blockquote>독일이 재무장을 가속화하는 과정에서 정교한 사양보다 신속한 인도를 우선시하며 프리깃함 건조 프로젝트를 취소했다. 소식이 전해지자 방산업체 Rheinmetall 주가가 급락했고, 탱크 제조사 KNDS 상장 계획에도 그림자가 드리워졌다.
-<a href="https://www.ft.com/content/dc29d151-20f1-4179-947b-4843f5d5d81b">[FT]</a> <a href="https://www.wsj.com/world/europe/rheinmetall-shares-slump-after-reports-that-germany-is-dropping-frigate-project-bbabccad">[WSJ]</a></blockquote>
+<b>17. 중국 소유 Polestar, 미국 판매 금지...트럼프 중국 소프트웨어 규제</b>
+<blockquote>트럼프 행정부의 중국산 소프트웨어 탑재 차량 금지 규정으로 중국 지리자동차 계열 전기차 브랜드 Polestar가 미국 시장에서 철수했다. 중국 EV 업체들에 대한 규제가 강화되면서 시장 재편이 가속화되고 있다.
+<a href="https://www.wsj.com/business/autos/u-s-bans-polestar-chinese-owned-ev-maker-from-selling-cars-in-the-u-s-c64f0a70">[WSJ]</a></blockquote>
 
-<b>18. NATO 사령관, 이탈리아 이란 전쟁 기지 제공 폭로...Meloni 정부 압박</b>
-<blockquote>NATO 사무총장 Mark Rutte가 이탈리아가 이란 전쟁 작전 'Epic Fury'에서 미군 항공기 500대의 이탈리아 기지 사용을 허용했다고 공개하며 Giorgia Meloni 총리를 압박했다. 이탈리아 내 정치적 논란이 예상된다.
-<a href="https://www.ft.com/content/f5e28723-da78-4822-848b-22d11259a349">[FT]</a></blockquote>
+<b>18. 채권 투자 혁신한 Martin Leibowitz 별세...89세</b>
+<blockquote>Salomon Brothers 채권 연구자로 채권 시장을 수학적으로 재정의한 Martin Leibowitz가 89세로 사망했다. 그가 개발한 공식들은 오늘날까지 금융시장을 움직이는 핵심 도구로 남아있다.
+<a href="https://www.wsj.com/finance/investing/martin-leibowitz-dies-63eda49f">[WSJ]</a></blockquote>
 
-<b>19. 독일 기업신뢰 소폭 상승...이란 긴장 완화 기대</b>
-<blockquote>독일 Ifo 기업신뢰지수가 이란 긴장 완화 기대감에 소폭 상승했다. 다만 이란 전쟁 발발 이후 급락한 수준에서 크게 벗어나지 못하고 있어, 회복에는 시간이 필요할 전망이다.
-<a href="https://www.wsj.com/economy/german-business-confidence-edges-higher-on-hopes-iran-tensions-ease-522fd1b5">[WSJ]</a></blockquote>
+<b>19. EU, Amazon·Microsoft 클라우드에 게이트키퍼 지위 부여...경쟁법 적용</b>
+<blockquote>유럽연합이 Amazon과 Microsoft의 클라우드 서비스를 디지털시장법(DMA) 적용 대상 게이트키퍼로 지정해야 한다고 밝혔다. 두 기업은 경쟁 제한 행위를 막기 위한 추가 규제를 받게 된다.
+<a href="https://www.wsj.com/tech/amazon-microsofts-cloud-services-should-fall-under-dma-eu-says-5c480ab8">[WSJ]</a></blockquote>
 
-<b>20. 중국, 대만 동쪽 외국 선박 통제 주장...미국 '불안정 조성' 비난</b>
-<blockquote>중국 해경이 이달 들어 대만 태평양 쪽 해역에서 외국 선박에 통제 명령을 내리기 시작했다. 미국은 이를 '불안정을 조성하는 행위'로 규정하며 강력히 반발했다. 대만해협 긴장이 새로운 국면에 접어들 조짐이다.
-<a href="https://www.wsj.com/world/asia/chinas-assertions-of-authority-over-foreign-ships-near-taiwan-draw-u-s-rebuke-d0546eb0">[WSJ]</a></blockquote>
+<b>20. 폭스바겐, 중국 EV 압박 속 엔진 사업 매각...Bain에 51% 지분 $8.4B에</b>
+<blockquote>중국 자동차업체들의 공세에 밀린 폭스바겐이 대형 엔진 사업부 Everllence 지분 51%를 Bain Capital에 $84억에 매각한다. 전통 내연기관 사업을 정리하고 전기차 전환에 집중하겠다는 전략이다.
+<a href="https://www.wsj.com/business/deals/volkswagen-to-sell-majority-stake-in-engine-unit-to-bain-capital-ae17cb9f">[WSJ]</a></blockquote>
 
-<b>21. 중국, 희토류 밀수 혐의로 일본인 2명 구금...분쟁 격화</b>
-<blockquote>중국이 희토류 밀수 혐의로 일본 국적자 2명을 구금했다. 베이징이 핵심 광물 수출 위반 제보 핫라인을 개설한 직후 나온 조치로, 중-일 희토류 분쟁이 확대되고 있다.
-<a href="https://www.ft.com/content/8ee73655-7386-4ee9-9b2f-fca3de7fefed">[FT]</a></blockquote>
+<b>21. Ares 프라이빗 크레딧 펀드, 환매 요청 14% 몰려...상환 제한</b>
+<blockquote>Ares Management의 대표 프라이빗 크레딧 펀드에 리테일 투자자들의 환매 요청이 14%에 달하면서 회사가 상환을 제한했다. 프라이빗 크레딧 시장 전반에서 개인 투자자 이탈이 가속화되고 있다.
+<a href="https://www.ft.com/content/c7f1d22f-7ed9-4d7c-bb83-68423ea5fbf2">[FT]</a></blockquote>
 
-<b>22. 우크라이나, 크림반도 드론 공격으로 주요 도시 정전...인프라 타격 강화</b>
-<blockquote>우크라이나가 러시아 점령 크림반도에 드론 공격을 감행해 주요 도시들이 전면 정전 상태에 빠졌다. 키이우는 크림반도 핵심 인프라 타격 작전을 강화하고 있다.
-<a href="https://www.ft.com/content/7107a1c1-8025-4237-947f-40fa39c9d2fe">[FT]</a></blockquote>
-
-<b>23. 미국 5월 신규 주택 판매 58만 호...예상 63.2만 호 하회</b>
-<blockquote>미국 5월 단독주택 신규 판매가 58만 호로 집계돼 4월 62.6만 호에서 감소했다. 시장 예상치 63.2만 호도 밑돌며 주택시장 둔화 신호가 포착됐다.
-<a href="https://www.wsj.com/economy/housing/u-s-new-home-sales-fell-in-may-71fc2176">[WSJ]</a></blockquote>
-
-<b>24. Hertz, 중고차 시장 부진으로 실적 전망 하향</b>
-<blockquote>Hertz Global이 예상보다 부진한 중고차 수요로 2분기 조정 이익이 전망치 하단에 머물 것이라고 밝혔다. 중고차 시장 약세가 렌터카 업계 수익성을 압박하고 있다.
-<a href="https://www.wsj.com/business/autos/hertz-dampens-guidance-amid-struggling-used-car-market-f7af067a">[WSJ]</a></blockquote>
-
-<b>25. 페루 Keiko Fujimori 대선 승리 유력...콜롬비아 우클릭과 남미 보수 회귀</b>
-<blockquote>페루 대선 결선투표에서 독재자의 딸 Keiko Fujimori가 승리할 것으로 예상된다. 패배 후보는 결과에 이의를 제기할 방침이다. 콜롬비아에서도 우파 성향 'El Tigre' Abelardo de la Espriella가 당선되며 남미 정치 지형이 우클릭하고 있다.
-<a href="https://www.ft.com/content/ca4adbca-99f6-410c-837a-03b3c70b11d2">[FT]</a> <a href="https://www.ft.com/content/d4742b43-0bc3-4d01-824f-c6e6760e53f2">[FT]</a></blockquote>
-
-<b>26. 영국 차기 총리 Andy Burnham, 경기 침체와 유권자 분노 직면</b>
-<blockquote>차기 영국 총리로 유력한 Andy Burnham이 당면한 가장 큰 과제는 정체된 경제 성장률을 끌어올리는 것이다. 유권자들의 불만이 높아지는 가운데 경제 정책 성과가 정권 운명을 좌우할 전망이다.
-<a href="https://www.wsj.com/world/uk/the-inbox-for-britains-new-leader-a-sclerotic-economy-and-angry-voters-595cf72f">[WSJ]</a></blockquote>
+<b>22. 헬륨 공급 충격에도 반도체업계 끄떡없어...AI 시스템 생산 차질 없어</b>
+<blockquote>중동 전쟁으로 세계 헬륨 공급의 3분의 1이 차단됐지만, AI 시스템 생산에 필수적인 반도체 산업은 아무런 타격을 받지 않았다. 업계가 미리 확보한 재고와 대체 공급망이 충격을 흡수한 것으로 나타났다.
+<a href="https://www.wsj.com/finance/why-the-middle-east-helium-supply-shock-didnt-hit-chip-makers-471585a0">[WSJ]</a></blockquote>
 
 ━━━━━━━━━━━━━━━━━━━━
 📡 <b>출처: WSJ · FT · The Economist</b>
