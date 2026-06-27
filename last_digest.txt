@@ -4,93 +4,25 @@
 
 ✅ <b>간밤의 주요 헤드라인</b>
 
-<b>1. 미국, 이란 군사시설 타격...호르무즈 해협 드론 공격 보복</b>
-<blockquote>미국이 이란의 컨테이너선 드론 공격에 대응해 이란 군사시설을 타격했다. Washington은 "상업 선박에 대한 부당한 공격은 양국 간 휴전협정 위반"이라고 밝혔다. Trump 대통령은 이란의 공격을 휴전 위반으로 규정하며 강경 대응을 예고했다.
-<a href="https://www.ft.com/content/f9a4ca8d-d29c-4a7d-8791-8999d84317ae">[FT]</a> <a href="https://www.wsj.com/world/middle-east/trump-says-iranian-attack-on-cargo-ship-was-violation-of-ceasefire-deal-884c617c">[WSJ]</a></blockquote>
+<b>1. 미국, 이란에 2일 연속 보복 타격...정전 합의 붕괴 위기</b>
+<blockquote>미국이 이란의 상업 선박 공격에 대응해 이틀째 군사 타격을 감행했다. 이란은 앞서 컨테이너선을 공격해 정전 협정을 위반했으며, 미국 국방부는 바레인 주둔 해군 기지가 입은 피해 규모를 위성 이미지와 SNS 영상을 통해 공개했다. 양측 간 보복 공격이 이어지면서 호르무즈 해협 해운 안보 위협과 원유 공급 차질 우려가 커지고 있다.
+<a href="https://www.ft.com/content/5f4cd16c-fa4a-4806-94ce-84df6f51ecc0">[FT]</a> <a href="https://www.wsj.com/world/middle-east/mideast-fighting-widens-with-attacks-on-bahrain-hormuz-tanker-30a313a8">[WSJ]</a> <a href="https://www.wsj.com/world/middle-east/we-investigated-damage-from-iran-to-a-u-s-naval-base-heres-what-we-found-4a9f13a7">[WSJ]</a> <a href="https://www.ft.com/content/f9a4ca8d-d29c-4a7d-8791-8999d84317ae">[FT]</a></blockquote>
 
-<b>2. 유가 배럴당 70달러 돌파...중동 긴장 재점화에 급등</b>
-<blockquote>미국의 이란 공습 소식에 WTI 유가가 장 마감 직전 배럴당 70달러를 돌파했다. 호르무즈 해협 인근 긴장 고조로 에너지 공급망 리스크가 부각되며 원유 선물 가격이 급등세를 보였다.
-<a href="https://www.wsj.com/finance/commodities-futures/oil-futures-fall-on-likely-technical-correction-93e57fe0">[WSJ]</a></blockquote>
+<b>2. S&P 500·나스닥, 주간 전 거래일 하락...랠리 모멘텀 둔화</b>
+<blockquote>미국 증시가 이번 주 내내 조정 국면에 진입했다. S&P 500과 나스닥 종합지수는 주간 전 거래일 일제히 하락하며 최근 상승 랠리에 제동이 걸렸다. 중동 지정학 리스크 확대와 신규 우려 요인이 투자 심리를 압박하면서 리스크 오프 분위기가 감지된다.
+<a href="https://www.wsj.com/finance/stocks/stock-rally-collides-with-a-new-slate-of-worries-5843a9e0">[WSJ]</a></blockquote>
 
-<b>3. Minneapolis 연은 총재 Kashkari, 연내 금리인상 가능성 시사</b>
-<blockquote>Neel Kashkari Minneapolis 연방준비은행 총재는 인플레이션 리스크가 커지면서 올해 말까지 1회 금리인상을 예상한다고 밝혔다. 유가 급등과 지정학적 불확실성이 물가 상승 압력으로 작용할 수 있다는 우려가 반영됐다.
-<a href="https://www.wsj.com/economy/central-banking/feds-kashkari-says-the-fed-may-have-to-raise-rates-this-year-193116da">[WSJ]</a></blockquote>
+<b>3. 독일 자동차 업계 역사적 구조조정...중국 경쟁에 일자리 대량 감축</b>
+<blockquote>독일 자동차 제조사들이 중국 경쟁사의 시장 점유율 확대에 대응해 대규모 인력 감축에 착수했다. 유럽 최대 경제국인 독일의 핵심 산업 모델이 위협받으면서 역내 산업 경쟁력 약화 우려가 커지고 있다. 이는 유로존 경기 둔화와 유로화 약세 압력으로 이어질 가능성이 있다.
+<a href="https://www.ft.com/content/b68964c9-f3d0-48e8-8873-8f463834936c">[FT]</a></blockquote>
 
-<b>4. Atlanta 연은 총재 선임 지연...백악관 개입 논란</b>
-<blockquote>Atlanta 연방준비은행 총재 선임 과정이 교착 상태에 빠졌다. 초기 후보군에서 적임자를 찾지 못해 선임 절차가 재시작됐으며, 백악관 측 보좌관들이 공식 권한 없는 이 과정에 관심을 보이고 있는 것으로 전해졌다.
-<a href="https://www.wsj.com/economy/central-banking/atlanta-fed-search-for-new-leader-stalls-4f4d810f">[WSJ]</a></blockquote>
+<b>4. 아르헨티나 내각수석 부패 스캔들로 사임...Milei 정부 타격</b>
+<blockquote>아르헨티나의 Javier Milei 자유주의 정부에서 Manuel Adorni 내각수석이 수개월간 이어진 부패 의혹 끝에 사임했다. 재정 개혁을 추진 중인 Milei 정부에 정치적 타격이 가해지면서 신흥국 주권 리스크 모니터링이 필요한 시점이다.
+<a href="https://www.ft.com/content/db091e41-ea8c-4aac-b76c-b303f799d191">[FT]</a></blockquote>
 
-<b>5. Trump, 디지털세 부과국에 100% 보복관세 위협</b>
-<blockquote>Donald Trump 대통령은 디지털서비스세를 도입하는 국가에 100% 관세를 부과하겠다고 경고했다. 이 조치는 기존 무역협정보다 우선 적용될 것이라며, EU의 관세 인하 승인 하루 만에 강경 입장을 재확인했다.
-<a href="https://www.ft.com/content/5d886d47-c509-44a4-9077-bcd25158b61e">[FT]</a> <a href="https://www.wsj.com/politics/policy/trump-threatens-100-tariff-on-european-countries-that-impose-digital-services-tax-b642d12e">[WSJ]</a></blockquote>
-
-<b>6. IMF 수석이코노미스트, 무역전쟁 상호 보복 경고</b>
-<blockquote>IMF를 떠나는 Pierre-Olivier Gourinchas 수석이코노미스트는 "티격태격 무역전쟁은 글로벌 경제를 위협한다"며 소소한 이익을 위한 보복 조치는 자충수가 될 것이라고 경고했다.
-<a href="https://www.ft.com/content/8199cd6d-e513-4c9a-9beb-8a7acd2b65dc">[FT]</a></blockquote>
-
-<b>7. 중국, 외국 제재 보복 법안 준비...무역전쟁 대응 수위 높여</b>
-<blockquote>중국 정부가 외국 제재에 맞서는 새 법안을 준비 중이다. 중국 이익을 해친다고 판단되는 외국 기업과 개인을 처벌할 수 있는 권한을 강화하는 내용이 담길 것으로 알려졌다.
-<a href="https://www.wsj.com/world/china/china-sharpens-tools-for-hitting-back-at-foreign-sanctions-7baa593b">[WSJ]</a></blockquote>
-
-<b>8. S&P 500 지수 5거래일 연속 하락...반도체주 약세 지속</b>
-<blockquote>S&P 500 지수가 5거래일 연속 하락하며 10개월 만에 최장 낙폭을 기록했다. 소프트웨어주 중심 반등 시도가 무위로 돌아갔으며, 반도체 등 기술주 약세가 지수를 끌어내렸다. Nasdaq과 Dow 지수도 각각 0.2%, 0.1% 하락 마감했다.
-<a href="https://www.ft.com/content/bb70e272-5b09-4806-8b19-7c03c350f580">[FT]</a> <a href="https://www.wsj.com/finance/stocks/stock-rally-collides-with-a-new-slate-of-worries-5843a9e0">[WSJ]</a> <a href="https://www.wsj.com/finance/stocks/u-s-stocks-down-as-ai-fears-offset-fuel-price-relief-61c76586">[WSJ]</a></blockquote>
-
-<b>9. OpenAI, GPT-5.6 공개 제한...정부 보안 심사 거쳐</b>
-<blockquote>OpenAI가 사이버 보안 역량을 갖춘 신규 모델 GPT-5.6를 미국 정부 심사를 받은 일부 사용자에게만 제한 공개했다. 회사 측은 백악관의 AI 출시 검토가 상시화돼서는 안 된다는 입장을 함께 밝혔다.
-<a href="https://www.ft.com/content/33a306c2-5aaa-45b1-9386-1716fa6a128e">[FT]</a> <a href="https://www.wsj.com/tech/ai/openai-limits-access-to-new-model-citing-government-security-concerns-66420050">[WSJ]</a></blockquote>
-
-<b>10. SpaceX 채권 매도세...250억 달러 차입 직후 급락</b>
-<blockquote>SpaceX가 250억 달러 규모 채권을 발행한 지 며칠 만에 채권 가격이 급락했다. 수익률이 정크본드 수준으로 상승하며 AI 및 우주항공 부문 투자 심리 악화를 반영했다.
-<a href="https://www.ft.com/content/04f98e21-4ce7-43d2-8651-44557e12c31c">[FT]</a> <a href="https://www.ft.com/content/6a13a108-ef3e-41b5-aaba-7f61eff61ae0">[FT]</a></blockquote>
-
-<b>11. WSJ 달러지수 97.60...주간 0.56% 상승</b>
-<blockquote>WSJ 달러지수가 이틀 연속 소폭 하락했으나 주간 기준으로는 0.56% 상승하며 97.60에 마감했다. 국채 수익률은 주간 기준 하락했으며, 유가 급락이 지정학적 긴장 완화 기대를 반영했으나 이란 공습 소식에 변동성이 커졌다.
-<a href="https://www.wsj.com/articles/asian-currencies-consolidate-may-be-supported-by-diminished-fed-rate-hike-prospects-d4d0cf3b">[WSJ]</a> <a href="https://www.wsj.com/finance/investing/jgbs-edge-lower-on-possible-position-adjustments-828a68bd">[WSJ]</a></blockquote>
-
-<b>12. 금 가격 주간 3.44% 하락...온스당 4078.70달러</b>
-<blockquote>Comex 금 선물 가격이 온스당 4078.70달러에 마감하며 이틀 연속 상승했으나, 주간 기준으로는 3.44% 하락했다. 지정학 리스크 완화 기대와 달러 강세가 금 가격을 압박했다.
-<a href="https://www.wsj.com/finance/commodities-futures/gold-declines-prices-could-have-further-to-fall-d07b83da">[WSJ]</a></blockquote>
-
-<b>13. 미국 6월 소비자신뢰 개선...휘발유 가격 안정 영향</b>
-<blockquote>미시간대 6월 소비자신뢰지수가 최근 최저치 대비 개선됐다. 휘발유 가격 안정세가 소비 심리 회복에 기여한 것으로 분석됐다.
-<a href="https://www.wsj.com/economy/consumers/consumer-sentiment-improves-in-june-as-gasoline-prices-moderate-2e0a3e4b">[WSJ]</a></blockquote>
-
-<b>14. Volkswagen 대규모 구조조정 심화...수천 명 추가 감원 예고</b>
-<blockquote>Volkswagen이 비용 절감 계획을 강화하며 수천 명의 추가 감원이 예상된다. 유럽 자동차 산업의 경기 둔화와 중국 시장 부진이 구조조정 배경으로 지목됐다.
-<a href="https://www.ft.com/content/ccea8285-11f9-45c0-b642-1efe9ef0c1da">[FT]</a> <a href="https://www.wsj.com/business/volkswagen-deepens-cost-cutting-overhaul-a410c6ed">[WSJ]</a></blockquote>
-
-<b>15. 유럽 기록적 폭염, 경제 비용 급증...인프라 취약성 노출</b>
-<blockquote>유럽 전역에 기록적 폭염이 이어지며 학교 휴교, 철도 운행 차질 등이 발생했다. 기후변화 대응 인프라 부족이 경제적 손실을 키우고 있다는 지적이 나온다.
-<a href="https://www.wsj.com/world/europe/europe-isnt-built-for-heatwaves-3b1a8c36">[WSJ]</a> <a href="https://www.ft.com/content/ed26a7f9-0c32-426b-88c6-a46121bef8a4">[FT]</a></blockquote>
-
-<b>16. 독일, EU에 메탄 규제 유예 요청...미국 압박 배경</b>
-<blockquote>독일 에너지부 장관이 EU에 메탄 배출 규제 시행 유예를 요청했다. 미국의 압박을 받은 것으로 알려졌으며, 수입 가스 공급망에 미칠 영향을 우려한 조치로 풀이된다.
-<a href="https://www.ft.com/content/c5c97c40-6afe-4a22-a9b8-aea456b85326">[FT]</a></blockquote>
-
-<b>17. 베네수엘라 연속 지진...사망 920명, 미국 지원 정부 시험대</b>
-<blockquote>베네수엘라에서 발생한 연속 지진으로 최소 920명이 사망했으며, 잔해 수습 작업이 계속되면서 사망자는 더 늘어날 것으로 보인다. Nicolás Maduro 축출 후 미국이 지원하는 취약한 정부의 대응 능력이 시험대에 올랐다.
-<a href="https://www.wsj.com/world/americas/venezuelas-earthquakes-test-trumps-bet-on-delcy-rodriguez-38a21056">[WSJ]</a> <a href="https://www.wsj.com/world/americas/venezuela-earthquakes-caracas-aftershocks-8e8bf961">[WSJ]</a> <a href="https://www.ft.com/content/2cd60e15-2b30-48dd-9af1-faa68e4758c8">[FT]</a></blockquote>
-
-<b>18. 베이징 최고층 건물에 소형 항공기 충돌</b>
-<blockquote>베이징 중심업무지구의 초고층 빌딩 Citic Tower에 프로펠러 소형 항공기가 충돌했다. 출근 시간대 발생한 사고로, 엄격히 통제되는 베이징 상공에서 발생해 주목받고 있다. 중국 당국은 최근 수도 내 드론 비행을 전면 금지한 바 있다.
-<a href="https://www.ft.com/content/133f3e9d-dacc-4e5a-9928-64b28a10a15a">[FT]</a> <a href="https://www.wsj.com/world/china/aircraft-crashes-into-beijings-tallest-building-8773b32a">[WSJ]</a></blockquote>
-
-<b>19. 영국 국방비 최소 10억 파운드 증액...Starmer 유산 다지기</b>
-<blockquote>Keir Starmer 영국 총리가 국방비를 최소 10억 파운드 이상 증액하는 계획을 화요일 공개할 예정이다. 오랜 지연 끝에 발표되는 이번 조치는 총리 재임 기간 유산을 강화하려는 시도로 해석된다.
-<a href="https://www.ft.com/content/ebb3152b-1db3-491b-b85e-b51502b48ab0">[FT]</a></blockquote>
-
-<b>20. JPMorgan CEO 승계 경쟁서 여성 후보 탈락</b>
-<blockquote>JPMorgan의 CEO 승계 경쟁에서 여성 후보들이 모두 탈락했다. 은행은 여전히 여성 임원 승진에서 업계 선두를 유지하고 있지만, 최고경영자 자리 경쟁에서는 여성 후보가 제외됐다.
-<a href="https://www.wsj.com/business/jpmorgan-chase-ceo-search-women-7f593111">[WSJ]</a></blockquote>
-
-<b>21. Leon Black, 의회 소환장 발부...Epstein 관련 증언 거부</b>
-<blockquote>Apollo 공동창업자 Leon Black이 Jeffrey Epstein의 성매매 조직 가담을 부인했으나, 여성들과 체결한 비공개합의(NDA) 논의는 거부했다. 하원 위원회는 이에 소환장을 발부했다.
-<a href="https://www.ft.com/content/1648f372-eb08-4c69-8511-eea08c4dcaf2">[FT]</a> <a href="https://www기.wsj.com/finance/leon-black-jeffrey-epstein-congress-d7fee60c">[WSJ]</a></blockquote>
-
-<b>22. 전 백악관 보좌관 John Bolton, 기밀정보 보유 유죄 인정</b>
-<blockquote>Trump 전 대통령의 국가안보보좌관 출신 John Bolton이 기밀 국방정보 보유 혐의에 대해 유죄를 인정했다. 현재 대통령의 저명한 비판자인 Bolton은 올해 말 선고에서 최대 5년 형을 받을 수 있다.
-<a href="https://www.ft.com/content/c97fd9e9-4b3b-4333-a898-54243ef317d7">[FT]</a> <a href="https://www.wsj.com/us-news/law/john-bolton-pleads-guilty-to-retaining-national-defense-information-27bc7260">[WSJ]</a></blockquote>
+<b>5. 미국 보험 감독기구, 사이버 공격으로 리스크 평가 중단</b>
+<blockquote>미국 보험 규제 당국이 사이버 공격을 받아 보험사의 투자 리스크 등급 산정을 일시 중단했다. 해당 등급은 보험사가 보험계약자 의무 이행을 위해 보유해야 할 자본 규모를 결정하는 핵심 지표로, 금융 인프라 보안 취약성이 드러났다.
+<a href="https://www.ft.com/content/1b397558-117e-463b-914d-9a62e4484605">[FT]</a></blockquote>
 
 ━━━━━━━━━━━━━━━━━━━━
 📡 <b>출처: WSJ · FT · The Economist</b>
