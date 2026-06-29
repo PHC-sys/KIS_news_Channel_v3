@@ -4,33 +4,141 @@
 
 ✅ <b>간밤의 주요 헤드라인</b>
 
-<b>1. 미-이란 휴전 균열·호르무즈 긴장 재점화...에너지 공급망 리스크 급부상</b>
-<blockquote>미국과 이란이 호르무즈 해협 재개방 휴전 합의 직후 상호 군사시설 타격을 재개했다. 이란은 바레인·쿠웨이트 내 미군 시설을 공격했고, 미국도 맞대응에 나섰다. 이란 외무장관은 호르무즈에 대한 단독 통제권을 주장하며 도전 시 추가 무력 행사를 경고했다. 같은 날 사우디 Aramco 헬기가 Ras Tanura 항구에서 추락해 최소 14명이 사망하는 사고가 발생했다.
-<a href="https://www.ft.com/content/5f4cd16c-fa4a-4806-94ce-84df6f51ecc0">[FT]</a> <a href="https://www.wsj.com/world/middle-east/iran-asserts-sole-control-of-hormuz-warns-challenges-will-bring-more-violence-5abea3c7">[WSJ]</a> <a href="https://www.ft.com/content/6be8c3fd-5f1d-4659-afee-43db76a36fd6">[FT]</a></blockquote>
+<b>1. 미·이란, 호르무즈 해협 전투 중단 합의...장기 평화협상 재개 기대</b>
+<blockquote>미국과 이란이 호르무즈 해협에서 수일간 계속된 군사 충돌을 멈추기로 합의했다. 백악관은 Steve Witkoff와 Jared Kushner가 도하로 날아가 '고위급 회담'을 진행할 것이라고 발표했으나, 테헤란은 추가 협상 일정이 확정되지 않았다고 밝혔다. 양측은 장기 평화협정 및 이란 핵 프로그램 제약을 목표로 한다.
+<a href="https://www.wsj.com/world/middle-east/iran-asserts-sole-control-of-hormuz-warns-challenges-will-bring-more-violence-5abaa3c7">[WSJ]</a> <a href="https://www.ft.com/content/a1dc9209-ec77-415c-baae-e3ddab5c0eb1">[FT]</a></blockquote>
 
-<b>2. 메이저 오일사 트레이딩 부문, 에너지 위기 속 초호황</b>
-<blockquote>대형 석유회사들의 비공개 트레이딩 자회사들이 올해 이례적 수익을 기록 중이다. 호르무즈 긴장과 러시아-우크라이나 전쟁으로 인한 에너지 가격 변동성 확대가 수익 기회를 만들어냈다. 이들 트레이딩 부문은 평소 극비로 운영되지만 위기 국면에서 막대한 차익을 실현하는 것으로 알려졌다.
-<a href="https://www.economist.com/business/2026/06/28/big-oils-secretive-trading-arms-are-having-an-extraordinary-year">[Economist]</a></blockquote>
+<b>2. 이란 석유 수입 재개, 서민 경제엔 '빈 메아리'...중동 원유 흐름 여전히 불안</b>
+<blockquote>호르무즈 해협 휴전 합의로 이란의 석유 수출 재개가 가시화됐지만, 유입되는 외화는 일반 국민 경제에 거의 영향을 주지 못할 것으로 보인다. 휴전 협정도 여전히 취약해 원유 공급 불확실성이 지속되고 있다.
+<a href="https://www.wsj.com/world/middle-east/iran-economy-cash-deal-7bff049c">[WSJ]</a></blockquote>
 
-<b>3. Putin, 우크라이나 드론 공격에 연료 부족 공식 인정...크림반도 인프라 마비</b>
-<blockquote>Putin 대통령이 우크라이나의 정유시설 드론 타격으로 러시아 내 연료 생산에 차질이 발생했다고 처음으로 공식 인정했다. 우크라이나군은 크림반도 전력·연료·수자원 인프라를 집중 공격해 일부 지역 전력을 차단하고 물 공급을 차단했으며, 주민들은 암시장에서 휘발유를 구매하고 있다. 우크라이나의 전황 호전은 서방의 對러 제재 강화 가능성을 높이고 있다.
-<a href="https://www.ft.com/content/b6a405a1-876d-4844-8ca9-8bc19b58a2b2">[FT]</a> <a href="https://www.wsj.com/world/europe/russians-feel-the-wars-hardships-as-ukraine-pummels-crimea-b59510f1">[WSJ]</a> <a href="https://www.ft.com/content/b21b4c57-b403-4748-8b4d-945f5efa9863">[FT]</a></blockquote>
+<b>3. 원유 선물, 주말 긴장 완화 후 소폭 상승...공급 차질 우려는 여전</b>
+<blockquote>원유 선물은 월요일 금요일 종가 대비 소폭 반등했다. 미·이란 간 주말 충돌 이후 협상 재개 계획이 알려지면서 긴장이 일부 완화됐지만, 호르무즈 해협 통행 차질 우려는 가격을 지지하고 있다.
+<a href="https://www.wsj.com/finance/commodities-futures/oil-rises-amid-renewed-supply-disruption-concerns-887b1808">[WSJ]</a></blockquote>
 
-<b>4. 항공사, 탄소크레딧 부족에 최대 $127bn 추가 비용 전망</b>
-<blockquote>글로벌 항공사들이 탄소배출권 부족으로 최대 $127bn의 추가 비용을 떠안을 가능성이 제기됐다. MSCI Carbon Markets는 장거리 노선 의존도가 높은 Emirates 등이 최대 피해를 입을 것으로 분석했다. 탄소크레딧 시장 공급 부족이 항공사 수익성과 항공권 가격에 압박 요인으로 작용할 전망이다.
-<a href="https://www.ft.com/content/5d43c484-883b-464f-92c5-6555a9f24f5b">[FT]</a></blockquote>
+<b>4. 금 선물 $4,000 아래로 후퇴...리스크 회피 심리 완화</b>
+<blockquote>금 선물은 이틀 연속 상승세를 끊고 하락했다. 투자자들은 주말 호르무즈 충돌이 진정되면서 안전자산 수요를 줄인 것으로 보인다. 금 가격은 온스당 $4,000선 부근에서 거래되고 있다.
+<a href="https://www.wsj.com/finance/commodities-futures/gold-falls-amid-souring-risk-sentiment-fbd7647f">[WSJ]</a></blockquote>
 
-<b>5. BIS, AI 과열 경고...주식 변동성 vs. 실물경제 생산성 논쟁</b>
-<blockquote>국제결제은행(BIS)이 AI 투자 과열(exuberance)이 글로벌 경제에 위협이 될 수 있다고 경고했다. AI 관련 주식의 높은 변동성이 시장 전체로 확산될 리스크가 제기되는 가운데, FT는 로봇·제조업 현장에 적용되는 AI가 챗봇보다 실질적인 경제 생산성 향상을 가져올 가능성이 크다고 분석했다.
-<a href="https://www.ft.com/content/1efdddb9-e72c-43c4-bbe5-d5e2aba00c1e">[FT]</a> <a href="https://www.ft.com/content/bc8ce24b-b6ed-4e2d-a628-69f30751ce9e">[FT]</a> <a href="https://www.ft.com/content/794aa75d-5188-4036-91ca-7fc70b61faf8">[FT]</a></blockquote>
+<b>5. 미국 주식 반등, Comcast 분할·M&A 활동 증가 배경...기술주 매도세 일단락</b>
+<blockquote>월요일 미국 증시는 지난주 기술주 매도세에서 벗어나 상승했다. Comcast의 NBCUniversal·Sky 분할 발표와 건설자재·위성·통신 분야에서 잇따른 대형 M&A가 시장 심리를 지지했다.
+<a href="https://www.wsj.com/finance/stocks/u-s-stocks-rise-as-comcast-split-deal-activity-lift-sentiment-e69ad9af">[WSJ]</a></blockquote>
 
-<b>6. AI의 고용 영향 전망, 경제학자 간 극명한 시각차</b>
-<blockquote>WSJ는 인공지능이 일자리에 미칠 영향에 대한 경제학자들의 예측이 극단적으로 엇갈린다고 보도했다. 낙관론자와 비관론자가 동일한 데이터를 놓고 정반대 결론을 내리는 이유를 세 명의 경제학자가 각자 입장을 밝혔다. AI 노동시장 충격의 방향과 규모에 대한 불확실성이 정책 대응을 어렵게 만들고 있다.
-<a href="https://www.wsj.com/economy/jobs/ai-jobs-economists-f787105d">[WSJ]</a></blockquote>
+<b>6. 대법원, Trump의 Fed 이사 Lisa Cook 해임 불허...연준 독립성 보호</b>
+<blockquote>미국 연방대법원은 Donald Trump 대통령이 연방준비제도 이사 Lisa Cook을 해임하려던 시도를 막았다. 재판부는 적법절차 원칙에 근거해 판결했으며, 연방준비제도의 독립성 보호 의지도 시사했다. 이번 판결로 Kevin Warsh 연준 의장은 대통령으로부터 더 독립적으로 통화정책을 운영할 수 있게 됐다.
+<a href="https://www.wsj.com/us-news/law/supreme-court-blocks-trumps-fed-firing-but-allows-removals-at-other-agencies-350c8cf4">[WSJ]</a> <a href="https://www.ft.com/content/84db4001-8c8c-4dfa-9c6f-b501c38bc2fb">[FT]</a> <a href="https://www.ft.com/content/4fd60e28-2567-4f4f-a137-4d70d010bc60">[FT]</a> <a href="https://www.ft.com/content/b4c27cf9-f1f6-4709-b2b0-7c6df47531b1">[FT]</a></blockquote>
 
-<b>7. Trump, 농업 보조금 $55bn 추가 요청...재정 개입 지속</b>
-<blockquote>Trump 대통령이 미국 농업 경제 지원을 위해 $55bn 규모의 추가 보조금을 의회에 요청했다. 이는 최근 수년간 이어진 농업 부문 정부 개입의 연장선으로, 무역 갈등과 기후 변동성 속에서 농가 안전망을 확대하려는 시도다. 재정 지출 확대가 인플레이션 압력에 미칠 영향이 주목된다.
-<a href="https://www.wsj.com/politics/policy/a-55-billion-safety-net-government-tab-to-prop-up-american-farms-is-rising-67dc6634">[WSJ]</a></blockquote>
+<b>7. 대법원, Hudson 터널 자금 차단 영구 금지...Trump 행정부 패소</b>
+<blockquote>연방 판사는 교통부가 뉴욕과 뉴저지를 잇는 $16bn 규모 Hudson 터널 프로젝트 예산을 불법적으로 동결했다며, Trump 행정부의 자금 차단을 영구 금지했다.
+<a href="https://www.wsj.com/politics/policy/judge-permanently-blocks-trump-from-withholding-hudson-tunnel-funding-43773351">[WSJ]</a></blockquote>
+
+<b>8. 대법원, 선거일 이후 도착 우편투표 집계 허용...공화당 소송 기각</b>
+<blockquote>연방대법원은 선거일 당일 소인이 찍힌 우편투표를 선거일 이후에 도착해도 집계할 수 있도록 허용했다. 공화당 전국위원회는 일부 주의 우편투표 유예 기간 종료를 요구했으나 기각됐다.
+<a href="https://www.wsj.com/us-news/law/supreme-court-lets-states-count-mailed-ballots-received-after-election-day-45d7849d">[WSJ]</a></blockquote>
+
+<b>9. EU, 중국에 무역적자 감축 10월 기한 통보...압박 수위 높여</b>
+<blockquote>유럽연합 집행위원회 Maroš Šefčovič 위원이 중국 Wang Wentao 상무부장과 회담 후, 대중 무역적자 감축 조치를 10월까지 취하라고 요구했다. EU는 중국과의 무역 불균형 시정에 강도 높은 압박을 가하고 있다.
+<a href="https://www.ft.com/content/75313f1b-10c2-4ec8-9e5b-ae098a5f9677">[FT]</a></blockquote>
+
+<b>10. 중국, de minimis 소액면세 종료 후 관세 우회 전략 가동...배송업체 적응 성공</b>
+<blockquote>Trump 행정부가 중국산 소액 제품 면세 루프홀을 폐쇄한 뒤에도, 중국 전자상거래 플랫폼과 배송업체들은 새로운 우회 전략으로 미국 시장에서 살아남고 있다. 공급망 재편이 진행되고 있지만 중국의 적응력도 높은 것으로 나타났다.
+<a href="https://www.ft.com/content/d0897dfb-c94d-4b62-be82-7ec05a645726">[FT]</a></blockquote>
+
+<b>11. Maersk, 신규 미국 관세 앞두고 실적 가이던스 상향...선적 수요 급증</b>
+<blockquote>해운사 Maersk는 미국 기업들이 새로운 관세 부과를 앞두고 재고를 비축하려는 수요 증가로 수익 전망을 상향 조정했다. 신규 관세 시행 전 선적 물량이 크게 늘고 있다.
+<a href="https://www.ft.com/content/44094a86-b170-448f-8305-55625b16bd29">[FT]</a></blockquote>
+
+<b>12. 프랑스, Shein·Temu 겨냥 '초고속 패션' 규제법 통과...벌금·광고 금지</b>
+<blockquote>프랑스 의회는 대량 저가 제품을 출시하는 기업에 벌금을 부과하고 광고·인플루언서 홍보를 금지하는 법안을 통과시켰다. Shein과 Temu 등 중국 온라인 패션 업체들이 주요 타깃이다.
+<a href="https://www.wsj.com/business/retail/france-passes-new-law-to-fine-shein-temu-and-ultrafast-fashion-b5863958">[WSJ]</a></blockquote>
+
+<b>13. ECB Lagarde "2022~23만큼 강한 긴축 불필요"...추가 소폭 인상 시사</b>
+<blockquote>유럽중앙은행 Christine Lagarde 총재는 물가 상승 압력에 대응하기 위해 과거만큼 강력한 긴축을 펼 필요는 없다고 밝혔다. 이는 ECB가 소폭의 금리 인상을 검토할 수 있음을 시사한다.
+<a href="https://www.ft.com/content/b88c0d88-b4b4-4191-98e4-3edc51a9b41e">[FT]</a></blockquote>
+
+<b>14. 유로존 경제 심리 6월 개선...중동 긴장 완화 효과</b>
+<blockquote>유럽집행위원회가 발표한 6월 유로존 경제 심리 지수는 전월 대비 상승했다. 중동 긴장 완화로 거의 모든 조사 부문에서 신뢰가 개선된 것으로 나타났다.
+<a href="https://www.wsj.com/economy/eurozone-economic-sentiment-inches-higher-after-middle-east-tensions-ease-569a415c">[WSJ]</a></blockquote>
+
+<b>15. 영국 Andy Burnham 차기 총리, 지방분권·공공지출 확대 계획 발표...중앙집권 타파 선언</b>
+<blockquote>영국 차기 총리로 유력한 Andy Burnham이 Westminster 중앙집권 체제를 '재배선'하고 지방에 의사결정권을 대폭 이양하겠다고 밝혔다. 생활비 지원과 공공지출 확대를 약속했지만, 구체적인 성장 로드맵은 제시하지 않았다는 평가도 나온다.
+<a href="https://www.ft.com/content/10b1ec7e-a6f6-484b-81a9-214764797a3c">[FT]</a> <a href="https://www.ft.com/content/467b5332-2840-42eb-8d0b-0aae9c5c1107">[FT]</a> <a href="https://www.ft.com/content/abc26903-8463-42d3-9378-3cacefc30622">[FT]</a> <a href="https://www.ft.com/content/4e749ab7-51e4-4acb-95a0-7e260f463b52">[FT]</a> <a href="https://www.ft.com/content/2136eb2e-1518-467b-8af6-b523c433262e">[FT]</a> <a href="https://www.ft.com/content/8ca4994b-375f-4062-95f1-f57b016eb26d">[FT]</a></blockquote>
+
+<b>16. 영국 Keir Starmer, £5bn 드론 중심 국방계획 공개...군 증액 요구는 계속</b>
+<blockquote>Keir Starmer 영국 총리는 오랫동안 지연돼온 국방 청사진을 공개하며 드론에 £5bn을 투입할 계획이라고 밝혔다. 하지만 군 인사들의 추가 예산 요구를 잠재우지는 못할 것으로 보인다.
+<a href="https://www.ft.com/content/95020bd5-a717-4fcf-97d4-c218e9f4d500">[FT]</a></blockquote>
+
+<b>17. 영국 전공의, 3년 파업 끝에 급여 인상안 수용...평균 6.6% 인상</b>
+<blockquote>영국 전공의들이 2027년 4월까지 평균 6.6% 임금 인상을 받고, 전문의 교육 정원 4,500명이 추가 신설되는 조건의 급여 제안을 받아들였다. 이로써 3년간 이어진 파업이 종료된다.
+<a href="https://www.ft.com/content/a174a9b8-744f-480c-8acf-3cad8cb743e9">[FT]</a></blockquote>
+
+<b>18. Comcast, NBCUniversal·Sky 분할 추진...연결성 사업과 콘텐츠 부문 분리</b>
+<blockquote>Comcast는 NBCUniversal과 Sky를 별도 회사로 분리해, 통신 연결 사업과 영화·테마파크·스트리밍 사업을 독립 운영할 계획이다. 경쟁 심화 속에서 사업 구조조정에 나섰다.
+<a href="https://www.wsj.com/business/media/comcast-nbcuniversal-split-cmcsa-stock-20b8a3d0">[WSJ]</a></blockquote>
+
+<b>19. 위성 TV 제공업체 Dish DBS, 조만간 파산 신청 예정...네트워크 구축 규제 압박</b>
+<blockquote>EchoStar 자회사 Dish DBS가 빠르면 화요일 챕터11 파산보호 신청을 준비하고 있다. 네트워크 구축 의무를 둘러싼 규제 당국의 압박이 배경으로 작용했다.
+<a href="https://www.wsj.com/pro/bankruptcy/echostar-prepares-dish-dbs-bankruptcy-filing-as-soon-as-tuesday-b028dfe6">[WSJ]</a></blockquote>
+
+<b>20. 비트코인 보유 Strategy, $2bn 자사주 매입 발표...비트코인 매각 가능성도 시사</b>
+<blockquote>Strategy는 주가 급락에 대응해 $2bn 규모 자사주 매입 계획을 발표하고, 보유 비트코인을 매각할 수 있는 사유도 공개했다. 이는 과거 '영구 보유' 입장에서 선회한 것이다.
+<a href="https://www.wsj.com/finance/currencies/strategys-turnaround-plan-includes-stock-buyback-bitcoin-sales-and-more-reserves-4c61c8b6">[WSJ]</a> <a href="https://www.ft.com/content/10b75a43-85ee-4bb8-a728-f7ebc8c5d7cb">[FT]</a></blockquote>
+
+<b>21. BAT, 직원 20% 감축...5,500명 정리해고 계획</b>
+<blockquote>담배 제조업체 British American Tobacco는 올해 말까지 약 5,500명을 감축할 계획이다. 이미 약 3,500명을 아웃소싱으로 전환한 데 이은 추가 구조조정이다.
+<a href="https://www.wsj.com/business/bat-to-cut-outsource-nearly-fifth-of-workforce-db729940">[WSJ]</a></blockquote>
+
+<b>22. 건설자재 업체 Carlisle, 경쟁사 Owens Corning에 비공개 인수 제안...반응 미온적</b>
+<blockquote>건설자재 공급업체 Carlisle가 경쟁사 Owens Corning에 비공개 인수 제안을 했으나 현재까지 호응을 얻지 못하고 있다. Carlisle는 다음 행보를 검토 중이다.
+<a href="https://www.wsj.com/business/deals/construction-products-supplier-carlisle-made-unsolicited-offers-for-rival-de34de31">[WSJ]</a></blockquote>
+
+<b>23. Martin Marietta, Lhoist North America $13.5bn 인수...최대 규모 M&A</b>
+<blockquote>건설자재 공급업체 Martin Marietta가 석회석 공급업체 Lhoist North America를 $13.5bn에 인수한다. 이는 Martin Marietta 사상 최대 규모 인수 거래다.
+<a href="https://www.wsj.com/business/deals/martin-marietta-strikes-13-5-billion-deal-for-limestone-supplier-3df35616">[WSJ]</a></blockquote>
+
+<b>24. Rocket Lab, Iridium을 $8bn에 인수...SpaceX 도전 본격화</b>
+<blockquote>Rocket Lab은 위성 운영업체 Iridium을 $8bn에 인수한다. 이번 거래로 Rocket Lab은 위성 통신망과 무선 자원을 확보해 SpaceX와 경쟁할 기반을 마련했다.
+<a href="https://www.wsj.com/business/telecom/rocket-lab-buys-satellite-operator-iridium-in-bid-to-challenge-spacex-d3a35be7">[WSJ]</a></blockquote>
+
+<b>25. Verizon·BT, 해외사업 합작법인 설립...네트워크 인프라 공유</b>
+<blockquote>Verizon과 영국 BT는 해외 사업을 통합한 합작법인을 설립한다고 발표했다. 양사는 규모의 경제와 상호 네트워크 인프라 활용으로 효율을 높일 수 있을 것으로 기대한다.
+<a href="https://www.wsj.com/business/deals/bt-verizon-to-form-international-joint-venture-556f9848">[WSJ]</a></blockquote>
+
+<b>26. Airbus, 유럽투자은행서 €3.4bn 대출 확보...EU 기술 주권 강화</b>
+<blockquote>Airbus는 유럽투자은행(EIB)으로부터 €3.4bn 대출을 받는다. 자금은 상용 항공·안보·국방 분야 투자에 쓰이며, 프랑스·독일·스페인 프로젝트가 포함된다. EU의 기술 주권 확보 노력의 일환이다.
+<a href="https://www.wsj.com/world/europe/airbus-to-get-3-42-billion-loan-from-european-investment-bank-in-tech-sovereignty-push-a686b9ed">[WSJ]</a></blockquote>
+
+<b>27. 에티오피아, $1bn 채권 원리금 감축 합의...공적채권 $8bn 탕감 이어</b>
+<blockquote>에티오피아가 민간 채권 보유자들과 $1bn 규모 채권의 원리금 감축 합의에 도달했다. 최근 수년간 공적 채권자로부터 $8bn 규모의 채무 탕감을 받은 데 이은 후속 조치다.
+<a href="https://www.ft.com/content/90770782-517e-4b23-aaae-4b5a20720878">[FT]</a></blockquote>
+
+<b>28. 헝가리 신임 총리, Orbán 정부 재정적자 은폐 폭로...2026년 적자 GDP 8%</b>
+<blockquote>헝가리 신임 총리 Péter Magyar는 전임 Viktor Orbán 정부가 2026년 재정적자를 GDP의 절반 수준으로 축소 보고했다고 폭로했다. 실제 적자는 GDP 8%에 달하는 것으로 나타났다.
+<a href="https://www.ft.com/content/532705eb-c723-4e98-bf24-f5b60688ff3b">[FT]</a></blockquote>
+
+<b>29. 터키 경제, 이란 전쟁 반사이익 기대...전쟁 확산 리스크와 양면</b>
+<blockquote>터키는 이란 전쟁의 경제적 파급효과를 활용할 계획이다. 물류·에너지 허브로서 수혜가 예상되지만, 갈등 확산 시 부정적 영향도 동시에 우려된다.
+<a href="https://www.economist.com/finance-and-economics/2026/06/29/turkeys-economic-plan-to-win-from-the-iran-war">[Economist]</a></blockquote>
+
+<b>30. 미국, 발칸 LNG 정책 가속...그린 EU 제치고 가스 주도권 확보</b>
+<blockquote>미국은 크로아티아 Krk 터미널을 활용해 발칸 지역 가스 공급을 주도하고 있다. 환경 우선 정책을 펼치는 EU를 제치고 에너지 지정학적 영향력을 확대하는 전략이다.
+<a href="https://www.economist.com/europe/2026/06/29/americas-balkan-policy-is-all-about-gas">[Economist]</a></blockquote>
+
+<b>31. 레바논·이스라엘 휴전 협정에 내부 반발...Hezbollah·동맹 세력 거부</b>
+<blockquote>미국이 중재한 레바논·이스라엘 휴전 협정에 대해 Hezbollah와 동맹 세력이 준수를 거부하고 있다. 이스라엘군이 여전히 영토를 점령하고 있는 상황이다.
+<a href="https://www.ft.com/content/5e138e21-9e72-4e3d-b240-c5c3c39355da">[FT]</a></blockquote>
+
+<b>32. 일본, 외국인 투자 개혁 후퇴 우려...프라이빗에쿼티 "경제 민족주의로 회귀"</b>
+<blockquote>해외 투자자들은 일본이 외국인 투자 개방 정책에서 후퇴하고 있다고 우려한다. 한 사모펀드 임원은 "경제 민족주의 쪽으로 추가 흔들리고 있다"고 지적했다.
+<a href="https://www.ft.com/content/18782c9a-27fb-4dc4-a044-f1bc38d9d494">[FT]</a></blockquote>
+
+<b>33. Supermicro 대만 사무소 압수수색...반도체 밀수 혐의 조사</b>
+<blockquote>서버 제조업체 Supermicro의 대만 사무소가 반도체 밀수 혐의로 압수수색을 받았다. 소식이 전해진 뒤 Supermicro 주가는 약 8% 하락했다.
+<a href="https://www.ft.com/content/a033c2fb-6c0b-4d25-9795-a04b95964e23">[FT]</a></blockquote>
+
+<b>34. AI 데이터센터 전력 경쟁, 철강업계 타격 우려...공급망 재편 압박</b>
+<blockquote>AI 데이터센터가 전력망 용량을 대거 점유하면서 철강업계가 전기 공급 부족을 우려하고 있다. 철강업체들은 AI가 자신들의 최대 고객이었지만 이제 전력 경쟁자가 됐다고 경고했다.
+<a href="https://www.wsj.com/business/energy-oil/ai-data-centers-power-competition-steel-48a17dbd">[WSJ]</a></blockquote>
 
 ━━━━━━━━━━━━━━━━━━━━
 📡 <b>출처: WSJ · FT · The Economist</b>
