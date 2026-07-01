@@ -1,148 +1,136 @@
-🌙 **간밤의 글로벌 마켓 뉴스**
+🌙 <b>간밤의 글로벌 마켓 뉴스</b>
 [{DATE} | WSJ · FT · Economist ]
 ━━━━━━━━━━━━━━━━━━━━
 
-✅ **간밤의 주요 헤드라인**
+✅ <b>간밤의 주요 헤드라인</b>
 
-**1. 엔화 40년래 최저치 경신...당국 개입 경계감 고조**
-<blockquote>엔화가 대달러 환율 40년래 최저 수준으로 하락하면서 일본 당국의 외환시장 개입 가능성이 높아지고 있다. 관광객들은 환영하지만 엔 매수 개입을 둘러싼 트레이더들의 경계감이 커지는 모습이다.
-<a href="https://www.wsj.com/finance/currencies/japanese-yen-falls-to-40-year-low-pleasing-tourists-but-worrying-tokyo-3903f1e5">[WSJ]</a></blockquote>
+<b>1. Kevin Warsh 연준 의장, 7월 금리인상 논쟁 예고...독립성 강조도 시장 긴장</b>
+<blockquote>Warsh 의장은 7월 FOMC를 "good family fight"이라 표현하며 금리인상 여부에 대한 명확한 입장을 밝히지 않았다. 다만 가격 안정이 연준의 최우선 과제이며 백악관 압박과 무관하게 독립성을 유지하겠다고 강조했다. 시장은 매파적 전환 가능성에 주목하고 있다.
+<a href="https://www.wsj.com/economy/central-banking/interest-rates-kevin-warsh-de137876">[WSJ]</a> <a href="https://www.ft.com/content/e6b33b7c-c730-4818-b132-fc5f52845065">[FT]</a></blockquote>
 
-**2. 美 주식시장 6년래 최강 분기 마감...엔 약세 속 동반 상승**
-<blockquote>S&P 500과 나스닥이 각각 15%, 21% 상승하며 6년래 최고 분기 실적을 기록했다. 엔화가 급락하는 가운데 美 주식이 동반 강세를 보이며 글로벌 자산시장의 유동성 불균형이 부각됐다.
-<a href="https://www.wsj.com/finance/stocks/stocks-rise-the-yen-slides-b0c3b1f0">[WSJ]</a></blockquote>
+<b>2. 미 국채 수익률 상승세...고용지표 앞두고 금리인상 베팅 확대</b>
+<blockquote>국채 시장에서 매도세가 나타나며 수익률이 상승했다. 투자자들은 목요일 발표될 고용지표를 앞두고 Warsh 의장의 발언과 경제지표를 분석하며 금리 경로를 가늠하고 있다. 채권 약세는 달러 강세 압력으로 이어질 전망이다.
+<a href="https://www.wsj.com/finance/investing/jgbs-fall-tracking-declines-in-u-s-treasurys-ff5b8ed9">[WSJ]</a></blockquote>
 
-**3. S&P·나스닥 2분기 실적 총정리...2020년 이후 최강**
-<blockquote>다우는 사상 최고치로 6월을 마감했고, S&P 500과 나스닥 종합지수는 2분기 각각 15%와 21% 상승을 기록했다. 이란 전쟁 여파, 반도체주 변동성, SpaceX IPO를 헤쳐 나가며 투자자들은 2020년 이후 최고 분기 수익률을 거뒀다.
-<a href="https://www.wsj.com/finance/stocks/wall-streets-best-quarter-in-six-years-will-be-a-hard-act-to-follow-6dc641d4">[WSJ]</a></blockquote>
+<b>3. ISM 제조업지수 53.3 기록...전월比 0.7%p 하락에도 확장 지속</b>
+<blockquote>6월 미국 공급관리자협회(ISM) 제조업 구매관리자지수(PMI)는 53.3을 기록해 5월 대비 0.7%p 하락했다. 다만 50 이상을 유지하며 제조업 활동이 계속 확장되고 있음을 보여줬다. 인플레이션 압력과 고용 둔화 사이에서 연준의 고민이 깊어지고 있다.
+<a href="https://www.wsj.com/economy/central-banking/u-s-factory-activity-continued-to-expand-in-june-000fe152">[WSJ]</a></blockquote>
 
-**4. Kevin Warsh 침묵 전략, 시장 청취는 강화...금리 경로 불확실성 키워**
-<blockquote>Kevin Warsh 연준 의장이 소통 축소를 추진하면서 오히려 투자자들이 Fed 발언과 경제 지표를 더욱 예민하게 파악하려는 움직임이 나타났다. 시장이 경제 데이터에 독자적으로 반응하도록 유도하려는 의도지만, 불확실성은 커지는 중이다.
-<a href="https://www.wsj.com/finance/investing/kevin-warsh-federal-reserve-markets-90b83b23">[WSJ]</a></blockquote>
+<b>4. ADP 민간고용 9만8000명 증가...예상 하회하며 노동시장 냉각 신호</b>
+<blockquote>6월 민간 부문 고용은 9만8000명 증가에 그쳐 5월 12만2000명보다 둔화됐다. 시장 예상치도 소폭 밑돌며 노동시장이 점진적으로 냉각되고 있음을 시사했다. 목요일 발표될 정부 고용지표가 연준 정책 방향을 가늠하는 중요한 잣대가 될 전망이다.
+<a href="https://www.wsj.com/economy/jobs/private-sector-hiring-grew-slightly-below-expectations-last-month-adp-report-8b8f5708">[WSJ]</a></blockquote>
 
-**5. 美 5월 구인·채용 안정 유지...JOLTS 760만 건**
-<blockquote>5월 미국 구인 건수는 760만 건으로 전월과 동일했고, 채용률은 3.3%를 유지하며 약 520만 명이 새 일자리를 얻었다. 노동시장이 견조한 흐름을 이어가고 있다는 신호다.
-<a href="https://www.wsj.com/economy/jobs/u-s-job-openings-and-hires-remained-stable-in-may-70674c10">[WSJ]</a></blockquote>
+<b>5. 유로존 인플레이션 2.8%로 하락...ECB 목표치는 여전히 상회</b>
+<blockquote>6월 유로존 소비자물가 상승률은 2.8%를 기록하며 예상보다 큰 폭으로 하락했다. 다만 유럽중앙은행(ECB) 목표치 2%를 4개월 연속 웃돌며 통화정책 정상화에 신중론이 제기되고 있다. 에너지 가격 변동성이 인플레 경로의 주요 변수로 남아 있다.
+<a href="https://www.ft.com/content/c4408588-ca9c-4c9f-b058-c8e2d0cc39e5">[FT]</a></blockquote>
 
-**6. 美 6월 소비자신뢰 91.2로 예상 하회...기대 지표 부진**
-<blockquote>컨퍼런스보드가 발표한 6월 소비자신뢰지수는 91.2로 전월 90.6에서 소폭 상승했지만, 시장 예상치 94.2를 밑돌았다. 소비 심리 회복세가 기대보다 더딘 모습이다.
-<a href="https://www.wsj.com/economy/central-banking/u-s-consumer-sentiment-climbed-in-june-conference-board-says-fbced3fb">[WSJ]</a></blockquote>
+<b>6. 미국, USMCA 갱신 거부...북미 무역협정 매년 재검토 체제로 전환</b>
+<blockquote>미국은 캐나다·멕시코와의 자유무역협정(USMCA) 연장 기한 내 갱신을 거부하고 매년 재검토하는 방식을 택했다. 이는 북미 무역 불확실성을 크게 높이며 트럼프 행정부의 보호무역주의 기조를 재확인시켰다. 캐나다·멕시코 통화와 자산시장 변동성 확대가 우려된다.
+<a href="https://www.wsj.com/world/americas/u-s-plunges-trade-pact-with-canada-and-mexico-into-doubt-4ee87167">[WSJ]</a> <a href="https://www.ft.com/content/2c7b4dc8-1b1c-49f4-b51a-0dee0c1d216a">[FT]</a></blockquote>
 
-**7. 美 4월 주택가격 0.8% 상승...인플레 압력 잔존 신호**
-<blockquote>S&P CoreLogic Case-Shiller 전국 주택가격지수가 4월 기준 전년 대비 0.8% 상승했다. 상승폭은 크지 않지만 주택 구매 여력 제약이 여전히 시장을 누르는 가운데 가격 압력이 남아 있는 것으로 나타났다.
-<a href="https://www.wsj.com/economy/housing/u-s-home-price-growth-edged-up-in-april-1129a2a0">[WSJ]</a></blockquote>
-
-**8. 캐나다 4월 GDP 0.5% 성장...북미 경제 안정 지속**
-<blockquote>캐나다 경제가 혹독한 겨울을 지나 4월 0.5% 성장하며 9개월래 최고 증가율을 기록했다. 봄 들어 경기가 탄력을 되찾으며 북미 전반의 성장 안정성을 뒷받침하고 있다.
-<a href="https://www.wsj.com/economy/central-banking/canadas-economy-ticks-along-after-gdp-grows-in-april-ca9bdd3a">[WSJ]</a></blockquote>
-
-**9. Witkoff·Kushner 도하 도착...美-이란 협상 본격화**
-<blockquote>Steve Witkoff 특사와 Jared Kushner가 도하에 도착하며 美-이란 협상이 본격화됐다. 다만 카타르는 미국 대표단이 이란 관리들과 직접 만날 계획은 없다고 밝혔다.
-<a href="https://www.ft.com/content/f35be117-8a25-4a22-871d-0e29cafc8494">[FT]</a></blockquote>
-
-**10. 이란 내부 분열 심화...강경파·온건파 우선순위 충돌로 협상 불투명**
-<blockquote>이란 온건파는 카타르에 동결된 수십억 달러 자금 확보에 집중하는 반면, 혁명수비대 강경파는 호르무즈 해협 통제권 확보를 우선시하며 내부 갈등이 커지고 있다. 美 평화 협상이 위태로운 상황이다.
-<a href="https://www.wsj.com/world/middle-east/irans-diverging-priorities-are-jeopardizing-u-s-peace-talks-a1aca6ad">[WSJ]</a></blockquote>
-
-**11. 유가 2분기 2020년 이후 최대 낙폭...호르무즈 재개방 안도감**
-<blockquote>호르무즈 해협 재개방 소식에 유가 선물이 2분기 2020년 이후 최대 분기 하락을 기록했다. 美-이란 간 긴장 완화 기대가 시장을 압도하며 마감 시점까지 낙폭을 키웠다.
-<a href="https://www.wsj.com/finance/commodities-futures/oil-falls-on-possible-position-adjustments-before-expected-u-s-iran-talks-f5581ebd">[WSJ]</a></blockquote>
-
-**12. 금 2분기 10년래 최악 실적...전쟁 프리미엄 증발**
-<blockquote>금값이 2분기 10년 넘게 볼 수 없던 최악의 분기 실적을 기록했다. 이란 전쟁에 따른 금리 상승 기대와 안전자산 수요 감소가 소매 투자 열풍을 꺾으며 금 랠리를 종료시켰다.
-<a href="https://www.ft.com/content/ca75b117-f085-45be-95c1-7397d3b0797a">[FT]</a></blockquote>
-
-**13. Eni-Mercuria, 에너지 상품 거래 파트너십 체결...초대형 이익 겨냥**
-<blockquote>이탈리아 석유 메이저 Eni가 스위스 트레이딩 하우스 Mercuria와 에너지 원자재 거래 파트너십을 맺었다. 일부 경쟁사들이 올린 대규모 수익을 겨냥한 전략적 제휴다.
-<a href="https://www.ft.com/content/024da39b-0e43-486a-95ec-d1fac32359c1">[FT]</a></blockquote>
-
-**14. 대법원, Trump 출생시민권 폐지 기각...이민 정책 핵심 좌절**
-<blockquote>미국 대법원이 Donald Trump 대통령의 출생시민권 폐지 행정명령을 기각하며 이민 정책 핵심 공약에 제동을 걸었다. Trump 정부 이민 어젠다에 큰 타격이다.
-<a href="https://www.ft.com/content/8ee00f84-762c-48a5-ac21-774e216977fa">[FT]</a></blockquote>
-
-**15. 대법원, 정당 선거자금 지출 제한 위헌 판결...정치 자금 규제 완화**
-<blockquote>대법원이 정당이 후보와 협조해 쓸 수 있는 선거자금 규모 제한을 위헌으로 판단했다. 정치 자금 흐름에 큰 변화가 예고된다.
-<a href="https://www.wsj.com/us-news/law/supreme-court-strikes-down-key-limit-on-campaign-spending-by-political-parties-1c76fefc">[WSJ]</a></blockquote>
-
-**16. 대법원, 트랜스젠더 선수 주 규제 합헌 판결...27개주 금지 유지**
-<blockquote>대법원이 트랜스젠더 여성·여아의 여성 스포츠팀 참가를 금지하는 주 법률을 합헌으로 판단하며 27개 주에서 금지가 유지된다.
-<a href="https://www.wsj.com/us-news/law/supreme-court-upholds-state-restrictions-on-transgender-athletes-c2ada7b0">[WSJ]</a></blockquote>
-
-**17. 세계은행, 중국 대출 단계적 중단 결정...Trump 행정부 압박 결실**
-<blockquote>세계은행이 중국에 대한 대출을 단계적으로 중단하기로 결정했다. Trump 행정부가 수년간 압박해온 정책이 결실을 맺었다.
+<b>7. 세계은행, 중국 대출 단계적 중단...트럼프 압박에 굴복</b>
+<blockquote>세계은행은 중국에 대한 대출을 단계적으로 중단하기로 결정했다. 트럼프 행정부가 수년간 압박해온 사안으로, 글로벌 개발금융 구도에서 중국의 입지가 약화될 전망이다. 중국은 자체 개발금융 채널 확대로 대응할 것으로 보인다.
 <a href="https://www.ft.com/content/32b664e1-d2d2-4292-b0b3-0056808acf26">[FT]</a></blockquote>
 
-**18. 英, 국방비 £15bn(약 £20bn) 증액...Starmer, 위협 고조 대응**
-<blockquote>영국 정부가 군 예산을 약 £15bn(미화 약 $20bn) 증액하기로 했다. Keir Starmer 총리는 더욱 위험하고 변동성 큰 세계에 대응하기 위한 조치라고 밝혔다.
-<a href="https://www.wsj.com/world/uk/u-k-pledges-nearly-20-billion-extra-for-armed-forces-69929488">[WSJ]</a></blockquote>
+<b>8. Michael Burry, AI 관련 대규모 숏 포지션 공개..."beginning of the end" 경고</b>
+<blockquote>'빅 쇼트'의 주인공 Burry는 Tesla·Caterpillar·Applied Materials와 반도체 ETF에 대한 대규모 숏 포지션을 공시하며 AI 버블의 "시작의 끝"이라고 경고했다. 주요 경제학자들도 AI 투자 과열이 붕괴할 경우 글로벌 경제에 미칠 파장을 우려하고 있다.
+<a href="https://www.wsj.com/finance/stocks/michael-burry-cites-beginning-of-the-end-with-new-ai-short-bets-50793c12">[WSJ]</a></blockquote>
 
-**19. 英 Burnham 차기 총리, £4.7bn 예산 문제 떠안아...단기 재정 압박**
-<blockquote>Starmer가 £15bn 국방 증액안을 발표했지만, 차기 총리로 유력한 Andy Burnham이 £4.7bn 규모의 예산 공백 문제를 떠안게 됐다. 단기 재정 논쟁이 이어질 전망이다.
-<a href="https://www.ft.com/content/de59198a-767c-436c-a5af-48c3b3c0c1ec">[FT]</a></blockquote>
+<b>9. 세계 최고 경제학자들, AI 버블 경고 목소리 높여</b>
+<blockquote>노벨상 수상자를 포함한 주요 경제학자들이 AI 붐이 거품으로 끝날 경우 글로벌 금융시장과 실물경제에 미칠 충격을 경고하고 나섰다. 과도한 밸류에이션과 수익성 불확실성이 주요 우려 요인으로 지목됐다. 나스닥 약세 압력이 커질 수 있다는 분석이다.
+<a href="https://www.wsj.com/tech/ai/the-worlds-top-economists-are-sounding-the-alarm-on-ai-d99055b6">[WSJ]</a></blockquote>
 
-**20. NATO 사무총장 "유럽 재무장이 美 방산 일자리 19.5만 개 지탱"...FT 인터뷰**
-<blockquote>Mark Rutte NATO 사무총장이 FT 인터뷰에서 유럽의 재무장 드라이브가 미국 내 19만5천 개 방산 일자리를 떠받치고 있다고 강조하며, Donald Trump에게 동맹 유지의 경제적 이점을 어필했다.
-<a href="https://www.ft.com/content/b0e09632-81b9-43ee-881e-f14712c5d7b6">[FT]</a></blockquote>
+<b>10. SpaceX, 투자자에 Elon Musk의 새 AI 디바이스 프로토타입 공개</b>
+<blockquote>SpaceX는 투자자들에게 xAI 기술을 통합한 핸드셋형 AI 디바이스 프로토타입을 선보였다. Elon Musk의 AI 사업 확장 의지를 보여주는 행보로, 빅테크와 스타트업 간 AI 하드웨어 경쟁이 가속화될 전망이다.
+<a href="https://www.wsj.com/tech/ai/spacex-showed-investors-prototype-of-elon-musks-new-ai-device-b445c57b">[WSJ]</a></blockquote>
 
-**21. 사우디 PIF 수익률 부진...이란 전쟁 전 경제 난제 가중**
-<blockquote>사우디아라비아 국부펀드 PIF가 수익성 있는 투자처를 찾지 못하며 고전하고 있다. 이란 전쟁 이전부터 누적돼 온 사우디 경제 문제가 더욱 심화되는 모습이다.
-<a href="https://www.wsj.com/world/middle-east/saudi-sovereign-wealth-fund-struggles-to-find-winning-investments-de6d6cee">[WSJ]</a></blockquote>
+<b>11. 미 증시 혼조 마감...금융株 강세에도 기술주 약세로 나스닥 하락</b>
+<blockquote>S&P 500 지수는 0.2% 하락 마감했다. 금융주와 임의소비재주가 강세를 보였으나 기술주 약세가 이를 상쇄했다. 금리인상 기대감이 은행주에는 호재, 고밸류에이션 기술주에는 악재로 작용하며 섹터 간 뚜렷한 명암이 갈렸다.
+<a href="https://www.wsj.com/finance/stocks/bank-stocks-rally-chips-pull-back-in-mixed-day-of-trading-34a1548a">[WSJ]</a> <a href="https://www.wsj.com/finance/stocks/u-s-stocks-edge-lower-as-warsh-dodges-questions-on-rates-026f6f58">[WSJ]</a></blockquote>
 
-**22. Alcoa, South32 자산 $4.8bn 인수...알루미나·보크사이트 확장**
-<blockquote>미국 알루미늄 그룹 Alcoa가 South32의 알루미나 및 보크사이트 자산을 $4.8bn에 인수한다. 중동 분쟁으로 알루미늄 가격이 상승하는 가운데 사업 확장에 나섰다.
-<a href="https://www.ft.com/content/2ea39c2c-7b8e-4ce5-8d98-1c8c1050105c">[FT]</a></blockquote>
+<b>12. 금·은 선물 상승세...3분기 긍정적 출발</b>
+<blockquote>금과 은 선물이 7월 들어 이틀 연속 상승하며 3분기를 긍정적으로 시작했다. 지정학 리스크와 금리 불확실성 속에 안전자산 수요가 유입된 것으로 분석된다. 달러 강세 압력에도 불구하고 매수세가 지속되고 있다.
+<a href="https://www.wsj.com/finance/commodities-futures/gold-holds-steady-in-bearish-consolidation-zone-97e170d4">[WSJ]</a></blockquote>
 
-**23. 美 쇠고기 가격 사상 최고...가뭄·해충에 여름 성수기 압박**
-<blockquote>7월 4일 독립기념일을 앞두고 미국 쇠고기 가격이 사상 최고치를 기록했다. 가뭄과 침입 해충 재확산으로 소 사육 두수가 늘지 못하며 여름 성수기 소비자들을 압박하고 있다.
-<a href="https://www.wsj.com/economy/consumers/grilling-burgers-on-the-4th-get-ready-to-pay-up-8d78dded">[WSJ]</a></blockquote>
+<b>13. 미국 원유 재고 380만배럴 감소...계절 평균比 7% 낮아</b>
+<blockquote>6월 26일 종료 주간 전략비축유(SPR) 제외 상업용 원유 재고는 380만배럴 감소한 4억840만배럴을 기록했다. 이는 5년 평균 대비 약 7% 낮은 수준이다. 여름 성수기를 앞두고 공급 압박이 커지며 유가 상승 압력이 예상된다.
+<a href="https://www.wsj.com/business/energy-oil/u-s-crude-oil-inventories-extend-decline-4fa9cfb8">[WSJ]</a></blockquote>
 
-**24. 美 계란 생산자 3년간 가격 담합...당국 조사에 5,000만 개 기부 합의**
-<blockquote>미국 반독점 당국이 계란 생산자들이 3년간 담합해 벤치마크 가격을 조작했다고 발표했다. 생산자들은 조사 종결을 위해 5,000만 개 이상의 계란 기부에 합의했다.
-<a href="https://www.wsj.com/business/egg-producers-manipulated-market-keeping-prices-high-say-antitrust-authorities-f7ff50df">[WSJ]</a></blockquote>
+<b>14. M&A 거래액 상반기 2.8조 달러 기록...대형 딜 주도</b>
+<blockquote>2026년 상반기 글로벌 M&A 거래액이 2조8000억 달러로 사상 최고치를 기록했다. AI 기술 변화에 적응하려는 기업들의 대형 인수합병이 주도했다. 리스크 자산 심리 개선과 금융시장 유동성이 딜 붐을 뒷받침했다.
+<a href="https://www.ft.com/content/000d10d6-cdfb-4110-9c6b-a5cd133b7a0f">[FT]</a></blockquote>
 
-**25. Constellation Brands, 유가·불확실성에 주류 판매 타격**
-<blockquote>Constellation Brands가 최근 분기 초 호조를 보였던 주류 음료 판매가 유가 상승과 경제 불확실성으로 위축됐다고 밝혔다.
-<a href="https://www.wsj.com/business/earnings/constellation-brands-reports-lower-first-quarter-revenue-citing-softening-consumer-trends-0aabcc40">[WSJ]</a></blockquote>
+<b>15. AOL 소유 Bending Spoons, 나스닥 상장 첫날 40% 급등</b>
+<blockquote>AOL·Eventbrite·Vimeo 등을 보유한 이탈리아 소프트웨어 그룹 Bending Spoons가 나스닥 상장 첫날 40% 급등했다. 16억8000만 달러를 조달한 이번 IPO는 유럽 최대 규모 기술주 공모 중 하나로, IPO 시장 회복세를 상징한다.
+<a href="https://www.ft.com/content/aebe2dbb-6d8b-4b3d-82c8-e64aebd4ef70">[FT]</a> <a href="https://www.wsj.com/finance/stocks/aol-owner-to-go-public-at-over-18-billion-valuation-d00f302c">[WSJ]</a></blockquote>
 
-**26. Dish DBS, $9bn 부채에 파산신청...AT&T 거래 불발 후폭풍**
-<blockquote>위성TV 제공업체 Dish DBS가 AT&T와의 $20bn 스펙트럼 거래가 차질을 빚자 파산을 신청했다. EchoStar 산하 자회사는 거래가 마무리되면 부채를 상환하겠다고 밝혔다.
-<a href="https://www.wsj.com/pro/bankruptcy/satellite-tv-provider-dish-dbs-files-for-bankruptcy-following-at-t-deal-snag-c2b58620">[WSJ]</a></blockquote>
+<b>16. Lime, 1억6700만 달러 IPO로 주가 상승 출발</b>
+<blockquote>Uber가 지분을 보유한 전동킥보드 업체 Lime이 주당 25달러에 공모된 뒤 상승세를 보이며 거래를 시작했다. Goldman Sachs·JPMorgan·Jefferies가 주관한 이번 IPO는 모빌리티 섹터의 회복세를 반영한다.
+<a href="https://www.ft.com/content/5d9eee57-f08c-4b28-a9d5-57578fbc1f8f">[FT]</a></blockquote>
 
-**27. FDA, Zyn '담배보다 안전' 마케팅 승인...Philip Morris 니코틴 파우치 수혜**
-<blockquote>미국 FDA가 Philip Morris International의 니코틴 파우치 Zyn을 담배보다 덜 유해한 제품으로 마케팅할 수 있도록 승인했다. 담배 대체 시장에서 큰 수혜가 예상된다.
-<a href="https://www.wsj.com/health/healthcare/zyn-can-be-marketed-as-safe-alternative-to-cigarettes-fda-says-f22dfb34">[WSJ]</a></blockquote>
+<b>17. KNDS, 120억 유로 밸류에이션에 투자자 외면...IPO 연기</b>
+<blockquote>프랑스·독일 합작 방산업체 KNDS가 120억 유로 이상의 기업가치 평가에 투자자들이 반발하자 IPO를 연기했다. "보다 유리한" 시장 여건을 기다리겠다는 입장이다. 유럽 방산 섹터의 밸류에이션 논란이 부각됐다.
+<a href="https://www.ft.com/content/5ed2a5a2-7c56-4961-83c9-fff48aa82194">[FT]</a></blockquote>
 
-**28. BP 부CEO 연말 퇴임...새 CEO 핵심 참모 잃어 경영 혼란**
-<blockquote>BP의 부CEO Carol Howle이 연말 퇴임할 예정이다. 신임 CEO Meg O'Neill이 핵심 측근을 잃으며 경영 혼란이 겹친 에너지 메이저의 불확실성이 커지고 있다.
-<a href="https://www.wsj.com/business/energy-oil/bps-deputy-ceo-to-retire-later-in-the-year-73a8951c">[WSJ]</a></blockquote>
+<b>18. Millennium·Point72 헤지펀드, 이란 전쟁 이후 반등...상반기 두 자릿수 수익</b>
+<blockquote>Izzy Englander의 Millennium과 Steve Cohen의 Point72가 상반기 두 자릿수 수익률을 기록하며 이란 전쟁 충격에서 회복했다. 변동성 장세에서 멀티전략 헤지펀드의 강점이 부각됐다는 평가다.
+<a href="https://www.ft.com/content/c223f704-57c7-4962-9b4e-a30496aee6fa">[FT]</a></blockquote>
 
-**29. 中 중개사 단속 내부거래 의혹 $100m...Futu·Tiger 공매도 사전 포착**
-<blockquote>트레이딩 회사 Susquehanna가 중국 당국의 Futu·Tiger Brokers 단속 직전 공매도로 $100m 수익을 낸 내부자를 색출하는 소송을 제기했다.
-<a href="https://www.wsj.com/finance/stocks/insiders-made-100-million-on-china-brokerage-crackdown-trading-firm-alleges-b3f5b957">[WSJ]</a></blockquote>
+<b>19. Trump 대통령, 2025년 10억 달러 이상 수익...크립토·주식 거래 주도</b>
+<blockquote>Trump 대통령이 2025년 크립토 거래로 10억 달러 이상, 주식 거래로 14억 달러에 달하는 수익을 올린 것으로 금융공개 보고서에서 드러났다. 중동 부동산·라이선싱 수입도 수억 달러에 달해 이해충돌 논란이 재점화됐다.
+<a href="https://www.wsj.com/finance/trump-investments-presidency-4ca88728">[WSJ]</a> <a href="https://www.ft.com/content/dab0dd71-2d95-4838-b0df-e942f9cc5dec">[FT]</a> <a href="https://www.ft.com/content/9067f454-a2f3-43da-bb0e-7f3015ce3bf5">[FT]</a></blockquote>
 
-**30. KNDS 방산 IPO, €12bn+ 밸류에 투자자 설득 난항...상장 지연 위기**
-<blockquote>유럽 방산업체 KNDS가 목표 밸류에이션 €12bn 이상을 투자자들에게 납득시키지 못하며 블록버스터 IPO 일정이 연기될 위기에 처했다.
-<a href="https://www.ft.com/content/0280107c-af01-4726-8fe1-0ec21b4e5b73">[FT]</a></blockquote>
+<b>20. Trump, 중동서 3억 달러 수익...외교정책 핵심 지역과 금전 관계</b>
+<blockquote>Trump 대통령이 중동 지역 거래에서 약 3억 달러의 수익을 올린 것으로 확인됐다. 중동은 그의 외교정책 핵심 지역으로, 정책 결정과 재정적 이해관계가 얽혀 있다는 비판이 제기되고 있다.
+<a href="https://www.wsj.com/politics/policy/trump-family-rakes-in-cash-from-middle-east-deals-b91a9927">[WSJ]</a></blockquote>
 
-**31. EU, 철강 관세 인상...무관세 쿼터 축소하고 세율 50%로**
-<blockquote>EU가 무관세 쿼터를 대폭 줄이고 쿼터 초과분에 대해 관세율을 50%로 두 배 올리는 철강 수입 제한 조치를 발표했다. 英·美·캐나다에 이은 보호무역 강화 조치다.
-<a href="https://www.ft.com/content/f7cc6193-7587-4ee1-8648-27ec0612cefa">[FT]</a></blockquote>
+<b>21. Trump, 카타르 선물 에어포스원 첫 탑승...4억 달러 개조 공개</b>
+<blockquote>Trump 대통령이 카타르가 선물한 신형 에어포스원에 처음 탑승했다. 4억 달러 규모로 개조된 기내에는 가죽 리클라이너 좌석과 도서관 서가가 설치됐다. 중동 국가와의 긴밀한 관계를 상징하는 장면으로 해석된다.
+<a href="https://www.wsj.com/us-news/air-force-one-qatari-maiden-flight-16bbff04">[WSJ]</a></blockquote>
 
-**32. 애플 CEO, EU 집행위원과 'Siri AI' 협상...제재 회피 모색**
-<blockquote>Tim Cook 애플 CEO가 EU 기술 담당 집행위원과 'Siri AI' 출시를 둘러싼 '건설적' 회담을 가졌다. 애플과 EU가 AI 비서 출시 문제로 교착 상태에 빠진 가운데 벌금 회피를 위한 협상이 진행 중이다.
-<a href="https://www.ft.com/content/807d25c3-f4ac-4402-b815-3aa91018237d">[FT]</a></blockquote>
+<b>22. 독일, Trump에 유럽 내 美 무기 생산 제안...NATO 정상회의 앞두고</b>
+<blockquote>독일 정부가 Trump 행정부에 유럽 내 미국 무기 '공동 생산 컨셉트' 협의를 제안했다. NATO 정상회의를 앞두고 방산 협력을 통해 트럼프의 방위비 압박을 완화하려는 전략으로 풀이된다. 유럽 방산주에 긍정적 신호다.
+<a href="https://www.ft.com/content/e9b71e3f-8f99-477a-87b3-0985e5bbf081">[FT]</a></blockquote>
 
-**33. BoE 관리, AI 트레이딩에 '킬 스위치' 필요성 제기...시장 변동성 우려**
-<blockquote>영란은행 Sarah Breeden이 ECB 콘퍼런스에서 AI 기반 트레이딩이 '군집 행동'을 통해 시장 변동성을 키울 수 있다며 킬 스위치 도입 필요성을 언급했다.
-<a href="https://www.ft.com/content/61ccaf26-e0cf-41af-afc6-f5eb43e4e568">[FT]</a></blockquote>
+<b>23. 젤렌스키, 아일랜드 내 러시아 알루미나 공장 제재 촉구</b>
+<blockquote>Volodymyr Zelenskyy 우크라이나 대통령이 EU 의장국 아일랜드 방문 첫날 아일랜드 내 러시아 소유 Aughinish Alumina 제련소에 대한 제재를 요청했다. 유럽 에너지·원자재 공급망에서 러시아 배제 압박이 강화되고 있다.
+<a href="https://www.ft.com/content/0c4f7c99-61d9-4be9-a842-10295699cc8e">[FT]</a></blockquote>
 
-**34. 英 국채시장, 정권 교체에도 여전히 시장 주도...재정 규율 압박 지속**
-<blockquote>영국 국채시장은 정권이 바뀌어도 여전히 시장 논리가 주도권을 쥐고 있다. 리더십 변화에도 채권시장이 재정 정책에 가하는 압박은 계속될 전망이다.
-<a href="https://www.ft.com/content/b6692ec3-29d5-4784-88dc-c83872b9a5e0">[FT]</a></blockquote>
+<b>24. Google, Klarna에 20억 달러 배상 판결...반독점 소송 패소</b>
+<blockquote>스웨덴 법원은 Google이 자사 가격비교 서비스를 Klarna의 PriceRunner보다 우대했다며 약 20억 달러 배상을 명령했다. 빅테크에 대한 유럽의 반독점 규제가 다시 한번 강력한 징벌로 이어졌다.
+<a href="https://www.wsj.com/tech/google-must-pay-nearly-2-billion-to-klarna-in-antitrust-case-f398d46f">[WSJ]</a> <a href="https://www.ft.com/content/1f30ea07-63f7-4c74-b5d2-acf313177778">[FT]</a></blockquote>
 
-**35. 英 은행세 인상 반대 목소리...Burnham 핵심 자문 노조 제안 반박**
-<blockquote>노동조합총연맹이 이전 은행세 부과금 복원 시 £9bn 조달 가능하다고 추산했지만, Burnham 차기 총리 핵심 보좌진이 은행세 인상 제안에 반대 의견을 냈다.
-<a href="https://www.ft.com/content/fc5aaf4b-3616-46c6-bb38-2b78c4fec7e6">[FT]</a></blockquote>
+<b>25. Elizabeth Warren, 연준 감찰에 Michelle Bowman 규정 위반 검토 요청</b>
+<blockquote>상원 은행위 민주당 간사 Elizabeth Warren이 연준 감찰총감에게 Michelle Bowman 연준 이사가 Bank of America 고객 행사에 참석한 것이 규정 위반인지 검토해달라고 요청했다. 연준 거버넌스 논란이 불거지고 있다.
+<a href="https://www.wsj.com/economy/central-banking/warren-asks-fed-watchdog-to-review-bowman-appearance-at-bank-event-9962dc2d">[WSJ]</a></blockquote>
+
+<b>26. Nike 매출 감소 전망 제시...중국 약세 속 소비자 압박 심화</b>
+<blockquote>Nike는 최근 분기 매출 감소를 보고하며 향후 더 가파른 매출 하락을 전망했다. 중국 시장 부진과 소비자 구매력 약화가 주요 원인이다. 글로벌 소비 둔화 우려가 커지고 있다.
+<a href="https://www.wsj.com/business/retail/nikes-sales-continue-to-decline-as-china-weakness-persists-364626f0">[WSJ]</a></blockquote>
+
+<b>27. General Mills, 소비자 압박 속 단백질·펫푸드로 돌파 모색</b>
+<blockquote>Cheerios·Annie's Mac and Cheese 제조사 General Mills가 적자 전환 후 가격 인하 비용을 감수하며 예산 부족 소비자 되찾기에 나섰다. 신제품 출시와 마케팅 강화로 단백질·펫푸드 카테고리에 집중할 계획이다.
+<a href="https://www.wsj.com/business/earnings/general-mills-swings-to-loss-works-to-win-back-challenging-consumers-c5e24221">[WSJ]</a></blockquote>
+
+<b>28. FedEx, 물류 부문 CMA CGM에 14억 달러 매각</b>
+<blockquote>FedEx가 물류 사업부를 프랑스 해운그룹 CMA CGM에 14억 달러에 매각하기로 합의했다. CMA CGM은 미국 시장 확대와 공급망 내 입지 강화를 노린다. 해운·물류 업계 재편이 가속화되고 있다.
+<a href="https://www.ft.com/content/f4a8e4b2-5dcf-47b4-97a5-ec6a2a8a97f5">[FT]</a></blockquote>
+
+<b>29. Kroger, Giant Eagle를 16억5000만 달러에 인수</b>
+<blockquote>미국 슈퍼마켓 체인 Kroger가 식품·약국 소매업체 Giant Eagle를 현금 및 부채 인수 방식으로 16억5000만 달러에 사들이기로 했다. 미국 소매 시장 통합이 지속되고 있다.
+<a href="https://www.wsj.com/business/retail/kroger-to-buy-food-pharmacy-retailer-giant-eagle-for-1-65-billion-f5377a41">[WSJ]</a></blockquote>
+
+<b>30. National Grid, Joulent에 17억5000만 달러 투자...美 에너지 인프라 확대</b>
+<blockquote>영국 National Grid가 대규모 전력 수요 고객을 위한 발전·송전 인프라 개발업체 Joulent 지분 35%를 17억5000만 달러에 취득한다. 미국 에너지 인프라 투자 확대로 AI·데이터센터 전력 수요에 대응한다.
+<a href="https://www.wsj.com/business/energy-oil/national-grid-to-invest-1-75-billion-in-joulent-in-u-s-energy-push-9d84d5b8">[WSJ]</a></blockquote>
+
+<b>31. 콜로라도 민주사회주의자 예비선거 승리...민주당 주류에 타격</b>
+<blockquote>민주사회주의자 Melat Kiros(29)가 콜로라도 덴버 하원의원 예비선거에서 15선 현역 Diana DeGette를 꺾었다. 9·11은 불가피했다는 발언과 이스라엘 방어무기 지원 중단 주장으로 논란을 빚은 인물이다. 중간선거를 앞두고 민주당 내 좌파 약진이 가속화되고 있다.
+<a href="https://www.ft.com/content/36b9c745-5934-48b0-a505-f45d196ad632">[FT]</a></blockquote>
+
+<b>32. Alibaba·美 결제업체, 불법 의약품 판매 혐의로 6억 달러 합의</b>
+<blockquote>Alibaba Group과 미국 결제 프로세서 AUS Merchant Services가 불법 의약품 및 제한 품목의 미국 수입·판매를 방조한 혐의로 법무부와 6억 달러 합의금을 지급하기로 했다. 중국 플랫폼에 대한 미국 규제 압박이 계속되고 있다.
+<a href="https://www.wsj.com/business/alibaba-u-s-payment-processor-to-pay-600-million-in-doj-settlement-over-illegal-drug-sales-23c40942">[WSJ]</a></blockquote>
 
 ━━━━━━━━━━━━━━━━━━━━
-📡 **출처: WSJ · FT · The Economist**
+📡 <b>출처: WSJ · FT · The Economist</b>
