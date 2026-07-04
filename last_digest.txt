@@ -4,93 +4,25 @@
 
 ✅ <b>간밤의 주요 헤드라인</b>
 
-<b>1. 美 고용 약세에 달러 약세 지속...주요 통화 대비 하락세</b>
-<blockquote>목요일 발표된 非농업 일자리 증가폭이 예상보다 부진한 가운데 달러가 통화 바스켓 대비 약세를 이어갔다. 시장은 고용 둔화가 연준의 통화정책 방향에 미칠 영향을 분석 중이다.
-<a href="https://www.wsj.com/finance/currencies/fx-traders-on-edge-as-mof-ponders-surprise-intervention-tactics-1e15866c">[WSJ]</a></blockquote>
-
-<b>2. 연준 회의록 공개 앞두고 금리 인상 시점 주목...외환·채권 시장 촉각</b>
-<blockquote>연방준비제도 최신 회의록 발표가 이번 주 가장 큰 이벤트로 꼽힌다. 투자자들은 금리 인상 여부와 시점에 대한 추가 단서를 찾고 있다.
-<a href="https://www.wsj.com/economy/week-ahead-for-fx-bonds-fed-minutes-in-focus-e7f43f94">[WSJ]</a></blockquote>
-
-<b>3. Sintra 포럼서 Warsh 연준 의장 발언...정책 방향 명확한 힌트 없어</b>
-<blockquote>ECB 연례 중앙은행 회의인 Sintra 포럼에서 Kevin Warsh 연준 의장이 금리 경로에 대해 뚜렷한 방향성을 제시하지 않았다. 시장은 향후 금리 결정의 불확실성이 지속될 것으로 보고 있다.
-<a href="https://www.ft.com/content/f033066e-2a03-4df2-808a-e8278ff26bac">[FT]</a></blockquote>
-
-<b>4. Citi, 브렌트유 연말 배럴당 $60 전망...공급과잉 예상</b>
-<blockquote>Citigroup이 브렌트유가 크리스마스까지 배럴당 $60로 하락할 수 있다고 전망했다. 월가 애널리스트들은 원유시장이 공급 과잉 국면으로 전환될 것으로 내다봤다.
-<a href="https://www.ft.com/content/30f0195c-6283-4a70-aab0-929b026c9b70">[FT]</a></blockquote>
-
-<b>5. 이란, Khamenei 장례식 시작...체제 결속 과시 의도</b>
-<blockquote>이란 당국이 이스라엘·미국과의 전쟁에서 사망한 최고지도자 Khamenei의 장례식을 시작했다. 6일간 진행될 추도 행사에 2천만 명이 참석할 것으로 예상되며, 당국은 미국에 대한 저항 의지를 보이려 한다.
+<b>1. 테헤란서 Khamenei 6일장 개시...이란 2000만 추모 인파 예고</b>
+<blockquote>이란 당국이 Israel·미국과의 전쟁 중 사망한 최고지도자 Khamenei를 위해 6일간의 대규모 장례식을 시작했다. 당국은 총 2000만 명이 참여할 것으로 전망하고 있다. 중동 지정학 긴장이 최고조에 달한 가운데 이란 내부 결속과 향후 정권 승계 향방이 주목된다.
 <a href="https://www.wsj.com/world/middle-east/iran-supreme-leader-khamenei-funeral-7e1ad603">[WSJ]</a></blockquote>
 
-<b>6. 100개국 고위인사 참석해 Khamenei 조문...철통 보안 속 장례식 진행</b>
-<blockquote>이란이 100개국 이상의 고위 인사들이 참석한 가운데 Khamenei 최고지도자에 대한 공식 추도를 시작했다. 엄격한 보안 속에서 진행된 행사는 정권의 단결을 과시하려는 시도로 풀이된다.
-<a href="https://www.ft.com/content/a23d758d-3b48-4ea4-a08c-5dba88503d08">[FT]</a></blockquote>
+<b>2. Q2 주식형펀드 17.1% 급등...전쟁·IPO 붐·Fed 의장 교체 속 이례적 랠리</b>
+<blockquote>2분기 주식형펀드 수익률이 17.1%를 기록하며 투자자들을 놀라게 했다. IPO 급증, 전쟁 중에도 이어진 주가 상승, 새 연준 의장 취임 등이 복합적으로 작용했다. 지정학 리스크 고조 국면에서도 시장이 강한 상승세를 이어간 점이 특징이다.
+<a href="https://www.wsj.com/finance/investing/stocks-q2-2026-look-back-4b7f8c7d">[WSJ]</a></blockquote>
 
-<b>7. Khamenei 장례식, 이란 체제 변화 드러내...국제사회 주목</b>
-<blockquote>이란 정권이 Khamenei 장례식을 통해 권력 안정성을 보여주려 하지만, 오히려 최고지도자 사망 이후 이미 체제가 얼마나 변화했는지를 드러내고 있다는 분석이 나온다.
-<a href="https://www.economist.com/interactive/middle-east-and-africa/2026/07/03/irans-regime-hopes-khameneis-funeral-will-demonstrate-its-strength">[Economist]</a></blockquote>
+<b>3. 제재 대상국들 암호화폐 1000억불 거래...대테러·무기자금 조달 경로로 활용</b>
+<blockquote>2025년 제재 블랙리스트 등재 단체들이 암호화폐로 1000억 달러 규모 거래를 처리한 것으로 집계됐다. 테러 자금과 무기 구매 자금 조달에 암호화폐가 광범위하게 사용되면서 기존 제재 체계의 효과성에 의문이 제기되고 있다.
+<a href="https://www.wsj.com/world/cryptocurrency-sanctions-evasion-d02b60f1">[WSJ]</a></blockquote>
 
-<b>8. 英·EU 관계 재설정 협상 교착...브뤼셀, 런던 '결정 형성' 역할 요구 거부</b>
-<blockquote>브렉시트 이후 관계 개선 협상이 다시 지연됐다. 브뤼셀은 영국이 요청한 EU 내 '결정 형성' 역할을 거부하며 협상 진전이 막혔다.
-<a href="https://www.ft.com/content/c5b0cc1b-5e6f-429d-a9b2-d1c9d0668683">[FT]</a></blockquote>
+<b>4. Trump-Erdogan 밀월...NATO 동맹국들 터키 비판 누그러뜨려</b>
+<blockquote>Trump 대통령과 Erdogan 터키 대통령 간 긴밀한 관계가 NATO 내 터키에 대한 비판 목소리를 약화시키고 있다. Ankara에서 열릴 NATO 정상회의를 앞두고 터키의 동맹 내 역할이 강화되는 양상이다.
+<a href="https://www.wsj.com/world/with-trump-in-his-corner-erdogan-gets-an-easier-ride-from-nato-partners-9049142b">[WSJ]</a></blockquote>
 
-<b>9. 英 노동당 차기 리더 Burnham, 연금 트리플 락 유지 공언</b>
-<blockquote>Keir Starmer의 유력 후계자로 꼽히는 Andy Burnham이 Reddit 질의응답에서 영국의 연금 트리플 락 제도를 계속 유지하겠다고 밝혔다. 보수당 당수 Kemi Badenoch도 세션에 참여해 질문을 던졌다.
-<a href="https://www.ft.com/content/09cfd5af-b3d6-4f27-9337-de90b802150e">[FT]</a></blockquote>
-
-<b>10. 러시아 그림자 유조선, 英 해협 우회...해군 차단 작전에 북대서양 루트로 전환</b>
-<blockquote>유럽 해군의 단속 강화로 제재 대상 러시아 유조선들이 영국 해협을 피해 대서양 북쪽 우회 항로를 이용하고 있다. 제재 효과가 실질적으로 나타나는 신호로 해석된다.
-<a href="https://www.ft.com/content/0b47e729-42e7-4328-8775-3d51e3d81764">[FT]</a></blockquote>
-
-<b>11. 독일 F126 프리깃함 사업 취소...Thales 수익 타격 예고</b>
-<blockquote>독일 정부가 F126 프리깃함 조달 사업을 전격 취소하면서 프랑스 방산기업 Thales가 상반기 실적에 손실을 반영할 예정이다. 유럽 방산 조달 계획의 불확실성이 부각됐다.
-<a href="https://www.wsj.com/business/earnings/frances-thales-to-take-hit-after-germany-scraps-frigate-program-51bcb164">[WSJ]</a></blockquote>
-
-<b>12. 英·이탈리아·일본 스텔스 전투기 개발 계약 체결...€80억 규모</b>
-<blockquote>영국 BAE Systems, 이탈리아 Leonardo, 일본 Mitsubishi Heavy Industries가 3국 정부 공동 자금으로 차세대 스텔스 전투기 개발 계약 €80억(약 $6.14bn)을 수주했다.
-<a href="https://www.wsj.com/business/u-k-italian-japan-fighter-jet-venture-wins-6-14-billion-contract-e63655a3">[WSJ]</a></blockquote>
-
-<b>13. 페루 대선서 보수 Fujimori 승리...광업 민간투자 확대 공약</b>
-<blockquote>권위주의 지도자의 딸인 Keiko Fujimori가 초접전 끝에 페루 대선에서 승리했다. 광업 부문 민간투자 촉진과 범죄 강경 대응을 주요 정책으로 내세웠다.
-<a href="https://www.ft.com/content/82327fa5-345a-49f9-b760-54a5c0938a14">[FT]</a></blockquote>
-
-<b>14. 트럼프, 베네수엘라 Rodríguez 정부 지지 재확인...지진 대응 논란 속 밀착</b>
-<blockquote>트럼프 행정부가 베네수엘라 Delcy Rodríguez 정부에 대한 지지를 다시 강조했다. 다만 워싱턴이 대규모 지진 대응 실패로 국민 분노를 사고 있는 정부와 긴밀히 연계되고 있다는 우려가 나온다.
-<a href="https://www.ft.com/content/25ede586-fee0-415c-b13a-60b0bf4d61a0">[FT]</a></blockquote>
-
-<b>15. 전 미군 합참의장 CQ Brown, 군 정치화 경고...트럼프 행정부 비판</b>
-<blockquote>작년 최고위 군 직책에서 해임된 CQ Brown 전 합참의장이 트럼프 행정부의 군 운용 방식에 대해 가장 직접적인 비판을 가했다. 군이 정치화되고 있다는 우려를 표명했다.
-<a href="https://www.wsj.com/politics/national-security/former-top-general-warns-the-military-is-being-politicized-a6c2942e">[WSJ]</a></blockquote>
-
-<b>16. 트럼프 대통령, $2.2bn 수익 기록...권위주의 국가 지도자와 비교 나와</b>
-<blockquote>트럼프 대통령이 $2.2bn 규모의 금전적 이익을 얻으면서 정치학자들 사이에서 아프리카·아시아 권위주의 지도자들과의 유사성에 대한 논의가 시작되고 있다.
-<a href="https://www.ft.com/content/b12df253-c0c8-4956-bfd9-4df88133e620">[FT]</a></blockquote>
-
-<b>17. 트럼프, AI 강력 규제 반대 입장...중앙집중형 규제기구 불허</b>
-<blockquote>퇴임 예정인 기술 자문관 Sriram Krishnan이 FT에 트럼프 대통령이 중앙집중형 AI 규제기관에 반대한다고 밝혔다. AI 규제 강화 여론 속에서도 자율 규제 노선을 유지할 전망이다.
-<a href="https://www.ft.com/content/5128e476-db8b-48ac-a8fb-0f16d0f5c2ed">[FT]</a></blockquote>
-
-<b>18. 트럼프, 100년 역사 Jones Act 해제...연료 시장에 실질 효과</b>
-<blockquote>트럼프 행정부가 일시적으로 해제한 Jones Act가 캘리포니아 주유소 가격 하락, 걸프 코스트 정유소 가동률 개선, 푸에르토리코 연료 공급 증대 등 실질적 효과를 냈다.
-<a href="https://www.wsj.com/business/logistics/what-happened-in-fuel-markets-when-trump-lifted-the-century-old-jones-act-199da395">[WSJ]</a></blockquote>
-
-<b>19. UN 식량가격 하락세 지속...엘니뇨 생산 리스크는 여전</b>
-<blockquote>유엔 식량농업기구(FAO)에 따르면 곡물·설탕·유제품 가격이 하락했다. 다만 강력한 엘니뇨 현상이 생산 전망에 불확실성을 더하고 있다.
-<a href="https://www.wsj.com/finance/commodities-futures/food-prices-edge-lower-as-el-nino-risks-hover-un-says-73e06ee4">[WSJ]</a></blockquote>
-
-<b>20. EU 스마트 국경 시스템 가동 실패...범죄 차단 대신 여행 지연만 초래</b>
-<blockquote>2008년 처음 구상된 EU 자동화 국경 시스템이 범죄자 차단 목적과 달리 여행객 지연만 야기하며 '두더지 잡기' 상황에 빠졌다. 유럽 역내 이동 효율성에 타격이다.
-<a href="https://www.ft.com/content/3ed70f64-7443-4241-ac0f-38eabe218913">[FT]</a></blockquote>
-
-<b>21. EU, 중국 자동차 공장 규제 법안 추진...Xpeng 등 투자 위협 경고</b>
-<blockquote>EU가 역내 중국 자동차 공장을 규제하는 법안을 검토 중이다. 중국 전기차 업체 Xpeng은 이 법안이 유럽 내 투자를 위협할 것이라고 경고했다.
-<a href="https://www.ft.com/content/520ec72c-c69e-4648-8b08-8883d57f4867">[FT]</a></blockquote>
-
-<b>22. 美 시장 예외주의 정당화되는 이유...상호 강화 우위 구조</b>
-<blockquote>미국 자본시장의 중심성이 상호 보완적 우위들의 결합에 기반하고 있다는 분석이 나왔다. 미국 시장 예외주의는 단일 요인이 아닌 구조적 강점들의 집합체라는 평가다.
-<a href="https://www.ft.com/content/5ee80a17-7277-41dd-bc3d-8817b400a757">[FT]</a></blockquote>
+<b>5. 신생아 1000달러 지급 'Trump Accounts' 출시...재무부 시드머니 제공</b>
+<blockquote>재무부가 향후 수년간 신생아에게 1000달러 시드머니를 제공하는 아동 저축계좌 'Trump Accounts'를 출시했다. 정부 지원금 수급 대상이 아닌 아동도 계좌 개설이 가능하며, 재정 지출 확대 정책의 일환으로 풀이된다.
+<a href="https://www.wsj.com/personal-finance/trump-accounts-for-kids-come-with-1-000and-tax-complications-4b75b803">[WSJ]</a></blockquote>
 
 ━━━━━━━━━━━━━━━━━━━━
 📡 <b>출처: WSJ · FT · The Economist</b>
