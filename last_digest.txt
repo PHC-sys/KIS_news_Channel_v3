@@ -1,152 +1,144 @@
 🌙 <b>간밤의 글로벌 마켓 뉴스</b>
-[{DATE} | WSJ · FT · Economist ]
+[ 2026. 7. 8. | WSJ · FT · Economist ]
 ━━━━━━━━━━━━━━━━━━━━
 
 ✅ <b>간밤의 주요 헤드라인</b>
 
-<b>1. 미국채 소폭 변동, 연준 의사록 대기...전쟁 리스크 완화로 시장 안정</b>
-<blockquote>미국 국채 수익률은 이란 관련 헤드라인이 잠잠한 가운데 거의 변동 없이 마감했다. 이번 주 경제지표 발표가 적고 연준 의사록 공개를 앞두고 투자자들이 관망세를 유지했다.
-<a href="https://www.wsj.com/finance/investing/jgbs-fall-amid-concerns-over-japans-fiscal-policies-de0bec68">[WSJ]</a></blockquote>
+<b>1. 美, 이란 유조선 공격 보복 타격...원유 판매 허가 취소</b>
+<blockquote>미국이 호르무즈 해협 인근 유조선 공격에 대한 보복으로 이란에 공습을 단행하고, 이란산 원유 판매 허가를 철회했다. 카타르·사우디 선박도 피격 대상에 포함되며, 이란과의 평화 협정이 위협받는 상황이다.
+<a href="https://www.wsj.com/world/middle-east/u-s-revokes-waiver-allowing-sale-of-iranian-oil-b6eb5620">[WSJ]</a> <a href="https://www.ft.com/content/0a1c6329-2be0-4d7a-b7ab-82f81511bde2">[FT]</a> <a href="https://www.ft.com/content/c7dac217-4a77-4640-9aa4-17ae7b0d5c0c">[FT]</a></blockquote>
 
-<b>2. 연준 Waller 이사, Warsh 의장 포워드가이던스 재편 지지...통화정책 전달 방식 개편 신호</b>
-<blockquote>Christopher Waller 연준 이사가 Kevin Warsh 신임 의장의 포워드가이던스 재검토 방침을 지지하며 시장과의 소통 방식을 전면 재편할 필요성을 제기했다. 중앙은행 투명성 정책이 전환점을 맞을 전망이다.
-<a href="https://www.ft.com/content/52030e91-cac4-4ea9-b518-35a50bb8273d">[FT]</a></blockquote>
+<b>2. WTI 원유 급등...호르무즈 긴장에 공급 불안 확산</b>
+<blockquote>미국의 이란 원유 판매 허가 취소로 유가가 급등했다. 호르무즈 해협 선박 공격 이후 에너지 시장의 불확실성이 커지며 원유 선물이 강세를 보였다.
+<a href="https://www.wsj.com/finance/commodities-futures/oil-rises-on-possible-position-adjustments-before-expected-resumption-of-u-s-iran-talks-ead21cdc">[WSJ]</a></blockquote>
 
-<b>3. 미국 6월 ISM 서비스 PMI 54.0...5월 54.5서 소폭 하락</b>
-<blockquote>미국 공급관리협회(ISM)가 발표한 6월 서비스업 구매관리자지수는 54.0으로 5월 54.5에서 하락했다. 시장 전망치 54.3을 소폭 밑돌았지만 기준선 50을 웃돌며 확장세를 이어갔다.
-<a href="https://www.wsj.com/economy/central-banking/u-s-services-sector-activity-continued-to-expand-in-june-ac9e724e">[WSJ]</a></blockquote>
+<b>3. 이란 제재 강화 필요...호르무즈 해협 통제력 흔들려</b>
+<blockquote>WSJ 사설은 이란이 호르무즈 해협 인근 선박을 공격하며 원유 판매 허가 특권을 잃었다고 지적했다. 대체 항로와 공급원 확대로 이란의 전략적 영향력이 약화되고 있으나, 제재를 더욱 강화해야 한다는 주장이 나온다.
+<a href="https://www.wsj.com/opinion/no-more-oil-sanctions-waiver-for-iran-2bd7656f">[WSJ]</a></blockquote>
 
-<b>4. 캐나다 인플레 기대 급등, 이란 전쟁 충격 반영...중앙은행 조사</b>
-<blockquote>캐나다 중앙은행이 발표한 2분기 조사에 따르면 소비자 인플레이션 기대가 미·이란 전쟁으로 인한 에너지 비용 상승을 반영해 급격히 높아진 것으로 나타났다. 중앙은행의 통화정책 운용에 부담이 가중될 전망이다.
-<a href="https://www.wsj.com/economy/central-banking/canada-cpi-expectations-ramped-up-prior-to-u-s-iran-deal-central-bank-survey-says-faafa0ef">[WSJ]</a></blockquote>
+<b>4. 이란, 호르무즈 장악력 상실 우려...대체 항로 확대가 배경</b>
+<blockquote>이란의 호르무즈 해협 선박 공격은 대체 경로·우회 수단·원유 공급 개선으로 전략 요충지 영향력이 줄어드는 데 대한 불안을 반영한다. 테헤란의 레버리지 약화가 공격 배경으로 지목된다.
+<a href="https://www.wsj.com/world/middle-east/irans-attacks-on-ships-betray-its-concern-over-losing-its-grip-on-hormuz-a7da2da0">[WSJ]</a></blockquote>
 
-<b>5. WSJ 달러지수 97.26, 0.04% 상승...이틀 낙폭 만회</b>
-<blockquote>WSJ 달러지수가 소폭 상승하며 이틀간의 하락세를 멈췄다. 중동 긴장 완화에도 불구하고 연준 통화정책 불확실성이 달러 수요를 지지했다.
-<a href="https://www.wsj.com/finance/currencies/asian-currencies-consolidate-amid-possible-position-adjustments-a259ca37">[WSJ]</a></blockquote>
+<b>5. 걸프 원유 증산 경쟁 본격화...시장 점유율 다툼 격화 전망</b>
+<blockquote>페르시아만 산유국들이 유휴 유정 재가동에 나서며 일일 수백만 배럴 규모의 공급 과잉이 예상된다. 증산 경쟁이 심화되면서 시장 점유율 확보를 위한 각축전이 불가피할 전망이다.
+<a href="https://www.wsj.com/business/energy-oil/rising-gulf-oil-output-sets-stage-for-market-share-battle-42c306d3">[WSJ]</a></blockquote>
 
-<b>6. 국제유가 하락, OPEC 증산에도 중동 리스크 프리미엄 지속</b>
-<blockquote>원유 선물가격이 하락 마감했지만 평소라면 약세를 부를 요인들을 상당 부분 무시하는 모습을 보였다. OPEC 증산 결정에도 중동 지정학 리스크가 바닥을 지지하며 전쟁 이전 수준을 유지했다.
-<a href="https://www.wsj.com/finance/commodities-futures/oil-falls-weighed-by-opec-decision-to-increase-output-again-1a0d0c9d">[WSJ]</a></blockquote>
+<b>6. 미 국채 금리 상승...美-이란 긴장 고조에 매도세</b>
+<blockquote>미국 국채 수익률이 상승하며 장 후반 매도세가 가속됐다. 미국이 이란의 호르무즈 인근 선박 공격에 대응해 이란산 원유 판매 허가를 철회하면서 지정학 리스크가 부각됐다.
+<a href="https://www.wsj.com/finance/jgbs-mixed-ahead-of-30-year-auction-2661524b">[WSJ]</a></blockquote>
 
-<b>7. 금값 2주 최고가, 중동 평화 기대로 인플레 우려 완화</b>
-<blockquote>금 선물이 6월 22일 이후 최고 수준으로 반등 마감했다. 애널리스트들은 중동 평화 협상 진전이 글로벌 인플레이션 우려를 완화하며 귀금속으로 자금이 회귀한 것으로 분석했다.
-<a href="https://www.wsj.com/finance/commodities-futures/gold-gains-as-investors-scale-back-on-fed-hike-bets-554c9a5a">[WSJ]</a></blockquote>
+<b>7. 미 증시 하락...AI 우려·호르무즈 긴장 복합 작용</b>
+<blockquote>미국 증시가 하락 마감했다. 삼성전자 실적 이후 AI 투자 변동성이 커진 가운데 호르무즈 해협 긴장 재점화가 투자 심리를 악화시켰다.
+<a href="https://www.wsj.com/finance/stocks/u-s-stocks-retreat-on-worries-about-ai-trade-hormuz-fears-710d0e7e">[WSJ]</a></blockquote>
 
-<b>8. 중국, 중동산 원유 매입 확대...사우디 아시아 수출가 6년 최저</b>
-<blockquote>중국이 중동 산유국으로부터 원유 구매를 늘리고 있는 가운데 사우디아라비아가 아시아향 수출 가격을 6년 만에 최저 수준으로 인하했다. 중동 전쟁 후유증 속에서도 공급 과잉 우려가 부각되고 있다.
-<a href="https://www.ft.com/content/09ab8bf7-07ae-4c9c-b0c5-31200659f08b">[FT]</a></blockquote>
+<b>8. 삼성전자 분기 최대 실적에도 주가 급락...AI 기대 못 미쳐</b>
+<blockquote>삼성전자가 분기 사상 최대 이익을 기록했으나 주가는 급락했다. AI 반도체 부문 기대에 미치지 못한 실적이 투자자 실망을 야기하며 기술주 전반의 조정을 촉발했다.
+<a href="https://www.wsj.com/finance/stocks/samsung-fails-to-impress-8b61321c">[WSJ]</a></blockquote>
 
-<b>9. 머스크, 이란 전쟁 후 첫 수에즈 운하 화물 운송...주가 7% 급락</b>
-<blockquote>머스크가 수에즈 운하를 통해 첫 화물을 운송하면서 항로 재개방을 알렸지만 주가는 7% 하락했다. 운송 시간 단축이 고객에게는 이득이지만 운임 하락으로 이어질 가능성에 투자자들이 우려를 나타냈다.
-<a href="https://www.ft.com/content/49ef8c90-d7cd-4acc-8d82-3e3c7f56d9c5">[FT]</a></blockquote>
+<b>9. SpaceX 나스닥100 편입 첫날 부진...기술주 조정 속 주가 하락</b>
+<blockquote>SpaceX가 나스닥100 지수 편입 첫날 개장가 아래로 하락 마감했다. 광범위한 기술주 조정 국면 속에서 로켓 제조업체의 주가도 동반 약세를 보였다.
+<a href="https://www.wsj.com/finance/stocks/spacex-shares-stumble-in-nasdaq-100-debut-9ec10565">[WSJ]</a></blockquote>
 
-<b>10. 미국 천연가스 선물 상승, 여름 수요 지지</b>
-<blockquote>미국 천연가스 선물이 중간 수준의 상승세를 기록했다. 여름철 냉방 수요가 풍부한 공급 상황에도 불구하고 가격을 떠받치는 요인으로 작용했다.
-<a href="https://www.wsj.com/articles/european-gas-slips-but-lng-flow-recovery-and-asian-demand-risks-persist-29b2094a">[WSJ]</a></blockquote>
+<b>10. 월가, SpaceX 밸류에이션 논란...Morgan Stanley "우주 사업 가치 주당 $8"</b>
+<blockquote>Morgan Stanley는 SpaceX에 목표주가 $300을 제시하며 낙관적 전망을 내놨으나, 우주 사업 부문 가치는 주당 $8에 불과하다고 평가했다. IPO 이후 공개 매수 금지 기간이 끝나며 월가의 밸류에이션 논쟁이 가열되고 있다.
+<a href="https://www.ft.com/content/ea0a1a37-75a0-4658-93c1-d58bccaacf2b">[FT]</a> <a href="https://www.ft.com/content/09a62ed4-16af-433c-adb7-c877d1975388">[FT]</a></blockquote>
 
-<b>11. 이란 하메네이 추도식서 트럼프 위협 메시지...사우디·터키에 코란 인용 조롱</b>
-<blockquote>이란이 Ali Khamenei 추도 행사를 통해 단순 애도를 넘어 정치 메시지를 전달했다. 트럼프 대통령을 향한 위협과 함께 사우디아라비아·터키를 겨냥한 코란 구절 인용이 포함돼 긴장 완화 국면에 불협화음을 냈다.
-<a href="https://www.wsj.com/world/middle-east/iran-isnt-just-eulogizing-a-leader-its-sending-a-message-221c97e5">[WSJ]</a></blockquote>
+<b>11. AI 채권 시장 확대...주식 이어 신용시장도 AI 열풍</b>
+<blockquote>AI 붐이 주식시장을 넘어 채권시장으로 번지고 있다. AI 기업들의 신용 리스크 평가가 어려운 가운데 관련 채권 발행이 급증하며 투자자들의 관심이 높아지고 있다.
+<a href="https://www.economist.com/finance-and-economics/2026/07/07/ai-has-taken-over-the-stock-market-the-bond-market-is-next">[Economist]</a></blockquote>
 
-<b>12. 이란 수백만 명 하메네이 장례 행렬...최근 최대 규모 집회</b>
-<blockquote>테헤란에서 이란 최고지도자 장례 행렬에 수백만 명이 참석해 최근 이란 역사상 최대 규모의 공개 집회를 이뤘다. 체제 결속 과시와 함께 역내 영향력 재확인 의도가 담긴 것으로 평가된다.
-<a href="https://www.ft.com/content/d8e54381-6b42-46e5-8094-364ebe13d68c">[FT]</a></blockquote>
+<b>12. 소프트웨어 섹터 타격...AI 리스크에 과민 반응 논란</b>
+<blockquote>소프트웨어 주식들이 급락하며 AI 위협에 시장이 과도하게 반응했다는 지적이 나온다. AI가 소프트웨어 기업에 미치는 리스크를 둘러싼 불확실성이 섹터 전반의 밸류에이션을 압박하고 있다.
+<a href="https://www.ft.com/content/0a9569c7-025a-47f2-9d45-34d185f4fc73">[FT]</a></blockquote>
 
-<b>13. 하마스, 가자 민간 통치기구 해체 발표...무장 포기 언급 없어</b>
-<blockquote>하마스가 가자지구 민간 통치 조직을 해체하겠다고 발표했지만 무기 포기에 대한 언급은 없어 실질적 권력 포기 여부에 회의적 시각이 제기됐다. 향후 가자 통치 구조에 대한 불확실성이 지속될 전망이다.
-<a href="https://www.ft.com/content/c741a035-d8ce-4fc1-a616-ed6224775468">[FT]</a></blockquote>
+<b>13. Nokia, AI 인프라 수혜...주가 올해 90% 급등</b>
+<blockquote>과거 휴대전화 제조사였던 Nokia가 AI 데이터센터 인프라 공급업체로 변신하며 올해 주가가 약 90% 상승했다. AI 붐의 수혜주로 부상하며 헤비급 인프라 공급사로 자리잡고 있다.
+<a href="https://www.wsj.com/tech/ai/nokias-new-act-supplying-the-ai-data-center-boom-e03045c0">[WSJ]</a></blockquote>
 
-<b>14. 독일 재무장에 €800bn 차입...통일 이후 최대 부채 확대</b>
-<blockquote>Friedrich Merz 독일 총리가 재무장을 위해 €800bn 규모의 차입을 단행하는 역사적 전환을 발표했다. 독일 통일 이후 볼 수 없었던 규모의 부채 주도 국방비 지출로 유럽 재정 구도가 흔들릴 전망이다.
-<a href="https://www.ft.com/content/72878c3e-a4c6-4e4d-86c1-6df11593e4ac">[FT]</a></blockquote>
+<b>14. SK하이닉스 저평가 아냐...밸류에이션 재평가 필요</b>
+<blockquote>SK하이닉스가 겉보기엔 저평가된 것처럼 보이지만 실제로는 그렇지 않다는 분석이 나왔다. AI 메모리 반도체 수요에도 불구하고 밸류에이션 매력이 제한적이라는 지적이다.
+<a href="https://www.wsj.com/tech/ai/why-sk-hynix-isnt-as-cheap-as-it-looks-f2f2af42">[WSJ]</a></blockquote>
 
-<b>15. 록히드마틴, Ultra Maritime $3.45bn 인수...대잠전 포트폴리오 확대</b>
-<blockquote>록히드마틴이 Ultra Maritime을 $3.45bn에 인수한다고 발표했다. Ultra Maritime의 대잠전 기술이 록히드의 해양 플랫폼용 소나 솔루션을 보완하고 확장할 것이라고 밝혔다.
-<a href="https://www.wsj.com/business/deals/lockheed-martin-to-acquire-ultra-maritime-in-3-45-billion-deal-8b2e17e6">[WSJ]</a></blockquote>
+<b>15. 중국 반도체 산업, 서방 추격 가속...설계는 빠르나 제조는 난항</b>
+<blockquote>중국 반도체 산업이 서방 기술 격차를 빠르게 좁히고 있으나 칩 설계 분야 진전에 비해 제조 기술은 여전히 뒤처진 것으로 나타났다. 생산 능력 확보가 관건으로 떠오르고 있다.
+<a href="https://www.economist.com/business/2026/07/07/chinas-semiconductor-industry-is-racing-to-catch-the-wests">[Economist]</a></blockquote>
 
-<b>16. 방산 해양기술 인수전 $8bn...록히드·탈레스 동시 딜</b>
-<blockquote>록히드마틴의 Ultra Maritime 인수와 함께 탈레스도 프랑스 해군드론 제조사 인수를 발표하며 방산 업계의 해양기술 확보 경쟁이 총 $8bn 규모로 확산됐다. 해저 인프라 방어 수요가 M&A 붐을 촉발했다.
-<a href="https://www.ft.com/content/7f74fbea-89fa-4444-b092-fccfae4c0cea">[FT]</a></blockquote>
+<b>16. BoE, 주식시장 레버리지 급증 경고...금융안정 위협 고조</b>
+<blockquote>영국 중앙은행(BoE)이 주식시장 레버리지 증가가 금융 안정에 고조된 위협을 초래한다고 경고했다. 연 2회 발행하는 금융정책위원회 보고서에서 美-이란 분쟁 해결 진전에도 불구하고 리스크가 완전히 제거되지 않았다고 밝혔다.
+<a href="https://www.wsj.com/pro/central-banking/boe-sees-heightened-threat-to-financial-stability-as-leverage-in-equity-markets-rises-173d0d7e">[WSJ]</a></blockquote>
 
-<b>17. 탈레스, 해양드론 제조사 Exail 인수 추진...35.5% 지분 확보</b>
-<blockquote>프랑스 탈레스가 해양드론 제조사 Exail Technologies의 35.51% 지분을 취득하고 전면 인수에 나선다. Gorge 가문과 계약을 체결했으며 Exail의 기업가치를 부채 포함 $4.46bn으로 평가했다.
-<a href="https://www.wsj.com/business/deals/thales-plans-takeover-of-exail-technologies-after-buying-35-51-stake-9ef67c11">[WSJ]</a></blockquote>
+<b>17. ECB·ESRB, AI 사이버 공격 경고...은행 IT 취약점 수분 내 악용 우려</b>
+<blockquote>유럽중앙은행(ECB)과 유럽시스템리스크위원회(ESRB)가 AI 기반 사이버 공격에 대한 경고를 발표했다. 첨단 AI 모델이 은행 IT 시스템 취약점을 수분 내에 악용할 수 있다며 금융 시스템 위협을 지적했다.
+<a href="https://www.ft.com/content/304cdbb9-c161-4e40-af4d-6df1d2ff5363">[FT]</a></blockquote>
 
-<b>18. 캐나다 군비 확대, 미국 관계 악화 속 독립 노선...NATO 압박 대응</b>
-<blockquote>캐나다가 Mark Carney 총리 주도로 국방비 지출을 급격히 늘리고 있다. 오랫동안 NATO 동맹국 중 국방비 비중이 낮았던 캐나다가 미국과의 관계 경색 속에서 독자 군사력 강화에 나섰다.
-<a href="https://www.wsj.com/world/americas/canada-rushes-to-build-up-its-military-as-u-s-relationship-frays-1b3bf72e">[WSJ]</a></blockquote>
+<b>18. BoE, 대출기관 자본 규제 완화 추진...위기시 대출·시장 지원 목적</b>
+<blockquote>영국 중앙은행이 은행 자본 규제를 완화할 계획이다. 금융 위기 상황에서 대출 여력을 확대하고 금융시장을 지원하기 위한 조치라고 당국은 설명했다.
+<a href="https://www.ft.com/content/5a335f32-e123-4239-934d-bacd876a03d5">[FT]</a></blockquote>
 
-<b>19. 캐나다, 독일 TKMS에 잠수함 발주...미국 외면하고 유럽 선택</b>
-<blockquote>캐나다가 수십억 달러 규모의 획기적인 잠수함 계약을 독일·노르웨이 합작사 TKMS에 낙찰시키며 미국을 배제했다. 오타와가 미국 우선주의에서 벗어나 유럽 방산 협력을 선택한 상징적 사례로 주목된다.
-<a href="https://www.ft.com/content/ca6a89f8-6ccb-43fd-9368-97dc5f2ac0be">[FT]</a></blockquote>
+<b>19. PE 펀드 유동성 9년치 적체...소프트웨어 보유 자산 출구 난항</b>
+<blockquote>사모펀드(PE) 업계가 9년치에 달하는 유동성 적체에 직면했다. AI 우려로 소프트웨어 보유 지분 매각이 어려워지며 투자 회수(exit) 노력에 차질을 빚고 있다.
+<a href="https://www.wsj.com/finance/investing/private-equity-firms-are-sitting-on-a-nine-year-backlog-dbec673a">[WSJ]</a></blockquote>
 
-<b>20. 젤렌스키 "트럼프 생각 바뀌었다"...공중전이 전쟁 결과 좌우</b>
-<blockquote>우크라이나 Volodymyr Zelenskyy 대통령이 Donald Trump 미국 대통령이 우크라이나 전쟁에 대한 입장을 바꿨다고 언급하며 '하늘의 전투'가 러시아와의 전쟁 결과를 결정할 것이라고 강조했다.
-<a href="https://www.ft.com/content/6ca8de40-15e4-470e-a258-6dd2d8d9d83e">[FT]</a></blockquote>
+<b>20. 메인주 민주당 상원 후보 스캔들...당내 분열 심화</b>
+<blockquote>민주당 메인주 상원 후보 Graham Platner에 대한 새로운 성폭행 의혹이 제기되며 당 지도부와 Bernie Sanders가 사퇴를 촉구했다. 중간선거를 앞두고 진보·주류 진영 간 균열이 심화되고 있으며, 후보 교체 시 Susan Collins 공화당 상원의원과의 경쟁 구도가 변수다.
+<a href="https://www.wsj.com/politics/elections/graham-platner-succession-crisis-lays-bare-democrats-deep-divisions-ahead-of-midterms-f29bbaeb">[WSJ]</a> <a href="https://www.wsj.com/politics/policy/graham-platner-bernie-sanders-maine-senate-7f660348">[WSJ]</a> <a href="https://www.economist.com/united-states/2026/07/07/what-graham-platners-collapse-means-for-the-democrats">[Economist]</a> <a href="https://www.wsj.com/politics/policy/graham-platner-sexual-assault-allegation-83f0cca3">[WSJ]</a></blockquote>
 
-<b>21. 루카셴코 "벨라루스 우크라이나전 참전 않을 것"...푸틴 압박 거부</b>
-<blockquote>벨라루스 Alexander Lukashenko 대통령이 러시아의 우크라이나 전쟁에 참전하지 않을 것이라고 선언했다. 키이우는 모스크바가 가장 가까운 동맹국에 전쟁 지원을 압박하고 있다고 우려해왔다.
-<a href="https://www.ft.com/content/003c581a-0d93-4fa2-a6b1-76bff5a3d9c0">[FT]</a></blockquote>
+<b>21. 프랑스 Marine Le Pen, 대선 출마 선언...횡령 유죄에도 출마 가능</b>
+<blockquote>프랑스 극우 지도자 Marine Le Pen이 횡령 유죄 판결에도 불구하고 2027년 대선 출마를 공식 선언했다. 항소법원이 형량을 줄이며 피선거권을 유지할 수 있게 됐고, 사법 정치화 피해자로 자신을 포장하며 핵심 지지층 결집을 꾀하고 있다.
+<a href="https://www.ft.com/content/3c0ecc58-630b-4d74-8abd-b17eb73116cf">[FT]</a> <a href="https://www.economist.com/europe/2026/07/07/marine-le-pen-is-running-for-the-french-presidency">[Economist]</a> <a href="https://www.wsj.com/world/europe/french-appeals-court-allows-le-pen-to-run-in-next-years-presidential-race-dd27a5d1">[WSJ]</a> <a href="https://www.ft.com/content/2ceb7109-b936-4088-9816-a0667cd2e1f7">[FT]</a></blockquote>
 
-<b>22. NATO, 우크라이나의 러시아 타격 지지...핀란드 대통령 확인</b>
-<blockquote>Alexander Stubb 핀란드 대통령이 NATO가 우크라이나의 러시아 영토 장거리 드론 공격을 지지하고 있다고 밝혔다. 우크라이나의 공격 능력 확대가 미국의 전쟁 관점을 바꿔놓았으며 키이우가 2022년 이후 '최선의' 위치에 있다고 평가했다.
-<a href="https://www.ft.com/content/b5590af8-b60e-4270-90cf-862d0a5e28cd">[FT]</a></blockquote>
+<b>22. 영국 Nigel Farage, 재정 조사 속 의원직 사퇴...보궐선거 출마 예고</b>
+<blockquote>반이민 성향의 영국 Reform UK당 대표 Nigel Farage가 재정 의혹 조사 와중에 의회를 사퇴하고 보궐선거 재출마를 선언했다. 하지만 보수당·노동당·자민당이 불참을 선언하며 '쇼'라는 비난 속에 전략이 역풍을 맞고 있다.
+<a href="https://www.ft.com/content/b6776af8-8fb8-4059-b77a-b9553f61ef38">[FT]</a> <a href="https://www.ft.com/content/e83009d2-1a82-4ec1-83aa-2447cf1fa19b">[FT]</a> <a href="https://www.ft.com/content/80502ba6-49d8-4428-ab76-7b81ab96e512">[FT]</a> <a href="https://www.ft.com/content/1e7c34d9-d816-4a66-a1e7-3d34c4b34932">[FT]</a> <a href="https://www.ft.com/content/c10ac5b2-00ba-47c1-85db-a6754e2794e6">[FT]</a> <a href="https://www.wsj.com/world/uk/britains-nigel-farage-quits-parliament-amid-probe-into-finances-but-vows-return-bc601a95">[WSJ]</a> <a href="https://www.ft.com/content/43175c64-dcd9-4989-9de8-e7bb499bd7c0">[FT]</a></blockquote>
 
-<b>23. 우크라이나 패트리어트 미사일 부족, 키이우 방어 공백...세계적 재고 부족 탓</b>
-<blockquote>러시아의 거의 제약 없는 공습은 미국산 패트리어트 미사일 방어체계용 요격미사일이 전 세계적으로 부족한 데 따른 결과다. 우크라이나 수도가 방공망 공백 상태에 노출됐다.
-<a href="https://www.wsj.com/world/europe/ukraines-shortage-of-patriot-missiles-leaves-kyiv-undefended-4a8059bb">[WSJ]</a></blockquote>
+<b>23. Trump, 유럽 주둔 美군 전면 철수 위협...그린란드 재언급</b>
+<blockquote>Donald Trump 대통령이 유럽 주둔 미군의 전면 철수를 위협하며 그린란드 인수 발언을 재차 거론했다. NATO 동맹국보다 터키에 우호적 태도를 보이며 대서양 동맹 내 긴장이 고조되고 있다.
+<a href="https://www.ft.com/content/a23fcb67-9ef9-4a07-b645-e4f6d1474334">[FT]</a></blockquote>
 
-<b>24. 중국 핵잠수함 장거리 탄도미사일 시험발사...역내 긴장 고조</b>
-<blockquote>중국이 핵잠수함에서 장거리 탄도미사일을 시험 발사했다. 일부 역내 국가들이 즉각 비판에 나섰으며 중국은 사안을 축소하려 했지만 시기가 역내 국가들의 중국 군사력 증강 우려를 높일 것으로 보인다.
-<a href="https://www.wsj.com/world/asia/chinese-nuclear-submarine-ballistic-missile-launch-49923882">[WSJ]</a></blockquote>
+<b>24. NATO 국방 금융 통합 논의...Rachel Reeves, 경쟁 기구 통폐합 촉구</b>
+<blockquote>영국 재무장관 Rachel Reeves가 NATO 국방 금융 관련 경쟁 기구들을 통합해야 한다고 촉구했다. 동맹국들이 국방 지출 재원 조달을 위한 공동 금융 체계 구축 방안을 논의 중이다.
+<a href="https://www.ft.com/content/fe160ac5-3ef8-423f-b758-b43ff6096c43">[FT]</a> <a href="https://www.wsj.com/world/europe/a-new-model-to-fund-war-a-world-bank-for-defense-574501f9">[WSJ]</a></blockquote>
 
-<b>25. USMCA 재협상 불확실성, 투자 위축 초래...트럼프 행정부 실기</b>
-<blockquote>트럼프 행정부가 미국·멕시코·캐나다 협정(USMCA)을 현 형태로 갱신하지 못한 것은 로비스트들에게는 선물이지만 투자를 위축시키는 요인이 되고 있다. 무역 불확실성이 북미 기업 활동에 부담으로 작용한다.
-<a href="https://www.wsj.com/opinion/trade-uncertainty-is-bad-for-business-4698fa5e">[WSJ]</a></blockquote>
+<b>25. Trump, 터키 F-35 판매 금지 해제 추진...의회와 충돌 예고</b>
+<blockquote>Trump 대통령이 터키에 F-35 전투기 판매를 추진하며 의회와의 대립 국면을 예고했다. 2020년 의회는 터키가 러시아제 방공망을 운용하는 한 F-35 프로그램 참여를 금지하는 법안을 통과시킨 바 있다.
+<a href="https://www.wsj.com/politics/national-security/trumps-push-for-turkey-f-35-deal-sets-up-showdown-with-congress-bc87a2b8">[WSJ]</a> <a href="https://www.ft.com/content/3994cd63-ff43-4565-af35-3431696a1127">[FT]</a></blockquote>
 
-<b>26. 월마트 수천 품목 가격 인하, 트럼프 칭찬...쇠고기·코카콜라 포함</b>
-<blockquote>미국 최대 식료품 유통업체 월마트가 쇠고기와 코카콜라를 포함한 수천 개 품목의 가격을 인하했다. 트럼프 대통령이 이 조치를 칭찬하며 인플레이션 완화 노력의 상징으로 부각됐다.
-<a href="https://www.wsj.com/business/retail/walmart-lowers-prices-on-thousands-of-items-including-beef-and-coca-cola-1f355f74">[WSJ]</a></blockquote>
+<b>26. 시리아 다마스쿠스서 폭탄 공격...Macron 방문 중 발생</b>
+<blockquote>프랑스 Emmanuel Macron 대통령의 시리아 방문 중 다마스쿠스에서 폭탄 공격이 발생했다. Assad 정권 붕괴 이후 첫 EU 정상 방문 일정 중 벌어진 이번 사건은 시리아의 안보 불안을 드러내며, 재건 비용 $200bn 이상 소요가 예상되는 가운데 폭격이 계속되고 있다.
+<a href="https://www.economist.com/middle-east-and-africa/2026/07/07/rebuilding-syria-will-cost-over-200bn-bombs-are-not-helping">[Economist]</a> <a href="https://www.ft.com/content/254d8a92-03ae-4ce6-9ede-b8b6fff3d569">[FT]</a> <a href="https://www.wsj.com/world/middle-east/bombs-explode-in-damascus-during-french-presidents-visit-ff9cc27c">[WSJ]</a></blockquote>
 
-<b>27. 트럼프, FIFA에 레드카드 재검토 요청 확인...벨기에전 앞두고 파문</b>
-<blockquote>트럼프 대통령이 FIFA 회장 Gianni Infantino에게 전화해 미국 스트라이커 Folarin Balogun의 출장정지 재검토를 요청했다고 확인했다. 월요일 벨기에와의 월드컵 경기를 앞두고 전 세계 축구팬들 사이에서 논란이 일었다.
-<a href="https://www.wsj.com/politics/policy/trump-confirms-he-asked-for-review-of-red-card-decision-a9f75498">[WSJ]</a></blockquote>
+<b>27. 사우디-UAE 긴장...사우디, UAE 계좌 송금 차단</b>
+<blockquote>사우디아라비아가 UAE 기업·개인 계좌로의 송금을 차단하거나 지연시키고 있다는 보고가 나왔다. 두바이 기업들이 사우디발 송금이 반복적으로 반환되거나 지체되고 있다며 경제적 긴장 고조를 우려하고 있다.
+<a href="https://www.ft.com/content/07d5de48-468d-4ba9-ab82-dcfeef5f0dae">[FT]</a></blockquote>
 
-<b>28. SK하이닉스 $28bn 미국 IPO, 한국 시장 열기 미국 상륙</b>
-<blockquote>SK하이닉스의 $28bn 규모 미국 상장 계획이 세계 최대 칩 제조사 중 하나에 대한 투자를 용이하게 만들 전망이다. 반도체 섹터가 나스닥 종합지수를 1.1% 끌어올렸다.
-<a href="https://www.wsj.com/finance/stocks/global-stocks-markets-dow-news-07-06-2026-e2b13bf1">[WSJ]</a></blockquote>
+<b>28. 미국 무역적자 5월 확대...AI 부품 수입 증가</b>
+<blockquote>미국 5월 무역적자가 확대됐다. AI 관련 부품 수입 증가가 주요 원인이며, 수출은 3.2% 감소했고 특히 금 해외 판매가 크게 줄었다고 상무부가 밝혔다.
+<a href="https://www.wsj.com/economy/trade/u-s-trade-deficit-grew-in-may-0434dc3f">[WSJ]</a></blockquote>
 
-<b>29. 헤지펀드, SK하이닉스 IPO에 베팅...전 OpenAI 연구진 운용사 참여</b>
-<blockquote>전 OpenAI 연구원이 운용하는 헤지펀드 Situational Awareness가 영국 투자사 Baillie Gifford와 함께 SK하이닉스의 미국 증시 데뷔를 지원한다. 메모리 반도체 업황 회복 기대가 대형 투자자들을 끌어들이고 있다.
-<a href="https://www.ft.com/content/a6f1e92d-0232-4343-9930-6d965a67f187">[FT]</a></blockquote>
+<b>29. 캐나다 무역흑자 4년 최대...수출 사상 최고 기록</b>
+<blockquote>캐나다가 3개월 연속 무역흑자를 기록하며 4년래 최대 규모를 달성했다. 연초 부진 이후 수출이 반등하며 사상 최고치를 경신했다.
+<a href="https://www.wsj.com/economy/trade/canada-goods-trade-surplus-widens-to-most-in-four-years-with-record-exports-4fba6adc">[WSJ]</a></blockquote>
 
-<b>30. 미국 증시 상승, AI 테마주 주목...인텔·마이크론 상승 주도</b>
-<blockquote>기술주가 상승을 주도하며 인텔과 마이크론이 상승세를 보였다. 이번 주 AI 관련주들에 대한 일련의 시험대를 앞두고 투자자들이 포지션을 조정하는 모습이다.
-<a href="https://www.wsj.com/finance/stocks/u-s-stocks-rise-as-investors-brace-for-busy-week-of-ai-stocks-664c036b">[WSJ]</a></blockquote>
+<b>30. IMF, Silvana Tenreyro 차기 수석 이코노미스트 임명</b>
+<blockquote>국제통화기금(IMF)이 전 영란은행 통화정책위원 Silvana Tenreyro를 차기 수석 이코노미스트로 임명했다. 이 직책을 맡는 두 번째 여성이다.
+<a href="https://www.ft.com/content/41d1c09c-a2d1-41f4-82f3-f2a402f91dec">[FT]</a></blockquote>
 
-<b>31. Vertex, Crinetics $10bn 인수...연매출 $5bn 파이프라인 추가</b>
-<blockquote>Vertex Pharmaceuticals가 Crinetics Pharmaceuticals를 $10bn에 인수한다. Vertex는 이번 인수로 파이프라인을 확대하고 Crinetics 개발 약물 Palsonify와 Atumelnant를 통해 연간 매출을 $5bn 늘릴 수 있을 것으로 전망했다.
-<a href="https://www.wsj.com/business/deals/vertex-pharmaceuticals-to-acquire-crinetics-pharmaceuticals-for-10-billion-e739ed1c">[WSJ]</a></blockquote>
+<b>31. Fed Kevin Warsh 발언 해석 논란...시장·전문가 분석 엇갈려</b>
+<blockquote>Kevin Warsh Fed 의장 후보의 발언을 둘러싼 해석 논란이 이어지고 있다. 시장 참여자와 전문가들이 그의 통화정책 방향을 파악하려 애쓰고 있으나 명확한 결론을 내리지 못하고 있다.
+<a href="https://www.ft.com/content/8f35ac3c-f08a-4072-8b34-143f9aac67d6">[FT]</a></blockquote>
 
-<b>32. Honeywell 스핀오프 Solstice, Element $12bn 인수...AI 공급망 목표</b>
-<blockquote>Honeywell에서 분리된 Solstice Advanced Materials가 Element Solutions를 $12bn 이상에 인수한다. 고성장 전자·인공지능 인프라 시장에서 입지를 확대하려는 전략이다. 합병 후 기업가치는 약 $29bn에 달할 것으로 추산된다.
-<a href="https://www.wsj.com/business/deals/solstice-advanced-materials-to-buy-element-solutions-for-more-than-12-billion-833e5d3f">[WSJ]</a></blockquote>
+<b>32. Getty Images-Shutterstock 합병 결렬...영국 규제 장벽</b>
+<blockquote>Getty Images가 영국 규제당국의 제동 일주일 만에 Shutterstock과의 합병을 공식 철회했다. 경쟁당국의 승인 실패로 양사 통합이 무산됐다.
+<a href="https://www.wsj.com/business/getty-images-calls-off-shutterstock-merger-4ad5041c">[WSJ]</a></blockquote>
 
-<b>33. 이지젯, Castlelake £5.5bn 인수 제안 원칙 합의...유럽 항공주 부진 속 딜</b>
-<blockquote>영국 이지젯이 미국 사모신용 운용사 Castlelake의 다섯 번째 인수 제안에 원칙적 합의에 도달했다. Castlelake의 최신 제안은 이란 전쟁 이후 항공주 급락과 제트연료 가격 급등 속에 나온 것이어서 주목된다.
-<a href="https://www.wsj.com/business/airlines/easyjet-agrees-in-principle-to-castlelakes-latest-takeover-offer-4461d191">[WSJ]</a></blockquote>
+<b>33. Unilever, 투자자 Terry Smith와 분쟁...식품 사업 매각 놓고 갈등</b>
+<blockquote>베테랑 펀드매니저 Terry Smith가 Unilever 경영진이 €66bn 규모 식품 사업 분사 이후 추가 대규모 자산 매각이 없을 것이라고 오도했다고 비난했다. 회사 측 커뮤니케이션을 문제 삼으며 투자자 신뢰 이슈를 제기했다.
+<a href="https://www.ft.com/content/00072e7d-3ab5-47a5-903f-928c27667256">[FT]</a></blockquote>
 
-<b>34. 토요타, 텍사스 $3.6bn 확장 계획...타코마 생산 이전</b>
-<blockquote>토요타가 타코마 픽업트럭 생산을 텍사스 샌안토니오 공장으로 이전하며 $3.6bn 규모의 미국 확장 계획을 발표했다. 트럭·SUV 생산능력을 확대한다.
-<a href="https://www.wsj.com/business/autos/toyota-to-move-tacoma-production-to-texas-in-3-6-billion-u-s-expansion-plan-147e95b5">[WSJ]</a></blockquote>
-
-<b>35. TeraWulf·Anthropic, AI 인프라 캠퍼스 $19bn 리스...켄터키 건설</b>
-<blockquote>TeraWulf가 Anthropic과 손잡고 켄터키에 인공지능 인프라 캠퍼스를 건설하는 $19bn 규모의 리스 계약을 체결했다. AI 컴퓨팅 수요 급증에 따른 데이터센터 투자 붐을 보여주는 사례다.
-<a href="https://www.wsj.com/finance/investing/terawulf-signs-19-billion-lease-with-anthropic-for-ai-infrastructure-campus-ef26be27">[WSJ]</a></blockquote>
-
-<b>36. 마이크로소프트, Xbox 부문 3,000명 이상 해고...매출 감소·구독 부진</b>
-<blockquote>마이크로소프트가 Xbox 사업부에서 3,000명 이상을 감원한다. 비디오게임 부문의 매출이 감소하고 Netflix 방식의 구독 서비스가 기대에 크게 못 미치는 상황에서 나온 구조조정이다.
-<a href="https://www.wsj.com/tech/microsoft-layoffs-xbox-59e7f6df">[WSJ]</a></blockquote>
+<b>34. 브라질 Vale 지배구조 갈등 격화...회장 사임</b>
+<blockquote>브라질 광산기업 Vale의 Daniel Stieler 회장이 사임했다. 이사회 프로세스에 대한 정치적 개입 가능성 경고가 나오며 기업 지배구조 갈등이 심화되고 있다.
+<a href="https://www.ft.com/content/a4d3794d-8e28-496d-bb57-748e42ad5e8c">[FT]</a></blockquote>
 
 ━━━━━━━━━━━━━━━━━━━━
 📡 <b>출처: WSJ · FT · The Economist</b>
