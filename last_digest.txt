@@ -4,141 +4,33 @@
 
 ✅ <b>간밤의 주요 헤드라인</b>
 
-<b>1. 트럼프, 이란과 협상 지속 의사 밝혀...정전 선언에도 협의 지속</b>
-<blockquote>트럼프 대통령이 이란과 협상을 계속하기로 합의했다고 밝혔다. 정전 종료를 선언했지만 대화는 이어가겠다는 입장이다. 시장은 중동 긴장 완화 기대감으로 반응했다.
-<a href="https://www.ft.com/content/b04aea1d-cd15-4e4e-ac8e-d39be1f542a9">[FT]</a></blockquote>
+<b>1. Trump 행정부 기업 압박 강화...인플레이션 장기화에 초강경 포퓰리즘 전환</b>
+<blockquote>Trump 행정부가 물가 인하를 위해 미국 기업에 대한 압박을 강화하고 있다. 인플레이션이 예상보다 오래 지속되자 '초강경 포퓰리즘 playbook'으로 정책 기조를 전환했다는 비판이 나온다. 백악관은 기업들에 가격 인하를 직접 요구하는 등 개입 수위를 높이고 있으며, 시장에서는 정책 예측 가능성 약화 우려가 제기된다.
+<a href="https://www.ft.com/content/3e3d18d8-d6c2-4846-93ad-67ea0aaa12a2">[FT]</a></blockquote>
 
-<b>2. 이란, 호르무즈 해협 자국 선박 급행 통과 추진...봉쇄 속 특혜</b>
-<blockquote>전투 재개 이후 호르무즈 해협 통행이 사실상 정체된 가운데, 이란은 자국 선박에만 신속 통과를 허용하고 있다. 해협 봉쇄가 장기화할 경우 원유 공급망 차질 우려가 커진다.
-<a href="https://www.wsj.com/world/middle-east/iran-is-rushing-its-own-ships-through-a-snarled-strait-of-hormuz-f5fc505a">[WSJ]</a></blockquote>
+<b>2. Trump, 캐나다-미국 교량 프로젝트 승인...$45억 인프라 사업 속도</b>
+<blockquote>Trump 대통령이 오랜 기간 지연됐던 캐나다-미국 국경 교량 건설 프로젝트를 승인했다. 총 $45억 규모의 이 사업은 양국 간 물류 인프라 개선을 목표로 하며, Trump는 "훨씬 나은 조건을 얻어냈다"고 주장했다. 행정부의 대규모 인프라 투자 기조가 대외협상과 맞물리며 구체화되는 모습이다.
+<a href="https://www.ft.com/content/7c9c3e82-63c5-442f-aef5-09f6b7bb501f">[FT]</a></blockquote>
 
-<b>3. 이스라엘 정보로 트럼프, 구형 에어포스원 재사용...신형기 방어력 우려</b>
-<blockquote>이스라엘이 제공한 정보에 따라 트럼프 대통령의 신형 전용기가 방어 능력 부족으로 사용 중단됐다. 대통령은 구형 에어포스원으로 복귀했으며, 중동 긴장 고조 속 안보 우려가 반영됐다.
-<a href="https://www.wsj.com/politics/national-security/trump-air-force-one-israel-iran-intelligence-7b51d456">[WSJ]</a></blockquote>
+<b>3. Trump 행정부, NYT 기자 4명 소환...언론 압박 수위 급상승</b>
+<blockquote>Trump 행정부가 New York Times 기자 4명에게 소환장을 발부했다. 이들은 대통령 전용기로 사용 중인 카타르 기증 항공기의 보안 문제를 보도한 취재팀이다. 행정부의 언론 압박이 법적 수단으로까지 확대되면서 언론 자유와 제도적 견제 약화 논란이 커지고 있다.
+<a href="https://www.wsj.com/politics/policy/trump-administration-subpoenas-new-york-times-reporters-after-air-force-one-reporting-b7f1b368">[WSJ]</a></blockquote>
 
-<b>4. 레바논 휴전 공고화 위해 미국 협상팀 파견...이스라엘 철수 압박</b>
-<blockquote>미국이 이스라엘-헤즈볼라 휴전을 강화하기 위해 베이루트에 협상팀을 파견했다. 레바논 대통령은 이스라엘군 철수를 위한 압박이 필요하다고 강조했다.
-<a href="https://www.ft.com/content/c82586af-60ca-476f-9961-f8b6b5e791ff">[FT]</a></blockquote>
+<b>4. 연방대법원 앨라배마 선거구 재편성 승인...흑인 유권자 정치적 영향력 축소</b>
+<blockquote>연방대법원이 앨라배마주의 새 선거구 지도를 승인하면서, 남부 주들이 흑인 다수 선거구 설정 의무에서 벗어날 수 있게 됐다. 이번 판결로 앨라배마를 비롯한 남부 지역 흑인 유권자들의 정치적 대표성이 약화될 전망이다. 민주당은 남부 기반 의석 확보에 타격을 받을 것으로 보인다.
+<a href="https://www.wsj.com/politics/elections/in-the-south-black-democrats-fight-for-political-survival-13479f14">[WSJ]</a></blockquote>
 
-<b>5. 유가 주간 상승세 유지했으나 금요일 하락...중동 긴장 지속에도</b>
-<blockquote>유가는 호르무즈 해협 공격과 미-이란 군사 충돌 재개로 주간 기준 상승했으나, 금요일에는 긴장 완화 기대감에 하락 마감했다. 중동 리스크가 억제될 수 있다는 전망이 반영됐다.
-<a href="https://www.wsj.com/finance/commodities-futures/oil-falls-on-prospects-u-s-iran-tensions-may-be-contained-5a767f46">[WSJ]</a></blockquote>
+<b>5. 민주당 메인주 전략 실패 노출...상원 재탈환 전망 어두워져</b>
+<blockquote>민주당이 메인주 상원 경선에서 후보 검증 실패로 치명타를 입었다. 유력 후보였던 Platner의 급격한 지지율 하락은 당 전략팀이 경고 신호를 놓쳤음을 보여준다. 민주당은 상원 다수당 탈환을 목표로 했으나, 메인주 공백으로 전략 재편이 불가피해졌다.
+<a href="https://www.ft.com/content/76ca7934-189a-4207-89a2-cf060b87f56b">[FT]</a></blockquote>
 
-<b>6. IEA, 중동·러 정제시설 타격에 정제유 공급 부족 경고...휘발유·경유 위기</b>
-<blockquote>국제에너지기구(IEA)는 중동과 러시아 정제시설이 전쟁 영향으로 타격을 받으면서 휘발유·경유 공급 부족이 우려된다고 경고했다. 글로벌 소비는 여전히 높은 수준을 유지 중이다.
-<a href="https://www.ft.com/content/54261075-72c5-4b47-9d53-8c94738201e3">[FT]</a></blockquote>
+<b>6. 데이터센터 확장에 농업계 반발...AI 인프라 vs 자원 배분 갈등 표면화</b>
+<blockquote>AI 데이터센터 건설 붐이 농업용 토지와 수자원 확보 경쟁으로 번지고 있다. 미국 농업인과 목축업자들은 농지가 데이터센터 부지로 전환되고 물 사용량이 급증하는 것에 대해 경고하고 나섰다. 기술 인프라 투자와 식량 안보 사이 자원 배분 갈등이 새로운 정책 이슈로 떠오르고 있다.
+<a href="https://www.wsj.com/business/energy-oil/a-new-foe-has-emerged-for-data-centers-farmers-4a3eda8f">[WSJ]</a></blockquote>
 
-<b>7. 미 국채수익률 상승...중동 긴장·Warsh 청문회 대기</b>
-<blockquote>미국 국채 수익률이 중동 긴장 재개와 유가 상승, 그리고 Kevin Warsh 연준 의장 후보자 인준 청문회를 앞두고 상승 마감했다. 금리 정책 변화 가능성이 주목받고 있다.
-<a href="https://www.wsj.com/finance/investing/jgbs-edge-higher-tracking-gains-in-u-s-treasurys-2cb325e7">[WSJ]</a></blockquote>
-
-<b>8. 차주 포커스는 미국 CPI와 중국 경제지표...인플레 재점화 여부 관건</b>
-<blockquote>다음 주 주요 일정은 미국 소비자물가지수(CPI) 발표와 중국 경제지표 발표다. 연준의 금리 인상 재개 가능성 판단에 핵심 변수가 될 전망이다.
-<a href="https://www.wsj.com/economy/week-ahead-for-fx-bonds-u-s-inflation-figures-in-focus-china-data-due-fc4a1c71">[WSJ]</a></blockquote>
-
-<b>9. 미시간 소비자심리 논란...체감 경기 vs 조사 신뢰성 공방</b>
-<blockquote>미시간대 소비자심리지수가 역대 최저치를 기록하면서, 실제 경기 체감과 조사 방법론 신뢰성을 둘러싼 논쟁이 벌어지고 있다. 미시간대는 조사 방식을 옹호하며 반박에 나섰다.
-<a href="https://www.wsj.com/economy/consumers/do-we-really-feel-this-lousy-about-the-economy-or-is-a-key-survey-broken-06c8c9ca">[WSJ]</a></blockquote>
-
-<b>10. 트럼프 주택법안 서명 거부했으나 자동 발효...유권자 부담 완화 법안</b>
-<blockquote>트럼프 대통령이 주택 구매 부담 완화를 위한 법안 서명을 거부했으나, 10일 기한 만료로 법안이 자동 발효됐다. 유권자 주택 affordability 우려를 겨냥한 초당적 법안이었다.
-<a href="https://www.wsj.com/politics/policy/trump-says-he-wont-sign-landmark-housing-bill-5b27976c">[WSJ]</a></blockquote>
-
-<b>11. 상원, 백악관과 러시아 제재 강화 합의...트럼프 우크라 지원 전환 후속</b>
-<blockquote>미 상원이 백악관과 러시아 제재 강화안에 합의했다. 트럼프 대통령이 최근 우크라이나 지원 확대 쪽으로 입장을 선회한 직후 나온 조치다.
-<a href="https://www.ft.com/content/54fba496-986c-44a0-99db-dfb8bb6fce23">[FT]</a></blockquote>
-
-<b>12. 영국, EU 우크라 국방 대출 €60bn 참여...Starmer 유럽 협력 신호</b>
-<blockquote>영국이 EU의 우크라이나 국방 대출 프로그램에 참여하기로 했다. Keir Starmer 총리가 임기 말 유럽과의 긍정적 관계 구축을 위해 재정 공약을 약속한 것으로 풀이된다.
-<a href="https://www.ft.com/content/3c8b250f-535e-44ae-99c6-dc300125d68d">[FT]</a></blockquote>
-
-<b>13. SK하이닉스, 나스닥 데뷔 첫날 13% 급등...$149 공모가 돌파</b>
-<blockquote>SK하이닉스가 나스닥 상장 첫날 주가가 $177까지 치솟으며 13% 급등했다. $149 공모가를 크게 상회하며 투자자들의 뜨거운 반응을 확인했다.
-<a href="https://www.ft.com/content/33133a86-925e-4395-9f60-35e2a4052500">[FT]</a></blockquote>
-
-<b>14. SK하이닉스 역대급 IPO에도 미 증시 소폭 상승...반도체 변동성 제한적</b>
-<blockquote>SK하이닉스의 대규모 상장에도 불구하고 미국 주요 지수는 소폭 상승에 그쳤다. 반도체 섹터 변동성이 우려됐으나 시장 전체로 확산되지는 않았다.
-<a href="https://www.wsj.com/finance/stocks/south-korean-memory-chip-makers-historic-u-s-debut-jolts-stocks-1cc199b2">[WSJ]</a></blockquote>
-
-<b>15. 미국, UAE에 첨단칩·드론 수출규제 완화...걸프 기술 접근성 확대</b>
-<blockquote>미국이 아랍에미리트(UAE)에 대한 첨단 반도체 및 드론 수출 규제를 완화했다. UAE가 미국의 고도 기술에 대한 접근성을 확보하게 됐다.
-<a href="https://www.ft.com/content/8f33a9b2-bf8a-4c11-8a94-5d86a93b29ba">[FT]</a></blockquote>
-
-<b>16. AI 장기채 수요 감소...빅테크 차입 급증 속 수익성 회의론 확산</b>
-<blockquote>빅테크의 차입이 급증하는 가운데 AI 관련 장기 채권에 대한 투자자 수요가 줄어들고 있다. AI 섹터의 장기 수익성에 대한 회의론이 반영된 것으로 보인다.
-<a href="https://www.ft.com/content/28380abc-72f9-4287-8d36-2823c73358ce">[FT]</a></blockquote>
-
-<b>17. 중국, 5개년 계획서 도시 고용목표 삭제...수십년 만에 처음</b>
-<blockquote>중국이 최신 5개년 계획에서 도시 고용 증가 목표를 삭제했다. 수십 년간 경제 계획의 고정 요소였던 수치가 처음으로 빠지면서 경제 압박이 가중되고 있음을 시사한다.
-<a href="https://www.ft.com/content/4c7c760c-635f-4611-93ae-961a2481062d">[FT]</a></blockquote>
-
-<b>18. Volkswagen·BMW, 중국 판매 급감...2분기 심각한 타격</b>
-<blockquote>독일 자동차 제조사 폭스바겐과 BMW가 2분기 중국 판매 급감으로 심각한 타격을 입었다. 중국 시장 둔화가 지속되면서 다른 지역의 실적 개선을 상쇄했다.
-<a href="https://www.wsj.com/business/autos/bmws-first-half-sales-hit-by-weak-china-performance-91b9bcef">[WSJ]</a></blockquote>
-
-<b>19. 중국, 재사용 로켓 회수 성공...우주 프로그램 이정표</b>
-<blockquote>중국이 재사용 가능 로켓 발사 및 부분 회수에 성공하며 우주 프로그램의 이정표를 세웠다. 미국과 SpaceX와의 경쟁에서 중요한 진전을 이뤘다.
-<a href="https://www.wsj.com/tech/china-successfully-launches-reusable-rocket-in-a-win-for-space-program-a891c5c6">[WSJ]</a></blockquote>
-
-<b>20. Apollo, easyJet £5.7bn 인수 합의...Castlelake 제안 누르고 역전승</b>
-<blockquote>미국 자산운용사 Apollo가 영국 저가항공사 easyJet을 £5.7bn(약 $7.6bn)에 인수하기로 원칙 합의했다. Castlelake와의 인수전 막판에 더 높은 가격을 제시하며 역전에 성공했다.
-<a href="https://www.ft.com/content/7a6d7e59-a040-41cf-a8b5-2aafcaa1731b">[FT]</a></blockquote>
-
-<b>21. Apollo의 easyJet 인수전 막판 역전 과정...숫자가 결정했다</b>
-<blockquote>Apollo가 Castlelake의 easyJet 인수 제안을 막판에 뒤집은 과정이 공개됐다. 미국 투자회사가 더 높은 금액을 제시하면서 인수전이 마무리됐다.
-<a href="https://www.ft.com/content/3ed65968-cca2-4e13-aaa7-298a0ffacf44">[FT]</a></blockquote>
-
-<b>22. easyJet 수익성 과제 남아...Apollo, Ryanair 수준으로 끌어올려야</b>
-<blockquote>Apollo가 easyJet 인수 후 수익성 개선이라는 과제에 직면했다. 매출 확대와 비용 절감을 통해 Ryanair 수준의 수익성을 달성해야 한다는 분석이 나온다.
-<a href="https://www.ft.com/content/ae1663ce-7487-4844-ba05-70933a42e3ff">[FT]</a></blockquote>
-
-<b>23. 억만장자 Xavier Niel, Vodafone £4.4bn 인수 추진...빠른 구조조정 기대</b>
-<blockquote>프랑스 억만장자 Xavier Niel이 영국 통신사 Vodafone 지분 £4.4bn 인수를 추진 중이다. 투자자들은 Niel의 영입이 더 빠르고 과감한 개선을 가져올 것으로 기대하고 있다.
-<a href="https://www.ft.com/content/b93b6144-4e80-43f2-a368-a58bf663b309">[FT]</a></blockquote>
-
-<b>24. Circle, 미국 신탁은행 승인 획득...스테이블코인 기업 은행업 진출</b>
-<blockquote>스테이블코인 발행사 Circle이 미국 규제당국으로부터 신탁은행 영업 승인을 받았다. 암호화폐 중심 은행 출범을 위한 이정표로, Circle 주가는 승인 소식에 상승했다.
-<a href="https://www.ft.com/content/21ea4940-52a5-4cf9-8d14-f809a47ca38b">[FT]</a></blockquote>
-
-<b>25. 영국, MS·구글·아마존·오라클 '중요 제3자' 지정...클라우드 규제 강화</b>
-<blockquote>영국 규제당국이 Microsoft, Google, Amazon, Oracle을 '중요 제3자'로 지정해 감독을 강화한다. 재무부는 클라우드 서비스의 회복탄력성 개선이 목적이라고 밝혔다.
-<a href="https://www.ft.com/content/87895bfb-df47-49c7-a339-e5e849b9b271">[FT]</a></blockquote>
-
-<b>26. Meta, EU 중독성 앱 규제 위반 가능성...거액 과징금 위기</b>
-<blockquote>EU 규제당국이 Meta가 사용자를 중독성 앱으로부터 보호하지 못했다고 밝혔다. 디지털 규정 위반 가능성이 제기되면서 거액의 과징금 부과 가능성이 열렸다.
-<a href="https://www.wsj.com/tech/meta-failed-to-protect-users-from-addictive-apps-eu-says-a4e21a74">[WSJ]</a></blockquote>
-
-<b>27. Shein, 중국 당국 홍콩 IPO 승인 획득...수년간 지연 끝</b>
-<blockquote>패스트패션 업체 Shein이 중국 증권 규제당국으로부터 홍콩 증시 상장 승인을 받았다. 수년간 지연됐던 IPO가 마침내 추진력을 얻게 됐다.
-<a href="https://www.ft.com/content/ccf814fb-d8fe-46f0-b6e4-de8cbe06e028">[FT]</a></blockquote>
-
-<b>28. 금·은 주간 하락 마감...긴장 완화 기대에 안전자산 수요 감소</b>
-<blockquote>금과 은 가격이 하루 기준과 주간 기준 모두 하락 마감했다. 중동 긴장 완화 기대감으로 안전자산 선호가 줄어든 영향으로 풀이된다.
-<a href="https://www.wsj.com/finance/commodities-futures/golds-rally-likely-limited-by-headwinds-7bc5018f">[WSJ]</a></blockquote>
-
-<b>29. 캐나다 6월 실업률 6.5%로 하락...6개월래 최저</b>
-<blockquote>캐나다 6월 실업률이 6.5%로 6개월 만에 최저치를 기록했다. 고용주들이 1만8200명을 추가 고용하며 2026년 초 급감했던 고용이 회복세를 이어가고 있다.
-<a href="https://www.wsj.com/economy/central-banking/canada-unemployment-rate-slips-to-6-5-in-june-27ba3f7d">[WSJ]</a></blockquote>
-
-<b>30. 미국 주택 거래 여름 반등 조짐...모기지 신청 2023년 이후 최고</b>
-<blockquote>미국 주택 시장이 장기 침체에서 벗어나 여름 반등 조짐을 보이고 있다. 주택 매매 선행지표인 모기지 신청 건수가 2023년 이후 최고치로 상승했다.
-<a href="https://www.wsj.com/economy/housing/why-home-sales-are-poised-to-pick-up-this-summer-a46ed77e">[WSJ]</a></blockquote>
-
-<b>31. Delta 항공 2분기 매출 증가했으나 유가 급등에 이익 감소</b>
-<blockquote>Delta 항공이 2분기 매출 급증을 기록했으나, 하늘 높은 유가로 인해 이익은 감소했다. 항공사는 공급 좌석을 1%만 늘렸음에도 수요 증가로 매출을 끌어올렸다.
-<a href="https://www.wsj.com/business/earnings/delta-sales-keeps-climbing-while-sky-high-fuel-costs-cut-profit-2774aee1">[WSJ]</a></blockquote>
-
-<b>32. 보잉 737 객실 압력 상실 사고...엔진 문제로 창문 이탈, 승객 부상</b>
-<blockquote>Ryanair 소속 보잉 737기가 이륙 직후 엔진 문제로 창문이 이탈하며 승객 1명이 부분적으로 밖으로 빨려나가는 사고가 발생했다. 항공기는 16,000피트까지 상승 후 긴급 회항했다.
-<a href="https://www.wsj.com/business/airlines/boeing-737-makes-emergency-landing-after-broken-window-injures-passenger-fa602ea1">[WSJ]</a></blockquote>
-
-<b>33. Ryanair 항공기 창문 파손 긴급착륙...승객 부상 발생</b>
-<blockquote>Ryanair 보잉 737 항공기가 창문 파손으로 긴급 착륙했다. 창문 옆 승객이 거의 기체 밖으로 빨려나갈 뻔한 것으로 전해졌다.
-<a href="https://www.ft.com/content/8546fc0d-e556-438d-9ab1-16b467dda215">[FT]</a></blockquote>
-
-<b>34. Warburg Pincus, 전문약국 $7bn 이상 인수 임박...2022년 이후 PE 보유</b>
-<blockquote>사모펀드 Warburg Pincus가 전문약국 기업 Pantherx Rare를 $70억 이상에 인수하는 거래가 막바지에 이르렀다. 이 회사는 2022년부터 사모펀드 컨소시엄이 보유해왔다.
-<a href="https://www.wsj.com/business/deals/warburg-pincus-near-over-7-billion-deal-for-specialty-pharmacy-company-99030b6f">[WSJ]</a></blockquote>
+<b>7. AI 리브랜딩 기업들 주가 상승 지속 실패...밸류에이션 프리미엄 단명</b>
+<blockquote>AI 전환을 선언하며 리브랜딩한 기업 대부분이 초기 주가 상승을 유지하지 못한 것으로 나타났다. FT 분석 결과, AI 리브랜딩 기업들의 밸류에이션 프리미엄은 단기에 그쳤으며 실적 개선 없이는 지속되지 않았다. 시장은 AI 테마보다 실질적인 수익성 개선을 요구하고 있다.
+<a href="https://www.ft.com/content/07fa9ce9-ac21-484c-a57c-078b0bb0fd3b">[FT]</a></blockquote>
 
 ━━━━━━━━━━━━━━━━━━━━
 📡 <b>출처: WSJ · FT · The Economist</b>
