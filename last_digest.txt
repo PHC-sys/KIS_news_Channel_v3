@@ -4,161 +4,133 @@
 
 ✅ <b>간밤의 주요 헤드라인</b>
 
-<b>1. Trump, 호르무즈 해협 통행료 철회...이란 봉쇄 재개로 전략 전환</b>
-<blockquote>Trump 대통령이 호르무즈 해협 화물 20% 통행료 부과 계획을 철회하고 이란 항구 봉쇄를 재개했다. 미국은 7차 공습을 시작하며 전쟁 전략을 재조정했다. 호르무즈 해협 개방 보장 약속과 함께 걸프 지역 투자로 통행료를 대체하겠다고 밝혔다.
-<a href="https://www.wsj.com/world/middle-east/trump-iran-strait-of-hormuz-us-toll-6d40a276">[WSJ]</a> <a href="https://www.ft.com/content/359bc137-c375-4812-87a9-07fbba8e347f">[FT]</a></blockquote>
+<b>1. 미국, 호르무즈 해협 봉쇄 재개...이란行 유조선 나포</b>
+<blockquote>미국이 Kharg Island로 향하던 유조선을 나포하며 호르무즈 해협 봉쇄를 재개했다. 해협 통제권을 둘러싼 군사적 충돌이 격화되면서 글로벌 석유 공급에 위협이 커지고 있다.
+<a href="https://www.ft.com/content/c2325003-2199-491a-83d4-c1e70c7e8e44">[FT]</a></blockquote>
 
-<b>2. 호르무즈 해협 전투 격화...Trump 대통령, 위험한 새 국면 진입</b>
-<blockquote>Trump의 세 번째 주요 군사전략 전환이 이뤄지며 5개월째 이란 전쟁이 새로운 국면에 접어들었다. 대통령은 이란과의 교착 상태를 타개할 방법을 모색 중이다. 호르무즈 해협을 둘러싼 브링크맨십이 심화되고 있다.
-<a href="https://www.wsj.com/world/middle-east/the-battle-for-hormuz-trump-shifts-into-dangerous-new-phase-in-iran-war-eb19979a">[WSJ]</a></blockquote>
+<b>2. Trump, 이란 군사작전 확대 검토...지상군·핵시설 폭격 포함</b>
+<blockquote>Trump 대통령이 이란에 대한 군사작전 확대를 검토 중인 것으로 나타났다. 외교적 해결을 선호하지만 지상군 투입과 Pickaxe Mountain 핵시설 폭격 등의 옵션이 브리핑됐다.
+<a href="https://www.wsj.com/world/middle-east/trump-leans-toward-expanding-u-s-military-operations-in-iran-6c230462">[WSJ]</a></blockquote>
 
-<b>3. 미국-이란, 미사일로 경고 메시지 교환...4월 휴전 이후 최대 위기</b>
-<blockquote>4월 휴전 이후 가장 위험한 교전 상황이 전개되고 있다. 양국은 미사일 공격을 통해 신호를 주고받는 중이다. Washington과 Tehran은 서로에게 경고 메시지를 발신하며 긴장을 고조시키고 있다.
-<a href="https://www.ft.com/content/42a27e37-9868-4465-9bde-8b5261088608">[FT]</a></blockquote>
+<b>3. 석유재고 완충기능 상실 우려...이란 전쟁 장기화에 쇼크 흡수력 바닥</b>
+<blockquote>이란 전쟁 초기 시장을 안정시켰던 석유재고가 고갈되면서 호르무즈 해협 재봉쇄가 공급 쇼크로 직결될 가능성이 커졌다. 거래자들은 완충 여력이 소진됐다고 경고했다.
+<a href="https://www.ft.com/content/6c314457-ce9a-4689-b3e1-ff637de0d6bf">[FT]</a></blockquote>
 
-<b>4. 이란, 유가 시장 생명선 '셔틀 운항' 공격...원유 수송 차질 확대</b>
-<blockquote>이란이 호르무즈 해협을 오가는 셔틀 탱커 운항을 공격하고 있다. 소수 선주만이 호르무즈 해협 통과를 감수하던 상황에서 이 왕복 항로가 유가 시장의 핵심 공급망이었다. 공격으로 원유 수송에 차질이 빚어지고 있다.
-<a href="https://www.wsj.com/world/middle-east/iran-is-attacking-a-crucial-oil-market-lifeline-shuttle-runs-ff9f31ed">[WSJ]</a></blockquote>
+<b>4. 미국 원유재고 170만배럴 감소...예상 상회하는 소진세</b>
+<blockquote>지난주 미국 상업용 원유재고는 170만배럴 감소했다. 시장 예상치 90만배럴을 크게 웃도는 수준으로, 공급 우려를 더했다.
+<a href="https://www.wsj.com/business/energy-oil/u-s-crude-oil-stockpiles-post-weekly-withdrawal-aa4c3b69">[WSJ]</a></blockquote>
 
-<b>5. 유가, 호르무즈 해협 전투 우려에 배럴당 $87 돌파</b>
-<blockquote>Brent 원유가 $87를 터치하며 에너지 시장에 경보가 울렸다. 미국이 이란의 탱커 공격에 대응해 추가 공습을 단행하자 시장이 반응했다. 호르무즈 해협 전투 격화가 유가 상승을 견인하고 있다.
-<a href="https://www.ft.com/content/2d899824-5f94-4f0c-81fc-c54a0750e498">[FT]</a></blockquote>
+<b>5. 중국 원유매수 재개 조짐...글로벌 유가 완충 효과 사라질 듯</b>
+<blockquote>장기간 이어진 중국의 원유 매수 중단이 끝날 조짐을 보이고 있다. 시장 관계자들은 중국 수요 복귀가 미·이란 긴장 고조와 맞물려 유가 상승 압력을 가중할 것으로 전망했다.
+<a href="https://www.wsj.com/business/energy-oil/chinas-crude-buying-pause-has-helped-cushion-the-market-that-might-be-changing-70150775">[WSJ]</a></blockquote>
 
-<b>6. Trump 호르무즈 브링크맨십, 글로벌 연료 공급난 악화</b>
-<blockquote>Trump의 호르무즈 해협 대치 전략이 전 세계 연료 공급 위기를 심화시키고 있다. 유가 상승은 문제의 일부일 뿐이다. 여름 성수기를 앞두고 연료 재고 부족이 가시화되고 있다.
-<a href="https://www.economist.com/finance-and-economics/2026/07/14/trumps-hormuz-brinkmanship-is-worsening-a-global-fuel-crunch">[Economist]</a></blockquote>
+<b>6. 6월 미국 PPI 0.3% 하락...디스인플레이션 신호 뚜렷</b>
+<blockquote>6월 생산자물가지수(PPI)가 전월 대비 0.3% 하락했다. 5월 0.6% 상승 후 역전된 것으로, 시장은 보합을 예상했으나 하락폭이 컸다. 인플레이션 둔화 신호가 강화됐다.
+<a href="https://www.wsj.com/economy/central-banking/u-s-producer-price-index-fell-in-june-276a72e9">[WSJ]</a></blockquote>
 
-<b>7. Trump, 호르무즈 재개방 '좋은 선택지' 없어...이란도 재정난 압박</b>
-<blockquote>Trump 대통령이 호르무즈 해협 재개방을 위한 효과적 방안을 찾지 못하고 있다. 다만 교착 상태는 재정난에 시달리는 이란에도 비용을 부과하고 있다. 양측 모두 출구 전략을 고민하는 상황이다.
-<a href="https://www.economist.com/middle-east-and-africa/2026/07/14/donald-trump-has-no-good-options-for-reopening-the-strait-of-hormuz">[Economist]</a></blockquote>
+<b>7. 국채수익률 하락 지속...인플레 냉각에 금리인하 기대 커져</b>
+<blockquote>미국 국채수익률이 인플레이션 냉각 신호에 하락세를 이어갔다. 중동 긴장 소강과 맞물려 연준의 완화적 통화정책 기대가 강화되는 모습이다.
+<a href="https://www.wsj.com/finance/investing/jgbs-mixed-may-track-gains-in-u-s-treasurys-9ca01870">[WSJ]</a></blockquote>
 
-<b>8. 호르무즈 브링크맨십...미국 대통령 함정, 이란도 과도한 베팅</b>
-<blockquote>호르무즈 해협을 둘러싼 미국과 이란의 브링크맨십이 심화되고 있다. Trump 대통령은 딜레마에 빠졌지만 Tehran도 지나친 모험을 하고 있다. 양측 모두 출구 없는 대치에 갇힌 모양새다.
-<a href="https://www.ft.com/content/862aa8f3-2e08-4dbc-ba7f-e85a69b25748">[FT]</a></blockquote>
+<b>8. 중국 경제성장률 수년래 최저...내수 부진 지속</b>
+<blockquote>중국 경제가 수년 중 가장 낮은 성장률을 기록하며 글로벌 수요 둔화 우려를 키웠다. 무역수지 축소와 함께 세계 경제 성장 모멘텀 약화가 우려된다.
+<a href="https://www.ft.com/content/64c2023f-48d0-409c-9bb0-2980384a98f1">[FT]</a></blockquote>
 
-<b>9. 6월 CPI 3.5%, 예상보다 둔화...휘발유 가격 하락 기여</b>
-<blockquote>미국 6월 소비자물가지수(CPI)가 전년 대비 3.5% 상승에 그치며 시장 예상을 하회했다. 휘발유 가격 급락이 인플레이션 완화에 기여했다. 에너지 가격 하락이 전체 물가 상승률을 억제했다.
-<a href="https://www.wsj.com/economy/cpi-inflation-report-june-2026-afb89992">[WSJ]</a> <a href="https://www.ft.com/content/cb3b2887-d805-402b-9c85-55e3b44d867b">[FT]</a></blockquote>
+<b>9. 중국 무역흑자 축소...재정긴축 국면 진입</b>
+<blockquote>중국의 무역수지 흑자가 축소되면서 세계 2위 경제대국이 의도치 않은 재정긴축 국면에 진입했다. 글로벌 수요 둔화와 맞물린 구조적 변화로 분석된다.
+<a href="https://www.economist.com/finance-and-economics/2026/07/15/chinas-trade-gap-is-narrowing-and-other-surprises">[Economist]</a></blockquote>
 
-<b>10. 6월 인플레이션 하락, 연준 7월 금리 인상 가능성 소멸</b>
-<blockquote>6월 헤드라인·근원 인플레이션이 모두 예상을 밑돌았다. 이 지표만으로는 연준이 금리 인상에 나설 이유가 부족하다. 시장은 7월 금리 인상 베팅을 대폭 축소했다.
-<a href="https://www.ft.com/content/24f2322d-1fd8-439b-84da-b78e0b6eeb5d">[FT]</a></blockquote>
+<b>10. 유로존 산업생산 5월 예상외 감소...에너지 비용 부담</b>
+<blockquote>유로존 산업생산이 5월 예상을 깨고 감소했다. 미·이란 분쟁 이후 에너지 비용 상승 속에서도 3개월간 선방했던 생산 활동이 꺾였다.
+<a href="https://www.wsj.com/economy/global/eurozone-industrial-production-fell-unexpectedly-in-may-ed079f2a">[WSJ]</a></blockquote>
 
-<b>11. CPI 하락에 국채 수익률·달러 동반 약세...금리 인상 기대 후퇴</b>
-<blockquote>미국 인플레이션 둔화 소식에 국채 수익률이 하락하고 달러화가 약세를 보였다. 완만한 CPI 지표에 연준 금리 인상 우려가 완화되며 채권이 랠리했다. 인플레이션 공포 완화가 시장 심리를 개선했다.
-<a href="https://www.wsj.com/finance/jgbs-mixed-may-be-weighed-by-declines-in-u-s-treasurys-a3a67b11">[WSJ]</a></blockquote>
+<b>11. 미국 장기실업자 비중 5년래 최고 수준...고용 회복 이면의 그늘</b>
+<blockquote>경제가 4개월 연속 일자리를 늘렸지만 6개월 이상 구직 중인 장기실업자 비중이 5년래 최고 수준을 기록했다. 거의 200만 명이 노동시장에서 장기간 배제된 상태다.
+<a href="https://www.wsj.com/economy/jobs/unemployment-long-term-job-market-629199f9">[WSJ]</a></blockquote>
 
-<b>12. 영국 국채 수익률 5% 돌파...유가 급등에 Burnham 출범 앞두고 압박</b>
-<blockquote>영국 10년물 국채 수익률이 5%를 일시 돌파하며 5월 이후 최고치를 기록했다. 유가 급등이 인플레이션 우려를 자극한 가운데 Andy Burnham 총리 취임을 며칠 앞두고 차입 비용이 치솟았다. 중동 전쟁 여파가 영국 채권시장을 압박하고 있다.
-<a href="https://www.ft.com/content/107fc895-14db-4003-baa0-d81ed29c477f">[FT]</a></blockquote>
+<b>12. 미국 증시 마감 혼조...메가캡 기술주 강세에도 반도체 약세</b>
+<blockquote>미국 증시는 메가캡 기술주 상승에 힘입어 소폭 올랐으나 반도체주 약세가 상승폭을 제한했다. 양호한 실적에도 섹터 간 쏠림이 뚜렷했다.
+<a href="https://www.wsj.com/finance/stocks/megacap-tech-lifts-u-s-stocks-c654d871">[WSJ]</a></blockquote>
 
-<b>13. Kevin Warsh 의장 "높은 인플레이션 불용"...연준 매파 의지 천명</b>
-<blockquote>Kevin Warsh 연준 의장이 의회에서 인플레이션을 낮추겠다고 공언하며 "지속적으로 높은 인플레이션을 용인하지 않겠다"고 밝혔다. 금리 결정 위원회 위원들이 인플레이션 억제에 강경한 입장을 보이고 있다고 강조했다.
-<a href="https://www.wsj.com/economy/central-banking/warsh-tells-congress-the-fed-has-no-tolerance-for-high-inflation-50c5dfa8">[WSJ]</a></blockquote>
+<b>13. BlackRock 자산 15조달러 돌파...주가 7% 급등</b>
+<blockquote>BlackRock의 운용자산이 15조달러를 넘어서며 2분기 순이익이 전년 대비 20% 증가했다. 주가는 거의 7% 급등했다.
+<a href="https://www.wsj.com/finance/stocks/blackrock-earnings-q2-2026-blk-stock-4c5d097e">[WSJ]</a></blockquote>
 
-<b>14. Warsh 연준 의장, 7월 금리 인상 시사 않아...증언서 경로 언급 회피</b>
-<blockquote>Warsh 의장이 의회 증언에서 인플레이션을 주요 우려사항으로 제시했지만 임박한 긴축은 시사하지 않았다. 2주 후 정책회의를 앞두고 금리 경로에 대한 힌트를 주지 않았다. 시장은 매파 발언과 금리 동결 시사 사이에서 혼란스러워하고 있다.
-<a href="https://www.ft.com/content/60c4ed49-216f-4f90-9bf9-94f305296f02">[FT]</a></blockquote>
+<b>14. BNY 2분기 순이익 17억달러...수익 전망 상향</b>
+<blockquote>Bank of New York Mellon의 2분기 순이익은 17억달러(주당 2.45달러)로 전년 동기 13.9억달러에서 증가했다. 수수료 수익과 이자수익 증가에 힘입어 연간 수익 전망을 상향했다.
+<a href="https://www.wsj.com/business/earnings/bank-of-new-york-mellon-profit-jumps-on-higher-fee-revenue-interest-income-1b044cb1">[WSJ]</a></blockquote>
 
-<b>15. Warsh 의장 "인플레이션 싸움에 단호"...하지만 미션 달성 선언은 거부</b>
-<blockquote>Kevin Warsh 연준 의장이 인플레이션과의 싸움에서 단호한 자세를 견지하겠다고 다짐했다. 6월 물가 상승률 둔화 보고서에도 불구하고 '임무 완수' 선언을 거부했다. 중앙은행의 매파 스탠스가 지속될 것임을 시사했다.
-<a href="https://www.ft.com/content/ba8c019e-9d74-4fe2-9cb0-dc45f297df98">[FT]</a></blockquote>
+<b>15. Morgan Stanley, SpaceX 백만장자 유입으로 자산관리 부문 호조</b>
+<blockquote>Morgan Stanley의 자산관리 부문이 SpaceX 신규 백만장자 유입에 힘입어 예상을 상회하는 실적을 냈다. AI 붐이 투자은행 실적 전반을 끌어올렸다.
+<a href="https://www.ft.com/content/fff726e3-42df-4525-bb8e-278254932a48">[FT]</a></blockquote>
 
-<b>16. Wall Street 대형 은행, 역대급 실적...AI 주식 트레이딩 붐 수혜</b>
-<blockquote>JPMorgan, Goldman Sachs, Citigroup, Bank of America가 강력한 실적을 발표하며 어닝 시즌을 시작했다. AI 열풍과 SpaceX IPO가 주식 거래 급증을 견인했다. 대형 은행들이 기술주 트레이딩 붐으로 기록적 수익을 올렸다.
-<a href="https://www.ft.com/content/137efc01-087f-4b1d-b2a4-e18ea61197f2">[FT]</a> <a href="https://www.ft.com/content/f4231724-bb67-4cfd-81e2-d20f4badb82e">[FT]</a></blockquote>
+<b>16. Stripe·Advent, PayPal에 530억달러 인수 제안</b>
+<blockquote>결제 스타트업 Stripe와 사모펀드 Advent International이 PayPal 인수를 위해 약 530억달러 규모의 공동 제안을 냈다. PayPal 주가는 장전거래에서 16% 급등했다.
+<a href="https://www.wsj.com/business/deals/stripe-and-private-equity-firm-advent-offer-to-buy-paypal-534c72aa">[WSJ]</a></blockquote>
 
-<b>17. Wall Street 뜨거운 분기에 대형 은행 수익 급증...Dimon "최고 수준"</b>
-<blockquote>대형 은행들이 Wall Street의 뜨거운 분기 뒤 수익 급증을 기록했다. Jamie Dimon JPMorgan 최고경영자는 큰 폭의 이익 증가 후 시장 환경이 "거의 최고 수준에 가깝다"고 평가했다. 투자은행 부문 호황이 실적을 견인했다.
-<a href="https://www.wsj.com/finance/banking/big-banks-profits-surge-after-a-red-hot-quarter-on-wall-street-7a25ffbe">[WSJ]</a></blockquote>
+<b>17. Uber, Delivery Hero 125억유로 인수 임박...터키·유럽 일부 사업 분리</b>
+<blockquote>Uber가 독일 음식배달 업체 Delivery Hero를 125억유로에 인수하는 협상을 마무리 중이다. 터키 및 일부 유럽 사업은 별도 매각될 예정이다.
+<a href="https://www.ft.com/content/c15115ea-7386-4f44-9643-f95f58187514">[FT]</a></blockquote>
 
-<b>18. 대형 은행과 빅테크, 같은 파도 타는 중...Wall Street 영향력 전방위 확대</b>
-<blockquote>Wall Street가 더 이상 경제 구석구석에 손을 뻗는 유일한 산업이 아니게 됐다. 대형 은행과 빅테크 기업들이 동일한 성장 모멘텀을 공유하고 있다. 금융과 기술의 경계가 흐려지며 시장 지배력이 확장되고 있다.
-<a href="https://www.ft.com/content/8218ea69-27ba-42b1-9ac0-beeba1b0fb1d">[FT]</a></blockquote>
+<b>18. ASML, AI 수요에 연간 가이던스 재차 상향...생산 확대 계획</b>
+<blockquote>반도체 장비업체 ASML이 AI 수요 지속에 힘입어 올해 매출 가이던스를 두 번째로 상향했다. 향후 수년간 반도체 제조장비 생산을 늘릴 계획이라고 밝혔다.
+<a href="https://www.wsj.com/business/earnings/chip-machine-supplier-asml-raises-guidance-again-on-unrelenting-ai-demand-5cae18c9">[WSJ]</a></blockquote>
 
-<b>19. 은행 실적 "모든 것이 멋지다"...기술 열풍 함께 타며 호황</b>
-<blockquote>은행들이 기술 열풍의 수혜를 톡톡히 보고 있다. 대형 은행들이 AI 주식 트레이딩 붐에 올라타며 기록적 실적을 달성했다. 금융권도 기술 섹터 상승세의 최대 수혜자로 떠올랐다.
-<a href="https://www.ft.com/content/6d9ea937-a83a-430f-8f5b-68fb27e15058">[FT]</a></blockquote>
+<b>19. Mira Murati의 Thinking Machines, 첫 AI 모델 공개...중국 경쟁사 기술 차용</b>
+<blockquote>전 OpenAI CTO Mira Murati가 이끄는 Thinking Machines가 첫 AI 모델을 출시했다. 작년 120억달러 밸류로 20억달러를 조달한 이 스타트업은 중국 경쟁사 기술을 일부 차용한 것으로 알려졌다.
+<a href="https://www.ft.com/content/ef486929-d2c2-480b-8b00-9cb98bda6acf">[FT]</a></blockquote>
 
-<b>20. 높은 신용카드 연체율, 대형 은행 실적에는 미반영...데이터 괴리 지속</b>
-<blockquote>대형 은행들의 실적이 15년래 최고 신용카드 연체율을 보여주는 지표와 대조를 이룬다. 은행들의 결과는 소비자 부실 우려를 나타내는 측정치와 상반된다. 시장 데이터와 은행 장부 간 괴리가 지속되고 있다.
-<a href="https://www.wsj.com/finance/banking/why-high-credit-card-delinquencies-arent-showing-up-at-the-big-banks-3476c217">[WSJ]</a></blockquote>
+<b>20. SpaceX 주가 IPO가 밑돌아...AI·우주 대기업 시총 1조달러 증발</b>
+<blockquote>SpaceX 주가가 6월 상장 이후 처음으로 IPO가인 135달러 아래로 떨어졌다. AI와 우주산업 복합기업의 시가총액에서 1조달러가 증발했다.
+<a href="https://www.ft.com/content/94959f40-1874-4ece-b629-b18f43aa3ede">[FT]</a></blockquote>
 
-<b>21. IBM 주가 25% 폭락, 사상 최악...AI 전환 실패에 시총 $69B 증발</b>
-<blockquote>IBM 주가가 25% 급락하며 역사상 최악의 날을 기록했다. 고객들이 소프트웨어 대신 AI 하드웨어와 메모리칩으로 지출을 전환하자 실적 경고를 발령했다. 하루 만에 시가총액 $69B이 증발하며 레거시 기업의 AI 전환 실패를 각인시켰다.
-<a href="https://www.wsj.com/tech/ai/ibm-stock-profit-warning-earnings-software-8652c06e">[WSJ]</a> <a href="https://www.wsj.com/finance/stocks/ibm-shares-sink-18-on-earnings-warning-d115d564">[WSJ]</a></blockquote>
+<b>21. United Airlines, 연간 전망 상향...유가 변동 속 운임 인상 효과</b>
+<blockquote>United Airlines가 2026년 주당순이익 전망치 하단을 2달러 상향해 9~11달러로 제시했다. 유가 변동성에도 운임 인상이 실적을 뒷받침했다.
+<a href="https://www.wsj.com/business/earnings/united-airlines-lifts-outlook-as-higher-fares-blunt-turbulent-fuel-prices-899fcbaa">[WSJ]</a></blockquote>
 
-<b>22. IBM 주가 붕괴, 고객들 AI 서버·스토리지로 지출 이동...Krishna "실수"</b>
-<blockquote>IBM 주가가 25% 폭락했다. 고객들이 서버와 스토리지 구매 경쟁에 나서며 IBM 지출을 줄였다고 Arvind Krishna 최고경영자가 인정했다. CEO는 회사가 "실수했다"고 자인하며 AI 전환 실패를 시인했다.
-<a href="https://www.ft.com/content/da478c37-7a32-415d-9f30-3b2981149f95">[FT]</a></blockquote>
+<b>22. Todd Blanche 법무장관 대행, Trump 충성 논란 속 상원 인준청문회</b>
+<blockquote>Todd Blanche 법무장관 대행이 상원 인준청문회에서 Trump 대통령과의 IRS 합의를 둘러싼 우려를 해소하려 했다. 불법 지시 시 사임하겠다고 약속했지만 대통령 재량에 따라 복무한다고 강조했다.
+<a href="https://www.ft.com/content/f96ac6cc-6185-46e2-ad7f-3b145b45df27">[FT]</a></blockquote>
 
-<b>23. 광적 시장, IBM에 자비 없어...실패 용인 거부 분위기 확산</b>
-<blockquote>격렬한 시장이 IBM에게 자비를 베풀지 않았다. 실패가 용인되지 않는 분위기가 확산되고 있다. AI 시대 전환에 뒤처진 기업에 대한 가혹한 심판이 내려졌다.
-<a href="https://www.ft.com/content/cfec51c1-0435-457f-a140-f302ca6a4e0b">[FT]</a></blockquote>
+<b>23. Trump 행정부 CDC 국장 후보, 과학 존중 다짐...백신 정책 논란 속</b>
+<blockquote>Trump 대통령이 지명한 CDC 국장 후보 Erica Schwartz 박사가 상원 인준청문회에서 과학을 존중하겠다고 밝혔다. 백신 정책과 Robert F. Kennedy Jr.를 둘러싼 의원들의 질의가 이어졌다.
+<a href="https://www.wsj.com/politics/policy/cdc-senate-hearing-erica-schwartz-f54768e9">[WSJ]</a></blockquote>
 
-<b>24. 인플레이션 완화·은행 실적에 증시 상승...IBM 폭락은 다우 압박</b>
-<blockquote>예상보다 낮은 인플레이션 보고서와 블록버스터급 은행 실적이 시장 심리를 끌어올렸다. 다만 IBM의 실적 경고가 다우 산업평균지수를 끌어내리고 소프트웨어 주를 압박했다. 엇갈린 모멘텀 속에서 미국 증시는 상승 마감했다.
-<a href="https://www.wsj.com/finance/stocks/cooling-inflation-surging-bank-earnings-power-stocks-19f43ffa">[WSJ]</a> <a href="https://www.wsj.com/finance/stocks/strong-bank-earnings-cool-inflation-data-lift-u-s-stocks-7f0e85fe">[WSJ]</a></blockquote>
+<b>24. 민주당, 이스라엘 군사원조 삭감 시도 실패...33억달러 지원 유지</b>
+<blockquote>민주당이 이스라엘에 대한 연간 33억달러 군사원조를 삭감하는 수정안을 발의했으나 하원에서 부결됐다. 민주당 내 이스라엘 지지 약화를 보여주는 표결이었다.
+<a href="https://www.ft.com/content/cb35e093-1f8e-4160-9597-80d54cf2eb8b">[FT]</a></blockquote>
 
-<b>25. 유럽 방산업체들, 탄도미사일 요격 시스템 공동 개발 착수</b>
-<blockquote>Destinus, MBDA, Safran, Airbus, Thales가 Bliksem EXO 시스템 개발 컨소시엄 구성 의향서에 서명했다. 대기권 밖에서 초음속으로 비행하는 탄도미사일을 격추하기 위한 시스템이다. 우크라이나 전쟁 교훈을 반영해 방공망 공백을 메우려는 프로그램이다.
-<a href="https://www.wsj.com/world/european-defense-groups-to-work-on-ballistic-missile-shield-8e53c390">[WSJ]</a> <a href="https://www.ft.com/content/8280d5cf-a117-4dd2-bf69-dbe3ac199a18">[FT]</a></blockquote>
+<b>25. Vance 부통령, 이스라엘 비판 강도 높여...전쟁 무기한 지속 의도 지적</b>
+<blockquote>JD Vance 부통령이 Joe Rogan과의 인터뷰에서 이스라엘 일각이 이란과의 전쟁을 무기한 지속하려 한다고 비판했다. 행정부 내 이스라엘 압박 수위가 높아지고 있다.
+<a href="https://www.wsj.com/world/middle-east/vance-ramps-up-criticism-of-israel-00535d84">[WSJ]</a></blockquote>
 
-<b>26. Macron, Bastille Day 퍼레이드서 유럽 군사력 과시...미국 안보 우산 이탈 대비</b>
-<blockquote>유럽 전역 군대가 프랑스 연례 군사 퍼레이드에 참가했다. 유럽이 미국 안보 우산 없는 세계를 준비하는 가운데 Macron 대통령이 군사력을 과시했다. Bastille Day 행사가 유럽 자주국방 의지를 상징하는 무대가 됐다.
-<a href="https://www.wsj.com/world/europe/on-bastille-day-macron-offers-spectacle-of-european-military-might-fa5cea62">[WSJ]</a></blockquote>
+<b>26. 미국 조폐국, Trump 대통령 초상 1달러 주화 제작 착수</b>
+<blockquote>미국 조폐국이 Trump 대통령 얼굴을 새긴 1달러 '금화' 주조에 들어간다. 현직 대통령을 화폐에 담는 이례적 조치로, 한쪽 면에 "In God We Trust" 문구와 함께 전면 초상이 새겨진다.
+<a href="https://www.wsj.com/politics/policy/trump-dollar-gold-coin-to-go-into-production-bessent-says-3d91fb03">[WSJ]</a></blockquote>
 
-<b>27. 우크라이나, 러시아 선박 '전례 없는' 드론 공습...1980년대 탱커전보다 빠른 속도</b>
-<blockquote>우크라이나가 아조프해 러시아 선박들을 대상으로 드론 공격을 가속화하고 있다. 지난주 공격 빈도가 1980년대 이란-이라크 탱커 전쟁보다 빠른 속도를 기록했다. 드론 무기가 Kyiv에 흑해 통제권을 확대시키고 있다.
-<a href="https://www.ft.com/content/6d5e952f-eb03-4277-a8b4-caae478a02d9">[FT]</a> <a href="https://www.wsj.com/world/russia/ukraine-sea-drone-sinks-russian-ship-near-compound-said-to-be-linked-to-putin-fdeef6c0">[WSJ]</a></blockquote>
+<b>27. Trump, ICE 교통 단속 중단 결정 번복...메인주 총격 사망 사건 후</b>
+<blockquote>Trump 대통령이 ICE(이민세관단속국)의 교통 단속 중단 결정을 번복했다. 메인주에서 연방 이민 단속관이 26세 남성을 총격 사망시킨 사건 직후 나온 조치다.
+<a href="https://www.wsj.com/politics/policy/trump-reverses-ices-decision-to-suspend-traffic-stops-85228584">[WSJ]</a></blockquote>
 
-<b>28. Lindsey Graham 법안, 러시아산 석유 최대 수입국에 관세 부과 권한 부여</b>
-<blockquote>Lindsey Graham 상원의원이 주도했던 새 법안이 러시아 에너지 최대 수입국들에 대한 관세 부과 권한을 Trump에게 부여할 전망이다. 의회가 지정학적 무기로서 관세 사용을 승인하는 첫 사례가 될 것이라고 분석가들은 평가했다. 중국과 인도가 주요 타깃이다.
-<a href="https://www.wsj.com/politics/policy/lindsey-grahams-tariffs-bill-would-target-china-india-as-russian-oil-buyers-f871211c">[WSJ]</a></blockquote>
+<b>28. Andy Burnham, Shabana Mahmood 재무장관 임명 예정...영국 정치 개편</b>
+<blockquote>Andy Burnham 영국 차기 총리가 현 내무장관 Shabana Mahmood를 재무장관으로 임명할 것으로 알려졌다. Rachel Reeves의 후임으로 경제정책 전면에 나서게 된다.
+<a href="https://www.ft.com/content/54d17925-a1d3-4bae-a1bc-a325df7577dd">[FT]</a></blockquote>
 
-<b>29. 중국, 미국 지진학자를 간첩 혐의로 구금...북한 핵실험 연구자</b>
-<blockquote>중국이 미국 지진학자 Youlin Chen을 간첩 혐의로 구금했다. Chen의 연구는 북한의 핵실험에 초점을 맞춰왔다. 미중 과학 협력에 찬물을 끼얹는 사건이다.
-<a href="https://www.wsj.com/world/china/china-holds-u-s-seismologist-on-espionage-charges-3c359d7f">[WSJ]</a></blockquote>
+<b>29. Thames Water, 장기 전망 경고...12개월 생존 가능하나 재자본화 전 유동성 부족</b>
+<blockquote>Thames Water가 향후 12개월은 생존 가능하지만 재자본화 이전 유동성이 부족할 수 있다고 경고했다. 영국 차기 총리 Burnham는 국유화를 검토 중인 것으로 전해졌다.
+<a href="https://www.ft.com/content/7f5ad72a-f007-4764-bbc4-58ce57154f3a">[FT]</a></blockquote>
 
-<b>30. 뉴욕주, 미국 첫 데이터센터 건설 중단 조치...1년 모라토리엄 시행</b>
-<blockquote>Kathy Hochul 뉴욕 주지사가 1년간 데이터센터 신규 건설을 중단하는 모라토리엄에 서명했다. 인프라 수요에 대한 반발이 커지는 가운데 미국 주 정부 최초의 조치다. 전력망 부담과 환경 우려가 배경이다.
-<a href="https://www.ft.com/content/1c390476-9d93-4df5-9b41-7381db43b4ea">[FT]</a></blockquote>
+<b>30. 우크라이나, 국방장관 전격 경질...취임 6개월만에 교체</b>
+<blockquote>Volodymyr Zelenskyy 대통령이 취임 6개월만에 국방장관을 경질했다. 드론 개발을 주도한 인기 장관이 내각 개편 과정에서 해임되며 군사 노력에 차질이 우려된다.
+<a href="https://www.ft.com/content/c2b9d7ff-ac32-4cea-82b2-b4dc0a64c014">[FT]</a></blockquote>
 
-<b>31. 브뤼셀, 은행 자본 규제 완화 검토...미국·영국 뒤따라</b>
-<blockquote>유럽연합 집행위원회가 은행 자본 요구사항 완화를 제안할 예정이다. 은행들이 규제 완화를 요구하는 가운데 미국과 영국의 유사한 조치를 뒤따르는 것이다. 글로벌 금융 규제 완화 흐름이 가속화되고 있다.
-<a href="https://www.ft.com/content/f8c00d09-1cbd-4e40-86c5-55f5ab24700d">[FT]</a></blockquote>
+<b>31. 그리스, 자국 해운사 보호 위해 EU 대러 제재 반대</b>
+<blockquote>그리스가 George Prokopiou 소유 Dynagas를 겨냥한 EU의 새 대러시아 제재안에 반대했다. 이 해운사는 러시아 북극 LNG 운송을 전문으로 한다.
+<a href="https://www.ft.com/content/fe5298b6-499b-4647-984f-fdcf3917e696">[FT]</a></blockquote>
 
-<b>32. DeepMind 수장 Demis Hassabis, 미국 주도 'frontier AI 모델' 검증 기구 촉구</b>
-<blockquote>노벨상 수상자 Demis Hassabis가 역사적 속도로 발전하는 기술에 대비할 '귀중한 시간'이 있다고 경고했다. DeepMind 수장은 미국 주도의 'frontier AI 모델' 검증 기구 설립을 촉구했다. 사회가 AI 발전에 대비할 시간이 얼마 남지 않았다고 강조했다.
-<a href="https://www.ft.com/content/463add71-a59b-4ec3-aa65-c96d57a09b10">[FT]</a></blockquote>
-
-<b>33. 연준·영란은행 신뢰 적자 직면...장기 인플레이션 기대 상승 견인</b>
-<blockquote>중앙은행에 대한 신뢰 상실이 장기 인플레이션 기대 상승을 부추길 수 있다. 연준과 영란은행이 신뢰 적자 문제에 직면해 있다. 정책 신뢰도 하락이 통화정책 효과를 약화시킬 위험이 있다.
-<a href="https://www.ft.com/content/db0fd0e9-73d0-4eaf-8b49-d21690733b9c">[FT]</a></blockquote>
-
-<b>34. Alcoa, 호주 갈륨 생산 프로젝트 국제 승인...미·일·호주 최종 투자 결정</b>
-<blockquote>Alcoa와 호주·일본·미국 정부가 서호주 Wagerup 알루미나 정제소에 갈륨 생산 공장을 건설하기로 최종 투자 결정을 내렸다. 중요광물 공급망 확보를 위한 국제 협력 프로젝트다. 중국 의존도를 줄이기 위한 광물 생산 기지 구축이다.
-<a href="https://www.wsj.com/business/alcoa-receives-international-approval-for-gallium-production-project-in-australia-a2242d3e">[WSJ]</a></blockquote>
-
-<b>35. AI·데이터센터 건설 붐...하지만 다른 산업 건설은 침체</b>
-<blockquote>신규 공장·창고·산업시설 지출이 건설비용 상승으로 위축됐다. AI와 데이터센터 건설은 폭발적이지만 전통 산업 건설은 둔화되고 있다. 산업 건설 투자가 양극화 양상을 보이고 있다.
-<a href="https://www.wsj.com/business/ai-data-center-construction-is-boomingbut-not-much-else-is-6ae37b3e">[WSJ]</a></blockquote>
-
-<b>36. Trump, E Jean Carroll에 $5.6mn 합의금 지급...성폭행·명예훼손 사건</b>
-<blockquote>Trump 대통령이 항소하는 동안 정부 계좌에 있던 자금을 지급했다. 성폭행 및 명예훼손 소송에서 Carroll이 승소한 판결과 배상금이 확정됐다. 대통령이 민사 소송 합의금을 납부하며 사건이 일단락됐다.
-<a href="https://www.ft.com/content/33ad643c-18d8-41a8-a3a2-b2cfd8303d43">[FT]</a></blockquote>
-
-<b>37. Ken Griffin, 중간선거에 이미 $40mn 투입...11월까지 배증 전망</b>
-<blockquote>억만장자 Ken Griffin이 올해 중간선거 캠페인에 약 $40mn을 투자했다. 공화당의 미래를 형성하고 상하원 다수당을 유지하도록 돕기 위해 11월까지 총액이 두 배로 늘어날 수 있다. 금융업계 거물의 정치 자금이 중간선거 향방을 좌우할 전망이다.
-<a href="https://www.wsj.com/politics/elections/ken-griffin-has-poured-40-million-into-helping-republicans-win-the-midterms-f0484274">[WSJ]</a></blockquote>
-
-<b>38. 인플레이션·금리 트래커...국가별 비교 인터랙티브 차트</b>
-<blockquote>FT가 최신 데이터를 인터랙티브 차트로 제공한다. 국가별 인플레이션과 금리 동향을 한눈에 비교할 수 있다. 글로벌 통화정책 흐름을 추적하는 데이터 시각화 도구다.
-<a href="https://www.ft.com/content/088d3368-bb8b-4ff3-9df7-a7680d4d81b2">[FT]</a></blockquote>
-
-<b>39. 상업 핵융합 경쟁, 연구실에서 공급망으로 이동...탄소 제로 전력 기대</b>
-<blockquote>핵융합 분야 투자가 증가하고 있다. 풍부한 탄소 제로 전기를 공급할 수 있다는 기대가 투자를 견인한다. 상업 핵융합 경쟁이 기술 개발에서 생산 인프라 구축 단계로 전환되고 있다.
-<a href="https://www.ft.com/content/d71c06e5-413a-4468-9512-dbc5be5fe162">[FT]</a></blockquote>
+<b>32. 시진핑, 정치국원 또 한 명 축출...최고위층 숙청 기록 경신</b>
+<blockquote>시진핑 주석이 정치국에서 또 한 명의 지도자를 축출하며 최고위층 숙청 기록을 경신했다. 권력 집중과 충성도 검증이 지속되고 있다.
+<a href="https://www.economist.com/china/2026/07/15/xi-jinping-expels-another-leader-from-his-top-team">[Economist]</a></blockquote>
 
 ━━━━━━━━━━━━━━━━━━━━
 📡 <b>출처: WSJ · FT · The Economist</b>
