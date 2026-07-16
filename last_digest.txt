@@ -1,136 +1,140 @@
 🌙 <b>간밤의 글로벌 마켓 뉴스</b>
-[{DATE} | WSJ · FT · Economist ]
+[ 2026. 7. 17. | WSJ · FT · Economist ]
 ━━━━━━━━━━━━━━━━━━━━
 
 ✅ <b>간밤의 주요 헤드라인</b>
 
-<b>1. 미국, 호르무즈 해협 봉쇄 재개...이란行 유조선 나포</b>
-<blockquote>미국이 Kharg Island로 향하던 유조선을 나포하며 호르무즈 해협 봉쇄를 재개했다. 해협 통제권을 둘러싼 군사적 충돌이 격화되면서 글로벌 석유 공급에 위협이 커지고 있다.
-<a href="https://www.ft.com/content/c2325003-2199-491a-83d4-c1e70c7e8e44">[FT]</a></blockquote>
+<b>1. 호르무즈 해협 폐쇄 우려 고조...원유 공급 위기 현실화</b>
+<blockquote>중동 긴장 고조로 호르무즈 해협 봉쇄 가능성이 커지면서 글로벌 원유 공급 차질 우려가 증폭되고 있다. 이 해협은 전 세계 원유 운송량의 약 5분의 1이 통과하는 전략적 요충지다. 에너지 시장은 공급 경로 대체 방안 마련에 주목하고 있다.
+<a href="https://www.ft.com/content/fb373886-413a-4fd5-84ff-b43acdc2ecbd">[FT]</a></blockquote>
 
-<b>2. Trump, 이란 군사작전 확대 검토...지상군·핵시설 폭격 포함</b>
-<blockquote>Trump 대통령이 이란에 대한 군사작전 확대를 검토 중인 것으로 나타났다. 외교적 해결을 선호하지만 지상군 투입과 Pickaxe Mountain 핵시설 폭격 등의 옵션이 브리핑됐다.
-<a href="https://www.wsj.com/world/middle-east/trump-leans-toward-expanding-u-s-military-operations-in-iran-6c230462">[WSJ]</a></blockquote>
+<b>2. Chevron, 호르무즈 우회 Iraq 송유관 건설 검토...시리아 경유 계획</b>
+<blockquote>Chevron은 Iraq 유전과 시리아를 경유하는 송유관 건설을 추진 중이다. 이는 호르무즈 해협 의존도를 낮추고 Iraq 원유 수출을 늘리기 위한 대안 경로 확보 프로젝트다. 중동 지정학 리스크 심화에 따른 에너지 기업들의 대응 전략이 구체화되고 있다.
+<a href="https://www.wsj.com/world/middle-east/chevron-will-explore-creating-strait-of-hormuz-alternative-for-iraqi-oil-36308abf">[WSJ]</a></blockquote>
 
-<b>3. 석유재고 완충기능 상실 우려...이란 전쟁 장기화에 쇼크 흡수력 바닥</b>
-<blockquote>이란 전쟁 초기 시장을 안정시켰던 석유재고가 고갈되면서 호르무즈 해협 재봉쇄가 공급 쇼크로 직결될 가능성이 커졌다. 거래자들은 완충 여력이 소진됐다고 경고했다.
-<a href="https://www.ft.com/content/6c314457-ce9a-4689-b3e1-ff637de0d6bf">[FT]</a></blockquote>
+<b>3. 디젤 공급 급감, 인플레이션 재점화 위협 커져</b>
+<blockquote>디젤 재고 급감으로 운송·농업 부문 비용 압박이 심화되고 있다. 트럭 운송업체와 농민들은 공급 부족으로 가격 상승에 직면했으며, 이는 전반적인 물가 상승 압력으로 이어질 가능성이 높다. 에너지 가격 변동성이 인플레이션 전망을 다시 불확실하게 만들고 있다.
+<a href="https://www.wsj.com/finance/commodities-futures/sharp-drop-in-diesel-supplies-threatens-to-rev-up-inflation-again-372a2983">[WSJ]</a></blockquote>
 
-<b>4. 미국 원유재고 170만배럴 감소...예상 상회하는 소진세</b>
-<blockquote>지난주 미국 상업용 원유재고는 170만배럴 감소했다. 시장 예상치 90만배럴을 크게 웃도는 수준으로, 공급 우려를 더했다.
-<a href="https://www.wsj.com/business/energy-oil/u-s-crude-oil-stockpiles-post-weekly-withdrawal-aa4c3b69">[WSJ]</a></blockquote>
+<b>4. 러시아, 우크라이나 흑해 곡물 수출 공격 강화...밀 가격 급등</b>
+<blockquote>러시아의 집중 공격으로 우크라이나 흑해 곡물 운송이 심각한 차질을 빚으면서 국제 밀 가격이 급등했다. 우크라이나는 세계 주요 곡물 수출국으로, 공급 차질은 글로벌 식량 안보에 직접적인 위협 요인이다.
+<a href="https://www.ft.com/content/5c64e7a5-fe26-4f14-8d77-1d0f1d8a30d3">[FT]</a></blockquote>
 
-<b>5. 중국 원유매수 재개 조짐...글로벌 유가 완충 효과 사라질 듯</b>
-<blockquote>장기간 이어진 중국의 원유 매수 중단이 끝날 조짐을 보이고 있다. 시장 관계자들은 중국 수요 복귀가 미·이란 긴장 고조와 맞물려 유가 상승 압력을 가중할 것으로 전망했다.
-<a href="https://www.wsj.com/business/energy-oil/chinas-crude-buying-pause-has-helped-cushion-the-market-that-might-be-changing-70150775">[WSJ]</a></blockquote>
+<b>5. Iran, 1년 넘게 억류한 미국인 출국 허용...긴장 완화 신호</b>
+<blockquote>Iran이 1년 이상 억류했던 미국 시민의 출국을 허용하면서 호르무즈 해협 대치 국면에서 선의의 제스처를 보였다. Trump 대통령은 이를 긍정적으로 평가했으나, 양국 간 근본적인 갈등 해소 여부는 여전히 불투명하다.
+<a href="https://www.wsj.com/world/middle-east/iran-allows-u-s-citizen-it-held-for-more-than-a-year-to-leave-035b44e0">[WSJ]</a></blockquote>
 
-<b>6. 6월 미국 PPI 0.3% 하락...디스인플레이션 신호 뚜렷</b>
-<blockquote>6월 생산자물가지수(PPI)가 전월 대비 0.3% 하락했다. 5월 0.6% 상승 후 역전된 것으로, 시장은 보합을 예상했으나 하락폭이 컸다. 인플레이션 둔화 신호가 강화됐다.
-<a href="https://www.wsj.com/economy/central-banking/u-s-producer-price-index-fell-in-june-276a72e9">[WSJ]</a></blockquote>
+<b>6. Trump, Iran 지하 핵시설 Pickaxe Mountain 폭격 위협</b>
+<blockquote>Trump 대통령이 Iran의 Pickaxe Mountain 지하 시설 폭격을 위협하면서 핵 프로그램 진전 저지 의지를 분명히 했다. 미국 관리들은 Tehran이 이 시설을 활용해 핵 개발을 가속화할 수 있다고 우려하고 있다.
+<a href="https://www.wsj.com/world/middle-east/trump-has-threatened-to-bomb-irans-pickaxe-mountain-what-is-hidden-there-b1d96dfb">[WSJ]</a></blockquote>
 
-<b>7. 국채수익률 하락 지속...인플레 냉각에 금리인하 기대 커져</b>
-<blockquote>미국 국채수익률이 인플레이션 냉각 신호에 하락세를 이어갔다. 중동 긴장 소강과 맞물려 연준의 완화적 통화정책 기대가 강화되는 모습이다.
-<a href="https://www.wsj.com/finance/investing/jgbs-mixed-may-track-gains-in-u-s-treasurys-9ca01870">[WSJ]</a></blockquote>
+<b>7. 미 국채 수익률 상승, 연준 매파 발언 영향...인플레 우려 지속</b>
+<blockquote>연준 고위 인사들의 매파적 발언이 이어지면서 국채 수익률이 상승했다. 연준은 인플레이션 억제 의지를 재확인했으며, 경제 지표도 대체로 예상보다 강한 흐름을 보이고 있다. 시장은 금리 인하 시점이 더 늦춰질 가능성에 대비하고 있다.
+<a href="https://www.wsj.com/finance/jgbs-mixed-as-investors-grapple-with-gains-in-u-s-treasurys-rising-oil-prices-6753ed21">[WSJ]</a></blockquote>
 
-<b>8. 중국 경제성장률 수년래 최저...내수 부진 지속</b>
-<blockquote>중국 경제가 수년 중 가장 낮은 성장률을 기록하며 글로벌 수요 둔화 우려를 키웠다. 무역수지 축소와 함께 세계 경제 성장 모멘텀 약화가 우려된다.
-<a href="https://www.ft.com/content/64c2023f-48d0-409c-9bb0-2980384a98f1">[FT]</a></blockquote>
+<b>8. 반도체·AI 주식 급락, Nasdaq 1.5% 하락...AI 트레이드 전환점 시사</b>
+<blockquote>반도체 주식 전반에 매도세가 집중되면서 Nasdaq 지수가 1.5% 하락했다. AI 붐을 이끌었던 기술주들이 일제히 약세를 보이면서 시장은 AI 트레이드의 지속 가능성에 의문을 제기하고 있다. 투자자들은 밸류에이션 부담과 성장 둔화 가능성을 재평가 중이다.
+<a href="https://www.wsj.com/finance/stocks/chip-stocks-fall-as-ai-trade-loses-steam-809fbc62">[WSJ]</a></blockquote>
 
-<b>9. 중국 무역흑자 축소...재정긴축 국면 진입</b>
-<blockquote>중국의 무역수지 흑자가 축소되면서 세계 2위 경제대국이 의도치 않은 재정긴축 국면에 진입했다. 글로벌 수요 둔화와 맞물린 구조적 변화로 분석된다.
-<a href="https://www.economist.com/finance-and-economics/2026/07/15/chinas-trade-gap-is-narrowing-and-other-surprises">[Economist]</a></blockquote>
+<b>9. Netflix, 실적 호조에도 성장 둔화 전망...주가 하락</b>
+<blockquote>Netflix는 2분기 매출과 이익이 증가했지만 향후 성장 둔화를 예고하며 주가가 하락했다. 회사는 시청률 보고서를 연 2회에서 연 1회로 축소할 계획이다. 구독자 증가세 둔화 우려가 스트리밍 업계 전반의 성장 전망에 그림자를 드리우고 있다.
+<a href="https://www.wsj.com/business/media/netflix-revenue-profit-grow-despite-concerns-about-keeping-subscribers-hooked-1729092f">[WSJ]</a></blockquote>
 
-<b>10. 유로존 산업생산 5월 예상외 감소...에너지 비용 부담</b>
-<blockquote>유로존 산업생산이 5월 예상을 깨고 감소했다. 미·이란 분쟁 이후 에너지 비용 상승 속에서도 3개월간 선방했던 생산 활동이 꺾였다.
-<a href="https://www.wsj.com/economy/global/eurozone-industrial-production-fell-unexpectedly-in-may-ed079f2a">[WSJ]</a></blockquote>
+<b>10. SK Hynix, 고급 메모리 칩 시장 주도...수요 둔화 리스크는 과제</b>
+<blockquote>SK Hynix는 첨단 메모리 칩 시장에서 압도적인 위치를 차지하고 있지만, 수요 둔화 가능성이 향후 실적에 변수로 작용할 수 있다. AI 서버용 고대역폭 메모리(HBM) 수요는 여전히 견조하나, 전반적인 반도체 사이클 전환 우려는 남아 있다.
+<a href="https://www.economist.com/business/2026/07/16/how-sk-hynix-became-the-king-of-advanced-memory-chips">[Economist]</a></blockquote>
 
-<b>11. 미국 장기실업자 비중 5년래 최고 수준...고용 회복 이면의 그늘</b>
-<blockquote>경제가 4개월 연속 일자리를 늘렸지만 6개월 이상 구직 중인 장기실업자 비중이 5년래 최고 수준을 기록했다. 거의 200만 명이 노동시장에서 장기간 배제된 상태다.
-<a href="https://www.wsj.com/economy/jobs/unemployment-long-term-job-market-629199f9">[WSJ]</a></blockquote>
+<b>11. Strategy 비트코인 주식, 연초 대비 40% 급락...열성 투자자들은 흔들림 없어</b>
+<blockquote>Michael Saylor의 비트코인 투자 회사 Strategy 주가가 연초 대비 거의 40% 하락했지만, 핵심 투자자들은 여전히 회사의 비트코인 축적 전략을 지지하고 있다. 암호화폐 시장 변동성이 관련 주식에 미치는 영향이 지속되고 있다.
+<a href="https://www.wsj.com/finance/stocks/the-investors-riding-along-with-strategys-bitcoin-rollercoaster-073e999d">[WSJ]</a></blockquote>
 
-<b>12. 미국 증시 마감 혼조...메가캡 기술주 강세에도 반도체 약세</b>
-<blockquote>미국 증시는 메가캡 기술주 상승에 힘입어 소폭 올랐으나 반도체주 약세가 상승폭을 제한했다. 양호한 실적에도 섹터 간 쏠림이 뚜렷했다.
-<a href="https://www.wsj.com/finance/stocks/megacap-tech-lifts-u-s-stocks-c654d871">[WSJ]</a></blockquote>
+<b>12. 일본 정부, Nvidia 칩 대량 구매로 AI 생태계 구축 추진</b>
+<blockquote>일본 정부는 Nvidia의 차세대 반도체를 수천 개 구매해 자국 내 AI 인프라를 구축할 계획이다. 정부 주도로 AI 산업 육성에 나서면서 기술 주권 확보와 산업 경쟁력 강화를 동시에 추구하고 있다.
+<a href="https://www.wsj.com/tech/ai/nvidia-noetra-to-build-ai-factory-to-power-japans-ai-ambitions-95e74210">[WSJ]</a></blockquote>
 
-<b>13. BlackRock 자산 15조달러 돌파...주가 7% 급등</b>
-<blockquote>BlackRock의 운용자산이 15조달러를 넘어서며 2분기 순이익이 전년 대비 20% 증가했다. 주가는 거의 7% 급등했다.
-<a href="https://www.wsj.com/finance/stocks/blackrock-earnings-q2-2026-blk-stock-4c5d097e">[WSJ]</a></blockquote>
+<b>13. 미국 6월 소매판매 증가율 둔화...소비 모멘텀 약화</b>
+<blockquote>6월 미국 소매판매가 증가했으나 증가율은 전월 대비 둔화됐다. 소비자들은 휘발유 가격 하락으로 주유소 지출을 줄였으며, 전반적인 소비 심리도 다소 위축된 모습이다. 경제 성장 동력인 소비 부문의 탄력 약화가 우려되고 있다.
+<a href="https://www.wsj.com/economy/consumers/u-s-retail-sales-rose-at-slower-pace-last-month-bddb49c2">[WSJ]</a></blockquote>
 
-<b>14. BNY 2분기 순이익 17억달러...수익 전망 상향</b>
-<blockquote>Bank of New York Mellon의 2분기 순이익은 17억달러(주당 2.45달러)로 전년 동기 13.9억달러에서 증가했다. 수수료 수익과 이자수익 증가에 힘입어 연간 수익 전망을 상향했다.
-<a href="https://www.wsj.com/business/earnings/bank-of-new-york-mellon-profit-jumps-on-higher-fee-revenue-interest-income-1b044cb1">[WSJ]</a></blockquote>
+<b>14. 미국 신규 실업수당 청구 예상 밖 감소...노동시장 여전히 견조</b>
+<blockquote>7월 11일까지 주간 신규 실업수당 청구 건수가 20만8000건으로 전주 대비 8000건 감소하며 예상을 밑돌았다. 노동시장은 여전히 탄탄한 흐름을 유지하고 있으며, 이는 연준의 금리 정책 결정에 중요한 변수로 작용하고 있다.
+<a href="https://www.wsj.com/economy/jobs/u-s-jobless-claims-unexpectedly-dropped-last-week-0fff4bbb">[WSJ]</a></blockquote>
 
-<b>15. Morgan Stanley, SpaceX 백만장자 유입으로 자산관리 부문 호조</b>
-<blockquote>Morgan Stanley의 자산관리 부문이 SpaceX 신규 백만장자 유입에 힘입어 예상을 상회하는 실적을 냈다. AI 붐이 투자은행 실적 전반을 끌어올렸다.
-<a href="https://www.ft.com/content/fff726e3-42df-4525-bb8e-278254932a48">[FT]</a></blockquote>
+<b>15. 미국 6월 주택 거래 계약 5.4% 감소...부동산 시장 위축</b>
+<blockquote>6월 주택 매매 계약 체결을 나타내는 선행 지표가 5.4% 감소하며 72.5를 기록했다. 시장 예상은 보합이었으나 실제로는 하락했다. 높은 모기지 금리와 주택 가격이 주택 거래를 억제하는 요인으로 작용하고 있다.
+<a href="https://www.wsj.com/economy/housing/u-s-pending-home-sales-fell-in-june-5370cc55">[WSJ]</a></blockquote>
 
-<b>16. Stripe·Advent, PayPal에 530억달러 인수 제안</b>
-<blockquote>결제 스타트업 Stripe와 사모펀드 Advent International이 PayPal 인수를 위해 약 530억달러 규모의 공동 제안을 냈다. PayPal 주가는 장전거래에서 16% 급등했다.
-<a href="https://www.wsj.com/business/deals/stripe-and-private-equity-firm-advent-offer-to-buy-paypal-534c72aa">[WSJ]</a></blockquote>
+<b>16. 우크라이나, 국방장관 해임 후 정치 혼란...Zelenskyy 정부 내홍 심화</b>
+<blockquote>우크라이나 국방장관 해임이 정치적 파장을 일으키면서 Zelenskyy 정부가 혼란에 빠졌다. 퇴임하는 장관은 군 수뇌부를 비판하며 개혁 시도가 차단됐다고 주장했다. 전시 상황에서 정치·군사 지도부 간 갈등이 표면화되면서 정국 불안정성이 커지고 있다.
+<a href="https://www.wsj.com/world/ukraines-departing-defense-minister-delivers-rare-challenge-to-zelensky-8fcb1b13">[WSJ]</a></blockquote>
 
-<b>17. Uber, Delivery Hero 125억유로 인수 임박...터키·유럽 일부 사업 분리</b>
-<blockquote>Uber가 독일 음식배달 업체 Delivery Hero를 125억유로에 인수하는 협상을 마무리 중이다. 터키 및 일부 유럽 사업은 별도 매각될 예정이다.
-<a href="https://www.ft.com/content/c15115ea-7386-4f44-9643-f95f58187514">[FT]</a></blockquote>
+<b>17. Trump 행정부, 브라질에 25% 관세 부과...양국 관계 악화</b>
+<blockquote>Trump 행정부가 브라질에 25% 관세를 부과하면서 양국 관계가 급속히 냉각되고 있다. 이번 조치는 남미 대선을 앞두고 워싱턴과 브라질리아 간 갈등이 심화되는 상황을 반영하고 있다. 무역 긴장이 지역 정치 지형에 미칠 영향이 주목된다.
+<a href="https://www.ft.com/content/97050622-ca1e-45d9-9541-b87aeb15fd24">[FT]</a></blockquote>
 
-<b>18. ASML, AI 수요에 연간 가이던스 재차 상향...생산 확대 계획</b>
-<blockquote>반도체 장비업체 ASML이 AI 수요 지속에 힘입어 올해 매출 가이던스를 두 번째로 상향했다. 향후 수년간 반도체 제조장비 생산을 늘릴 계획이라고 밝혔다.
-<a href="https://www.wsj.com/business/earnings/chip-machine-supplier-asml-raises-guidance-again-on-unrelenting-ai-demand-5cae18c9">[WSJ]</a></blockquote>
+<b>18. Trump, USMCA 무역협정 갱신 거부...북미 무역 불확실성 증대</b>
+<blockquote>Trump 대통령이 자신이 체결한 USMCA 무역협정 갱신을 거부하며 캐나다·멕시코와 재협상을 추진하겠다고 밝혔다. 자동차 업계를 비롯한 기업들은 무역 조건 불확실성 증대로 투자 계획 수립에 어려움을 겪고 있다.
+<a href="https://www.wsj.com/podcasts/opinion-potomac-watch/trump-wont-renew-his-usmca-trade-deal-as-michigan-gets-a-new-bridge-to-canada/310C44EE-81EA-4FF1-8F93-52BC21CC80C3">[WSJ]</a></blockquote>
 
-<b>19. Mira Murati의 Thinking Machines, 첫 AI 모델 공개...중국 경쟁사 기술 차용</b>
-<blockquote>전 OpenAI CTO Mira Murati가 이끄는 Thinking Machines가 첫 AI 모델을 출시했다. 작년 120억달러 밸류로 20억달러를 조달한 이 스타트업은 중국 경쟁사 기술을 일부 차용한 것으로 알려졌다.
-<a href="https://www.ft.com/content/ef486929-d2c2-480b-8b00-9cb98bda6acf">[FT]</a></blockquote>
+<b>19. Trump 행정부, 학생 비자 기간 4년 제한 추진</b>
+<blockquote>Trump 행정부는 학생 비자 발급 기간을 4년으로 제한하고 연장 신청을 의무화하는 새 규정을 추진 중이다. 이는 외국 유학생 관리를 강화하려는 이민 정책의 일환으로, 고등교육 기관과 유학생들에게 영향을 미칠 전망이다.
+<a href="https://www.wsj.com/politics/policy/trump-administration-plans-to-limit-length-of-student-visas-00a4f528">[WSJ]</a></blockquote>
 
-<b>20. SpaceX 주가 IPO가 밑돌아...AI·우주 대기업 시총 1조달러 증발</b>
-<blockquote>SpaceX 주가가 6월 상장 이후 처음으로 IPO가인 135달러 아래로 떨어졌다. AI와 우주산업 복합기업의 시가총액에서 1조달러가 증발했다.
-<a href="https://www.ft.com/content/94959f40-1874-4ece-b629-b18f43aa3ede">[FT]</a></blockquote>
+<b>20. Trump, 선거 개입 주장 프라임타임 연설 예고...중간선거 앞두고 논란</b>
+<blockquote>Trump 대통령이 선거 보안과 타당성에 대한 프라임타임 연설을 예고하면서 11월 중간선거를 앞두고 논란이 예상된다. 미국 정보 당국은 2020년 선거에서 중국이나 다른 외국의 개입 증거를 발견하지 못했다고 밝힌 바 있다.
+<a href="https://www.ft.com/content/61909f37-b1b5-41af-bac0-3e64bbe0506d">[FT]</a></blockquote>
 
-<b>21. United Airlines, 연간 전망 상향...유가 변동 속 운임 인상 효과</b>
-<blockquote>United Airlines가 2026년 주당순이익 전망치 하단을 2달러 상향해 9~11달러로 제시했다. 유가 변동성에도 운임 인상이 실적을 뒷받침했다.
-<a href="https://www.wsj.com/business/earnings/united-airlines-lifts-outlook-as-higher-fares-blunt-turbulent-fuel-prices-899fcbaa">[WSJ]</a></blockquote>
+<b>21. IBM, 충격적인 이익 경고...투명성 전략이 역효과</b>
+<blockquote>IBM이 깜짝 실적 경고를 발표하며 주가가 급락했다. 회사는 투명성을 강조했지만 오히려 시장의 가혹한 평가를 받았다. CEO는 투자자 신뢰 회복을 위한 과제를 안게 됐다.
+<a href="https://www.wsj.com/tech/the-inside-story-of-ibms-shocking-profit-warning-839ef4f2">[WSJ]</a></blockquote>
 
-<b>22. Todd Blanche 법무장관 대행, Trump 충성 논란 속 상원 인준청문회</b>
-<blockquote>Todd Blanche 법무장관 대행이 상원 인준청문회에서 Trump 대통령과의 IRS 합의를 둘러싼 우려를 해소하려 했다. 불법 지시 시 사임하겠다고 약속했지만 대통령 재량에 따라 복무한다고 강조했다.
-<a href="https://www.ft.com/content/f96ac6cc-6185-46e2-ad7f-3b145b45df27">[FT]</a></blockquote>
+<b>22. UnitedHealth, 2분기 실적 기대치 크게 상회...연간 전망 대폭 상향</b>
+<blockquote>UnitedHealth는 2분기 실적이 월가 예상을 크게 웃돌았으며 연간 이익 전망을 대폭 상향 조정했다. 헬스케어 수요 증가와 사업 부문 전반의 견조한 성장이 실적을 뒷받침했다.
+<a href="https://www.wsj.com/business/earnings/unitedhealth-results-handily-beat-wall-street-expectations-fb967ef6">[WSJ]</a></blockquote>
 
-<b>23. Trump 행정부 CDC 국장 후보, 과학 존중 다짐...백신 정책 논란 속</b>
-<blockquote>Trump 대통령이 지명한 CDC 국장 후보 Erica Schwartz 박사가 상원 인준청문회에서 과학을 존중하겠다고 밝혔다. 백신 정책과 Robert F. Kennedy Jr.를 둘러싼 의원들의 질의가 이어졌다.
-<a href="https://www.wsj.com/politics/policy/cdc-senate-hearing-erica-schwartz-f54768e9">[WSJ]</a></blockquote>
+<b>23. GE Aerospace, 배송 지연에도 실적 전망 상향...연간 EPS 최대 $7.85 예상</b>
+<blockquote>GE Aerospace는 항공기 엔진 배송 지연에도 불구하고 연간 실적 전망을 상향 조정했다. 조정 주당순이익(EPS) 전망을 기존 $7.10~7.40에서 $7.65~7.85로 높였다. 항공 수요 회복세가 예상보다 강한 흐름을 보이고 있다.
+<a href="https://www.wsj.com/business/earnings/ge-aerospace-raises-fy-outlook-on-higher-sales-profit-b5cb031b">[WSJ]</a></blockquote>
 
-<b>24. 민주당, 이스라엘 군사원조 삭감 시도 실패...33억달러 지원 유지</b>
-<blockquote>민주당이 이스라엘에 대한 연간 33억달러 군사원조를 삭감하는 수정안을 발의했으나 하원에서 부결됐다. 민주당 내 이스라엘 지지 약화를 보여주는 표결이었다.
-<a href="https://www.ft.com/content/cb35e093-1f8e-4160-9597-80d54cf2eb8b">[FT]</a></blockquote>
+<b>24. Abbott Laboratories, 진단 사업 성장으로 매출 증가</b>
+<blockquote>Abbott Laboratories는 진단 부문 성장에 힘입어 매출이 증가했다. 다만 2분기 순이익은 전년 동기 17억8000만 달러(주당 1.01달러)에서 9억2800만 달러(주당 53센트)로 감소했다.
+<a href="https://www.wsj.com/business/earnings/abbott-laboratories-sales-rise-on-diagnostics-growth-da57346d">[WSJ]</a></blockquote>
 
-<b>25. Vance 부통령, 이스라엘 비판 강도 높여...전쟁 무기한 지속 의도 지적</b>
-<blockquote>JD Vance 부통령이 Joe Rogan과의 인터뷰에서 이스라엘 일각이 이란과의 전쟁을 무기한 지속하려 한다고 비판했다. 행정부 내 이스라엘 압박 수위가 높아지고 있다.
-<a href="https://www.wsj.com/world/middle-east/vance-ramps-up-criticism-of-israel-00535d84">[WSJ]</a></blockquote>
+<b>25. U.S. Bancorp, 2분기 매출 사상 최대 기록</b>
+<blockquote>U.S. Bancorp는 강력한 대출 성장, 수수료 수익 증가, BTIG 인수 효과 등에 힘입어 2분기 매출이 사상 최대치를 기록했다. 지역 은행 부문의 견조한 실적이 금융 시스템 안정성을 뒷받침하고 있다.
+<a href="https://www.wsj.com/business/earnings/u-s-bancorp-quarterly-revenue-rises-to-record-9516a2aa">[WSJ]</a></blockquote>
 
-<b>26. 미국 조폐국, Trump 대통령 초상 1달러 주화 제작 착수</b>
-<blockquote>미국 조폐국이 Trump 대통령 얼굴을 새긴 1달러 '금화' 주조에 들어간다. 현직 대통령을 화폐에 담는 이례적 조치로, 한쪽 면에 "In God We Trust" 문구와 함께 전면 초상이 새겨진다.
-<a href="https://www.wsj.com/politics/policy/trump-dollar-gold-coin-to-go-into-production-bessent-says-3d91fb03">[WSJ]</a></blockquote>
+<b>26. Eli Lilly, 사이키델릭 제약사 AtaiBeckley 28억 달러에 인수</b>
+<blockquote>Eli Lilly는 정신건강 치료 전문 바이오텍 AtaiBeckley를 초기 28억 달러에 인수하기로 합의했다. Peter Thiel이 투자한 이 회사는 사이키델릭 의약품 개발에 주력하고 있다. 제약업계의 M&A 공세가 정신건강 치료제 분야로 확대되고 있다.
+<a href="https://www.wsj.com/health/pharma/eli-lilly-to-buy-ataibeckley-for-initial-2-8-billion-d1a7c61f">[WSJ]</a></blockquote>
 
-<b>27. Trump, ICE 교통 단속 중단 결정 번복...메인주 총격 사망 사건 후</b>
-<blockquote>Trump 대통령이 ICE(이민세관단속국)의 교통 단속 중단 결정을 번복했다. 메인주에서 연방 이민 단속관이 26세 남성을 총격 사망시킨 사건 직후 나온 조치다.
-<a href="https://www.wsj.com/politics/policy/trump-reverses-ices-decision-to-suspend-traffic-stops-85228584">[WSJ]</a></blockquote>
+<b>27. Verizon, 약 3,000명 감원·일부 매장 프랜차이즈 전환</b>
+<blockquote>Verizon은 274개 직영 매장을 프랜차이즈로 전환하고 약 3000명을 감원할 계획이다. 감원의 대부분은 매장 전환에 따른 것으로, 비용 구조 개선을 위한 구조조정이 진행되고 있다.
+<a href="https://www.wsj.com/business/retail/verizon-to-cut-about-3-000-jobs-divest-itself-of-some-retail-stores-ec048b92">[WSJ]</a></blockquote>
 
-<b>28. Andy Burnham, Shabana Mahmood 재무장관 임명 예정...영국 정치 개편</b>
-<blockquote>Andy Burnham 영국 차기 총리가 현 내무장관 Shabana Mahmood를 재무장관으로 임명할 것으로 알려졌다. Rachel Reeves의 후임으로 경제정책 전면에 나서게 된다.
-<a href="https://www.ft.com/content/54d17925-a1d3-4bae-a1bc-a325df7577dd">[FT]</a></blockquote>
+<b>28. Ocado 주가 18% 폭락...기술 라이선스 부문 부진</b>
+<blockquote>영국 온라인 식료품 업체 Ocado의 주가가 18% 급락하며 13년 만에 최저치를 기록했다. 회사는 이익 감소와 신규 설치 지연을 발표했다. 기술 라이선스 사업 모델의 수익성에 대한 우려가 커지고 있다.
+<a href="https://www.ft.com/content/4d329070-9168-4e67-ae0b-580cdde18d11">[FT]</a></blockquote>
 
-<b>29. Thames Water, 장기 전망 경고...12개월 생존 가능하나 재자본화 전 유동성 부족</b>
-<blockquote>Thames Water가 향후 12개월은 생존 가능하지만 재자본화 이전 유동성이 부족할 수 있다고 경고했다. 영국 차기 총리 Burnham는 국유화를 검토 중인 것으로 전해졌다.
-<a href="https://www.ft.com/content/7f5ad72a-f007-4764-bbc4-58ce57154f3a">[FT]</a></blockquote>
+<b>29. 영국 Andy Burnham, 총리 취임 후 정책 공세 예고</b>
+<blockquote>Andy Burnham 영국 신임 총리는 취임 초기에 생활비 문제, 북해 에너지, 지방분권 등을 중심으로 정책 공세를 펼칠 계획이다. 새 정부의 초기 정책 방향이 시장과 유권자의 기대에 부응할지 주목되고 있다.
+<a href="https://www.ft.com/content/26ef759a-c5b3-4992-ab58-7b9a11d31371">[FT]</a></blockquote>
 
-<b>30. 우크라이나, 국방장관 전격 경질...취임 6개월만에 교체</b>
-<blockquote>Volodymyr Zelenskyy 대통령이 취임 6개월만에 국방장관을 경질했다. 드론 개발을 주도한 인기 장관이 내각 개편 과정에서 해임되며 군사 노력에 차질이 우려된다.
-<a href="https://www.ft.com/content/c2b9d7ff-ac32-4cea-82b2-b4dc0a64c014">[FT]</a></blockquote>
+<b>30. Shabana Mahmood 재무장관 가능성에 영국 투자자 불안 완화</b>
+<blockquote>Shabana Mahmood가 영국 재무장관이 될 가능성이 보도되면서 투자자들의 우려가 다소 완화됐다. 시장은 새 정부의 경제 정책 방향과 재정 건전성 관리에 주목하고 있다.
+<a href="https://www.wsj.com/finance/investing/u-k-investor-concerns-ease-on-reports-mahmood-could-lead-treasury-3b02ebd2">[WSJ]</a></blockquote>
 
-<b>31. 그리스, 자국 해운사 보호 위해 EU 대러 제재 반대</b>
-<blockquote>그리스가 George Prokopiou 소유 Dynagas를 겨냥한 EU의 새 대러시아 제재안에 반대했다. 이 해운사는 러시아 북극 LNG 운송을 전문으로 한다.
-<a href="https://www.ft.com/content/fe5298b6-499b-4647-984f-fdcf3917e696">[FT]</a></blockquote>
+<b>31. Monte dei Paschi, Intesa의 €306억 인수 제안 "저평가" 주장</b>
+<blockquote>이탈리아 Monte dei Paschi 은행 이사회는 Intesa의 306억 유로 인수 제안이 은행 가치를 저평가하고 있으며 규제·실행 리스크가 있다고 밝혔다. Banco BPM과의 잠재적 결합 가능성은 여전히 열려 있다.
+<a href="https://www.ft.com/content/e79977e9-cf50-4a0c-8043-328d807e5e5a">[FT]</a></blockquote>
 
-<b>32. 시진핑, 정치국원 또 한 명 축출...최고위층 숙청 기록 경신</b>
-<blockquote>시진핑 주석이 정치국에서 또 한 명의 지도자를 축출하며 최고위층 숙청 기록을 경신했다. 권력 집중과 충성도 검증이 지속되고 있다.
-<a href="https://www.economist.com/china/2026/07/15/xi-jinping-expels-another-leader-from-his-top-team">[Economist]</a></blockquote>
+<b>32. DCC 주요 주주들, KKR·Energy Capital의 £57억 인수 제안 반대</b>
+<blockquote>FTSE 100 에너지 그룹 DCC의 주요 주주들은 KKR과 Energy Capital Partners의 개선된 57억 파운드 인수 제안이 여전히 회사 가치를 크게 저평가하고 있다며 반대 입장을 밝혔다.
+<a href="https://www.ft.com/content/b5b79893-9e82-4d49-a977-046b830f8a68">[FT]</a></blockquote>
+
+<b>33. 중국 경제성장률 4.3%...예상보다 악화</b>
+<blockquote>중국 경제 성장률이 4.3%를 기록하며 Beijing 정부의 최저 전망치도 밑돌았다. 실제 성장률은 이보다 훨씬 낮을 가능성도 제기되고 있다. 중국 경제 둔화가 글로벌 성장과 원자재 수요에 미칠 영향이 우려되고 있다.
+<a href="https://www.wsj.com/opinion/chinas-economy-is-in-worse-shape-than-you-think-95792af7">[WSJ]</a></blockquote>
 
 ━━━━━━━━━━━━━━━━━━━━
 📡 <b>출처: WSJ · FT · The Economist</b>
