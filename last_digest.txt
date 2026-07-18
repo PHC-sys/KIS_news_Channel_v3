@@ -4,161 +4,45 @@
 
 ✅ <b>간밤의 주요 헤드라인</b>
 
-<b>1. 미국, 이란 인프라까지 공격 범위 확대...전쟁 수렁 진입 신호</b>
-<blockquote>미군이 이란 내부 인프라 시설을 겨냥한 공습을 확대하면서 미-이란 전쟁이 광범위한 충돌 양상으로 전환되고 있다. 이란은 보복 공격으로 맞대응하며 양측 모두 후퇴 기미를 보이지 않고 있다.
-<a href="https://www.wsj.com/world/middle-east/the-u-s-and-iran-creep-toward-a-wider-war-with-escalating-attacks-7323c060">[WSJ]</a> <a href="https://www.ft.com/content/119c8222-89ce-4c45-ad77-9bb4aab06bdd">[FT]</a></blockquote>
+<b>1. 이란 미사일, 미군 2명 사망...미국 보복 공습으로 충돌 확전</b>
+<blockquote>이란의 요르단 주둔 미군 기지 미사일 공격으로 미군 2명이 사망하고 다수가 부상했다. 미국은 즉각 이란 내 군사 목표물에 대한 새로운 공습을 단행했으며, 양국 간 군사 충돌은 1주일 만에 급격히 확전되고 있다.
+<a href="https://www.ft.com/content/e8e8adc5-7c56-45a8-99fc-bb5acfda263e">[FT]</a></blockquote>
 
-<b>2. 유가 주간 두 자릿수 상승...중동 공급 차질 우려 증폭</b>
-<blockquote>중동 군사 긴장 고조로 원유 선물가격이 주간 기준 두 자릿수 상승률을 기록했다. 미국의 이란 공습 확대와 이란의 인근 산유국 타격으로 공급망 불안이 심화되고 있다.
-<a href="https://www.wsj.com/finance/commodities-futures/oil-rises-amid-escalating-supply-disruption-concerns-c3dcf86d">[WSJ]</a></blockquote>
+<b>2. 이란, 휴전 기간 중 원유 $6B 규모 긴급 유출...아시아行 20척 출항</b>
+<blockquote>이란은 미국의 봉쇄 해제 직후 약 20척의 유조선에 수백만 배럴의 원유를 실어 아시아로 긴급 수출했다. 대부분은 중국으로 향할 것으로 추정되며, 휴전 기간을 이용한 대규모 원유 유출로 총 $6B 규모의 외화 확보에 성공한 것으로 분석된다.
+<a href="https://www.wsj.com/world/middle-east/iran-rushed-out-6-billion-of-oil-during-brief-truce-with-u-s-5a3d0818">[WSJ]</a></blockquote>
 
-<b>3. 호르무즈 해협 쇼크...글로벌 에너지 시장 흡수력 한계 도달</b>
-<blockquote>호르무즈 해협 봉쇄 가능성이 현실화되면서 유가 급등의 경제적 파급력이 커지고 있다. 석유 의존도 개선에도 불구하고 글로벌 경제의 에너지 가격 충격 흡수 능력은 한계에 직면했다는 분석이 나온다.
-<a href="https://www.ft.com/content/55f5860b-6ef0-42ed-a87f-c49af6ef9d29">[FT]</a></blockquote>
+<b>3. 미국 전략비축유(SPR) 1983년 이후 최저...이란 전쟁 여파 주목</b>
+<blockquote>미국의 전략석유비축유(SPR) 재고가 1983년 이래 최저 수준으로 떨어졌다. 이란 전쟁으로 인한 유가 급등 국면에서 비축유 방출 여력이 크게 줄어들면서, 향후 오일 쇼크 대응 능력에 대한 우려가 커지고 있다.
+<a href="https://www.wsj.com/business/energy-oil/u-s-emergency-oil-reserve-hits-lowest-levels-since-1983-why-it-matters-a4ed79aa">[WSJ]</a></blockquote>
 
-<b>4. 사우디 홍해 수출로 위협 증가...후티 반군 경고 고조</b>
-<blockquote>예멘 후티 반군이 사우디아라비아의 홍해 경유 석유 수출로를 다시 차단할 수 있다고 경고하면서 에너지 운송망 리스크가 커지고 있다. 후티는 과거 홍해 봉쇄 전력이 있어 시장의 경계감이 높다.
-<a href="https://www.wsj.com/world/middle-east/the-threat-to-saudi-arabias-main-oil-export-route-is-growing-6927e974">[WSJ]</a></blockquote>
+<b>4. 우크라이나, 러시아 대형 물류 인프라 타격...전쟁 확대 양상</b>
+<blockquote>우크라이나군이 러시아 최대 온라인 유통업체 Wildberries의 물류 창고에 드론 공습을 감행해 최소 8명이 사망하고 수십 명이 부상했다. 러시아 민간 상업 인프라에 대한 공격 확대는 전쟁 양상이 새로운 국면으로 확전되고 있음을 보여준다.
+<a href="https://www.wsj.com/world/ukraine-escalates-air-war-with-deadly-strikes-on-russias-amazon-163ba241">[WSJ]</a></blockquote>
 
-<b>5. 트럼프, 이란 Pickaxe 시설 공격 검토 언급...핵심 표적 부상</b>
-<blockquote>트럼프 대통령이 이란의 Pickaxe 시설을 공격 목표로 고려 중이라고 밝혔다. 이 시설은 작년 이란 주요 핵시설 공습보다 복잡한 작전이 필요한 표적으로 평가된다.
-<a href="https://www.wsj.com/world/middle-east/what-we-know-about-trumps-pickaxe-iran-target-3700391a">[WSJ]</a></blockquote>
+<b>5. 중국 AI 모델 부상에 미국 주식 흔들...Moonshot Kimi K3 주목</b>
+<blockquote>Moonshot의 Kimi K3 등 중국 AI 모델들이 빠르게 경쟁력을 높이면서 미국 빅테크 주식에 대한 우려가 커지고 있다. 중국 업체들의 추격으로 미국 AI 붐의 지속 가능성에 의문이 제기되며 기술주 밸류에이션 재평가 압력이 가중되는 모습이다.
+<a href="https://www.wsj.com/tech/ai/what-to-know-about-the-chinese-ai-models-rattling-u-s-stocks-1a80a479">[WSJ]</a></blockquote>
 
-<b>6. 중국 Moonshot AI 저가 모델 충격...월가 반도체 투자 심리 타격</b>
-<blockquote>중국 스타트업 Moonshot AI가 저가 AI 모델을 출시하면서 반도체 섹터 투자자들의 우려가 증폭되고 있다. AI 디플레이션 가능성이 부각되며 엔비디아 등 고가 칩 수요 전망에 의문이 제기됐다.
-<a href="https://www.wsj.com/finance/stocks/chinas-moonshot-ai-adds-to-chip-investors-worries-82b01792">[WSJ]</a></blockquote>
+<b>6. SpaceX 공매도 급증, IPO 후 첫 발행가 하회...테크 심리 반전 신호</b>
+<blockquote>SpaceX 주식에 대한 공매도 포지션이 IPO 후 몇 주 만에 급증하며 주가가 상장가 아래로 처음 하락했다. Elon Musk의 우주·AI 복합 기업에 대한 투자 심리 반전은 고밸류에이션 테크주 전반에 대한 경계감이 커지고 있음을 시사한다.
+<a href="https://www.ft.com/content/2b96703d-440b-46db-8d86-9fff9ecc59d5">[FT]</a></blockquote>
 
-<b>7. AI 저가화, OpenAI·Anthropic에 악재...중국 업체는 기회</b>
-<blockquote>AI 모델 가격이 급락하면서 OpenAI와 Anthropic 등 주요 AI 기업의 수익성에 위협이 되는 반면, 저가 경쟁력을 갖춘 중국 업체들에게는 시장 확대 기회가 열리고 있다.
-<a href="https://www.wsj.com/tech/ai/cheaper-ai-commodity-openai-anthropic-0111da73">[WSJ]</a></blockquote>
+<b>7. Trump Truth Social 게시물, 밀리초 단위 주가 변동...시장 영향력 입증</b>
+<blockquote>Donald Trump의 Truth Social 게시물이 주식시장을 밀리초 단위로 움직이고 있는 것으로 나타났다. Truth Social은 트레이더들에게 대통령 게시물에 대한 더 빠른 접근 권한을 유료로 제공할 계획이며, 정책 불확실성이 시장 변동성 프리미엄으로 직결되는 양상이다.
+<a href="https://www.wsj.com/politics/policy/see-how-trumps-truth-social-posts-move-stocks-5ee3611b">[WSJ]</a></blockquote>
 
-<b>8. 중국 AI 모델, 사이버 공격 능력서 미국 격차 축소</b>
-<blockquote>영국 당국은 중국산 저가 오픈소스 AI 모델이 사이버 공격 능력에서 미국 경쟁 모델과의 격차를 빠르게 좁히고 있다고 경고했다. 기업들이 보안 취약점을 패치할 시간이 줄어들 수 있다는 우려가 나온다.
-<a href="https://www.ft.com/content/21c10336-61bc-4743-82e3-acabfc7d540d">[FT]</a></blockquote>
+<b>8. Trump, 유럽 원조 MAGA 성향 사업으로 재편...EU 규제 견제 명시</b>
+<blockquote>Trump 행정부가 유럽 지원 자금을 MAGA 성향 프로젝트로 재편하고 있다. EU 규제로부터의 '검열 대응'과 '국가 주권 지지'를 명시적 목표로 내걸며 대유럽 관계를 재조정하는 모습으로, 대서양 양안 정책 마찰 가능성이 높아지고 있다.
+<a href="https://www.ft.com/content/1cb986a4-2428-4e64-a559-7867cfa1a3e3">[FT]</a></blockquote>
 
-<b>9. 미 반도체주 1년 만에 최악의 주...모멘텀 거래 역풍</b>
-<blockquote>미국 반도체주가 1년여 만에 최악의 주간 낙폭을 기록했다. AI 디플레이션 우려 속에 고공행진하던 모멘텀 거래가 일제히 청산되면서 섹터 전반에 매도세가 확산됐다.
-<a href="https://www.ft.com/content/79a15abd-5892-4f1c-b038-b09a1ceecabb">[FT]</a></blockquote>
+<b>9. 영국 Burnham 신임 총리, 디지털 ID 사업 폐기...생활비 위기 대응 재원 확보</b>
+<blockquote>영국 신임 총리 Andy Burnham이 전임 정부의 디지털 ID 도입 계획을 폐기했다. 절감된 예산은 생활비 위기 대응에 투입될 예정이며, 재정 정책 우선순위를 재조정하는 첫 신호로 해석된다.
+<a href="https://www.ft.com/content/8f5445ab-dacb-4908-909f-277853ad0f50">[FT]</a></blockquote>
 
-<b>10. 미 반도체주 연장 하락...넷플릭스 급락 동반</b>
-<blockquote>미 증시에서 반도체주 하락세가 이어진 가운데 넷플릭스도 성장 전망 부진으로 급락하며 기술주 전반에 매도 압력이 지속됐다. 투자자들은 고밸류에이션 기술주에서 이익 실현에 나섰다.
-<a href="https://www.wsj.com/business/retail/lettuce-crisis-deals-blow-to-taco-bells-fast-food-stardom-a2c74b7a">[WSJ]</a></blockquote>
-
-<b>11. 나스닥 재차 하락...반도체 낙폭 심화</b>
-<blockquote>나스닥 지수가 이틀 연속 하락하며 반도체 섹터의 조정이 깊어지고 있다. 중국 저가 AI 모델 출시 이후 시작된 기술주 매도세가 주말을 앞두고 가속화됐다.
-<a href="https://www.wsj.com/finance/stocks/nasdaq-drops-again-as-chip-slump-deepens-fa87ecb0">[WSJ]</a></blockquote>
-
-<b>12. 애플, 엔비디아 제치고 시총 1위 복귀...월가 왕좌 탈환</b>
-<blockquote>애플이 엔비디아를 제치고 미국에서 시가총액 1위 기업으로 복귀했다. AI 반도체 섹터 급락 속에서 애플은 상대적으로 견조한 흐름을 유지하며 최고 자리를 되찾았다.
-<a href="https://www.wsj.com/tech/apple-overthrows-nvidia-to-reclaim-wall-streets-crown-ddc74a38">[WSJ]</a></blockquote>
-
-<b>13. 애플, 엔비디아 추월해 세계 최대 시총 기업 등극</b>
-<blockquote>애플이 장중 엔비디아를 제치고 세계 최대 시가총액 기업 자리를 탈환했다. 반도체 섹터를 강타한 AI 디플레이션 우려 속에서 애플은 매도 압력을 비껴갔다.
-<a href="https://www.ft.com/content/9586223a-8339-4a57-9e2f-251899ebd211">[FT]</a></blockquote>
-
-<b>14. 넷플릭스 주가 하락...성장 전망 실망</b>
-<blockquote>넷플릭스가 향후 3년간 가장 약한 매출 증가율을 전망하며 주가가 급락했다. 스트리밍 시장 포화와 경쟁 심화 속에 성장 모멘텀 둔화 우려가 부각됐다.
-<a href="https://www.ft.com/content/2c5151d9-738f-4808-bbd0-15aaf48d922e">[FT]</a></blockquote>
-
-<b>15. 영국 월요일 신임 총리...첫 과제는 시장 안심시키기</b>
-<blockquote>Andy Burnham이 월요일 영국 신임 총리로 취임한다. 2016년 이후 7번째 총리가 되는 그는 맨체스터 시장 출신으로, 취임 직후 금융시장 안정화가 최우선 과제가 될 전망이다.
-<a href="https://www.wsj.com/world/uk/the-u-k-gets-another-new-leader-on-monday-his-first-task-reassure-the-markets-187dae5e">[WSJ]</a></blockquote>
-
-<b>16. Burnham 시대 개막...Mahmood 재무장관 유력</b>
-<blockquote>Andy Burnham의 총리 취임이 확정되면서 Mahmood가 재무장관에 오를 것으로 예상된다. Keir Starmer 전임 총리의 퇴진 이후 노동당 지도부가 급속히 재편되고 있다.
-<a href="https://www.ft.com/content/1a3e03b0-bd7a-41de-bf3f-92ed5c723773">[FT]</a></blockquote>
-
-<b>17. Burnham, 노동당 지도부 승계...공약 이행 압박 직면</b>
-<blockquote>Burnham 신임 총리가 노동당 지지자들의 열렬한 환영을 받았지만, 야심찬 공약들을 어떻게 실행할지에 대한 즉각적인 의문에 직면했다. 정치적 기대와 재정 현실 사이의 균형이 관건이다.
-<a href="https://www.ft.com/content/cbe9b7a5-55f5-47ac-8d30-333faf1322eb">[FT]</a></blockquote>
-
-<b>18. Burnham, Jonathan Reynolds를 확대 비즈니스부 수장 검토</b>
-<blockquote>Burnham 신임 총리가 Jonathan Reynolds를 권한이 강화된 비즈니스부 장관으로 임명하는 방안을 논의 중이다. 과학정책까지 관장하는 확대 부처 구상이 거론되고 있다.
-<a href="https://www.ft.com/content/fec8b92e-081f-469f-b1c0-576316c75def">[FT]</a></blockquote>
-
-<b>19. Burnham과 반(半)가상 과거에 대한 향수</b>
-<blockquote>신임 총리 Andy Burnham은 비즈니스 친화적이고 일관된 정책 플랫폼을 제시해야 한다는 요구에 직면했다. 정치적 향수보다 실질적 정책 성과가 중요하다는 지적이 나온다.
-<a href="https://www.ft.com/content/5fdb4431-e714-40d3-afe6-44b7f0f9fcf7">[FT]</a></blockquote>
-
-<b>20. 희망만으로는 통치 부족...Burnham의 현실 과제</b>
-<blockquote>Andy Burnham 신임 총리는 다우닝가에 입성한 뒤 노동당이 듣고 싶지 않은 이야기도 해야 할 것이라는 사설이 나왔다. 희망적 메시지만으로는 효과적 통치가 불가능하다는 지적이다.
-<a href="https://www.ft.com/content/cba7f3d7-fe03-4946-a17d-375d6c96e461">[FT]</a></blockquote>
-
-<b>21. 트럼프, 캐나다 산불 연기에 관세 위협</b>
-<blockquote>트럼프 대통령이 캐나다 산불로 발생한 연기가 미국 도시로 유입되자 '더럽고 오염된 공기'를 문제 삼으며 Mark Carney 캐나다 총리에게 관세 부과를 경고했다. 환경 문제를 무역 압박 수단으로 활용하는 양상이다.
-<a href="https://www.ft.com/content/fa4e24db-9324-47e2-8512-a581ca9c1aba">[FT]</a></blockquote>
-
-<b>22. 우크라이나 전장 전략 균열 표면화...국방장관 해임</b>
-<blockquote>우크라이나에서 인기 높은 국방장관이 해임되면서 대러시아 전쟁 전략을 둘러싼 내부 분열이 수면 위로 드러났다. 전선 교착 상황 속 전략 노선 갈등이 심화되고 있다.
-<a href="https://www.ft.com/content/a200e4d6-69b1-45a7-8777-3126dc4f194b">[FT]</a></blockquote>
-
-<b>23. 연준 의장 의회 증언...개혁 계획 정보 제한적</b>
-<blockquote>Kevin Warsh 연준 의장이 의회 증언에서 중앙은행 개혁 계획에 대한 구체적 정보를 거의 제공하지 않았다. 시장은 통화정책 방향과 연준 조직 개편 구상에 대한 불확실성이 지속되고 있다.
-<a href="https://www.ft.com/content/46ab4fc8-187e-4a06-964f-4ed7e2b12549">[FT]</a></blockquote>
-
-<b>24. 천문학적 재정적자가 채권시장 위협</b>
-<blockquote>미국 정부의 기록적인 재정적자가 국채시장에 위협 요인으로 부상하고 있다. 재무부는 사상 최대 규모의 국채를 발행하고 있지만, 시장 수요는 재정 팽창에 점점 더 냉담한 반응을 보이고 있다.
-<a href="https://www.wsj.com/finance/investing/how-sky-high-deficits-threaten-the-bond-market-eeddd168">[WSJ]</a></blockquote>
-
-<b>25. 펜타곤 2000억 달러 대출 계획...월가 인력 채용 붐</b>
-<blockquote>미 국방부가 핵심 산업 부문에 2000억 달러 이상을 대출하는 계획을 추진하면서 사모펀드, 사모신용, 투자은행 전문가 채용에 나서고 있다. 연봉 40만 달러를 제시하며 월가 인재 영입 경쟁이 가열되고 있다.
-<a href="https://www.wsj.com/politics/national-security/pentagon-dangles-400-000-salaries-to-recruit-wall-street-bankers-944435dc">[WSJ]</a></blockquote>
-
-<b>26. SpaceX, 펜타곤 AI용 컴퓨팅 파워 제공 협상</b>
-<blockquote>Elon Musk의 SpaceX가 국방부 AI 사업에 수십억 달러 규모의 데이터센터 용량을 제공하는 계약을 협상 중이다. 민간 우주기업이 국방 인프라 공급자로 부상하고 있다.
-<a href="https://www.wsj.com/tech/ai/spacex-in-talks-to-provide-computing-power-for-pentagons-ai-push-15e752e4">[WSJ]</a></blockquote>
-
-<b>27. 하원 공화당, 이란 전쟁 군사비 추가 지출안 추진...트럼프는 더 원해</b>
-<blockquote>하원 공화당이 이란 전쟁 비용 충당을 위한 추가 군사비 지출 법안을 추진 중이지만, 트럼프 대통령이 원하는 규모에 크게 못 미쳐 통과 여부가 불확실하다. 당내 의견 차이도 변수다.
-<a href="https://www.wsj.com/politics/policy/gop-package-to-fund-iran-war-runs-into-republican-doubts-5502da4e">[WSJ]</a></blockquote>
-
-<b>28. EU, 미국 압력으로 메탄 규제 벌금 연기</b>
-<blockquote>유럽연합이 미국의 압력을 받아 메탄 배출 규제 위반 벌금 부과 시기를 연기할 방침이다. 다만 에너지 기업들이 요구하는 법 전면 개정에는 미치지 못할 전망이다.
-<a href="https://www.ft.com/content/e121d6ad-6d5f-4895-bacf-aff56d5a2eeb">[FT]</a></blockquote>
-
-<b>29. EU, 탄소배출권 완화...산업계 여유 제공</b>
-<blockquote>유럽연합이 탄소배출권 거래제도를 추가로 완화해 역내 중공업에 탈탄소화 여유를 주기로 했다. 무상 배출권 할당 기간을 연장하고 추가 재원도 지원한다.
-<a href="https://www.ft.com/content/c3c33e7b-8faf-4f06-b281-112117aeeb5a">[FT]</a> <a href="https://www.wsj.com/articles/eu-to-revise-landmark-emissions-trading-policy-d17a7e2a">[WSJ]</a></blockquote>
-
-<b>30. 프랑스-독일, 對중 무역 강경책 공조</b>
-<blockquote>Emmanuel Macron 프랑스 대통령과 Friedrich Merz 독일 총리가 중국을 겨냥한 EU의 강경 무역 조치에 공조하기로 합의했다. 양국은 '세이프가드' 무역 조치 도입을 추진할 방침이다.
-<a href="https://www.ft.com/content/e8f185db-9b5c-4d0c-8e5e-e130483f151d">[FT]</a></blockquote>
-
-<b>31. Meta-Anthropic 최대 100억 달러 데이터센터 거래 협상</b>
-<blockquote>Meta가 AI 스타트업 Anthropic과 최대 100억 달러 규모의 데이터센터 거래를 협상 중이다. Meta는 인프라에 1450억 달러를 투자하면서 클라우드 사업 진출도 검토하고 있다.
-<a href="https://www.ft.com/content/0ae58f76-3386-464a-9248-090cc68e9864">[FT]</a></blockquote>
-
-<b>32. Meta, 아마존 클라우드 최고경영진 영입...클라우드 사업 검토</b>
-<blockquote>Meta가 Amazon Web Services에서 20년 가까이 근무한 최고위급 임원 Dave Brown을 영입할 계획이다. 소셜미디어 기업이 본격적인 클라우드 사업 진출을 타진하고 있다.
-<a href="https://www.wsj.com/tech/meta-plans-to-hire-top-amazon-computing-executive-as-it-weighs-cloud-push-2166869b">[WSJ]</a></blockquote>
-
-<b>33. SEC, 분기 실적보고 선택화 규정 변경 예상</b>
-<blockquote>미 증권거래위원회가 20만 건 이상의 반대 의견에도 불구하고 분기 재무보고를 선택 사항으로 변경하는 규정을 확정할 전망이다. 트럼프 대통령은 오랫동안 이 조치를 지지해왔다.
-<a href="https://www.wsj.com/finance/regulation/sec-quarterly-earnings-reports-complaints-2979d5a0">[WSJ]</a></blockquote>
-
-<b>34. Anglo American, De Beers 다이아몬드 사업 매각 우선협상자 선정</b>
-<blockquote>Anglo American이 De Beers 다이아몬드 사업의 우선 매각 협상 대상자로 전임 CEO Gareth Penny가 이끄는 컨소시엄을 선정했다고 보츠와나 장관이 밝혔다.
-<a href="https://www.ft.com/content/88bd18dd-60e6-4b6f-9e5b-1931f4171a1d">[FT]</a></blockquote>
-
-<b>35. ConocoPhillips, 이라크 Kirkuk 유전 재개발 참여</b>
-<blockquote>미국 석유 메이저 ConocoPhillips가 BP와 함께 이라크 대형 Kirkuk 유전 재개발에 참여하기로 했다. 42% 지분을 인수하며 미국 기업들의 이라크 복귀가 가시화되고 있다.
-<a href="https://www.ft.com/content/8f8f57eb-1ec2-4a07-917c-0c646569ee7f">[FT]</a></blockquote>
-
-<b>36. 다음주 FX·채권 주목 이벤트...미국·유럽 PMI, ECB 결정</b>
-<blockquote>다음주 미국, 유로존, 영국의 7월 잠정 구매관리자지수(PMI)가 발표되며 중동 군사 갈등으로 유가가 급등한 가운데 경기 동향을 점검할 기회가 된다. ECB 통화정책 결정도 예정돼 있다.
-<a href="https://www.wsj.com/economy/central-banking/week-ahead-for-fx-bonds-u-s-european-pmi-data-ecb-decision-in-focus-4decf84c">[WSJ]</a></blockquote>
-
-<b>37. 미시간대 소비자심리 7월 개선...휘발유 가격 하락</b>
-<blockquote>미시간대 소비자심리지수 7월 잠정치가 개선됐다. 휘발유 가격 하락이 미국인들의 경제 전망 개선에 기여했다고 조사 기관은 분석했다.
-<a href="https://www.wsj.com/economy/consumers/consumer-sentiment-climbed-in-july-per-michigan-survey-8c26dad4">[WSJ]</a></blockquote>
-
-<b>38. 미국 6월 수입물가 예상외 상승</b>
-<blockquote>미국 6월 수입물가가 0.3% 상승하며 시장 예상을 웃돌았다. 5월 상승률은 1.7%에서 하향 조정됐다.
-<a href="https://www.wsj.com/economy/trade/u-s-import-prices-unexpectedly-rise-in-june-d41a0908">[WSJ]</a></blockquote>
-
-<b>39. 국채수익률 하락...중동 긴장 속 견조한 경제지표</b>
-<blockquote>미 국채 수익률이 소폭 하락했다. 경제지표가 견조한 흐름을 유지했지만 중동 지정학 긴장이 안전자산 수요를 뒷받침했다.
-<a href="https://www.wsj.com/finance/jgbs-mixed-may-be-supported-by-marked-fall-in-japanese-equity-market-4c39934a">[WSJ]</a></blockquote>
+<b>10. 터키, 러시아제 S-400 처분 추진...미국 F-35 구매 물꼬 트나</b>
+<blockquote>터키가 러시아제 S-400 방공 시스템을 UAE에 이전하고 미국산 F-35 전투기 구매를 추진하는 방안을 검토 중이다. S-400 도입으로 F-35 프로그램에서 배제됐던 터키가 방산 동맹 재편을 모색하며 NATO 내 입지 회복을 꾀하는 움직임이다.
+<a href="https://www.wsj.com/world/turkey-aims-to-offload-russian-air-defense-system-as-it-seeks-to-buy-u-s-f-35s-70d05162">[WSJ]</a></blockquote>
 
 ━━━━━━━━━━━━━━━━━━━━
 📡 <b>출처: WSJ · FT · The Economist</b>
