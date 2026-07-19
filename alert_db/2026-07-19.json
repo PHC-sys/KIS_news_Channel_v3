@@ -1,15 +1,19 @@
 {
   "sent_urls": [
     "https://www.ft.com/content/e4f7727f-b1c1-4325-b76d-366b6449cbe3",
-    "https://www.wsj.com/us-news/he-ran-a-strip-club-now-he-wants-to-build-californias-biggest-data-center-2135e916",
-    "https://www.ft.com/content/5a8dc7cd-35c8-4aeb-8f09-1df8afb2cf2e",
-    "https://www.wsj.com/economy/central-banking/pce-inflation-data-updates-ca7bfd61",
-    "https://www.wsj.com/world/middle-east/cia-spy-united-arab-emirates-ai-49d909a8",
-    "https://www.ft.com/content/9cf9b393-3ac7-4cfc-9dd1-4fc23831e6a0",
-    "https://www.wsj.com/world/europe/stagnant-germany-considers-the-unthinkable-sunday-shopping-13b4651c",
-    "https://www.economist.com/united-states/2026/07/19/the-iran-war-is-americas-least-popular-since-polls-began",
     "https://www.wsj.com/finance/regulation/the-justice-department-is-pulling-back-on-prosecuting-corporate-crime-dabf95a2",
     "https://www.wsj.com/us-news/social-media-influencers-andrew-and-tristan-tate-are-arrested-in-miami-645ce5f5",
-    "https://www.wsj.com/politics/israels-50-million-experiment-to-change-u-s-public-opinion-253b3b70"
+    "https://www.wsj.com/personal-finance/retirement/i401k-plans-retirement-employers-60b1dd1a",
+    "https://www.wsj.com/tech/ai/pastors-using-ai-to-help-write-sermons-grapple-with-where-to-draw-the-line-97dcd1f9",
+    "https://www.wsj.com/world/europe/stagnant-germany-considers-the-unthinkable-sunday-shopping-13b4651c",
+    "https://www.wsj.com/politics/israels-50-million-experiment-to-change-u-s-public-opinion-253b3b70",
+    "https://www.wsj.com/economy/central-banking/pce-inflation-data-updates-ca7bfd61",
+    "https://www.ft.com/content/5a8dc7cd-35c8-4aeb-8f09-1df8afb2cf2e",
+    "https://www.ft.com/content/9cf9b393-3ac7-4cfc-9dd1-4fc23831e6a0",
+    "https://www.economist.com/united-states/2026/07/19/the-iran-war-is-americas-least-popular-since-polls-began",
+    "https://www.wsj.com/world/middle-east/cia-spy-united-arab-emirates-ai-49d909a8",
+    "https://www.wsj.com/us-news/he-ran-a-strip-club-now-he-wants-to-build-californias-biggest-data-center-2135e916",
+    "https://www.wsj.com/sports/an-american-woman-shook-up-one-of-the-oldest-of-englands-old-boys-sports-d4a32b09",
+    "https://www.wsj.com/business/retail/big-food-is-running-out-of-moves-with-shoppers-and-investors-5f4567e9"
   ]
 }
