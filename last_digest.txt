@@ -4,45 +4,61 @@
 
 ✅ <b>간밤의 주요 헤드라인</b>
 
-<b>1. 이란 미사일, 미군 2명 사망...미국 보복 공습으로 충돌 확전</b>
-<blockquote>이란의 요르단 주둔 미군 기지 미사일 공격으로 미군 2명이 사망하고 다수가 부상했다. 미국은 즉각 이란 내 군사 목표물에 대한 새로운 공습을 단행했으며, 양국 간 군사 충돌은 1주일 만에 급격히 확전되고 있다.
-<a href="https://www.ft.com/content/e8e8adc5-7c56-45a8-99fc-bb5acfda263e">[FT]</a></blockquote>
+<b>1. 요르단·이라크서 미군 사상자 연쇄 발생...미국-이란 전쟁 확전 국면</b>
+<blockquote>요르단 기지 미사일 공격으로 미군 2명 사망 1명 실종에 이어 이라크에서 드론 제거 작전 중 1명이 추가 사망했다. 미 중부사령부는 요르단 현장에서 신원 확인 작업을 진행 중이며 사망자가 더 늘어날 가능성을 시사했다.
+<a href="https://www.ft.com/content/7aa5493a-a2ba-4824-b3d0-03b9309ae3ea">[FT]</a> <a href="https://www.wsj.com/world/middle-east/u-s-servicemember-killed-in-iraq-as-troop-death-toll-in-jordan-likely-to-rise-fb59b6cc">[WSJ]</a></blockquote>
 
-<b>2. 이란, 휴전 기간 중 원유 $6B 규모 긴급 유출...아시아行 20척 출항</b>
-<blockquote>이란은 미국의 봉쇄 해제 직후 약 20척의 유조선에 수백만 배럴의 원유를 실어 아시아로 긴급 수출했다. 대부분은 중국으로 향할 것으로 추정되며, 휴전 기간을 이용한 대규모 원유 유출로 총 $6B 규모의 외화 확보에 성공한 것으로 분석된다.
-<a href="https://www.wsj.com/world/middle-east/iran-rushed-out-6-billion-of-oil-during-brief-truce-with-u-s-5a3d0818">[WSJ]</a></blockquote>
+<b>2. ECB 이번 주 금리결정...유가 급등에 인플레 딜레마 재점화</b>
+<blockquote>중동 전쟁 확대로 원유 가격이 급등하면서 ECB가 이번 주 통화정책회의에서 곤란한 선택을 맞게 됐다. 시장은 유가 상승이 인플레이션 재가속 압력을 높일 것으로 보고 ECB의 대응 방향에 주목하고 있다.
+<a href="https://www.ft.com/content/c1b04338-8fc8-45fc-8a35-f623843d4dda">[FT]</a></blockquote>
 
-<b>3. 미국 전략비축유(SPR) 1983년 이후 최저...이란 전쟁 여파 주목</b>
-<blockquote>미국의 전략석유비축유(SPR) 재고가 1983년 이래 최저 수준으로 떨어졌다. 이란 전쟁으로 인한 유가 급등 국면에서 비축유 방출 여력이 크게 줄어들면서, 향후 오일 쇼크 대응 능력에 대한 우려가 커지고 있다.
-<a href="https://www.wsj.com/business/energy-oil/u-s-emergency-oil-reserve-hits-lowest-levels-since-1983-why-it-matters-a4ed79aa">[WSJ]</a></blockquote>
+<b>3. Andy Burnham 차기 영국 총리, 다우닝가 통제 강화 구상...재무부 의존 줄인다</b>
+<blockquote>Burnham 차기 총리는 다우닝가 내 정책조율 컨트롤타워를 대폭 강화해 '제국 같은' 재무부(Treasury) 의존도를 낮추겠다는 계획을 밝혔다. 정부 신뢰 회복을 위해 정책 주도권을 총리실로 집중하겠다는 의도로 풀이된다.
+<a href="https://www.ft.com/content/1370d477-fc16-408a-b9ed-d9c19c076ca3">[FT]</a></blockquote>
 
-<b>4. 우크라이나, 러시아 대형 물류 인프라 타격...전쟁 확대 양상</b>
-<blockquote>우크라이나군이 러시아 최대 온라인 유통업체 Wildberries의 물류 창고에 드론 공습을 감행해 최소 8명이 사망하고 수십 명이 부상했다. 러시아 민간 상업 인프라에 대한 공격 확대는 전쟁 양상이 새로운 국면으로 확전되고 있음을 보여준다.
-<a href="https://www.wsj.com/world/ukraine-escalates-air-war-with-deadly-strikes-on-russias-amazon-163ba241">[WSJ]</a></blockquote>
+<b>4. 영국, 북해 신규 탐사 라이선스 금지 유지 방침...석유·가스 업계 반발</b>
+<blockquote>Burnham 정부는 북해 신규 석유·가스 탐사 라이선스 금지 정책을 그대로 유지하기로 했다. 석유·가스 업계와 노조는 이 결정이 에너지 안보와 일자리에 부정적 영향을 미칠 것이라며 비판했다.
+<a href="https://www.ft.com/content/d9631aae-1100-43e0-a09a-e49f5c21f896">[FT]</a></blockquote>
 
-<b>5. 중국 AI 모델 부상에 미국 주식 흔들...Moonshot Kimi K3 주목</b>
-<blockquote>Moonshot의 Kimi K3 등 중국 AI 모델들이 빠르게 경쟁력을 높이면서 미국 빅테크 주식에 대한 우려가 커지고 있다. 중국 업체들의 추격으로 미국 AI 붐의 지속 가능성에 의문이 제기되며 기술주 밸류에이션 재평가 압력이 가중되는 모습이다.
-<a href="https://www.wsj.com/tech/ai/what-to-know-about-the-chinese-ai-models-rattling-u-s-stocks-1a80a479">[WSJ]</a></blockquote>
+<b>5. 영국-인도 FTA 철강 쿼터 양보...웨일스 Llanwern 제철소 타격 우려</b>
+<blockquote>영국이 인도와의 자유무역협정 타결을 위해 철강 수입 쿼터를 완화하면서 Tata Steel UK의 웨일스 Llanwern 공장이 위험에 처했다는 지적이 나온다. 노조는 특히 아연도금강판 쿼터 확대가 해당 공장에 치명적이라고 경고했다.
+<a href="https://www.ft.com/content/b0ac6cd9-e325-485a-9c0a-db5053af8d93">[FT]</a></blockquote>
 
-<b>6. SpaceX 공매도 급증, IPO 후 첫 발행가 하회...테크 심리 반전 신호</b>
-<blockquote>SpaceX 주식에 대한 공매도 포지션이 IPO 후 몇 주 만에 급증하며 주가가 상장가 아래로 처음 하락했다. Elon Musk의 우주·AI 복합 기업에 대한 투자 심리 반전은 고밸류에이션 테크주 전반에 대한 경계감이 커지고 있음을 시사한다.
-<a href="https://www.ft.com/content/2b96703d-440b-46db-8d86-9fff9ecc59d5">[FT]</a></blockquote>
+<b>6. EU, 신규 對러시아 제재안에 회원국 지지 붕괴...대기업 타격 우려</b>
+<blockquote>EU 회원국들이 자국 주요 기업에 피해를 줄 수 있다는 이유로 신규 러시아 제재 패키지에 대한 지지를 철회하고 있다. 브뤼셀이 추진하던 추가 제재 조치가 회원국 수도들의 반대로 무산 위기에 놓였다.
+<a href="https://www.ft.com/content/eb0cd740-e45d-4dd7-ab9a-6f6643bb32ee">[FT]</a></blockquote>
 
-<b>7. Trump Truth Social 게시물, 밀리초 단위 주가 변동...시장 영향력 입증</b>
-<blockquote>Donald Trump의 Truth Social 게시물이 주식시장을 밀리초 단위로 움직이고 있는 것으로 나타났다. Truth Social은 트레이더들에게 대통령 게시물에 대한 더 빠른 접근 권한을 유료로 제공할 계획이며, 정책 불확실성이 시장 변동성 프리미엄으로 직결되는 양상이다.
-<a href="https://www.wsj.com/politics/policy/see-how-trumps-truth-social-posts-move-stocks-5ee3611b">[WSJ]</a></blockquote>
+<b>7. Zelensky, 국방장관 경질 파문 진화 나서...군 지휘부 연일 회의</b>
+<blockquote>우크라이나 Volodymyr Zelensky 대통령이 국방장관 해임을 둘러싼 군 내부 불만을 잠재우기 위해 이틀째 고위 군 지휘관들과 연쇄 회동을 가졌다. 국방부 수뇌부 교체가 전선 지휘체계에 미치는 영향을 최소화하려는 움직임으로 보인다.
+<a href="https://www.wsj.com/world/zelensky-seeks-to-quell-growing-discontent-over-ouster-of-defense-minister-8e7c54c6">[WSJ]</a></blockquote>
 
-<b>8. Trump, 유럽 원조 MAGA 성향 사업으로 재편...EU 규제 견제 명시</b>
-<blockquote>Trump 행정부가 유럽 지원 자금을 MAGA 성향 프로젝트로 재편하고 있다. EU 규제로부터의 '검열 대응'과 '국가 주권 지지'를 명시적 목표로 내걸며 대유럽 관계를 재조정하는 모습으로, 대서양 양안 정책 마찰 가능성이 높아지고 있다.
-<a href="https://www.ft.com/content/1cb986a4-2428-4e64-a559-7867cfa1a3e3">[FT]</a></blockquote>
+<b>8. 우크라이나 Odesa, 러시아 포위망 속 버티는 항구도시...경제 요충지 사수</b>
+<blockquote>흑해 연안 주요 항구도시 Odesa는 휴양지이자 문화 중심지인 동시에 크렘린이 탐내는 경제 요충지다. WSJ는 러시아의 포위 시도에도 불구하고 도시가 다면적 기능을 유지하며 저항하는 모습을 조명했다.
+<a href="https://www.wsj.com/world/europe/a-portrait-of-a-beach-city-defying-russias-attempts-to-ensnare-it-ef331b58">[WSJ]</a></blockquote>
 
-<b>9. 영국 Burnham 신임 총리, 디지털 ID 사업 폐기...생활비 위기 대응 재원 확보</b>
-<blockquote>영국 신임 총리 Andy Burnham이 전임 정부의 디지털 ID 도입 계획을 폐기했다. 절감된 예산은 생활비 위기 대응에 투입될 예정이며, 재정 정책 우선순위를 재조정하는 첫 신호로 해석된다.
-<a href="https://www.ft.com/content/8f5445ab-dacb-4908-909f-277853ad0f50">[FT]</a></blockquote>
+<b>9. 중국, 에너지 저장 시장 90% 장악...미국 재생에너지 전환 의존도 심화</b>
+<blockquote>중국 기업들이 미국 에너지 저장 시장의 90%를 점유하면서 워싱턴에서 경쟁국 과의존 우려가 커지고 있다. 배터리 저장 설비는 태양광·풍력 발전의 변동성을 보완하는 핵심 인프라로 재생에너지 확대의 관건이다.
+<a href="https://www.wsj.com/business/energy-oil/the-key-to-solar-and-wind-power-is-battery-storage-and-china-is-dominating-ed4a2caf">[WSJ]</a></blockquote>
 
-<b>10. 터키, 러시아제 S-400 처분 추진...미국 F-35 구매 물꼬 트나</b>
-<blockquote>터키가 러시아제 S-400 방공 시스템을 UAE에 이전하고 미국산 F-35 전투기 구매를 추진하는 방안을 검토 중이다. S-400 도입으로 F-35 프로그램에서 배제됐던 터키가 방산 동맹 재편을 모색하며 NATO 내 입지 회복을 꾀하는 움직임이다.
-<a href="https://www.wsj.com/world/turkey-aims-to-offload-russian-air-defense-system-as-it-seeks-to-buy-u-s-f-35s-70d05162">[WSJ]</a></blockquote>
+<b>10. 인도 루피 약세, 민간투자 부진과 사업환경 불확실성 반영...통화 진단 오류</b>
+<blockquote>인도 루피화 약세는 단순 환율 문제가 아니라 부진한 민간투자와 사업환경 불확실성이 근본 원인이라는 분석이 나왔다. FT는 통화정책보다 구조적 투자 여건 개선이 필요하다고 지적했다.
+<a href="https://www.ft.com/content/29985fc4-db18-4799-ae3c-59877a6c5bc9">[FT]</a></blockquote>
+
+<b>11. 베네수엘라 재건 비용 $370억...트럼프 행정부 대외정책 부담 가중</b>
+<blockquote>지진으로 인프라가 초토화된 베네수엘라 재건에 370억 달러가 필요할 것으로 추산되면서 트럼프 행정부가 딜레마에 빠졌다. 미국 투자 붐 이후 석유·광물 자원이 유망하지만 막대한 복구 비용이 발목을 잡고 있다.
+<a href="https://www.wsj.com/world/americas/the-u-s-saw-an-investment-boom-in-venezuela-now-its-a-37-billion-problem-e56434ca">[WSJ]</a></blockquote>
+
+<b>12. PayPal, 경쟁사로부터 수십억 달러 인수 제안...CEO 턴어라운드 계획 변수</b>
+<blockquote>결제 기업 PayPal이 경쟁사로부터 수십억 달러 규모의 인수 제안을 받았다. Enrique Lores CEO가 야심찬 사업 정상화 계획을 추진하던 중 돌출한 M&A 제안으로 전략 방향이 흔들릴 수 있다는 관측이 나온다.
+<a href="https://www.wsj.com/tech/paypal-sale-ceo-enrique-lores-4df4166e">[WSJ]</a></blockquote>
+
+<b>13. Boeing, 2030년까지 신기종 개발 자금 확보 전망...수요 제약은 변수</b>
+<blockquote>Boeing은 737 Max 후속 기종 개발에 필요한 재원을 2030년까지 마련할 수 있을 것으로 예상했다. 다만 Kelly Ortberg CEO는 자금 확보 못지않게 시장 수요가 제약 요인이 될 수 있다고 경고했다.
+<a href="https://www.ft.com/content/c688ea11-c066-44a3-9372-2e2293e9e6f9">[FT]</a></blockquote>
+
+<b>14. Boeing CEO, 신기종 출시 전 재무 안정화 우선...기술 기반도 정비 필요</b>
+<blockquote>Kelly Ortberg Boeing CEO는 새 항공기 설계에 착수하기 전에 재무 구조와 기술 기반을 먼저 다져야 한다고 강조했다. 공격적 신제품 개발보다 내실 다지기를 우선하겠다는 방침으로 읽힌다.
+<a href="https://www.wsj.com/business/airlines/boeing-needs-to-shore-up-finances-before-launching-new-airplane-design-ceo-says-97676587">[WSJ]</a></blockquote>
 
 ━━━━━━━━━━━━━━━━━━━━
 📡 <b>출처: WSJ · FT · The Economist</b>
