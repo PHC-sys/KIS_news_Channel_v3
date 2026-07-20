@@ -4,61 +4,117 @@
 
 ✅ <b>간밤의 주요 헤드라인</b>
 
-<b>1. 요르단·이라크서 미군 사상자 연쇄 발생...미국-이란 전쟁 확전 국면</b>
-<blockquote>요르단 기지 미사일 공격으로 미군 2명 사망 1명 실종에 이어 이라크에서 드론 제거 작전 중 1명이 추가 사망했다. 미 중부사령부는 요르단 현장에서 신원 확인 작업을 진행 중이며 사망자가 더 늘어날 가능성을 시사했다.
-<a href="https://www.ft.com/content/7aa5493a-a2ba-4824-b3d0-03b9309ae3ea">[FT]</a> <a href="https://www.wsj.com/world/middle-east/u-s-servicemember-killed-in-iraq-as-troop-death-toll-in-jordan-likely-to-rise-fb59b6cc">[WSJ]</a></blockquote>
+<b>1. 이란 미사일, 요르단 미군 기지 숙소 직격...중동 전쟁 양상 격화</b>
+<blockquote>이란이 요르단 내 미군 기지 숙소 건물에 미사일을 명중시켜 미군 3명이 사망했다. 미사일 3발 중 하나가 군 숙소를 직격했으며, 이란의 미사일·드론 공격을 방어하는 데 따른 어려움이 드러났다.
+<a href="https://www.wsj.com/world/middle-east/iran-missile-struck-housing-for-u-s-troops-at-jordan-base-9f5b8120">[WSJ]</a></blockquote>
 
-<b>2. ECB 이번 주 금리결정...유가 급등에 인플레 딜레마 재점화</b>
-<blockquote>중동 전쟁 확대로 원유 가격이 급등하면서 ECB가 이번 주 통화정책회의에서 곤란한 선택을 맞게 됐다. 시장은 유가 상승이 인플레이션 재가속 압력을 높일 것으로 보고 ECB의 대응 방향에 주목하고 있다.
-<a href="https://www.ft.com/content/c1b04338-8fc8-45fc-8a35-f623843d4dda">[FT]</a></blockquote>
+<b>2. 미 휘발유 평균 4달러 돌파...트럼프 중간선거 압박 가중</b>
+<blockquote>이란 전쟁 격화로 미국 전국 평균 휘발유 가격이 갤런당 4달러를 넘어서며 소비자 불만이 고조되고 있다. 올 가을 중간선거를 앞두고 트럼프 대통령에 대한 정치적 압력이 커지는 상황이다.
+<a href="https://www.ft.com/content/522fc69e-77df-40fd-8ab4-6726b866d289">[FT]</a></blockquote>
 
-<b>3. Andy Burnham 차기 영국 총리, 다우닝가 통제 강화 구상...재무부 의존 줄인다</b>
-<blockquote>Burnham 차기 총리는 다우닝가 내 정책조율 컨트롤타워를 대폭 강화해 '제국 같은' 재무부(Treasury) 의존도를 낮추겠다는 계획을 밝혔다. 정부 신뢰 회복을 위해 정책 주도권을 총리실로 집중하겠다는 의도로 풀이된다.
-<a href="https://www.ft.com/content/1370d477-fc16-408a-b9ed-d9c19c076ca3">[FT]</a></blockquote>
+<b>3. WTI 유가 90달러 터치 후 반락...중재안 제시에 변동성 확대</b>
+<blockquote>미·이란 충돌 격화로 유가가 배럴당 90달러를 터치한 뒤 중재국들의 휴전 제안 소식에 되돌림을 보였다. 테헤란이 중재안을 검토 중이라고 밝혔지만 공급 우려는 지속되고 있다.
+<a href="https://www.ft.com/content/52e98fc4-32e3-4ed9-90fd-dcbba6188df5">[FT]</a></blockquote>
 
-<b>4. 영국, 북해 신규 탐사 라이선스 금지 유지 방침...석유·가스 업계 반발</b>
-<blockquote>Burnham 정부는 북해 신규 석유·가스 탐사 라이선스 금지 정책을 그대로 유지하기로 했다. 석유·가스 업계와 노조는 이 결정이 에너지 안보와 일자리에 부정적 영향을 미칠 것이라며 비판했다.
-<a href="https://www.ft.com/content/d9631aae-1100-43e0-a09a-e49f5c21f896">[FT]</a></blockquote>
+<b>4. 유가 상승 마감...중재 진전과 공급 우려 교차</b>
+<blockquote>원유 선물은 미·이란 교전 격화와 중재국의 10일 휴전 노력이 맞물리며 등락 끝에 상승 마감했다. 중동 긴장이 고조되는 가운데 공급 차질 우려가 계속 부각됐다.
+<a href="https://www.wsj.com/finance/commodities-futures/oil-rises-on-rising-concerns-over-supply-disruptions-in-middle-east-16d3038e">[WSJ]</a></blockquote>
 
-<b>5. 영국-인도 FTA 철강 쿼터 양보...웨일스 Llanwern 제철소 타격 우려</b>
-<blockquote>영국이 인도와의 자유무역협정 타결을 위해 철강 수입 쿼터를 완화하면서 Tata Steel UK의 웨일스 Llanwern 공장이 위험에 처했다는 지적이 나온다. 노조는 특히 아연도금강판 쿼터 확대가 해당 공장에 치명적이라고 경고했다.
-<a href="https://www.ft.com/content/b0ac6cd9-e325-485a-9c0a-db5053af8d93">[FT]</a></blockquote>
+<b>5. 예멘 후티 반군, 사우디 봉쇄 위협...홍해 유조선 공격 재개</b>
+<blockquote>후티 반군이 사우디의 홍해 경유 원유 수출을 차단하겠다고 위협하며 전선이 확대되고 있다. 사우디 원유 수출의 상당 부분이 홍해를 통과하는 만큼 공급망 리스크가 커졌다.
+<a href="https://www.ft.com/content/97389cc7-7c83-496e-a2d2-72a1eb574281">[FT]</a></blockquote>
 
-<b>6. EU, 신규 對러시아 제재안에 회원국 지지 붕괴...대기업 타격 우려</b>
-<blockquote>EU 회원국들이 자국 주요 기업에 피해를 줄 수 있다는 이유로 신규 러시아 제재 패키지에 대한 지지를 철회하고 있다. 브뤼셀이 추진하던 추가 제재 조치가 회원국 수도들의 반대로 무산 위기에 놓였다.
-<a href="https://www.ft.com/content/eb0cd740-e45d-4dd7-ab9a-6f6643bb32ee">[FT]</a></blockquote>
+<b>6. Trump, 레바논 대통령 회담 추진...중동 평화 중재 시도</b>
+<blockquote>Trump 대통령이 7월 21일 레바논 Joseph Aoun 대통령과 회담을 갖고 이스라엘 철군과 레바논군의 '시범 지역' 진입을 골자로 한 평화안을 논의한다. 중동 긴장 완화를 위한 외교적 노력이 본격화되고 있다.
+<a href="https://www.ft.com/content/13092f23-4b2f-4e62-8aa9-76ab465a667c">[FT]</a></blockquote>
 
-<b>7. Zelensky, 국방장관 경질 파문 진화 나서...군 지휘부 연일 회의</b>
-<blockquote>우크라이나 Volodymyr Zelensky 대통령이 국방장관 해임을 둘러싼 군 내부 불만을 잠재우기 위해 이틀째 고위 군 지휘관들과 연쇄 회동을 가졌다. 국방부 수뇌부 교체가 전선 지휘체계에 미치는 영향을 최소화하려는 움직임으로 보인다.
-<a href="https://www.wsj.com/world/zelensky-seeks-to-quell-growing-discontent-over-ouster-of-defense-minister-8e7c54c6">[WSJ]</a></blockquote>
+<b>7. 중동 평화 중재 난항...경제 피해 우려에도 당사국 동의 난망</b>
+<blockquote>역내 국가들이 경제 타격과 전쟁 확대 위험을 우려해 휴전 중재에 나섰지만, 교전 당사국들의 합의를 이끌어내는 과제가 여전히 남아 있다. 지역 경제 손실이 누적되는 가운데 중재 동력 확보가 관건이다.
+<a href="https://www.wsj.com/world/middle-east/iran-war-mediators-push-for-traction-on-a-new-ceasefire-6174506c">[WSJ]</a></blockquote>
 
-<b>8. 우크라이나 Odesa, 러시아 포위망 속 버티는 항구도시...경제 요충지 사수</b>
-<blockquote>흑해 연안 주요 항구도시 Odesa는 휴양지이자 문화 중심지인 동시에 크렘린이 탐내는 경제 요충지다. WSJ는 러시아의 포위 시도에도 불구하고 도시가 다면적 기능을 유지하며 저항하는 모습을 조명했다.
-<a href="https://www.wsj.com/world/europe/a-portrait-of-a-beach-city-defying-russias-attempts-to-ensnare-it-ef331b58">[WSJ]</a></blockquote>
+<b>8. Trump 이란 수렁 빠져...협상 실패에 정권교체론 부상</b>
+<blockquote>미국이 협상으로 목표를 달성할 수 없다는 판단 속에 이란 정권교체론이 다시 수면 위로 떠올랐다. Trump 대통령이 이란과의 장기전에 빠지면서 출구전략이 불투명해지고 있다.
+<a href="https://www.ft.com/content/59f83b04-3c5a-41f3-b0b6-9238dd4186b8">[FT]</a></blockquote>
 
-<b>9. 중국, 에너지 저장 시장 90% 장악...미국 재생에너지 전환 의존도 심화</b>
-<blockquote>중국 기업들이 미국 에너지 저장 시장의 90%를 점유하면서 워싱턴에서 경쟁국 과의존 우려가 커지고 있다. 배터리 저장 설비는 태양광·풍력 발전의 변동성을 보완하는 핵심 인프라로 재생에너지 확대의 관건이다.
-<a href="https://www.wsj.com/business/energy-oil/the-key-to-solar-and-wind-power-is-battery-storage-and-china-is-dominating-ed4a2caf">[WSJ]</a></blockquote>
+<b>9. Trump, 캐나다에 50% 추가관세...무역전쟁 재점화</b>
+<blockquote>Trump 행정부가 캐나다의 불공정 무역 관행을 이유로 와인 등 특정 품목에 50% 추가 관세를 부과한다고 발표했다. 에너지와 일부 부문은 제외됐지만 양국 간 무역 긴장이 다시 고조되고 있다.
+<a href="https://www.ft.com/content/0b507e93-877f-4cf7-904b-639eb390c4bf">[FT]</a></blockquote>
 
-<b>10. 인도 루피 약세, 민간투자 부진과 사업환경 불확실성 반영...통화 진단 오류</b>
-<blockquote>인도 루피화 약세는 단순 환율 문제가 아니라 부진한 민간투자와 사업환경 불확실성이 근본 원인이라는 분석이 나왔다. FT는 통화정책보다 구조적 투자 여건 개선이 필요하다고 지적했다.
-<a href="https://www.ft.com/content/29985fc4-db18-4799-ae3c-59877a6c5bc9">[FT]</a></blockquote>
+<b>10. 캐나다 6월 인플레이션 둔화...CPI 2.8%로 하락</b>
+<blockquote>캐나다 6월 소비자물가지수가 전월 대비 0.4% 하락하며 18개월 만에 가장 큰 낙폭을 기록했다. 연간 인플레이션율은 2.8%로 0.4%포인트 내려앉았으며, 휘발유 가격 하락이 주효했다.
+<a href="https://www.wsj.com/economy/central-banking/canada-inflation-cools-to-2-8-in-june-as-gasoline-decelerates-8eb85b77">[WSJ]</a></blockquote>
 
-<b>11. 베네수엘라 재건 비용 $370억...트럼프 행정부 대외정책 부담 가중</b>
-<blockquote>지진으로 인프라가 초토화된 베네수엘라 재건에 370억 달러가 필요할 것으로 추산되면서 트럼프 행정부가 딜레마에 빠졌다. 미국 투자 붐 이후 석유·광물 자원이 유망하지만 막대한 복구 비용이 발목을 잡고 있다.
-<a href="https://www.wsj.com/world/americas/the-u-s-saw-an-investment-boom-in-venezuela-now-its-a-37-billion-problem-e56434ca">[WSJ]</a></blockquote>
+<b>11. EU, 미국 압력에 메탄 규제 완화...공급난 우려 반영</b>
+<blockquote>유럽연합이 Trump 행정부와 업계의 요구를 받아들여 메탄 배출 규제를 완화하기로 했다. 미국 측은 규정 준수가 지나치게 어렵고 에너지 공급 부족을 초래할 수 있다고 주장해왔다.
+<a href="https://www.wsj.com/world/europe/eu-to-ease-methane-rules-after-u-s-pressure-9c5ac9b0">[WSJ]</a></blockquote>
 
-<b>12. PayPal, 경쟁사로부터 수십억 달러 인수 제안...CEO 턴어라운드 계획 변수</b>
-<blockquote>결제 기업 PayPal이 경쟁사로부터 수십억 달러 규모의 인수 제안을 받았다. Enrique Lores CEO가 야심찬 사업 정상화 계획을 추진하던 중 돌출한 M&A 제안으로 전략 방향이 흔들릴 수 있다는 관측이 나온다.
-<a href="https://www.wsj.com/tech/paypal-sale-ceo-enrique-lores-4df4166e">[WSJ]</a></blockquote>
+<b>12. 중국 AI 컨퍼런스, 미국에 도전장...기술 격차 급속 축소</b>
+<blockquote>상하이에서 열린 중국 최대 AI 행사에서 드러난 기술 진전이 미국의 AI 우위 구축 기대를 무색하게 만들고 있다. 중국의 빠른 추격으로 미국의 기술 패권 유지 전략이 난관에 봉착했다.
+<a href="https://www.wsj.com/tech/ai/chinas-top-ai-event-delivers-message-to-the-u-s-were-coming-for-you-560d246b">[WSJ]</a></blockquote>
 
-<b>13. Boeing, 2030년까지 신기종 개발 자금 확보 전망...수요 제약은 변수</b>
-<blockquote>Boeing은 737 Max 후속 기종 개발에 필요한 재원을 2030년까지 마련할 수 있을 것으로 예상했다. 다만 Kelly Ortberg CEO는 자금 확보 못지않게 시장 수요가 제약 요인이 될 수 있다고 경고했다.
-<a href="https://www.ft.com/content/c688ea11-c066-44a3-9372-2e2293e9e6f9">[FT]</a></blockquote>
+<b>13. Trump 관세 명분 계속 바꿔...경제 비상→무역 불공정으로 변경</b>
+<blockquote>Trump 대통령이 관세 부과 논리를 경제 비상사태에서 국제수지, 다시 불공정 무역으로 반복 수정하며 정책 일관성 논란이 일고 있다. 관세 정책의 명분이 수시로 교체되는 모습이 포착됐다.
+<a href="https://www.ft.com/content/cf5268f5-6329-4570-bad0-8e697899997b">[FT]</a></blockquote>
 
-<b>14. Boeing CEO, 신기종 출시 전 재무 안정화 우선...기술 기반도 정비 필요</b>
-<blockquote>Kelly Ortberg Boeing CEO는 새 항공기 설계에 착수하기 전에 재무 구조와 기술 기반을 먼저 다져야 한다고 강조했다. 공격적 신제품 개발보다 내실 다지기를 우선하겠다는 방침으로 읽힌다.
-<a href="https://www.wsj.com/business/airlines/boeing-needs-to-shore-up-finances-before-launching-new-airplane-design-ceo-says-97676587">[WSJ]</a></blockquote>
+<b>14. 미 증시 혼조 마감...칩주 반등에도 관망세 우세</b>
+<blockquote>미국 증시는 반도체주가 전주 급락에서 반등했지만 중동 긴장과 AI 거품 우려 속에 소폭 혼조 마감했다. 투자자들은 신중한 태도로 한 주를 시작했다.
+<a href="https://www.wsj.com/finance/stocks/oil-holds-near-90-a-barrel-u-s-stock-futures-edge-higher-c05fcb42">[WSJ]</a></blockquote>
+
+<b>15. 국채 하락·수익률 상승...연준 회의 앞두고 관망</b>
+<blockquote>미 국채가 하락하며 수익률이 상승했다. 이번 주는 주요 경제지표 발표가 없고 연준 위원들이 차주 금리 결정 앞두고 블랙아웃 기간에 들어가 거래가 조용했다.
+<a href="https://www.wsj.com/articles/renewed-geopolitical-uncertainty-limits-italian-bond-spread-tightening-room-aa25d831">[WSJ]</a></blockquote>
+
+<b>16. WSJ 달러지수 0.08% 상승...3거래일 연속 강세</b>
+<blockquote>WSJ 달러지수가 97.17로 0.1% 올라 3거래일 연속 상승했다. 중동 리스크 고조 속에 안전자산 선호 심리가 달러 강세를 뒷받침했다.
+<a href="https://www.wsj.com/opinion/asian-currencies-consolidate-may-weaken-amid-escalating-mideast-conflict-30e35087">[WSJ]</a></blockquote>
+
+<b>17. 은 가격 상승·금 하락...수요 구도 엇갈려</b>
+<blockquote>은 선물이 이틀 연속 상승했지만 7월 들어 4.5% 하락, 연초 대비 19% 급락한 상태다. 금 가격은 소폭 내렸으며, 은 수요 회복 여부가 주목받고 있다.
+<a href="https://www.wsj.com/finance/commodities-futures/gold-falls-amid-higher-for-longer-interest-rate-expectations-4703d83c">[WSJ]</a></blockquote>
+
+<b>18. Trump SNS 발언 영향력 감소...시장 반응 무뎌져</b>
+<blockquote>시장이 Trump 대통령의 Truth Social 발언에 점차 둔감해지며 그의 정책 시그널 영향력이 약화되고 있다. 투자자들이 대통령 발언과 실제 정책 사이 괴리를 학습한 결과로 풀이된다.
+<a href="https://www.ft.com/content/7e8f44cb-946f-448d-96d5-4b7d6e193403">[FT]</a></blockquote>
+
+<b>19. 영국 신임 총리 Burnham, Healey 재무장관 지명...노동당 의원 놀라</b>
+<blockquote>Andy Burnham 영국 신임 총리가 전 국방장관 John Healey를 재무장관에 임명하며 노동당 내에서 놀라움을 샀다. Burnham은 측근보다 경험 많은 인사를 요직에 앉히는 전략을 택했다.
+<a href="https://www.ft.com/content/740f0449-f367-46e0-92a6-43251f56f974">[FT]</a></blockquote>
+
+<b>20. 영국 국채 약세...Burnham 재정 확대 시사에 투자자 우려</b>
+<blockquote>영국 국채(길트)가 하락 압력을 받고 있다. Burnham 신임 총리가 재정준칙 내 "모든 여지를 활용하겠다"고 밝히며 정부 지출 확대 기대가 커지자 투자자들이 경계감을 드러냈다.
+<a href="https://www.ft.com/content/b7cc3ea9-c89c-4f94-8ce0-3786034a6ddc">[FT]</a></blockquote>
+
+<b>21. Burnham, 큰 정부로 영국 구하기 베팅...증세·차입 확대 전망</b>
+<blockquote>Burnham 신임 총리가 자신을 노동자 계층 출신 아웃사이더로 내세우며 큰 정부 노선을 예고했다. 투자자들은 증세와 국채 발행 확대를 예상하고 있다.
+<a href="https://www.wsj.com/world/uk/u-k-s-new-leader-andy-burnham-bets-big-government-can-save-the-country-bbe3fdec">[WSJ]</a></blockquote>
+
+<b>22. 우크라이나 Zelensky 정치 위기 심화...전 국방장관 복귀 거부</b>
+<blockquote>우크라이나 Volodymyr Zelensky 대통령이 최고사령관 교체를 위해 전 국방장관 복귀를 제안했지만 거절당하며 정치 위기가 깊어졌다. 국방장관과 군 지도부 간 갈등이 정부 운영을 마비시키고 있다.
+<a href="https://www.ft.com/content/51dad580-487a-43d4-8427-cdd764cbe8f5">[FT]</a></blockquote>
+
+<b>23. Lockheed, 저가 Patriot 미사일 계획...재고 고갈에 신속 배치</b>
+<blockquote>Lockheed Martin이 기존 패트리어트 미사일 가격의 절반 이하로 제작 가능한 신형 요격 미사일을 계획 중이다. 재고 소진이 심각한 상황에서 더 빠른 배치를 목표로 하고 있다.
+<a href="https://www.wsj.com/business/lockheed-martin-plans-bargain-rate-patriot-missile-to-replenish-low-stockpiles-7b4bd637">[WSJ]</a></blockquote>
+
+<b>24. 재무장 위해 면화 수요 급증...화약 원료 확보 경쟁</b>
+<blockquote>러시아·중국에 대비한 군비 증강으로 대구경 탄약에 필요한 폭약 화학물질 수요가 늘며, 그 원료인 면화 등 천연섬유가 갑자기 부족해졌다. 재무장 붐이 원자재 시장에 예상치 못한 영향을 미치고 있다.
+<a href="https://www.wsj.com/world/europe/wanted-for-rearming-against-russia-and-china-more-cotton-3261e16f">[WSJ]</a></blockquote>
+
+<b>25. 미국 6월 경기선행지수 하락...소비 약세 반영</b>
+<blockquote>컨퍼런스보드의 경기선행지수가 6월 0.2% 하락했다. 5월과 4월 상승 후 다시 꺾이며 소비 지출 위축이 경기 둔화 신호로 포착됐다.
+<a href="https://www.wsj.com/economy/central-banking/u-s-leading-indicators-ticked-down-in-june-546daa61">[WSJ]</a></blockquote>
+
+<b>26. BlackRock, Meta 데이터센터에 120억 달러 파이낸싱 주도</b>
+<blockquote>BlackRock의 인프라·사모신용 부문이 텍사스 내 Meta 신규 데이터센터 건설에 120억 달러 규모 파이낸싱을 주도했다. AI 인프라 투자에 대형 자금이 집중되는 흐름이 이어지고 있다.
+<a href="https://www.wsj.com/business/deals/blackrock-leads-12-billion-financing-for-new-meta-data-centers-in-texas-e1c3d42c">[WSJ]</a></blockquote>
+
+<b>27. 빅테크 AI 백스톱, 신용 리스크 우려...미검증 기업에 대차대조표 지원</b>
+<blockquote>대형 IT 기업들이 자사 대차대조표를 긴급 담보로 제공해 AI 스타트업이 저렴하게 차입할 수 있도록 지원하는 구조가 확산되고 있다. 실적이 검증되지 않은 기업에 대한 신용 리스크가 대형 후원사에 집중되는 양상이다.
+<a href="https://www.ft.com/content/e9563a0f-0a93-4a38-87e1-32b7898522d8">[FT]</a></blockquote>
+
+<b>28. Brookfield·CPP, LXP Industrial을 52억 달러에 인수...물류 부동산 확대</b>
+<blockquote>Brookfield Asset Management와 Canada Pension Plan Investment Board가 LXP Industrial Trust를 약 52억 달러 전액 현금으로 인수한다. 현대식 창고·물류시설 포트폴리오를 확보하는 거래다.
+<a href="https://www.wsj.com/business/deals/brookfield-and-cpp-investments-to-buy-lxp-industrial-for-5-2-billion-e8f64cef">[WSJ]</a></blockquote>
 
 ━━━━━━━━━━━━━━━━━━━━
 📡 <b>출처: WSJ · FT · The Economist</b>
