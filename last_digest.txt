@@ -4,213 +4,181 @@
 
 ✅ <b>간밤의 주요 헤드라인</b>
 
-<b>1. Trump, 이란 핵시설 공격 경고...Goldman, 호르무즈 차단 시 유가 $120 전망</b>
-<blockquote>Trump 대통령이 이란 Pickaxe Mountain 핵시설 공격 의사를 밝혔다. Goldman Sachs는 호르무즈 해협 차단 지속 시 유가가 배럴당 $120까지 급등할 수 있다고 경고했다. 이스라엘은 이란이 핵 원심분리기를 동 시설로 이전했다고 평가하고 있다.
-<a href="https://www.ft.com/content/90facd68-4df7-40c2-9383-e989a02fbe51">[FT]</a></blockquote>
+<b>1. 미국, 중동 병력 증파 확대...Trump 이란 확전 옵션 확보</b>
+<blockquote>미군이 중동지역 병력·의료진·무기 증파를 지속하고 있다. 요르단 기지 공격으로 미군 3명이 사망한 이후 Trump 대통령이 이란과의 전쟁 확대 옵션을 확보하기 위한 조치다. 군사적 압박 수위를 높이며 지역 긴장이 고조되고 있다.
+<a href="https://www.wsj.com/world/middle-east/u-s-surges-forces-toward-middle-east-giving-trump-options-to-expand-iran-war-e5d627b1">[WSJ]</a></blockquote>
 
-<b>2. 이란 전쟁 비용 $37.5bn...국방부 추정치 $9bn 증가</b>
-<blockquote>Pete Hegseth 국방장관은 상원 세출위원회에 이란 전쟁 비용을 $37.5bn으로 제출했다. 이는 국방부의 직전 추산보다 $9bn 높은 수치로, 전쟁 비용 증가세가 지속되고 있음을 시사한다.
-<a href="https://www.wsj.com/politics/national-security/hegseth-estimates-cost-at-iran-war-at-37-5-billion-36e68f3d">[WSJ]</a></blockquote>
+<b>2. Trump, 이란 선박 공격시 전력망·교량 폭격 경고</b>
+<blockquote>Trump 대통령은 이란이 선박을 공격할 경우 미국이 이란의 발전소와 교량을 폭격하겠다고 위협했다. 호르무즈 해협에 대한 미국의 통제권을 강화하려는 최신 시도로, 군사적 긴장이 더욱 고조될 조짐이다.
+<a href="https://www.wsj.com/world/middle-east/trump-says-u-s-will-bomb-irans-power-plants-bridges-if-tehran-strikes-ships-7db7e165">[WSJ]</a></blockquote>
 
-<b>3. 이스라엘, 이란 핵 원심분리기 Pickaxe Mountain 이전 정보 확보</b>
-<blockquote>이스라엘 정보당국은 이란이 핵 원심분리기를 Pickaxe Mountain 시설 내부로 이전했다고 판단하고 있다. 미국은 이 평가를 검토했으며, Trump 대통령은 동 시설 공격 가능성을 언급했다.
-<a href="https://www.wsj.com/world/middle-east/israel-believes-iran-moved-nuclear-centrifuges-into-pickaxe-mountain-d29d21c0">[WSJ]</a></blockquote>
+<b>3. 미국, 중동 전사자 귀환식 거행...이란 전쟁 사망자 애도</b>
+<blockquote>Trump 대통령이 중동에서 전사한 미군의 귀환식에 참석했다. 이란과의 전쟁 시작 이후 대통령이 참석한 세 번째 귀환식으로, 미군 사상자 발생이 계속되며 전쟁 비용이 커지고 있다.
+<a href="https://www.wsj.com/world/middle-east/trump-attends-dignified-transfer-for-u-s-servicemembers-killed-in-middle-east-06a12a92">[WSJ]</a></blockquote>
 
-<b>4. Economist, 이란 전쟁이 Trump 대통령직 소모 우려</b>
-<blockquote>Economist는 이란 전쟁이 Trump 행정부의 정책 역량을 잠식할 수 있다고 경고했다. Obama 전 대통령의 'stupid shit' 회피 원칙을 환기하며, 중동 군사개입이 대통령직 전반을 소진시킬 리스크를 지적했다.
-<a href="https://www.economist.com/international/2026/07/21/the-iran-war-could-consume-the-trump-presidency">[Economist]</a></blockquote>
+<b>4. 미-사우디 핵협정 체결...우라늄 농축 허용으로 중동 핵확산 우려</b>
+<blockquote>미국과 사우디아라비아가 획기적인 원자력에너지 협정을 체결했다. 비판론자들은 이 협정이 향후 우라늄 농축과 재처리를 막을 안전장치가 부족하다고 경고하며, 중동 핵확산 리스크가 커질 수 있다고 우려한다.
+<a href="https://www.ft.com/content/2707aeb6-dba0-4640-877b-4839d268c820">[FT]</a></blockquote>
 
-<b>5. 홍해·흑해 이중 차단...사우디 유조선 U턴, 카자흐스탄 파이프라인 중단</b>
-<blockquote>예멘 후티 반군의 홍해 위협과 우크라이나의 흑해 공격이 동시에 발생하면서 오일 공급망이 이중 압박을 받고 있다. 사우디 유조선 최소 4척이 후티 경고 후 항로를 되돌렸으며, 우크라이나 공격으로 카자흐스탄 CPC 파이프라인이 중단돼 일일 1mn 배럴 추가 감소가 발생했다.
-<a href="https://www.wsj.com/world/middle-east/war-risk-to-oil-supplies-grows-with-red-and-black-sea-disruptions-6de374e7">[WSJ]</a></blockquote>
+<b>5. 사우디 핵협정 핵심 쟁점 5가지...농축 허용이 핵심</b>
+<blockquote>Trump 대통령이 승인한 사우디 핵협정은 사우디의 우라늄 농축 가능성을 열어둔 것이 핵심이다. 미국 기업에는 큰 수익 기회지만, 중동 핵확산 우려를 동시에 키우는 양면성을 지닌다.
+<a href="https://www.wsj.com/world/middle-east/saudi-nuclear-deal-five-things-to-know-4f2d36a8">[WSJ]</a></blockquote>
 
-<b>6. 사우디 유조선 최소 4척, 후티 위협 후 항로 역전</b>
-<blockquote>예멘 후티 반군의 위협 이후 사우디 유조선 최소 4척이 홍해를 회피하고 항로를 되돌렸다. 홍해 해상 수송 차단 리스크가 현실화되면서 중동 오일 수출 경로에 새로운 위협 요인이 부상하고 있다.
-<a href="https://www.ft.com/content/6e28eae4-cd7b-48e8-ae5e-d555de88f428">[FT]</a></blockquote>
+<b>6. 유가 4거래일 연속 상승...중동 확전 우려에 공급 불안 심화</b>
+<blockquote>유가가 4거래일 연속 상승했다. 미국과 이란의 연이은 공격과 추가 확전 위협이 공급 차질 우려를 키우며 원유 선물 가격을 끌어올렸다. 중동 리스크 프리미엄이 다시 시장을 지배하고 있다.
+<a href="https://www.wsj.com/finance/commodities-futures/oil-rises-amid-growing-concerns-over-supply-disruptions-in-middle-east-067ef229">[WSJ]</a></blockquote>
 
-<b>7. 카자흐스탄, CPC 파이프라인 중단...우크라이나 공격으로 일일 1mn bpd 감소</b>
-<blockquote>우크라이나의 흑해 유조선 공격 여파로 카자흐스탄이 러시아 CPC 터미널을 경유하는 석유 수송을 중단했다. 이로 인해 일일 1mn 배럴의 추가 공급 감소가 발생하며 오일 시장 타이트 우려가 높아졌다.
-<a href="https://www.ft.com/content/4b3ad003-07dd-4b82-a9ac-4bf6e7028844">[FT]</a></blockquote>
+<b>7. 그리스 유조선 이란 영해로 예인...해상 긴장 격화</b>
+<blockquote>그리스 재벌 소유 유조선이 호르무즈 해협에서 피격된 후 이란 영해로 예인됐다. 선박회사 Dynacom은 선박 위치를 확인 중이라고 밝혔다. 해상 봉쇄 위협이 현실화되며 에너지 공급망 불안이 커지고 있다.
+<a href="https://www.ft.com/content/0c0b1e83-8e5e-4c86-b9c6-179dba51fc69">[FT]</a></blockquote>
 
-<b>8. IEA, 이란 전쟁 확대 경고...정제품 타이트 부각</b>
-<blockquote>국제에너지기구(IEA)는 이란 전쟁 확대가 에너지 공급에 미칠 리스크에 대해 '자만할 여지가 없다'고 경고했다. 특히 정제품 시장의 타이트한 수급 상황을 지적하며, 공급 차질 시 즉각적인 가격 충격 가능성을 제기했다.
-<a href="https://www.ft.com/content/8d98a654-3ccb-4efc-b0f5-50301ac35a18">[FT]</a></blockquote>
+<b>8. 유럽 가스가격 전쟁 고점 근접...겨울 공급 우려 커져</b>
+<blockquote>유럽 가스가격이 이란 전쟁 고점에 근접했다. 폭염과 아시아 구매자들과의 경쟁이 겹치며 겨울 재고 확보에 어려움을 겪고 있다. 호르무즈 해협 차질 가능성에 시장이 취약한 상태다.
+<a href="https://www.ft.com/content/8f076be9-bf29-4df5-878b-835537ba2585">[FT]</a></blockquote>
 
-<b>9. 유가 3일 연속 상승...미-이란 공습 지속에 시장 긴장</b>
-<blockquote>미국과 이란의 공습이 계속되면서 유가가 3일 연속 상승세를 이어갔다. Trump 대통령은 이란이 '의미 있는 방식'으로 협상에 나서기 전까지 회담 의사가 없다고 밝혀, 조기 해결 기대감을 차단했다.
-<a href="https://www.wsj.com/finance/commodities-futures/oil-edges-lower-amid-hopes-of-new-u-s-iran-ceasefire-892b1c0a">[WSJ]</a></blockquote>
+<b>9. 호르무즈·바브알만데브·흑해 3대 초크포인트 동시 위협...세계 석유 1/4 위험</b>
+<blockquote>두 전쟁이 호르무즈 해협, 바브알만데브 해협, 흑해 등 3대 에너지 초크포인트를 동시에 위협하고 있다. 이들 지역은 전 세계 석유 공급의 약 1/4을 차지하며, 복합 봉쇄 시나리오가 현실화되고 있다.
+<a href="https://www.wsj.com/business/energy-oil/global-economy-is-suddenly-fighting-an-energy-stranglehold-on-three-fronts-93f28d2b">[WSJ]</a></blockquote>
 
-<b>10. Permian 천연가스 과잉 역설...텍사스 최대 유전, 공짜로도 못 팔아</b>
-<blockquote>미국 최대 산유지 Permian 분지에서 천연가스가 과잉 공급되면서 가격이 제로 이하로 떨어지는 사태가 발생하고 있다. 오일 생산이 늘면서 부산물로 쏟아지는 가스를 처리할 인프라가 부족해 생산자들이 가스를 사실상 공짜로 내놓는 상황이다.
-<a href="https://www.wsj.com/finance/commodities-futures/americas-most-prolific-oil-field-has-a-natural-gas-problem-22b816b0">[WSJ]</a></blockquote>
+<b>10. EU, 러시아 LNG 화물 제재 면제 유지...그리스 선사 계속 운송 가능</b>
+<blockquote>EU가 새 제재안에서 러시아 LNG 화물 운송을 계속 면제하기로 했다. 그리스의 Dynagas 같은 선사들이 러시아 LNG 운송을 지속할 수 있게 됐다. 에너지 공급 안정을 우선시한 결정이다.
+<a href="https://www.ft.com/content/3a40d574-41fe-4e04-a958-1173bb07f064">[FT]</a></blockquote>
 
-<b>11. 미국, 이스라엘 제외한 채 이란 폭격 지속...아랍 국가들과 협조</b>
-<blockquote>미국은 이스라엘을 배제한 채 아랍 국가들과 협력해 이란 폭격을 진행하고 있다. 미국과 아랍 국가들은 이스라엘의 참전이 전쟁을 통제 불능 상태로 확대시킬 수 있다고 우려하고 있다.
-<a href="https://www.wsj.com/world/middle-east/why-israel-is-sitting-out-the-latest-u-s-bombing-campaign-in-iran-55713b77">[WSJ]</a></blockquote>
+<b>11. 미 2년물 국채금리 1년래 최고...인플레 우려 재점화</b>
+<blockquote>미국 2년물 국채 금리가 1년 넘게 최고 수준으로 상승했다. 에너지 가격 급등과 인플레이션 재점화 우려가 커지며 연준의 매파적 전환 압력이 높아지고 있다.
+<a href="https://www.wsj.com/finance/investing/jgb-futures-fall-tracking-declines-in-u-s-treasury-market-54cd45d8">[WSJ]</a></blockquote>
 
-<b>12. 미국, 헤즈볼라 무장해제 위해 '과거 상상 불가' 방안 검토</b>
-<blockquote>미국은 헤즈볼라 무장해제를 위해 시리아 동원, 레바논군 검증, 이스라엘 단독 행동 허용 등 과거 금기시됐던 방안들을 검토하고 있다. 다만 각 방안 모두 실행 가능성에는 상당한 장애물이 존재한다.
-<a href="https://www.wsj.com/world/middle-east/the-u-s-puts-once-unthinkable-ideas-on-the-table-to-disarm-hezbollah-e7c6fd67">[WSJ]</a></blockquote>
+<b>12. 미 증시 보합...국채 약세 속 빅테크 실적 대기</b>
+<blockquote>미국 증시는 소폭 하락 마감했다. 나스닥은 하락했지만 다우는 소폭 상승했다. 투자자들은 Tesla와 Alphabet 등 주요 빅테크 기업 실적 발표를 앞두고 관망세를 보였다.
+<a href="https://www.wsj.com/finance/stocks/ai-stock-rally-loses-steam-ahead-of-key-big-tech-earnings-ac4b72ac">[WSJ]</a></blockquote>
 
-<b>13. Trump, 레바논 직항 재개...대통령 면담 후 발표</b>
-<blockquote>Trump 대통령은 레바논 대통령과의 면담 후 미국-레바논 직항 노선을 재개하겠다고 발표했다. 다만 이스라엘의 레바논 철군 일정에 대해서는 구체적 시한 제시를 거부했다.
-<a href="https://www.ft.com/content/dafd2342-4322-46bd-9837-73abff063989">[FT]</a></blockquote>
+<b>13. 미 증시 약보합 마감...유가 상승에도 관망세 지속</b>
+<blockquote>미국 증시는 약보합으로 마감했다. 유가가 연장 상승했지만 주요 기업 실적 발표를 앞두고 투자 심리는 신중했다. 에너지 리스크와 기업 실적이 동시에 시장을 압박하는 구도다.
+<a href="https://www.wsj.com/finance/stocks/u-s-stocks-stall-as-oil-extends-gains-bc54ea4c">[WSJ]</a></blockquote>
 
-<b>14. 레바논군, 파일럿 지역 진주...미국 중재 평화안 이행 착수</b>
-<blockquote>레바논군이 이스라엘 철군 계획의 일환으로 '파일럿 존'에 진입했다. 미국이 중재한 평화 협정의 첫 단계가 실행에 들어갔으나, 헤즈볼라 무장해제 등 핵심 과제는 여전히 난제로 남아 있다.
-<a href="https://www.ft.com/content/13092f23-4b2f-4e62-8aa9-76ab465a667c">[FT]</a></blockquote>
+<b>14. Google, 2분기 60억 달러 현금소진...AI 투자 급증</b>
+<blockquote>Google이 2분기에 60억 달러의 현금을 소진하며 프리 캐시플로가 마이너스로 전환했다. 회사는 2026년 AI 투자에 최대 2,050억 달러를 투입하겠다고 밝혔다. 검색 대기업의 대규모 AI 인프라 투자가 현금흐름을 압박하고 있다.
+<a href="https://www.ft.com/content/b02f972c-c764-4006-9377-42563d9d5530">[FT]</a></blockquote>
 
-<b>15. Trump, 캐나다 50% 관세 재위협...Carney, 협상 가속 합의</b>
-<blockquote>Trump 대통령이 캐나다산 일부 품목에 50% 관세 부과를 재차 경고했다. 이에 Mark Carney 캐나다 총리는 양국이 무역 협상 가속에 합의했으며, 관세 회피를 위한 협상에 나설 것이라고 밝혔다.
-<a href="https://www.wsj.com/world/americas/canadas-carney-says-trump-agrees-to-talks-to-avert-new-50-tariff-c049e9e9">[WSJ]</a></blockquote>
+<b>15. Google 주가 시간외 급락...AI 지출 급증에 클라우드 성장 빛바래</b>
+<blockquote>Google 주가가 시간외 거래에서 하락했다. 클라우드 부문 매출이 82% 급증했지만, AI 인프라 지출 급증으로 프리 캐시플로가 마이너스로 돌아서며 투자자들이 실망했다.
+<a href="https://www.wsj.com/tech/ai/alphabet-googl-q2-earnings-report-2026-stock-f6bdd223">[WSJ]</a></blockquote>
 
-<b>16. FT, Trump 캐나다 관세 재점화 헤드라인...휘발유 $4 돌파</b>
-<blockquote>FT 뉴스레터는 Trump의 캐나다 50% 관세 위협이 북미 무역 긴장을 재점화했다고 전했다. 동시에 이란 전쟁 여파로 미국 휘발유 가격이 갤런당 $4를 다시 넘어섰으며, Trump 슈퍼PAC 모금액이 사상 최고를 기록했다고 보도했다.
-<a href="https://www.ft.com/content/c346e82e-4d2c-4a2a-b4c3-64a4aa47d4e4">[FT]</a></blockquote>
+<b>16. Tesla 매출 급증에도 순익 급락...AI·로봇 지출 2배 증가</b>
+<blockquote>Tesla의 2분기 매출이 급증했지만 순이익은 예상을 밑돌았다. AI와 로보틱스에 58억 달러를 지출하며 캐펙스가 급증한 영향이다. 주가는 시간외 거래에서 하락했다.
+<a href="https://www.wsj.com/business/autos/tesla-tsla-q2-earnings-report-2026-stock-2c5f5a41">[WSJ]</a></blockquote>
 
-<b>17. 달러 인덱스 4거래일 연속 상승...0.18% 올라 97.34</b>
-<blockquote>WSJ 달러 인덱스가 4거래일 연속 상승하며 0.18% 오른 97.34를 기록했다. Trump의 캐나다 관세 위협과 이란 전쟁 리스크가 달러 강세를 뒷받침하고 있다.
-<a href="https://www.wsj.com/finance/currencies/new-trump-tariffs-threaten-to-further-strain-cad-3b0f1e73">[WSJ]</a></blockquote>
+<b>17. Tesla 실적 부진...할인 정책에 순익 급락</b>
+<blockquote>Tesla의 순이익이 급락했다. 전기차 모델 할인이 수익성을 크게 악화시켰다. 동시에 캐펙스는 반도체·자율주행 택시·휴머노이드 로봇으로의 전환 가속화로 두 배 이상 증가했다.
+<a href="https://www.ft.com/content/dc5e629b-562c-41e3-8b89-350af6960adc">[FT]</a></blockquote>
 
-<b>18. 미 국채 수익률 상승...연준 회의 앞두고 금리 시장 대기</b>
-<blockquote>미국 국채가 하락하며 수익률이 상승했다. 다음 주 열리는 연준 금리 결정 회의를 앞두고 경제 지표 발표가 뜸한 가운데, 시장은 연준의 정책 방향 시그널을 기다리고 있다.
-<a href="https://www.wsj.com/finance/investing/jgbs-fall-tracking-declines-in-u-s-treasurys-a002ad06">[WSJ]</a></blockquote>
+<b>18. AMD-Anthropic, 수십억 달러 칩 공급 계약...AMD, 50억 달러까지 투자</b>
+<blockquote>AMD가 AI 스타트업 Anthropic에 최대 50억 달러를 투자하고, Anthropic은 수백억 달러 규모의 AMD AI 서버 칩을 구매하기로 했다. 2기가와트 규모의 대형 딜로 AI 인프라 투자 경쟁이 격화되고 있다.
+<a href="https://www.ft.com/content/9c74bb34-0705-4be1-b622-a334ce79db1d">[FT]</a></blockquote>
 
-<b>19. Economist, 투자자들 인플레이션과 공존 학습 중...목표 복귀 회의론 확산</b>
-<blockquote>Economist는 투자자들이 중앙은행의 인플레 목표 복귀 가능성에 회의적 시각을 갖게 됐다고 분석했다. 그 어느 때보다 많은 시장 참여자들이 인플레이션이 구조적으로 높은 수준에서 지속될 것으로 예상하며 포트폴리오를 조정하고 있다.
-<a href="https://www.economist.com/finance-and-economics/2026/07/21/how-investors-learned-to-live-with-inflation">[Economist]</a></blockquote>
+<b>19. AMD-Anthropic 주요 칩 투자 계약 체결...수백억 달러 규모</b>
+<blockquote>AMD와 Anthropic이 대규모 칩 공급 및 투자 계약을 체결했다. 수백억 달러 규모의 칩 공급 계약과 함께 AMD가 Anthropic에 최대 50억 달러를 투자한다. AI 인프라 경쟁이 칩 부문으로 확산되고 있다.
+<a href="https://www.wsj.com/tech/ai/amd-and-anthropic-sign-major-chips-and-investment-deal-4adfdc45">[WSJ]</a></blockquote>
 
-<b>20. ECB 7월 회의 프리뷰...목요일 금리 결정 주목 포인트</b>
-<blockquote>FT는 목요일 열리는 ECB 7월 통화정책회의 프리뷰를 발행하며, ECB가 금리 경로와 인플레 전망에 대해 어떤 시그널을 보낼지 주요 관전 포인트를 정리했다.
-<a href="https://www.ft.com/content/0915cb0d-7d8a-4499-a900-0ede1a0bfa3d">[FT]</a></blockquote>
+<b>20. OpenAI 클라우드 지출 계획 7,500억 달러...데이터센터 투자 급증</b>
+<blockquote>OpenAI의 클라우드 지출 계획이 7,500억 달러에 달한다. 조지아주 신규 데이터센터 프로젝트에 200억 달러를 투입하고, Elon Musk의 컴퓨팅 구축 설계자를 영입했다. AI 인프라 투자 경쟁이 사상 최대 규모로 확대되고 있다.
+<a href="https://www.wsj.com/tech/openais-planned-cloud-spending-hits-750-billion-as-computing-efforts-ramp-up-6ac3f58a">[WSJ]</a></blockquote>
 
-<b>21. 반도체주 반등으로 나스닥 상승...빅테크 실적 대기</b>
-<blockquote>칩 관련주가 강하게 반등하면서 나스닥 지수가 상승했다. Alphabet, Tesla, IBM 등 주요 기술주들이 수요일 실적을 발표할 예정으로, 투자자들은 실적 시즌을 앞두고 포지셔닝에 나섰다.
-<a href="https://www.wsj.com/finance/stocks/u-s-futures-higher-as-ai-trade-bounces-back-d120b6a2">[WSJ]</a></blockquote>
+<b>21. 미 데이터센터 업체 TECfusions, 40억 달러 SPAC 상장 추진</b>
+<blockquote>북미 최대 AMD 기반 AI 훈련 클러스터 중 하나를 운영하는 플로리다 데이터센터 업체 TECfusions가 뉴욕 상장 SPAC Apex Treasury와 합병해 40억 달러 규모로 상장을 추진한다. AI 인프라 붐이 자본시장으로 확산되고 있다.
+<a href="https://www.wsj.com/finance/investing/u-s-data-center-operator-tecfusions-plans-to-go-public-in-4-billion-spac-deal-e3f54495">[WSJ]</a></blockquote>
 
-<b>22. 기술주, 실적 대기하며 랠리 모드 복귀</b>
-<blockquote>기술주가 랠리 모드로 복귀했다. Alphabet, Tesla, IBM이 수요일 실적을 공개할 예정으로, 빅테크 실적이 최근 조정 국면 이후 반등세를 지속시킬 수 있을지 시장의 관심이 집중됐다.
-<a href="https://www.wsj.com/finance/stocks/tech-stocks-return-to-rally-mode-ahead-of-earnings-3702d559">[WSJ]</a></blockquote>
+<b>22. 디지털뱅크 Revolut 밸류에이션 1,150억 달러...유럽 최대 스타트업</b>
+<blockquote>영국 디지털뱅크 Revolut의 밸류에이션이 2차 주식매각으로 약 50% 상승한 1,150억 달러를 기록했다. 유럽에서 가장 가치 있는 스타트업으로 자리매김했다.
+<a href="https://www.wsj.com/finance/banking/digital-bank-revolut-europes-most-valuable-startup-valued-at-115-billion-0344c14e">[WSJ]</a></blockquote>
 
-<b>23. 칩주 중국 AI 우려 털어내며 나스닥 견인</b>
-<blockquote>WSJ 마감 브리핑은 칩 관련주가 중국 AI 경쟁 우려를 털어내고 반등하며 나스닥을 견인했다고 전했다. 중동 긴장으로 유가가 상승세를 이어갔으며, General Motors는 고가 차량 판매 호조로 실적 개선을 기록했다.
-<a href="https://www.wsj.com/finance/stocks/chip-stocks-shrug-off-chinese-ai-worries-6af6ec70">[WSJ]</a></blockquote>
+<b>23. Paramount, 810억 달러 Warner Bros. 인수 EU 승인 획득</b>
+<blockquote>Paramount가 Universal Pictures와의 유럽 배급 벤처 지분 종료를 약속하며 EU로부터 810억 달러 규모 Warner Bros. 인수 승인을 받았다. 규제 당국 우려가 해소되며 대형 미디어 통합이 진전되고 있다.
+<a href="https://www.wsj.com/business/deals/paramount-wins-eu-approval-for-81-billion-warner-bros-deal-49070478">[WSJ]</a></blockquote>
 
-<b>24. Super Micro, 4분기 마진 가이던스 2배 상향...15~17%로 상승</b>
-<blockquote>서버 제조업체 Super Micro Computer가 4분기 매출총이익률 가이던스를 기존 8.2~8.4%에서 15~17%로 대폭 상향 조정했다. 이는 종전 전망의 거의 2배 수준으로, 서버 수요 강세와 원가 절감 효과가 반영됐다.
-<a href="https://www.wsj.com/business/super-micro-computer-says-fourth-quarter-margins-will-be-twice-as-high-as-expected-631ecc86">[WSJ]</a></blockquote>
+<b>24. Prologis, Segro에 187억 달러 최종 제안...9.5% 인상</b>
+<blockquote>세계 최대 산업용 부동산 소유주 Prologis가 영국 경쟁사 Segro에 187억 달러 최종 인수 제안을 제시했다. 초기 제안 대비 9.5% 인상했으며 추가 인상은 없다고 못 박았다.
+<a href="https://www.wsj.com/business/prologis-makes-final-18-7-billion-bid-to-take-over-segro-e6de3ed5">[WSJ]</a></blockquote>
 
-<b>25. Alaska Air, 유가 급등에 2분기 적자 $76mn...3분기 회복 전망</b>
-<blockquote>Alaska Air가 이란 전쟁 여파로 급등한 유류비 부담으로 2분기 $76mn 순손실을 기록했다. 다만 항공사는 3분기에는 흑자 전환할 것으로 전망했다.
-<a href="https://www.wsj.com/business/earnings/alaska-air-swings-to-second-quarter-loss-on-fuel-costs-expects-third-quarter-recovery-84a6e181">[WSJ]</a></blockquote>
+<b>25. Segro 이사회, 140억 파운드 인수 수용 신호...최종안 검토 중</b>
+<blockquote>런던 상장 부동산 그룹 Segro 이사회가 미국 경쟁사 Prologis의 '최종' 140억 파운드 제안을 수용할 의향을 시사했다. 이전 135억 파운드 제안에 이은 인상안이다.
+<a href="https://www.ft.com/content/ee030fed-d006-48d3-bc71-da452ce4069e">[FT]</a></blockquote>
 
-<b>26. Economist, 중국 오픈웨이트 모델이 미국 AI 랩 위협</b>
-<blockquote>Economist는 중국의 오픈웨이트 AI 모델 수요가 급증하면서 미국 AI 랩들이 위협받고 있다고 분석했다. 중국 기업들이 저렴한 오픈소스 모델을 무기로 미국 주도의 AI 시장 구도에 균열을 내고 있다.
-<a href="https://www.economist.com/business/2026/07/21/americas-ai-labs-are-under-threat-from-cheap-chinese-rivals">[Economist]</a></blockquote>
+<b>26. Penske-Mitsui, Penske Automotive 40억 달러 프라이빗화 추진</b>
+<blockquote>Penske Corp.이 일본 투자회사 Mitsui와 손잡고 자동차 딜러십 체인 Penske Automotive을 주당 210달러, 총 40억 달러 규모로 프라이빗화하는 인수 제안을 내놨다.
+<a href="https://www.wsj.com/finance/investing/penske-mitsui-bid-to-take-penske-automotive-private-in-near-4-billion-deal-4f8183e7">[WSJ]</a></blockquote>
 
-<b>27. 중국 AI 기업, 자금 조달 경쟁 가속...미국과 격차 좁히기 총력</b>
-<blockquote>중국 AI 기업들이 미국과의 기술 격차를 좁히기 위해 자금 조달 경쟁에 나섰다. 중국 AI 연구자 및 경영진은 투자 부족과 칩 공급 제약이 미국 주요 AI 기업과의 경쟁에서 발목을 잡고 있다고 밝혔다.
-<a href="https://www.wsj.com/world/china/china-ai-companies-rush-to-raise-funds-and-close-gap-with-u-s-55b9e2fd">[WSJ]</a></blockquote>
+<b>27. Blackstone, Vanguard와 새 개인투자자용 펀드 출시</b>
+<blockquote>Blackstone이 개인투자자 대상 새로운 사모 펀드를 Vanguard와 함께 출시한다. 올해 초 프라이빗 크레딧 펀드에서 자금이 대거 빠져나간 이후 새로운 상품 라인업이다.
+<a href="https://www.wsj.com/finance/investing/blackstone-rolls-out-new-private-market-fundsthis-time-with-vanguard-09a981b0">[WSJ]</a></blockquote>
 
-<b>28. 백악관, 연구비 $200bn 재배치...AI 집중, 대학 축소</b>
-<blockquote>백악관이 연간 $200bn 규모의 연구 예산을 대대적으로 재편성해 AI 연구에 집중하고 대학 배분을 축소하기로 했다. 개별 과학자 지원을 늘려 중국을 앞지르겠다는 전략이다.
-<a href="https://www.wsj.com/politics/policy/white-house-to-redirect-billions-in-research-funds-toward-ai-away-from-colleges-942dacb8">[WSJ]</a></blockquote>
+<b>28. 메르세데스, 미 상원 중국 법안으로 판매금지 위험...중국 지분 문제</b>
+<blockquote>미 상원 상무위원회가 중국 지분이 상당한 기업의 미국 시장 판매를 금지하는 법안을 승인했다. 메르세데스가 중국 지분 문제로 미국 시장에서 판매금지 위험에 처할 수 있다.
+<a href="https://www.ft.com/content/b7e572e2-ac26-4842-82ee-1c355ac7c848">[FT]</a></blockquote>
 
-<b>29. Trump 행정부, 캘리포니아·미네소타 메디케이드 $1bn 동결</b>
-<blockquote>Trump 행정부가 캘리포니아와 미네소타에 대한 메디케이드(저소득층 의료보험) 연방 지원금 $1bn 이상을 동결했다. 정부 프로그램 내 광범위한 부정수급을 막기 위한 조치를 강화하는 일환이다.
-<a href="https://www.wsj.com/politics/policy/trump-administration-freezes-1-billion-in-medicaid-funding-for-california-and-minnesota-5ecac467">[WSJ]</a></blockquote>
+<b>29. EU 항공사 소유권 규제 재검토...Apollo의 easyJet 인수 불확실성 증가</b>
+<blockquote>EU가 항공사 소유권 규제를 재검토하면서 Apollo의 57억 파운드 easyJet 인수에 불확실성이 커졌다. 영국 저가항공사 주가가 하락하며 인수 전망이 흐려지고 있다.
+<a href="https://www.ft.com/content/8c3a155b-03c0-4034-9403-839674a3df9e">[FT]</a></blockquote>
 
-<b>30. Moody's, 아르헨티나 B3로 상향...전망 긍정적</b>
-<blockquote>Moody's가 아르헨티나 신용등급을 Caa1에서 B3로 상향 조정하고 전망을 안정적에서 긍정적으로 변경했다. 거시경제 안정화가 초기 조정 국면을 넘어 진전되면서 디폴트 리스크가 낮아졌다는 판단이다.
-<a href="https://www.wsj.com/economy/central-banking/moodys-upgrades-argentina-to-b3-from-caa1-changes-outlook-to-positive-from-stable-7f6cdb11">[WSJ]</a></blockquote>
+<b>30. EU 항공 소유권 규제 개편 의미...현명한 타협</b>
+<blockquote>EU의 새 항공 소유권 규제는 브뤼셀-워싱턴 무역 긴장 재점화를 피하는 현명한 타협이다. 역내 항공사 M&A 환경이 변화하며 산업 구조조정 가능성이 열리고 있다.
+<a href="https://www.ft.com/content/4bd69ae6-8e8c-4c0b-8e1a-57240d1d1181">[FT]</a></blockquote>
 
-<b>31. Zelenskyy, 최고사령관 교체...대규모 시위 후 세대 교체</b>
-<blockquote>Zelenskyy 우크라이나 대통령이 연일 거리 시위가 벌어진 후 Oleksandr Syrskiy 최고사령관을 해임하고 43세 Mykhailo Drapatyi로 교체했다. 러시아 전면 침공 4년을 맞은 중대 시점에 군 지휘부 세대 교체가 이뤄졌다.
+<b>31. Nike 중국 온라인 유통 전략 전환...직접 통제 강화</b>
+<blockquote>스포츠웨어 대기업 Nike가 중국에서 대부분의 온라인 제3자 판매업체를 차단하고 직접 통제를 강화한다. 중국 사업 재편의 일환으로 유통 전략을 재설계하고 있다.
+<a href="https://www.wsj.com/business/retail/nike-ends-china-online-distribution-deal-in-strategy-shift-472c3556">[WSJ]</a></blockquote>
+
+<b>32. 파키스탄, 미국에 100억 달러 신용공여 요청...중재 역할 활용</b>
+<blockquote>파키스탄이 외환보유고 확충을 위해 미국에 100억 달러 신용공여를 요청했다. 워싱턴과 테헤란 간 중재 역할을 활용해 경제적 이익을 얻으려는 시도다.
+<a href="https://www.ft.com/content/f0115d12-35b8-4dc2-9bf1-748203ac4331">[FT]</a></blockquote>
+
+<b>33. Southwest 항공 연간 전망 하향...유류비 부담에 2분기 순익 악화</b>
+<blockquote>Southwest 항공이 유류비 부담으로 2분기 순이익이 악화되자 연간 주당순이익 전망을 3.25~4.25달러로 하향 조정했다. 1월 전망치는 최소 4달러였다. 에너지 비용 상승이 항공업계를 압박하고 있다.
+<a href="https://www.wsj.com/business/earnings/southwest-cuts-full-year-outlook-as-fuel-expenses-weigh-on-second-quarter-profit-4b25d6e4">[WSJ]</a></blockquote>
+
+<b>34. 철도업체 CSX 2분기 실적 개선...물동량·가격 상승</b>
+<blockquote>철도 운영업체 CSX의 2분기 매출이 10% 증가했다. 연료 할증료 매출 증가와 함께 일반화물·인터모달·석탄 부문에서 물동량과 가격이 모두 상승한 영향이다.
+<a href="https://www.wsj.com/business/earnings/csx-reports-higher-second-quarter-profit-sales-cfdea668">[WSJ]</a></blockquote>
+
+<b>35. Aston Martin, 채권단 반대에도 5억5천만 파운드 부채 딜 성사</b>
+<blockquote>현금난을 겪는 애스턴마틴이 채권단의 '이례적' 거래라는 반대에도 불구하고 BlackRock 소유 HPS와 5억5천만 파운드 부채 계약을 체결했다. 자동차업체의 재무 압박이 계속되고 있다.
+<a href="https://www.ft.com/content/c087714d-7d46-449b-9684-eba1975d313a">[FT]</a></blockquote>
+
+<b>36. Philip Morris 국제 지출 확대...Zyn 브랜드 성장 가속</b>
+<blockquote>Philip Morris International이 니코틴 파우치 Zyn 포트폴리오 확장과 수요 증가 대응을 위해 지출을 늘리고 있다. 담배 대체 제품 시장에서 공격적 투자를 지속하고 있다.
+<a href="https://www.wsj.com/business/earnings/philip-morris-sales-boosted-by-growth-in-international-business-648ae077">[WSJ]</a></blockquote>
+
+<b>37. Philip Morris, 경쟁 압박에 가이던스 하향...Zyn 경쟁 심화</b>
+<blockquote>담배 그룹 Philip Morris가 올해 세 번째로 전망을 하향 조정했다. 통화 변동과 미국 파우치 시장 경쟁 심화로 Zyn의 성장 모멘텀이 둔화됐다.
+<a href="https://www.ft.com/content/f6d7a063-43ae-4f9f-9c53-d1a6353ae407">[FT]</a></blockquote>
+
+<b>38. 독일, 방산 스타트업 지분 매입...150개 조치 일환</b>
+<blockquote>독일이 방산 스타트업 지분을 매입한다. 유럽 최대 경제국에서 스타트업 자금 조달을 촉진하기 위해 마련한 150개 이상 조치 중 하나다. 방산 산업 육성에 정부가 직접 나서고 있다.
+<a href="https://www.ft.com/content/080107ca-1be0-447c-8222-e0e7328d5129">[FT]</a></blockquote>
+
+<b>39. Nestlé, Perrier 사업 지분 매각 임박...€50억 규모</b>
+<blockquote>스위스 그룹 Nestlé가 Perrier와 San Pellegrino 등을 보유한 50억 유로 규모 생수 사업 지분 매각을 위해 Platinum Equity와 막판 협상을 진행 중이다.
+<a href="https://www.ft.com/content/905dd8ab-2b51-4b22-9e11-8ec2e6e7784a">[FT]</a></blockquote>
+
+<b>40. Deutsche Bank 본사 또 압수수색...올해 세 번째</b>
+<blockquote>Deutsche Bank 본사가 올해 세 번째로 압수수색을 받았다. 독일 은행의 이미지 개선 노력에 찬물을 끼얹는 사건으로, 법적 리스크가 계속되고 있다.
+<a href="https://www.ft.com/content/ffe4cbfd-e997-480f-a220-cf5bbf999d09">[FT]</a></blockquote>
+
+<b>41. 우크라이나, 최고 군사령관 교체...43세 Mykhailo Drapaty 임명</b>
+<blockquote>Zelenskyy 대통령이 대규모 시위 이후 최고 군사령관을 교체하고 43세 Mykhailo Drapaty를 임명했다. Oleksandr Syrsky를 대체하는 세대교체로 군 지휘부가 재편되고 있다.
 <a href="https://www.ft.com/content/500286b4-335b-43a7-bff5-30336d852e96">[FT]</a></blockquote>
 
-<b>32. 우크라이나 드론 보트, 미국서 첫 생산...실전 검증 무기 기술 이전</b>
-<blockquote>우크라이나가 실전에서 검증한 드론 보트가 처음으로 미국에서 생산된다. 우크라이나가 러시아와의 전쟁에서 개발한 무기 기술을 공유하는 첫 사례가 될 수 있다.
-<a href="https://www.wsj.com/politics/national-security/ukraines-battle-tested-drone-boats-to-be-made-in-the-u-s-for-the-first-time-2aae98b2">[WSJ]</a></blockquote>
+<b>42. IBM 성장 전망 하향...데이터센터 메인프레임 매출 42% 급락</b>
+<blockquote>IBM이 데이터센터 메인프레임 매출이 42% 급락하자 성장 전망을 하향 조정했다. CEO는 소프트웨어·인프라·컨설팅 사업 전반에서 고객의 AI 가치 창출을 도울 준비가 됐다고 밝혔다.
+<a href="https://www.wsj.com/business/earnings/ibm-q2-earnings-report-2026-stock-ded1f568">[WSJ]</a></blockquote>
 
-<b>33. GM, 2분기 순익 $1.31bn...수요 강세로 가이던스 상향</b>
-<blockquote>General Motors가 2분기 순이익 $1.31bn, 주당 $1.41를 기록하며 매출은 $48.03bn으로 증가했다. 고가 차량 수요가 견조하게 유지되면서 GM은 연간 실적 가이던스를 상향 조정했다.
-<a href="https://www.wsj.com/business/earnings/gm-raises-full-year-outlook-as-customer-demand-remains-strong-6c3d2e9b">[WSJ]</a></blockquote>
+<b>43. 귀금속 강세...전망 개선에 랠리</b>
+<blockquote>귀금속 가격이 상승 마감했다. 시장 심리가 더 낙관적인 전망으로 전환되며 금·은 등이 강세를 보였다. 지정학 리스크 속 안전자산 수요가 유지되고 있다.
+<a href="https://www.wsj.com/finance/commodities-futures/gold-rises-amid-hopes-for-u-s-iran-deal-fe301cd7">[WSJ]</a></blockquote>
 
-<b>34. Northrop Grumman, 백로그 증가로 매출 가이던스 상향</b>
-<blockquote>항공우주·방산 기업 Northrop Grumman이 수주잔고 증가세가 지속되면서 2026년 매출 전망을 $43.75bn~$44.25bn으로 상향 조정했다. 기존 목표 대비 $250mn을 추가했다.
-<a href="https://www.wsj.com/business/earnings/northrop-grumman-lifts-full-year-outlook-as-backlog-buildup-continues-2acaf477">[WSJ]</a></blockquote>
-
-<b>35. 3M, 안전·전자 부문 성장으로 연간 전망 상향</b>
-<blockquote>3M이 안전 및 전자 부문 매출 증가에 힘입어 연간 실적 전망을 상향 조정했다. 다각화된 제품 포트폴리오가 성장을 견인하면서 수익성 개선세를 이어가고 있다.
-<a href="https://www.wsj.com/business/retail/3m-upgrades-fy-views-as-profit-revenue-rise-01e7a7b4">[WSJ]</a></blockquote>
-
-<b>36. ADP, 6월 민간 고용 98k 증가...예상 하회</b>
-<blockquote>ADP는 6월 민간 부문 고용이 98,000명 증가했다고 발표했다. 이는 5월 122,000명 증가에서 둔화된 것이며, 시장 예상치 110,000명을 밑돌았다.
-<a href="https://www.wsj.com/economy/jobs/adp-says-june-private-sector-hiring-grew-slightly-below-expectations-1aba28ac">[WSJ]</a></blockquote>
-
-<b>37. Halliburton, 2분기 수익 증가...북미·해외 동반 성장</b>
-<blockquote>유전서비스 기업 Halliburton이 북미 및 해외 시장 모두에서 매출 증가에 힘입어 2분기 수익과 매출이 개선됐다. 유가 상승 국면에서 유전 개발 수요가 견조하게 유지됐다.
-<a href="https://www.wsj.com/business/earnings/halliburton-profit-climbs-on-higher-revenue-7760a183">[WSJ]</a></blockquote>
-
-<b>38. Utz Brands, 독일 Intersnack에 $2.9bn 인수...프리미엄 91%</b>
-<blockquote>독일 Intersnack Group이 미국 스낵 제조업체 Utz Brands를 $2.9bn에 인수한다. 주당 $14.25 현금 매수 제안은 월요일 종가 $7.45 대비 91% 프리미엄이다.
-<a href="https://www.wsj.com/business/deals/utz-brands-to-be-taken-private-for-about-2-9billion-b6e8df8d">[WSJ]</a></blockquote>
-
-<b>39. Iberdrola, 핀란드 Caruna 80% 지분 $2.3bn 인수</b>
-<blockquote>스페인 전력 기업 Iberdrola가 핀란드 전력망 사업자 Caruna Group 지분 80%를 $2.3bn에 인수한다. 거래는 연말 또는 2027년 초 완료될 예정이다.
-<a href="https://www.wsj.com/business/deals/iberdrola-to-take-control-of-finnish-utility-caruna-for-2-3-billion-375cb984">[WSJ]</a></blockquote>
-
-<b>40. Icahn, 자동차 서비스 체인 Pep Boys를 Mavis에 $700mn 매각</b>
-<blockquote>Icahn Enterprises가 2016년 인수한 Pep Boys를 Mavis에 $700mn에 매각한다. Icahn은 일부 소유 부동산은 계속 보유할 예정이다.
-<a href="https://www.wsj.com/business/deals/icahn-to-sell-auto-service-chain-pep-boys-to-mavis-for-700-million-8b7b80f8">[WSJ]</a></blockquote>
-
-<b>41. 노르웨이 오일펀드, Prologis-Segro 합병에 건설적 검토 촉구</b>
-<blockquote>Norges Bank Investment Management(노르웨이 오일펀드)가 두 회사의 장기 주주로서 Prologis와 Segro의 합병 제안이 합리성이 있으며 건설적 검토가 필요하다고 밝혔다.
-<a href="https://www.wsj.com/business/deals/norway-oil-fund-urges-constructive-tie-up-talks-between-prologis-and-segro-0813b709">[WSJ]</a></blockquote>
-
-<b>42. Burnham, 소득공제 인상 후퇴...집권 전 검토 공약 철회</b>
-<blockquote>Andy Burnham 영국 신임 총리가 집권 전 검토했던 소득공제(£12,570) 인상안에서 한발 물러섰다. 재정 부담이 큰 공약을 집권 직후 철회하면서 재정 여력 제약이 부각됐다.
-<a href="https://www.ft.com/content/bfb81988-c973-48cf-babc-a0c65e2814c5">[FT]</a></blockquote>
-
-<b>43. 영국 방산주 상승...Healey 국방비 증액 기대감</b>
-<blockquote>영국 방산 기업 주가가 상승했다. John Healey 신임 국방장관이 과거 국가 안보 유지를 위해 필요하다고 언급했던 국방 예산 증액을 추진할 것이란 기대감이 반영됐다.
-<a href="https://www.ft.com/content/226026f6-108e-45d5-a04b-eeb13be3ed3a">[FT]</a></blockquote>
-
-<b>44. Ed Miliband 외교정책...기후외교·법치 중시, 미국과 관계 배양</b>
-<blockquote>Ed Miliband 영국 신임 외무장관이 기후 외교 강화, 법치주의 수호, 미국과의 관계 '배양'을 골자로 하는 외교정책 방향을 제시했다. 기존 에너지 장관 출신인 그는 기후변화를 외교 우선순위로 끌어올릴 것으로 예상된다.
-<a href="https://www.ft.com/content/e0aaea6b-a8b2-4482-a48c-ef802861b350">[FT]</a></blockquote>
-
-<b>45. Rubio, 니카라과 선거 취소를 미 국가안보 위협으로 규정</b>
-<blockquote>Marco Rubio 국무장관은 니카라과의 선거 취소 계획이 미국 국가안보를 위협한다고 밝혔다. 미국은 Daniel Ortega 대통령이 수십 년간 권력을 공고히하기 위해 억압을 강화하는 니카라과를 고립시키려 하고 있다.
-<a href="https://www.wsj.com/world/americas/rubio-says-nicaraguas-plans-to-cancel-elections-threaten-u-s-national-security-b3df9586">[WSJ]</a></blockquote>
-
-<b>46. Economist, 니카라과 독재 경고...선거 없애면 재앙 초래</b>
-<blockquote>Economist는 대통령이 유권자를 무시하기 시작하면 재앙이 찾아온다며, 니카라과가 민주주의를 신봉하는 모든 국가에 경고가 되고 있다고 지적했다.
-<a href="https://www.economist.com/leaders/2026/07/21/when-a-president-stops-pretending-that-voters-count-disaster-beckons">[Economist]</a></blockquote>
-
-<b>47. 터키 야당 지도자, 분당해 Erdoğan 도전 신당 창당</b>
-<blockquote>터키 야당 지도자 Özgür Özel이 분당해 신당을 창당하고 Erdoğan 대통령에 도전할 예정이다. 2028년 예정된 차기 선거에서 장기 집권 중인 Erdoğan을 위협할 수 있는 변수가 생겼다.
-<a href="https://www.ft.com/content/b8b8ba5f-8991-4c21-abb4-2f6cf25a0cfb">[FT]</a></blockquote>
-
-<b>48. Economist, 중국 해상 민병대 대만 북쪽 활동 증가...역량 시험 정황</b>
-<blockquote>Economist는 중국의 비공식 해상 민병대가 대만 북쪽 해역에서 활동을 크게 늘리고 있다고 보도했다. 대규모 신규 편성이 포착되면서 중국 당국이 민병대 역량을 시험하고 있다는 분석이 나온다.
-<a href="https://www.economist.com/interactive/china/2026/07/21/chinas-shadowy-maritime-militia-is-worryingly-active">[Economist]</a></blockquote>
-
-<b>49. 미 재무부, 헤지펀드 'tax alpha' 전략 경고...AMG 주가 급락</b>
-<blockquote>미 재무부가 헤지펀드들의 세금 손실 수확(tax-loss harvesting) 투자 기법의 폭발적 성장에 대해 경고했다. 'tax alpha' 전략에 의문을 제기한 직후 AMG 주가가 급락했다.
-<a href="https://www.ft.com/content/79d588f8-13fa-4a12-8326-bf9250755de9">[FT]</a></blockquote>
-
-<b>50. FT, 예측 시장의 미래...유용한가 위험한가</b>
-<blockquote>FT는 예측 시장 플랫폼의 전망을 다루며, 이들 플랫�폼이 유용한 정보 도구인지 아니면 시장을 왜곡하는 위험 요소인지에 대한 논쟁을 정리했다.
-<a href="https://www.ft.com/content/8538d586-6ddd-4cf2-b310-c83481e573e2">[FT]</a></blockquote>
-
-<b>51. Kalshi, 귀금속 영구 계약 승인 신청...전통 거래소 도전</b>
-<blockquote>예측 시장 플랫폼 Kalshi가 귀금속 영구 계약 거래 승인을 신청했다. 금융 상품으로 진화하며 전통 거래소에 도전하는 예측 플랫폼의 확장 전략이 구체화되고 있다.
-<a href="https://www.ft.com/content/053077e1-ad9d-4d81-ac58-56c0dc6b7335">[FT]</a></blockquote>
-
-<b>52. National Grid, 미 AI 전력 붐 수혜...데이터센터 전력 개발사에 $1.75bn 투자</b>
-<blockquote>영국 전력 기업 National Grid가 미국 데이터센터 전력 공급에 특화된 개발사에 $1.75bn을 투자한다. AI 데이터센터 건설 붐이 전력 인프라 투자 기회로 이어지고 있다.
-<a href="https://www.ft.com/content/39f4842b-7389-485c-9d28-1a199607e56b">[FT]</a></blockquote>
+<b>44. 프랑스 Dassault Aviation 주문 급감...Rafale 전투기 수주 제로</b>
+<blockquote>프랑스 항공우주 업체 Dassault Aviation의 상반기 주문이 급감했다. Rafale 전투기 단일 주문도 없었지만, Falcon 비즈니스 항공기는 여전히 인기를 끌었다.
+<a href="https://www.wsj.com/business/dassault-aviation-logs-slump-in-first-half-orders-4b41ba21">[WSJ]</a></blockquote>
 
 ━━━━━━━━━━━━━━━━━━━━
 📡 <b>출처: WSJ · FT · The Economist</b>
