@@ -4,197 +4,37 @@
 
 ✅ <b>간밤의 주요 헤드라인</b>
 
-<b>1. 바레인·쿠웨이트 공군, 이란 본토 공습 단행...아랍 산유국 첫 직접 보복</b>
-<blockquote>미-이란 전쟁 5개월째인 가운데 바레인과 쿠웨이트 전투기가 이달 초 이란 본토를 공습한 것으로 확인됐다. 걸프만 아랍 산유국이 이란을 직접 타격한 것은 극히 이례적이며, 지역 전쟁 확전 우려가 커지고 있다.
-<a href="https://www.wsj.com/world/middle-east/iran-gulf-states-bahrain-kuwait-strikes-009637db">[WSJ]</a></blockquote>
+<b>1. 우크라이나, 카스피해서 이란 선박 공격...중동 분쟁 역외 확산</b>
+<blockquote>우크라이나가 카스피해에서 이란 선박을 공격해 선원 1명이 사망했다고 이란 외무부가 밝혔다. 이란은 EU에 중동 분쟁의 역외 확산 차단을 위한 개입을 요청했다. 중동 군사 긴장이 지리적 범위를 넓히면서 에너지 공급망 리스크가 커지고 있다.
+<a href="https://www.ft.com/content/a352cb9c-8b29-4d3c-b672-1b6c65fd4a1d">[FT]</a></blockquote>
 
-<b>2. 트럼프, 이란 전쟁 장기화에 인내심 한계...외교 회의론 고조</b>
-<blockquote>트럼프 대통령이 당초 수 주 안에 끝날 것으로 예상했던 이란 전쟁이 5개월째 이어지자 외교적 해결에 회의를 보이며 테헤란에 대한 '보복 모드'에 진입한 것으로 전해졌다. 참모들은 대통령의 불만이 커지고 있다고 밝혔다.
-<a href="https://www.wsj.com/politics/policy/trump-is-losing-patience-over-an-iran-war-with-no-clear-end-in-sight-c411d3cd">[WSJ]</a></blockquote>
+<b>2. 미국, 이란 핵시설 추가 타격 가능성...Pickaxe 외 표적 검토</b>
+<blockquote>트럼프 행정부가 이란에 대한 공습 범위를 확대할 경우 Pickaxe 외에도 다수의 핵 관련 시설이 타격 대상이 될 수 있다고 WSJ이 보도했다. 미국의 이란 핵시설 타격 시나리오가 구체화되면서 중동 전쟁 확대 우려가 증폭되고 있다.
+<a href="https://www.wsj.com/world/middle-east/it-isnt-just-pickaxe-trumps-other-potential-nuclear-targets-in-iran-975e960e">[WSJ]</a></blockquote>
 
-<b>3. 홍해 선박 보험사, 사우디 화물 전쟁 보험 제한 조치...원유 공급 차질 우려</b>
-<blockquote>선박 보험업계가 이란 지원 후티 반군의 공격이 계속되자 홍해를 지나는 사우디 화물에 대한 전쟁 보험 인수를 제한하기 시작했다. 세계 원유 공급망에 추가 차질이 불가피할 전망이다.
-<a href="https://www.ft.com/content/52aa89e9-f014-498e-8415-2c435a1c858d">[FT]</a></blockquote>
+<b>3. 후티 반군, 사우디 에너지 시설 타격...사우디 보복 공격 개시</b>
+<blockquote>이란 지원을 받는 예멘 후티 반군이 사우디아라비아 에너지 시설을 공격했고, 사우디는 이에 대응해 후티 거점을 타격했다. 중동 지역 전쟁이 확대되면서 원유·가스 공급 차질 가능성이 부각되고 있다.
+<a href="https://www.ft.com/content/14ee6049-87bf-4aac-b684-c9937374fdcc">[FT]</a></blockquote>
 
-<b>4. 유가, 중동 긴장 고조로 주간 상승 마감...연준 금리 결정 앞두고 압박 요인</b>
-<blockquote>유가가 중동 전쟁 확대 우려 속에 주간 상승세를 기록했다. 미국과 이란의 공습이 격화되고 예멘 후티 반군이 홍해 해운을 위협하면서 에너지 시장 변동성이 커지고 있다.
-<a href="https://www.wsj.com/finance/commodities-futures/oil-futures-edge-lower-on-likely-technical-correction-2971174b">[WSJ]</a></blockquote>
+<b>4. 미국-이란 에스컬레이션 사이클 심화...군사 충돌 악순환 고착</b>
+<blockquote>미국과 이란이 군사 공격과 보복의 에스컬레이션 사이클에 갇혀 있다고 WSJ이 분석했다. 양측의 공격이 반복되면서 전면전 가능성과 에너지 공급망 마비 우려가 커지고 있다.
+<a href="https://www.wsj.com/world/america-and-iran-are-locked-in-a-cycle-of-escalation-988fad81">[WSJ]</a></blockquote>
 
-<b>5. 재생연료 생산 Neste, 이란 전쟁 수혜로 흑자 전환...항공연료 가격 급등</b>
-<blockquote>핀란드 재생연료 생산업체 Neste가 이란 전쟁으로 항공연료 가격이 급등하면서 흑자로 돌아섰다. 항공사와 산업 구매자들이 중동 혼란 영향 받지 않는 공급원을 찾으면서 수요가 증가했다.
-<a href="https://www.ft.com/content/718ec1f0-5e05-48b7-9c99-ab28b6f9b055">[FT]</a></blockquote>
+<b>5. 미·영, 호르무즈 해협 안보 회의 추진...국제 해운 연합 논의</b>
+<blockquote>미국과 영국이 호르무즈 해협 위기 해결을 위한 국제 회의 개최를 논의 중이며, 선박 안전을 위한 국제 해상 연합 구성을 검토하고 있다. 중동 해운 차질이 장기화될 경우 원유·LNG 운송 비용 급등이 불가피할 전망이다.
+<a href="https://www.ft.com/content/6359b7ba-494f-4c80-b3f7-a64b3224ba9e">[FT]</a></blockquote>
 
-<b>6. 이스라엘, 서안지구 '대규모' 군사작전 준비...정착촌-팔레스타인 충돌 격화</b>
-<blockquote>Benjamin Netanyahu 이스라엘 총리가 서안지구에서 유대인 정착민과 팔레스타인 간 충돌로 최소 6명이 사망하자 '강력한' 대응을 지시했다. 이스라엘군은 주말 대규모 작전을 준비 중인 것으로 알려졌다.
-<a href="https://www.ft.com/content/bb731836-0ca6-4390-a39d-6d1a272fb4ff">[FT]</a></blockquote>
+<b>6. 카자흐스탄 대통령, Putin에 우크라이나 전쟁 동결 촉구</b>
+<blockquote>카자흐스탄의 Kassym-Jomart Tokayev 대통령이 러시아의 가장 가까운 동맹국 중 하나로는 가장 노골적으로 개입하며 Putin에게 우크라이나 전쟁을 동결할 것을 촉구했다. 우크라이나가 드론 공격을 강화하는 가운데 러시아 우방국들의 중재 압력이 커지고 있다.
+<a href="https://www.ft.com/content/f4a5d8da-c950-49d3-b847-6281d2087e4c">[FT]</a></blockquote>
 
-<b>7. 우크라이나 방공 부대, 러시아 드론 격추 작전 공개...최대 규모 공습 대응</b>
-<blockquote>러시아가 전쟁 중 최대 규모 공중 공격을 퍼붓는 가운데 WSJ가 우크라이나 엘리트 드론 요격 부대에 동행 취재했다. 요격 드론을 이용해 러시아 무인기를 격추하는 비밀 작전이 공개됐다.
-<a href="https://www.wsj.com/world/inside-ukraines-secretive-unit-knocking-russian-drones-out-of-the-sky-460581f2">[WSJ]</a></blockquote>
+<b>7. 트럼프 행정부, 對中 반도체 제재 강화...칩 부족 심화 경고</b>
+<blockquote>민주당 의원이 트럼프 행정부의 對중국 제재가 반도체 부족 사태를 악화시키고 있다고 경고했다. AI 수요 급증 속에서 애플이 블랙리스트에 오른 중국 기업으로부터 칩 구매 승인을 요청했으나 거부당한 것으로 알려졌다. 반도체 공급망 차질이 테크 섹터 전반에 영향을 미칠 전망이다.
+<a href="https://www.ft.com/content/5bd259ca-d278-498a-a03d-7b4556d9fa8f">[FT]</a></blockquote>
 
-<b>8. 키이우 한복판 러시아 미사일 공격으로 10명 사망...국방 행사 겨냥 의혹</b>
-<blockquote>우크라이나가 금요일 낮 러시아의 드문 주간 미사일 공격으로 키이우에서 최소 10명이 사망한 뒤 국방 행사 타깃 여부를 조사 중이다. 고위급 인사가 참석한 행사가 공격 목표였을 가능성이 제기됐다.
-<a href="https://www.ft.com/content/07e6299e-816a-4d0f-a4be-a572723f9e52">[FT]</a></blockquote>
-
-<b>9. 연준 금리 회의 앞두고 시장 대기 모드...에너지 인플레 재점화 우려</b>
-<blockquote>다음 주 미 연방준비제도 금리 결정을 앞두고 시장이 관망세를 보이고 있다. 중동 전쟁으로 에너지 가격이 급등하면서 금리 동결이 예상되지만, 추가 인상 시점에 대한 신호에 투자자들이 주목하고 있다.
-<a href="https://www.wsj.com/economy/global/week-ahead-for-fx-bonds-fed-decision-awaited-middle-east-events-eyed-83e73b63">[WSJ]</a></blockquote>
-
-<b>10. 유가 상승이 미 국채 수익률 압박...에너지 인플레 긴축 딜레마 심화</b>
-<blockquote>원유 가격 상승이 연준 금리 결정을 앞두고 채권 수익률에 압박을 가하고 있다. 에너지 인플레이션 재점화 우려가 커지면서 긴축 기조 유지 가능성이 높아지고 있다.
-<a href="https://www.wsj.com/finance/investing/jgbs-edge-lower-tracking-declines-in-u-s-treasurys-f3e6bacb">[WSJ]</a></blockquote>
-
-<b>11. 천연가스 선물, $3 돌파 시도 후 1.5% 하락...주간으로는 소폭 하락</b>
-<blockquote>미 천연가스 선물이 목요일 $3 테스트 이후 하락 전환해 $2.871/mmBtu에 마감했다. 주간으로는 1.4% 하락하며 최근 레인지 내 등락을 이어갔다.
-<a href="https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-stuck-in-range-3a962fd3">[WSJ]</a></blockquote>
-
-<b>12. 금 가격 주간 1.37% 상승, $4067.60 마감...안전자산 수요 지속</b>
-<blockquote>금이 금요일 0.5% 상승하며 주간으로는 1.37% 올라 $4067.60에 거래를 마쳤다. 은도 1.5% 오르며 중동 지정학 리스크 속 안전자산 선호 흐름이 이어졌다.
-<a href="https://www.wsj.com/finance/commodities-futures/gold-declines-on-stronger-dollar-fed-rate-hike-prospects-71b26469">[WSJ]</a></blockquote>
-
-<b>13. 달러 강세, 미-이란 휴전 전까지 지속 전망...위험회피 수요 확대</b>
-<blockquote>달러화가 보합권을 유지했으며 미국과 이란 간 휴전 합의 전까지 강세가 이어질 것으로 예상된다. 중동 전쟁 장기화로 안전자산 수요가 지속되고 있다.
-<a href="https://www.wsj.com/finance/currencies/yen-consolidates-near-40-year-low-vs-dollar-may-weaken-further-cc2a60ae">[WSJ]</a></blockquote>
-
-<b>14. 트럼프, 60개국 대상 관세 재부과...대법원 판결 후 관세 장벽 재구축</b>
-<blockquote>미국이 60개 무역 상대국에 새 관세를 부과하며 트럼프 행정부가 관세 장벽을 재구축하고 있다. 대법원이 이전 일괄 관세를 무효화한 뒤 개별 국가별 10% 관세를 재도입하는 방식이다.
-<a href="https://www.ft.com/content/078269b4-5518-4289-b90a-dd722fd7e703">[FT]</a></blockquote>
-
-<b>15. 트럼프, EU 테크기업 벌금에 보복 관세 경고...무역 긴장 재점화</b>
-<blockquote>미국이 유럽연합이 미국 테크 기업에 부과한 벌금에 대응해 추가 관세 부과를 검토 중이다. EU가 이번 주 Google에 $10억 벌금을 부과하자 트럼프 행정부가 즉각 반발했다.
-<a href="https://www.wsj.com/economy/trade/trump-threatens-new-tariffs-on-eu-over-tech-fines-0b1e9927">[WSJ]</a></blockquote>
-
-<b>16. 스위스, 미 강제노동 관세에 반발...12.5% 추가 관세 부과 논란</b>
-<blockquote>스위스가 트럼프 행정부의 강제노동 혐의에 근거한 12.5% 관세 부과를 강하게 반박했다. 스위스 정부는 해당 주장에 근거가 없다며 외교적 해결을 모색하고 있다.
-<a href="https://www.wsj.com/economy/trade/switzerland-rejects-forced-labor-accusations-after-u-s-imposes-new-tariffs-66d82043">[WSJ]</a></blockquote>
-
-<b>17. 글로벌 무역, 5월 재차 증가...새 관세 파고 앞두고 회복세</b>
-<blockquote>세계 무역량이 5월 두 달 연속 증가하며 경제 회복력을 보였다. 다만 미국의 새로운 관세 인상 조치가 향후 무역 흐름에 타격을 줄 수 있다는 우려가 나온다.
-<a href="https://www.wsj.com/economy/trade/global-goods-trade-rose-again-in-may-but-new-tariffs-loom-7a8a4f91">[WSJ]</a></blockquote>
-
-<b>18. 글로벌 PMI 7월 상승...에너지 충격 이전 경제 회복 신호</b>
-<blockquote>미국, 유럽, 아시아 주요국의 7월 기업 활동 지수가 상승하며 글로벌 경제가 완만한 성장세를 보였다. 다만 최근 에너지 가격 급등이 향후 전망을 위협하고 있다.
-<a href="https://www.wsj.com/economy/global/global-economy-picked-up-before-fresh-energy-hit-cb862cc9">[WSJ]</a></blockquote>
-
-<b>19. 캐나다 생산자물가 6월 하락...미-이란 임시 합의 후 에너지 가격 하락 효과</b>
-<blockquote>캐나다 생산자물가가 6월 하락하며 5개월 만에 첫 월간 하락을 기록했다. 미국과 이란 간 임시 합의로 에너지 가격이 내려간 영향으로 분석된다.
-<a href="https://www.wsj.com/economy/central-banking/canada-producer-prices-decline-in-june-after-short-lived-u-s-iran-pact-8dfd3b2f">[WSJ]</a></blockquote>
-
-<b>20. 독일 소비심리 전쟁 불확실성에 위축...유가 상승에 지출 경계</b>
-<blockquote>독일 소비자 신뢰지수가 유가 상승과 중동 전쟁 확전 우려 속에 소폭 하락했다. 가계의 지출 주저가 향후 몇 달간 고착화될 수 있다는 관측이 나온다.
-<a href="https://www.wsj.com/economy/central-banking/german-consumer-sentiment-weighed-down-by-war-uncertainty-18a7cd62">[WSJ]</a></blockquote>
-
-<b>21. ECB 임금 조사, 인플레 상승에도 임금 상승세 둔화...긴축 압력 완화</b>
-<blockquote>유로존 기업들이 인플레이션 재점화에도 불구하고 임금 상승 전망을 낮춘 것으로 ECB 조사 결과 나타났다. 에너지 가격 외 인플레 압력이 광범위하게 확산되지 않았음을 시사한다.
-<a href="https://www.wsj.com/economy/global/eurozone-businesses-see-wages-cooling-despite-inflation-pickup-says-ecb-7d096251">[WSJ]</a></blockquote>
-
-<b>22. ECB, 9월 긴축 재개 시사...Lagarde 총재 매파적 전환 신호</b>
-<blockquote>Christine Lagarde ECB 총재가 목요일 회의에서 9월 금리 인상 가능성을 시사했다. 에너지 인플레이션 재점화 우려 속에 통화정책 긴축 기조가 다시 강화될 조짐이다.
-<a href="https://www.ft.com/content/6c4aff69-197d-4d0d-9afa-83960d143f10">[FT]</a></blockquote>
-
-<b>23. 영국 Healey 재무장관, 재정 여력 축소 압박...증세·지출 삭감 딜레마</b>
-<blockquote>미-이란 전쟁과 새 지출 공약으로 영국의 재정 완충 여력이 £70억까지 축소될 수 있다는 전망이 나왔다. Rachel Healey 재무장관이 증세 또는 지출 삭감 압박을 받고 있다.
-<a href="https://www.ft.com/content/002120c3-a62d-4da8-8ba6-bc1290c89be6">[FT]</a></blockquote>
-
-<b>24. 주간 변동성 진정, 주가 안정화...유가 하락에 시장 숨고르기</b>
-<blockquote>변동성이 극심했던 한 주가 진정되며 금요일 주가가 안정세를 보였다. 다우지수는 0.5%, S&P500은 0.1% 상승했으나 나스닥은 0.6% 하락했다.
-<a href="https://www.wsj.com/finance/stocks/wild-markets-week-settles-down-40d27352">[WSJ]</a></blockquote>
-
-<b>25. 테크주 지출 우려에 주가 압박...AI 투자 열풍 속 수익성 의문</b>
-<blockquote>빅테크 기업들의 대규모 지출 계획이 우려를 낳으며 기술주가 압박받았다. 연준 금리 결정과 Elon Musk 제국의 어려움도 투자자 심리에 영향을 미쳤다.
-<a href="https://www.wsj.com/finance/stocks/spending-worries-weigh-on-tech-shares-5a6ba62e">[WSJ]</a></blockquote>
-
-<b>26. 미 빅테크, AI 투자 붐 속 14만 명 해고...구조조정 지속</b>
-<blockquote>미국 기술 기업들이 AI 인프라에 대규모 투자를 쏟아붓는 와중에 올해 14만 명을 해고한 것으로 집계됐다. AI 지출 붐이 실리콘밸리를 재편하는 가운데 고용시장은 안정세를 유지하고 있다.
-<a href="https://www.ft.com/content/96a33881-27fd-42cf-8cff-4cbc87fc835f">[FT]</a></blockquote>
-
-<b>27. Meta, 데이터센터 $120억 자금조달에서 차입비용 상승...AI 투자 부담 가중</b>
-<blockquote>Meta가 BlackRock 주도 $120억 데이터센터 금융에서 높은 차입비용에 직면했다. 투자자들이 AI 인프라 익스포저 확대에 대한 우려를 나타내며 자금 조달 비용이 올랐다.
-<a href="https://www.ft.com/content/822628c5-4f9c-47db-bd27-f3ad7f841700">[FT]</a></blockquote>
-
-<b>28. 중국 증권규제 책임자 Fang Xinghai 조사...시장 친화 정책 인사 표적</b>
-<blockquote>중국 공산당이 서방 투자자에게 잘 알려진 시장 친화적 증권규제 인사 Fang Xinghai에 대한 조사를 시작했다. '중대한 위반 의혹'으로 조사 중인 것으로 알려졌다.
-<a href="https://www.wsj.com/world/china/market-friendly-chinese-securities-regulator-faces-communist-party-probe-3928fba5">[WSJ]</a></blockquote>
-
-<b>29. Waymo, Uber와 결별 타진...자율주행 로비 갈등 격화</b>
-<blockquote>Waymo가 Uber와의 파트너십 해소를 검토 중인 것으로 알려졌다. 자율주행차 규제를 둘러싼 양사 간 로비 전쟁이 격화되면서 관계가 악화됐다.
-<a href="https://www.ft.com/content/9dcb5d72-13aa-4f9c-ac6d-e022860df5ea">[FT]</a></blockquote>
-
-<b>30. Nvidia·Palantir, 중국 우려 속 '오픈' AI 모델 규제 반대 입장</b>
-<blockquote>Nvidia와 Palantir가 중국의 AI 기술 위협을 이유로 한 오픈 AI 모델 규제에 반대 의견을 제출했다. 미 기술 기업과 투자자들이 과도한 규제가 혁신을 저해한다고 주장하고 나섰다.
-<a href="https://www.ft.com/content/3203fc9a-2321-44f8-8093-b7e16c8fc6d7">[FT]</a></blockquote>
-
-<b>31. EU, TikTok 미성년자 계정이 안전 기준 미달...디지털법 위반 잠정 판정</b>
-<blockquote>유럽연합 집행위원회가 TikTok의 미성년자 계정 규정이 EU 디지털 안전 기준을 충족하지 못한다고 잠정 판단했다. 블록 차원 기술 규제 강화 움직임의 일환이다.
-<a href="https://www.wsj.com/tech/eu-says-tiktok-accounts-for-minors-dont-meet-safety-standards-under-blocs-tech-rules-7655256c">[WSJ]</a></blockquote>
-
-<b>32. Robinhood·Crypto.com, 예측시장 협상...Kalshi와 경쟁 본격화</b>
-<blockquote>Robinhood가 Crypto.com과 예측시장 사업 협상을 진행 중인 것으로 알려졌다. 성사될 경우 증권사가 예측시장 경쟁사 Kalshi와 더욱 직접 경쟁하게 된다.
-<a href="https://www.wsj.com/finance/currencies/prediction-markets-race-heats-up-as-robinhood-and-crypto-com-hold-talks-9fc211dd">[WSJ]</a></blockquote>
-
-<b>33. ICC, 성폭행 의혹 Karim Khan 검사 해임...회원국 투표로 결정</b>
-<blockquote>국제형사재판소 회원국들이 성폭행 의혹을 받아온 Karim Khan 수석검사를 해임했다. Khan은 의혹을 부인해왔으나 지난해 5월부터 휴직 상태였다.
-<a href="https://www.ft.com/content/b99f3302-1c83-4acb-b8e4-28a880c1339a">[FT]</a></blockquote>
-
-<b>34. Paramount·Warner Bros 합병 일시 중단...주 정부 소송에 2027년 6월까지 연기 합의</b>
-<blockquote>Paramount와 Warner Bros가 주 정부들의 법적 이의 제기로 합병 절차를 2027년 6월까지 중단하기로 합의했다. 지연 기간 동안 수억 달러의 수수료가 발생할 수 있다.
-<a href="https://www.wsj.com/business/media/paramount-agrees-to-pause-its-warner-bros-merger-88ae1de1">[WSJ]</a></blockquote>
-
-<b>35. Commerzbank 의장, UniCredit와 대화 제안...적대적 인수전 후 화해 모색</b>
-<blockquote>Commerzbank의 Jens Weidmann 의장이 UniCredit와 협상에 나서겠다는 입장을 밝혔다. 독일 은행이 이탈리아 은행의 인수 시도에 대해 보다 유화적인 태도로 전환한 것으로 풀이된다.
-<a href="https://www.ft.com/content/d4dc32c5-7a96-4582-b17b-ab6a4569f474">[FT]</a></blockquote>
-
-<b>36. Airbus·Boeing, 주문 적체 해소 위해 증산 박차...공급망 문제 극복 시도</b>
-<blockquote>Airbus와 Boeing이 기록적인 주문 적체를 해소하기 위해 생산 확대에 나섰다. 항공기 제조사들이 그간 생산을 저해해온 공급망 문제를 벗어나려 하고 있다.
-<a href="https://www.ft.com/content/35538b17-1492-42e5-a4b6-8a9e5750c2bf">[FT]</a></blockquote>
-
-<b>37. Verizon, AI 붐 기회 모색...BT 합작법인 비용에 순익 감소</b>
-<blockquote>Verizon이 AI 붐에서 새로운 기회를 찾고 있다고 밝혔다. 2분기 매출은 소폭 감소했으며 BT Group 합작법인 관련 비용으로 순익이 줄었으나 사업 턴어라운드는 지속되고 있다.
-<a href="https://www.wsj.com/business/earnings/verizon-revenue-ticks-down-profit-falls-on-joint-venture-costs-01726dbf">[WSJ]</a></blockquote>
-
-<b>38. Charter, 가입자 감소 지속에 매출 재차 하락...고정무선·광통신 경쟁 타격</b>
-<blockquote>Charter Communications의 매출이 고정무선 및 광케이블 인터넷 서비스와의 경쟁으로 가정용 인터넷 가입자가 계속 이탈하면서 다시 감소했다.
-<a href="https://www.wsj.com/business/earnings/charter-communications-chtr-q2-earnings-report-stock-2026-4581559c">[WSJ]</a></blockquote>
-
-<b>39. American Express, 회원 지출 증가로 매출·순익 상승...소비 회복세</b>
-<blockquote>American Express가 신용카드 회원들의 지출 증가로 2분기 매출과 순익이 늘었다고 발표했다. 소비 지출 회복세가 이어지고 있다.
-<a href="https://www.wsj.com/business/earnings/american-express-sales-profit-rise-on-higher-card-member-spending-538386d8">[WSJ]</a></blockquote>
-
-<b>40. Canadian National Railway, 물동량 전망 상향...경기 개선에 화물 수요 견고</b>
-<blockquote>캐나다 철도업체 Canadian National Railway가 화물 수요 강화와 경제 여건 변화를 반영해 연간 물동량 전망을 상향 조정했다. 2분기 순익과 매출도 증가했다.
-<a href="https://www.wsj.com/business/logistics/canadian-national-railway-raises-2026-volume-outlook-39769778">[WSJ]</a></blockquote>
-
-<b>41. Volkswagen, 판매·인도 전망 하향...도전 과제 누적에 실적 악화</b>
-<blockquote>Volkswagen이 인도 대수 감소와 연간 매출 보합 또는 3% 감소를 예상한다고 밝혔다. 이전에는 보합에서 3% 성장을 전망했으나 여러 도전 과제가 겹치며 전망을 낮췄다.
-<a href="https://www.wsj.com/business/earnings/volkswagen-cuts-sales-and-delivery-forecasts-as-challenges-mount-e8df5916">[WSJ]</a></blockquote>
-
-<b>42. CATL, 에너지저장 배터리 수요 급증에 순익 급증...중국 EV 둔화 상쇄</b>
-<blockquote>세계 최대 배터리 제조사 CATL이 에너지저장시스템 수요 급증과 EV용 배터리 판매 회복력으로 순익이 크게 늘었다. 중국 내 전기차 수요 약화를 상쇄했다.
-<a href="https://www.wsj.com/business/autos/catl-profit-climbs-on-surging-demand-for-energy-storage-batteries-041b4b69">[WSJ]</a></blockquote>
-
-<b>43. SLB, 해양 활동 증가·데이터센터 수요로 매출 상승...중동 차질 상쇄</b>
-<blockquote>SLB가 해양 활동 증가와 빠르게 성장하는 데이터센터 사업의 강한 수요로 2분기 매출이 늘었다. 중동 지역의 지속적인 차질을 상쇄하는 성과를 냈다.
-<a href="https://www.wsj.com/business/earnings/slb-posts-higher-revenue-on-increased-offshore-activity-data-center-demand-fe131bce">[WSJ]</a></blockquote>
-
-<b>44. BP, 태양광 사업 Lightsource 매각 추진...쿠웨이트 지원 그룹과 협상</b>
-<blockquote>BP가 재생에너지 사업 Lightsource를 쿠웨이트 국부펀드가 지원하는 Qualitas Energy에 매각하는 협상을 진행 중이다. 재생에너지 사업 구조조정의 일환으로 풀이된다.
-<a href="https://www.ft.com/content/b49cffde-6610-4b20-b1fa-da1cdbca9d5c">[FT]</a></blockquote>
-
-<b>45. South East Water, £2억 유동성 확보...채권 발행 지원용 자금 조달</b>
-<blockquote>재정난을 겪고 있는 영국 상수도 업체 South East Water가 향후 채권 발행을 지원하기 위해 £2억의 유동성 자금을 확보했다고 밝혔다.
-<a href="https://www.ft.com/content/21d95258-2734-4a8a-91f7-6bbd02d21385">[FT]</a></blockquote>
-
-<b>46. 러시아 중앙은행, 인플레 상승에도 금리 인하...우크라이나 공격 영향 반영</b>
-<blockquote>러시아 중앙은행이 우크라이나의 러시아 정유시설 드론 공격을 반영해 인플레이션 전망을 상향 조정했음에도 10회 연속 금리 인하를 단행했다.
-<a href="https://www.wsj.com/pro/central-banking/russian-central-bank-cuts-key-rate-despite-inflation-pickup-2b5a9423">[WSJ]</a></blockquote>
-
-<b>47. 미 전력 수요 급증에 송전망 구축 비용도 폭등...장비 적체·관세 부담</b>
-<blockquote>미국의 전력 수요가 급증하면서 송전망 구축 비용도 치솟고 있다. 장비 적체, 인허가 지연, 관세, 송전망 연결 대기 시간 등이 비용 상승 요인으로 작용하고 있다.
-<a href="https://www.wsj.com/business/energy-oil/americas-demand-for-power-is-soaringand-so-are-the-costs-of-building-out-the-grid-f57b5adb">[WSJ]</a></blockquote>
-
-<b>48. 트럼프 행정부 소송·법무부 소환장으로 뉴스 업계 압박 심화...비용 급증</b>
-<blockquote>트럼프 행정부의 언론 대상 소송과 법무부 소환장이 뉴스 업계를 압박하고 있다. 변호사들은 언론 자유에 대한 위협이 커지고 있으며 기자 방어 비용도 급증하고 있다고 지적했다.
-<a href="https://www.wsj.com/business/media/trump-lawsuits-justice-department-subpoenas-squeeze-news-outlets-f4a08768">[WSJ]</a></blockquote>
+<b>8. 트럼프, 만료 관세를 새 관세로 대체...무역 정책 변동성 지속</b>
+<blockquote>트럼프 대통령이 만료 예정이던 관세를 다수의 새로운 관세로 대체했다. 관세 정책의 빈번한 변경으로 무역 불확실성이 지속되면서 기업들의 공급망 계획과 인플레이션 경로에 혼선이 예상된다.
+<a href="https://www.wsj.com/economy/trade/what-trumps-latest-tariffs-mean-for-the-american-economy-0641c57b">[WSJ]</a></blockquote>
 
 ━━━━━━━━━━━━━━━━━━━━
 📡 <b>출처: WSJ · FT · The Economist</b>
