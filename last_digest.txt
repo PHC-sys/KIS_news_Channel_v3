@@ -4,37 +4,57 @@
 
 ✅ <b>간밤의 주요 헤드라인</b>
 
-<b>1. 우크라이나, 카스피해서 이란 선박 공격...중동 분쟁 역외 확산</b>
-<blockquote>우크라이나가 카스피해에서 이란 선박을 공격해 선원 1명이 사망했다고 이란 외무부가 밝혔다. 이란은 EU에 중동 분쟁의 역외 확산 차단을 위한 개입을 요청했다. 중동 군사 긴장이 지리적 범위를 넓히면서 에너지 공급망 리스크가 커지고 있다.
-<a href="https://www.ft.com/content/a352cb9c-8b29-4d3c-b672-1b6c65fd4a1d">[FT]</a></blockquote>
+<b>1. 이란-미국 공습 중단으로 유가 급락...오만 중재 호르무즈 해협 협상 진전</b>
+<blockquote>Brent유 장중 5% 하락하며 배럴당 $100선 이탈했다. 이란과 미국이 이틀 연속 상호 공습을 중단하며 긴장이 일시 완화됐고, 오만이 호르무즈 해협 통행 협정 중재에 나서며 전면전 회귀를 막고 있다.
+<a href="https://www.ft.com/content/403625cc-8371-43ee-997a-f6908a97f52e">[FT]</a></blockquote>
 
-<b>2. 미국, 이란 핵시설 추가 타격 가능성...Pickaxe 외 표적 검토</b>
-<blockquote>트럼프 행정부가 이란에 대한 공습 범위를 확대할 경우 Pickaxe 외에도 다수의 핵 관련 시설이 타격 대상이 될 수 있다고 WSJ이 보도했다. 미국의 이란 핵시설 타격 시나리오가 구체화되면서 중동 전쟁 확대 우려가 증폭되고 있다.
-<a href="https://www.wsj.com/world/middle-east/it-isnt-just-pickaxe-trumps-other-potential-nuclear-targets-in-iran-975e960e">[WSJ]</a></blockquote>
+<b>2. 미국, 이란 공습 잠정 중단...방공 재고 부족 우려 반영</b>
+<blockquote>Trump 행정부가 2주 지속될 수 있었던 대규모 이란 공습 계획을 중단했다. 미 국방부 관계자들은 방공 무기 재고 감소를 주요 고려 요인으로 언급했다.
+<a href="https://www.wsj.com/world/middle-east/trump-pauses-iran-strikes-as-officials-weigh-dwindling-air-defense-stocks-c7d7ebb0">[WSJ]</a></blockquote>
 
-<b>3. 후티 반군, 사우디 에너지 시설 타격...사우디 보복 공격 개시</b>
-<blockquote>이란 지원을 받는 예멘 후티 반군이 사우디아라비아 에너지 시설을 공격했고, 사우디는 이에 대응해 후티 거점을 타격했다. 중동 지역 전쟁이 확대되면서 원유·가스 공급 차질 가능성이 부각되고 있다.
-<a href="https://www.ft.com/content/14ee6049-87bf-4aac-b684-c9937374fdcc">[FT]</a></blockquote>
+<b>3. 오만, 이란-미국 호르무즈 해협 통행 협정 중재...전면전 회피 모색</b>
+<blockquote>오만 정부가 이란과 미국 간 호르무즈 해협 통행 보장 협정 중재를 진행 중이다. 양측이 이틀간 공습을 중단하며 중재 노력이 탄력을 받고 있으나, 전면전 재개 가능성은 여전히 남아 있다.
+<a href="https://www.ft.com/content/ffdeacf0-91b8-48fd-9ff8-d8d134ef5f11">[FT]</a></blockquote>
 
-<b>4. 미국-이란 에스컬레이션 사이클 심화...군사 충돌 악순환 고착</b>
-<blockquote>미국과 이란이 군사 공격과 보복의 에스컬레이션 사이클에 갇혀 있다고 WSJ이 분석했다. 양측의 공격이 반복되면서 전면전 가능성과 에너지 공급망 마비 우려가 커지고 있다.
-<a href="https://www.wsj.com/world/america-and-iran-are-locked-in-a-cycle-of-escalation-988fad81">[WSJ]</a></blockquote>
+<b>4. 예멘 내전 휴전 붕괴...사우디-후티 무장세력 충돌 재개로 에너지 시장 압박</b>
+<blockquote>사우디아라비아와 예멘 후티 무장세력이 다시 무력 충돌에 나서며 중동 전쟁 확전 위험이 커졌다. 양측 간 휴전이 무너지면서 글로벌 에너지 시장에 새로운 압력이 가해지고 있다.
+<a href="https://www.wsj.com/world/middle-east/a-truce-in-yemen-unravels-threatening-to-widen-mideast-war-d0b2b678">[WSJ]</a></blockquote>
 
-<b>5. 미·영, 호르무즈 해협 안보 회의 추진...국제 해운 연합 논의</b>
-<blockquote>미국과 영국이 호르무즈 해협 위기 해결을 위한 국제 회의 개최를 논의 중이며, 선박 안전을 위한 국제 해상 연합 구성을 검토하고 있다. 중동 해운 차질이 장기화될 경우 원유·LNG 운송 비용 급등이 불가피할 전망이다.
-<a href="https://www.ft.com/content/6359b7ba-494f-4c80-b3f7-a64b3224ba9e">[FT]</a></blockquote>
+<b>5. 유가 시장, 공습 중단에도 에너지 공급 불안 지속...하방 리스크 상존</b>
+<blockquote>이란-미국 간 폭격이 잠정 중단됐으나 에너지 공급망은 여전히 취약한 상태다. 시장은 호르무즈 해협 봉쇄 우려와 예멘 분쟁 재개 가능성을 하방 리스크로 주시하고 있다.
+<a href="https://www.economist.com/finance-and-economics/2026/07/26/oil-markets-are-on-edge-again">[Economist]</a></blockquote>
 
-<b>6. 카자흐스탄 대통령, Putin에 우크라이나 전쟁 동결 촉구</b>
-<blockquote>카자흐스탄의 Kassym-Jomart Tokayev 대통령이 러시아의 가장 가까운 동맹국 중 하나로는 가장 노골적으로 개입하며 Putin에게 우크라이나 전쟁을 동결할 것을 촉구했다. 우크라이나가 드론 공격을 강화하는 가운데 러시아 우방국들의 중재 압력이 커지고 있다.
-<a href="https://www.ft.com/content/f4a5d8da-c950-49d3-b847-6281d2087e4c">[FT]</a></blockquote>
+<b>6. 미국, 이란 핵시설 타격 재검토...영구 전쟁 위험 남아</b>
+<blockquote>미국이 이란 핵 프로그램을 겨냥한 대규모 공습을 재검토하고 있으나, 이 역시 영구 분쟁을 막을 뚜렷한 해법이 되지 못할 것이라는 분석이 나온다.
+<a href="https://www.economist.com/middle-east-and-africa/2026/07/26/america-has-few-good-options-for-a-massive-attack-on-iran">[Economist]</a></blockquote>
 
-<b>7. 트럼프 행정부, 對中 반도체 제재 강화...칩 부족 심화 경고</b>
-<blockquote>민주당 의원이 트럼프 행정부의 對중국 제재가 반도체 부족 사태를 악화시키고 있다고 경고했다. AI 수요 급증 속에서 애플이 블랙리스트에 오른 중국 기업으로부터 칩 구매 승인을 요청했으나 거부당한 것으로 알려졌다. 반도체 공급망 차질이 테크 섹터 전반에 영향을 미칠 전망이다.
-<a href="https://www.ft.com/content/5bd259ca-d278-498a-a03d-7b4556d9fa8f">[FT]</a></blockquote>
+<b>7. 프랑스·스페인 대형 산불로 33만 5000명 대피...보르도 인근 위협</b>
+<blockquote>프랑스와 스페인에서 '역대 최악 수준' 산불이 발생해 약 33만 5000명이 긴급 대피했다. 프랑스 보르도 지역과 스페인 주요 도시 인근까지 불길이 번지며 당국이 비상 대응에 나섰다.
+<a href="https://www.ft.com/content/e5bf56e2-9ad1-4778-a25b-9fbe7a3f9eb8">[FT]</a></blockquote>
 
-<b>8. 트럼프, 만료 관세를 새 관세로 대체...무역 정책 변동성 지속</b>
-<blockquote>트럼프 대통령이 만료 예정이던 관세를 다수의 새로운 관세로 대체했다. 관세 정책의 빈번한 변경으로 무역 불확실성이 지속되면서 기업들의 공급망 계획과 인플레이션 경로에 혼선이 예상된다.
-<a href="https://www.wsj.com/economy/trade/what-trumps-latest-tariffs-mean-for-the-american-economy-0641c57b">[WSJ]</a></blockquote>
+<b>8. 유럽 산불 피해 확산...프랑스 보르도·스페인 주요 도시 위협</b>
+<blockquote>프랑스와 스페인에서 수십만 명의 주민과 관광객이 대피 중이다. 스페인 장관은 이번 산불을 '역사상 가장 공격적'이라고 규정했다.
+<a href="https://www.wsj.com/world/europe/wildfires-rage-across-europe-threatening-frances-bordeaux-region-f3a99f31">[WSJ]</a></blockquote>
+
+<b>9. Fed·BoE·BoJ 금리 결정 위크...Kevin Warsh 두 번째 회의 주목</b>
+<blockquote>이번 주 Fed, BoE, BoJ 세 중앙은행이 연속 금리 결정을 발표한다. Kevin Warsh 의장 취임 후 두 번째 FOMC 회의에서 금리 인상 여부가 최대 관심사다.
+<a href="https://www.ft.com/content/865fd421-2953-4429-9297-c4dcf3a26d33">[FT]</a></blockquote>
+
+<b>10. Fed, Kevin Warsh 2차 회의서 금리 인상 가능성...유가 하락이 변수</b>
+<blockquote>시장은 Fed가 Kevin Warsh 의장 두 번째 회의에서 금리 인상에 나설지 주시하고 있다. 최근 유가 급락이 인플레이션 압력을 완화하며 매파 전환 속도에 영향을 줄 것으로 보인다.
+<a href="https://www.ft.com/content/4b67aefb-f61a-4d0e-941c-bf93d625f5ca">[FT]</a></blockquote>
+
+<b>11. AI 확산으로 임금-생산성 디커플링 심화...노동소득분배율 하락 우려</b>
+<blockquote>AI 기술 확산과 노동소득분배율 하락으로 선진국에서 임금과 생산성 간 괴리가 더욱 벌어질 전망이다. 생산성 증가가 임금 상승으로 이어지지 않는 구조적 변화가 가속화되고 있다.
+<a href="https://www.ft.com/content/9741206d-b53f-4149-8cab-5203dd4b70fb">[FT]</a></blockquote>
+
+<b>12. United Airlines, 지난해 Delta와 합병 논의...양사 CEO 접촉</b>
+<blockquote>United Airlines CEO Scott Kirby가 지난해 Delta CEO에게 합병 가능성을 타진했으나 협상은 진전되지 않았다. 항공 산업 재편 논의가 수면 위로 부상했다.
+<a href="https://www.wsj.com/business/airlines/united-approached-delta-last-year-about-merging-airlines-af83fc64">[WSJ]</a></blockquote>
+
+<b>13. 중국 오픈소스 AI 모델 Kimi K3 사용 리스크...사이버 공격 대응 취약</b>
+<blockquote>중국산 오픈소스 AI 모델 Kimi K3 사용에 대한 우려가 제기됐다. 문제는 해외 오픈소스 자체가 아니라 사이버 공격에 대비한 인프라 보호 체계의 조율 부족이라는 분석이 나온다.
+<a href="https://www.ft.com/content/aa856a9d-b57c-4adf-b5aa-d1b22f9be3b2">[FT]</a></blockquote>
 
 ━━━━━━━━━━━━━━━━━━━━
 📡 <b>출처: WSJ · FT · The Economist</b>
