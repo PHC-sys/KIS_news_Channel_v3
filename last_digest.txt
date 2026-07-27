@@ -4,57 +4,109 @@
 
 ✅ <b>간밤의 주요 헤드라인</b>
 
-<b>1. 이란-미국 공습 중단으로 유가 급락...오만 중재 호르무즈 해협 협상 진전</b>
-<blockquote>Brent유 장중 5% 하락하며 배럴당 $100선 이탈했다. 이란과 미국이 이틀 연속 상호 공습을 중단하며 긴장이 일시 완화됐고, 오만이 호르무즈 해협 통행 협정 중재에 나서며 전면전 회귀를 막고 있다.
+<b>1. 브렌트유 6% 급락...미국·이란 공격 일시 중단에 공급 우려 완화</b>
+<blockquote>호르무즈 해협 봉쇄 위기가 주말간 완화되면서 브렌트유가 6% 넘게 하락했다. 2주간 지속된 미국과 이란의 군사 충돌이 잠정 중단되며 원유가격은 배럴당 100달러 아래로 내려왔다. 시장은 협상 재개 가능성에 무게를 두고 있다.
 <a href="https://www.ft.com/content/403625cc-8371-43ee-997a-f6908a97f52e">[FT]</a></blockquote>
 
-<b>2. 미국, 이란 공습 잠정 중단...방공 재고 부족 우려 반영</b>
-<blockquote>Trump 행정부가 2주 지속될 수 있었던 대규모 이란 공습 계획을 중단했다. 미 국방부 관계자들은 방공 무기 재고 감소를 주요 고려 요인으로 언급했다.
-<a href="https://www.wsj.com/world/middle-east/trump-pauses-iran-strikes-as-officials-weigh-dwindling-air-defense-stocks-c7d7ebb0">[WSJ]</a></blockquote>
+<b>2. 사우디, 후티 반군 석유시설 공격에 이란 배후 지목...중동 긴장 재점화 우려</b>
+<blockquote>사우디아라비아가 예멘 후티 반군의 석유시설 공격 배후로 이란을 공식 지목했다. 후티 측은 사우디 에너지 인프라를 타격했다고 주장하며, 지역 내 대리전 양상이 재점화될 조짐이다.
+<a href="https://www.wsj.com/world/middle-east/saudi-arabia-blames-iran-backed-militias-for-attack-on-oil-facilities-eb6cf40c">[WSJ]</a></blockquote>
 
-<b>3. 오만, 이란-미국 호르무즈 해협 통행 협정 중재...전면전 회피 모색</b>
-<blockquote>오만 정부가 이란과 미국 간 호르무즈 해협 통행 보장 협정 중재를 진행 중이다. 양측이 이틀간 공습을 중단하며 중재 노력이 탄력을 받고 있으나, 전면전 재개 가능성은 여전히 남아 있다.
-<a href="https://www.ft.com/content/ffdeacf0-91b8-48fd-9ff8-d8d134ef5f11">[FT]</a></blockquote>
+<b>3. 우크라이나, 카스피해 이란 무기고 타격...두 전쟁 수렴 신호</b>
+<blockquote>우크라이나가 카스피해 지역 이란 무기고를 장거리 드론으로 공습하며 러시아 지원 공급망을 차단했다. 이란이 러시아에 무기를 제공하는 경로가 드러나면서 유럽과 중동 분쟁이 연결되는 양상이 나타났다. 이란은 보복을 경고했다.
+<a href="https://www.wsj.com/world/two-wars-converge-in-the-caspian-sea-as-ukraine-hits-iranian-supply-line-to-russia-e036fb27">[WSJ]</a></blockquote>
 
-<b>4. 예멘 내전 휴전 붕괴...사우디-후티 무장세력 충돌 재개로 에너지 시장 압박</b>
-<blockquote>사우디아라비아와 예멘 후티 무장세력이 다시 무력 충돌에 나서며 중동 전쟁 확전 위험이 커졌다. 양측 간 휴전이 무너지면서 글로벌 에너지 시장에 새로운 압력이 가해지고 있다.
-<a href="https://www.wsj.com/world/middle-east/a-truce-in-yemen-unravels-threatening-to-widen-mideast-war-d0b2b678">[WSJ]</a></blockquote>
+<b>4. 미 국채 수요 회복, 금리 하락...FOMC 앞두고 안전자산 선호</b>
+<blockquote>중동 긴장 완화와 원유 가격 급락으로 국채 매수세가 되살아나며 수익률이 하락했다. 연준 회의를 앞둔 시점에서 인플레이션 압력 완화 기대가 채권시장을 지지하고 있다.
+<a href="https://www.wsj.com/finance/investing/jgb-futures-rise-amid-falling-crude-oil-prices-2f1d5195">[WSJ]</a></blockquote>
 
-<b>5. 유가 시장, 공습 중단에도 에너지 공급 불안 지속...하방 리스크 상존</b>
-<blockquote>이란-미국 간 폭격이 잠정 중단됐으나 에너지 공급망은 여전히 취약한 상태다. 시장은 호르무즈 해협 봉쇄 우려와 예멘 분쟁 재개 가능성을 하방 리스크로 주시하고 있다.
-<a href="https://www.economist.com/finance-and-economics/2026/07/26/oil-markets-are-on-edge-again">[Economist]</a></blockquote>
+<b>5. 금 가격 소폭 상승 마감...2거래일 연속 오름세</b>
+<blockquote>Comex 금 선물이 0.17% 오른 온스당 4,074.50달러에 마감하며 이틀 연속 상승했다. 은 가격은 0.3% 하락했다. 중동 리스크 완화에도 연준 회의를 앞둔 불확실성이 금 수요를 떠받쳤다.
+<a href="https://www.wsj.com/finance/commodities-futures/gold-gains-as-u-s-iran-pause-fighting-over-weekend-15faf1b0">[WSJ]</a></blockquote>
 
-<b>6. 미국, 이란 핵시설 타격 재검토...영구 전쟁 위험 남아</b>
-<blockquote>미국이 이란 핵 프로그램을 겨냥한 대규모 공습을 재검토하고 있으나, 이 역시 영구 분쟁을 막을 뚜렷한 해법이 되지 못할 것이라는 분석이 나온다.
-<a href="https://www.economist.com/middle-east-and-africa/2026/07/26/america-has-few-good-options-for-a-massive-attack-on-iran">[Economist]</a></blockquote>
+<b>6. 중국 메모리칩 CXMT, 상장 첫날 466% 폭등...중국 시가총액 1위 등극</b>
+<blockquote>중국 메모리 반도체 업체 CXMT가 상하이 거래 첫날 466% 급등하며 중국 증시 시총 1위에 올랐다. Apple이 주요 고객사인 이 기업의 성공은 중국 반도체 굴기의 상징으로 평가된다.
+<a href="https://www.wsj.com/tech/cxmts-strong-debut-boosts-chinas-bid-to-conquer-memory-chips-21e0e9f4">[WSJ]</a></blockquote>
 
-<b>7. 프랑스·스페인 대형 산불로 33만 5000명 대피...보르도 인근 위협</b>
-<blockquote>프랑스와 스페인에서 '역대 최악 수준' 산불이 발생해 약 33만 5000명이 긴급 대피했다. 프랑스 보르도 지역과 스페인 주요 도시 인근까지 불길이 번지며 당국이 비상 대응에 나섰다.
-<a href="https://www.ft.com/content/e5bf56e2-9ad1-4778-a25b-9fbe7a3f9eb8">[FT]</a></blockquote>
+<b>7. 시진핑, 국가 주도 벤처캐피털로 변신...CXMT IPO 성공 배경</b>
+<blockquote>CXMT의 기록적 IPO 성공은 중국 정부의 막대한 자본 투입 덕분이다. 시진핑 주석이 사실상 벤처캐피털 역할을 수행하며 국가자본주의 모델을 입증했지만, 이 같은 성공이 반복될 수 있을지는 불투명하다.
+<a href="https://www.economist.com/china/2026/07/27/xi-jinping-pioneering-venture-capitalist">[Economist]</a></blockquote>
 
-<b>8. 유럽 산불 피해 확산...프랑스 보르도·스페인 주요 도시 위협</b>
-<blockquote>프랑스와 스페인에서 수십만 명의 주민과 관광객이 대피 중이다. 스페인 장관은 이번 산불을 '역사상 가장 공격적'이라고 규정했다.
-<a href="https://www.wsj.com/world/europe/wildfires-rage-across-europe-threatening-frances-bordeaux-region-f3a99f31">[WSJ]</a></blockquote>
+<b>8. CXMT IPO, 버블 신호 아닐 수도...저가 AI 컴퓨팅 수요 확대 전망</b>
+<blockquote>FT는 CXMT의 급등이 반드시 버블 신호는 아닐 수 있다고 분석했다. 저렴한 컴퓨팅 파워가 AI 수요를 더 확대할 경우, 중국 칩 업체들이 지속적으로 수혜를 입을 가능성이 있다는 평가다.
+<a href="https://www.ft.com/content/4a0eeaf8-90b6-4053-a53c-b285d56f4dfe">[FT]</a></blockquote>
 
-<b>9. Fed·BoE·BoJ 금리 결정 위크...Kevin Warsh 두 번째 회의 주목</b>
-<blockquote>이번 주 Fed, BoE, BoJ 세 중앙은행이 연속 금리 결정을 발표한다. Kevin Warsh 의장 취임 후 두 번째 FOMC 회의에서 금리 인상 여부가 최대 관심사다.
-<a href="https://www.ft.com/content/865fd421-2953-4429-9297-c4dcf3a26d33">[FT]</a></blockquote>
+<b>9. 중국 IPO 쇼크, 미국 칩주 압박...나스닥 하락 견인</b>
+<blockquote>CXMT의 폭발적 상장이 미국 반도체 기업들의 밸류에이션에 압력을 가하며 칩주가 일제히 하락했다. Nvidia가 Apple을 제치고 시총 1위를 내준 가운데, 나스닥은 0.2% 하락 마감했다.
+<a href="https://www.wsj.com/finance/stocks/chinese-ipo-rattles-chip-stocks-a563c5f6">[WSJ]</a></blockquote>
 
-<b>10. Fed, Kevin Warsh 2차 회의서 금리 인상 가능성...유가 하락이 변수</b>
-<blockquote>시장은 Fed가 Kevin Warsh 의장 두 번째 회의에서 금리 인상에 나설지 주시하고 있다. 최근 유가 급락이 인플레이션 압력을 완화하며 매파 전환 속도에 영향을 줄 것으로 보인다.
-<a href="https://www.ft.com/content/4b67aefb-f61a-4d0e-941c-bf93d625f5ca">[FT]</a></blockquote>
+<b>10. 나스닥 -0.2%, 다우 +0.5%...칩주 약세에 혼조 마감</b>
+<blockquote>미국 증시는 혼조세로 마감했다. 중동 긴장 완화로 다우는 0.5% 상승했지만, 중국 반도체 IPO 충격과 빅테크 실적 발표를 앞둔 경계감으로 나스닥은 0.2% 하락했다. 칩주 약세가 기술주 지수를 끌어내렸다.
+<a href="https://www.wsj.com/finance/stocks/global-stocks-markets-dow-news-07-27-2026-f8e6f1a5">[WSJ]</a></blockquote>
 
-<b>11. AI 확산으로 임금-생산성 디커플링 심화...노동소득분배율 하락 우려</b>
-<blockquote>AI 기술 확산과 노동소득분배율 하락으로 선진국에서 임금과 생산성 간 괴리가 더욱 벌어질 전망이다. 생산성 증가가 임금 상승으로 이어지지 않는 구조적 변화가 가속화되고 있다.
-<a href="https://www.ft.com/content/9741206d-b53f-4149-8cab-5203dd4b70fb">[FT]</a></blockquote>
+<b>11. 빅테크 신용 리스크 급등...AI 지출 급증에 차입 확대</b>
+<blockquote>빅테크 기업들이 AI 인프라에 막대한 투자를 쏟아붓고 차입을 늘리면서 신용 리스크가 급격히 높아졌다. 투자자들은 데이터센터 건설 자금 조달을 위한 대규모 차입에 우려를 표하고 있다.
+<a href="https://www.ft.com/content/ac136522-ecc7-4262-8702-e0d636ea3099">[FT]</a></blockquote>
 
-<b>12. United Airlines, 지난해 Delta와 합병 논의...양사 CEO 접촉</b>
-<blockquote>United Airlines CEO Scott Kirby가 지난해 Delta CEO에게 합병 가능성을 타진했으나 협상은 진전되지 않았다. 항공 산업 재편 논의가 수면 위로 부상했다.
-<a href="https://www.wsj.com/business/airlines/united-approached-delta-last-year-about-merging-airlines-af83fc64">[WSJ]</a></blockquote>
+<b>12. OpenAI 해킹 사건, 사이버 보안 경고로 확산...Microsoft AI 책임자 경고</b>
+<blockquote>Microsoft AI 부문 책임자가 OpenAI 해킹 사건을 '경고의 신호탄'으로 규정하며 AI 방어 시스템 개발이 불가피하다고 밝혔다. 자동화된 AI 공격의 쇄도에 맞서 선택의 여지가 없다는 설명이다.
+<a href="https://www.ft.com/content/f7fc5555-7b2a-4134-960e-5de7f15a06e8">[FT]</a></blockquote>
 
-<b>13. 중국 오픈소스 AI 모델 Kimi K3 사용 리스크...사이버 공격 대응 취약</b>
-<blockquote>중국산 오픈소스 AI 모델 Kimi K3 사용에 대한 우려가 제기됐다. 문제는 해외 오픈소스 자체가 아니라 사이버 공격에 대비한 인프라 보호 체계의 조율 부족이라는 분석이 나온다.
-<a href="https://www.ft.com/content/aa856a9d-b57c-4adf-b5aa-d1b22f9be3b2">[FT]</a></blockquote>
+<b>13. Nvidia, 오픈소스 AI 사이버 방어 연합 출범...Microsoft·SpaceX 참여</b>
+<blockquote>Nvidia가 Microsoft, SpaceX 등과 함께 오픈소스 AI 사이버 보안 이니셔티브를 출범했다. 보안 우려에 대응하면서 사이버 방어를 민주화하겠다는 목표다. OpenAI 해킹 사건 이후 업계 협력이 가속화되고 있다.
+<a href="https://www.wsj.com/tech/ai/nvidia-other-tech-giants-launch-ai-defense-alliance-following-openai-hacking-incident-a6e71198">[WSJ]</a></blockquote>
+
+<b>14. Nvidia, Ilya Sutskever AI 연구소에 50억달러 투자...Vera Rubin 칩 공급</b>
+<blockquote>Nvidia가 OpenAI 공동창업자 Ilya Sutskever가 설립한 Safe Superintelligence에 50억달러를 투자하며 차세대 Vera Rubin 칩을 공급한다. AI 붐 속에서 고위급 고객 포트폴리오를 확대하려는 전략이다.
+<a href="https://www.ft.com/content/5c78dec1-b6d6-415e-9456-f1ab5eed6146">[FT]</a></blockquote>
+
+<b>15. Nvidia-SSI 파트너십 세부 공개...컴퓨팅 역량 급속 확장</b>
+<blockquote>Nvidia와 Safe Superintelligence의 파트너십 세부 사항이 공개됐다. SSI는 Vera Rubin 칩을 활용해 비밀 연구를 위한 컴퓨팅 역량을 빠르게 확대할 계획이다.
+<a href="https://www.wsj.com/tech/ai/nvidia-bets-on-ilya-sutskevers-new-ai-lab-to-expand-compute-reach-f95596e8">[WSJ]</a></blockquote>
+
+<b>16. 미 내구재 수주 6월 +0.3%...예상 하회</b>
+<blockquote>6월 미국 내구재 수주가 3,348억달러로 전월 대비 0.3% 증가했으나 시장 예상을 밑돌았다. 5월 수주는 4% 감소한 바 있다.
+<a href="https://www.wsj.com/economy/u-s-durable-goods-orders-rose-less-than-expected-in-june-d226a9f6">[WSJ]</a></blockquote>
+
+<b>17. 트럼프 행정부, 우편투표 제한 명령 대법원에 상고...중간선거 앞두고 논란</b>
+<blockquote>트럼프 행정부가 우편투표를 제한하고 유권자 명부를 작성하는 행정명령을 대법원에서 집행할 수 있도록 허가해달라고 요청했다. 11월 중간선거를 앞두고 23개 주에서 해당 명령이 중단된 상태다.
+<a href="https://www.wsj.com/politics/policy/trump-administration-urges-supreme-court-to-allow-new-restrictions-on-mail-ballots-27bbd65e">[WSJ]</a></blockquote>
+
+<b>18. KKR·블랙스톤, 쿠웨이트 석유 160억달러 리스 계약 체결</b>
+<blockquote>쿠웨이트 석유 부문을 관리하는 기업들이 Blackstone, Brookfield, KKR 주도 투자자 그룹과 160억달러 규모 리스 계약을 체결했다. 에너지 인프라 민간 투자 확대 흐름이 이어지고 있다.
+<a href="https://www.wsj.com/business/energy-oil/kkr-blackstone-sign-16-billion-kuwait-oil-deal-e864ed68">[WSJ]</a></blockquote>
+
+<b>19. LVMH 2분기 성장 회복...럭셔리 업종 반등 신호</b>
+<blockquote>LVMH가 2분기 매출 222억달러를 기록하며 주력 패션 부문이 성장세로 돌아섰다. 유럽 럭셔리 업종 회복 가능성을 시사하는 결과로 주목받고 있다.
+<a href="https://www.wsj.com/business/retail/louis-vuitton-owner-lvmhs-sales-accelerate-signaling-hope-for-luxury-recovery-23ba67e6">[WSJ]</a></blockquote>
+
+<b>20. 포르쉐, 5천명 추가 감원 단행...중국 판매 붕괴 직격탄</b>
+<blockquote>포르쉐가 중국 시장 판매 급감으로 5천명을 추가 감원한다고 발표했다. 독일 자동차 업계의 위기가 심화되고 있다는 경고다.
+<a href="https://www.wsj.com/business/autos/porsche-to-cut-a-further-5-000-jobs-5cef413f">[WSJ]</a></blockquote>
+
+<b>21. 아스트라제네카, 항암제 성장 지속...2030년 목표 순항</b>
+<blockquote>아스트라제네카 매출이 환율 조정 기준 5% 증가하며 항암제 부문 성장이 이끌었다. 회사는 2030년 목표 달성이 순조롭다고 밝혔다.
+<a href="https://www.wsj.com/business/earnings/astrazeneca-posts-sales-growth-on-oncology-strength-90403fe3">[WSJ]</a></blockquote>
+
+<b>22. 트럼프 "이스라엘, 미국 없이 생존 불가" 발언...Netanyahu 회담 앞두고</b>
+<blockquote>트럼프 대통령이 Benjamin Netanyahu 총리와의 회담을 앞두고 "이스라엘은 미국 없이 생존할 수 없다"고 발언했다. Netanyahu는 이란 전쟁 확대 필요성을 주장할 것으로 예상된다.
+<a href="https://www.ft.com/content/0a0684fe-2ba0-4909-82ca-0e5e70955ce3">[FT]</a></blockquote>
+
+<b>23. Lindsey Graham 상원의원 사망...이스라엘 입지 약화 우려</b>
+<blockquote>이스라엘의 오랜 지지자였던 Lindsey Graham 공화당 상원의원이 사망하면서 이스라엘의 미국 내 입지가 약화될 가능성이 제기됐다. 여론조사에서는 이스라엘에 대한 지지가 민주·공화 양당 모두에서 하락세를 보이고 있다.
+<a href="https://www.wsj.com/world/middle-east/lindsey-graham-death-israel-4f1449ec">[WSJ]</a></blockquote>
+
+<b>24. 브라질, 트럼프의 선거 개입 주장...대미 갈등 고조</b>
+<blockquote>브라질 룰라 대통령 행정부가 트럼프 정부와 남미 우파 동맹이 브라질 선거에 개입하려 한다고 주장하며 미국과의 갈등을 확대하고 있다.
+<a href="https://www.wsj.com/world/americas/brazil-sees-a-trump-led-effort-to-tilt-election-against-lula-4eae7f55">[WSJ]</a></blockquote>
+
+<b>25. 트럼프, 관세 장벽 재구축...새 단계 진입</b>
+<blockquote>FT는 트럼프 대통령이 자신의 상징인 관세 정책을 새로운 국면으로 끌어올리고 있다고 분석했다. 대외 무역 정책이 한층 강화되고 있다.
+<a href="https://www.ft.com/content/426d49ae-1d07-45f4-b784-e65756a4f5ac">[FT]</a></blockquote>
+
+<b>26. 독일 메르츠 총리, 교통장관 경질...내각 개편 논란</b>
+<blockquote>독일의 Friedrich Merz 총리가 교통장관을 경질하는 내각 개편을 단행했다. 그의 개편 방식이 당내 반발을 촉발하고 있다.
+<a href="https://www.ft.com/content/b302894c-ee9f-4081-96ff-735e5836d5d1">[FT]</a></blockquote>
 
 ━━━━━━━━━━━━━━━━━━━━
 📡 <b>출처: WSJ · FT · The Economist</b>
