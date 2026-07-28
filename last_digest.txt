@@ -4,109 +4,181 @@
 
 ✅ <b>간밤의 주요 헤드라인</b>
 
-<b>1. 브렌트유 6% 급락...미국·이란 공격 일시 중단에 공급 우려 완화</b>
-<blockquote>호르무즈 해협 봉쇄 위기가 주말간 완화되면서 브렌트유가 6% 넘게 하락했다. 2주간 지속된 미국과 이란의 군사 충돌이 잠정 중단되며 원유가격은 배럴당 100달러 아래로 내려왔다. 시장은 협상 재개 가능성에 무게를 두고 있다.
-<a href="https://www.ft.com/content/403625cc-8371-43ee-997a-f6908a97f52e">[FT]</a></blockquote>
+<b>1. 미국, 이란 '기습' 미사일 요격 성공...호르무즈 협상 난항 속 외교 해법 기대</b>
+<blockquote>미국이 수일간의 공습 중단 끝에 이란의 '기습' 미사일 공격을 요격했다. 이란은 오만의 호르무즈 해협 공동 관리 제안을 거부하고 더 큰 통제권을 요구했으나, 중재자들은 미-이란 평화협상 재개 가능성에 주목하고 있다.
+<a href="https://www.ft.com/content/509a6a94-8342-49c1-965f-66abff88b977">[FT]</a> <a href="https://www.wsj.com/world/middle-east/iran-rejects-omani-proposal-to-share-strait-of-hormuz-demands-more-control-20ec9e92">[WSJ]</a></blockquote>
 
-<b>2. 사우디, 후티 반군 석유시설 공격에 이란 배후 지목...중동 긴장 재점화 우려</b>
-<blockquote>사우디아라비아가 예멘 후티 반군의 석유시설 공격 배후로 이란을 공식 지목했다. 후티 측은 사우디 에너지 인프라를 타격했다고 주장하며, 지역 내 대리전 양상이 재점화될 조짐이다.
-<a href="https://www.wsj.com/world/middle-east/saudi-arabia-blames-iran-backed-militias-for-attack-on-oil-facilities-eb6cf40c">[WSJ]</a></blockquote>
+<b>2. Trump, 이란과의 시간 벌기 전략...원유 공급망 불확실성 지속</b>
+<blockquote>Trump 행정부가 이란과의 협상에서 시간을 벌려는 전략을 구사 중이다. 최근 협상은 헐거운 임시 합의를 도출할 가능성이 크며, 중동 긴장 완화 기대가 유가 하락을 견인했다.
+<a href="https://www.economist.com/middle-east-and-africa/2026/07/28/donald-trump-is-stalling-for-time-in-the-war-with-iran">[Economist]</a></blockquote>
 
-<b>3. 우크라이나, 카스피해 이란 무기고 타격...두 전쟁 수렴 신호</b>
-<blockquote>우크라이나가 카스피해 지역 이란 무기고를 장거리 드론으로 공습하며 러시아 지원 공급망을 차단했다. 이란이 러시아에 무기를 제공하는 경로가 드러나면서 유럽과 중동 분쟁이 연결되는 양상이 나타났다. 이란은 보복을 경고했다.
-<a href="https://www.wsj.com/world/two-wars-converge-in-the-caspian-sea-as-ukraine-hits-iranian-supply-line-to-russia-e036fb27">[WSJ]</a></blockquote>
+<b>3. 석유기업, 이란 전쟁 특수로 수십억 달러 수익...Trump 압박 피할 수 있을까</b>
+<blockquote>이란 전쟁으로 에너지 기업들이 막대한 수익을 올리고 있지만, Trump 행정부의 유가 인하 압박이 커지면서 업계는 난관에 직면했다. 중국은 중동 산유국과의 금융 연계를 활용해 봉쇄를 우회하는 원유 조달 경로를 확보하고 있다.
+<a href="https://www.wsj.com/business/energy-oil/big-oil-is-raking-in-billions-from-the-iran-war-can-it-avoid-trumps-fury-903c4bf5">[WSJ]</a> <a href="https://www.wsj.com/world/china/china-iran-us-war-6b523a89">[WSJ]</a></blockquote>
 
-<b>4. 미 국채 수요 회복, 금리 하락...FOMC 앞두고 안전자산 선호</b>
-<blockquote>중동 긴장 완화와 원유 가격 급락으로 국채 매수세가 되살아나며 수익률이 하락했다. 연준 회의를 앞둔 시점에서 인플레이션 압력 완화 기대가 채권시장을 지지하고 있다.
-<a href="https://www.wsj.com/finance/investing/jgb-futures-rise-amid-falling-crude-oil-prices-2f1d5195">[WSJ]</a></blockquote>
+<b>4. 일본 규모 큰 지진, 쇼핑몰 붕괴·공장 피해...20만 명 대피령</b>
+<blockquote>일본 구마모토현 남부에서 강력한 지진이 발생해 쇼핑몰이 붕괴되고 내부에 사람들이 갇혔다. 공장·건물·인프라가 피해를 입었으며 20만 명 이상에게 대피 명령이 내려졌다. 구조 작전이 진행 중이다.
+<a href="https://www.ft.com/content/568eb170-a4c1-445d-8edb-67fa51f7a134">[FT]</a> <a href="https://www.wsj.com/world/asia/japan-quake-causes-explosion-at-mall-traps-shoppers-7a1d5591">[WSJ]</a></blockquote>
 
-<b>5. 금 가격 소폭 상승 마감...2거래일 연속 오름세</b>
-<blockquote>Comex 금 선물이 0.17% 오른 온스당 4,074.50달러에 마감하며 이틀 연속 상승했다. 은 가격은 0.3% 하락했다. 중동 리스크 완화에도 연준 회의를 앞둔 불확실성이 금 수요를 떠받쳤다.
-<a href="https://www.wsj.com/finance/commodities-futures/gold-gains-as-u-s-iran-pause-fighting-over-weekend-15faf1b0">[WSJ]</a></blockquote>
+<b>5. 미국 국채 수익률 3일 연속 하락...외교 해법 기대에 안전자산 수요</b>
+<blockquote>미-이란 양측의 공습 자제로 외교 해법 기대가 커지면서 미 국채 수익률이 3일 연속 하락했다. 유가 하락과 맞물려 국채 수요가 지속되고 있다.
+<a href="https://www.wsj.com/finance/investing/jgbs-fall-on-worries-over-japans-fiscal-situation-e1d83f6e">[WSJ]</a></blockquote>
 
-<b>6. 중국 메모리칩 CXMT, 상장 첫날 466% 폭등...중국 시가총액 1위 등극</b>
-<blockquote>중국 메모리 반도체 업체 CXMT가 상하이 거래 첫날 466% 급등하며 중국 증시 시총 1위에 올랐다. Apple이 주요 고객사인 이 기업의 성공은 중국 반도체 굴기의 상징으로 평가된다.
-<a href="https://www.wsj.com/tech/cxmts-strong-debut-boosts-chinas-bid-to-conquer-memory-chips-21e0e9f4">[WSJ]</a></blockquote>
+<b>6. Fed 가이던스 무용론 부상...Kevin Warsh, 통화정책 예측 한계 지적</b>
+<blockquote>Kevin Warsh가 Fed의 선제적 가이던스 효용성에 의문을 제기했다. FOMC가 시장보다 미래 경제를 더 정확히 예측할 수 없다는 주장이다. 통화정책 개혁 논의가 재점화되고 있다.
+<a href="https://www.wsj.com/opinion/what-guidance-can-the-fed-really-offer-bc05b9bd">[WSJ]</a> <a href="https://www.ft.com/content/0adc5542-5fec-42a8-b136-8d3f8932233a">[FT]</a></blockquote>
 
-<b>7. 시진핑, 국가 주도 벤처캐피털로 변신...CXMT IPO 성공 배경</b>
-<blockquote>CXMT의 기록적 IPO 성공은 중국 정부의 막대한 자본 투입 덕분이다. 시진핑 주석이 사실상 벤처캐피털 역할을 수행하며 국가자본주의 모델을 입증했지만, 이 같은 성공이 반복될 수 있을지는 불투명하다.
-<a href="https://www.economist.com/china/2026/07/27/xi-jinping-pioneering-venture-capitalist">[Economist]</a></blockquote>
+<b>7. BIS "AI 붐이 통화정책 오판 위험 증가"...GDP·인플레 효과 평가 난항</b>
+<blockquote>국제결제은행(BIS) 이코노미스트들은 AI 기술이 GDP와 인플레이션에 미치는 영향의 강도와 시점을 평가하기 어렵다며, 중앙은행의 통화정책 판단 착오 위험이 커졌다고 경고했다.
+<a href="https://www.ft.com/content/c73bed01-2386-41a8-8db8-88069b558797">[FT]</a></blockquote>
 
-<b>8. CXMT IPO, 버블 신호 아닐 수도...저가 AI 컴퓨팅 수요 확대 전망</b>
-<blockquote>FT는 CXMT의 급등이 반드시 버블 신호는 아닐 수 있다고 분석했다. 저렴한 컴퓨팅 파워가 AI 수요를 더 확대할 경우, 중국 칩 업체들이 지속적으로 수혜를 입을 가능성이 있다는 평가다.
-<a href="https://www.ft.com/content/4a0eeaf8-90b6-4053-a53c-b285d56f4dfe">[FT]</a></blockquote>
+<b>8. 7월 소비자 신뢰지수 소폭 하락...Conference Board 90.8 기록</b>
+<blockquote>Conference Board가 발표한 7월 소비자 신뢰지수는 90.8로, 전월 수정치 92.2에서 하락했다. 이코노미스트 전망치 92.0을 밑돌았다.
+<a href="https://www.wsj.com/economy/central-banking/u-s-consumer-sentiment-edged-down-in-july-conference-board-says-51522281">[WSJ]</a></blockquote>
 
-<b>9. 중국 IPO 쇼크, 미국 칩주 압박...나스닥 하락 견인</b>
-<blockquote>CXMT의 폭발적 상장이 미국 반도체 기업들의 밸류에이션에 압력을 가하며 칩주가 일제히 하락했다. Nvidia가 Apple을 제치고 시총 1위를 내준 가운데, 나스닥은 0.2% 하락 마감했다.
-<a href="https://www.wsj.com/finance/stocks/chinese-ipo-rattles-chip-stocks-a563c5f6">[WSJ]</a></blockquote>
+<b>9. 반도체 대규모 셀오프 심화, 나스닥 100 조정 영역 진입...Apple만 $5조 돌파</b>
+<blockquote>AI·반도체 주식 매도세가 격화되며 나스닥 100이 조정 영역으로 진입했다. Apple은 과도한 AI 지출을 회피한 점이 호재로 작용해 시가총액 $5조를 처음으로 돌파했다. 칩 섹터는 급락이 지속되며 DRAM 가격 문제와 투자 지속 가능성 우려가 부각됐다.
+<a href="https://www.ft.com/content/024fb6a1-fb39-4b2d-be3e-2393ed62482a">[FT]</a> <a href="https://www.ft.com/content/f8c03b5b-e194-4236-82c3-389b6f5dd7ae">[FT]</a> <a href="https://www.wsj.com/finance/stocks/investors-rotate-out-of-chip-stocks-365d8bc6">[WSJ]</a> <a href="https://www.ft.com/content/d5b45659-ecd5-4bb5-93d0-56b99c798b9d">[FT]</a> <a href="https://www.wsj.com/finance/stocks/growth-is-off-the-menu-at-starbucks-ce78101f">[WSJ]</a></blockquote>
 
-<b>10. 나스닥 -0.2%, 다우 +0.5%...칩주 약세에 혼조 마감</b>
-<blockquote>미국 증시는 혼조세로 마감했다. 중동 긴장 완화로 다우는 0.5% 상승했지만, 중국 반도체 IPO 충격과 빅테크 실적 발표를 앞둔 경계감으로 나스닥은 0.2% 하락했다. 칩주 약세가 기술주 지수를 끌어내렸다.
-<a href="https://www.wsj.com/finance/stocks/global-stocks-markets-dow-news-07-27-2026-f8e6f1a5">[WSJ]</a></blockquote>
+<b>10. Dow 상승·칩주 폭락...섹터 로테이션 뚜렷</b>
+<blockquote>Dow 산업평균은 급등한 반면 칩 주식은 하락세를 이어갔다. 투자자들이 AI 대장주에서 올해 낙오된 다른 섹터로 자금을 이동하며 뚜렷한 섹터 로테이션이 나타났다. 유가 하락은 소비재 주식에 호재로 작용했다.
+<a href="https://www.wsj.com/finance/stocks/oil-extends-fall-on-hopes-of-hormuz-reopening-but-chip-selloff-deepens-331d84a1">[WSJ]</a> <a href="https://www.wsj.com/finance/stocks/u-s-stocks-mixed-as-chips-rout-continues-33f5256e">[WSJ]</a></blockquote>
 
-<b>11. 빅테크 신용 리스크 급등...AI 지출 급증에 차입 확대</b>
-<blockquote>빅테크 기업들이 AI 인프라에 막대한 투자를 쏟아붓고 차입을 늘리면서 신용 리스크가 급격히 높아졌다. 투자자들은 데이터센터 건설 자금 조달을 위한 대규모 차입에 우려를 표하고 있다.
-<a href="https://www.ft.com/content/ac136522-ecc7-4262-8702-e0d636ea3099">[FT]</a></blockquote>
+<b>11. 밸류주, 성장주 아웃퍼폼...AI 칩 조기 상승 기여</b>
+<blockquote>올해 Russell 1000 밸류지수가 성장지수를 앞질렀다. 초반 칩 주식 상승과 전통적 밸류 섹터의 회복이 주요 요인으로 꼽힌다.
+<a href="https://www.wsj.com/finance/stocks/value-outperforms-growth-this-year-powered-byai-stocks-04fe1f07">[WSJ]</a></blockquote>
 
-<b>12. OpenAI 해킹 사건, 사이버 보안 경고로 확산...Microsoft AI 책임자 경고</b>
-<blockquote>Microsoft AI 부문 책임자가 OpenAI 해킹 사건을 '경고의 신호탄'으로 규정하며 AI 방어 시스템 개발이 불가피하다고 밝혔다. 자동화된 AI 공격의 쇄도에 맞서 선택의 여지가 없다는 설명이다.
-<a href="https://www.ft.com/content/f7fc5555-7b2a-4134-960e-5de7f15a06e8">[FT]</a></blockquote>
+<b>12. NXP Semiconductors 2분기 실적 호조...전 지역·전 시장 성장</b>
+<blockquote>네덜란드 반도체 기업 NXP는 2분기 순이익 $7억6,700만을 기록했다. 소프트웨어 정의 차량(SDV)과 물리 AI 고객 수요가 강세를 보이며 전 지역·전 시장에서 성장세를 나타냈다.
+<a href="https://www.wsj.com/business/earnings/nxp-semiconductors-second-quarter-profit-revenue-climb-on-growth-across-end-markets-d2b6d87a">[WSJ]</a></blockquote>
 
-<b>13. Nvidia, 오픈소스 AI 사이버 방어 연합 출범...Microsoft·SpaceX 참여</b>
-<blockquote>Nvidia가 Microsoft, SpaceX 등과 함께 오픈소스 AI 사이버 보안 이니셔티브를 출범했다. 보안 우려에 대응하면서 사이버 방어를 민주화하겠다는 목표다. OpenAI 해킹 사건 이후 업계 협력이 가속화되고 있다.
-<a href="https://www.wsj.com/tech/ai/nvidia-other-tech-giants-launch-ai-defense-alliance-following-openai-hacking-incident-a6e71198">[WSJ]</a></blockquote>
+<b>13. Teradyne, 반도체 테스트 장비 수요 급증으로 이익 급등</b>
+<blockquote>Teradyne은 AI 붐으로 반도체 테스트 장비 수요가 증가하며 2분기 매출과 이익이 크게 늘었다고 발표했다.
+<a href="https://www.wsj.com/business/earnings/teradyne-profit-soars-on-semiconductor-testing-demand-c6b0e9f1">[WSJ]</a></blockquote>
 
-<b>14. Nvidia, Ilya Sutskever AI 연구소에 50억달러 투자...Vera Rubin 칩 공급</b>
-<blockquote>Nvidia가 OpenAI 공동창업자 Ilya Sutskever가 설립한 Safe Superintelligence에 50억달러를 투자하며 차세대 Vera Rubin 칩을 공급한다. AI 붐 속에서 고위급 고객 포트폴리오를 확대하려는 전략이다.
-<a href="https://www.ft.com/content/5c78dec1-b6d6-415e-9456-f1ab5eed6146">[FT]</a></blockquote>
+<b>14. Ford, 미국 자동차 가격 0.5% 상승 전망...실적 가이던스 상향</b>
+<blockquote>Ford는 미국 자동차 가격이 약 0.5% 오를 것으로 전망하며 연간 조정 주당순이익(EPS) 가이던스를 $100억~$110억으로 상향 조정했다.
+<a href="https://www.wsj.com/business/earnings/ford-motor-lifts-guidance-on-forecast-of-higher-u-s-automobile-pricing-715829e5">[WSJ]</a></blockquote>
 
-<b>15. Nvidia-SSI 파트너십 세부 공개...컴퓨팅 역량 급속 확장</b>
-<blockquote>Nvidia와 Safe Superintelligence의 파트너십 세부 사항이 공개됐다. SSI는 Vera Rubin 칩을 활용해 비밀 연구를 위한 컴퓨팅 역량을 빠르게 확대할 계획이다.
-<a href="https://www.wsj.com/tech/ai/nvidia-bets-on-ilya-sutskevers-new-ai-lab-to-expand-compute-reach-f95596e8">[WSJ]</a></blockquote>
+<b>15. Mondelez, 2분기 매출 증가로 전망 상향...라틴아메리카 강세</b>
+<blockquote>Oreo·Cadbury 소유주인 Mondelez는 라틴아메리카 시장 호조에 힘입어 2분기 매출이 증가했다. 유기적 순매출 성장률 전망을 최소 2%로 상향했으며 시간외 거래에서 주가가 올랐다.
+<a href="https://www.wsj.com/business/earnings/mondelez-international-lifts-outlook-on-higher-quarterly-sales-66989096">[WSJ]</a></blockquote>
 
-<b>16. 미 내구재 수주 6월 +0.3%...예상 하회</b>
-<blockquote>6월 미국 내구재 수주가 3,348억달러로 전월 대비 0.3% 증가했으나 시장 예상을 밑돌았다. 5월 수주는 4% 감소한 바 있다.
-<a href="https://www.wsj.com/economy/u-s-durable-goods-orders-rose-less-than-expected-in-june-d226a9f6">[WSJ]</a></blockquote>
+<b>16. Visa 3분기 순이익 $56억...소비·기업 지출 회복력 확인</b>
+<blockquote>Visa는 3분기 순이익 $56억3,000만을 기록하며 소비자와 기업 지출이 견조하다고 밝혔다. 매출도 증가세를 보였다.
+<a href="https://www.wsj.com/business/earnings/visa-third-quarter-revenue-climbs-citing-resilient-consumer-business-spending-e8b6c072">[WSJ]</a></blockquote>
 
-<b>17. 트럼프 행정부, 우편투표 제한 명령 대법원에 상고...중간선거 앞두고 논란</b>
-<blockquote>트럼프 행정부가 우편투표를 제한하고 유권자 명부를 작성하는 행정명령을 대법원에서 집행할 수 있도록 허가해달라고 요청했다. 11월 중간선거를 앞두고 23개 주에서 해당 명령이 중단된 상태다.
-<a href="https://www.wsj.com/politics/policy/trump-administration-urges-supreme-court-to-allow-new-restrictions-on-mail-ballots-27bbd65e">[WSJ]</a></blockquote>
+<b>17. Coca-Cola·Unilever, 월드컵 마케팅 효과로 매출 급증</b>
+<blockquote>Coca-Cola와 Unilever는 월드컵 마케팅 투자로 매출이 급증했다. Coca-Cola는 경기 중 '수분 보충 타임'에 Powerade를 홍보하는 등 공격적 전략을 펼쳤다.
+<a href="https://www.ft.com/content/6cb23b3e-42bb-488b-bdf9-ecd1eee5495b">[FT]</a></blockquote>
 
-<b>18. KKR·블랙스톤, 쿠웨이트 석유 160억달러 리스 계약 체결</b>
-<blockquote>쿠웨이트 석유 부문을 관리하는 기업들이 Blackstone, Brookfield, KKR 주도 투자자 그룹과 160억달러 규모 리스 계약을 체결했다. 에너지 인프라 민간 투자 확대 흐름이 이어지고 있다.
-<a href="https://www.wsj.com/business/energy-oil/kkr-blackstone-sign-16-billion-kuwait-oil-deal-e864ed68">[WSJ]</a></blockquote>
+<b>18. EssilorLuxottica, 스마트글라스 붐에도 성장 둔화...2분기 유기적 성장 8.7%</b>
+<blockquote>Ray-Ban·Oakley 제조사인 EssilorLuxottica는 6월까지 3개월간 유기적 매출 성장률 8.7%를 기록했다. 1분기 11% 성장에 비해 다소 둔화됐다.
+<a href="https://www.wsj.com/business/retail/ray-ban-maker-essilorluxotticas-sales-growth-slows-despite-smartglasses-boom-44f215f8">[WSJ]</a></blockquote>
 
-<b>19. LVMH 2분기 성장 회복...럭셔리 업종 반등 신호</b>
-<blockquote>LVMH가 2분기 매출 222억달러를 기록하며 주력 패션 부문이 성장세로 돌아섰다. 유럽 럭셔리 업종 회복 가능성을 시사하는 결과로 주목받고 있다.
-<a href="https://www.wsj.com/business/retail/louis-vuitton-owner-lvmhs-sales-accelerate-signaling-hope-for-luxury-recovery-23ba67e6">[WSJ]</a></blockquote>
+<b>19. 프랑스 해운사, 관세 회피 선적 붐으로 호황...수요 지속 전망</b>
+<blockquote>프랑스 컨테이너 해운사가 Trump 관세를 회피하려는 고객들의 사재기 수요로 실적이 개선됐다. 회사는 이 같은 수요 증가세가 지속될 것으로 예상했다.
+<a href="https://www.ft.com/content/8be7a9f5-a440-4f3a-9b0f-1a1358242c35">[FT]</a></blockquote>
 
-<b>20. 포르쉐, 5천명 추가 감원 단행...중국 판매 붕괴 직격탄</b>
-<blockquote>포르쉐가 중국 시장 판매 급감으로 5천명을 추가 감원한다고 발표했다. 독일 자동차 업계의 위기가 심화되고 있다는 경고다.
-<a href="https://www.wsj.com/business/autos/porsche-to-cut-a-further-5-000-jobs-5cef413f">[WSJ]</a></blockquote>
+<b>20. Visa, 2,600명 감원...결제산업 변화에 적응</b>
+<blockquote>Visa가 기술·제품팀을 중심으로 전체 인력의 약 7%인 2,600명을 감원한다. 결제산업 환경 변화에 대응하기 위한 구조조정이다.
+<a href="https://www.wsj.com/tech/visa-slashing-2-600-jobs-as-it-adapts-to-changing-payments-industry-d99180dd">[WSJ]</a></blockquote>
 
-<b>21. 아스트라제네카, 항암제 성장 지속...2030년 목표 순항</b>
-<blockquote>아스트라제네카 매출이 환율 조정 기준 5% 증가하며 항암제 부문 성장이 이끌었다. 회사는 2030년 목표 달성이 순조롭다고 밝혔다.
-<a href="https://www.wsj.com/business/earnings/astrazeneca-posts-sales-growth-on-oncology-strength-90403fe3">[WSJ]</a></blockquote>
+<b>21. Boeing, 대통령 전용기 개조 비용 부담...상업기 회복세는 지속</b>
+<blockquote>Boeing 실적이 Air Force One 개조 비용 부담으로 악화됐다. 다만 상업용 항공기 사업의 개선세는 계속됐다.
+<a href="https://www.ft.com/content/e8a4b77a-f420-409a-938f-17521c5ba7bf">[FT]</a></blockquote>
 
-<b>22. 트럼프 "이스라엘, 미국 없이 생존 불가" 발언...Netanyahu 회담 앞두고</b>
-<blockquote>트럼프 대통령이 Benjamin Netanyahu 총리와의 회담을 앞두고 "이스라엘은 미국 없이 생존할 수 없다"고 발언했다. Netanyahu는 이란 전쟁 확대 필요성을 주장할 것으로 예상된다.
-<a href="https://www.ft.com/content/0a0684fe-2ba0-4909-82ca-0e5e70955ce3">[FT]</a></blockquote>
+<b>22. Apple-Klarna, 제품 리스 프로그램 출시...월 납부 방식 제공</b>
+<blockquote>Apple이 Klarna와 제휴해 Apple Upgrade 프로그램을 출시했다. 고객이 월 납부 방식으로 신제품을 사용한 뒤 반환·업그레이드·구매할 수 있다.
+<a href="https://www.wsj.com/tech/apple-product-leasing-program-klarna-2e63689d">[WSJ]</a></blockquote>
 
-<b>23. Lindsey Graham 상원의원 사망...이스라엘 입지 약화 우려</b>
-<blockquote>이스라엘의 오랜 지지자였던 Lindsey Graham 공화당 상원의원이 사망하면서 이스라엘의 미국 내 입지가 약화될 가능성이 제기됐다. 여론조사에서는 이스라엘에 대한 지지가 민주·공화 양당 모두에서 하락세를 보이고 있다.
-<a href="https://www.wsj.com/world/middle-east/lindsey-graham-death-israel-4f1449ec">[WSJ]</a></blockquote>
+<b>23. Bloom Energy, 연료전지 수요 증가로 실적·전망 상향</b>
+<blockquote>연료전지 기술 업체 Bloom Energy가 순이익 $1억9,630만을 기록하며 2026회계연도 매출 및 조정 EPS 가이던스를 상향 조정했다.
+<a href="https://www.wsj.com/business/earnings/bloom-energy-raises-outlook-as-profit-sales-climb-983b8cd0">[WSJ]</a></blockquote>
 
-<b>24. 브라질, 트럼프의 선거 개입 주장...대미 갈등 고조</b>
-<blockquote>브라질 룰라 대통령 행정부가 트럼프 정부와 남미 우파 동맹이 브라질 선거에 개입하려 한다고 주장하며 미국과의 갈등을 확대하고 있다.
-<a href="https://www.wsj.com/world/americas/brazil-sees-a-trump-led-effort-to-tilt-election-against-lula-4eae7f55">[WSJ]</a></blockquote>
+<b>24. Trump, Medicare 약품 보조금 프로그램 2026년 종료...일부 고령층 비용 증가</b>
+<blockquote>Trump 행정부가 Medicare 약품 보험료를 낮춰주던 보조금 프로그램을 2027년부터 갱신하지 않기로 했다. 일부 고령층의 약품 비용이 증가할 전망이다.
+<a href="https://www.wsj.com/health/healthcare/trump-administration-to-end-medicare-drug-plan-subsidy-76d255d1">[WSJ]</a></blockquote>
 
-<b>25. 트럼프, 관세 장벽 재구축...새 단계 진입</b>
-<blockquote>FT는 트럼프 대통령이 자신의 상징인 관세 정책을 새로운 국면으로 끌어올리고 있다고 분석했다. 대외 무역 정책이 한층 강화되고 있다.
-<a href="https://www.ft.com/content/426d49ae-1d07-45f4-b784-e65756a4f5ac">[FT]</a></blockquote>
+<b>25. Trump 행정부, 우주기업 환경 심사 면제 추진...발사 지연 해소 목표</b>
+<blockquote>운수부(DOT)가 우주기업의 로켓 발사·재진입 시 야생동물과 서식지에 대한 환경 영향 심사를 면제하려는 조치를 추진 중이다. 업계는 심사가 너무 오래 걸린다고 불만을 제기해왔다.
+<a href="https://www.wsj.com/business/airlines/trump-administration-moves-to-spare-space-companies-from-environmental-reviews-95c13437">[WSJ]</a></blockquote>
 
-<b>26. 독일 메르츠 총리, 교통장관 경질...내각 개편 논란</b>
-<blockquote>독일의 Friedrich Merz 총리가 교통장관을 경질하는 내각 개편을 단행했다. 그의 개편 방식이 당내 반발을 촉발하고 있다.
-<a href="https://www.ft.com/content/b302894c-ee9f-4081-96ff-735e5836d5d1">[FT]</a></blockquote>
+<b>26. Trump-Zelenskyy 회담 긍정적 평가...백악관, 우크라이나 지원 전환 시사</b>
+<blockquote>Zelenskyy 우크라이나 대통령이 백악관 회담이 긍정적이었다고 평가했다. 키이우는 회담이 대러시아 전선에서 새로운 미국 지원으로 이어지길 기대하고 있다.
+<a href="https://www.ft.com/content/5dca4c81-be8a-4555-971f-181eebf53e62">[FT]</a></blockquote>
+
+<b>27. Trump, 상원 필리버스터 폐지 압박...John Thune 딜레마 심화</b>
+<blockquote>Trump 대통령이 상원의 60표 규칙인 필리버스터를 폐지하라고 공화당을 압박하고 있다. John Thune 상원 다수당 대표는 재정법안 처리와 필리버스터 사이에서 어려운 선택을 강요받고 있다.
+<a href="https://www.wsj.com/podcasts/opinion-potomac-watch/donald-trump-pushes-to-end-the-filibuster-as-sen-john-fetterman-defends-it/89F713B0-0E83-4204-AF90-94F3C7FFAAF6">[WSJ]</a> <a href="https://www.wsj.com/politics/the-save-america-act-the-filibuster-and-thunes-huge-dilemma-c32dd26e">[WSJ]</a></blockquote>
+
+<b>28. CATL, 전기차에서 그리드·선박 배터리로 전략 전환...저장 시스템 시장 1위 목표</b>
+<blockquote>세계 최대 전기차 배터리 제조사인 중국 CATL이 AI·그리드·선박용 배터리 에너지 저장 시스템(BESS) 시장 선두로 도약하겠다는 전략을 밝혔다.
+<a href="https://www.ft.com/content/13351971-76dd-4284-a81e-3ffd8ec4e351">[FT]</a></blockquote>
+
+<b>29. 중국 AI 자립 목표 vs 시장 현실...정부 방침과 괴리</b>
+<blockquote>중국 정부가 AI 자립을 강조하지만 시장 현실은 다른 방향을 보이고 있다. 해외 기술 의존도가 여전히 높으며, 국산 AI 생태계 구축에 난항이 예상된다.
+<a href="https://www.wsj.com/world/china/china-wants-ai-independence-its-market-says-otherwise-0339aa8a">[WSJ]</a></blockquote>
+
+<b>30. 중국의 전기화 금속 장악, 글로벌 인플레이션 리스크...공급망 우려</b>
+<blockquote>중국의 전기화 관련 금속 공급망 지배력이 녹색 전환과 글로벌 인플레이션에 중대한 위협이 된다는 분석이 나왔다. 베이징의 공급망 우위가 장기 리스크로 작용할 전망이다.
+<a href="https://www.ft.com/content/bf03d7a8-bfe7-41b6-ba43-74364de8d96f">[FT]</a></blockquote>
+
+<b>31. 영국 노동당 Burnham, 경제성장 우선순위 후퇴 인정...민간과 파트너십 강조</b>
+<blockquote>영국 비즈니스 장관 Jonathan Reynolds가 Starmer 정부가 '너무 많은 우선순위' 때문에 경제성장 초점을 낮췄다고 인정했다. 민간 부문과의 파트너십을 강조했다.
+<a href="https://www.ft.com/content/47e4eb75-c995-40d7-85b1-2f05ff57cee0">[FT]</a></blockquote>
+
+<b>32. 폴란드 야당 분열, Donald Tusk에 선거 호재...Morawiecki 탈당 준비</b>
+<blockquote>폴란드 우파 야당 PiS에서 수십 명 의원이 제명되며 전 총리 Mateusz Morawiecki가 신당 창당을 준비 중이다. 야권 분열은 Donald Tusk 총리에게 선거 전 호재가 됐다.
+<a href="https://www.ft.com/content/cc27661a-9a6f-4e55-bfa3-64afd7107655">[FT]</a></blockquote>
+
+<b>33. 페루, 독재자 딸 Keiko Fujimori 집권...라틴아메리카 우파 확대</b>
+<blockquote>전 독재자 딸 Keiko Fujimori가 페루 대통령에 취임하며 라틴아메리카에서 우파 지도자가 늘어났다.
+<a href="https://www.ft.com/content/e18fbfc5-bc81-4758-9a82-cc3d53a590e1">[FT]</a></blockquote>
+
+<b>34. 프랑스 산불 피해 심각, 관광객 대피·신규 폭염 경보</b>
+<blockquote>프랑스가 대규모 산불로 수십만 명이 대피한 가운데 관광객 소개와 함께 신규 폭염에 대비하고 있다. 소방당국은 진화 작업에 진전을 보고 있다.
+<a href="https://www.ft.com/content/b0dfd771-a6d6-476e-a435-7a5aedf2f820">[FT]</a></blockquote>
+
+<b>35. 영국 녹색당·Reform당, Burnham 효과에 타격...노동당 회복세</b>
+<blockquote>노동당의 회복세가 Zack Polanski의 녹색당과 Reform당을 희생시키며 나타났다. 여론조사에서 양당 지지율이 하락했다.
+<a href="https://www.ft.com/content/a4222e62-b649-4ad6-8ebf-6ea1f7d2f7ad">[FT]</a></blockquote>
+
+<b>36. 영국 VAT 개혁 논의, 저소득층 면제 제안...세수 증대 기대</b>
+<blockquote>영국에서 면세 품목을 줄이되 저소득 가구를 제외하는 VAT 개혁안이 제시됐다. 더 공정하고 세수도 크게 늘릴 수 있다는 주장이다.
+<a href="https://www.ft.com/content/3c62f28e-d7bc-409e-af17-61002472f3f7">[FT]</a></blockquote>
+
+<b>37. 영국 인프라 독립 감독기구 필요...투자자 신뢰 확보 목표</b>
+<blockquote>영국에서 인프라 프로젝트가 비용 대비 가치가 있다는 점을 투자자에게 확신시킬 수 있는 독립 전문가 기구가 필요하다는 주장이 나왔다.
+<a href="https://www.ft.com/content/fe0981ed-dcb2-4799-ab87-4d487c0754e6">[FT]</a></blockquote>
+
+<b>38. 영구선물 위험성 부각...암호화폐→주류 금융 확산 우려</b>
+<blockquote>암호화폐 시장에서 인기를 끈 영구선물이 주류 금융으로 확산되고 있다. 일반 투자자들은 이 독특한 상품의 위험성에 주의해야 한다는 경고가 나왔다.
+<a href="https://www.economist.com/finance-and-economics/2026/07/28/retail-investors-should-beware-perpetual-futures">[Economist]</a></blockquote>
+
+<b>39. 에너지 시장, 수급 불균형 지속...가격 악순환 우려</b>
+<blockquote>에너지 시장이 나쁜 균형 상태에 갇혀 있다. 수요와 공급이 불균형을 지속하면서 가격이 악순환에 빠질 위험이 제기됐다.
+<a href="https://www.ft.com/content/c1b2cd1a-d5b5-4bf6-ba51-264c2401d75e">[FT]</a></blockquote>
+
+<b>40. Shein, FTC 조사 공개...미국 사업 관련 내용 미상</b>
+<blockquote>중국 창업 패스트패션 업체 Shein이 미국 연방거래위원회(FTC)의 조사를 받고 있다고 공개했다. 조사 내용과 개시 시점은 밝히지 않았다.
+<a href="https://www.wsj.com/business/shein-discloses-ftc-investigation-into-fast-fashion-retailers-u-s-operations-fae794a5">[WSJ]</a></blockquote>
+
+<b>41. FIFA, 상업 사업체 지분 매각 추진...$200억 규모 투자 유치</b>
+<blockquote>FIFA가 월드컵 성공을 활용해 $200억 규모의 새 상업 사업체에 외부 투자자 지분 매각을 검토 중이다. Joshua Kushner가 투자그룹을 주도할 것으로 알려졌다. 영국 총리를 포함해 거센 비판이 일고 있다.
+<a href="https://www.wsj.com/sports/soccer/fifa-exploring-stake-sale-in-new-20-billion-entity-ba135528">[WSJ]</a> <a href="https://www.ft.com/content/819cc297-4e1e-493b-91b3-e6b12519214b">[FT]</a> <a href="https://www.ft.com/content/ca8893d3-41c2-474f-b140-85072149a5e5">[FT]</a></blockquote>
+
+<b>42. Kering 매출 성장 복귀...Gucci 둔화 완화, 보석·안경 호조</b>
+<blockquote>Kering의 매출이 성장세로 전환했다. Gucci 브랜드 둔화가 완화됐고 패션·보석·안경 수요가 강세를 보였다.
+<a href="https://www.ft.com/content/afdf9b5d-48bf-4792-85f0-cbde9a8c9031">[FT]</a></blockquote>
+
+<b>43. Mike Ashley Frasers Group, Burberry 4% 지분 확보...럭셔리 진출 가속</b>
+<blockquote>Sports Direct 소유주인 Mike Ashley의 Frasers Group이 Burberry 지분 4%를 취득했다고 공개했다. 럭셔리 시장 진출을 본격화하고 있다.
+<a href="https://www.ft.com/content/93e23b1c-78c6-42ee-aa15-9865c4980369">[FT]</a></blockquote>
+
+<b>44. GSK, 역사적 Stevenage 부지 폐쇄·Cambridge 이전...파이프라인 강화 목표</b>
+<blockquote>영국 제약사 GSK가 역사적인 Stevenage 연구소를 폐쇄하고 Cambridge로 이전한다. 대학 도시 입지가 신약 파이프라인을 강화할 것으로 기대했다.
+<a href="https://www.ft.com/content/ab2f5d46-3390-4856-967c-060f2b93ab27">[FT]</a></blockquote>
 
 ━━━━━━━━━━━━━━━━━━━━
 📡 <b>출처: WSJ · FT · The Economist</b>
