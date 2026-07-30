@@ -4,153 +4,141 @@
 
 ✅ <b>간밤의 주요 헤드라인</b>
 
-<b>1. 이란, 요르단 미군 기지에 미사일 공격...미국 대규모 보복 작전 2주 계획 준비</b>
-<blockquote>미군 중부사령부가 이란 내 목표물에 대한 2주간의 단계적 공습 확대 계획을 마련했다. 이란의 요르단 미군 기지 미사일 공격으로 Trump 대통령이 주요 전투 작전 재개 여부를 결정할 시점이 다가왔다.
-<a href="https://www.wsj.com/politics/policy/the-u-s-commander-with-a-two-week-plan-to-escalate-strikes-in-iran-0ce32cb2">[WSJ]</a></blockquote>
+<b>1. 사우디, 14개국 해양방어 연합 출범...홍해 항로 보호 나서</b>
+<blockquote>사우디아라비아가 파키스탄·터키·이집트·수단 등 14개국과 해양방어 연합을 구성했다. 후티 반군의 홍해 공격으로 위협받는 해운 및 에너지 공급망 보호가 목적이다. 중동 긴장 고조로 에너지 가격 변동성이 확대되는 가운데 역내 해상 안보 강화 움직임이 본격화됐다.
+<a href="https://www.ft.com/content/926bad8a-55e0-4d1d-8612-7ebd0aaef4ee">[FT]</a></blockquote>
 
-<b>2. Trump, 이란에 "매우 강력한" 보복 타격 예고...전쟁 확전 국면 전환</b>
-<blockquote>Trump 대통령은 이란의 기습 공격에 대해 "매우 강력한" 새로운 공습으로 보복하겠다고 밝혔다. 이란이 전쟁에 더 적극적으로 나서는 전략 전환 신호로 해석된다.
-<a href="https://www.wsj.com/world/middle-east/trump-vows-to-retaliate-against-iran-with-very-hard-round-of-fresh-strikes-2f45f993">[WSJ]</a></blockquote>
+<b>2. 사우디-후티 대치 장기화...홍해 위협 속 왕국 양보 압박</b>
+<blockquote>예멘 후티 반군이 홍해 해운을 위협하며 사우디로부터 양보를 얻어내려는 위험한 대치가 계속되고 있다. 후티는 해상 봉쇄를 지렛대로 사우디에 정치적 압력을 가하고 있으며, 역내 에너지 공급망 불안이 심화되고 있다.
+<a href="https://www.economist.com/middle-east-and-africa/2026/07/30/saudi-arabia-is-locked-in-a-dangerous-stand-off-with-the-houthis">[Economist]</a></blockquote>
 
-<b>3. 이란의 도박...요르단 미군 기지 기습 공격으로 중동 전쟁 확대 선택</b>
-<blockquote>이란의 이번 공격은 테헤란이 전쟁 확대를 감수하겠다는 전략 변화를 보여준다. Trump 대통령은 미국이 이란을 강력히 타격할 것이라고 언급했다.
-<a href="https://www.wsj.com/world/middle-east/iran-gambles-on-escalation-with-surprise-attack-on-u-s-forces-72cfd422">[WSJ]</a></blockquote>
+<b>3. 사우디 Q2 경제 -4.8% 수축...중동 분쟁 타격 선명</b>
+<blockquote>사우디아라비아 2분기 GDP가 전년 동기 대비 4.8% 감소하며 역성장을 기록했다. 중동 분쟁 장기화와 유가 변동성 확대가 왕국 경제에 직접 타격을 입혔다. 에너지 수출 의존도가 높은 사우디 경제의 취약성이 다시 드러났다.
+<a href="https://www.ft.com/content/6620ab3c-c46a-4d96-aede-0fce80a2b588">[FT]</a></blockquote>
 
-<b>4. 사우디, 이라크 내 이란 지원 민병대 공습 동참...중동 연합전선 형성</b>
-<blockquote>사우디아라비아가 이라크 내 이란 지원 민병대에 대한 미국 공습에 합류했다. 이란은 요르단 주둔 미군에 탄도미사일을 발사하며 수일간의 직접 공습 중단을 끝냈다.
-<a href="https://www.ft.com/content/509a6a94-8342-49c1-965f-66abff88b977">[FT]</a></blockquote>
+<b>4. 유가 변동성 고공행진...호르무즈 봉쇄 시 세 자릿수 복귀 가능</b>
+<blockquote>걸프 지역 긴장 고조로 유가 변동성이 극도로 높아졌다. Economist는 호르무즈 해협 봉쇄 시 유가가 배럴당 $100 이상으로 급등할 수 있다고 경고했다. 중동 전쟁 확전 가능성이 에너지 시장의 최대 리스크로 떠올랐다.
+<a href="https://www.economist.com/finance-and-economics/2026/07/30/oil-prices-remain-highly-flammable">[Economist]</a></blockquote>
 
-<b>5. 미 국방부, Patriot 미사일 장기 계약 590억 달러로 확대...이란 전쟁 방어 수요 급증</b>
-<blockquote>미 육군이 Lockheed Martin과의 Patriot 미사일 계약 규모를 590억 달러로 늘렸다. 이란 전쟁에서 집중 사용된 방어 무기에 대한 수요가 반영됐으며 최종 비용은 의회 예산 배정에 따라 결정된다.
+<b>5. 유가 선물 전일 상승분 반납...이란 보복 후 조정</b>
+<blockquote>유가 선물이 전날 상승분 일부를 되돌렸다. 미국이 요르단 기지 공격에 대한 이란 보복에 나선 뒤 시장이 예상대로 반응하며 차익 실현 매물이 나왔다. 중동 리스크 프리미엄은 여전히 높은 수준을 유지하고 있다.
+<a href="https://www.wsj.com/finance/commodities-futures/oil-futures-edge-lower-on-possible-technical-correction-1d26c6b6">[WSJ]</a></blockquote>
+
+<b>6. 미 국방부, 패트리어트·잠수함 계약 $120B 이상 확대</b>
+<blockquote>미 국방부가 Lockheed Martin과의 계약을 수정해 패트리어트 미사일 및 잠수함 생산을 대폭 확대했다. 계약 규모는 $120억을 넘으며 최종 금액은 의회 예산 배정에 따라 달라진다. 중동·아시아 긴장 고조 속 미국의 방산 지출 확대가 가속화되고 있다.
 <a href="https://www.wsj.com/politics/national-security/pentagon-widens-patriot-missile-order-to-nearly-59-billion-b3da2e01">[WSJ]</a></blockquote>
 
-<b>6. 유가 7% 급등...중동 전투 재개로 주요 원유 운송로 위협</b>
-<blockquote>Brent유와 WTI 선물이 7% 이상 급등했다. 새로운 전투로 세계 주요 원유 운송로 두 곳의 흐름이 차단되면서 3거래일 연속 하락세를 반전시켰다.
-<a href="https://www.wsj.com/economy/oil-surges-as-fresh-middle-east-strikes-threaten-fragile-diplomacy-7fd2d4e8">[WSJ]</a></blockquote>
+<b>7. 미국 Q2 GDP 1.5% 성장...시장 예상 하회</b>
+<blockquote>미국 2분기 GDP가 연율 1.5% 증가에 그치며 이코노미스트 전망치를 밑돌았다. AI 인프라 투자 붐에도 불구하고 전반적인 경제 성장세가 둔화된 것으로 나타났다. 소비 둔화와 수출 부진이 성장을 제약한 것으로 분석된다.
+<a href="https://www.wsj.com/economy/u-s-economic-growth-slowed-to-1-5-in-second-quarter-003c464f">[WSJ]</a></blockquote>
 
-<b>7. 미국 천연가스 선물 상승 반전...8월물 만기 앞두고 4거래일 하락 마감</b>
-<blockquote>미국 천연가스 선물이 4거래일 연속 하락세를 끊고 상승 마감했다. 8월 계약 만기를 앞두고 거래가 집중됐다.
-<a href="https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-steady-in-early-trading-cd9beba0">[WSJ]</a></blockquote>
+<b>8. 미국 실업수당 청구 19만7천 건...5주 만에 반등</b>
+<blockquote>7월 25일까지 1주간 미국 신규 실업수당 청구 건수가 19만7천 건으로 전주 대비 9천 건 증가했다. 5주 연속 감소세를 끝내고 반등하며 고용시장에 미세한 균열 조짐이 나타났다. 노동부는 전주 수치를 18만8천 건으로 상향 수정했다.
+<a href="https://www.wsj.com/economy/jobs/u-s-jobless-claims-rebound-after-streak-of-declines-681f14f7">[WSJ]</a></blockquote>
 
-<b>8. 미국 원유재고, "위험할 정도로 낮은" 수준 추락...아시아·유럽 공급 차질 우려</b>
-<blockquote>미국 상업용 원유 재고가 위험 수준으로 떨어졌다. 이란 전쟁으로 중동 공급에 의존하는 아시아·유럽 시장에 공급할 여력이 축소될 수 있다는 우려가 나온다.
-<a href="https://www.ft.com/content/86f37415-cc80-4ea6-bc03-87c96cb831f4">[FT]</a></blockquote>
+<b>9. Warsh Fed 커뮤니케이션 축소 전략 역효과...시장 혼란 자초</b>
+<blockquote>Kevin Warsh 연준 의장의 가이던스 축소 전략이 역효과를 내고 있다는 비판이 제기됐다. 투자자들은 금리 경로에 대한 명확한 신호 없이는 연준의 국채시장 영향력이 약화된다고 경고했다. FT는 Warsh의 간결한 커뮤니케이션 스타일이 오히려 불확실성을 키우고 있다고 분석했다.
+<a href="https://www.ft.com/content/57aac838-baee-406d-b4ac-c0ffda351aee">[FT]</a></blockquote>
 
-<b>9. 연준, 9-3 표결로 금리 동결...3명은 인상 요구하며 인플레이션 압박 가중</b>
-<blockquote>연방준비제도가 9-3 표결로 금리를 동결했다. 3명의 위원이 인상을 요구하며 Kevin Warsh 의장 취임 두 달 만에 중앙은행 내부 압력이 높아지고 있음을 드러냈다.
-<a href="https://www.wsj.com/economy/central-banking/fed-holds-rates-steady-but-three-officials-voted-for-increase-3a6903e0">[WSJ]</a></blockquote>
+<b>10. 7월 PCE 인플레이션 반등 전망...에너지 가격 상승 영향</b>
+<blockquote>6월 하락했던 미국 개인소비지출(PCE) 인플레이션이 7월 다시 상승할 것으로 예상된다. FT는 이달 에너지 가격 상승이 인플레이션 지표를 끌어올릴 것이라고 전망했다. 중동 전쟁 장기화에 따른 에너지 가격 압력이 인플레이션 경로에 변수로 작용하고 있다.
+<a href="https://www.ft.com/content/fd75ca61-c9db-41c8-97d3-80069c25beb6">[FT]</a></blockquote>
 
-<b>10. 미국 차입비용 19년 만에 최고...연준 금리 동결에도 인플레이션 공포 확산</b>
-<blockquote>연준이 금리를 동결했지만 투자자들은 Trump의 이란 전쟁이 물가 상승을 재점화할 것을 우려하고 있다. 미국 차입비용이 2007년 이후 최고 수준에 도달했다.
-<a href="https://www.ft.com/content/c4eedbe8-6345-48b6-8d44-5cc5b0bea2c7">[FT]</a></blockquote>
+<b>11. 모기지 금리 6.66%...1년 만에 최고치 경신</b>
+<blockquote>미국 30년 만기 모기지 금리가 4주 연속 상승해 6.66%를 기록하며 1년 만에 최고 수준에 도달했다. 주택시장 회복 기대는 다시 한번 무산됐으며, 높은 차입 비용이 주택 거래를 억누르고 있다.
+<a href="https://www.wsj.com/economy/housing/mortgage-rates-jump-to-a-one-year-high-9ea35b8a">[WSJ]</a></blockquote>
 
-<b>11. 연준 표결 결과 발표...미국 국채 수익률 2007년 이후 최고치 기록</b>
-<blockquote>연방준비제도 7월 회의에서 금리를 동결했다. 위원회는 "물가 안정을 달성하겠다"고 재확인했지만 Kevin Warsh 의장은 구체적 방안에 대해서는 거의 설명하지 않았다. 30년물 국채 수익률이 급등했다.
-<a href="https://www.ft.com/content/836720ef-d768-4eda-abe1-cfb432727161">[FT]</a></blockquote>
+<b>12. 영란은행, 기준금리 3.75% 동결...에너지 위협 시 인상 시사</b>
+<blockquote>영란은행이 기준금리를 3.75%로 동결했다. 통화정책위원회는 6대 3으로 금리 동결을 결정했으나, 호르무즈 해협이 폐쇄될 경우 에너지 가격 급등에 대응해 금리 인상에 나설 준비가 돼 있다고 밝혔다. 핵심 인플레이션 압력이 완화되고 있다는 자신감도 표명했다.
+<a href="https://www.ft.com/content/44589e41-8880-4c6b-89c5-a02d34cf46ab">[FT]</a></blockquote>
 
-<b>12. 연준 금리 동결 라이브...30년물 국채 수익률 2007년 이후 최고, 이란 전쟁 인플레이션 쇼크 우려</b>
-<blockquote>연방준비제도가 금리를 동결했지만 30년물 국채 수익률이 급등했다. 투자자들은 정책당국이 이란 전쟁에 따른 인플레이션 충격을 통제하지 못할 것을 우려하고 있다.
-<a href="https://www.ft.com/content/0f9a8575-12ad-4c17-9ee0-50cdab5b8961">[FT]</a></blockquote>
+<b>13. 유로존 경제, 전쟁 불확실성 속에도 미국 추월</b>
+<blockquote>유로존 경제가 이란 전쟁에 따른 불확실성에도 불구하고 예상보다 회복력을 보이며 미국 경제를 앞질렀다. 공급망 차질과 높은 에너지 가격 우려에도 역내 경제 지표가 견조한 흐름을 유지하고 있다.
+<a href="https://www.wsj.com/economy/french-economy-rebounded-in-second-quarter-despite-war-uncertainty-f2221427">[WSJ]</a></blockquote>
 
-<b>13. Warsh 금리 발언이 시장 인플레이션 공포 촉발...다우 2% 이상 급락</b>
-<blockquote>다우지수가 2% 이상 하락했다. 연준 의장 Kevin Warsh가 채권 수익률 상승이 이미 차입비용을 끌어올렸다고 언급하면서 시장 불안이 확산됐다.
-<a href="https://www.wsj.com/finance/stocks/warshs-posture-on-interest-rates-sparks-market-inflation-fears-60b9933c">[WSJ]</a></blockquote>
+<b>14. 엔화 3% 급등...일본 당국 개입 추측 확산</b>
+<blockquote>일본 엔화가 하루 동안 3% 급등하며 최근 수년 중 가장 큰 폭의 상승을 기록했다. 엔화 약세를 저지하기 위한 일본 당국의 시장 개입 가능성에 무게가 실리고 있다. 통화 방어 압력이 거세지는 가운데 아시아 외환시장 변동성이 확대됐다.
+<a href="https://www.ft.com/content/8455ec94-0182-46a6-b5dd-2bb5b0a75a6c">[FT]</a></blockquote>
 
-<b>14. 미국 증시, 연준 금리 동결과 이란 전쟁 확대에 급락</b>
-<blockquote>연방준비제도가 금리를 동결했지만 투자자들은 올해 후반 금리 인상 가능성과 이란 전쟁 확대를 우려하며 주식을 매도했다.
-<a href="https://www.wsj.com/finance/stocks/u-s-stocks-slide-after-fed-pause-escalation-in-iran-war-083d45b1">[WSJ]</a></blockquote>
+<b>15. 중국 증시 이달 10년래 최악 낙폭 향해...경제 구조 개혁 부재</b>
+<blockquote>중국 주식시장이 이달 10년 만에 최악의 월간 낙폭을 기록할 것으로 전망된다. WSJ는 중국 경제가 구조 개혁 없이 수출에만 의존하는 '비계획(non-plan)' 상태라고 비판했다. 내수 부진과 부동산 위기가 지속되는 가운데 투자 심리가 급격히 악화되고 있다.
+<a href="https://www.ft.com/content/67e045bb-76cc-404f-a04c-073411eedfc5">[FT]</a></blockquote>
 
-<b>15. 연준 금리 동결했지만 Warsh가 시장 압박...채권·주식 동반 약세</b>
-<blockquote>연방준비제도가 금리를 동결했으나 Kevin Warsh 의장의 매파적 발언이 시장을 압박했다. 채권과 주식이 모두 하락세를 보였다.
-<a href="https://www.wsj.com/finance/stocks/fed-holds-but-warsh-hobbles-market-c3406392">[WSJ]</a></blockquote>
+<b>16. Microsoft, 하루 시총 $450B 증가...미국 기업 사상 최대</b>
+<blockquote>Microsoft가 하루 시가총액 $4,500억 증가를 기록하며 미국 기업 역사상 최대 단일일 시총 증가폭을 달성했다. 견조한 실적 발표로 AI 붐에 대한 시장 신뢰가 회복되며 기술주 랠리를 주도했다. 클라우드 부문 매출이 32% 급증한 것이 주가 상승을 견인했다.
+<a href="https://www.ft.com/content/da7c4472-cb30-4b82-b321-d82c1859419e">[FT]</a></blockquote>
 
-<b>16. Microsoft Azure 매출 1,000억 달러 돌파...AI 수익 성장 가속화</b>
-<blockquote>Microsoft 순이익이 31% 증가했고 Azure 클라우드 매출이 1,000억 달러를 넘어섰다. AI 매출 성장이 가속화되고 있으며 데이터센터 지출은 계속될 전망이다.
-<a href="https://www.wsj.com/articles/microsoft-earnings-q4-fy26-msft-stock-dfd3843e">[WSJ]</a></blockquote>
-
-<b>17. Meta 주가 10% 폭락...AI 비용 급증에 FCF 10억 달러 미만 축소</b>
-<blockquote>Meta가 AI 지출 계획을 업데이트하고 잉여현금흐름이 10억 달러 미만으로 축소되자 인프라 구축 비용에 대한 우려가 커졌다. 실적 전망도 시장 기대에 미치지 못하며 주가가 10% 급락했다.
-<a href="https://www.wsj.com/tech/ai/meta-q2-earnings-report-2026-stock-9808dd3c">[WSJ]</a></blockquote>
-
-<b>18. Zuckerberg의 AI "에이전트" 비전 설득 시도에도 Meta 주가 10% 하락</b>
-<blockquote>Mark Zuckerberg가 개인화된 봇 기반 전략을 옹호했지만 비용 증가와 매출 전망 실망으로 소셜미디어 기업 주가가 10% 하락했다.
+<b>17. Meta 주가 급락...Zuckerberg의 AI 에이전트 비전 실망</b>
+<blockquote>Meta 주가가 급락했다. Mark Zuckerberg가 개인화된 AI 봇 기반 전략을 강조했으나 비용 증가와 실망스러운 매출 전망이 투자 심리를 짓눌렀다. 소셜미디어 최고경영자의 AI 에이전트 구상이 시장의 지지를 얻지 못했다.
 <a href="https://www.ft.com/content/06d941ed-8136-46a4-a2ec-44bea1b35c3b">[FT]</a></blockquote>
 
-<b>19. Qualcomm 순이익 25% 감소...메모리칩 가격 상승이 스마트폰 시장 타격</b>
-<blockquote>Qualcomm이 당기 실적 전망을 낮추고 가격 인상 가능성을 경고했다. 반도체 기업은 높은 비용으로 순이익이 감소했다.
-<a href="https://www.wsj.com/business/earnings/qualcomm-profit-declines-dented-by-higher-costs-0e113f77">[WSJ]</a></blockquote>
+<b>18. Nasdaq 2.8% 상승...Microsoft 주도 기술주 반등</b>
+<blockquote>미국 증시가 상승 마감했다. Nasdaq 지수는 2.8% 급등하며 Microsoft의 견조한 실적이 AI 붐 모멘텀을 되살렸다. 반도체주 반등과 빅테크 강세가 시장 심리 개선을 이끌었다.
+<a href="https://www.wsj.com/finance/stocks/u-s-stocks-rally-after-microsoft-earnings-4f058c06">[WSJ]</a></blockquote>
 
-<b>20. Qualcomm 매출·이익 감소...높은 메모리칩 가격이 기기 사업 압박</b>
-<blockquote>Qualcomm 순이익이 25% 감소했다. 메모리칩 가격 상승이 디바이스 사업에 타격을 주며 스마트폰 시장이 압박받고 있다.
-<a href="https://www.ft.com/content/d5762ed8-a384-4c6a-9f5e-8bce573cf0a0">[FT]</a></blockquote>
+<b>19. Amazon, 클라우드 매출 37% 급증...AI 인프라 투자 $220B 확대</b>
+<blockquote>Amazon Web Services 2분기 매출이 37% 증가했으며, 회사는 올해 AI 인프라 투자를 $2,200억으로 상향 조정했다. 당초 4월 전망 $2,000억에서 추가 확대된 규모다. 클라우드 성장 가속과 자본 지출 확대에 주가는 장외거래에서 상승했다.
+<a href="https://www.wsj.com/tech/ai/amazon-earnings-q2-2026-amzn-stock-3daf95f7">[WSJ]</a></blockquote>
 
-<b>21. 한국 증시 붕괴 진행 중...월간 33% 폭락 후 레버리지 ETF 규제 강화</b>
-<blockquote>한국의 주식시장 붕괴가 극적으로 전개되고 있다. 메모리 반도체 호황이 무너지면서 앞으로 닥쳐올 상황을 예고하는 신호일 수 있다.
-<a href="https://www.economist.com/business/2026/07/29/south-koreas-stock-market-boom-is-collapsing-spectacularly">[Economist]</a></blockquote>
+<b>20. Apple 매출 $109B 기록...가이던스는 실망, AI 공급망 압박 심화</b>
+<blockquote>Apple이 2분기 매출 $1,090억을 기록했으나 전망치는 시장 기대에 미치지 못했다. 가을 출시 예정인 Siri 업그레이드를 앞두고 있지만 AI 경쟁 격화에 따른 부품 가격 상승 압박이 지속되고 있다. 스마트폰 매출은 20% 이상 증가했으나 공급망 병목이 수익성을 제약하고 있다.
+<a href="https://www.wsj.com/tech/apple-aapl-q3-earnings-report-2026-stock-a2eed24e">[WSJ]</a></blockquote>
 
-<b>22. 한국 메모리칩 원더스톡 현실 직면...SK Hynix 실적 실망 후 급락</b>
-<blockquote>한국 메모리 반도체 기업들의 주가 호황이 현실에 부딪혔다. 가장 낙관적이던 투자자들도 이제 복잡한 산업 현실을 인정해야 하는 상황이다.
-<a href="https://www.ft.com/content/b779208d-d587-4482-881c-41b063c4e235">[FT]</a></blockquote>
+<b>21. Google-Anthropic 데이터센터에 은행단 $15B 대출 협의</b>
+<blockquote>은행들이 Google이 보증하는 Anthropic 데이터센터 프로젝트에 $150억 대출을 논의 중이다. Google의 전력 및 리스 의무 보증이 텍사스 1.6기가와트 규모 시설 자금 조달을 뒷받침할 전망이다. AI 인프라 투자 경쟁이 금융권으로 확산되고 있다.
+<a href="https://www.wsj.com/tech/banks-in-talks-to-lend-15-billion-for-anthropic-data-center-backed-by-google-606d7afd">[WSJ]</a></blockquote>
 
-<b>23. 한국, 코스피 폭락 후 고위험 리테일 펀드 규제 강화</b>
-<blockquote>한국 금융당국이 레버리지 ETF 상품 접근을 제한하는 조치를 취했다. 코스피가 이번 달 33% 하락한 후 규제가 강화됐다.
-<a href="https://www.ft.com/content/38420819-2073-42d6-a14f-2c9a28e5970d">[FT]</a></blockquote>
+<b>22. 중국산 메모리칩 vs 'chipflation'...미국 딜레마 심화</b>
+<blockquote>미국이 반도체 가격 상승(chipflation) 완화를 위해 CXMT 등 중국 메모리칩 업체로부터 구매를 고려하고 있으나 의존도 심화 리스크에 직면했다. FT는 비용 절감과 공급망 안보 사이의 선택이 미국 정책 입안자들의 난제라고 분석했다.
+<a href="https://www.ft.com/content/d6df67d4-b8be-4e14-b856-29852e249577">[FT]</a></blockquote>
 
-<b>24. BMW 8,000명 감원 계획...중국 경쟁 심화로 구조조정 착수</b>
-<blockquote>BMW가 독일에서 자발적 퇴직 프로그램을 통해 약 8,000명을 감축할 계획이다. 한 달 전 중국 경쟁 심화를 이유로 판매·수익성 가이던스를 하향 조정한 데 따른 조치다.
-<a href="https://www.wsj.com/world/europe/bmw-to-cut-several-thousand-jobs-in-germany-via-voluntary-severance-program-33f02e6c">[WSJ]</a></blockquote>
+<b>23. AI 붐 투자 심리 재검토...변동성 속 시장 확신 흔들려</b>
+<blockquote>투자자들이 AI 붐에 대한 확신을 재평가하고 있다는 신호가 포착됐다. FT는 주식시장을 떠받치던 AI 투자 테제에 대한 진지한 회의가 시작됐는지 불분명하다고 진단했다. 최근 변동성 확대가 일시적 조정인지 구조적 변화인지 판단이 엇갈리고 있다.
+<a href="https://www.ft.com/content/00d91e68-9508-42bd-b1e3-124bf7dd390b">[FT]</a></blockquote>
 
-<b>25. Rheinmetall 실적 급증...방산 수요 건재하게 유지</b>
-<blockquote>독일 방산업체 Rheinmetall의 잠정 실적에서 매출이 전년 대비 약 69% 급증했다. 견고한 수요가 지속되고 있다.
-<a href="https://www.wsj.com/business/earnings/germanys-rheinmetall-flags-strong-quarter-as-military-hardware-demand-stays-healthy-2691916b">[WSJ]</a></blockquote>
+<b>24. CoreWeave, Anthropic 계약 연계 부채 조건 개선...대출자 압박 굴복</b>
+<blockquote>CoreWeave가 Anthropic 계약과 연계된 부채 조건을 개선했다. 투자자들의 반발에 따라 조건을 강화한 것으로, AI 리스크에 신중해진 대출자들과의 힘겨루기에서 차입자가 양보한 사례다. AI 인프라 금융의 권력 관계가 변화하고 있음을 보여준다.
+<a href="https://www.ft.com/content/9d2117af-b3ec-4ca4-b00f-6813ab5075ec">[FT]</a></blockquote>
 
-<b>26. Airbus 실적 급증...항공기 인도 237대로 공급망 문제 완화</b>
-<blockquote>세계 최대 항공기 제조사 Airbus가 2분기에 237대를 인도하며 이익이 급증했다. 공급망 차질이 완화되고 있다.
-<a href="https://www.ft.com/content/c24a38a2-8f2b-4d5c-89e7-f8c167b2f2bb">[FT]</a></blockquote>
+<b>25. Blue Owl, 프라이빗 크레딧 우려 속 부동산 자산 비중 확대</b>
+<blockquote>Blue Owl의 부동산(real assets) 부문이 2분기 모금에서 크레딧 부문을 넘어섰다. 투자자들의 대출 펀드 환매 요청은 완화됐으나, 회사는 프라이빗 크레딧 난국을 완충하기 위해 부동산 비중을 늘리는 전략을 취하고 있다.
+<a href="https://www.wsj.com/pro/private-equity/blue-owl-leans-into-real-assets-to-buffer-private-credit-woes-0c7599e5">[WSJ]</a></blockquote>
 
-<b>27. 중국, 위성 격차 축소...미국 우주력 따라잡으며 군사력 약화 가능성</b>
-<blockquote>중국이 미국의 우주 우위를 좁혀가고 있다. 베이징은 경쟁국 네트워크를 손상시키고 미국 군사력을 약화시킬 잠재력을 확보하고 있다.
-<a href="https://www.wsj.com/world/china/china-closes-the-satellite-gap-in-space-race-with-the-u-s-12b432b0">[WSJ]</a></blockquote>
+<b>26. KKR, 자산 매각 호조...프라이빗 이쿼티 침체 비껴</b>
+<blockquote>KKR이 프라이빗 이쿼티 업계의 엑시트 침체 속에서도 분기 최대 자산 매각 실적을 기록했다. 뉴욕 투자회사는 자산관리 및 보험 부문 성장에 힘입어 수익과 매출이 모두 증가했다. 업계 전반의 출구 전략 어려움을 극복한 사례로 주목받고 있다.
+<a href="https://www.wsj.com/finance/investing/kkr-profit-revenue-up-on-asset-management-insurance-growth-7c7d49b9">[WSJ]</a></blockquote>
 
-<b>28. Brookfield·NextEra, 켄터키에 1,000억 달러 데이터센터 캠퍼스 개발</b>
-<blockquote>에너지·인프라·유틸리티 기업 파트너십이 켄터키주 Paducah의 에너지부 부지에 데이터센터 캠퍼스를 개발할 계획이다. 민간 자금으로 부지를 재활용하는 프로젝트다.
-<a href="https://www.wsj.com/business/energy-oil/brookfield-nextera-to-develop-100-billion-data-center-campus-in-kentucky-c0615347">[WSJ]</a></blockquote>
+<b>27. Citadel, Situational Awareness 주식 포트폴리오 매수...AI 손실 후 긴급 거래</b>
+<blockquote>Citadel이 Leopold Aschenbrenner의 헤지펀드 Situational Awareness의 주식 포트폴리오를 인수했다. AI 관련 베팅에서 큰 손실을 본 Situational Awareness는 투자자들과 긴급 협의를 거쳐 지분을 매각했다. 고공행진하던 헤지펀드의 위기 국면이 드러났다.
+<a href="https://www.wsj.com/finance/citadel-buys-situational-awarenesss-stock-portfolio-after-big-losses-in-ai-5117159b">[WSJ]</a></blockquote>
 
-<b>29. Brookfield, 전 핵무기 시설을 AI 캠퍼스로 전환...NextEra와 켄터키 데이터센터 개발</b>
-<blockquote>캐나다 투자그룹 Brookfield가 유틸리티 기업 NextEra와 파트너십을 맺고 켄터키주에 데이터센터를 건설한다. 전 핵무기 시설을 AI 인프라로 전환하는 사업이다.
-<a href="https://www.ft.com/content/7a33e045-57c0-4cf7-bb1b-a7f4ecdc1e30">[FT]</a></blockquote>
+<b>28. Blue Owl 프라이빗 크레딧 모금 3년 만에 최저...환매 압력 지속</b>
+<blockquote>Blue Owl의 프라이빗 크레딧 모금액이 3년 만에 최저 수준으로 떨어졌다. 데이터센터 투자 수요가 전체 실적을 지탱했으나 크레딧 부문은 환매 요청 압력에 시달리고 있다. 대체투자 시장의 유동성 우려가 가시화되고 있다.
+<a href="https://www.ft.com/content/c8e8502f-91c2-4dcd-b39c-e99c67b93826">[FT]</a></blockquote>
 
-<b>30. Grant Thornton, CBIZ를 30억 달러 이상에 인수...미국 5위 회계 서비스 업체로</b>
-<blockquote>Grant Thornton Advisors가 CBIZ를 30억 달러 이상에 인수해 비상장화한다. 이번 거래로 Grant Thornton은 미국 전문·세무·자문 서비스 부문에서 5위 사업자가 된다.
-<a href="https://www.wsj.com/finance/investing/grant-thornton-advisors-to-buy-cbiz-for-3-billion-4aed1eb6">[WSJ]</a></blockquote>
+<b>29. KKR 수익 급증...프라이빗 크레딧 격변 속 선방</b>
+<blockquote>KKR이 프라이빗 크레딧 업계 격변 속에서도 수익이 급증했다. 프라이빗 이쿼티 투자 매각을 통해 수익을 끌어올렸으며, 자산 매각 및 모금 활동이 위축된 다른 업체들과 대조적인 성과를 냈다.
+<a href="https://www.ft.com/content/3936b8c9-8ce2-41f8-8687-90a2aa385e41">[FT]</a></blockquote>
 
-<b>31. Grant Thornton, 50억 달러 CBIZ 인수로 회계 업계 세대 최대 거래 성사</b>
-<blockquote>미국 회계·컨설팅 기업 Grant Thornton이 상장 기업 CBIZ를 50억 달러 전액 현금으로 인수한다. 회계 업계에서 한 세대 동안 최대 규모 인수합병이다.
-<a href="https://www.ft.com/content/7bb6a7e3-a68d-4b23-aef5-7b93fa21559b">[FT]</a></blockquote>
+<b>30. 스페인 세우타에 이민자 수천 명 유입...Sánchez 정치적 난제</b>
+<blockquote>모로코 국경과 접한 스페인 영토 세우타에 수천 명의 이민자가 몰려들어 혼란이 발생했다. 불법 이민에 비교적 관대했던 Pedro Sánchez 총리에게 정치적 부담이 되고 있으며, 이탈리아는 EU 역내 여행 제한을 촉구하고 나섰다.
+<a href="https://www.wsj.com/world/europe/thousands-of-migrants-pour-across-border-into-a-tiny-spanish-territory-0af0d1a3">[WSJ]</a></blockquote>
 
-<b>32. FTC, Hims & Hers 제소...불법 데이터 공유·기만적 청구 혐의</b>
-<blockquote>FTC에 따르면 Hims & Hers는 프라이버시를 유지한다고 주장하면서도 특정 고객 명단과 웹사이트 방문자 행동을 Meta·Snap 등 광고주와 공유했다.
-<a href="https://www.wsj.com/business/ftc-sues-hims-hers-alleging-unlawful-sharing-of-data-deceptive-billing-8d6033cf">[WSJ]</a></blockquote>
+<b>31. 프랑스 산불 일부 대피 주민 귀가 허용...최악 화재 진화 조짐</b>
+<blockquote>프랑스 당국이 산불로 대피했던 주민 절반 이상에게 귀가를 허용했다. 수십 년 만에 최악의 산불이 안정화 단계에 접어든 신호다. 보르도 인근 방산·항공 공장 밀집 지역을 위협했던 화재가 진압 국면에 들어섰다.
+<a href="https://www.ft.com/content/354bfe84-eb98-4607-ace7-c8231beafe7b">[FT]</a></blockquote>
 
-<b>33. 러시아, Telegram 창업자 Durov를 테러 지원 혐의로 기소</b>
-<blockquote>크렘린은 우크라이나가 러시아 내륙을 공습하면서 러시아 태생 억만장자의 앱을 통제하기 위해 고군분투하고 있다.
-<a href="https://www.wsj.com/world/russia-charges-telegram-founder-durov-with-aiding-terrorism-06285c1f">[WSJ]</a></blockquote>
+<b>32. 멕시코 Q2 GDP 1.5% 반등...2020년 이후 최대 증가</b>
+<blockquote>멕시코 2분기 GDP가 계절조정 기준 전분기 대비 1.5% 증가하며 2020년 4분기 이후 최대 확장세를 기록했다. 미국과의 무역 재개 기대와 내수 회복이 성장을 견인했다.
+<a href="https://www.wsj.com/economy/mexican-economy-bounces-back-in-second-quarter-d603c45e">[WSJ]</a></blockquote>
 
-<b>34. NYC, 부유층 대상 pied-à-terre 세금 목록 공개...Mamdani의 경고성 조치</b>
-<blockquote>뉴욕시가 Zohran Mamdani 시장의 새 세금 대상이 될 수 있는 유명인사와 기업 임원 명단을 공개했다. 대상에는 내각 장관과 대통령의 조카도 포함됐다.
-<a href="https://www.wsj.com/real-estate/mamdani-fires-warning-shot-at-citys-elite-with-pied-a-terre-tax-list-ab4c508d">[WSJ]</a></blockquote>
+<b>33. 관세 장기화 전망 확산...경영진 "차기 대통령도 철회 어려워"</b>
+<blockquote>많은 기업 경영진이 Trump 대통령 임기 이후에도 높은 관세가 유지될 것으로 예상하고 있다. 2029년 1월 퇴임 이후 차기 행정부가 관세를 되돌리기 어려울 것이라는 경고가 나오며, 기업들은 관세를 '뉴노멀'로 받아들이기 시작했다.
+<a href="https://www.wsj.com/economy/trade/are-tariffs-the-new-normal-9836f5bc">[WSJ]</a></blockquote>
 
-<b>35. GE Healthcare 매출 증가...주문 11% 증가·수요 건전</b>
-<blockquote>의료기술 기업 GE Healthcare의 2분기 매출이 53억 달러를 기록했다. 총 주문이 11% 증가하며 실적을 견인했다.
-<a href="https://www.wsj.com/business/earnings/ge-healthcare-posts-higher-profit-revenue-on-increased-orders-d24249fe">[WSJ]</a></blockquote>
-
-<b>36. P&G, 인플레이션 압박 소비자에 Tide·Bounty 판매 총력</b>
-<blockquote>소비재 대기업 P&G는 구매자를 확보하기 위해 "오랜만에 경험하는 수준"으로 더 열심히 노력하고 있다고 CFO가 밝혔다.
-<a href="https://www.wsj.com/business/c-suite/how-p-g-is-trying-to-sell-tide-and-bounty-to-inflation-squeezed-consumers-0755aace">[WSJ]</a></blockquote>
-
-<b>37. NYC 시장 Zohran Mamdani, 취임 8개월 만에 민주사회주의 의제 전력 질주</b>
-<blockquote>뉴욕시장 Zohran Mamdani가 취임 8개월도 안 돼 민주사회주의 의제를 전력으로 밀어붙이고 있다. 민주사회주의가 미국에서 확산되는 시기에 공격적인 행보를 보이고 있다.
-<a href="https://www.wsj.com/politics/mamdani-digs-back-in-after-new-yorks-summer-of-fun-691484d0">[WSJ]</a></blockquote>
+<b>34. NYSE 소유주 ICE, 채권 플랫폼 MarketAxess $5.7B에 인수</b>
+<blockquote>Intercontinental Exchange가 채권 전자거래 플랫폼 MarketAxess를 $57억에 인수하기로 합의했다. NYSE 운영사의 채권시장 본격 진출을 의미하는 대형 M&A로, 고정금리 상품 거래 인프라 확대가 가속화되고 있다.
+<a href="https://www.ft.com/content/4b39365f-841d-45d3-81ae-31db7f9d8f8f">[FT]</a></blockquote>
 
 ━━━━━━━━━━━━━━━━━━━━
 📡 <b>출처: WSJ · FT · The Economist</b>
