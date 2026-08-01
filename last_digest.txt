@@ -4,169 +4,37 @@
 
 ✅ <b>간밤의 주요 헤드라인</b>
 
-<b>1. Trump, 이란에 추가 공격 명령...전쟁 6개월째 새 국면</b>
-<blockquote>Trump 대통령이 이란에 대한 추가 공격을 지시했다고 미 당국자들이 밝혔다. 공격은 이번 주말부터 시작될 수 있으며, Strait of Hormuz 통제권을 둘러싼 미국과 이란의 분쟁이 재격화되고 있다.
-<a href="https://www.wsj.com/world/middle-east/trump-sours-on-diplomacy-vows-to-hit-iran-hard-2c7af868">[WSJ]</a></blockquote>
-
-<b>2. 이란, 미군 기지에 탄도미사일 발사...전면전 우려 확산</b>
-<blockquote>이란이 중동 지역 미군 기지를 겨냥해 탄도미사일을 발사했으나 모두 요격됐다고 WSJ이 보도했다. Kheibar Shekan 미사일의 성능 개선으로 미 방어망이 복잡해지는 상황이다.
-<a href="https://www.wsj.com/world/middle-east/irans-workhorse-missile-is-becoming-more-dangerous-for-u-s-troops-341a77ee">[WSJ]</a></blockquote>
-
-<b>3. Gaza 평화안, 발표 하루 만에 현실과 충돌</b>
-<blockquote>Trump 대통령이 Hamas 무장해제를 포함한 Gaza 평화 돌파구를 발표했으나, Hamas와 이스라엘이 합의 내용을 놓고 이견을 보이며 실행 가능성에 의문이 제기됐다.
-<a href="https://www.wsj.com/world/middle-east/latest-gaza-peace-plan-runs-up-against-reality-607e32bf">[WSJ]</a></blockquote>
-
-<b>4. 원유 7월 큰 폭 상승 마감...중동 긴장 재점화</b>
-<blockquote>7월 원유 선물이 급등 마감했다. 이란의 미국 선박 공격 재개와 Strait of Hormuz 통제권 분쟁이 에너지 시장 변동성을 키우고 있다.
-<a href="https://www.wsj.com/finance/commodities-futures/oil-rises-after-attacks-in-black-sea-a5ce5323">[WSJ]</a></blockquote>
-
-<b>5. Abu Dhabi, 글로벌 원유 벤치마크 계획 포기</b>
-<blockquote>Adnoc이 자체 Murban 선물 벤치마크 구축을 중단하고 Dubai 벤치마크로 회귀했다. 이란 전쟁이 Murban 선물 가격 형성에 문제를 드러냈기 때문이다.
-<a href="https://www.ft.com/content/d81b5086-df43-4c91-ac23-fa9076ef0304">[FT]</a></blockquote>
-
-<b>6. 유로존 7월 인플레 2.9%로 반등...에너지 충격 지속</b>
-<blockquote>유로존 7월 소비자물가 상승률이 2.9%로 전월 대비 상승했다. 중동 분쟁으로 인한 에너지 가격 상승이 주된 요인이며, ECB의 9월 금리 결정에 영향을 미칠 전망이다.
-<a href="https://www.ft.com/content/f54e632e-f8b4-4554-9f2e-c8a2ded0555b">[FT]</a></blockquote>
-
-<b>7. 라인강 수위 2018년 최저 기록...독일 생산 차질</b>
-<blockquote>극심한 폭염으로 라인강 수위가 2018년 최저치에 근접하며 선박 운항이 중단됐다. 독일 제조업체들이 생산 감축에 나서고 있다.
-<a href="https://www.ft.com/content/e5cb0cce-c2f5-4dae-8126-a2d3e9063dde">[FT]</a></blockquote>
-
-<b>8. 연준 Warsh 의장, 연 8회 미만 회의 검토...커뮤니케이션 축소</b>
-<blockquote>Kevin Warsh 연준 의장이 동료들에게 연 8회 미만으로 회의 횟수를 줄이는 방안을 제안했다고 관계자들이 전했다. 중앙은행에 대한 시장 관심을 낮추려는 Warsh의 목표와 맞닿아 있다.
-<a href="https://www.wsj.com/economy/central-banking/warsh-floats-fewer-fed-meetings-debf5a23">[WSJ]</a></blockquote>
-
-<b>9. 연준 반대표 3명, 인플레 고집 이유로 인상 주장</b>
-<blockquote>이번 주 금리 동결 결정에 반대표를 던진 3명의 연준 위원이 완고한 인플레이션을 이유로 들었다. Minneapolis 연은 총재 Neel Kashkari는 연속 금리 인상이 필요할 수 있다고 밝혔다.
-<a href="https://www.wsj.com/economy/central-banking/two-fed-officials-say-inflation-should-have-prompted-higher-rates-e203c5ac">[WSJ]</a></blockquote>
-
-<b>10. Richmond 연은 총재, 금리 충분한지 "close call"</b>
-<blockquote>Tom Barkin Richmond 연은 총재는 현재 금리 수준이 인플레이션 억제에 충분한지 "판단하기 어렵다"고 말했다. 금리 인상에 찬성한 3명의 반대표에 동참했을지 모르겠다고 덧붙였다.
-<a href="https://www.wsj.com/economy/central-banking/tom-barkin-fed-president-interest-rates-99f2b676">[WSJ]</a></blockquote>
-
-<b>11. Citi, Warsh를 '통화정책의 Lionel Messi'로 평가</b>
-<blockquote>Citi가 Kevin Warsh 연준 의장을 축구 스타 Lionel Messi에 비유하며 그의 정책 운영 능력을 극찬했다. Warsh의 커뮤니케이션 축소 정책이 시장의 주목을 받고 있다.
-<a href="https://www.ft.com/content/15de7725-ff09-4b17-bd88-42117a3404d1">[FT]</a></blockquote>
-
-<b>12. Warsh 커뮤니케이션 축소, 시장서 비판 고조</b>
-<blockquote>연준 의장 Kevin Warsh의 '덜 말하기(less is more)' 커뮤니케이션 정책이 이번 주 비판에 직면했다. 시장 참가자들은 포워드 가이던스 축소가 불확실성을 키운다고 우려하고 있다.
-<a href="https://www.ft.com/content/97fd8d2a-3959-4dd6-8fbf-1e443ab793d3">[FT]</a></blockquote>
-
-<b>13. 국채 수익률 7월 상승 마감...인플레 우려 재점화</b>
-<blockquote>7월 미 국채가 매도세를 보이며 수익률이 상승 마감했다. 중동 지정학 리스크 고조로 에너지 인플레이션 우려가 되살아난 영향이다.
-<a href="https://www.wsj.com/finance/jgbs-edge-lower-ahead-of-bojs-rate-decision-000cd87a">[WSJ]</a></blockquote>
-
-<b>14. 채권·외환 시장, 다음 주 미국 고용지표 주목</b>
-<blockquote>다음 주 7월 미국 고용지표가 시장의 초점이 될 전망이다. 향후 수개월 연준 금리 경로를 가늠할 핵심 지표로 꼼�힌다.
-<a href="https://www.wsj.com/economy/global/week-ahead-for-fx-bonds-u-s-jobs-data-in-focus-could-give-steer-on-fed-outlook-50e95649">[WSJ]</a></blockquote>
-
-<b>15. 금값, 4개월 하락 끝내고 7월 반등</b>
-<blockquote>금 선물이 7월 플러스 마감하며 4개월 연속 하락을 마감했다. 당일 하락에도 불구하고 월간 기준으로는 소폭 상승했다.
-<a href="https://www.wsj.com/finance/commodities-futures/gold-slips-as-markets-digest-fed-decision-8d03b84b">[WSJ]</a></blockquote>
-
-<b>16. 미 재무부, 은행들에 엔화 개입 가능성 경고</b>
-<blockquote>미 재무부가 은행들에 달러-엔 환율 시장 개입 가능성을 경고했다. 엔화가 수십 년 만에 최저 수준까지 약세를 보인 데 따른 조치다.
-<a href="https://www.wsj.com/finance/currencies/treasury-warns-banks-it-might-intervene-in-dollar-yen-exchange-rate-4d7f1bba">[WSJ]</a></blockquote>
-
-<b>17. 미 재무부, 엔화 개입 관련 은행들에 공식 통보</b>
-<blockquote>미 재무부가 은행들에 엔화 시장 개입 가능성을 공식 통보했다. 일본 정부의 개입 추측이 나오는 가운데 나온 조치다.
+<b>1. 미 재무부, 뉴욕 연준 통해 엔화 매수 개입...역사적 FX 시장 직접 조치</b>
+<blockquote>미 재무부가 뉴욕 연준을 통해 유로를 매각하고 엔화를 매수하는 시장 개입을 단행했다. 최근 일본 당국의 엔화 지지 개입 가능성이 제기된 가운데 미국의 직접 개입은 이례적인 조치로 평가된다. 달러-엔 환율 변동성 확대와 G7 국가 간 환율 정책 공조 가능성에 시장 관심이 집중된다.
 <a href="https://www.ft.com/content/0f9b2fe7-bde4-4f5f-b49e-93ccb5da9ea8">[FT]</a></blockquote>
 
-<b>18. Situational Awareness 펀드 67% 급락...Citadel이 구제</b>
-<blockquote>Leopold Aschenbrenner의 AI 헤지펀드 Situational Awareness가 7월 67% 폭락한 뒤 Citadel의 구제를 받았다. 투자자들은 Citadel 거래가 기술주 $3조 급락을 막는 데 기여했다고 평가했다.
-<a href="https://www.ft.com/content/4f00bd97-c3da-41af-9b92-410ebaa6ad2d">[FT]</a></blockquote>
+<b>2. 이란, 쿠웨이트 드론 공격 감행...Trump 추가 군사조치 경고로 중동 긴장 고조</b>
+<blockquote>이란이 쿠웨이트를 대상으로 드론 공격을 단행하면서 중동 전쟁 확전 우려가 커지고 있다. Trump 대통령은 추가 군사 타격을 시사했으며, 역내 국가들은 또 다른 단계의 긴장 고조를 준비 중이다. 에너지 공급망 리스크 프리미엄 확대가 불가피해 보인다.
+<a href="https://www.wsj.com/world/middle-east/iran-stokes-the-middle-east-war-with-drone-attacks-on-kuwait-f25530a0">[WSJ]</a></blockquote>
 
-<b>19. Aschenbrenner "매우 비싼 상처에서 배우겠다"</b>
-<blockquote>Leopold Aschenbrenner가 투자자들에게 보낸 서한에서 "다시 싸울 날이 올 것"이라며 "매우 비싼 상처에서 배우겠다"고 밝혔다. 그의 $450억 규모 펀드는 과도한 레버리지로 붕괴 직전까지 갔다.
-<a href="https://www.ft.com/content/a0a5e3a7-c4e6-42a6-9a7b-a780422bcd76">[FT]</a></blockquote>
+<b>3. 이스라엘 정착민, 서안지구 모스크 방화...마을 주민 자경단 조직해 대응</b>
+<blockquote>서안지구에서 이스라엘 정착민들이 팔레스타인 마을 모스크를 방화하고 폭력을 행사하면서 주민들이 자경단을 조직해 가옥을 방어하는 사태가 벌어졌다. 치명적 충돌 이후 정착민 공격이 확산되고 있으며, 비평가들은 이를 이스라엘 영토 확장 시도로 해석하고 있다. 중동 지정학 리스크의 또 다른 악화 요인으로 주목된다.
+<a href="https://www.wsj.com/world/middle-east/settlers-torch-mosques-and-villagers-guard-homes-west-bank-violence-is-surging-29a33a51">[WSJ]</a></blockquote>
 
-<b>20. AI 펀드 폭락 배경..."AI의 Nostradamus" 레버리지 실패</b>
-<blockquote>Leopold Aschenbrenner는 'AI의 Nostradamus'로 불렸지만 Situational Awareness 펀드가 과도한 레버리지로 붕괴했다. 결혼식 하객이 도착하던 순간 $450억 펀드가 무너졌다.
-<a href="https://www.wsj.com/finance/leopold-aschenbrenner-situational-awareness-ai-fund-597633d3">[WSJ]</a></blockquote>
+<b>4. 스페인, 모로코발 이민자 대부분 추방 완료...세우타 유입 사태 일단락</b>
+<blockquote>스페인 당국이 모로코에서 아프리카 영토인 세우타로 대규모 유입된 이민자들을 대부분 퇴거 조치했다고 밝혔다. 경찰과 군이 수만 명이 몰려든 후 남아 있던 수백 명을 집결해 추방했다. 유럽 이민 위기의 새로운 발화점으로 부상한 사건이다.
+<a href="https://www.wsj.com/world/europe/spain-migrants-morocco-update-0f16944d">[WSJ]</a></blockquote>
 
-<b>21. Amazon, AI 인프라 투자 $2200억으로 증액</b>
-<blockquote>Amazon이 2026년 AI 인프라 투자 규모를 $2200억으로 늘렸다. 4월 전망치 $2000억에서 상향 조정된 것이다.
-<a href="https://www.ft.com/content/fddc42a9-4c57-4689-abde-75bbe79622e9">[FT]</a></blockquote>
+<b>5. EU 내무장관 회의 소집...Sánchez 비판 속 스페인 이민 위기 논의</b>
+<blockquote>EU 회원국 내무장관들이 화요일 긴급 회의를 열고 스페인 이민 위기를 논의한다. Sánchez 스페인 총리는 자국에 대한 비판에 반발하며 EU 차원의 공동 대응을 촉구했다. 이민 정책을 둘러싼 회원국 간 긴장이 다시 수면 위로 부상하고 있다.
+<a href="https://www.ft.com/content/1b3f09b5-897e-4b7a-9949-2c4d9a32929e">[FT]</a></blockquote>
 
-<b>22. Amazon, OpenAI에 $500억 투자 완료...지분 5%</b>
-<blockquote>Amazon이 OpenAI에 대한 $500억 투자를 완료하고 약 5% 지분을 확보했다. 이커머스 대기업의 AI 연구소 지분 인수가 마무리됐다.
-<a href="https://www.ft.com/content/8ae9e6e4-a53c-44da-8e7d-c9d81f0df4b9">[FT]</a></blockquote>
+<b>6. 르펜 후계자 Bardella, 프랑스 CEO 집단 접촉...극우 경제계 포섭 시도</b>
+<blockquote>Marine Le Pen의 30세 후계자 Jordan Bardella가 프랑스 재계 최고경영자들과 접촉을 시도하고 있다. 전통적으로 극우 정당을 기피해온 경제계를 끌어들이기 위한 전략으로, 대선 출마를 앞두고 극우의 주류화 움직임이 가시화되고 있다.
+<a href="https://www.wsj.com/world/europe/can-marine-le-pens-30-year-old-protege-win-over-frances-ceos-8e597a22">[WSJ]</a></blockquote>
 
-<b>23. Amazon 급등·Apple 급락...클라우드 vs 공급망 엇갈림</b>
-<blockquote>Amazon이 클라우드 컴퓨팅 매출 가속화를 보고하며 급등한 반면, Apple은 칩 공급 문제로 급락했다. AI 회복세 속 빅테크 실적이 엇갈렸다.
-<a href="https://www.wsj.com/finance/stocks/u-s-stocks-rise-as-amazon-earnings-offset-apple-chip-woes-21a670dc">[WSJ]</a></blockquote>
+<b>7. 영국 Burnham 총리, 지방분권 개헌 시사...지방 시장 권한 확대 구상</b>
+<blockquote>Burnham 영국 총리가 지방 시장들에게 대폭적인 권한을 부여하는 지방분권 개혁안을 추진하며, 이것이 영국의 성문헌법 제정으로 이어질 수 있다고 밝혔다. 잉글랜드 운영을 위한 '새로운 원칙'이 필요하다는 주장으로, 영국 정치 구조의 근본적 변화 가능성이 제기됐다.
+<a href="https://www.ft.com/content/72e4bd53-2e4f-420a-aa44-4de486a0ab19">[FT]</a></blockquote>
 
-<b>24. 나스닥 1% 상승 마감...Amazon·Apple 극명한 대조</b>
-<blockquote>나스닥 지수가 1% 상승 마감했다. Amazon과 Apple의 시가총액 변동폭이 역대급을 기록하며 변동성 높은 7월 장을 마무리했다.
-<a href="https://www.wsj.com/finance/stocks/amazon-and-apple-deliver-the-drama-to-close-a-turbulent-month-41d82dc9">[WSJ]</a></blockquote>
-
-<b>25. Apple 주가 급락...AI 구축이 공급망·성장 압박</b>
-<blockquote>Apple 주가가 급락했다. Tim Cook CEO는 메모리 가격 압박이 악화될 것이라고 경고했으며, AI 인프라 구축이 공급망과 성장에 부담을 주고 있다.
-<a href="https://www.ft.com/content/762a504e-fca8-49d0-9f2e-b2f142fd749a">[FT]</a></blockquote>
-
-<b>26. OpenAI 사용자 10억 돌파...가격 인하 후 급증</b>
-<blockquote>OpenAI가 여러 모델의 가격을 인하한 뒤 사용자 10억 명을 돌파했다고 발표했다.
-<a href="https://www.wsj.com/tech/ai/openai-surpasses-one-billion-users-after-cutting-prices-8a9943e4">[WSJ]</a></blockquote>
-
-<b>27. 한국 증시 18% 급등...AI 주식에 자금 쏠림</b>
-<blockquote>한국 증시가 18% 급등하며 AI 관련 주식으로 자금이 몰렸다. 월가 반등에 힘입어 반도체 기업들이 반등세를 주도했다.
-<a href="https://www.ft.com/content/23eb1fd4-8301-4c0e-89b3-2647389e6226">[FT]</a></blockquote>
-
-<b>28. 미 증시 상승 마감...Amazon 호실적이 Apple 부진 상쇄</b>
-<blockquote>미 증시가 상승 마감했다. Amazon이 인공지능 회복세를 이어가며 Apple 부진을 상쇄했다.
-<a href="https://www.wsj.com/finance/stocks/u-s-stock-futures-higher-as-ai-rebound-continues-1de16735">[WSJ]</a></blockquote>
-
-<b>29. Apple 급락에도 나스닥 상승...Tesla 중국 사업 매각 검토</b>
-<blockquote>나스닥이 상승했으며, Amazon 실적이 시장을 지탱했다. Tesla는 SpaceX 합병을 위해 중국 사업 매각을 검토 중이고, Anthropic은 소프트웨어가 3개 기업을 해킹했다고 공개했다.
-<a href="https://www.wsj.com/finance/stocks/amazon-surges-and-apple-falls-on-latest-earnings-9f3f3c8b">[WSJ]</a></blockquote>
-
-<b>30. 스페인, 6만 명 세우타 유입 후 통제권 회복</b>
-<blockquote>모로코에서 약 5만 명이 스페인 영토 세우타로 건너온 뒤 절반이 되돌아갔다. 스페인이 북아프리카 영토에 대한 통제권을 되찾았다.
-<a href="https://www.wsj.com/world/europe/spain-rushes-to-control-border-after-tens-of-thousands-of-migrants-flood-into-exclave-0a6382d0">[WSJ]</a></blockquote>
-
-<b>31. 스페인 총리, 6만 명 이민자 유입 "영토 침해"</b>
-<blockquote>Pedro Sánchez 스페인 총리는 세우타로 6만 명이 집단 유입한 사태를 "영토 보전의 침해"라고 규정했다.
-<a href="https://www.ft.com/content/34917d6f-c8ec-4e13-890a-4d8475806bb7">[FT]</a></blockquote>
-
-<b>32. 세우타 이민 사태, 스페인 개방 정책 시험대</b>
-<blockquote>이민자 급증 사태가 스페인의 개방 정책을 시험하고 있으며, 유럽 전역에서 반발을 불러일으키고 있다.
-<a href="https://www.economist.com/europe/2026/07/31/a-migrant-surge-tests-spains-open-policies">[Economist]</a></blockquote>
-
-<b>33. KKR, Integer Holdings 인수 $40억 이상 거래 임박</b>
-<blockquote>KKR이 의료기기 제조사 Integer Holdings를 $40억 이상에 인수하는 거래가 곧 성사될 전망이다. 행동주의 헤지펀드의 압박을 받아온 헬스케어 기업이다.
-<a href="https://www.ft.com/content/664f7b45-d92a-44c4-9824-9008001e887e">[FT]</a></blockquote>
-
-<b>34. 캐나다, 북미 최대 니켈 광산 승인</b>
-<blockquote>캐나다 정부가 서방 세계 최대 니켈 광산 개발을 승인했다. 미국 관세 압박에 대응해 주요 프로젝트를 신속히 처리하려는 노력의 일환이다.
-<a href="https://www.wsj.com/world/americas/canada-approves-big-nickel-mine-in-northern-ontario-8a13c6f8">[WSJ]</a></blockquote>
-
-<b>35. Healey, 10월 英 예산안서 재정 완충 모색</b>
-<blockquote>영국 Rachel Healey 재무장관이 10월 예산안에서 노동당의 재정 준칙을 유지하면서도 "권한과 자금을 Westminster 밖으로" 옮기는 방안을 추진한다.
-<a href="https://www.ft.com/content/71f9031c-71a4-4e1b-ab25-216ff34dc87d">[FT]</a></blockquote>
-
-<b>36. ICE, 채권 전자거래 확대 배경으로 MarketAxess $60억 인수</b>
-<blockquote>뉴욕증권거래소 모회사 Intercontinental Exchange가 전자 채권거래로의 전환에 베팅하며 MarketAxess를 $60억에 인수했다.
-<a href="https://www.wsj.com/finance/investing/rise-of-bond-e-trading-underpins-nyse-owners-6-billion-marketaxess-deal-07f40706">[WSJ]</a></blockquote>
-
-<b>37. 캐나다 5월 GDP 성장...석유·가스 확대 주도</b>
-<blockquote>캐나다 경제가 5월 성장세를 보였다. 석유·가스 활동 확대와 제조업 회복이 약 3년 만에 가장 강력한 성장을 견인했다.
-<a href="https://www.wsj.com/economy/central-banking/canada-gdp-grows-in-may-amid-expansion-in-oil-and-gas-activity-295e9bca">[WSJ]</a></blockquote>
-
-<b>38. 미시간대 소비자 심리 7월 개선...휘발유 가격 하락</b>
-<blockquote>미시간대 소비자 심리지수가 7월 55.2로 6월 49.5에서 상승했다. 휘발유 가격 안정이 심리 개선을 이끌었다.
-<a href="https://www.wsj.com/economy/consumers/consumer-sentiment-rose-in-july-per-michigan-survey-4fd855d8">[WSJ]</a></blockquote>
-
-<b>39. 뉴욕주, Kalshi 상대 소송...협상 결렬 후</b>
-<blockquote>뉴욕주 검찰총장 Letitia James가 미국 최대 예측시장 운영업체 Kalshi를 상대로 소송을 제기했다. 규제 협상이 결렬된 뒤 나온 조치다.
-<a href="https://www.wsj.com/tech/new-york-alleges-kalshi-running-illegal-gambling-operation-18ae71b0">[WSJ]</a></blockquote>
-
-<b>40. Westinghouse Electric, IPO 신청서 비공개 제출</b>
-<blockquote>원자력 기술·서비스 공급업체 Westinghouse Electric이 증권거래위원회에 IPO 신청서를 비공개로 제출했다. Brookfield 소유 기업이 비용 초과로 파산보호 신청한 지 9년 만이다.
-<a href="https://www.ft.com/content/0f47fc94-d039-4561-936e-55b5fc34541d">[FT]</a></blockquote>
-
-<b>41. Tesla, 중국 사업 매각 검토...SpaceX 합병 위해</b>
-<blockquote>Tesla가 SpaceX와의 합병을 위해 2위 시장인 중국 사업 매각 또는 분사를 검토 중이다. 지정학적 우려가 배경이다.
-<a href="https://www.wsj.com/business/autos/tesla-weighs-sale-of-china-business-to-pave-way-for-potential-spacex-merger-5ae26026">[WSJ]</a></blockquote>
+<b>8. 미국서 대규모 텅스텐 광상 발견...국방 핵심 자원 확보에 NASA 규제 걸림돌</b>
+<blockquote>미국 내 최대 규모로 추정되는 텅스텐 광상이 발견됐지만 NASA의 관할권이 개발에 장애물로 작용하고 있다. 텅스텐은 국방 산업의 핵심 전략자원으로, 중국 의존도를 줄이려는 미국의 공급망 재편 전략에서 중요한 의미를 갖는다.
+<a href="https://www.ft.com/content/6abf82dc-6b66-4fc7-8bf7-aa196dbd8e97">[FT]</a></blockquote>
 
 ━━━━━━━━━━━━━━━━━━━━
 📡 <b>출처: WSJ · FT · The Economist</b>
