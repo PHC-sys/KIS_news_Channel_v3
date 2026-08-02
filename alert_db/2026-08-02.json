@@ -1,12 +1,13 @@
 {
   "sent_urls": [
-    "https://www.wsj.com/us-news/how-savannah-guthrie-lost-mother-nancy-28907a65",
     "https://www.wsj.com/tech/ai/the-race-to-build-an-american-alternative-to-cheap-ai-from-china-2e99a28a",
-    "https://www.wsj.com/politics/elections/democrat-fundraising-midterm-elections-57f3d73c",
-    "https://www.ft.com/content/e6e4d553-2474-43e4-bc25-0f1cb952f66d",
-    "https://www.ft.com/content/89450629-32d9-495e-b287-42156e1aa68a",
-    "https://www.wsj.com/tech/ai/openai-anthropic-rogue-ai-models-20b6bb3c",
     "https://www.wsj.com/finance/stocks/stock-market-bubbles-recovery-029d21d0",
-    "https://www.wsj.com/us-news/three-dead-at-least-five-injured-in-idaho-shooting-at-in-n-out-restaurant-63390e21"
+    "https://www.wsj.com/us-news/three-dead-at-least-five-injured-in-idaho-shooting-at-in-n-out-restaurant-63390e21",
+    "https://www.ft.com/content/89450629-32d9-495e-b287-42156e1aa68a",
+    "https://www.wsj.com/us-news/how-savannah-guthrie-lost-mother-nancy-28907a65",
+    "https://www.ft.com/content/9cb84920-075e-4fa4-b1cb-dfc55d5845f4",
+    "https://www.ft.com/content/e6e4d553-2474-43e4-bc25-0f1cb952f66d",
+    "https://www.wsj.com/politics/elections/democrat-fundraising-midterm-elections-57f3d73c",
+    "https://www.wsj.com/tech/ai/openai-anthropic-rogue-ai-models-20b6bb3c"
   ]
 }
