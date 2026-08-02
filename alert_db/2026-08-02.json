@@ -1,22 +1,23 @@
 {
   "sent_urls": [
-    "https://www.ft.com/content/89450629-32d9-495e-b287-42156e1aa68a",
     "https://www.ft.com/content/b15dbbf8-d479-4be6-ba3c-c7e6831fbcca",
     "https://www.ft.com/content/6a987490-f3f8-45f7-8b1c-fd09d9fa874d",
-    "https://www.ft.com/content/383b816c-cef4-40e0-b49c-6237f43a390a",
-    "https://www.wsj.com/tech/ai/openai-anthropic-rogue-ai-models-20b6bb3c",
+    "https://www.ft.com/content/fbc26742-c2a8-4509-ad13-8ad61139f41f",
     "https://www.ft.com/content/e345d51f-11f7-4d4d-8f09-86dd3a225597",
     "https://www.wsj.com/us-news/how-savannah-guthrie-lost-mother-nancy-28907a65",
-    "https://www.ft.com/content/9cb84920-075e-4fa4-b1cb-dfc55d5845f4",
-    "https://www.wsj.com/tech/ai/the-race-to-build-an-american-alternative-to-cheap-ai-from-china-2e99a28a",
-    "https://www.wsj.com/politics/elections/democrat-fundraising-midterm-elections-57f3d73c",
-    "https://www.wsj.com/finance/stocks/stock-market-bubbles-recovery-029d21d0",
-    "https://www.ft.com/content/fbc26742-c2a8-4509-ad13-8ad61139f41f",
-    "https://www.ft.com/content/cf204cc3-fe8e-4950-a84d-6884f54b7248",
     "https://www.ft.com/content/4532122d-90f2-4433-9df6-ca99d8a141d2",
     "https://www.ft.com/content/e6e4d553-2474-43e4-bc25-0f1cb952f66d",
+    "https://www.ft.com/content/383b816c-cef4-40e0-b49c-6237f43a390a",
+    "https://www.wsj.com/tech/ai/openai-anthropic-rogue-ai-models-20b6bb3c",
     "https://www.wsj.com/us-news/three-dead-at-least-five-injured-in-idaho-shooting-at-in-n-out-restaurant-63390e21",
     "https://www.ft.com/content/6a3abcca-1477-4daa-9481-1a63492601a9",
-    "https://www.ft.com/content/edf72126-a478-4d2d-9825-761a9562fd47"
+    "https://www.ft.com/content/cf204cc3-fe8e-4950-a84d-6884f54b7248",
+    "https://www.wsj.com/politics/elections/democrat-fundraising-midterm-elections-57f3d73c",
+    "https://www.wsj.com/tech/ai/the-race-to-build-an-american-alternative-to-cheap-ai-from-china-2e99a28a",
+    "https://www.ft.com/content/a29819ef-ffb9-4d2a-9925-e3d6e6e6e797",
+    "https://www.ft.com/content/edf72126-a478-4d2d-9825-761a9562fd47",
+    "https://www.ft.com/content/89450629-32d9-495e-b287-42156e1aa68a",
+    "https://www.wsj.com/finance/stocks/stock-market-bubbles-recovery-029d21d0",
+    "https://www.ft.com/content/9cb84920-075e-4fa4-b1cb-dfc55d5845f4"
   ]
 }
