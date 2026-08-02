@@ -4,37 +4,65 @@
 
 ✅ <b>간밤의 주요 헤드라인</b>
 
-<b>1. 미 재무부, 뉴욕 연준 통해 엔화 매수 개입...역사적 FX 시장 직접 조치</b>
-<blockquote>미 재무부가 뉴욕 연준을 통해 유로를 매각하고 엔화를 매수하는 시장 개입을 단행했다. 최근 일본 당국의 엔화 지지 개입 가능성이 제기된 가운데 미국의 직접 개입은 이례적인 조치로 평가된다. 달러-엔 환율 변동성 확대와 G7 국가 간 환율 정책 공조 가능성에 시장 관심이 집중된다.
-<a href="https://www.ft.com/content/0f9b2fe7-bde4-4f5f-b49e-93ccb5da9ea8">[FT]</a></blockquote>
+<b>1. 트럼프 이란 공습 취소, 걸프국 중재로 협상 재개...유가 급락</b>
+<blockquote>트럼프 대통령이 계획했던 이란 대규모 공습을 취소하고 협상 재개를 발표했다. 이란은 오만과의 중재로 호르무즈 해협 재개방 합의가 임박했다고 밝혔으며, 긴장 완화 신호에 유가는 급락했다. 중동 지정학 리스크 해소로 에너지 시장 변동성이 축소되는 모습이다.
+<a href="https://www.ft.com/content/c9bd508c-2915-4b34-a5a5-553bff9548a5">[FT]</a></blockquote>
 
-<b>2. 이란, 쿠웨이트 드론 공격 감행...Trump 추가 군사조치 경고로 중동 긴장 고조</b>
-<blockquote>이란이 쿠웨이트를 대상으로 드론 공격을 단행하면서 중동 전쟁 확전 우려가 커지고 있다. Trump 대통령은 추가 군사 타격을 시사했으며, 역내 국가들은 또 다른 단계의 긴장 고조를 준비 중이다. 에너지 공급망 리스크 프리미엄 확대가 불가피해 보인다.
-<a href="https://www.wsj.com/world/middle-east/iran-stokes-the-middle-east-war-with-drone-attacks-on-kuwait-f25530a0">[WSJ]</a></blockquote>
+<b>2. 걸프국들, 트럼프에 이란 공습 유예 압박...중재 나서</b>
+<blockquote>트럼프 대통령이 토요일 늦게 계획된 이란 공습을 취소한 배경에는 걸프 국가들의 강력한 중재 압박이 있었다. 이란은 호르무즈 해협 개방을 위한 새로운 계획에 개방적 입장을 보이고 있으며, 중재국들은 분쟁 종결 합의 윤곽이 잡혔다고 전했다.
+<a href="https://www.wsj.com/world/middle-east/gulf-states-pressed-trump-to-hold-off-on-iran-strikes-and-pursue-talks-03bcdb52">[WSJ]</a></blockquote>
 
-<b>3. 이스라엘 정착민, 서안지구 모스크 방화...마을 주민 자경단 조직해 대응</b>
-<blockquote>서안지구에서 이스라엘 정착민들이 팔레스타인 마을 모스크를 방화하고 폭력을 행사하면서 주민들이 자경단을 조직해 가옥을 방어하는 사태가 벌어졌다. 치명적 충돌 이후 정착민 공격이 확산되고 있으며, 비평가들은 이를 이스라엘 영토 확장 시도로 해석하고 있다. 중동 지정학 리스크의 또 다른 악화 요인으로 주목된다.
-<a href="https://www.wsj.com/world/middle-east/settlers-torch-mosques-and-villagers-guard-homes-west-bank-violence-is-surging-29a33a51">[WSJ]</a></blockquote>
+<b>3. 트럼프, 중동 국가들 요청으로 이란 공습 취소...합의 윤곽 주장</b>
+<blockquote>트럼프 대통령은 중동 국가들의 요청으로 이란 공습을 취소했으며, 분쟁 종결을 위한 '합의 윤곽'이 마련됐다고 밝혔다. 불과 며칠 전 공격을 위협했던 입장에서 급선회한 것으로, 외교적 해법 모색 신호로 해석된다.
+<a href="https://www.ft.com/content/9cb84920-075e-4fa4-b1cb-dfc55d5845f4">[FT]</a></blockquote>
 
-<b>4. 스페인, 모로코발 이민자 대부분 추방 완료...세우타 유입 사태 일단락</b>
-<blockquote>스페인 당국이 모로코에서 아프리카 영토인 세우타로 대규모 유입된 이민자들을 대부분 퇴거 조치했다고 밝혔다. 경찰과 군이 수만 명이 몰려든 후 남아 있던 수백 명을 집결해 추방했다. 유럽 이민 위기의 새로운 발화점으로 부상한 사건이다.
-<a href="https://www.wsj.com/world/europe/spain-migrants-morocco-update-0f16944d">[WSJ]</a></blockquote>
+<b>4. OPEC+ 6개월 연속 증산 결정...생산 확대 사이클 종료 임박</b>
+<blockquote>OPEC과 동맹국들이 6개월 연속 원유 증산을 결정하며 생산 확대 사이클의 막바지에 도달했다. 향후 쿼터 재조정을 둘러싼 어려운 협상이 예고되는 가운데, 이란 리스크 완화와 맞물려 유가 하방 압력이 커지고 있다.
+<a href="https://www.wsj.com/business/energy-oil/opec-allies-increase-oil-output-for-sixth-time-in-a-row-e56378d9">[WSJ]</a></blockquote>
 
-<b>5. EU 내무장관 회의 소집...Sánchez 비판 속 스페인 이민 위기 논의</b>
-<blockquote>EU 회원국 내무장관들이 화요일 긴급 회의를 열고 스페인 이민 위기를 논의한다. Sánchez 스페인 총리는 자국에 대한 비판에 반발하며 EU 차원의 공동 대응을 촉구했다. 이민 정책을 둘러싼 회원국 간 긴장이 다시 수면 위로 부상하고 있다.
-<a href="https://www.ft.com/content/1b3f09b5-897e-4b7a-9949-2c4d9a32929e">[FT]</a></blockquote>
+<b>5. S&P 500 기업 5년래 최강 실적 전망...소비자 비용 부담은 증가</b>
+<blockquote>미국 최대 기업들이 '견고한' 실적을 보고하며 S&P 500 기업들은 5년래 가장 강한 어닝 시즌을 맞고 있다. 기업들은 마진 방어에 성공했지만 소비자들은 더 높은 비용에 직면하고 있어, 기업 수익성과 소비 여력 간 괴리가 주목된다.
+<a href="https://www.ft.com/content/b4f150ea-9ea3-4bb4-b1e0-014cf1f0df26">[FT]</a></blockquote>
 
-<b>6. 르펜 후계자 Bardella, 프랑스 CEO 집단 접촉...극우 경제계 포섭 시도</b>
-<blockquote>Marine Le Pen의 30세 후계자 Jordan Bardella가 프랑스 재계 최고경영자들과 접촉을 시도하고 있다. 전통적으로 극우 정당을 기피해온 경제계를 끌어들이기 위한 전략으로, 대선 출마를 앞두고 극우의 주류화 움직임이 가시화되고 있다.
-<a href="https://www.wsj.com/world/europe/can-marine-le-pens-30-year-old-protege-win-over-frances-ceos-8e597a22">[WSJ]</a></blockquote>
+<b>6. 어닝시즌 정점, SpaceX 첫 실적발표...주간 전망 초점</b>
+<blockquote>어닝시즌이 정점에 도달하며 SpaceX가 사상 첫 실적 컨퍼런스콜을 진행하고, Flutter는 뉴욕으로 상장 이전을 발표했다. 중국과 인도의 인플레이션 데이터 업데이트도 예정돼 있어 글로벌 물가 흐름 점검이 이뤄질 전망이다.
+<a href="https://www.ft.com/content/21896669-cce4-43cb-8e7b-e40520e9ac91">[FT]</a></blockquote>
 
-<b>7. 영국 Burnham 총리, 지방분권 개헌 시사...지방 시장 권한 확대 구상</b>
-<blockquote>Burnham 영국 총리가 지방 시장들에게 대폭적인 권한을 부여하는 지방분권 개혁안을 추진하며, 이것이 영국의 성문헌법 제정으로 이어질 수 있다고 밝혔다. 잉글랜드 운영을 위한 '새로운 원칙'이 필요하다는 주장으로, 영국 정치 구조의 근본적 변화 가능성이 제기됐다.
-<a href="https://www.ft.com/content/72e4bd53-2e4f-420a-aa44-4de486a0ab19">[FT]</a></blockquote>
+<b>7. 7월 미국 고용지표 발표 앞두고 금리 전망 재점검 예고</b>
+<blockquote>이번 주 발표될 7월 미국 고용지표가 연준의 금리 정책 경로에 대한 재평가를 촉발할지 주목된다. 기업 실적 호조와 노동시장 동향이 맞물리며 연준의 완화 사이클 속도 조정 가능성이 거론되고 있다.
+<a href="https://www.ft.com/content/b3042c38-c38c-48f9-aa8c-99901ed440a9">[FT]</a></blockquote>
 
-<b>8. 미국서 대규모 텅스텐 광상 발견...국방 핵심 자원 확보에 NASA 규제 걸림돌</b>
-<blockquote>미국 내 최대 규모로 추정되는 텅스텐 광상이 발견됐지만 NASA의 관할권이 개발에 장애물로 작용하고 있다. 텅스텐은 국방 산업의 핵심 전략자원으로, 중국 의존도를 줄이려는 미국의 공급망 재편 전략에서 중요한 의미를 갖는다.
-<a href="https://www.ft.com/content/6abf82dc-6b66-4fc7-8bf7-aa196dbd8e97">[FT]</a></blockquote>
+<b>8. 연준 의장 Kevin Warsh, 경제 쇼크 시 대응책 모색...불확실성 직면</b>
+<blockquote>Kevin Warsh 연준 의장이 미국 경제가 위기에 직면할 경우 어떤 대응을 할지 주목받고 있다. AI 관련 주식 급락과 유가 급등 리스크를 동시에 안고 있는 가운데, 수수께끼 같은 연준의 정책 방향이 시장의 관심사로 떠올랐다.
+<a href="https://www.economist.com/finance-and-economics/2026/08/02/what-will-kevin-warsh-do-if-americas-economy-breaks">[Economist]</a></blockquote>
+
+<b>9. 헝가리 극심한 가뭄에 원전 가동 중단...정전 위기 고조</b>
+<blockquote>헝가리가 극심한 가뭄으로 다뉴브강 수위가 사상 최저치를 기록하며 사상 첫 원자력발전소 가동 중단 사태를 맞았다. 전력 공급 부족 우려가 커지면서 정전 위기에 대비하고 있으며, 유럽 에너지 인프라 취약성이 다시 부각됐다.
+<a href="https://www.ft.com/content/a4539dc2-dcb0-4b57-9a78-c32cb1f9eda1">[FT]</a></blockquote>
+
+<b>10. 모로코 세우타 집단 도하 사태, 사망자 72명...실종 가족 수색 계속</b>
+<blockquote>모로코에서 6만 명이 스페인 영토 세우타로 집단 수영을 시도한 사태로 사망자가 72명으로 늘어났다. 가족들은 여전히 실종된 자녀들을 찾고 있으며, 유럽 이민 위기의 새로운 국면을 보여주는 비극으로 기록됐다.
+<a href="https://www.ft.com/content/a01171e8-f8a1-4e2c-b3f7-f79f9cd11651">[FT]</a></blockquote>
+
+<b>11. Monte dei Paschi, Banco BPM 인수 추진...합병 협상 결렬 후</b>
+<blockquote>이탈리아 Monte dei Paschi은행이 Banco BPM과의 '대등 합병' 협상 결렬 후 적대적 인수를 검토하고 있다. 최고경영자는 Banco BPM의 최대주주인 Crédit Agricole에 접근을 고려 중이며, 이탈리아 은행권 재편이 새로운 국면을 맞고 있다.
+<a href="https://www.ft.com/content/4ce36d22-571d-4532-8a8f-078e8fba34ff">[FT]</a></blockquote>
+
+<b>12. 우크라이나 EU 개혁 지체...가입 작업 회피 지적</b>
+<blockquote>우크라이나 정부가 EU 가입에 필요한 개혁 작업을 회피하고 있다는 지적이 나왔다. EU는 우크라이나에 개혁을 강제할 필요가 있으며, 회원국 가입 절차의 엄격한 이행이 요구된다는 분석이다.
+<a href="https://www.economist.com/europe/2026/08/02/ukraine-needs-the-eu-to-force-it-to-reform">[Economist]</a></blockquote>
+
+<b>13. AstraZeneca-Bristol Myers Squibb, 4000억 달러 M&A 협의...제약 4위 탄생</b>
+<blockquote>AstraZeneca가 Bristol Myers Squibb과 4000억 달러 규모의 합병을 협의 중이다. 합병이 성사되면 시가총액 기준 세계 4위 제약사가 탄생하며, 제약 섹터의 대형 재편이 예고된다.
+<a href="https://www.ft.com/content/e9027253-e13c-460a-a4b1-f9047e5a6ca7">[FT]</a></blockquote>
+
+<b>14. 캐나다 WestJet 파업으로 수백 편 결항...휴가 시즌 대혼란</b>
+<blockquote>캐나다 2위 항공사 WestJet의 파업으로 수백 편의 항공편이 결항되며 휴가철 주말 승객들이 발이 묶였다. 노사 갈등이 장기화될 경우 여행 수요 성수기 항공 운송에 차질이 불가피할 전망이다.
+<a href="https://www.wsj.com/business/airlines/westjet-strike-grounds-hundreds-of-flights-in-canada-0a2ca72a">[WSJ]</a></blockquote>
+
+<b>15. 미국 AI 시대 인력 재훈련 과제...투자 확대 필요성 대두</b>
+<blockquote>미국이 AI가 노동자들을 대체하기 전에 재훈련 프로그램을 성공시킬 수 있을지 주목받고 있다. 성공을 위해서는 반도체에 투자하는 것만큼 진지하게 직원 교육에 투자해야 한다는 지적이 나온다.
+<a href="https://www.economist.com/united-states/2026/08/02/can-america-retrain-workers-before-ai-leaves-them-behind">[Economist]</a></blockquote>
 
 ━━━━━━━━━━━━━━━━━━━━
 📡 <b>출처: WSJ · FT · The Economist</b>
