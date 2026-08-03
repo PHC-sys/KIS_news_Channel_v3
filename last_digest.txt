@@ -4,65 +4,109 @@
 
 ✅ <b>간밤의 주요 헤드라인</b>
 
-<b>1. 트럼프 이란 공습 취소, 걸프국 중재로 협상 재개...유가 급락</b>
-<blockquote>트럼프 대통령이 계획했던 이란 대규모 공습을 취소하고 협상 재개를 발표했다. 이란은 오만과의 중재로 호르무즈 해협 재개방 합의가 임박했다고 밝혔으며, 긴장 완화 신호에 유가는 급락했다. 중동 지정학 리스크 해소로 에너지 시장 변동성이 축소되는 모습이다.
-<a href="https://www.ft.com/content/c9bd508c-2915-4b34-a5a5-553bff9548a5">[FT]</a></blockquote>
+<b>1. 트럼프, 이란 공습 유보하며 외교 시사...유가 급락·주식 랠리</b>
+<blockquote>트럼프 대통령이 이란에 대한 대규모 공습 계획을 중단하고 외교적 해결 의지를 밝히면서 유가가 급락하고 미국 증시가 급등했다. 호르무즈 해협 재개에 대한 기대감이 확산되며 위험자산 선호 심리가 강화됐다.
+<a href="https://www.wsj.com/finance/stocks/u-s-stocks-rally-while-oil-slides-on-middle-east-diplomacy-hopes-5a2d3f06">[WSJ]</a></blockquote>
 
-<b>2. 걸프국들, 트럼프에 이란 공습 유예 압박...중재 나서</b>
-<blockquote>트럼프 대통령이 토요일 늦게 계획된 이란 공습을 취소한 배경에는 걸프 국가들의 강력한 중재 압박이 있었다. 이란은 호르무즈 해협 개방을 위한 새로운 계획에 개방적 입장을 보이고 있으며, 중재국들은 분쟁 종결 합의 윤곽이 잡혔다고 전했다.
-<a href="https://www.wsj.com/world/middle-east/gulf-states-pressed-trump-to-hold-off-on-iran-strikes-and-pursue-talks-03bcdb52">[WSJ]</a></blockquote>
+<b>2. 유가, 중동 외교 기대에 급락...WTI 장중 하락폭 확대</b>
+<blockquote>미국이 이란에 대한 주요 공격 계획을 보류하면서 원유 선물이 급락했다. 트럼프 대통령은 협상을 통한 해결 가능성을 시사했으나, 이란과의 합의 전망은 여전히 불확실한 상황이다.
+<a href="https://www.wsj.com/finance/commodities-futures/oil-prices-fall-amid-hopes-of-possible-u-s-iran-deal-9a3f0ff4">[WSJ]</a></blockquote>
 
-<b>3. 트럼프, 중동 국가들 요청으로 이란 공습 취소...합의 윤곽 주장</b>
-<blockquote>트럼프 대통령은 중동 국가들의 요청으로 이란 공습을 취소했으며, 분쟁 종결을 위한 '합의 윤곽'이 마련됐다고 밝혔다. 불과 며칠 전 공격을 위협했던 입장에서 급선회한 것으로, 외교적 해법 모색 신호로 해석된다.
-<a href="https://www.ft.com/content/9cb84920-075e-4fa4-b1cb-dfc55d5845f4">[FT]</a></blockquote>
+<b>3. 이란, 미국과 호르무즈 해협 협상 없다...트럼프 발언 부인</b>
+<blockquote>이란 외무부는 호르무즈 해협 관련 미국과의 직접 협상을 부인했으며, 오만과의 교통 관리 논의만 진행 중이라고 밝혔다. 트럼프 대통령은 이란을 "믿을 수 없을 정도로 이중적"이라고 비난했다.
+<a href="https://www.wsj.com/world/middle-east/iran-says-no-talks-with-the-u-s-on-hormuz-strait-9863c9f0">[WSJ]</a></blockquote>
 
-<b>4. OPEC+ 6개월 연속 증산 결정...생산 확대 사이클 종료 임박</b>
-<blockquote>OPEC과 동맹국들이 6개월 연속 원유 증산을 결정하며 생산 확대 사이클의 막바지에 도달했다. 향후 쿼터 재조정을 둘러싼 어려운 협상이 예고되는 가운데, 이란 리스크 완화와 맞물려 유가 하방 압력이 커지고 있다.
-<a href="https://www.wsj.com/business/energy-oil/opec-allies-increase-oil-output-for-sixth-time-in-a-row-e56378d9">[WSJ]</a></blockquote>
+<b>4. Economist, 호르무즈 봉쇄 장기화 가능성 경고...대시보드 분석</b>
+<blockquote>이코노미스트는 호르무즈 해협 의존도 대시보드를 통해 이란의 해협 무기화가 세계가 기대하는 것보다 장기화될 수 있다고 분석했다. 글로벌 에너지 공급망 재편 압력이 지속될 전망이다.
+<a href="https://www.economist.com/middle-east-and-africa/2026/08/03/how-long-can-iran-weaponise-hormuz">[Economist]</a></blockquote>
 
-<b>5. S&P 500 기업 5년래 최강 실적 전망...소비자 비용 부담은 증가</b>
-<blockquote>미국 최대 기업들이 '견고한' 실적을 보고하며 S&P 500 기업들은 5년래 가장 강한 어닝 시즌을 맞고 있다. 기업들은 마진 방어에 성공했지만 소비자들은 더 높은 비용에 직면하고 있어, 기업 수익성과 소비 여력 간 괴리가 주목된다.
-<a href="https://www.ft.com/content/b4f150ea-9ea3-4bb4-b1e0-014cf1f0df26">[FT]</a></blockquote>
+<b>5. 일본, 美·日 엔화 공동개입 공식 확인...추가 개입 경고</b>
+<blockquote>일본 재무상 Satsuki Katayama는 미국과의 공동 엔화 개입을 공식 확인하고, 필요시 추가 개입을 시사했다. '무질서한 환율 움직임'에 대응하기 위한 양국 협력이 역사적으로 이례적인 조치로 평가된다.
+<a href="https://www.ft.com/content/5de204a4-4db6-458c-aa9a-324e6bd5e766">[FT]</a></blockquote>
 
-<b>6. 어닝시즌 정점, SpaceX 첫 실적발표...주간 전망 초점</b>
-<blockquote>어닝시즌이 정점에 도달하며 SpaceX가 사상 첫 실적 컨퍼런스콜을 진행하고, Flutter는 뉴욕으로 상장 이전을 발표했다. 중국과 인도의 인플레이션 데이터 업데이트도 예정돼 있어 글로벌 물가 흐름 점검이 이뤄질 전망이다.
-<a href="https://www.ft.com/content/21896669-cce4-43cb-8e7b-e40520e9ac91">[FT]</a></blockquote>
+<b>6. 엔화 반등 지속 여부 의구심...투자자들 여전히 회의적</b>
+<blockquote>미·일 공동 개입 이후 엔화가 반등했지만, 투자자들은 강세 지속 가능성에 회의적 반응을 보이고 있다. 시장은 일본은행의 추가 긴축 의지와 미 재무부의 지속적 지원 여부를 주시 중이다.
+<a href="https://www.wsj.com/finance/currencies/global-stocks-markets-dow-news-08-03-2026-a91fee80">[WSJ]</a></blockquote>
 
-<b>7. 7월 미국 고용지표 발표 앞두고 금리 전망 재점검 예고</b>
-<blockquote>이번 주 발표될 7월 미국 고용지표가 연준의 금리 정책 경로에 대한 재평가를 촉발할지 주목된다. 기업 실적 호조와 노동시장 동향이 맞물리며 연준의 완화 사이클 속도 조정 가능성이 거론되고 있다.
-<a href="https://www.ft.com/content/b3042c38-c38c-48f9-aa8c-99901ed440a9">[FT]</a></blockquote>
+<b>7. FT, 미국의 엔화 개입 규모 추정 난항...공식 발표 없어</b>
+<blockquote>미국의 엔화 개입 규모는 아직 공식 발표되지 않아 시장은 추정에 의존하고 있다. 일본 당국의 확인에도 불구하고 구체적 개입 금액과 방식은 불투명한 상태다.
+<a href="https://www.ft.com/content/e279135e-cd6e-46d4-b80b-2e6b0c0901a9">[FT]</a></blockquote>
 
-<b>8. 연준 의장 Kevin Warsh, 경제 쇼크 시 대응책 모색...불확실성 직면</b>
-<blockquote>Kevin Warsh 연준 의장이 미국 경제가 위기에 직면할 경우 어떤 대응을 할지 주목받고 있다. AI 관련 주식 급락과 유가 급등 리스크를 동시에 안고 있는 가운데, 수수께끼 같은 연준의 정책 방향이 시장의 관심사로 떠올랐다.
-<a href="https://www.economist.com/finance-and-economics/2026/08/02/what-will-kevin-warsh-do-if-americas-economy-breaks">[Economist]</a></blockquote>
+<b>8. 미국 제조업 PMI 7월 확장세 지속...ISM 55.6 기록</b>
+<blockquote>미국 공급관리협회(ISM) 제조업 구매관리자지수(PMI)는 7월 55.6을 기록하며 6월 53.3에서 상승했다. 시장 예상치 54를 상회하며 제조업 확장세가 이어지고 있다.
+<a href="https://www.wsj.com/economy/central-banking/u-s-factory-activity-expands-again-in-july-620ff592">[WSJ]</a></blockquote>
 
-<b>9. 헝가리 극심한 가뭄에 원전 가동 중단...정전 위기 고조</b>
-<blockquote>헝가리가 극심한 가뭄으로 다뉴브강 수위가 사상 최저치를 기록하며 사상 첫 원자력발전소 가동 중단 사태를 맞았다. 전력 공급 부족 우려가 커지면서 정전 위기에 대비하고 있으며, 유럽 에너지 인프라 취약성이 다시 부각됐다.
-<a href="https://www.ft.com/content/a4539dc2-dcb0-4b57-9a78-c32cb1f9eda1">[FT]</a></blockquote>
+<b>9. 미 국채 수익률 하락...지정학 리스크 완화에 안전자산 수요 감소</b>
+<blockquote>호르무즈 해협 외교 해결 기대감이 높아지면서 미 국채 수익률이 하락했다. 지정학적 긴장 완화로 안전자산 선호 심리가 약화됐다.
+<a href="https://www.wsj.com/finance/investing/short-dated-jgbs-fall-on-growing-boj-rate-increase-expectations-c0bac28f">[WSJ]</a></blockquote>
 
-<b>10. 모로코 세우타 집단 도하 사태, 사망자 72명...실종 가족 수색 계속</b>
-<blockquote>모로코에서 6만 명이 스페인 영토 세우타로 집단 수영을 시도한 사태로 사망자가 72명으로 늘어났다. 가족들은 여전히 실종된 자녀들을 찾고 있으며, 유럽 이민 위기의 새로운 국면을 보여주는 비극으로 기록됐다.
-<a href="https://www.ft.com/content/a01171e8-f8a1-4e2c-b3f7-f79f9cd11651">[FT]</a></blockquote>
+<b>10. 금 가격 소폭 하락...위험회피 심리 완화에 2거래일 연속 하락</b>
+<blockquote>Comex 금 선물은 0.38% 하락한 온스당 $4,033.70에 마감했다. 2거래일 연속 하락하며 중동 외교 기대감에 따른 위험회피 심리 약화가 반영됐다. 은은 0.1% 상승했다.
+<a href="https://www.wsj.com/finance/commodities-futures/gold-rises-on-technical-rebound-e221dd67">[WSJ]</a></blockquote>
 
-<b>11. Monte dei Paschi, Banco BPM 인수 추진...합병 협상 결렬 후</b>
-<blockquote>이탈리아 Monte dei Paschi은행이 Banco BPM과의 '대등 합병' 협상 결렬 후 적대적 인수를 검토하고 있다. 최고경영자는 Banco BPM의 최대주주인 Crédit Agricole에 접근을 고려 중이며, 이탈리아 은행권 재편이 새로운 국면을 맞고 있다.
-<a href="https://www.ft.com/content/4ce36d22-571d-4532-8a8f-078e8fba34ff">[FT]</a></blockquote>
+<b>11. 미 주 검찰총장 20명 이상, 트럼프 관세 조사 위헌 소송 제기</b>
+<blockquote>20개 이상 주의 검찰총장들이 트럼프 행정부의 강제노동 위반 혐의 관세 조사를 '사기'라며 법적 도전에 나섰다. 연방 정부의 관세 권한 남용을 둘러싼 주 정부와의 충돌이 격화되고 있다.
+<a href="https://www.ft.com/content/dab7ab5c-9c5c-4763-8313-43e907e3edf7">[FT]</a></blockquote>
 
-<b>12. 우크라이나 EU 개혁 지체...가입 작업 회피 지적</b>
-<blockquote>우크라이나 정부가 EU 가입에 필요한 개혁 작업을 회피하고 있다는 지적이 나왔다. EU는 우크라이나에 개혁을 강제할 필요가 있으며, 회원국 가입 절차의 엄격한 이행이 요구된다는 분석이다.
-<a href="https://www.economist.com/europe/2026/08/02/ukraine-needs-the-eu-to-force-it-to-reform">[Economist]</a></blockquote>
+<b>12. 트럼프, Big Oil 초과이익 비난...Exxon·Chevron 겨냥</b>
+<blockquote>트럼프 대통령은 고유가 속에서 기록적 이익을 내고 있는 Exxon과 Chevron을 "너무 많은 돈을 벌고 있다"며 공개 비난했다. 에너지 정책 일관성에 대한 의문이 제기되고 있다.
+<a href="https://www.wsj.com/business/energy-oil/trump-blasts-big-oil-companies-for-making-too-much-money-e113c41b">[WSJ]</a></blockquote>
 
-<b>13. AstraZeneca-Bristol Myers Squibb, 4000억 달러 M&A 협의...제약 4위 탄생</b>
-<blockquote>AstraZeneca가 Bristol Myers Squibb과 4000억 달러 규모의 합병을 협의 중이다. 합병이 성사되면 시가총액 기준 세계 4위 제약사가 탄생하며, 제약 섹터의 대형 재편이 예고된다.
+<b>13. 트럼프, Pirro 검사 경질 논의...Reflecting Pool 사건 철회 후폭풍</b>
+<blockquote>트럼프 대통령은 링컨 기념관 Reflecting Pool 손상 사건 기소를 철회한 워싱턴 DC 연방검사 Jeanine Pirro를 경질하는 방안을 논의했다. 대통령은 Pirro가 "우산처럼 접혔다"고 비판했다.
+<a href="https://www.wsj.com/politics/policy/trump-says-jeanine-pirro-folded-like-an-umbrella-in-reflecting-pool-case-89a06be2">[WSJ]</a></blockquote>
+
+<b>14. 공화당 상원의원 2명, Blanche 법무장관 인준 지지 전환...반무기화 기금 공식 철회</b>
+<blockquote>Todd Blanche 법무장관 대행은 $17.76억 규모의 '반무기화 기금'을 공식 철회하며 공화당 반대파였던 상원의원 2명의 지지를 확보했다. 인준 절차가 순조롭게 진행될 전망이다.
+<a href="https://www.wsj.com/politics/policy/blanche-formally-rescinds-anti-weaponization-fund-in-bid-to-smooth-confirmation-a576496f">[WSJ]</a></blockquote>
+
+<b>15. FT, Blanche 법무장관 인준 가속화...상원 공화당 핵심 지지 확보</b>
+<blockquote>Todd Blanche 법무장관 대행이 $18억 규모 '비자금' 폐지 후 공화당 상원의원들의 지지를 얻으면서 인준 절차가 탄력을 받고 있다. 의회와의 타협을 통한 인사 돌파구가 마련됐다.
+<a href="https://www.ft.com/content/518d4dea-01b4-4030-85c1-916e91661580">[FT]</a></blockquote>
+
+<b>16. 유럽 가뭄, 물류·발전 마비...경제 압박 가중</b>
+<blockquote>유럽의 장기 가뭄으로 주요 강의 수위가 낮아지면서 선박 운항이 중단되고 발전소가 가동을 멈추고 있다. 이미 압박받고 있는 유럽 경제에 추가 부담이 되고 있다.
+<a href="https://www.wsj.com/world/europe/ships-cant-move-and-power-plants-shut-down-as-drought-saps-europes-rivers-8b083c62">[WSJ]</a></blockquote>
+
+<b>17. AstraZeneca·Bristol Myers Squibb, $4000억 메가 합병 논의</b>
+<blockquote>AstraZeneca와 Bristol Myers Squibb가 시가총액 기준 세계 4위 제약사를 탄생시킬 $4,000억 규모 합병을 논의 중이다. 투자자들은 특허 만료 임박과 반독점 리스크에 우려를 표명하고 있다.
 <a href="https://www.ft.com/content/e9027253-e13c-460a-a4b1-f9047e5a6ca7">[FT]</a></blockquote>
 
-<b>14. 캐나다 WestJet 파업으로 수백 편 결항...휴가 시즌 대혼란</b>
-<blockquote>캐나다 2위 항공사 WestJet의 파업으로 수백 편의 항공편이 결항되며 휴가철 주말 승객들이 발이 묶였다. 노사 갈등이 장기화될 경우 여행 수요 성수기 항공 운송에 차질이 불가피할 전망이다.
-<a href="https://www.wsj.com/business/airlines/westjet-strike-grounds-hundreds-of-flights-in-canada-0a2ca72a">[WSJ]</a></blockquote>
+<b>18. Visa, AI 사기 방어 BioCatch $24억에 인수</b>
+<blockquote>Visa는 인공지능 기반 사기 감지 플랫폼 BioCatch를 현금 $24억에 인수한다고 발표했다. 디지털 결제 사기 방어 역량 강화가 목적이다.
+<a href="https://www.wsj.com/finance/banking/visa-to-buy-fraud-defense-platform-biocatch-in-2-4-billion-deal-5e36f6e3">[WSJ]</a></blockquote>
 
-<b>15. 미국 AI 시대 인력 재훈련 과제...투자 확대 필요성 대두</b>
-<blockquote>미국이 AI가 노동자들을 대체하기 전에 재훈련 프로그램을 성공시킬 수 있을지 주목받고 있다. 성공을 위해서는 반도체에 투자하는 것만큼 진지하게 직원 교육에 투자해야 한다는 지적이 나온다.
-<a href="https://www.economist.com/united-states/2026/08/02/can-america-retrain-workers-before-ai-leaves-them-behind">[Economist]</a></blockquote>
+<b>19. Curium, Lantheus Holdings $67억에 인수...프리미엄 2.9%</b>
+<blockquote>Curium은 의료기기 업체 Lantheus Holdings를 주당 $102.50, 총 $67억에 인수한다고 발표했다. 금요일 종가 대비 2.9% 프리미엄이다.
+<a href="https://www.wsj.com/finance/investing/lantheus-holdings-to-be-acquired-for-initial-6-7-billion-d7a18bdf">[WSJ]</a></blockquote>
+
+<b>20. JPMorgan, 미국 주택 공급 확대에 $7500억 투자 발표</b>
+<blockquote>JPMorgan Chase는 2035년까지 100만 가구의 저렴한 주택 건설을 지원하고 20만 명의 첫 주택 구매자에게 대출을 제공하기 위해 $7,500억을 투자한다고 밝혔다. 주택 공급 부족 완화를 위한 민간 주도 이니셔티브로 주목받고 있다.
+<a href="https://www.wsj.com/finance/banking/jpmorgan-chase-to-invest-750-billion-to-boost-u-s-housing-supply-homeownership-11a389e5">[WSJ]</a></blockquote>
+
+<b>21. KKR, Integer Holdings $43억에 인수...의료기기 아웃소싱 강화</b>
+<blockquote>사모펀드 KKR은 의료기기 아웃소싱 업체 Integer Holdings를 주당 $127, 총 $43억에 인수하기로 합의했다. 의료기기 섹터 투자 확대 전략의 일환이다.
+<a href="https://www.wsj.com/business/deals/kkr-to-buy-integer-holdings-for-4-3-billion-a80f2560">[WSJ]</a></blockquote>
+
+<b>22. UBS, 자금세탁 방지 소홀로 $1.25억 벌금...미 규제당국 제재</b>
+<blockquote>스위스 은행 UBS는 자금세탁 방지 통제 미흡으로 미국 규제당국으로부터 $1억2,500만 벌금을 부과받았다. 이전 제재에도 불구하고 적절한 통제 조치를 이행하지 않은 것으로 드러났다.
+<a href="https://www.ft.com/content/03c413f2-6ad5-45d1-b5ac-fdb6ed8b4cff">[FT]</a></blockquote>
+
+<b>23. Palantir, AI 매출 급증에 주가 급등...가이던스 상향</b>
+<blockquote>Palantir의 AI 부문 매출이 거의 두 배로 증가하며 주가가 급등했다. CEO Alex Karp는 "AI 주권에 대한 수요가 폭발적으로 증가했다"며 연간 전망을 상향 조정했다.
+<a href="https://www.wsj.com/business/earnings/palantir-lifts-guidance-as-revenue-nearly-doubles-f4d79fa7">[WSJ]</a></blockquote>
+
+<b>24. FT, Palantir 미국 AI 소프트웨어 수요 확대 전망...미국 매출 23% 증가</b>
+<blockquote>Palantir는 2분기 실적에서 미국 기업의 AI 소프트웨어 수요가 더욱 증가할 것으로 전망했다. 미국 내 매출은 23% 증가했다.
+<a href="https://www.ft.com/content/3240e7c4-ba29-4ff3-83e5-cf2b3a5ff0ca">[FT]</a></blockquote>
+
+<b>25. Economist, 중국 AI 투자 효율성 미국 추월...적은 투자로 동등 성과</b>
+<blockquote>중국의 AI 투자는 미국에 크게 뒤처지지만, 모델 성능은 동등한 수준을 보이고 있다. 투자 효율성에서 중국이 우위를 점하며 기술 경쟁 구도가 재편되고 있다.
+<a href="https://www.economist.com/finance-and-economics/2026/08/03/how-china-gets-better-bang-for-its-buck-than-america-in-ai">[Economist]</a></blockquote>
+
+<b>26. Diamondback Energy, 유가 급등에 생산 가이던스 상향...이익 급증</b>
+<blockquote>Diamondback Energy는 이란 전쟁 이후 유가 상승으로 이익이 급증하며 생산 가이던스를 상향 조정했다. 고유가 수혜가 실적에 직접 반영됐다.
+<a href="https://www.wsj.com/business/energy-oil/diamondback-energy-lifts-production-guidance-reports-surging-profit-on-high-oil-prices-65eefc81">[WSJ]</a></blockquote>
 
 ━━━━━━━━━━━━━━━━━━━━
 📡 <b>출처: WSJ · FT · The Economist</b>
