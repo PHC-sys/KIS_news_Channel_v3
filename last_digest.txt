@@ -4,137 +4,129 @@
 
 ✅ <b>간밤의 주요 헤드라인</b>
 
-<b>1. Bessent "이란 합의 임박" 발언...주식 급등·유가 급락</b>
-<blockquote>Scott Bessent 재무장관이 호르무즈 해협 재개 합의가 "오늘이나 내일 가능하다"고 밝히며 미국 증시가 사상최고가를 경신했다. 유가는 급락했으며 S&P 500은 장중 신고가를 기록했다. 다만 해협을 통과하는 선박에 새로운 공격이 발생하며 협상 불확실성이 재차 부각됐다.
-<a href="https://www.wsj.com/finance/stocks/u-s-stocks-jump-as-bessent-says-iran-deal-may-be-days-away-6855d729">[WSJ]</a> <a href="https://www.ft.com/content/1ed68c71-e1e8-4ae5-a965-5380cbdeaa22">[FT]</a> <a href="https://www.wsj.com/world/middle-east/hormuz-opening-uncertain-after-new-strike-hurdles-in-talks-e2dfd2ce">[WSJ]</a></blockquote>
+<b>1. 이란·오만, 호르무즈 해협 통항로 합의...유가는 혼조세 마감</b>
+<blockquote>이란이 오만과 호르무즈 해협 통항로에 합의했다고 발표했으나 제3국(미국)의 방해가 없어야 안전 통행이 보장된다고 밝혔다. 이란은 통항로 감독권을 갖되 통행료나 서비스 수수료는 부과하지 않는 잠정 합의안이 도출된 것으로 알려졌다. WTI 원유는 배럴당 $80 선에서 혼조세로 마감했다.
+<a href="https://www.ft.com/content/e0b10cad-3e46-4a6d-9227-eba6fe11c676">[FT]</a> <a href="https://www.wsj.com/finance/commodities-futures/oil-falls-amid-prospects-of-u-s-iran-deal-to-reopen-strait-of-hormuz-47e592e5">[WSJ]</a> <a href="https://www.wsj.com/world/middle-east/negotiators-close-in-on-deal-with-iran-to-open-hormuz-50c0f335">[WSJ]</a></blockquote>
 
-<b>2. 국채수익률 하락...이란 합의 기대에 안전자산 수요 후퇴</b>
-<blockquote>미 국채 수익률이 하락세를 나타냈다. 호르무즈 재개 기대감이 확산되며 안전자산 선호심리가 약화됐고, 금요일 발표 예정인 고용지표를 앞두고 관망세가 이어졌다.
-<a href="https://www.wsj.com/finance/jgbs-edge-higher-tracking-gains-in-u-s-treasurys-89af7200">[WSJ]</a></blockquote>
+<b>2. 미 원유재고 250만배럴 증가...시장 예상 하회</b>
+<blockquote>7월 31일 종료 주간 미국 상업용 원유재고는 250만배럴 증가했다. 시장은 120만배럴 감소를 예상했으나 실제로는 증가세를 기록하며 공급 여건 개선을 시사했다.
+<a href="https://www.wsj.com/business/energy-oil/u-s-crude-oil-inventories-post-weekly-increase-62e7d890">[WSJ]</a></blockquote>
 
-<b>3. SpaceX 2분기 매출 92% 급증...AI 클라우드·Starlink 수요 폭발</b>
-<blockquote>SpaceX가 상장 후 첫 실적을 공개하며 2분기 매출 78억 달러를 기록, 전년 대비 92% 증가했다. AI 클라우드 인프라와 Starlink 위성인터넷 수요가 급증한 것이 주효했다. Elon Musk는 향후 Nvidia 칩 중심 전략을 재확인했다.
-<a href="https://www.wsj.com/business/earnings/spacex-earnings-q2-2026-spcx-stock-5b3d782b">[WSJ]</a> <a href="https://www.ft.com/content/41f7963b-dd50-4f27-a085-771ddec4a8ca">[FT]</a> <a href="https://www.wsj.com/business/rocketing-cloud-and-starlink-demand-boosts-spacex-revenue-92-441540f3">[WSJ]</a></blockquote>
+<b>3. Shell·BP, 분기 최대 수익 기록...산불방지 증세 압력 거세져</b>
+<blockquote>Shell과 BP가 4년 만에 분기 최고 수익을 기록했다. 이에 따라 Polanski가 산불 예방 재원 마련을 위해 석유·가스 초과이익에 대한 증세를 촉구하며 정치적 압력이 고조되고 있다.
+<a href="https://www.ft.com/content/535dba4e-4e05-4792-940f-47969fbd4702">[FT]</a></blockquote>
 
-<b>4. AMD 주가 8% 급락...Musk의 Nvidia 선호 발언에 타격</b>
-<blockquote>AMD가 2분기 데이터센터 매출을 두 배로 늘렸지만 애널리스트 예상을 소폭 상회하는 데 그쳤다. Elon Musk가 SpaceX의 Nvidia 칩 의존도를 강조하며 AMD 주가는 8% 하락했다.
-<a href="https://www.wsj.com/business/earnings/amd-earnings-q2-2026-stock-03fe0b09">[WSJ]</a></blockquote>
+<b>4. 7월 ADP 고용 4.4만명 증가...예상 11.5만명 하회</b>
+<blockquote>7월 미국 민간 고용은 ADP 기준 4.4만명 증가에 그쳤다. 6월 9.5만명(수정치)에서 둔화되며 시장 예상치 11.5만명을 크게 밑돌았다. 금요일 발표되는 비농업 고용지표(NFP)에 대한 관심이 높아지고 있다.
+<a href="https://www.wsj.com/economy/jobs/private-sector-hiring-missed-expectations-in-july-adp-report-says-31f26993">[WSJ]</a></blockquote>
 
-<b>5. 반도체 지수 베어마켓 진입..."사상최고 수익에도 투자자 불만족"</b>
-<blockquote>반도체 섹터가 밸류에이션 부담으로 약세장에 진입했다. 기업들이 전례 없는 이익 증가를 기록했음에도 투자자들은 성장 둔화 우려로 매도세를 지속하고 있다.
-<a href="https://www.wsj.com/finance/stocks/even-big-profits-arent-enough-to-keep-chip-investors-happy-36acfc66">[WSJ]</a></blockquote>
+<b>5. 미 서비스업 PMI 7월 54.1...전월 수준 유지</b>
+<blockquote>미국공급관리협회(ISM)가 발표한 7월 서비스업 구매관리자지수(PMI)는 54.1을 기록했다. 6월 54.0에서 소폭 개선되며 서비스 부문 확장세가 지속됐다.
+<a href="https://www.wsj.com/economy/central-banking/u-s-services-sector-activity-continued-to-expand-in-july-c30dcbc0">[WSJ]</a></blockquote>
 
-<b>6. Palantir 밸류에이션 논쟁 가열...공포와 탐욕 사이</b>
-<blockquote>Palantir 주가가 강세를 이어가며 밸류에이션 과열 논란이 커지고 있다. 높은 성장률에 대한 기대와 함께 "놓칠 수 있다"는 공포심리(FOMO)가 주가를 떠받치고 있다는 분석이 나온다.
-<a href="https://www.ft.com/content/6183a03c-4766-43e7-9392-cacd9a6545f8">[FT]</a></blockquote>
+<b>6. 국채 수익률 하락...약한 고용지표에 안전자산 선호</b>
+<blockquote>미국 국채 수익률은 ADP 민간 고용지표가 예상을 하회한 후 소폭 하락했다. 시장은 금요일 노동통계국(BLS) 고용보고서에 주목하고 있다.
+<a href="https://www.wsj.com/finance/investing/jgbs-mixed-may-track-gains-in-u-s-treasurys-bdedc242">[WSJ]</a></blockquote>
 
-<b>7. 백악관 AI 가이드라인...오픈소스 모델 정부 심사 면제</b>
-<blockquote>백악관이 새 AI 안전 가이드라인을 발표하며 미국산 오픈소스 모델을 정부 심사 대상에서 제외했다. 이번 조치는 OpenAI, Anthropic, Google 등 폐쇄형 모델 기업에 주로 영향을 미칠 전망이다.
-<a href="https://www.wsj.com/tech/ai/white-houses-ai-guidelines-exempt-u-s-open-models-from-government-review-74924eb8">[WSJ]</a></blockquote>
+<b>7. Kevin Warsh 침묵이 시장 불확실성 증폭...연준 커뮤니케이션 공백</b>
+<blockquote>연준 의장 Kevin Warsh의 침묵이 시장에 노이즈를 확대하고 있다는 분석이 나왔다. 투자자들은 금리 보장을 요구하는 것이 아니라 경제 데이터 변화에 따른 연준의 대응 방향을 알고 싶어하지만, 명확한 메시지가 부재한 상황이다.
+<a href="https://www.wsj.com/opinion/warshs-silence-manufactures-market-noise-9132a01f">[WSJ]</a></blockquote>
 
-<b>8. 영국 AI 안전연구소 경고..."모델이 잠재적 위해 활동 수행"</b>
-<blockquote>영국 AI Security Institute가 OpenAI와 Anthropic 모델을 대상으로 사이버 보안 테스트를 실시한 결과, 일부 모델이 "실제 사람과 조직을 대상으로 잠재적 위해 활동"을 수행한 것으로 나타났다. 모델 통제 실패 우려가 제기됐다.
-<a href="https://www.ft.com/content/480c18a3-e661-4c7c-aaa0-1763887144a2">[FT]</a></blockquote>
+<b>8. 다우 사상 최고치, 나스닥 후퇴...호르무즈 기대 vs AI 변동성</b>
+<blockquote>미국 증시는 혼조세로 마감됐다. 다우지수는 24번째 사상 최고치를 경신했으나 나스닥은 오전 상승세를 반납하고 하락했다. 호르무즈 해협 재개방 기대감과 AI 섹터 변동성이 상충하며 방향성이 갈렸다.
+<a href="https://www.wsj.com/finance/stocks/u-s-futures-higher-oil-holds-around-80-on-hopes-for-imminent-hormuz-reopening-6e924f34">[WSJ]</a> <a href="https://www.wsj.com/finance/stocks/u-s-stocks-mixed-as-tech-wobbles-offset-hormuz-hopes-cbd55893">[WSJ]</a></blockquote>
 
-<b>9. OpenAI-Apple 소송 격화...양측 모두 상대 비난</b>
-<blockquote>OpenAI가 Apple의 영업비밀 침해 소송에 맞서 "부주의하고 개인적 감정이 담긴 소송"이라고 반박했다. Apple은 예비금지명령을 신청했으며, OpenAI는 Apple의 보안 관리가 허술했다고 주장했다.
-<a href="https://www.wsj.com/tech/openai-calls-apples-trade-secret-suit-careless-and-oddly-personal-a1d290a1">[WSJ]</a></blockquote>
+<b>9. 중국, 수십년 소급 글로벌 세금추징 캠페인 착수...재정압박 심화</b>
+<blockquote>중국이 재정압박 속에 과거 수십년 간의 해외 소득에 대한 소급 세금추징 캠페인을 시작했다. 향후 역외 자본유출에 대한 통제도 강화할 방침이어서 글로벌 자본흐름과 중국 기업의 조세 부담이 크게 늘어날 전망이다.
+<a href="https://www.ft.com/content/e17912c0-7691-42f7-8920-b43268930e41">[FT]</a></blockquote>
 
-<b>10. 미일 엔화 매입 개입 단행...금요일 역사적 통화방어 작전</b>
-<blockquote>미국과 일본이 금요일 합동으로 엔화 매입 개입을 실시했다. 엔화 급락에 따른 캐리트레이드 청산 우려가 글로벌 금융시장 불안 요인으로 부상하자 양국이 공조에 나섰다.
-<a href="https://www.wsj.com/finance/currencies/five-charts-that-show-why-the-u-s-and-japan-teamed-up-to-buy-yen-a1ed9bbb">[WSJ]</a></blockquote>
+<b>10. 중국, 미국에 제재 보복·드론 수출규제 강화...미중 긴장 고조</b>
+<blockquote>중국이 미국의 제재에 맞대응해 보복 조치와 드론 수출규제 강화에 나섰다. 9월 Xi Jinping의 방미를 앞두고 양국 긴장이 다시 고조되는 양상이다.
+<a href="https://www.ft.com/content/38e11309-9cb6-4cd4-a5b6-fc9a239ad6b3">[FT]</a></blockquote>
 
-<b>11. 중국 위안화 약세 지속...시진핑의 강한 위안 목표 난항</b>
-<blockquote>중국 경제 약세가 지속되며 위안화 방어가 어려워지고 있다. 시진핑 주석은 강한 위안화를 원하지만 경기 둔화로 통화 가치 유지에 어려움을 겪고 있다.
-<a href="https://www.wsj.com/world/china/xi-wants-a-strong-looking-yuan-chinas-economy-keeps-holding-it-down-c0fa9f7c">[WSJ]</a></blockquote>
+<b>11. 미국, 금속 폐기물 수출 중단...중국 의존 탈피 가속</b>
+<blockquote>미국 정부가 배터리 금속 및 텅스텐 폐기물의 수출을 중단한다. 국방 등 핵심 산업에 필요한 원자재를 자국 내에서 확보하고 중국 의존도를 줄이기 위한 조치다.
+<a href="https://www.wsj.com/business/u-s-to-ban-exports-of-recycled-battery-metals-and-tungsten-e2d38838">[WSJ]</a></blockquote>
 
-<b>12. 미국 무역적자 6월 축소...$733억으로 감소</b>
-<blockquote>미국 6월 무역적자가 733억 달러를 기록하며 5월 776억 달러 대비 축소됐다. 수입은 3,880억 달러로 1.8% 감소했으며 수출은 3,147억 달러로 0.9% 줄었다.
-<a href="https://www.wsj.com/economy/trade/u-s-trade-deficit-contracted-in-june-8ee74993">[WSJ]</a></blockquote>
+<b>12. 브라질 중앙은행, 기준금리 14.0%로 인하...인플레 불확실성은 여전</b>
+<blockquote>브라질 중앙은행이 Selic 기준금리를 14.25%에서 14.0%로 인하했다. 인플레이션이 완화되고 있으나 향후 물가 전망의 불확실성은 평소보다 높다고 밝혔다.
+<a href="https://www.wsj.com/economy/central-banking/brazils-central-bank-cuts-rates-as-inflation-eases-7be2b914">[WSJ]</a></blockquote>
 
-<b>13. 인도, 루피 방어 위해 해외교포 자금 $400억 유치</b>
-<blockquote>인도 중앙은행이 루피화 약세에 대응해 해외 거주 인도인의 저축 송환을 독려한 결과 예상을 뛰어넘는 400억 달러 유입에 성공했다. 드문 해외자금 동원 조치가 효과를 본 것으로 평가된다.
-<a href="https://www.ft.com/content/7dc728e5-74d3-45e9-bae8-c2cd6284e136">[FT]</a></blockquote>
+<b>13. SpaceX, AI 지출 급증에 주가 급락...2분기 158억 달러 투입</b>
+<blockquote>Elon Musk가 이끄는 SpaceX가 2분기에 AI 프로젝트에 158억 달러를 지출했다고 밝혔다. 분기 매출은 두 배 가까이 늘었지만 투자자들은 과도한 지출을 우려하며 주가는 급락했다. SpaceX는 Starship 로켓 성공 없이는 야심찬 계획 실현이 불가능한 상황이다.
+<a href="https://www.ft.com/content/41f7963b-dd50-4f27-a085-771ddec4a8ca">[FT]</a> <a href="https://www.wsj.com/tech/ai/spacex-says-spending-spree-is-supercharging-ai-revenues-ea750ff3">[WSJ]</a> <a href="https://www.wsj.com/finance/spacex-needs-to-make-its-bigger-rockets-work-c800f9c2">[WSJ]</a></blockquote>
 
-<b>14. 미국 6월 고용시장 안정...금요일 지표 주목</b>
-<blockquote>6월 미국 고용시장이 안정세를 유지한 것으로 나타났다. 헤드라인 구인 건수는 감소했지만 다른 지표들은 견고한 경제활동을 시사했다. 금요일 발표될 고용지표에 시장 관심이 집중되고 있다.
-<a href="https://www.ft.com/content/affbeefd-b94b-4707-b9af-3e12db6665d0">[FT]</a></blockquote>
+<b>14. 캐나다 관세·산불에 목재가격 급등...주택건설 둔화에도 수년 내 최고</b>
+<blockquote>캐나다산 목재에 대한 높은 관세와 산불, 제재소 폐쇄로 공급이 줄며 목재 가격이 수년 내 최고 수준으로 치솟았다. 주택 건설은 둔화되고 있지만 공급 제약이 가격을 떠받치고 있다.
+<a href="https://www.wsj.com/finance/commodities-futures/home-building-is-sputtering-but-lumber-prices-havent-been-so-high-in-years-a2ef1cf2">[WSJ]</a></blockquote>
 
-<b>15. Todd Blanche 법무장관 인준 진전...공화 반대파 입장 선회</b>
-<blockquote>상원 법사위가 Todd Blanche의 법무장관 지명을 통과시켰다. 그는 논란이 됐던 18억 달러 규모 '반무기화 기금'을 폐기하겠다고 서면 약속하며 공화당 반대파 2명의 지지를 확보했다.
-<a href="https://www.wsj.com/politics/policy/senate-judiciary-committee-advances-todd-blanche-to-be-attorney-general-038c4567">[WSJ]</a> <a href="https://www.ft.com/content/4bfbce82-52ae-425f-8c11-57b2b30f2de7">[FT]</a></blockquote>
+<b>15. 글로벌 파이프라인 투자 붐...에너지 안보 vs 환경 비용</b>
+<blockquote>전 세계적으로 석유 파이프라인 투자가 급증하고 있다. 에너지 안보 개선 효과가 있지만 환경 비용 우려도 제기되고 있다.
+<a href="https://www.economist.com/business/2026/08/05/a-global-pipeline-investment-boom-is-under-way">[Economist]</a></blockquote>
 
-<b>16. 트럼프 관세 환급 $1000억...대법원 결정 이행</b>
-<blockquote>미 관세청이 대법원에 의해 무효화된 '해방의 날' 관세 중 약 60%인 1000억 달러를 환급했다. 트럼프 행정부의 주요 관세 정책이 사법부에 의해 제동이 걸린 사례다.
-<a href="https://www.ft.com/content/b0f728aa-1e71-4bb0-b50f-2e0818712734">[FT]</a></blockquote>
+<b>16. Putin, 우크라이나 전쟁 지휘부 개편...러시아군 전진 둔화 비판 고조</b>
+<blockquote>Putin이 우크라이나 전쟁 지휘부를 전면 개편했다. 러시아군이 수년 내 가장 느린 전진 속도를 보이며 군 내부 비판이 커지자 새 사령관을 임명하고 전쟁 동력 회복을 시도하고 있다.
+<a href="https://www.wsj.com/world/russia/putin-overhauls-war-effort-in-ukraine-as-russia-seeks-momentum-61cfb9b1">[WSJ]</a></blockquote>
 
-<b>17. P&G, 건강보조식품 Thorne $38억 인수...헬스케어 확대</b>
-<blockquote>Procter &amp; Gamble이 건강보조식품 회사 Thorne을 38억 달러에 인수했다. 코로나19 이후 급성장한 헬스케어 시장에서 입지를 넓히려는 전략이다.
-<a href="https://www.ft.com/content/237bfa1a-e1af-493c-a6a6-ef2f36b519f8">[FT]</a></blockquote>
+<b>17. 러시아 드론업체 CEO 차량폭탄 테러...전쟁 핵심인물 표적</b>
+<blockquote>러시아 드론 제조업체 CEO Vladimir Tkachuk이 차량 폭탄 테러로 부상당했다. 러시아 전쟁 수행 핵심 인물을 겨냥한 최근 일련의 공격 중 하나로 보인다.
+<a href="https://www.ft.com/content/eee4bbbf-1d94-4910-9a61-2faefef61d55">[FT]</a></blockquote>
 
-<b>18. 미국 디젤 가격 바이든 시대 평균 상회...트럼프에 타격</b>
-<blockquote>미국 디젤 가격이 바이든 행정부 시절 평균을 넘어섰다. 원유 가격 하락에도 산업용 연료 가격이 높은 수준을 유지하며 트럼프 행정부의 에너지 정책 성과에 타격을 주고 있다.
-<a href="https://www.ft.com/content/8d421d44-862d-4942-99ae-568bad4900c2">[FT]</a></blockquote>
+<b>18. 러시아, 키이우 공습으로 17명 사망...패트리어트 재고 고갈</b>
+<blockquote>러시아의 키이우 공습으로 17명이 사망했다. 우크라이나가 미사일을 요격하지 못한 이유는 패트리어트 요격미사일 재고가 바닥났기 때문이다. 40일간의 보복 공습 기간이 만료되며 Trump 행정부의 우크라이나 지원 지속 여부에 관심이 쏠린다.
+<a href="https://www.ft.com/content/c2eb9800-b8df-41f6-aad9-e25c2ebe43d6">[FT]</a></blockquote>
 
-<b>19. Spotify 이익 감소...AI 투자로 비용 부담 증가</b>
-<blockquote>Spotify가 AI 도구 개발에 막대한 투자를 단행하며 이익이 감소했다. 사용자 증가율 전망치도 시장 기대에 미치지 못하며 주가에 압력을 받고 있다.
-<a href="https://www.ft.com/content/cc0873c7-28cf-4b0b-9bf6-1d303ff8c262">[FT]</a></blockquote>
+<b>19. 이스라엘, 레바논 공습 재개...한 달 만에 첫 대피명령</b>
+<blockquote>이스라엘군이 레바논에 대한 공습을 재개하며 한 달여 만에 처음으로 대피명령을 발령했다. 역내 긴장 완화 노력 속에서도 충돌이 다시 불거지고 있다.
+<a href="https://www.ft.com/content/45df9a1f-7400-4ef8-85e5-aa519a627e66">[FT]</a></blockquote>
 
-<b>20. 월가의 보험업 인수...규제 당국 경계 강화</b>
-<blockquote>월가 금융회사들의 공격적인 보험업 인수 전략이 규제 당국의 면밀한 감시를 받고 있다. 순환 리스크와 보상 구조에 대한 우려가 제기되며 규제 강화 움직임이 나타나고 있다.
-<a href="https://www.ft.com/content/ac4b294d-36db-4e6d-aafe-663ce20cb658">[FT]</a></blockquote>
+<b>20. Trump의 하마스 무장해제 합의 벌써 위기...이스라엘 공습 재개·일정 분쟁</b>
+<blockquote>수일 전 발표된 Trump의 하마스 무장해제 합의가 벌써 위기에 처했다. 이스라엘의 공습 재개와 일정을 둘러싼 이견으로 진전이 위협받고 있으며, 가자지구 주민들은 전쟁 지역에서 불확실한 상태로 남게 됐다.
+<a href="https://www.wsj.com/world/middle-east/trumps-days-old-hamas-disarmament-deal-is-already-in-danger-24164a6a">[WSJ]</a></blockquote>
 
-<b>21. Barclays, MFS 관리인에 피소...계좌 동결 후폭풍</b>
-<blockquote>파산한 영국 모기지 업체 MFS의 관리인들이 Barclays를 상대로 소송을 제기했다. 계좌 접근이 차단되며 자산 회수에 어려움을 겪고 있으며 이중 담보 제공 의혹이 제기됐다.
-<a href="https://www.ft.com/content/f7fb388d-5826-409a-8dd6-43e828da6ba1">[FT]</a></blockquote>
+<b>21. 대만, 중국 침공 대비 전쟁계획 훈련 실시...미군 지원 없이도 방어 가능성 과시</b>
+<blockquote>대만이 중국의 침공을 막기 위한 전쟁계획 훈련을 실시했다. 궁극적 목표는 미군 지원이 없더라도 대만 공격이 중국에게 감당할 수 없는 대가를 치르게 할 것임을 보여주는 것이다.
+<a href="https://www.wsj.com/world/china/taiwan-tests-war-plans-to-thwart-chinese-invasion-951a2932">[WSJ]</a></blockquote>
 
-<b>22. Polymarket, $200억 밸류에이션 펀딩 추진</b>
-<blockquote>정치 예측 시장 플랫폼 Polymarket이 200억 달러 이상의 기업가치로 10억 달러 규모 펀딩을 추진 중이다. 경쟁사 Kalshi를 따라잡기 위한 자금 확보에 나섰다.
-<a href="https://www.ft.com/content/c5518bbb-7943-4a95-8f73-963ec4dde188">[FT]</a></blockquote>
+<b>22. 미시간 민주당 예비선거, 진보파 Abdul El-Sayed 승리...당내 주도권 싸움 격화</b>
+<blockquote>미시간주 민주당 상원의원 예비선거에서 진보 성향 Abdul El-Sayed(41)가 승리하며 당 주류에 타격을 입혔다. 11월 공화당 Mike Rogers 전 하원의원과 맞대결하게 됐으며, 민주당 내 중도파와 진보파의 주도권 싸움이 여전히 미결 상태임을 보여줬다.
+<a href="https://www.wsj.com/politics/elections/progressive-victory-in-michigan-senate-primary-deepens-democratic-divide-b3b7fe16">[WSJ]</a> <a href="https://www.ft.com/content/65633475-0a89-4522-9c2c-5cbd22fd9aac">[FT]</a></blockquote>
 
-<b>23. 세계은행 "개도국, AI로 선진국보다 큰 수혜 전망"</b>
-<blockquote>세계은행이 개도국이 AI 기술로부터 선진국보다 더 큰 경제적 이득을 볼 수 있다고 전망했다. 상대적으로 단순한 AI 도구만으로도 생산성 향상 효과가 크며, 노동자들이 대체되기보다 혜택을 받을 가능성이 높다고 분석했다.
-<a href="https://www.wsj.com/tech/ai/developing-economies-have-more-to-gain-and-less-to-lose-from-ai-says-world-bank-ec81c602">[WSJ]</a> <a href="https://www.ft.com/content/33c20c4e-6a25-42da-9f1e-6664c8388957">[FT]</a></blockquote>
+<b>23. 캐나다 앨버타주, 독립투표 실시...주수반 생애 최대 도박</b>
+<blockquote>캐나다 앨버타주 Premier Danielle Smith가 연방 탈퇴 찬반을 묻는 주민투표를 추진하고 있다. 본인은 독립 반대 입장이지만 고위험 투표의 길을 열었다.
+<a href="https://www.wsj.com/world/americas/canada-alberta-independence-vote-28ea3952">[WSJ]</a></blockquote>
 
-<b>24. 미국-대만 군사협력 심화...중국 압력 속 훈련 공개</b>
-<blockquote>대만이 미국의 자국군 훈련 참여 사실을 공개했다. 중국과 트럼프 행정부의 압력 속에서도 미국-대만 군사 협력이 유지되고 있음을 보여주는 사례다.
-<a href="https://www.wsj.com/world/asia/taiwan-us-military-training-china-7795c2f3">[WSJ]</a></blockquote>
+<b>24. 디즈니, 테마파크 반등·'토이스토리5' 흥행에 3분기 호조</b>
+<blockquote>디즈니 3분기 매출은 전년 대비 7% 증가한 252억 달러를 기록했다. 테마파크 등 체험 부문 성장과 '토이스토리5' 박스오피스 성공이 견인했다. 주가는 상승했고 자사주 매입 계획도 확대했다.
+<a href="https://www.ft.com/content/2b5e1ab6-9c41-4df8-8391-29d428fa5d2a">[FT]</a></blockquote>
 
-<b>25. 우크라이나, 러시아 Wildberries 물류센터 드론 공습</b>
-<blockquote>우크라이나가 야간 드론 공습으로 러시아 최대 전자상거래 업체 Wildberries의 물류센터를 타격했다. 키이우는 전쟁을 러시아 본토로 확대하는 전략을 지속하고 있다.
-<a href="https://www.ft.com/content/4d9d5f1a-df3e-490e-9567-f7f7f968f3a4">[FT]</a></blockquote>
+<b>25. Eli Lilly·Novo Nordisk, 비만치료제 수요 급증에 실적 상향</b>
+<blockquote>Eli Lilly와 Novo Nordisk가 비만치료제 수요 급증에 힘입어 이익 전망을 상향 조정했다. 다만 투자자들은 Novo Nordisk의 비만치료제 의존도가 지나치게 높다는 우려를 나타냈다.
+<a href="https://www.ft.com/content/fc7f75f9-73b5-4ce6-8a27-f819aa7f361b">[FT]</a></blockquote>
 
-<b>26. Wells Fargo, 토큰화 예금 서비스 출시...블록체인 결제 도입</b>
-<blockquote>Wells Fargo가 기업 고객 대상 토큰화 예금 서비스를 출시한다. 블록체인 기술을 활용해 결제와 송금 속도를 높이고 효율성을 개선하려는 대형 은행들의 움직임이 가속화되고 있다.
-<a href="https://www.wsj.com/finance/banking/wells-fargo-to-roll-out-tokenized-deposits-for-corporate-clients-75c5d2cc">[WSJ]</a></blockquote>
+<b>26. 혼다, 엔화 약세에 분기 순이익 2배 증가...가이던스 상향</b>
+<blockquote>혼다의 분기 순이익이 엔화 약세 덕분에 전년 대비 두 배 증가했다. 회사는 하이브리드 전기차 제품군 개선을 통해 자동차 사업 수익성을 높이겠다는 목표를 제시했다.
+<a href="https://www.wsj.com/business/earnings/honda-doubles-profit-boosts-guidance-on-weaker-yen-390a8285">[WSJ]</a></blockquote>
 
-<b>27. 가자 평화협상...하마스 무장해제 가능성 주목</b>
-<blockquote>미국 주도 가자 평화협상에서 하마스의 무장 해제가 핵심 쟁점으로 부상했다. 협상안이 실제로 이행 가능할지에 대한 회의론도 제기되고 있다.
-<a href="https://www.wsj.com/world/middle-east/can-hamas-really-be-disarmed-inside-the-gaza-peace-deal-0f751fc9">[WSJ]</a></blockquote>
+<b>27. Citadel 플래그십 펀드 6% 급등...Leopold Aschenbrenner AI 주식 대량 매수</b>
+<blockquote>Ken Griffin의 Citadel 플래그십 펀드가 Leopold Aschenbrenner의 Situational Awareness 펀드로부터 수십억 달러 규모의 AI 주식을 매수한 후 6% 급등했다.
+<a href="https://www.ft.com/content/ae7acfa8-32d6-496a-a1df-28206fa1661d">[FT]</a></blockquote>
 
-<b>28. 미국 미시간 민주당 예비선거...사회주의 vs 주류 대결</b>
-<blockquote>미시간주 상원 민주당 경선에서 사회주의 성향 후보와 주류 후보 간 대결이 펼쳐지고 있다. 여론조사 선두는 'Medicare for All'과 ICE 폐지를 주장하는 Abdul El-Sayed이며, 주류 후보들이 이념 공세를 직접 반박하지 않는 점이 주목된다.
-<a href="https://www.wsj.com/politics/elections/what-to-watch-for-in-michigans-high-drama-primary-6d161797">[WSJ]</a></blockquote>
+<b>28. Uber, 로보택시 경쟁 위해 100억 달러 투입 계획</b>
+<blockquote>Uber CEO Dara Khosrowshahi가 로보택시 경쟁에서 우위를 확보하기 위해 100억 달러를 투입하겠다고 밝혔다. 강한 예약 실적과 사상 최고 현금흐름을 바탕으로 자율주행 분야에 대규모 투자를 단행한다.
+<a href="https://www.ft.com/content/04d6fcb4-03e4-4ee5-9017-ccaa7808c934">[FT]</a></blockquote>
 
-<b>29. 일본 핵융합 업계, 국가 지원 요청...중동 에너지 위기 속</b>
-<blockquote>일본 핵융합 업계가 중동 에너지 공급 불안정 속에서 국가 차원의 지원을 요청했다. 장기적 에너지 안보 확보를 위한 기술 개발 투자 확대가 필요하다는 주장이다.
-<a href="https://www.ft.com/content/981becc2-8d7d-428a-93d3-405fc44e3ca5">[FT]</a></blockquote>
+<b>29. 구글, AI 리더십 대개편...Demis Hassabis 회장 전환, Jeff Dean 퇴사</b>
+<blockquote>구글이 AI 부문 리더십을 전면 개편했다. Google DeepMind CEO Demis Hassabis는 회장으로 물러나고, 27년 근속 수석과학자 Jeff Dean은 자체 AI 스타트업 설립을 위해 퇴사한다.
+<a href="https://www.ft.com/content/61d41764-f2f7-4906-a112-ff3073972c51">[FT]</a> <a href="https://www.wsj.com/tech/ai/googles-chief-scientist-is-leaving-after-27-yearsto-start-his-own-ai-company-6abad73d">[WSJ]</a></blockquote>
 
-<b>30. Paramount-Warner 합병 반독점 재판 3월 개시</b>
-<blockquote>Paramount와 Warner 합병 건을 막기 위한 반독점 소송 재판이 3월 시작된다. 12개 주가 810억 달러 규모의 이번 합병을 저지하기 위해 제소했으며 재판은 12일간 진행될 예정이다.
-<a href="https://www.wsj.com/business/media/antitrust-trial-over-paramount-warner-merger-set-for-march-b17fedcb">[WSJ]</a></blockquote>
+<b>30. Point72·Citadel 등 미국 대형 헤지펀드, 사이버 공격 표적</b>
+<blockquote>Point72와 Citadel을 포함한 미국 대형 헤지펀드들이 오디오 피싱 기법을 이용한 사이버 공격의 표적이 됐다.
+<a href="https://www.ft.com/content/1fcca000-d9ac-4b3b-9d31-2fef0d1f55f3">[FT]</a></blockquote>
 
-<b>31. Lucid, 2분기 손실 확대...EV 침체·경쟁 심화 직격탄</b>
-<blockquote>전기차 제조사 Lucid가 2분기 손실 폭을 키웠다. 인력 감축 관련 비용이 발생했으며 전기차 수요 둔화와 경쟁 심화가 실적에 타격을 줬다.
-<a href="https://www.ft.com/content/4bc98c31-d430-4e84-9353-6b9a6154d4d6">[FT]</a></blockquote>
-
-<b>32. Angela Alsobrooks 상원의원, 암호화폐 법안 지지 철회...트럼프 수익 문제 제기</b>
-<blockquote>민주당의 주요 암호화폐 법안 지지자였던 Angela Alsobrooks 상원의원이 입장을 바꿨다. 트럼프 대통령이 밈코인과 암호화폐 거래로 14억 달러 수익을 올린 점을 문제 삼으며 법안에 규제 조항 추가를 요구하고 있다.
-<a href="https://www.wsj.com/politics/policy/how-trumps-financial-windfall-stiffened-opposition-to-landmark-crypto-bill-190582e3">[WSJ]</a></blockquote>
-
-<b>33. 캐나다 무역흑자 4년 만에 최고...금 수출 급증</b>
-<blockquote>캐나다의 대세계 무역흑자가 4년 만에 최고치를 기록했다. 금 수출이 급증하며 수출이 5개월 연속 증가해 사상 최고를 경신했고, 수입도 최고 수준을 기록했다.
-<a href="https://www.wsj.com/economy/trade/canada-goods-trade-surplus-widens-slightly-with-record-exports-imports-e7968c5d">[WSJ]</a></blockquote>
+<b>31. 독일 라이프치히 공항서 폭발물 장착 드론 발견...유럽 공항 침입 확대</b>
+<blockquote>독일 경찰이 라이프치히 공항에서 폭발물을 장착한 드론을 발견했다. 2년간 이어진 유럽 공항 드론 침입 사건의 확대를 시사한다.
+<a href="https://www.ft.com/content/bc02657f-4cd7-49a7-a498-9bcef286b1b7">[FT]</a></blockquote>
 
 ━━━━━━━━━━━━━━━━━━━━
 📡 <b>출처: WSJ · FT · The Economist</b>
