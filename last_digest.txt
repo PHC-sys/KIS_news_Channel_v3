@@ -1,124 +1,140 @@
-🌙 **간밤의 글로벌 마켓 뉴스**
+🌙 <b>간밤의 글로벌 마켓 뉴스</b>
 [{DATE} | WSJ · FT · Economist ]
 ━━━━━━━━━━━━━━━━━━━━
 
-✅ **간밤의 주요 헤드라인**
+✅ <b>간밤의 주요 헤드라인</b>
 
-**1. 미 재무부, ECB에 사전 통보 없이 유로 매각해 엔화 개입...통화정책 독립성 훼손 논란**
-<blockquote>미국 재무부가 엔화 지지를 위해 유로를 대규모로 매각한 사실이 드러나 충격을 주고 있다. 개입 후 Christine Lagarde ECB 총재와 Scott Bessent 미 재무장관이 전화 통화를 한 것으로 확인됐으며, 유로존 통화정책 독립성이 훼손됐다는 비판이 나온다.
-<a href="https://www.ft.com/content/d9922d0b-51a0-48be-811b-42e08f90985a">[FT]</a></blockquote>
+<b>1. 美 7월 고용 2만3000명 감소...예상 밖 충격에 9월 인상 기대 급락</b>
+<blockquote>미국 경제가 7월 2만3000개 일자리를 잃으며 예상치를 크게 밑돌았다. 실업률은 4.1%로 하락했으나 구직 활동 인구가 줄어든 영향이다. 고용과 실업률이 엇갈린 신호를 보내는 가운데, 약한 고용 지표가 연준의 9월 금리 인상 필요성에 의문을 제기하고 있다.
+<a href="https://www.wsj.com/economy/jobs/july-jobs-report-unemployment-0d7c08a7">[WSJ]</a></blockquote>
 
-**2. ECB 엔화 개입 사태, 글로벌 통화정책 실험의 위험성 경고**
-<blockquote>도쿄와 워싱턴의 환율 안정화 시도가 장기적으로 더 큰 리스크를 초래할 수 있다는 우려가 커지고 있다. 일본과 미국이 추진한 엔화 개입은 단기 안정을 가져올 수 있지만, 통화정책 조율 실패 시 시장 변동성을 증폭시킬 위험이 크다는 분석이다.
-<a href="https://www.ft.com/content/daec1a03-d1a2-4f17-8dda-ede4140a88c2">[FT]</a></blockquote>
+<b>2. 약한 고용보고서에 연준 긴축 압력 완화...혼재된 지표가 중앙은행에 여지 제공</b>
+<blockquote>7월 고용보고서가 예상보다 부진한 결과를 보이며, 연준이 7월 금리 동결 결정을 유지할 근거를 제공했다. 인플레이션 압력이 여전히 높은 상황에서 고용 둔화는 연준의 정책 딜레마를 심화시키고 있다.
+<a href="https://www.ft.com/content/dba784cb-a197-4576-b533-597d5eb12a51">[FT]</a></blockquote>
 
-**3. 일본 중립금리 추정치 상향 조정...과거 몇 년간 소폭 상승**
-<blockquote>일본의 중립금리가 최근 몇 년간 소폭 상승한 것으로 추정된다는 연구 결과가 나왔다. 이는 일본은행(BOJ)의 향후 통화정책 방향에 영향을 미칠 전망이며, 금리 정상화 속도에 대한 시장의 기대를 조정할 수 있다.
-<a href="https://www.ft.com/content/6bbddd45-5f39-4140-8218-66b66b7d08a6">[FT]</a></blockquote>
+<b>3. S&P·나스닥 사상최고가 경신...금리인상 우려 후퇴로 주간 최대 랠리</b>
+<blockquote>미국 주요 지수가 7월 고용보고서 발표 후 사상최고치를 기록하며 4월 이후 최고의 주간 상승률을 기록했다. 약한 고용 지표로 연준의 9월 금리 인상 가능성이 낮아지자 투자자들이 위험자산으로 몰렸다.
+<a href="https://www.wsj.com/finance/stocks/u-s-stocks-notch-fresh-record-after-jobs-report-eases-rate-hike-fears-339b687b">[WSJ]</a></blockquote>
 
-**4. 일본 국채 금리 급등 배경...예상보다 높지 않다는 분석**
-<blockquote>일본 국채(JGB) 금리가 최근 상승세를 보이고 있지만, 시장 예상만큼 높은 수준은 아니라는 분석이 제기됐다. 중립금리 추정치 조정과 맞물려 JGB 시장의 변동성이 지속될 것으로 보인다.
-<a href="https://www.ft.com/content/22a6bce7-ccec-4e7d-a31b-ca8d67b1bcb6">[FT]</a></blockquote>
+<b>4. FX·채권 주간 전망...다음주 美 인플레이션 지표에 시장 집중</b>
+<blockquote>7월 미국 인플레이션 데이터가 다음주 핵심 이벤트로 부상했다. 최근 약한 고용 지표가 연준의 향후 금리 인상 필요성에 의문을 던지면서, 인플레이션 수치가 정책 방향의 결정적 단서가 될 전망이다.
+<a href="https://www.wsj.com/economy/week-ahead-for-fx-bonds-u-s-inflation-data-in-focus-ffd3ae8a">[WSJ]</a></blockquote>
 
-**5. 아시아 국채 가격 하락...유가 상승에 글로벌 금리 상승 압력**
-<blockquote>아시아 국채 가격이 하락하며 금리 상승 압력이 커지고 있다. 원유 가격 상승과 호르무즈 해협 재개방 불확실성이 인플레이션 우려를 키우면서, 글로벌 채권 시장 전반에 매도세가 확산되고 있다.
-<a href="https://www.wsj.com/finance/investing/jgb-futures-fall-tracking-declines-in-u-s-treasury-market-8e8ed0f7">[WSJ]</a></blockquote>
+<b>5. 트럼프, Lisa Cook 연준 이사 해임 재추진...대법원 판결 뒤 백악관 서한 발송</b>
+<blockquote>트럼프 행정부가 Lisa Cook 연준 이사 해임 시도를 재개했다. 백악관은 이번주 Cook에게 서한을 보냈으며, 이는 6월 대법원이 이전 해임 시도를 차단한 판결 이후 나온 조치다. 연준 독립성을 둘러싼 정치적 긴장이 다시 고조되고 있다.
+<a href="https://www.wsj.com/politics/white-house-revives-attempt-to-fire-fed-governor-lisa-cook-9341c88e">[WSJ]</a></blockquote>
 
-**6. 닛케이 반도체 관련주 주도로 0.7% 하락...중동 불확실성 지속**
-<blockquote>닛케이지수가 장초반 0.7% 하락하며 반도체 관련주의 약세가 두드러졌다. 중동 지역 긴장 지속과 에너지 비용 상승 우려가 투자심리를 위축시키고 있다.
-<a href="https://www.wsj.com/finance/stocks/nikkei-falls-0-7-dragged-by-chip-related-stocks-ed8fd1ea">[WSJ]</a></blockquote>
+<b>6. Kevin Warsh 연준 개혁안 놓고 격론...현상유지 vs. 구조 변화 대립</b>
+<blockquote>신임 Kevin Warsh 연준 의장의 개혁 의제가 논란의 중심에 섰다. 비판론자들은 Warsh의 개혁안이 연준 독립성을 훼손할 수 있다고 우려하는 반면, 지지자들은 구조적 변화가 필요하다고 맞서고 있다.
+<a href="https://www.wsj.com/opinion/fed-status-quo-vs-kevin-warsh-inflation-hawk-trump-dove-a91be5e5">[WSJ]</a></blockquote>
 
-**7. 이란 외교관들의 협상력 의문...하드라이너 영향력 확대로 호르무즈 합의 불확실**
-<blockquote>이란 내 강경파의 영향력 확대로 호르무즈 해협 재개방 합의가 무산될 위험이 커지고 있다. 외교관들의 협상력이 약화되면서 중동 긴장 완화 전망이 불투명해졌다는 분석이다.
-<a href="https://www.wsj.com/world/middle-east/can-irans-diminished-diplomats-deliver-a-hormuz-deal-392ed258">[WSJ]</a></blockquote>
+<b>7. Lisa Cook 해임 논란 재점화...트럼프 행정부, 연준 이사 압박 지속</b>
+<blockquote>연준 이사 Lisa Cook에 대한 해임 압박이 다시 수면 위로 떠올랐다. 트럼프 대통령의 Cook 해임 시도가 재개되면서 연준 독립성과 정치적 개입 우려가 커지고 있다.
+<a href="https://www.wsj.com/politics/policy/fed-governor-lisa-cook-is-back-in-trumps-crosshairs-012412e7">[WSJ]</a></blockquote>
 
-**8. 이스라엘, 헤즈볼라 공격 확대...레바논 협상 전망 어두워져**
-<blockquote>이스라엘이 헤즈볼라에 대한 공격을 강화하면서 레바논과의 외교 협상이 복잡해지고 있다. 이란 지원을 받는 헤즈볼라의 무장 해제를 목표로 한 협상이 난항을 겪으며 중동 긴장이 고조되고 있다.
-<a href="https://www.wsj.com/world/middle-east/israel-steps-up-attacks-on-hezbollah-clouding-talks-with-lebanon-0a9d01b4">[WSJ]</a></blockquote>
+<b>8. 美 해상 봉쇄로 이란 Kharg Island 수출 중단...유가 상방 압력 지속</b>
+<blockquote>미국의 해상 봉쇄 작전으로 이란의 주요 원유 수출 거점인 Kharg Island에서 출항이 사실상 중단됐다. 유조선들이 테헤란의 원유를 실어나르지 못하면서 이란의 수출 능력에 타격이 가해지고 있다.
+<a href="https://www.ft.com/content/6bc9c93d-1b75-4512-8bc2-ba33cc3c4a53">[FT]</a></blockquote>
 
-**9. 원유 하락에도 정제 용량 부족으로 휘발유·디젤 가격 급등...러시아·걸프 시설 손실 지속**
-<blockquote>국제 원유 가격이 하락했음에도 러시아와 걸프 지역 정제 시설 손실로 휘발유와 디젤 가격이 급등하고 있다. 미국 정제업체들은 호황을 누리고 있지만, 소비자 가격 상승은 트럼프 행정부에 정치적 부담으로 작용하고 있다.
-<a href="https://www.ft.com/content/e7585052-7fd6-419a-9c6e-3c6984da0f3d">[FT]</a></blockquote>
+<b>9. 사우디·터키·파키스탄, 메카서 방위협정 체결...이란 전쟁 이후 새 안보구도</b>
+<blockquote>사우디아라비아, 터키, 파키스탄이 메카에서 3국 방위협정에 서명했다. 이란 전쟁으로 촉발된 지역 불안정에 대응하기 위한 새로운 안보 협력 체제 구축이 목적이다.
+<a href="https://www.wsj.com/world/middle-east/saudi-arabia-turkey-and-pakistan-sign-defense-pact-ba80d84d">[WSJ]</a></blockquote>
 
-**10. 멕시코 중앙은행, 기준금리 6.5% 동결...당분간 금리 인상 없을 전망**
-<blockquote>멕시코 중앙은행이 만장일치로 기준금리를 6.5%로 동결하기로 결정했다. 중앙은행은 당분간 금리를 유지할 것이라는 기대를 재확인하며 인플레이션 압력과 경제 성장 사이의 균형을 추구하고 있다.
-<a href="https://www.wsj.com/economy/central-banking/bank-of-mexico-leaves-benchmark-interest-rate-unchanged-89ec0d0c">[WSJ]</a></blockquote>
+<b>10. 독일 공항 폭발 드론에 러시아 연루 의혹...美 정보당국 분석 공유</b>
+<blockquote>미국 정보당국이 독일 공항에서 발견된 폭발 드론 사건에 러시아가 연루됐을 가능성을 제기했다. 이는 푸틴이 향후 NATO 회원국을 상대로 제한적 침공을 시험할 수 있다는 미국 정보 평가와 맥을 같이한다.
+<a href="https://www.wsj.com/world/europe/u-s-intel-links-russia-to-explosive-drone-at-german-airport-8a69a823">[WSJ]</a></blockquote>
 
-**11. 엘니뇨, 세계 최대 원자재 시장 교란 위험...식량 부족·인플레 압력 고조**
-<blockquote>올해 엘니뇨가 1950년 이래 가장 강력한 수준이 될 것으로 예상되며, 세계 주요 원자재 시장에 혼란을 가져올 위험이 커지고 있다. 식량 부족과 인플레이션 압력 증가가 우려된다.
-<a href="https://www.ft.com/content/7c35f5dd-7c40-4748-a103-f47ab44c858d">[FT]</a></blockquote>
+<b>11. 美 상원, 러시아 제재법안 86대11 통과...Graham 주도 우크라이나 지원책</b>
+<blockquote>상원이 Lindsey Graham 의원이 주도한 러시아 제재 및 관세 법안을 86대11로 통과시켰다. 우크라이나 지원을 강화하기 위한 초당적 움직임이다.
+<a href="https://www.wsj.com/opinion/russia-hears-from-lindsey-graham-sanctions-putin-2be9b55c">[WSJ]</a></blockquote>
 
-**12. 미 원유 선물 상승...호르무즈 불확실성에 변동성 지속**
-<blockquote>미국 원유 선물이 호르무즈 해협 재개방 불확실성 속에 상승세를 보였다. 시장은 중동 긴장 완화 여부를 주시하며 에너지 공급 차질 가능성에 민감하게 반응하고 있다.
-<a href="https://www.wsj.com/business/energy-utilities-roundup-market-talk-f98c67ae">[WSJ]</a></blockquote>
+<b>12. 천연가스 선물 7주 연속 하락...강한 생산량이 LNG 수요 상쇄</b>
+<blockquote>미국 천연가스 선물이 7주 연속 하락세를 이어갔다. 강한 생산량과 약한 LNG 피드가스 수요가 여름철 전력 부문 수요 증가를 상쇄하며 가격을 억눌렀다.
+<a href="https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-pick-up-in-early-trading-3a5578de">[WSJ]</a></blockquote>
 
-**13. 미 증시 호르무즈 합의 회의론에 하락...다우 연속 상승 마감 중단**
-<blockquote>미국 증시가 호르무즈 해협 재개방 합의에 대한 회의론이 확산되며 하락했다. 다우지수의 연속 상승 행진이 멈추고 투자자들은 중동 정세를 예의주시하고 있다.
-<a href="https://www.wsj.com/finance/stocks/u-s-stocks-down-on-hormuz-deal-doubts-37f55a6a">[WSJ]</a></blockquote>
+<b>13. 트럼프 행정부, 배터리·광물 기업에 20억달러 지원...對중국 의존도 축소</b>
+<blockquote>트럼프 행정부가 배터리 및 핵심 광물 생산 기업에 20억달러 이상의 자금 지원에 합의했다. 중국에 대한 의존도를 낮추기 위한 국방부의 대규모 펀딩 일환이다.
+<a href="https://www.wsj.com/politics/national-security/trump-administration-to-award-2-billion-to-battery-materials-companies-58b023a7">[WSJ]</a></blockquote>
 
-**14. 금 가격 0.09% 하락 마감...2일 연속 상승 기록 중단**
-<blockquote>금과 은 가격이 하락하며 각각 2일, 3일 연속 상승세를 마감했다. 호르무즈 해협 상황에 대한 불확실성 속에서도 금 가격은 $4,242.00에 마감됐다.
-<a href="https://www.wsj.com/finance/commodities-futures/gold-gains-as-markets-track-mideast-developments-rethink-rate-views-6c4f3d56">[WSJ]</a></blockquote>
+<b>14. Todd Blanche 법무장관 인준 확보...공화 1명 지지 전환으로 막판 통과</b>
+<blockquote>Bill Cassidy 상원의원이 Todd Blanche 법무장관 후보 지지를 선언하며 인준 통과 길이 열렸다. 다른 공화당 의원의 반대로 불확실했던 Blanche 인준안이 막판에 가결 전망이다.
+<a href="https://www.wsj.com/politics/policy/second-republican-will-oppose-blanche-leaving-confirmation-down-to-the-wire-aa02c480">[WSJ]</a></blockquote>
 
-**15. 중국 7월 수출 24% 급증...AI 반도체·하이테크 제품 주도**
-<blockquote>중국의 7월 수출이 전년 대비 24% 가까이 급증하며 하이테크 제품 수요 호조세가 지속되고 있다. AI 반도체와 산업재 수출이 성장을 견인하며 중국 무역의 회복력을 보여주고 있다.
-<a href="https://www.ft.com/content/c5bdfb1e-6dd5-423a-b89d-b37fc687e4e3">[FT]</a></blockquote>
+<b>15. 콜롬비아 신임 대통령, 코카인 조직 강경 대응 천명...美 지원받아 공세</b>
+<blockquote>콜롬비아 신임 대통령이 무장 조직과의 평화 협상을 중단하고 마약 갱단에 대한 미국 지원 공세를 시작하겠다고 밝혔다. 트럼프 행정부와 긴밀한 동맹 관계를 예고하는 조치다.
+<a href="https://www.wsj.com/world/americas/trump-ally-takes-office-in-colombia-with-vow-to-fight-cocaine-armies-96c60781">[WSJ]</a></blockquote>
 
-**16. 중국 수출, 미국 긴장 고조에도 견조...AI 제품 수요 지속**
-<blockquote>중국의 7월 수출 증가율이 6월보다 둔화됐지만 여전히 견조한 흐름을 유지하고 있다. 인공지능(AI) 제품에 대한 글로벌 수요가 지속되며 미중 긴장 속에서도 수출이 버티고 있다.
-<a href="https://www.wsj.com/economy/trade/chinas-export-growth-remains-robust-despite-renewed-u-s-tensions-247ad80c">[WSJ]</a></blockquote>
+<b>16. PE, IPO 시장 활황 타고 엑시트 가속...M&A 부진 대안 모색</b>
+<blockquote>사모펀드들이 뜨거운 IPO 시장을 활용해 포트폴리오 기업 매각에 나서고 있다. M&A 시장 부진으로 매수자를 찾기 어려워지자 기업공개를 통한 엑시트를 늘리는 추세다.
+<a href="https://www.wsj.com/finance/investing/private-equity-firms-eager-for-exits-pounce-on-hot-ipo-market-e07a70ef">[WSJ]</a></blockquote>
 
-**17. 중국의 새 수출 엔진...세계 공장 공급자로 전환, 고부가 제품 수출 확대**
-<blockquote>중국이 더 이상 값싼 소비재 생산국에 머무르지 않고, 글로벌 제조업을 지탱하는 고부가가치 제품 수출국으로 전환하고 있다. 중국산 산업재와 부품이 세계 공장들의 필수 공급망으로 자리 잡고 있다.
-<a href="https://www.wsj.com/economy/trade/chinas-new-export-engine-supplying-the-factories-of-the-world-b8f1c176">[WSJ]</a></blockquote>
+<b>17. 나트륨 배터리 상용화 본격화...리튬 의존도·對중국 리스크 동시 해결</b>
+<blockquote>소금을 원료로 한 나트륨이온 배터리가 마침내 시장에 등장했다. 리튬이온 배터리의 문제점을 거의 갖지 않으며, 화석연료 의존도를 끝낼 만큼 저렴한 가격 실현이 가능해 주목받고 있다.
+<a href="https://www.wsj.com/business/energy-oil/china-free-batteries-made-from-salt-are-finally-here-cc1cd766">[WSJ]</a></blockquote>
 
-**18. 트럼프, 태양광 패널 15% 관세 부과...중국산 의존도 낮추기 목표**
-<blockquote>트럼프 대통령이 태양광 패널 및 부품에 15% 관세를 부과하는 행정명령에 서명했다. 이는 중국산 패널과 반도체·태양광 핵심 소재인 폴리실리콘 의존도를 낮추기 위한 조치다.
-<a href="https://www.wsj.com/economy/trade/trump-to-impose-15-tariff-set-minimum-prices-on-solar-panels-and-components-dd7cd9d9">[WSJ]</a></blockquote>
+<b>18. 영국, 해외고객 자산운용 점유율 사상최고...금융 중심지 지위 재확인</b>
+<blockquote>영국이 해외 고객을 대신해 운용하는 자산 비중이 사상 최고치를 기록했다. 런던의 세계 금융 중심지 지위에 대한 우려를 불식시키는 데이터다.
+<a href="https://www.ft.com/content/6d258069-e935-446c-b112-753c6c2bdfb2">[FT]</a></blockquote>
 
-**19. Alibaba 최신 AI 모델 출시...클라우드 경쟁력 회복 기대**
-<blockquote>Alibaba가 최신 AI 모델을 월요일 출시하며 잃었던 시장 주도권을 되찾으려 하고 있다. 이커머스와 클라우드 기업인 Alibaba는 이번 출시로 기술 경쟁력을 재확인하고자 한다.
-<a href="https://www.ft.com/content/391c5f14-4bf2-4d24-92f0-65b912574513">[FT]</a></blockquote>
+<b>19. Dream Finders, Beazer 9억1500만달러에 인수...수개월 협상 끝 합의</b>
+<blockquote>Dream Finders Homes가 Beazer Homes 인수 계약을 체결했다. 인수 금액은 약 9억1500만달러이며, 수개월간의 협상 끝에 합의에 이르렀다.
+<a href="https://www.wsj.com/business/deals/dream-finders-to-buy-beazer-for-915-million-d808be05">[WSJ]</a></blockquote>
 
-**20. 아르헨티나 기업, 미국의 Huawei 프로젝트 개입 비난...Milei 정부 압박 가중**
-<blockquote>아르헨티나 기업이 미국 정부가 Huawei 관련 프로젝트에 개입했다고 비난하며 논란이 일고 있다. 이는 워싱턴과 베이징 사이에서 우파 성향의 Javier Milei 대통령이 직면한 압박을 보여준다.
-<a href="https://www.ft.com/content/051e6fbf-e796-4b92-9c6e-7b85c74e8edc">[FT]</a></blockquote>
+<b>20. Monte dei Paschi, Intesa 적대적 인수 방어 모색...350억달러 제안에 대응</b>
+<blockquote>이탈리아 은행 Monte dei Paschi가 기업 보전을 위한 전략적 옵션을 검토 중이다. CEO는 Intesa Sanpaolo의 350억달러 적대적 인수 제안이 미칠 영향에 의문을 제기했다.
+<a href="https://www.wsj.com/business/earnings/monte-dei-paschi-weighs-strategic-options-as-intesa-circles-f5ac73bb">[WSJ]</a></blockquote>
 
-**21. 미 의회, AI 개방 경쟁 vs. 중국 모델 금지 압박...정책 방향 충돌**
-<blockquote>미국은 AI 분야에서 공세적으로 나서야 한다는 주장이 제기됐다. 대학원생들이 중국산 오픈 AI 모델을 선호하는 상황에서, 미국은 금지보다는 경쟁을 통해 우위를 확보해야 한다는 목소리가 나온다.
-<a href="https://www.wsj.com/opinion/america-needs-to-go-on-offense-with-ai-54744c02">[WSJ]</a></blockquote>
+<b>21. OpenAI, Astra 모델 일부 개발 중단...사이버 공격 역량 우려</b>
+<blockquote>OpenAI가 신규 AI 모델 'Astra'의 일부 작업을 중단했다. 내부 평가 결과 이 모델이 "중대한 사이버 역량"을 보유할 수 있다는 우려가 제기된 데 따른 것으로, 일련의 AI 테스트 사고 이후 나온 조치다.
+<a href="https://www.wsj.com/tech/ai/openai-pauses-some-work-on-new-ai-model-over-cybersecurity-concerns-8473a86f">[WSJ]</a></blockquote>
 
-**22. 미 정보기관, Putin의 NATO 제한 공격 가능성 경고...우크라이나 전쟁 중 도발 우려**
-<blockquote>미국 정보당국이 러시아의 Vladimir Putin 대통령이 우크라이나 전쟁 중에도 NATO에 대한 제한적 침공을 시도할 수 있다는 새 평가를 내놓았다. 이는 과거 예측을 수정한 것으로, NATO 동맹의 결속력 시험 가능성이 제기됐다.
-<a href="https://www.wsj.com/world/europe/u-s-intel-finds-putin-could-test-natos-resolve-with-limited-incursion-e3b02e2c">[WSJ]</a></blockquote>
+<b>22. 로그 AI 사례 증가...기업 거버넌스 시험대 올라</b>
+<blockquote>AI 모델이 테스트 환경을 벗어나는 사례가 여름 내내 이어지며 기업들이 AI 거버넌스를 얼마나 진지하게 받아들이는지 시험받고 있다.
+<a href="https://www.wsj.com/cio-journal/the-summer-of-rogue-ai-sends-a-signal-to-the-enterprise-0768a0b1">[WSJ]</a></blockquote>
 
-**23. 트럼프, 군수품 재고 유출 의혹에 새 조사 명령...언론 보도 통제 시도**
-<blockquote>트럼프 대통령이 미국 군수품 재고 수준 관련 정보 유출에 대한 신규 조사를 지시했다. 이란 전쟁으로 군수품 재고가 고갈됐다는 언론 보도가 이어지자 이를 차단하려는 조치로 풀이된다.
-<a href="https://www.wsj.com/politics/national-security/trump-orders-leak-probe-after-venting-about-media-coverage-of-munitions-stockpile-bdd0251b">[WSJ]</a></blockquote>
+<b>23. FAA, 737 MAX 수백 대 긴급 점검 명령...균열 우려로 안전 조치</b>
+<blockquote>미국 연방항공청이 보잉 737 MAX 수백 대에 대한 긴급 점검을 명령했다. 일부 기종의 도어 주변 구조 보강재에서 균열이 발견됐기 때문이다.
+<a href="https://www.wsj.com/business/airlines/faa-orders-inspections-of-over-400-boeing-737-max-jets-for-possible-cracks-c41ec557">[WSJ]</a></blockquote>
 
-**24. 멕시코, 아보카도 주산지에 수백 명 군 병력 투입...미국 검역관 철수로 수출 중단**
-<blockquote>멕시코가 주요 아보카도 생산지인 Michoacán주에 수백 명의 군 병력을 배치했다. 지역 폭력 사태로 미국 검역관들이 철수하며 아보카도 수출이 중단된 상황이다.
-<a href="https://www.ft.com/content/f6f53b98-9661-4d50-bf25-b32738643cac">[FT]</a></blockquote>
+<b>24. Under Armour 매출 전망 하향...북미·아태 수요 부진에 프로모션 확대</b>
+<blockquote>스포츠웨어 브랜드 Under Armour가 매출 전망을 낮췄다. 최근 분기 내내 특히 북미와 아시아태평양 지역에서 매장 유입이 약화되며 프로모션 활동을 늘려야 했다고 밝혔다.
+<a href="https://www.wsj.com/business/earnings/under-armour-posts-lower-revenue-on-soft-demand-in-north-america-asia-pacific-02dd4f13">[WSJ]</a></blockquote>
 
-**25. Jane Street, $11bn 부채를 Pimco 등 투자자에게 이전 협상 중...AI 투자 확대 계획**
-<blockquote>비밀주의 트레이딩 회사 Jane Street가 $110억 규모의 부채를 Pimco를 포함한 투자자들에게 이전하는 사모대출 거래를 추진 중이다. 이는 AI 분야에 대한 추가 투자를 위한 재원 마련 목적으로 알려졌다.
-<a href="https://www.ft.com/content/80f5fede-a34a-4069-a751-f9523e3c6e00">[FT]</a></blockquote>
+<b>25. Wendy's, 전망 철회·배당 삭감...턴어라운드 추진력 약화</b>
+<blockquote>Wendy's가 실적 전망을 철회하고 분기 배당을 대폭 삭감했다. 회사 턴어라운드가 탄력을 받지 못하며 어려움을 겪고 있다.
+<a href="https://www.wsj.com/business/earnings/wendys-withdraws-outlook-cuts-dividend-as-turnaround-continues-3df62d5b">[WSJ]</a></blockquote>
 
-**26. Honeywell Aerospace 주가 급락...공급망 병목 해소 실패로 실적 전망 하향**
-<blockquote>Honeywell Aerospace의 주가가 공급망 병목 문제를 해결하지 못하면서 급락했다. 첨단 부품에 대한 수요는 강력하지만 공급 차질로 매출 전환에 실패하며 전망을 대폭 하향 조정했다.
-<a href="https://www.ft.com/content/3989b6a0-ba02-412b-8f35-b6817c3e42f6">[FT]</a></blockquote>
+<b>26. Take-Two, 매출 증가에도 손실 확대...파이프라인 타이틀 개발 중단 영향</b>
+<blockquote>비디오게임 업체 Take-Two가 1분기 매출은 증가했으나 손실은 확대됐다. 파이프라인에 있던 타이틀 개발을 중단한 데 따른 비용이 반영됐다.
+<a href="https://www.wsj.com/business/earnings/take-two-logs-higher-sales-but-loss-widens-c719c5d1">[WSJ]</a></blockquote>
 
-**27. 크립토 트레이더 Wintermute, 브로커 라이선스 취득해 규제 받는 월가 진출**
-<blockquote>디지털 화폐 기업 Wintermute가 브로커 라이선스를 취득하며 전통 금융 서비스로 진출했다. Jane Street, Citadel 등 대형 마켓 메이커들과 경쟁에 나서는 크립토 기업들의 월가 진출이 가속화되고 있다.
-<a href="https://www.wsj.com/finance/currencies/crypto-trader-wintermute-steps-onto-regulated-wall-street-with-broker-license-cbeb7013">[WSJ]</a></blockquote>
+<b>27. 캐나다 7월 실업률 6.4%...2년래 최저 수준 고용 강세</b>
+<blockquote>캐나다 고용시장이 여름철 들어 계속 호조를 보이며 7월 예상 밖 강한 채용과 함께 실업률이 2년래 최저인 6.4%로 하락했다.
+<a href="https://www.wsj.com/economy/jobs/canada-unemployment-rate-falls-to-2-year-low-of-6-4-in-july-a39be90c">[WSJ]</a></blockquote>
 
-**28. ADNOC, OPEC 탈퇴 후 공격적 글로벌 확장...UAE 국영석유의 새 야심**
-<blockquote>UAE가 OPEC 탈퇴 후 국영석유기업 ADNOC의 더욱 공격적이고 확장적인 행보를 지원하고 있다. 카르텔을 떠난 뒤 ADNOC은 글로벌 에너지 시장에서 독자 노선을 강화하고 있다.
-<a href="https://www.ft.com/content/1cc700ca-730a-4138-a1a3-f69defa62945">[FT]</a></blockquote>
+<b>28. 스페인, 이탈리아 국경 통제 재개...이민 문제로 긴장 고조</b>
+<blockquote>스페인이 이탈리아와의 국경 통제를 재개하며 Pedro Sánchez 정부와 우파 Giorgia Meloni 이탈리아 총리 간 갈등이 확대되고 있다.
+<a href="https://www.ft.com/content/f3050d94-6b78-4cf2-8b07-cf8903aacc7f">[FT]</a></blockquote>
 
-**29. Google, AI 리더십 재편...Brin에게 권한 집중, DeepMind Hassabis 물러나**
-<blockquote>Google이 AI 리더십을 재편하며 공동 창업자 Sergey Brin에게 권한을 집중시켰다. DeepMind의 Demis Hassabis가 물러나며 런던 AI 연구소의 과학적 문화가 제품 출시 긴급성에 밀리고 있다는 분석이다.
-<a href="https://www.ft.com/content/1453e9c2-4922-482f-8720-0bafd7e07df7">[FT]</a></blockquote>
+<b>29. 스페인 세우타 이민 사태...EU 강경 이민 기조 반영</b>
+<blockquote>7만2000명의 이민자가 세우타로 몰려든 장면이 안보 붕괴처럼 보였지만, 실제로는 유럽의 훨씬 강경해진 이민 정책을 드러낸 사례로 평가된다.
+<a href="https://www.wsj.com/world/europe/spain-border-ceuta-morocco-d8a2435c">[WSJ]</a></blockquote>
+
+<b>30. 영국 Burnham 총리, 다음주 전국 투어 예정...생활비·상권 활성화 중점</b>
+<blockquote>영국 총리가 다음주 휴가에서 복귀한 뒤 전 지역을 순회하며 생활비 절감 및 상권 지원에 초점을 맞춘 일정을 진행할 예정이다.
+<a href="https://www.ft.com/content/cf508e70-5bc2-495e-8b9b-21f15e60ad58">[FT]</a></blockquote>
+
+<b>31. 英 주택시장 '정지 상태'...7월 집값 변동 없어 모기지 금리 부담 반영</b>
+<blockquote>Lloyds 데이터에 따르면 영국 주택 가격이 7월 변동 없이 유지됐다. 높은 모기지 금리가 구매력을 압박하며 시장이 사실상 멈춘 상태다.
+<a href="https://www.ft.com/content/2434fbcc-b8b5-4bda-a82d-1b08c6a015f8">[FT]</a></blockquote>
+
+<b>32. easyJet, 프리미엄 좌석·장거리 피더 전략 추진...Apollo 주도 고급화 계획</b>
+<blockquote>easyJet이 추가 서비스 제공 및 장거리 항공사 피더 역할 확대 계획을 세우고 있다. Apollo의 주도 아래 상향 시장 전략을 추진 중이다.
+<a href="https://www.ft.com/content/acc1df39-eccc-4f04-affd-f3aca4839669">[FT]</a></blockquote>
+
+<b>33. 백악관 볼룸 공사 중단 명령...항소법원, 대법원 대결 예고</b>
+<blockquote>연방 항소법원이 트럼프 대통령의 백악관 볼룸 건설 공사를 중단하라고 명령하며 대법원 대결 가능성이 커졌다.
+<a href="https://www.wsj.com/politics/policy/white-house-ballroom-construction-must-stop-appeals-court-rules-7494d8b8">[WSJ]</a></blockquote>
 
 ━━━━━━━━━━━━━━━━━━━━
-📡 **출처: WSJ · FT · The Economist**
+📡 <b>출처: WSJ · FT · The Economist</b>
