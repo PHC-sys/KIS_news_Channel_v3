@@ -1,60 +1,84 @@
 🌙 <b>간밤의 글로벌 마켓 뉴스</b>
-[ 2026. 8. 10 | WSJ · FT · Economist ]
+[{DATE} | WSJ · FT · Economist ]
 ━━━━━━━━━━━━━━━━━━━━
 
 ✅ <b>간밤의 주요 헤드라인</b>
 
-<b>1. Trump, 호르무즈 해협 조기 개통 기대 무산...이란의 추가 요구로 협상 교착</b>
-<blockquote>백악관이 상업 선박 통과 재개 합의가 임박했다고 시사한 지 며칠 만에 Tehran이 주요 양보를 요구하며 협상이 중단됐다. Trump 대통령은 호르무즈 해협 조기 개방을 정치적 성과로 내세우려 했으나 이란의 강경한 입장으로 전망이 불투명해졌다.
-<a href="https://www.wsj.com/world/middle-east/trump-strait-of-hormuz-opening-iran-negotiations-b6a43ad6">[WSJ]</a></blockquote>
+<b>1. 이란, 미군 철수·자산 동결 해제 요구...호르무즈 교착 장기화 우려</b>
+<blockquote>Trump 행정부는 5개월간 군사·외교 압박에도 이란이 호르무즈 해협 재개 불응하자 경제 제재 강화로 전략 전환에 나섰다. 이란은 미군 철수, 자산 동결 해제, 배상금 지급을 조건으로 제시하며 협상을 지연시키고 있다.
+<a href="https://www.wsj.com/world/middle-east/trump-shifts-to-economic-pressure-again-as-iran-wont-meet-his-demands-4445c840">[WSJ]</a> <a href="https://www.ft.com/content/34299f83-9c49-4332-9d0f-d4f369d7a233">[FT]</a></blockquote>
 
-<b>2. 이란, 호르무즈 해협 재개방 전 미국의 새 조건 충족 요구...협상 난관 심화</b>
-<blockquote>Tehran이 Oman과의 해협 재개방 협상 타결 전 미국이 새로운 조건을 충족해야 한다고 밝히며 강경 입장을 고수했다. 이란 측은 협상 최종 단계를 앞두고 추가 요구사항을 제시하며 에너지 시장 불확실성을 키우고 있다.
-<a href="https://www.ft.com/content/9a1ab09b-82d7-43c2-b44a-ebb41d352dab">[FT]</a></blockquote>
+<b>2. 원유 급등, 호르무즈 재개 전망 희박...인플레 우려 재점화</b>
+<blockquote>이란의 새로운 요구로 호르무즈 해협 재개가 지연되면서 원유 선물 가격이 추가 상승했다. 시장은 봉쇄 장기화 가능성에 무게를 두며 글로벌 공급망 차질과 인플레이션 압력 재개를 우려하고 있다.
+<a href="https://www.wsj.com/finance/commodities-futures/oil-rises-amid-growing-doubts-over-strait-of-hormuzs-reopening-6e42507b">[WSJ]</a></blockquote>
 
-<b>3. 이란, 호르무즈 해협 협상 중대 국면서 안보 수장 교체...Mohsen Rezaei 임명</b>
-<blockquote>이란이 호르무즈 해협 협상이 진행 중인 시점에 최고 안보위원회 수장을 전격 교체했다. Mohammad Bagher Zolghadr가 사임하고 Mohsen Rezaei가 신임 수장으로 임명되며 Tehran의 협상 전략 변화 가능성이 주목된다.
-<a href="https://www.ft.com/content/ce343513-5514-4519-95c8-19832ed46d16">[FT]</a></blockquote>
+<b>3. 천연가스 선물 반등, 단기 기온 상승에 중동 공급 우려 겹쳐</b>
+<blockquote>미 천연가스 선물이 단기 날씨 전망에 기온 상승 예보와 LNG 수요 증가, 중동 분쟁에 따른 글로벌 공급 우려가 반영되며 상승 마감했다.
+<a href="https://www.wsj.com/articles/european-ttf-gas-up-5-on-hormuz-shipping-concerns-82eb7f35">[WSJ]</a></blockquote>
 
-<b>4. Netanyahu, Trump의 Gaza 평화안 2단계 거부...Hamas 무장해제 완료까지 군 주둔 고수</b>
-<blockquote>이스라엘 총리가 Hamas의 무장해제와 이스라엘군 철수를 병행하는 Trump의 Gaza 평화안 다음 단계를 거부했다. Netanyahu는 Hamas 무장해제가 완료될 때까지 Gaza에서 군을 철수하지 않겠다며 미국 대통령의 압박에도 불구하고 강경 입장을 유지했다.
-<a href="https://www.ft.com/content/e4650e97-be1f-479d-8959-c892785abf49">[FT]</a></blockquote>
+<b>4. AI가 재생에너지보다 화석연료 생산 더 촉진...온실가스 감축 기대 저해</b>
+<blockquote>최신 연구는 인공지능 기술이 재생에너지 확대보다 석유·가스 생산 효율화에 더 크게 기여하고 있다고 지적했다. AI 활용으로 화석연료 채굴 비용이 낮아지면서 온실가스 감축 목표 달성이 오히려 어려워질 수 있다는 우려가 제기됐다.
+<a href="https://www.ft.com/content/8f16a902-3e80-462c-add8-b841494d1808">[FT]</a></blockquote>
 
-<b>5. 시리아, 러시아 군사기지 통제권 합의...Trump의 대시리아 접근 속 Moscow 전략적 타격</b>
-<blockquote>시리아가 자국 내 러시아 군사기지에 대한 통제권을 확보하는 합의를 체결하며 Trump 행정부의 시리아 정권 접근이 Moscow에 전략적 타격을 입혔다. 중동 지역 내 러시아 군사적 영향력이 약화되는 계기가 될 전망이다.
-<a href="https://www.ft.com/content/df62a69e-aa53-4cde-8a02-4d2cd465a370">[FT]</a></blockquote>
+<b>5. 엔화 개입 효과 반감, 달러/엔 재상승...미일 통화정책 괴리 지속</b>
+<blockquote>미일 정부의 최근 엔화 개입으로 얻은 상승분의 절반을 엔화가 반납하며 달러/엔 환율이 다시 오르는 모습이다. 투자자들은 양국 중앙은행 간 통일된 목소리 부재를 이유로 개입 효과가 소멸하고 있다고 분석했다.
+<a href="https://www.wsj.com/opinion/bank-of-japan-yen-treasury-kazuo-ueda-6b37ad3a">[WSJ]</a> <a href="https://www.ft.com/content/47d2ab3c-0423-49ed-89ca-68683761ed98">[FT]</a></blockquote>
 
-<b>6. OPEC 대신 중국이 석유시장 주도권 장악...공산당이 유가 결정</b>
-<blockquote>중국 공산당이 OPEC를 대체해 글로벌 석유시장의 실질적 지배력을 확보했다. 세계 최대 원유 수입국인 중국의 수요 조절과 전략비축유 운용이 국제 유가 흐름을 좌우하며 에너지 시장 구조가 근본적으로 재편되고 있다.
-<a href="https://www.economist.com/finance-and-economics/2026/08/09/how-china-became-the-worlds-great-oil-power">[Economist]</a></blockquote>
+<b>6. 미 증시 사상 최고치서 하락 전환...호르무즈 재개 불발에 인플레 우려 확산</b>
+<blockquote>이란의 호르무즈 해협 재개 거부로 원유 가격이 급등하자 인플레이션 우려가 재점화되며 미 증시가 하락했다. S&P 500은 전주 사상 최고치를 기록한 직후 약세로 돌아섰다.
+<a href="https://www.wsj.com/finance/stocks/u-s-stocks-fall-as-hopes-for-strait-of-hormuz-reopening-are-dashed-again-03a4915a">[WSJ]</a> <a href="https://www.wsj.com/finance/stocks/oil-broadly-flat-u-s-futures-mostly-higher-ahead-of-key-u-s-cpi-data-db69b2c8">[WSJ]</a></blockquote>
 
-<b>7. 이번주 CPI 발표 앞두고 9월 금리인하 베팅 점검...물가 데이터 주목</b>
-<blockquote>미국 소비자물가지수 발표를 앞두고 시장이 9월 연준 금리인하 가능성을 재평가하고 있다. 인플레이션 둔화 지속 여부가 연내 통화정책 경로를 결정할 핵심 변수로 떠오르며 채권·환율 시장 변동성이 커질 전망이다.
-<a href="https://www.ft.com/content/e7f0c7af-b170-4cb5-a16e-671efa62e605">[FT]</a></blockquote>
+<b>7. 금·은 가격 연속 상승...금 0.5%, 은 2.8% 상승 마감</b>
+<blockquote>귀금속 선물이 이틀 연속 상승 마감했다. 금은 0.5%, 은은 2.8% 올라 인플레이션 우려와 지정학 리스크 확대 속에서 안전자산 선호 심리가 강화되는 모습이다.
+<a href="https://www.wsj.com/finance/commodities-futures/gold-flat-focus-on-u-s-july-payrolls-7759613a">[WSJ]</a></blockquote>
 
-<b>8. 미국 대기업 실적 호조로 주가 사상최고치 경신...AI 투자·인플레 우려 완화</b>
-<blockquote>미국 주요 기업들의 예상을 웃도는 실적 발표가 인공지능 지출과 인플레이션 압력에 대한 시장 우려를 해소하며 주가지수가 연이어 최고치를 경신했다. 기업 이익 개선세가 밸류에이션 부담을 상쇄하며 상승 랠리를 뒷받침하고 있다.
-<a href="https://www.wsj.com/finance/stocks/blockbuster-earnings-bolster-stocks-record-run-97551889">[WSJ]</a></blockquote>
+<b>8. Nvidia·월가 주요 금융사, $500bn AI 인프라 파이낸싱 딜 체결</b>
+<blockquote>Nvidia가 Apollo, Blackstone, BlackRock, Goldman Sachs 등 월가 주요 금융사와 AI 데이터센터 붐을 겨냥한 $500bn 규모 파이낸싱 계약을 체결했다. 이번 딜은 AI 인프라 투자 확대를 위한 자본 조달을 목표로 한다.
+<a href="https://www.wsj.com/business/deals/nvidia-wall-street-firms-strike-ai-financing-deal-targeting-500-billion-c50377db">[WSJ]</a> <a href="https://www.ft.com/content/98a8fd17-15b6-4f67-9cb4-825722b11348">[FT]</a></blockquote>
 
-<b>9. 주식형펀드 연초 이후 +10.6% 수익...변동성 속 상승세 지속</b>
-<blockquote>변동성이 큰 장세 속에서도 주식형 펀드가 올해 들어 10.6% 상승하며 견조한 성과를 기록했다. 기술주가 최신 AI 전망에 따라 급등락을 거듭하는 가운데 투자자들의 위험자산 선호가 이어지고 있다.
-<a href="https://www.wsj.com/finance/investing/stock-funds-increase-year-to-date-4085a35d">[WSJ]</a></blockquote>
+<b>9. Morgan Stanley, $1.5tn 규모 인프라 이니셔티브 추진</b>
+<blockquote>Morgan Stanley가 미국 경제 및 국가 안보의 핵심이 되는 기업·기술·인프라 구축과 확장을 지원하기 위해 $1.5조 규모 인프라 이니셔티브 추진을 발표했다.
+<a href="https://www.wsj.com/finance/investing/morgan-stanley-to-facilitate-1-5-trillion-in-infrastructure-initiative-638bb970">[WSJ]</a></blockquote>
 
-<b>10. Apple, 중국산 메모리칩 테스트 착수...공급 부족 대응책 모색</b>
-<blockquote>iPhone 제조사 Apple이 반도체 공급 부족에 대응해 중국 CXMT의 메모리칩을 테스트하기 위한 초기 협의에 나섰다. 실제 거래 성사 시 미중 기술 경쟁 구도에서 정치적으로 민감한 사안이 될 전망이다.
-<a href="https://www.wsj.com/tech/apple-tests-chinese-memory-chips-as-supply-squeeze-bites-d292bb97">[WSJ]</a></blockquote>
+<b>10. Intel, $15bn 보통주 발행...AI 컴퓨팅 수요 확대 대응</b>
+<blockquote>Intel이 AI 컴퓨팅에 대한 강력한 고객 수요를 근거로 $150억 규모 보통주 발행 계획을 밝혔다. 회사는 자본 확충을 통해 AI 칩 시장 경쟁력 강화에 나설 방침이다.
+<a href="https://www.wsj.com/tech/intel-to-offer-15-billion-of-common-stock-e426bc45">[WSJ]</a></blockquote>
 
-<b>11. AI 업계, "가장 무서운 한 주" 겪어...규제·안보 우려 고조</b>
-<blockquote>인공지능 산업이 규제 강화와 안보 우려가 동시에 불거지며 업계 역사상 가장 긴장된 한 주를 보냈다. 중국산 AI 모델 금지 논의와 기술 안보 정책 불확실성이 겹치며 기업들의 사업 전망에 먹구름이 드리워졌다.
-<a href="https://www.wsj.com/tech/ai/ais-scariest-week-yet-0c008f37">[WSJ]</a></blockquote>
+<b>11. 우크라이나 드론, 러시아 중부 정유도시 타격...13명 사망</b>
+<blockquote>우크라이나군 드론이 러시아 중부 정유 도시를 공격해 13명이 사망했다. 2022년 전쟁 발발 이후 Kyiv의 단일 공습으로는 가장 높은 사망자 수 중 하나로 집계됐다.
+<a href="https://www.ft.com/content/ad0602c3-224f-422c-b052-ff96e2f9054c">[FT]</a></blockquote>
 
-<b>12. 미국 소비재 기업, 해외 매출 급증...국내 둔화 속 새 성장 동력</b>
-<blockquote>미국 주요 포장식품·유통·식품업체들이 해외 매출에서 큰 폭의 증가세를 기록하며 둔화되는 국내 판매를 상쇄하고 있다. 닭고기·비누·스낵 등이 해외에서 더 잘 팔리며 글로벌 소비 트렌드 변화가 뚜렷해졌다.
-<a href="https://www.wsj.com/business/hospitality/u-s-consumer-brands-say-chicken-soap-and-snacks-are-selling-better-overseas-3406cb68">[WSJ]</a></blockquote>
+<b>12. 영국 해군 드론에서 중국 신호 송신 발견...군사 시스템 취약성 우려</b>
+<blockquote>영국 해군이 운용 중인 드론에서 중국으로 신호를 송신하는 부품이 발견됐다. 이번 발견은 특히 드론 기술 분야에서 군사 시스템의 잠재적 취약성에 대한 의문을 제기하고 있다.
+<a href="https://www.wsj.com/world/uk/u-k-discovers-component-in-its-naval-drones-sent-signals-to-china-6ae60578">[WSJ]</a></blockquote>
 
-<b>13. AI가 노동시장 양극화 초래 우려...영구적 하층 계급 형성 가능성</b>
-<blockquote>인공지능 기술이 노동시장을 양분해 영구적 하층 계급을 만들 수 있다는 우려가 제기됐다. San Francisco의 표현은 과장됐지만 AI가 고숙련·저숙련 일자리 격차를 더욱 벌리며 사회 구조를 근본적으로 바꿀 가능성이 주목된다.
-<a href="https://www.ft.com/content/ddf44cf7-0ab5-4e7e-9b1f-e5e8e34181e6">[FT]</a></blockquote>
+<b>13. Trump 행정부, 관세 추가 조사 개시...무역정책 불확실성 확대</b>
+<blockquote>미 정부가 비주류 법률 조항들을 활용해 일련의 신규 조사에 착수하며 추가 관세 부과 가능성을 높이고 있다. 이는 무역정책 불확실성을 키우며 글로벌 공급망과 기업 투자에 영향을 줄 전망이다.
+<a href="https://www.ft.com/content/90a16da7-f8fa-4140-8b00-bf44b1747241">[FT]</a></blockquote>
+
+<b>14. 콜롬비아 대지진으로 최소 111명 사망...신임 대통령 첫 위기 대응</b>
+<blockquote>콜롬비아에서 규모 7.4 강진이 발생해 최소 111명이 사망하고 수십 명이 부상했다. 취임 며칠 만에 첫 주요 위기를 맞은 Abelardo de la Espriella 대통령의 대응에 주목이 쏠리고 있다.
+<a href="https://www.wsj.com/world/americas/colombia-earthquake-president-espriella-e901bc97">[WSJ]</a> <a href="https://www.ft.com/content/970da215-f4f1-43b6-a4d9-b9869d532476">[FT]</a></blockquote>
+
+<b>15. Barrick-Newmont, 네바다 분쟁 $1.95bn에 합의...북미 금광 IPO 추진</b>
+<blockquote>Barrick Mining이 Newmont와 네바다 광산 운영권을 둘러싼 분쟁을 $19억5000만 현금 지급 조건으로 합의했다. 이번 합의로 Barrick은 북미 금 자산의 공개 상장을 추진할 수 있게 됐다.
+<a href="https://www.wsj.com/business/barrick-mining-settles-newmont-nevada-dispute-for-1-95-billion-c8662b9f">[WSJ]</a> <a href="https://www.ft.com/content/0cc564c0-b69f-4e67-ac5d-15147ee31ac1">[FT]</a></blockquote>
+
+<b>16. 연준 커뮤니케이션 전략에 비판 집중...시장과의 소통 한계 지적</b>
+<blockquote>연준의 새로운 커뮤니케이션 전략에 대한 비판이 거세지고 있다. 시장 참가자들은 통화정책 방향성을 둘러싼 연준의 메시지 전달이 여전히 불명확하다고 지적했다.
+<a href="https://www.ft.com/content/061a0cf8-f40d-4c9d-b173-a9ef78ff9daa">[FT]</a></blockquote>
+
+<b>17. Conference Board, 7월 미 고용 트렌드 지수 상승...향후 일자리 증가 시사</b>
+<blockquote>Conference Board의 7월 고용 트렌드 지수가 107.71로 전월 106.74에서 상승했다. 이는 앞으로 고용 증가세가 이어질 가능성을 시사한다.
+<a href="https://www.wsj.com/economy/jobs/u-s-employment-trends-index-increased-in-july-conference-board-says-518193fc">[WSJ]</a></blockquote>
+
+<b>18. FDA, 식품 성분 사전 신고제 도입...RFK Jr. 초가공식품 단속은 지연</b>
+<blockquote>FDA가 식품 제조사에 신규 성분 추가 시 사전 신고를 의무화하는 규정을 발표했다. 다만 Robert F. Kennedy Jr.가 추진한 초가공식품 단속 조치는 시행이 지연되고 있다.
+<a href="https://www.wsj.com/politics/policy/rfk-jr-american-food-ingredients-3f9d922b">[WSJ]</a></blockquote>
+
+<b>19. 유럽, 여성 징병제 확대로 전환...국방 지출 증가 추세</b>
+<blockquote>덴마크가 최근 여성에게도 의무 징병을 확대한 데 이어 NATO 동맹국들도 성평등 징병 프로그램을 참고하고 있다. 이는 유럽 전역에서 국방 지출 확대 추세의 일환으로 풀이된다.
+<a href="https://www.wsj.com/world/europe/inside-europes-shift-to-draft-women-for-war-21eb6773">[WSJ]</a></blockquote>
 
 ━━━━━━━━━━━━━━━━━━━━
 📡 <b>출처: WSJ · FT · The Economist</b>
