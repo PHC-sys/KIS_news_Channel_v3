@@ -1,108 +1,140 @@
 🌙 <b>간밤의 글로벌 마켓 뉴스</b>
-[ 2026. 8. 13. | WSJ · FT · Economist ]
+[ 2026. 8. 14. | WSJ · FT · Economist ]
 ━━━━━━━━━━━━━━━━━━━━
 
 ✅ <b>간밤의 주요 헤드라인</b>
 
-<b>1. 미국 7월 CPI 3.4%로 둔화...9월 금리인상 압박 일부 완화</b>
-<blockquote>미 노동부가 발표한 7월 소비자물가지수가 전년 대비 3.4%로 6월 3.5%보다 낮아졌다. 이란 전쟁 여파가 경제 전반에 지속되는 가운데서도 휘발유 가격 하락이 기여했다. 시장 예상치에 부합하는 수준으로, 연준의 9월 금리인상 가능성을 완전히 배제하지는 못하지만 압박은 다소 줄어들었다는 평가다.
-<a href="https://www.wsj.com/articles/cpi-inflation-report-july-2026-6381275d">[WSJ]</a> <a href="https://www.ft.com/content/52727749-4360-4463-8822-dc3bfd8ef279">[FT]</a> <a href="https://www.ft.com/content/d76aabd7-55a1-43d8-b87a-0f812815a28a">[FT]</a></blockquote>
+<b>1. 미국 PPI 7월 보합...연준 금리동결 기대 강화</b>
+<blockquote>미국 7월 생산자물가지수(PPI)가 전월 대비 보합을 기록했다. 에너지 가격이 소폭 하락하며 도매 단계 인플레이션 압력이 완화되는 모습이다. 시장에서는 연준의 9월 금리동결 가능성이 한층 높아진 것으로 해석하고 있다.
+<a href="https://www.wsj.com/economy/central-banking/u-s-producer-price-index-unchanged-in-july-9ad7702d">[WSJ]</a></blockquote>
 
-<b>2. Kevin Warsh 연준 의장, 전임자 물려받은 딜레마 지속...9월 결정 주목</b>
-<blockquote>Kevin Warsh 연준 의장이 높은 인플레이션, 약한 고용 지표, 대통령의 압박이라는 삼중고에 직면해 있다. 7월 인플레이션 지표가 다소 완화됐지만 향후 전망은 여전히 불투명한 상황이다. 시장은 9월 FOMC 회의에서 금리 결정이 어떻게 나올지 촉각을 곤두세우고 있다.
-<a href="https://www.economist.com/finance-and-economics/2026/08/12/kevin-warsh-is-struggling-to-escape-his-predecessors-problems">[Economist]</a></blockquote>
+<b>2. 美 실업수당 청구 20.9만 건...예상치 소폭 상회</b>
+<blockquote>8월 8일까지 일주일간 신규 실업수당 청구 건수가 20.9만 건으로 집계됐다. 이는 시장 예상치 20.4만 건을 소폭 웃도는 수준이다. 고용시장 연착륙 신호가 이어지는 가운데 소폭 증가세가 나타났다.
+<a href="https://www.wsj.com/economy/jobs/u-s-jobless-claims-rose-again-last-week-29384997">[WSJ]</a></blockquote>
 
-<b>3. 호르무즈 해협 봉쇄 장기화...트럼프 발언에도 선박 회피 계속</b>
-<blockquote>트럼프 대통령이 호르무즈 해협을 미군이 통제하고 있다고 밝혔으나 실제로는 이란의 제한적 무력 과시만으로도 이 수로가 통행 위험 지역으로 남아 있다. 유조선들은 여전히 우회 항로를 택하고 있어 원유 시장 긴장이 이어지고 있다.
-<a href="https://www.wsj.com/world/middle-east/trump-says-hormuz-is-under-u-s-control-few-ships-are-listening-485ba60e">[WSJ]</a></blockquote>
+<b>3. S&P500 사상최고가 경신...인플레이션 완화에 환호</b>
+<blockquote>완화된 도매물가 지표에 힘입어 S&P500 지수가 장중 사상최고가를 경신했다. 연준의 금리동결 기대감이 높아지면서 주식시장 강세가 이어졌다. 투자자들은 인플레이션 둔화와 경기 연착륙 시나리오에 베팅하고 있다.
+<a href="https://www.wsj.com/finance/stocks/u-s-stocks-rise-s-p-500-closes-at-record-high-after-inflation-data-22e8c3a0">[WSJ]</a></blockquote>
 
-<b>4. 흑해에서 곡물·석유 선박 공격 확대...또 하나의 글로벌 병목 지점</b>
-<blockquote>러시아가 곡물 운송선에 대한 공격을 강화하는 가운데 우크라이나는 석유 유조선을 타격하며 흑해가 새로운 글로벌 공급망 병목 지점이 되고 있다. 곡물과 원유 시장 모두 추가 변동성에 노출될 가능성이 커졌다.
-<a href="https://www.wsj.com/world/europe/war-is-squeezing-another-global-chokepoint-the-black-sea-ce08b232">[WSJ]</a></blockquote>
+<b>4. 미국 30년물 국채 금리 2001년 이후 최고...재정적자 우려 부각</b>
+<blockquote>30년 만기 미 국채 발행 금리가 2001년 이후 최고 수준을 기록했다. 연방정부 재정적자 확대와 장기 인플레이션 우려가 동시에 작용한 결과로 풀이된다. 주식시장 강세와 대조적으로 장기 채권시장에서는 긴장이 고조되고 있다.
+<a href="https://www.ft.com/content/9c9c948f-dc8b-4385-a9b9-4b98dc1eadd9">[FT]</a></blockquote>
 
-<b>5. 8월 폭염에 미국 천연가스 선물 상승...재고 지표 발표 앞두고</b>
-<blockquote>미국 천연가스 선물이 향후 2주간 더운 날씨 전망에 힘입어 상승했다. 주간 재고 지표 발표를 앞두고 수요 증가 기대감이 반영됐다.
-<a href="https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-gain-on-hotter-weather-outlook-dbc58b4a">[WSJ]</a></blockquote>
+<b>5. 미 항모 USS George Washington 중동 파견...이란 전쟁 장기화 대응</b>
+<blockquote>미 해군이 USS George Washington 항모를 중동으로 급파한다. 250일 이상 전개 중인 USS Abraham Lincoln을 교체하기 위한 조치다. 이란과의 전쟁이 장기화되면서 항모 순환 배치가 불가피해진 상황이다. 한편 의회에서는 Abraham Lincoln 함상 생활 여건 악화 우려가 제기되고 있다.
+<a href="https://www.wsj.com/politics/national-security/u-s-sending-fresh-aircraft-carrier-to-middle-east-amid-iran-war-strain-d0d6e98d">[WSJ]</a></blockquote>
 
-<b>6. 영국 북해 석유 수입 감소...정부, Rosebank·Jackdaw 유전 승인 결정 앞둬</b>
-<blockquote>스코틀랜드 북해 유전의 석유 수입이 전년 대비 12% 감소했다. 영국 정부는 곧 Rosebank와 Jackdaw 유전의 생산 승인 여부를 결정할 예정이어서 에너지 정책 방향이 주목된다.
-<a href="https://www.ft.com/content/dc0d5a3f-8bcc-483e-8787-18fd27ddab3f">[FT]</a></blockquote>
+<b>6. 원유 연속 상승세 마감...호르무즈 해협 긴장 속 조정</b>
+<blockquote>국제유가가 연속 상승세를 멈추고 하락 마감했다. 미국과 이란이 모두 호르무즈 해협 통제권을 주장하고 있는 가운데 교착 국면이 이어지면서 단기 조정이 나타났다. 다만 중동 지정학 리스크는 여전히 유가 상방 압력으로 작용하고 있다.
+<a href="https://www.wsj.com/finance/commodities-futures/oil-falls-amid-rising-u-s-inventories-8ca9d77f">[WSJ]</a></blockquote>
 
-<b>7. 미 증시 혼조...인플레이션 완화에도 중동 교착 여파</b>
-<blockquote>미국 증시는 소비자 물가 완화 소식에도 불구하고 중동 정세 교착 상태의 영향으로 혼조세를 보였다. AI 기업 실적 호조가 일부 지지 요인으로 작용했다.
-<a href="https://www.wsj.com/finance/stocks/u-s-stocks-mixed-after-inflation-data-5deef0c8">[WSJ]</a> <a href="https://www.wsj.com/finance/stocks/markets-get-inflation-relief-f713a9c7">[WSJ]</a></blockquote>
+<b>7. 트럼프, 40개국 中 관세 회피 방조 의혹 제기...$60bn 규모 우회 수출</b>
+<blockquote>백악관이 캐나다, 일본, EU 등 40개 이상 국가가 중국의 관세 회피를 도왔다고 비난했다. 중국산 제품의 우회 수출(transshipment) 규모가 $60bn에 달한다는 주장이다. 트럼프 행정부는 이를 '환적 사기(transshipment scam)'로 규정하며 추가 압박에 나설 전망이다.
+<a href="https://www.ft.com/content/5d5ed2dd-8326-4cad-aac3-5816448ceccf">[FT]</a></blockquote>
 
-<b>8. 채권 수익률·달러, 오전 낙폭 일부 회복...인플레이션 지표 소화</b>
-<blockquote>미 국채 수익률과 달러 지수가 오전 하락폭을 일부 되돌렸다. 7월 인플레이션 지표가 예상에 부합하면서 시장은 연준의 다음 행보를 저울질하고 있다.
-<a href="https://www.wsj.com/finance/currencies/asian-currencies-consolidate-ahead-of-u-s-cpi-data-56cca36d">[WSJ]</a></blockquote>
+<b>8. 美 의회, 러시아 제재 관세 신규 법안 추진...대통령 재량권 확대</b>
+<blockquote>미국 의회가 러시아 제재를 위한 새로운 관세 법안을 추진 중이다. 법안은 대통령에게 광범위한 관세 부과 재량권을 부여하는 내용을 담고 있다. 우크라이나 지원 명분이지만 트럼프의 관세 무기화 우려도 제기되고 있다.
+<a href="https://www.economist.com/leaders/2026/08/13/a-bill-to-punish-putin-gives-too-much-power-to-donald-trump">[Economist]</a></blockquote>
 
-<b>9. 금·은 가격 상승 지속...금 4거래일 연속 상승</b>
-<blockquote>금 선물이 0.6% 오르며 4거래일 연속 상승세를 이어갔고, 은 선물은 1.2% 올라 최근 11거래일 중 8일째 상승했다. 온건한 인플레이션 지표가 안전자산 수요를 뒷받침했다.
-<a href="https://www.wsj.com/finance/commodities-futures/gold-edges-higher-ahead-of-u-s-inflation-data-11bb4f20">[WSJ]</a></blockquote>
+<b>9. 트럼프, 사이버 공격에 민간 기업 동원 추진...IT 기업과 협력</b>
+<blockquote>트럼프 행정부가 사이버 전쟁에 민간 IT 기업을 동원하는 'cyber privateering' 전략을 본격화하고 있다. 미국 독립전쟁 시기 민간 무장선박을 활용한 전략을 사이버 공간에 적용하는 방식이다. 정부는 주요 기술 기업들과 협력 체계를 구축 중이다.
+<a href="https://www.ft.com/content/a468c20b-cf1d-4a36-87b8-4eb15666e6c4">[FT]</a></blockquote>
 
-<b>10. CoreWeave 주가 19% 급등...AI 인프라 투자 테마 부활</b>
-<blockquote>클라우드 컴퓨팅 기업 CoreWeave의 주가가 19% 급등하며 AI 인프라 관련 주식 전반을 끌어올렸다. AI 하드웨어 투자 붐이 재점화되는 신호로 해석된다.
-<a href="https://www.wsj.com/finance/stocks/coreweave-stock-surge-gives-the-ai-trade-a-boost-1b546f50">[WSJ]</a></blockquote>
+<b>10. Putin 쿠릴 열도 방문...일본에 압박 수위 높여</b>
+<blockquote>Vladimir Putin 러시아 대통령이 일본과 영유권 분쟁 중인 쿠릴 열도를 방문했다. 일본의 방위력 증강 계획에 대한 반발 메시지로 해석된다. 러시아의 핵무장 이웃국들이 일본의 안보 정책 전환에 불만을 드러내는 양상이다.
+<a href="https://www.wsj.com/world/asia/russia-japan-putin-kuril-islands-c59e7f3b">[WSJ]</a></blockquote>
 
-<b>11. Nvidia 칩, 담보 대출 자산으로 부상...월가, AI 하드웨어 가치 지속성 확신</b>
-<blockquote>월가 사모펀드들이 Nvidia의 AI 칩이 수년간 가치를 유지할 것으로 보고 이를 담보로 한 대출에 나서고 있다. 금융 원칙을 거스르는 파격적 베팅이지만 AI 인프라의 장기 가치에 대한 확신을 보여준다.
-<a href="https://www.ft.com/content/3b522281-0119-47c9-a95a-f2c8d04e6212">[FT]</a></blockquote>
+<b>11. SMIC 2분기 실적 호조...레거시 칩 주문 급증</b>
+<blockquote>중국 최대 파운드리 SMIC가 2분기 순이익과 매출 모두 시장 예상을 웃돌았다. 레거시 및 특수 반도체 주문이 급증한 덕분이다. 미국 반도체 제재 속에서도 성숙 공정(mature-node) 수요가 실적을 견인하고 있다.
+<a href="https://www.wsj.com/business/earnings/smic-posts-earnings-beat-as-mature-node-orders-surge-444e75f7">[WSJ]</a></blockquote>
 
-<b>12. Cisco, AI 주문 급증으로 2분기 이익 급증...CEO "멈추면 뒤처진다"</b>
-<blockquote>Cisco가 AI 관련 주문이 쏟아지며 2분기 순이익이 급증했다고 발표했다. Chuck Robbins CEO는 "고객들은 속도를 늦추면 크게 뒤처질 위험이 있다는 것을 안다"고 말했다.
-<a href="https://www.wsj.com/business/earnings/cisco-csco-earnings-report-4q-2026-e82db3b4">[WSJ]</a></blockquote>
+<b>12. JD.com 2분기 실적 예상치 상회...음식배달 적자 축소</b>
+<blockquote>중국 이커머스 JD.com이 2분기 실적에서 매출과 이익 모두 시장 전망을 넘어섰다. 음식배달 사업 적자 폭을 꾸준히 축소하며 수익성 개선에 성공했다. 중국 소비 둔화 우려 속에서도 사업 구조조정 효과가 가시화되고 있다.
+<a href="https://www.wsj.com/business/earnings/jd-com-profit-revenue-beat-expectations-as-food-delivery-losses-narrow-e9dee8e1">[WSJ]</a></blockquote>
 
-<b>13. Foxconn, AI 서버 글로벌 생산 확대...클라우드 투자 붐에 호실적</b>
-<blockquote>대만 Foxconn이 AI 서버 및 기타 기술 하드웨어 생산을 늘리며 또 한 번 강력한 분기 실적을 기록했다. 글로벌 AI 인프라 구축 붐이 실적을 견인하고 있다.
-<a href="https://www.wsj.com/tech/foxconns-ai-hardware-sales-drive-profit-beat-58d9bac3">[WSJ]</a></blockquote>
+<b>13. 중국 희토류 erbium 가격 급등...수출통제 우려 확산</b>
+<blockquote>인프라 건설에 광범위하게 사용되는 희토류 erbium의 가격이 급등했다. 중국의 희토류 수출통제 재개 우려가 촉발 요인이다. 중국은 전 세계 희토류 생산을 지배하고 있어 공급망 무기화 가능성이 상존한다.
+<a href="https://www.ft.com/content/395650e6-7963-428b-9d86-b39c36453f5d">[FT]</a></blockquote>
 
-<b>14. Cerebras, 2분기 적자 전환에도 연간 전망 상향...AI 칩 수요 지속</b>
-<blockquote>반도체 기업 Cerebras가 2분기 4억 505만 달러 적자를 기록했으나 전년 동기 3억 95만 달러 흑자에서 반전됐다. 그럼에도 연간 실적 전망을 상향 조정하며 AI 칩 수요 지속을 확인했다.
-<a href="https://www.wsj.com/business/earnings/cerebras-swings-to-second-quarter-loss-lifts-full-year-outlook-ed83550a">[WSJ]</a></blockquote>
+<b>14. Applied Materials 실적 호조...AI 반도체 수요 지속</b>
+<blockquote>반도체 장비 업체 Applied Materials가 매출과 이익 증가를 기록했다. AI 반도체 수요가 이어지면서 실적 모멘텀을 유지했다. 회사는 지속적인 수요에 대응하기 위해 제조 설비 증설을 검토 중이다.
+<a href="https://www.wsj.com/business/earnings/applied-materials-posts-higher-profit-revenue-on-continued-ai-demand-45c15ab4">[WSJ]</a></blockquote>
 
-<b>15. Goldman Sachs, ETF 업체 Neos를 최대 23억 달러에 인수...자산운용 확대</b>
-<blockquote>Goldman Sachs가 파생상품 기반 ETF 제공업체 Neos를 최대 23억 달러에 인수한다. 투자자들의 'Boomer Candy'로 불리는 수익 창출형 ETF 시장에서 입지를 대폭 확대하겠다는 전략이다.
-<a href="https://www.ft.com/content/ca40af31-2446-45e7-8e6a-7554d759a6ca">[FT]</a> <a href="https://www.wsj.com/finance/investing/goldman-sachs-is-doubling-down-on-investor-hunger-for-boomer-candy-923783e8">[WSJ]</a></blockquote>
+<b>15. Rick Perry의 Fermi Energy, AI 전력 고객 확보...신임 CEO 선임</b>
+<blockquote>Rick Perry 전 에너지장관이 이끄는 Fermi Energy가 텍사스 AI 전력 프로젝트의 첫 고객사를 확보했다. 작년 화려한 IPO 이후 법률 분쟁과 경영진 혼란을 겪어온 스타트업이 사업 모멘텀을 되찾았다. 새 CEO도 선임하며 재출발을 알렸다.
+<a href="https://www.wsj.com/tech/ai/rick-perrys-fermi-finally-finds-a-customer-for-its-giant-texas-ai-power-bet-1f992ffa">[WSJ]</a></blockquote>
 
-<b>16. 스위스, Credit Suisse 사태 후속 규제 강화 추진...감독 당국 권한 확대</b>
-<blockquote>스위스 금융 당국이 부실 은행에 대한 조기 개입 권한 강화 및 벌금 부과 권한 확대 등을 담은 규제 강화안을 추진하고 있다. Credit Suisse 파산 이후 금융 안정성 확보를 위한 후속 조치다.
-<a href="https://www.ft.com/content/de0e971c-0223-4d52-9f52-b703ef5ac467">[FT]</a></blockquote>
+<b>16. Tyson Foods 추가 육가공 공장 폐쇄...소 부족 심화</b>
+<blockquote>Tyson Foods가 추가 쇠고기 가공 공장 폐쇄를 결정했다. 미국 내 소 공급이 75년 만에 최저 수준으로 떨어지며 육가공 업체들이 압박받고 있다. 축산 공급망 위축이 육류 가격 상승 압력으로 이어질 전망이다.
+<a href="https://www.wsj.com/business/tyson-foods-to-exit-more-beef-plants-with-cattle-in-short-supply-2ebd2c41">[WSJ]</a></blockquote>
 
-<b>17. 미국 스테이블코인 규제안 논쟁...경쟁 촉진 vs 소비자 보호 줄타기</b>
-<blockquote>미국 스테이블코인 규제안을 놓고 지나치게 엄격한 제한이 일반 소비자에게 더 저렴한 송금 수단을 제공할 경쟁을 저해할 수 있다는 우려가 제기되고 있다. 혁신과 안전성 사이 균형이 쟁점이다.
-<a href="https://www.wsj.com/opinion/there-are-two-sides-to-every-stablecoin-rule-a0dbcc5e">[WSJ]</a></blockquote>
+<b>17. Lakers $12.5bn 매각 합의...Mark Walter 유동성 압박 타개</b>
+<blockquote>LA Lakers가 $12.5bn에 Joshua Kushner와 Bob Iger에게 매각됐다. 구단주 Mark Walter는 연방 수사와 유동성 위기에 직면한 상태에서 72시간 만에 전격 매각을 결정했다. 미국 스포츠 팀 사상 최고가 거래로 기록됐다.
+<a href="https://www.wsj.com/sports/basketball/lakers-mark-walter-joshua-kushner-bob-iger-0ceeea23">[WSJ]</a></blockquote>
 
-<b>18. 백악관 대변인 Karoline Leavitt, 이달 말 사임...트럼프 최측근 중 한 명</b>
-<blockquote>Donald Trump 대통령의 최측근 중 한 명인 백악관 대변인 Karoline Leavitt이 이달 말 사임한다. 트럼프 행정부 내 주요 인사 변동으로 주목된다.
-<a href="https://www.wsj.com/politics/policy/white-house-press-secretary-karoline-leavitt-to-step-down-c10d534c">[WSJ]</a> <a href="https://www.ft.com/content/3da49f90-75a1-4a01-bc6e-0716d57c1ddc">[FT]</a></blockquote>
+<b>18. FBI, Guggenheim 임원 휴대폰 압수...Mark Walter 사업 조사 확대</b>
+<blockquote>FBI가 Mark Walter 금융제국 조사의 일환으로 Guggenheim 임원의 휴대폰을 압수했다. 보험사를 넘어 증권·자산운용 대기업까지 수사 범위가 확대되고 있다. Walter의 광범위한 사업 포트폴리오에 대한 연방 당국의 면밀한 조사가 진행 중이다.
+<a href="https://www.ft.com/content/c92400d8-15d8-44fb-a069-37c29141c5ae">[FT]</a></blockquote>
 
-<b>19. 위스콘신 민주당 경선, 중도파 David Crowley 승리...사회주의 세력 저지</b>
-<blockquote>위스콘신 주지사 민주당 경선에서 Milwaukee 카운티 단체장 David Crowley가 민주사회주의자 Francesca Hong을 근소한 차이로 누르고 승리했다. 스윙스테이트에서 민주당 중도파가 극좌 세력의 도전을 막아낸 중요한 승리로 평가된다.
-<a href="https://www.wsj.com/politics/elections/left-wing-francesca-hong-locked-in-tight-race-for-democratic-nomination-in-wisconsin-f76dbd5f">[WSJ]</a> <a href="https://www.economist.com/united-states/2026/08/12/a-surprising-comeback-in-wisconsin-is-a-reprieve-for-democratic-moderates">[Economist]</a></blockquote>
+<b>19. Bill Ackman, 자신의 펀드 주가 부진 비판에 반박</b>
+<blockquote>억만장자 투자자 Bill Ackman이 자신의 펀드 Pershing Square USA의 주가 부진을 "솔직히 터무니없다"고 비판했다. 4월 펀드와 운용사를 상장한 이후 포트폴리오 성과가 시장 대비 부진한 상태다. Ackman은 주가가 펀드 가치를 제대로 반영하지 못하고 있다고 주장했다.
+<a href="https://www.wsj.com/finance/stocks/bill-ackman-calls-his-new-funds-slumping-stock-price-frankly-absurd-12fc73be">[WSJ]</a></blockquote>
 
-<b>20. Brinker, Chili's 호조 지속 전망...가성비 중시 소비자 몰려</b>
-<blockquote>Brinker International이 Chili's 체인의 Triple Dipper 애피타이저와 버거·립 메뉴가 가성비를 찾는 소비자들을 끌어들이며 또 한 해 수익성장을 이어갈 것으로 전망했다.
-<a href="https://www.wsj.com/business/earnings/brinker-international-revenue-climbs-as-chilis-growth-continues-18e5a2c4">[WSJ]</a></blockquote>
+<b>20. OpenAI 최고매출책임자 1년 만에 퇴임</b>
+<blockquote>OpenAI의 Chief Revenue Officer Denise Dresser가 재임 1년도 안 돼 퇴임한다. 회사 측은 Dresser가 새로운 기회를 추구하기 위해 떠난다고 밝혔다. OpenAI의 고위 경영진 이탈이 이어지며 조직 안정성에 의문이 제기되고 있다.
+<a href="https://www.wsj.com/tech/ai/openai-chief-revenue-officer-to-depart-after-less-than-a-year-bbe1921a">[WSJ]</a></blockquote>
 
-<b>21. Performance Food, 원가 상승 속 가격 전가로 매출·이익 증가</b>
-<blockquote>Performance Food가 4분기 원가와 판매가 모두 상승하며 매출과 이익이 늘었다고 발표했다. 식자재 유통업체의 가격 전가 능력이 확인됐다.
-<a href="https://www.wsj.com/business/earnings/performance-food-sales-profit-rise-on-higher-prices-6b49deb3">[WSJ]</a></blockquote>
+<b>21. Elon Musk, 천연가스 발전소 계획...전기차 선구자의 화석연료 전환</b>
+<blockquote>Elon Musk의 SpaceX가 텍사스에 천연가스 발전소 건설을 계획 중이다. 새 칩 제조시설에 전력을 공급하기 위한 것으로, 테네시와 미시시피 캠퍼스에서도 이미 가스 터빈을 사용 중이다. 세계 최대 전기차 선구자가 화석연료로 선회하며 논란이 일고 있다.
+<a href="https://www.wsj.com/business/energy-oil/elon-musk-the-worlds-most-famous-ev-pioneer-is-now-leaning-into-fossil-fuels-cad4888f">[WSJ]</a></blockquote>
 
-<b>22. 행동주의 투자자 Nelson Peltz, Wendy's 인수 제안 준비...수 주 내 제출 가능성</b>
-<blockquote>Nelson Peltz의 Trian Fund Management가 BlueFive Capital, Flynn Group과 함께 미국 버거 체인 Wendy's에 대한 인수 제안을 수 주 내 제출할 가능성이 있다.
-<a href="https://www.ft.com/content/422010c3-ac6e-427f-88cf-e6c878b96637">[FT]</a></blockquote>
+<b>22. Tapestry 실적 발표...Coach 브랜드 성장 지속, 가이던스는 보수적</b>
+<blockquote>명품 기업 Tapestry가 또 한 분기 Coach 브랜드 주도 매출 성장을 기록했다. 다만 신규 회계연도 가이던스는 시장 기대에 못 미치는 수준을 제시했다. 투자자들은 Coach의 성장세가 언제까지 이어질지 주목하고 있다.
+<a href="https://www.wsj.com/business/earnings/tapestrys-coach-still-driving-sales-as-company-gives-soft-outlook-500a18ea">[WSJ]</a></blockquote>
 
-<b>23. 중국 개혁파 전 총리 주룽지 97세로 별세...시장경제 전환 주역</b>
-<blockquote>중국을 서구 시장 원칙으로 이끌고 WTO 가입을 주도한 주룽지 전 총리가 97세로 사망했다. 중국 개혁·개방 시대를 상징하는 인물의 타계로 현재 중국 경제 노선과 대비된다.
-<a href="https://www.wsj.com/world/china/zhu-rongji-engineer-of-chinas-economic-overhaul-dies-at-97-0df84c86">[WSJ]</a> <a href="https://www.economist.com/china/2026/08/12/zhu-rongjis-death-is-a-reminder-of-how-much-has-changed-in-china">[Economist]</a></blockquote>
+<b>23. StubHub 월드컵 티켓 환불로 적자...매출은 급증</b>
+<blockquote>티켓 재판매 플랫폼 StubHub의 매출이 급증했지만 수익은 적자를 기록했다. 월드컵 티켓 관련 고객 불만과 환불 처리 비용이 급증한 탓이다. 티켓 대란이 회사 재무에 직접적인 타격을 입혔다.
+<a href="https://www.wsj.com/business/retail/stubhub-profits-world-cup-stock-cd46ec68">[WSJ]</a></blockquote>
 
-<b>24. Bob Iger·Josh Kushner, Lakers 농구단 125억 달러에 인수...Mark Walter 1년 만에 매각</b>
-<blockquote>Bob Iger와 Josh Kushner가 LA Lakers 농구단을 125억 달러에 인수하는 계약을 체결했다. Guggenheim의 Mark Walter는 소유 1년 만에 매각하며, 그의 보험 제국에 대한 미국 당국 조사가 배경으로 지목된다.
-<a href="https://www.ft.com/content/22534413-a23e-4ecb-b68f-c9f1105c8953">[FT]</a></blockquote>
+<b>24. Frasers, Harvey Nichols £40mn에 인수...Mike Ashley 럭셔리 진출</b>
+<blockquote>Sports Direct 소유주 Frasers가 백화점 체인 Harvey Nichols를 £40mn에 인수했다. Mike Ashley 회장의 럭셔리 시장 진출 행보다. Frasers는 인수 후 일부 점포 폐쇄 가능성을 경고했다.
+<a href="https://www.ft.com/content/8e6cecd4-f0ce-4463-a238-37ecd73cbc81">[FT]</a></blockquote>
 
-<b>25. 엘니뇨 기록적 강도 전망...세계 경제 타격 우려</b>
-<blockquote>올해 엘니뇨가 기록적으로 강력할 것으로 예상되며 세계 경제에 광범위한 영향을 미칠 가능성이 제기되고 있다. 곡물 생산과 원자재 가격 등에 변동성이 예상된다.
-<a href="https://www.ft.com/content/4469e5f8-1839-45a5-9e1d-b63ea58b8763">[FT]</a></blockquote>
+<b>25. Shein, Temu에 저작권 소송 패소...플랫폼 책임 시금석</b>
+<blockquote>패션 플랫폼 Shein이 경쟁사 Temu를 상대로 제기한 영국 저작권 소송에서 패소했다. 온라인 플랫폼의 제3자 판매자 책임 범위를 가늠하는 시금석이 된 소송이었다. 양대 플랫폼 간 법적 공방은 계속될 전망이다.
+<a href="https://www.ft.com/content/3f3abc19-1a0a-439a-90ee-971861cc144e">[FT]</a></blockquote>
+
+<b>26. Accelerant, Thoma Bravo에 $4.4bn 인수...비상장화</b>
+<blockquote>데이터 기반 리스크 거래소 Accelerant가 사모펀드 Thoma Bravo에 $4.4bn 이상 규모로 인수돼 비상장 전환한다. 상장 기업이었던 Accelerant는 PE 품으로 돌아가며 구조조정에 나선다.
+<a href="https://www.wsj.com/business/deals/accelerant-to-go-private-in-4-4b-deal-with-thoma-bravo-177df4a7">[WSJ]</a></blockquote>
+
+<b>27. 영국 Andy Burnham 총리, 수도 요금 인상 비판...고객을 백지수표 취급</b>
+<blockquote>Andy Burnham 영국 총리가 수도회사들의 요금 인상안을 비판했다. 규제당국 Ofwat이 예상보다 높은 인상률을 승인하자 고객을 '백지수표(blank cheque)' 취급한다고 맹비난했다. 신규 인프라 투자 재원 마련 명분이지만 민생 부담 우려가 크다.
+<a href="https://www.ft.com/content/01c3117d-1c8b-4b57-b271-aea0ed607adc">[FT]</a></blockquote>
+
+<b>28. 영국 정부, 가뭄 피해 농민 지원 검토...다섯 번째 폭염 진행 중</b>
+<blockquote>영국 정부가 가뭄 피해를 입은 농민 지원 방안을 검토 중이다. 영국은 올해 다섯 번째 폭염을 겪으며 농촌이 극심한 피해를 보고 있다. 기후 위기가 농업 생산과 식량 안보에 직접적인 위협으로 다가오고 있다.
+<a href="https://www.ft.com/content/09c1ed51-8e69-4e39-bab3-392e1e9f9f6b">[FT]</a></blockquote>
+
+<b>29. 영국 38.1°C 폭염에 주택 화재...서부 미들랜즈 일대 산불</b>
+<blockquote>영국이 올해 최고 기온 38.1°C를 기록한 가운데 서부 미들랜즈 곳곳에서 산불이 발생해 일부 주택이 화재에 휩싸였다. 런던을 포함한 전역에서 기록적 폭염이 이어지며 화재 위험이 고조되고 있다.
+<a href="https://www.ft.com/content/b293b66c-8719-4956-9e76-9468dfeaa890">[FT]</a></blockquote>
+
+<b>30. 유럽 가뭄으로 강바닥 노출...매머드 화석·나치 군함 드러나</b>
+<blockquote>유럽의 기록적 폭염과 가뭄으로 강 수위가 급락하며 강바닥이 드러나고 있다. 매머드 화석과 제2차 세계대전 당시 나치 군함 잔해 등이 모습을 드러냈다. 기후 위기가 유럽 전역을 마비시키고 있다.
+<a href="https://www.economist.com/europe/2026/08/13/europes-dry-rivers-are-exposing-mammoths-and-nazi-warships">[Economist]</a></blockquote>
+
+<b>31. 몰도바-루마니아 합병 논의 부상...EU 가입 대안 모색</b>
+<blockquote>몰도바 지도부가 루마니아와의 합병을 EU 가입의 대안 경로로 언급하기 시작했다. 독자적 EU 가입 절차가 지연되자 루마니아 편입을 통한 우회 가입 방안을 검토 중이다. 동유럽 지정학 지형에 새로운 변수가 등장했다.
+<a href="https://www.economist.com/europe/2026/08/13/might-moldova-merge-with-romania">[Economist]</a></blockquote>
+
+<b>32. Nigel Farage 지지율 하락...보궐선거 도전 앞두고 난관</b>
+<blockquote>영국 포퓰리즘 정치인 Nigel Farage의 지지율이 하락세를 보이고 있다. Reform UK 당수인 그는 자신의 의석을 지키기 위한 보궐선거를 앞두고 기부금 논란 등 악재에 직면했다. 영국 우파 포퓰리즘의 상징이 위기를 맞고 있다.
+<a href="https://www.wsj.com/world/uk/has-nigel-farage-peaked-summer-of-setbacks-hits-britains-irrepressible-populist-ec1b7b78">[WSJ]</a></blockquote>
+
+<b>33. Starmer 측근, Healey에 경제 유산 낭비 경고</b>
+<blockquote>Keir Starmer 영국 총리 측근들이 Andy Burnham 부총리에게 "강력한" 경제 유산을 낭비하지 말라고 경고했다. Burnham이 지출 증대 계획을 시사하자 재정 건전성 우려가 제기된 것이다. 노동당 내 재정 정책 노선 갈등이 수면 위로 떠올랐다.
+<a href="https://www.ft.com/content/1f609a52-8b6e-4bc9-a851-c05c099c7029">[FT]</a></blockquote>
 
 ━━━━━━━━━━━━━━━━━━━━
 📡 <b>출처: WSJ · FT · The Economist</b>
