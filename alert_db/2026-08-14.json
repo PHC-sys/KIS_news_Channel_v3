@@ -1,23 +1,24 @@
 {
   "sent_urls": [
-    "https://www.wsj.com/opinion/pepperand-salt-92d9d861",
-    "https://www.wsj.com/politics/policy/karoline-leavitt-the-press-secretary-who-perfected-the-art-of-defending-trump-f3d1f08f",
-    "https://www.wsj.com/finance/currencies/yen-consolidates-may-be-buoyed-by-prospects-of-boj-rate-hike-d2e15aae",
     "https://www.ft.com/content/1bc8c77b-f3e2-4ad4-aefc-94b3f48426c6",
-    "https://www.ft.com/content/094f578b-517a-4d05-a9f1-1cc1f2e56c44",
-    "https://www.wsj.com/world/see-the-battlefield-innovations-reshaping-the-russia-ukraine-war-b8f58805",
+    "https://www.ft.com/content/8278a799-8289-47c3-8d53-72de93ededdc",
     "https://www.ft.com/content/4e31fa96-360c-4e49-84d9-213e74b51419",
-    "https://www.wsj.com/finance/commodities-futures/gold-falls-despite-softer-than-expected-u-s-wholesale-price-data-2ea11c0a",
-    "https://www.ft.com/content/7b480e56-6646-48b5-871f-76639255da41",
-    "https://www.wsj.com/business/logistics/there-arent-enough-ships-to-handle-chinas-booming-car-exports-d2b66787",
-    "https://www.wsj.com/finance/commodities-futures/oil-edges-lower-amid-mixed-signals-cbfa6bef",
-    "https://www.ft.com/content/7a833951-9700-46e1-bc08-d47716504138",
-    "https://www.wsj.com/tech/ai/claude-dario-amodei-wife-anthropic-e1eeda7d",
-    "https://www.ft.com/content/77816bbf-0316-4a73-8121-cfa22e6235be",
     "https://www.wsj.com/economy/trade/trump-announces-drone-tariffs-to-protect-national-security-bolster-u-s-supply-chains-87bab5b8",
-    "https://www.wsj.com/finance/stocks/asx-loses-bulls-following-stocks-rerate-dbb0aea8",
+    "https://www.wsj.com/politics/policy/karoline-leavitt-the-press-secretary-who-perfected-the-art-of-defending-trump-f3d1f08f",
     "https://www.ft.com/content/5ca83d6d-2c13-4d5e-b564-881f89189b3e",
+    "https://www.ft.com/content/094f578b-517a-4d05-a9f1-1cc1f2e56c44",
+    "https://www.ft.com/content/7a833951-9700-46e1-bc08-d47716504138",
+    "https://www.ft.com/content/77816bbf-0316-4a73-8121-cfa22e6235be",
     "https://www.wsj.com/tech/ai/deepseek-lifts-ai-model-prices-fourfold-fbe893e7",
-    "https://www.wsj.com/politics/trump-elon-musk-relationship-d4b57ce6"
+    "https://www.ft.com/content/7b480e56-6646-48b5-871f-76639255da41",
+    "https://www.wsj.com/finance/commodities-futures/oil-edges-lower-amid-mixed-signals-cbfa6bef",
+    "https://www.wsj.com/finance/currencies/yen-consolidates-may-be-buoyed-by-prospects-of-boj-rate-hike-d2e15aae",
+    "https://www.wsj.com/tech/ai/claude-dario-amodei-wife-anthropic-e1eeda7d",
+    "https://www.wsj.com/opinion/pepperand-salt-92d9d861",
+    "https://www.wsj.com/finance/commodities-futures/gold-falls-despite-softer-than-expected-u-s-wholesale-price-data-2ea11c0a",
+    "https://www.wsj.com/politics/trump-elon-musk-relationship-d4b57ce6",
+    "https://www.wsj.com/world/see-the-battlefield-innovations-reshaping-the-russia-ukraine-war-b8f58805",
+    "https://www.wsj.com/finance/stocks/asx-loses-bulls-following-stocks-rerate-dbb0aea8",
+    "https://www.wsj.com/business/logistics/there-arent-enough-ships-to-handle-chinas-booming-car-exports-d2b66787"
   ]
 }
