@@ -4,93 +4,25 @@
 
 ✅ <b>간밤의 주요 헤드라인</b>
 
-<b>1. 미 소비자심리·소매판매 동반 약화...이란 전쟁 여파로 affordability 압박 가중</b>
-<blockquote>7월 소매판매가 전월 대비 0.6% 하락한 $7,636억을 기록했고, 8월 미시간대 소비자심리지수도 전월 대비 하락했다. FT는 이란 전쟁으로 생활비 부담이 커지며 소비자들이 트럼프 경제에 대한 기대를 철회하고 있다고 분석했다.
-<a href="https://www.ft.com/content/66d3a2de-6591-443d-83b0-94f2224edbbf">[FT]</a></blockquote>
+<b>1. 미 항모 전단 사기 저하에 무기고 고갈 우려...이란 전쟁 지속능력 논란</b>
+<blockquote>USS Abraham Lincoln 전단의 열악한 근무 여건이 보도되면서 이란 전쟁에 대한 미 국내 여론 악화와 무기 재고 소진 우려가 동시에 부각됐다. 장기 작전으로 인한 병력 소모와 무기 보급 차질이 중동 개입의 지속 가능성에 대한 의문을 키우고 있다.
+<a href="https://www.ft.com/content/4bd6537f-db17-4013-be3f-c70a1299183c">[FT]</a></blockquote>
 
-<b>2. 7월 미 소매판매 -0.6% 기록...경제 둔화 우려 재부상</b>
-<blockquote>전월 0.2% 증가했던 소매판매가 7월 0.6% 감소하며 $7,636억으로 집계됐다. 이코노미스트들은 소폭 증가를 예상했으나 예상 밖의 부진한 결과가 나왔다.
-<a href="https://www.wsj.com/economy/consumers/retail-sales-fell-last-month-78fdf39a">[WSJ]</a></blockquote>
+<b>2. 이스라엘, 휴전 2개월 만에 레바논 공습 재개...11명 사망</b>
+<blockquote>이스라엘군이 Hizbollah의 공격에 대응해 레바논을 공습, 11명이 숨졌다. 휴전 이후 최대 규모 공격으로 중동 긴장이 다시 고조되며 지정학 리스크 프리미엄이 지속될 전망이다.
+<a href="https://www.ft.com/content/1bd69e67-266f-4a4a-9c49-eb3c83bcb295">[FT]</a></blockquote>
 
-<b>3. 소매판매 상세 데이터 발표...경제 모멘텀 약화 신호</b>
-<blockquote>7월 소매판매 세부 항목에서 전반적인 소비 위축이 확인됐다. 올 봄까지만 해도 가속 국면으로 보였던 미국 경제가 재평가 국면에 접어들었다는 분석이 나온다.
-<a href="https://www.wsj.com/economy/weak-retail-sales-number-adds-to-softening-economic-data-c047dce9">[WSJ]</a></blockquote>
+<b>3. 우크라이나 Patriot 요격탄 바닥...러시아 동절기 공세 앞두고 방어 공백</b>
+<blockquote>우크라이나군의 Patriot 발사대 요격탄 재고가 고갈되면서 러시아의 겨울 공세에 대한 대응력이 저하되고 있다. 서방의 보급 지연이 전선 방어력 약화로 이어지며 유럽 안보 리스크 확대 우려가 커지고 있다.
+<a href="https://www.ft.com/content/6448b0af-f2ed-4067-b814-73f41b56fa78">[FT]</a></blockquote>
 
-<b>4. 미시간대 소비자심리지수 8월 하락...소비 둔화 우려 증폭</b>
-<blockquote>8월 미시간대 소비자심리지수 예비치가 7월 대비 하락했다. 소매판매 부진에 이은 심리 지표 약화로 미 소비 전망에 대한 우려가 커지고 있다.
-<a href="https://www.wsj.com/economy/consumers/consumer-sentiment-has-dropped-in-august-per-michigan-survey-f2960646">[WSJ]</a></blockquote>
+<b>4. 트럼프 가족 암호화폐 은행 World Liberty Financial, 신탁은행 조건부 승인</b>
+<blockquote>미 통화감독청(OCC)이 트럼프 가족의 암호화폐 벤처 World Liberty Financial에 신탁은행 설립 조건부 승인을 내렸다. 친암호화폐 규제 완화 정책이 구체화되면서 크립토 자산에 대한 제도권 편입 기대가 높아지고 있다.
+<a href="https://www.wsj.com/finance/trump-familys-world-liberty-financial-gets-preliminary-approval-to-launch-a-bank-dd518a2b">[WSJ]</a></blockquote>
 
-<b>5. S&P 500 주간 3연속 상승...9월 금리 동결 베팅 강화</b>
-<blockquote>S&P 500 지수가 3주 연속 상승세를 이어갔다. 인플레이션 둔화 지표에도 불구하고 소비 약화 신호가 나오면서 투자자들은 연준의 9월 금리 동결 가능성에 베팅을 늘리고 있다.
-<a href="https://www.wsj.com/finance/stocks/s-p-500-logs-third-consecutive-weekly-gain-1b37e4d4">[WSJ]</a></blockquote>
-
-<b>6. 월가 투자자들 미국 주식 복귀...실적 호조·인플레 둔화 영향</b>
-<blockquote>7월 반도체 급락 이후 이탈했던 투자자들이 미국 주식시장으로 돌아오고 있다. 견조한 기업 실적 시즌과 인플레이션 둔화가 낙관론 회복을 견인했다.
-<a href="https://www.ft.com/content/d4897d94-0d69-445a-9466-5150840c801e">[FT]</a></blockquote>
-
-<b>7. 연준 의장 Kevin Warsh 침묵 전략...시장 주도 통화정책 운용</b>
-<blockquote>Jerome Powell 후임인 Warsh 연준 의장이 과묵한 태도로 일관하며 시장과 동료 정책위원들이 주도권을 갖도록 하고 있다. FT는 이를 '기다리며 지켜보기(Warsh and wait)' 전략으로 분석했다.
-<a href="https://www.ft.com/content/e95e8b45-474b-4305-b3b5-83036fa3a06c">[FT]</a></blockquote>
-
-<b>8. S&P 500 장중 사상최고가 근처...소매판매 부진에도 AI 테마주 강세</b>
-<blockquote>주간 마감을 앞두고 S&P 500이 사상최고치 인근에서 거래되고 있다. 약한 소매판매 지표에도 불구하고 인플레이션 둔화와 AI 관련 주식 강세가 지수를 지탱했다.
-<a href="https://www.wsj.com/finance/stocks/u-s-futures-fall-gold-on-track-for-weekly-loss-54d90885">[WSJ]</a></blockquote>
-
-<b>9. 트럼프, 40개국 '중국 관세 회피 조력' 지목...$60bn 거래 거론</b>
-<blockquote>백악관이 캐나다·일본·EU 등 40개 이상 국가를 중국의 미국 관세 회피를 돕는 '환적 사기(transshipment scam)' 혐의로 지목했다. 총 $600억 규모 무역이 연루된 것으로 추정된다.
-<a href="https://www.ft.com/content/5d5ed2dd-8326-4cad-aac3-5816448ceccf">[FT]</a></blockquote>
-
-<b>10. 트럼프, 드론 관세 신설 발표...중국 겨냥 국가안보 조치</b>
-<blockquote>백악관이 드론 및 부품 수입에 대한 새 관세 프로그램을 발표했다. 중국산 제품을 겨냥한 이번 조치는 미국 국방산업 기반 보호를 목적으로 한다.
-<a href="https://www.wsj.com/economy/trade/trump-announces-drone-tariffs-to-protect-national-security-bolster-u-s-supply-chains-87bab5b8">[WSJ]</a></blockquote>
-
-<b>11. Jane Street, $150억 손실 기록...AI 헤지펀드 Situational Awareness 참사</b>
-<blockquote>비밀주의로 유명한 월가 트레이딩 회사 Jane Street가 Leopold Aschenbrenner의 AI 헤지펀드 Situational Awareness 투자 실패로 7월 사상 최대 손실 $150억을 기록했다.
-<a href="https://www.ft.com/content/47dd5308-dd17-404a-a615-61046defd697">[FT]</a></blockquote>
-
-<b>12. PayPal, Stripe-Advent 컨소시엄과 매각 협상...핀테크 구조조정</b>
-<blockquote>고전 중인 결제 기업 PayPal이 핀테크 스타트업 Stripe와 사모펀드 Advent 컨소시엄과 7월부터 매각 협상을 진행 중이다.
-<a href="https://www.wsj.com/business/deals/stripe-advent-in-talks-to-buy-paypal-ea6aa2ba">[WSJ]</a></blockquote>
-
-<b>13. Nvidia, SpaceX $210억 지분 공개...데이터센터 독점 계약 체결</b>
-<blockquote>Nvidia가 SpaceX에 $210억 규모 지분을 보유하고 있다고 공시했다. Elon Musk는 앞서 Nvidia가 자사 데이터센터 장비 공급 독점권을 확보했다고 발표한 바 있다.
-<a href="https://www.ft.com/content/6f66a76d-0b2d-4301-886c-87ecc046731b">[FT]</a></blockquote>
-
-<b>14. Berkshire Hathaway, Alphabet 지분 확대·주택건설주 매수</b>
-<blockquote>CEO이자 최고 투자책임자인 Greg Abel이 2분기 Alphabet 지분을 늘리고 주택건설주를 새로 편입했다. 금융주 비중은 축소했다.
-<a href="https://www.wsj.com/finance/stocks/berkshire-adds-to-alphabet-stake-buys-homebuilders-and-exits-constellation-746a5bdc">[WSJ]</a></blockquote>
-
-<b>15. 트럼프 가족 크립토 은행 World Liberty, 조건부 라이선스 승인</b>
-<blockquote>트럼프 대통령 가족의 암호화폐 벤처 World Liberty Financial이 통화감독청(OCC)으로부터 신탁은행 설립 조건부 승인을 받았다. 대통령 이해충돌 논란이 정치적 쟁점으로 부상하고 있다.
-<a href="https://www.ft.com/content/ace83fb4-a0cd-405a-a2c6-f6499a83e983">[FT]</a></blockquote>
-
-<b>16. JPMorgan, Polymarket과 거래 중단...규제 리스크 우려</b>
-<blockquote>JPMorgan이 예측시장 플랫폼 Polymarket과의 은행 거래를 규제 우려를 이유로 종료했다. 예측시장과 탈은행화(debanking) 논란이 재점화되고 있다.
-<a href="https://www.wsj.com/finance/banking/jpmorgan-ended-banking-relationship-with-polymarket-over-regulatory-concerns-d8d00d32">[WSJ]</a></blockquote>
-
-<b>17. 모기지 대부업체 UWM, Oaktree서 $20억 긴급 조달...리스크 관리 실패</b>
-<blockquote>피닉스 선즈 구단주이자 억만장자 금융인 Mat Ishbia의 모기지 회사 UWM이 잘못된 거래로 위기에 빠져 사모펀드 Oaktree로부터 막판 $20억 라이프라인을 확보했다.
-<a href="https://www.ft.com/content/20f44f32-6566-4373-b6d8-9551be58d762">[FT]</a></blockquote>
-
-<b>18. NATO, 라트비아 영공서 드론 격추...러시아 전자전 개입 의심</b>
-<blockquote>라트비아 군은 자국 영공 침범 무인기를 NATO 전투기가 격추했으며, 러시아의 전자전(electronic warfare)이 원인이라고 밝혔다.
-<a href="https://www.wsj.com/world/europe/nato-jet-downs-drone-as-concerns-grow-over-russia-threat-9b4b76c7">[WSJ]</a></blockquote>
-
-<b>19. 베네수엘라, 영란은행 보유 금 $40억 반환 협상...미국 중재</b>
-<blockquote>베네수엘라 정부가 영란은행에 보관 중인 금 $40억 반환을 위한 협상에 착수했다. 미국이 중재한 양측 협의에서 금 접근권 확보 의지를 밝혔다.
-<a href="https://www.ft.com/content/5eb087c6-7a53-4f94-9588-d12f30d221df">[FT]</a></blockquote>
-
-<b>20. 인도네시아 Prabowo, 원자재 무역 개혁 후퇴...시장 압박에 굴복</b>
-<blockquote>인도네시아 대통령 Prabowo가 니켈·석탄·팜유 무역을 흔들 예정이던 국영 기관 개혁 계획을 시장 압력 속에 철회했다.
-<a href="https://www.ft.com/content/c061415a-791d-42e5-9907-736563c7f938">[FT]</a></blockquote>
-
-<b>21. 캐나다 제조업 판매 6월 5개월 연속 증가...2분기 성장률 상향 가능성</b>
-<blockquote>캐나다 공장 판매가 6월까지 5개월 연속 증가하며 모멘텀을 이어갔다. 이는 캐나다 중앙은행의 2분기 성장률 전망치를 크게 상회하는 수준이다.
-<a href="https://www.wsj.com/world/americas/canada-manufacturing-sales-rise-for-fifth-straight-month-in-june-42515edd">[WSJ]</a></blockquote>
-
-<b>22. 다음 주 주목 이벤트...연준 의사록·중국 경제 지표 발표</b>
-<blockquote>다음 주 연준의 최근 회의 의사록과 중국 경제 지표가 공개된다. 연준 의사록에서 금리 동결 결정 배경과 9월 인상 가능성 단서가 주목된다.
-<a href="https://www.wsj.com/economy/week-ahead-for-fx-bonds-fed-minutes-china-data-in-focus-6ad23f18">[WSJ]</a></blockquote>
+<b>5. Caterpillar·Cummins, AI 데이터센터 건설 수요로 새 시장 개척</b>
+<blockquote>Caterpillar와 Cummins 등 전통 중장비 제조업체들이 AI 데이터센터 건설 붐에 힘입어 발전기·냉각 장비 등 인프라 설비 공급에 주력하고 있다. 범용 장비 시장 둔화 속에서 AI 인프라 투자가 새로운 수요처로 부상하고 있다.
+<a href="https://www.wsj.com/business/big-manufacturers-find-new-demand-in-equipping-ai-data-centers-14e869ee">[WSJ]</a></blockquote>
 
 ━━━━━━━━━━━━━━━━━━━━
 📡 <b>출처: WSJ · FT · The Economist</b>
