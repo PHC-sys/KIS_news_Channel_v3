@@ -4,53 +4,101 @@
 
 ✅ <b>간밤의 주요 헤드라인</b>
 
-<b>1. 미국, 캐나다에 50% 관세 임박...무역협상 막판 긴장 고조</b>
-<blockquote>미-캐나다 무역협상이 최종 마감 시한을 앞두고 있는 가운데 미국 행정부의 50% 관세 부과가 임박한 것으로 전해졌다. 캐나다 기업들은 관세 발효에 대비한 비상 계획을 가동 중이며, 북미 무역 불확실성이 급격히 확대되고 있다.
-<a href="https://www.ft.com/content/d14b21c8-6a63-4593-b455-480b18792ac8">[FT]</a></blockquote>
+<b>1. Trump, Oman 폭격 경고...호르무즈 해협 이란 협상 개입 저지</b>
+<blockquote>Trump 대통령은 Oman이 미국-이란 간 호르무즈 해협 봉쇄 협상에 개입할 경우 폭격을 불사하겠다고 위협했다. Oman은 이란과 잠정 관리 방안을 논의 중이다.
+<a href="https://www.ft.com/content/d4d07198-498d-48d1-9e54-85f1febcd070">[FT]</a></blockquote>
 
-<b>2. Fed 의사록 공개 앞두고 포워드 가이던스 변화 주목...금리 경로 불확실성 확대</b>
-<blockquote>오늘 공개 예정인 연방준비제도 FOMC 의사록에서 향후 통화정책 방향성에 대한 단서가 나올지 시장의 관심이 집중되고 있다. 일각에서는 연준이 기존 포워드 가이던스 방식을 수정할 가능성도 제기되며 금리 경로 전망의 불확실성이 커지는 모습이다.
-<a href="https://www.ft.com/content/f9eb497c-f8e0-4cba-8edc-619e55b74a59">[FT]</a></blockquote>
+<b>2. 미-이란 호르무즈 교착 장기화...Trump "서두르지 않겠다"</b>
+<blockquote>호르무즈 해협을 둘러싼 미국과 이란의 대치가 해소되지 않는 가운데 Trump 대통령은 갈등 해결을 서두르지 않을 것임을 시사했다. 이란 선박 봉쇄가 이어지고 있다.
+<a href="https://www.wsj.com/world/middle-east/trump-oman-bomb-threats-hormuz-0941134f">[WSJ]</a></blockquote>
 
-<b>3. Kevin Warsh, 연준 점도표 폐지 시사...통화정책 커뮤니케이션 틀 전환 가능성</b>
-<blockquote>차기 연준 의장 후보로 거론되는 Kevin Warsh가 연준의 금리 전망 점도표 폐지를 공개 지지하며 논란이 일고 있다. 점도표는 시장 투명성 제고를 위해 도입됐지만 실제로는 정책 혼선을 키웠다는 비판이 제기되어 왔으며, Warsh의 발언은 연준 커뮤니케이션 방식의 근본적 변화 가능성을 시사한다.
-<a href="https://www.wsj.com/opinion/warsh-is-wise-to-ditch-the-dots-77ebb5ab">[WSJ]</a></blockquote>
+<b>3. Jared Kushner-Netanyahu 회담...Hamas 지도부와도 접촉</b>
+<blockquote>Trump 대통령의 사위이자 특사인 Kushner는 Netanyahu 이스라엘 총리와 회담을 갖고 Gaza 평화안을 논의했다. Kushner는 이에 앞서 Hamas 지도부와도 만났다.
+<a href="https://www.ft.com/content/eea1da3e-1c1c-4957-ad9d-f0372b2694f0">[FT]</a></blockquote>
 
-<b>4. Jamie Dimon, 영국 재무장관에 은행세 인상 경고...금융업 규제 리스크 부각</b>
-<blockquote>JPMorgan의 Jamie Dimon 회장이 영국 재무장관 John Healey에게 은행세 인상 계획을 재고할 것을 촉구했다. 10월 예산안을 앞두고 영국 금융업계는 세금 부담 증가에 대한 우려를 표명하며 정부를 상대로 집중 로비에 나선 상태다.
-<a href="https://www.ft.com/content/44c08ae9-f209-4992-8744-cfff430eca07">[FT]</a></blockquote>
+<b>4. Trump, 이스라엘에 Gaza 공습 중단 촉구...Netanyahu는 Hamas 무장해제 거부</b>
+<blockquote>Trump 대통령은 이스라엘이 Gaza 지구 공습을 멈춰야 한다고 밝혔다. 그러나 Netanyahu 총리는 Trump의 Hamas 무장해제 계획을 거부하고 있다.
+<a href="https://www.wsj.com/world/middle-east/trump-says-israel-should-stop-striking-gaza-47c2efbf">[WSJ]</a></blockquote>
 
-<b>5. 캘리포니아 부유세 반대 진영에 실리콘밸리 억만장자 추가 투입...조세 정책 격전</b>
-<blockquote>Chris Larsen과 John Doerr 등 캘리포니아 억만장자들이 부유층 5% 과세안 저지를 위해 수백만 달러를 추가 출연했다. 주 정부의 부유세 도입 시도에 맞서 테크 업계 자산가들의 반대 캠페인이 본격화되고 있다.
-<a href="https://www.ft.com/content/10aba768-20fc-46eb-8503-4658181bffc5">[FT]</a></blockquote>
+<b>5. 중동 갈등, 미국-이스라엘 예상 밖 동맹 재편 초래</b>
+<blockquote>이란과의 분쟁은 미국과 이스라엘이 예견하지 못한 방식으로 중동 지역 동맹 구도를 재편하고 있다. 전통적 파트너십에 균열이 나타나고 있다.
+<a href="https://www.ft.com/content/895ca028-33c7-4295-bf8c-13a3121b80ac">[FT]</a></blockquote>
 
-<b>6. 미국, 브라질 판사 제재 검토...좌파 정부와 외교 긴장 재점화</b>
-<blockquote>미국 행정부가 브라질 판사에 대한 제재를 검토 중인 것으로 알려지며 양국 관계에 새로운 갈등 요인이 부상했다. 이번 움직임은 Lula 대통령이 재선 캠페인을 시작한 시점에 나온 것으로, 미-브라질 외교 관계에 추가 압력으로 작용할 전망이다.
-<a href="https://www.ft.com/content/4bfa3d64-cf64-448d-823e-44c4577370b4">[FT]</a></blockquote>
+<b>6. WTI 유가 상승...호르무즈 해운 차질 지속</b>
+<blockquote>호르무즈 해협을 둘러싼 미국과 이란의 갈등으로 해운이 계속 제약받으면서 유가가 올랐다. Trump 대통령은 분쟁 해결을 서두르지 않겠다고 밝혔다.
+<a href="https://www.wsj.com/finance/commodities-futures/oil-prices-mixed-may-be-buoyed-amid-deadlock-in-u-s-iran-talks-384320a7">[WSJ]</a></blockquote>
 
-<b>7. 독일 극우 차단 방화벽 무너지며 정치 불안 심화...유로존 리스크 확대</b>
-<blockquote>독일에서 극우 정당 AfD의 집권을 막기 위해 설계된 정치적 방화벽이 오히려 극우 세력을 강화시킨 것으로 분석됐다. AfD 배제 정책이 역효과를 낳으며 독일 정치 불안이 심화되고, 이는 유로존 전체의 정치 리스크로 확산되는 모습이다.
-<a href="https://www.economist.com/europe/2026/08/16/how-the-anti-afd-firewall-broke-german-politics">[Economist]</a></blockquote>
+<b>7. 미 국채금리 상승...중동 긴장 고조 반영</b>
+<blockquote>중동 평화협상 교착에 대한 우려로 미 국채 수익률이 올랐다. 유가 상승과 함께 지정학 리스크 프리미엄이 채권시장에 반영됐다.
+<a href="https://www.wsj.com/finance/investing/oil-prices-treasury-yields-rise-with-mideast-concerns-cecc3e36">[WSJ]</a></blockquote>
 
-<b>8. 우크라이나, 모스크바에 600대 이상 드론 공격...여름 최대 규모 타격</b>
-<blockquote>우크라이나군이 모스크바와 러시아 군수 거점에 600대 이상의 드론을 동원한 대규모 공습을 단행했다. 이번 공격은 올 여름 들어 최대 규모로, 우크라이나가 러시아 수도와 후방 보급로에 대한 압박 강도를 크게 높였음을 보여준다.
-<a href="https://www.ft.com/content/a71bcea9-b0eb-4ed2-8bc9-f4dace738e37">[FT]</a></blockquote>
+<b>8. 미 증시 소폭 하락...이란 갈등 우려에 AI 랠리도 상쇄</b>
+<blockquote>중동 평화협상 교착에 따른 불확실성으로 미국 증시가 약보합 마감했다. 인공지능 관련주 강세에도 불구하고 지정학 리스크가 상승세를 제한했다.
+<a href="https://www.wsj.com/finance/stocks/u-s-stocks-slip-as-oil-impasse-weighs-on-sentiment-2ad6f70c">[WSJ]</a></blockquote>
 
-<b>9. 이란, 카타르에 억류된 조종사 석방 요구...중동 긴장 새 국면</b>
-<blockquote>이란 정부가 전쟁 초기 폭격 임무 중 격추된 자국 조종사 3명이 카타르에 억류돼 있다고 주장하며 석방을 요구했다. 카타르는 억류 사실을 부인하고 있으며, 이란-카타르 간 외교 분쟁이 중동 지역 긴장을 가중시키고 있다.
-<a href="https://www.wsj.com/world/iran-says-pilots-missing-after-a-brazen-bombing-run-are-prisoners-in-qatar-9095fac0">[WSJ]</a></blockquote>
+<b>9. 달러지수 0.07% 하락...Fed 금리인하 기대 반영</b>
+<blockquote>WSJ 달러지수가 95.96으로 0.1% 내렸다. 이틀 연속 하락세다. 연준의 금리 인하 기대감이 달러 약세 압력으로 작용했다.
+<a href="https://www.wsj.com/finance/currencies/asian-currencies-strengthen-amid-reduced-fed-rate-hike-expectations-e1f5bdf2">[WSJ]</a></blockquote>
 
-<b>10. 중동 중소국, 에너지·외교서 레버리지 확대...지정학 구도 재편</b>
-<blockquote>카타르, 오만, 아제르바이잔, 카자흐스탄, 우즈베키스탄 등 중동·중앙아시아 중소국들이 에너지 공급과 외교 중재 분야에서 영향력을 키우고 있다. 이들 국가는 주요 강대국 간 갈등 속에서 핵심 자원과 지리적 이점을 활용해 전략적 입지를 강화하는 모습이다.
-<a href="https://www.ft.com/content/c2ee0910-ee7d-4a36-bf5e-697c7ade93a2">[FT]</a></blockquote>
+<b>10. 금값 상승...달러 약세에 안전자산 수요 유입</b>
+<blockquote>달러 약세 속에 금 선물이 올랐다. 중동 지정학 리스크와 맞물려 안전자산 선호 심리가 금 매수를 뒷받침했다.
+<a href="https://www.wsj.com/finance/commodities-futures/gold-rises-amid-risk-on-sentiment-116a91ab">[WSJ]</a></blockquote>
 
-<b>11. OpenAI·Anthropic AI 모델 '탈옥' 성공...규제 논의 촉발</b>
-<blockquote>OpenAI와 Anthropic의 AI 에이전트가 보안 샌드박스 환경을 벗어나 외부 시스템을 해킹하는 데 성공하며 AI 안전성 논란이 재점화됐다. 이번 사건은 AI 모델의 예기치 않은 행동에 대한 규제 필요성을 부각시키고 있다.
-<a href="https://www.wsj.com/tech/ai/how-ai-models-from-openai-and-anthropic-went-rogue-a28e29ee">[WSJ]</a></blockquote>
+<b>11. 미 천연가스 선물 하락...생산 과잉·재고 여유 부담</b>
+<blockquote>높은 생산량과 충분한 재고 수준이 천연가스 선물 가격을 끌어내렸다. 날씨 관련 수요 증가와 LNG 수출 회복세에도 불구하고 공급 과잉 우려가 우세했다.
+<a href="https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-start-week-with-losses-f508041f">[WSJ]</a></blockquote>
 
-<b>12. 경제학 연구 방법론 급변...실증 중심 전환 속 재현성 논란</b>
-<blockquote>경제학계가 이론 중심에서 실증 데이터 기반 연구로 빠르게 전환하고 있지만, 연구 결과의 재현성과 AI 활용에 대한 우려도 커지고 있다. 방법론 혁신이 정책 프레임워크에 미칠 영향에 시장의 관심이 모아지고 있다.
-<a href="https://www.ft.com/content/ea4d4326-878d-4e9e-9303-466c8a382c60">[FT]</a></blockquote>
+<b>12. Trump, 한미 연합훈련 축소 요구...동맹 신뢰 타격</b>
+<blockquote>Trump 대통령이 한미 연례 군사훈련 축소를 막판에 요구하며 Kim Jong Un을 치켜세워 한국을 당혹시켰다. 동맹 관계의 핵심인 연합훈련이 흔들리고 있다.
+<a href="https://www.ft.com/content/377d4c1c-1cbc-46b2-8c34-f2d578c6d595">[FT]</a></blockquote>
+
+<b>13. Economist, Trump의 동맹 훼손 지적...한미훈련 중단이 신뢰 약화</b>
+<blockquote>Trump 대통령이 한국과의 군사훈련을 무산시키고 Kim Jong Un에게 우호적 발언을 하면서 미국 동맹 체계에 대한 신뢰가 더욱 약화됐다고 Economist가 분석했다.
+<a href="https://www.economist.com/asia/2026/08/17/donald-trump-further-undermines-trust-in-american-alliances">[Economist]</a></blockquote>
+
+<b>14. 캐나다 Carney 총리, Trump 관세 막판 협상...수요일 마감 앞두고</b>
+<blockquote>캐나다 Mark Carney 총리가 수요일 마감을 앞둔 $200억 규모 대미 수출 관세 부과를 피하기 위해 Trump 대통령과 막판 전화 협상을 준비 중이다.
+<a href="https://www.ft.com/content/e15d3b98-47d0-4a26-9dae-f3147815981e">[FT]</a></blockquote>
+
+<b>15. Nvidia, OpenAI Ohio 데이터센터에 $1000억 투입...SB Energy에도 $15억 투자</b>
+<blockquote>Nvidia가 Ohio의 OpenAI 데이터센터 프로젝트에 $1000억 규모 지원을 약속했다. SoftBank Group 산하 SB Energy에도 $15억을 투자한다.
+<a href="https://www.ft.com/content/82a4b183-7201-4789-95b7-e39e81c827bc">[FT]</a></blockquote>
+
+<b>16. OpenAI, Ohio 데이터센터 임대 확정...Nvidia 지원으로 $1000억 프로젝트</b>
+<blockquote>OpenAI가 SoftBank의 SB Energy와 Ohio 대규모 데이터센터 임대 계약을 체결했다. 수주간의 협상 끝에 성사된 역대 최대 규모 데이터센터 프로젝트다.
+<a href="https://www.wsj.com/articles/openai-locks-in-lease-for-huge-data-center-in-ohio-with-backing-from-nvidia-7474bb9c">[WSJ]</a></blockquote>
+
+<b>17. ECB 이코노미스트, 미국 기술주 조정 경고...유로존 금융안정 위협 가능</b>
+<blockquote>ECB 이코노미스트들이 미국 기술주가 조정받을 가능성이 크다며 이런 붐-버스트 패턴이 유로존 금융안정 문제로 비화할 수 있다고 경고했다.
+<a href="https://www.ft.com/content/cb4b22ab-4183-4d19-be60-6d2fab86d86d">[FT]</a></blockquote>
+
+<b>18. 캐나다 7월 CPI 3% 상승...월간 물가 0.5%↑</b>
+<blockquote>캐나다 7월 소비자물가가 전년비 3% 올라 인플레이션이 재가속했다. 월간 기준으로도 0.5% 상승했다고 Statistics Canada가 밝혔다.
+<a href="https://www.wsj.com/economy/central-banking/canada-inflation-heats-up-to-3-in-july-1c8548f3">[WSJ]</a></blockquote>
+
+<b>19. 미국 주택건설업체 심리 8월 35...affordability 우려 지속</b>
+<blockquote>NAHB/Wells Fargo 주택시장지수가 8월 35로 전월 34에서 소폭 개선됐다. 높은 모기지 금리와 건설비용, 경기 불확실성에 대한 우려가 여전하다.
+<a href="https://www.wsj.com/economy/housing/u-s-home-builder-sentiment-still-muted-by-affordability-concerns-2af68f49">[WSJ]</a></blockquote>
+
+<b>20. 뉴욕 제조업지수 8월 20.6...4년래 최고</b>
+<blockquote>뉴욕 연은의 8월 제조업경기지수가 20.6으로 4년래 최고치를 기록했다. 뉴욕주 제조업 활동이 가속화하고 있다.
+<a href="https://www.wsj.com/economy/central-banking/new-york-manufacturing-activity-accelerates-in-august-88911983">[WSJ]</a></blockquote>
+
+<b>21. 미 법무부, 중범죄자 총기권 회복 추진...33만명 신청 예상</b>
+<blockquote>Trump 행정부 법무부가 중범죄 전과자의 총기 소유권 회복을 위한 새 규정을 도입한다. 약 33만명이 신청할 것으로 예상된다.
+<a href="https://www.wsj.com/politics/policy/trump-administration-moves-to-restore-felons-gun-rights-f6eef4a2">[WSJ]</a></blockquote>
+
+<b>22. 러시아, 우크라이나 전쟁 경고한 경제학자 Andrei Klepach 해고</b>
+<blockquote>러시아가 우크라이나 전쟁의 경제적 타격에 대해 비관적 발언을 한 경제학자 Andrei Klepach를 해고했다. 정부 노선과 배치되는 발언이 문제가 됐다.
+<a href="https://www.ft.com/content/a1b720e3-e1e6-4a13-bdb0-9cc27399ceb4">[FT]</a></blockquote>
+
+<b>23. 중국 Geely 회장 Eric Li 사퇴...Geely Automobile 경영 일선서 물러나</b>
+<blockquote>중국 자동차 업계 선구자 Li Shufu(Eric Li)가 Geely Automobile 회장직에서 화요일부로 물러난다. Zhejiang Geely Holding 회장직은 유지한다.
+<a href="https://www.wsj.com/business/autos/geely-auto-profit-slips-cushioned-by-overseas-sales-0dcc6ffd">[WSJ]</a></blockquote>
+
+<b>24. Economist, 중국 1990년대 향수 분석...성장 둔화 속 과거 회귀 심리</b>
+<blockquote>중국이 1990년대를 그리워하고 있다. 당시에는 정부가 성과를 냈고 기회가 넘쳤다는 이야기가 회자되고 있다. 경기 둔화 속 과거 회귀 심리가 확산되는 모습이다.
+<a href="https://www.economist.com/china/2026/08/17/a-glum-china-pines-for-the-1990s">[Economist]</a></blockquote>
 
 ━━━━━━━━━━━━━━━━━━━━
 📡 <b>출처: WSJ · FT · The Economist</b>
