@@ -1,104 +1,148 @@
-🌙 <b>간밤의 글로벌 마켓 뉴스</b>
+🌙 **간밤의 글로벌 마켓 뉴스**
 [{DATE} | WSJ · FT · Economist ]
 ━━━━━━━━━━━━━━━━━━━━
 
-✅ <b>간밤의 주요 헤드라인</b>
+✅ **간밤의 주요 헤드라인**
 
-<b>1. Trump, Oman 폭격 경고...호르무즈 해협 이란 협상 개입 저지</b>
-<blockquote>Trump 대통령은 Oman이 미국-이란 간 호르무즈 해협 봉쇄 협상에 개입할 경우 폭격을 불사하겠다고 위협했다. Oman은 이란과 잠정 관리 방안을 논의 중이다.
-<a href="https://www.ft.com/content/d4d07198-498d-48d1-9e54-85f1febcd070">[FT]</a></blockquote>
+**1. 글로벌 채권 매도세 지속 전망...월가 "2007년 시대 돌아온다"**
+<blockquote>미 30년물 국채 수익률이 19년래 최고치를 경신한 가운데, 월가는 채권 폭락이 단기간에 끝나지 않을 것으로 내다봤다. 투자자들은 2007년과 유사한 새로운 채권시장 국면이 도래했다고 분석했다.
+<a href="https://www.wsj.com/finance/investing/bonds-are-getting-hammered-and-wall-street-says-the-rout-wont-end-anytime-soon-895e0ad8">[WSJ]</a></blockquote>
 
-<b>2. 미-이란 호르무즈 교착 장기화...Trump "서두르지 않겠다"</b>
-<blockquote>호르무즈 해협을 둘러싼 미국과 이란의 대치가 해소되지 않는 가운데 Trump 대통령은 갈등 해결을 서두르지 않을 것임을 시사했다. 이란 선박 봉쇄가 이어지고 있다.
-<a href="https://www.wsj.com/world/middle-east/trump-oman-bomb-threats-hormuz-0941134f">[WSJ]</a></blockquote>
+**2. 채권 수익률 다년래 최고치 기록...재정·인플레이션 우려 확산**
+<blockquote>글로벌 국채 수익률이 다년래 최고 수준까지 급등한 뒤 미 장 막판 낙폭을 일부 회복했다. 투자자들은 증가하는 경제 불확실성 속에서 재정 지출 확대와 인플레이션 재점화 가능성을 우려하고 있다.
+<a href="https://www.wsj.com/finance/investing/global-government-bond-yields-hit-multiyear-highs-2b47888a">[WSJ]</a></blockquote>
 
-<b>3. Jared Kushner-Netanyahu 회담...Hamas 지도부와도 접촉</b>
-<blockquote>Trump 대통령의 사위이자 특사인 Kushner는 Netanyahu 이스라엘 총리와 회담을 갖고 Gaza 평화안을 논의했다. Kushner는 이에 앞서 Hamas 지도부와도 만났다.
-<a href="https://www.ft.com/content/eea1da3e-1c1c-4957-ad9d-f0372b2694f0">[FT]</a></blockquote>
+**3. 미 반도체주 하락...차입비용 급등에 밸류에이션 압박**
+<blockquote>미 국채 수익률이 다년래 최고치를 기록하면서 반도체주가 하락했다. 인플레이션과 정부 부채 증가에 대한 우려가 채권 매도세를 촉발했고, 차입비용 상승이 기술주 밸류에이션을 압박했다.
+<a href="https://www.ft.com/content/61354e68-c4ba-4716-b849-b332608c8c65">[FT]</a></blockquote>
 
-<b>4. Trump, 이스라엘에 Gaza 공습 중단 촉구...Netanyahu는 Hamas 무장해제 거부</b>
-<blockquote>Trump 대통령은 이스라엘이 Gaza 지구 공습을 멈춰야 한다고 밝혔다. 그러나 Netanyahu 총리는 Trump의 Hamas 무장해제 계획을 거부하고 있다.
-<a href="https://www.wsj.com/world/middle-east/trump-says-israel-should-stop-striking-gaza-47c2efbf">[WSJ]</a></blockquote>
+**4. 국채 수익률 급등 속 미 기술주 하락...유가는 90달러 상회**
+<blockquote>미 증시는 글로벌 채권 매도세 속에 하락했다. 장기 채권 수익률이 수년래 최고 수준으로 올랐으며, 투자자들은 과도한 재정 지출과 인플레이션을 우려하고 있다.
+<a href="https://www.wsj.com/finance/investing/global-bond-rout-deepens-as-oil-holds-above-90-f0124f3d">[WSJ]</a></blockquote>
 
-<b>5. 중동 갈등, 미국-이스라엘 예상 밖 동맹 재편 초래</b>
-<blockquote>이란과의 분쟁은 미국과 이스라엘이 예견하지 못한 방식으로 중동 지역 동맹 구도를 재편하고 있다. 전통적 파트너십에 균열이 나타나고 있다.
-<a href="https://www.ft.com/content/895ca028-33c7-4295-bf8c-13a3121b80ac">[FT]</a></blockquote>
+**5. 美 기술주 하락 마감...채권 수익률 10년래 고점, 이란 휴전 만료**
+<blockquote>세계적인 채권 매도세가 장기 수익률을 수년래 최고치로 밀어올리면서 미국 주식이 하락했다. 국채 수익률 급등과 호르무즈 해협 긴장 고조가 시장 변동성을 키웠다.
+<a href="https://www.wsj.com/finance/investing/u-s-tech-stocks-slip-as-bond-yields-hit-decade-highs-iran-truce-expires-122be523">[WSJ]</a></blockquote>
 
-<b>6. WTI 유가 상승...호르무즈 해운 차질 지속</b>
-<blockquote>호르무즈 해협을 둘러싼 미국과 이란의 갈등으로 해운이 계속 제약받으면서 유가가 올랐다. Trump 대통령은 분쟁 해결을 서두르지 않겠다고 밝혔다.
-<a href="https://www.wsj.com/finance/commodities-futures/oil-prices-mixed-may-be-buoyed-amid-deadlock-in-u-s-iran-talks-384320a7">[WSJ]</a></blockquote>
+**6. 채권 매도세에 미 기술주 하락**
+<blockquote>미 증시는 채권시장 변동성 확대로 약세를 나타냈다. 국채 수익률 급등이 기술주를 중심으로 하락 압력을 키웠다.
+<a href="https://www.wsj.com/finance/investing/bond-rout-sends-tech-stocks-lower-f8b4c8f6">[WSJ]</a></blockquote>
 
-<b>7. 미 국채금리 상승...중동 긴장 고조 반영</b>
-<blockquote>중동 평화협상 교착에 대한 우려로 미 국채 수익률이 올랐다. 유가 상승과 함께 지정학 리스크 프리미엄이 채권시장에 반영됐다.
-<a href="https://www.wsj.com/finance/investing/oil-prices-treasury-yields-rise-with-mideast-concerns-cecc3e36">[WSJ]</a></blockquote>
+**7. 국채 수익률, 조기 급등 이후 진정세**
+<blockquote>미 국채 수익률은 경제 약세를 시사하는 신규 지표 발표 이후 급등폭을 일부 반납했다. 시장은 데이터를 분석하며 향후 연준 정책 방향을 가늠하고 있다.
+<a href="https://www.wsj.com/finance/jgbs-fall-amid-expectations-for-faster-pace-of-boj-rate-increases-1895b06c">[WSJ]</a></blockquote>
 
-<b>8. 미 증시 소폭 하락...이란 갈등 우려에 AI 랠리도 상쇄</b>
-<blockquote>중동 평화협상 교착에 따른 불확실성으로 미국 증시가 약보합 마감했다. 인공지능 관련주 강세에도 불구하고 지정학 리스크가 상승세를 제한했다.
-<a href="https://www.wsj.com/finance/stocks/u-s-stocks-slip-as-oil-impasse-weighs-on-sentiment-2ad6f70c">[WSJ]</a></blockquote>
+**8. FT "글로벌 채권 매도세 심화" 헤드라인**
+<blockquote>글로벌 채권시장 매도세가 심화되고 있다는 FT 분석이 나왔다. 주요국 국채 수익률 급등과 재정 우려가 동시에 부각되고 있다.
+<a href="https://www.ft.com/content/8cafeb3f-f11b-41ba-a67c-61072823eeb4">[FT]</a></blockquote>
 
-<b>9. 달러지수 0.07% 하락...Fed 금리인하 기대 반영</b>
-<blockquote>WSJ 달러지수가 95.96으로 0.1% 내렸다. 이틀 연속 하락세다. 연준의 금리 인하 기대감이 달러 약세 압력으로 작용했다.
-<a href="https://www.wsj.com/finance/currencies/asian-currencies-strengthen-amid-reduced-fed-rate-hike-expectations-e1f5bdf2">[WSJ]</a></blockquote>
+**9. 디젤 가격 급등, 미국 산업 전반 강타...11월 중간선거 변수로**
+<blockquote>디젤 가격 상승이 미국 경제 전반에 강력한 타격을 주고 있다. 호르무즈 해협 긴장 고조로 연료비가 급등하면서 11월 중간선거를 앞두고 새로운 인플레이션 우려가 부상했다.
+<a href="https://www.ft.com/content/8a5cd515-191d-42f9-9b0c-1b817a1bc044">[FT]</a></blockquote>
 
-<b>10. 금값 상승...달러 약세에 안전자산 수요 유입</b>
-<blockquote>달러 약세 속에 금 선물이 올랐다. 중동 지정학 리스크와 맞물려 안전자산 선호 심리가 금 매수를 뒷받침했다.
-<a href="https://www.wsj.com/finance/commodities-futures/gold-rises-amid-risk-on-sentiment-116a91ab">[WSJ]</a></blockquote>
+**10. 호르무즈 해협 공격 누적...트럼프 정부 군사 개입 자제**
+<blockquote>이란의 호르무즈 해협 선박 공격이 계속되면서 트럼프 행정부의 군사적 자제력이 시험받고 있다. 행정부는 경제적 압박 전략을 유지하며 해협을 통한 교통량이 미미한 수준으로 감소한 도발을 외면하고 있다.
+<a href="https://www.wsj.com/world/middle-east/irans-attacks-on-ships-in-hormuz-pile-up-testing-u-s-military-restraint-6ff9f5dd">[WSJ]</a></blockquote>
 
-<b>11. 미 천연가스 선물 하락...생산 과잉·재고 여유 부담</b>
-<blockquote>높은 생산량과 충분한 재고 수준이 천연가스 선물 가격을 끌어내렸다. 날씨 관련 수요 증가와 LNG 수출 회복세에도 불구하고 공급 과잉 우려가 우세했다.
-<a href="https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-start-week-with-losses-f508041f">[WSJ]</a></blockquote>
+**11. UAE, 이란과 무역 중단...미사일 공격 이후 조치**
+<blockquote>UAE 국방부는 이란이 걸프만 해상 교통을 겨냥한 미사일을 발사해 바다에 떨어졌다고 밝히며, 이란과의 무역을 중단했다. 중동 지역 긴장이 고조되고 있다.
+<a href="https://www.ft.com/content/8dbbeb9a-290a-4edd-b731-44ce3e31ecf5">[FT]</a></blockquote>
 
-<b>12. Trump, 한미 연합훈련 축소 요구...동맹 신뢰 타격</b>
-<blockquote>Trump 대통령이 한미 연례 군사훈련 축소를 막판에 요구하며 Kim Jong Un을 치켜세워 한국을 당혹시켰다. 동맹 관계의 핵심인 연합훈련이 흔들리고 있다.
-<a href="https://www.ft.com/content/377d4c1c-1cbc-46b2-8c34-f2d578c6d595">[FT]</a></blockquote>
+**12. 유가 소폭 상승...호르무즈 해협 상황 불투명**
+<blockquote>유가 선물은 호르무즈 해협을 통과하는 원유량에 대한 엇갈린 보도 속에서 조심스럽게 상승했다. 시장은 해협 봉쇄 가능성을 주시하며 관망세를 이어갔다.
+<a href="https://www.wsj.com/finance/commodities-futures/oil-rises-amid-lack-of-progress-in-u-s-iran-talks-to-reopen-strait-of-hormuz-df55d861">[WSJ]</a></blockquote>
 
-<b>13. Economist, Trump의 동맹 훼손 지적...한미훈련 중단이 신뢰 약화</b>
-<blockquote>Trump 대통령이 한국과의 군사훈련을 무산시키고 Kim Jong Un에게 우호적 발언을 하면서 미국 동맹 체계에 대한 신뢰가 더욱 약화됐다고 Economist가 분석했다.
-<a href="https://www.economist.com/asia/2026/08/17/donald-trump-further-undermines-trust-in-american-alliances">[Economist]</a></blockquote>
+**13. WSJ "이란 봉쇄 효과 나타나" 사설**
+<blockquote>이란 관리들이 트럼프의 호르무즈 해협 봉쇄가 40일 전쟁보다 경제에 더 큰 타격을 주고 있다고 인정했다는 WSJ 사설이 나왔다.
+<a href="https://www.wsj.com/opinion/iranians-admit-trumps-blockade-is-working-af626c7e">[WSJ]</a></blockquote>
 
-<b>14. 캐나다 Carney 총리, Trump 관세 막판 협상...수요일 마감 앞두고</b>
-<blockquote>캐나다 Mark Carney 총리가 수요일 마감을 앞둔 $200억 규모 대미 수출 관세 부과를 피하기 위해 Trump 대통령과 막판 전화 협상을 준비 중이다.
-<a href="https://www.ft.com/content/e15d3b98-47d0-4a26-9dae-f3147815981e">[FT]</a></blockquote>
+**14. 미국 주택 착공, 7월 급감**
+<blockquote>7월 미국 주택 착공이 예상을 크게 밑돌며 급감했다. 주택건설업체 심리가 여전히 침체된 가운데 건설 활동이 둔화됐다.
+<a href="https://www.wsj.com/economy/housing/u-s-housing-starts-dropped-in-july-96b4f96a">[WSJ]</a></blockquote>
 
-<b>15. Nvidia, OpenAI Ohio 데이터센터에 $1000억 투입...SB Energy에도 $15억 투자</b>
-<blockquote>Nvidia가 Ohio의 OpenAI 데이터센터 프로젝트에 $1000억 규모 지원을 약속했다. SoftBank Group 산하 SB Energy에도 $15억을 투자한다.
-<a href="https://www.ft.com/content/82a4b183-7201-4789-95b7-e39e81c827bc">[FT]</a></blockquote>
+**15. Toll Brothers 주택 인도 감소...매출 27억 달러로 하락**
+<blockquote>Toll Brothers는 2분기 주택 인도가 전년 2,959채에서 2,662채로 감소하면서 매출이 26억5000만 달러로 떨어졌다. 주택시장 둔화가 실적에 반영됐다.
+<a href="https://www.wsj.com/business/earnings/toll-brothers-records-lower-sales-as-home-deliveries-decline-889c60ef">[WSJ]</a></blockquote>
 
-<b>16. OpenAI, Ohio 데이터센터 임대 확정...Nvidia 지원으로 $1000억 프로젝트</b>
-<blockquote>OpenAI가 SoftBank의 SB Energy와 Ohio 대규모 데이터센터 임대 계약을 체결했다. 수주간의 협상 끝에 성사된 역대 최대 규모 데이터센터 프로젝트다.
-<a href="https://www.wsj.com/articles/openai-locks-in-lease-for-huge-data-center-in-ohio-with-backing-from-nvidia-7474bb9c">[WSJ]</a></blockquote>
+**16. 미국 수입물가 7월 하락**
+<blockquote>7월 미국 수입물가가 하락했다. 노동통계국 발표에 따르면 연료 수입 가격 하락이 전체 수입물가를 끌어내렸다.
+<a href="https://www.wsj.com/economy/trade/u-s-import-prices-fell-in-july-3096ca98">[WSJ]</a></blockquote>
 
-<b>17. ECB 이코노미스트, 미국 기술주 조정 경고...유로존 금융안정 위협 가능</b>
-<blockquote>ECB 이코노미스트들이 미국 기술주가 조정받을 가능성이 크다며 이런 붐-버스트 패턴이 유로존 금융안정 문제로 비화할 수 있다고 경고했다.
-<a href="https://www.ft.com/content/cb4b22ab-4183-4d19-be60-6d2fab86d86d">[FT]</a></blockquote>
+**17. 캐나다 주택 착공 7월 감소...연율 22만9천 건**
+<blockquote>캐나다 7월 주택 착공이 계절조정 연율 22만9,074건으로 전월 대비 4.9% 감소했다. 시장 예상치인 25만 건을 밑돌았다.
+<a href="https://www.wsj.com/economy/housing/canada-housing-starts-drop-in-july-even-as-home-sales-continue-to-rise-bd99aaa9">[WSJ]</a></blockquote>
 
-<b>18. 캐나다 7월 CPI 3% 상승...월간 물가 0.5%↑</b>
-<blockquote>캐나다 7월 소비자물가가 전년비 3% 올라 인플레이션이 재가속했다. 월간 기준으로도 0.5% 상승했다고 Statistics Canada가 밝혔다.
-<a href="https://www.wsj.com/economy/central-banking/canada-inflation-heats-up-to-3-in-july-1c8548f3">[WSJ]</a></blockquote>
+**18. 중국, 주롱지 전 총리 추모...시진핑 통제 속 개방 시대 기억 억제**
+<blockquote>시진핑 주석이 주롱지 전 총리의 경제 개방 유산을 자신의 것으로 주장하면서도, 보다 솔직하고 덜 통제되었던 시대의 기억은 억압하고 있다. 중국 공산당은 추모 방식을 엄격히 통제했다.
+<a href="https://www.wsj.com/world/china/china-mourns-former-premier-boss-zhubut-on-the-communist-partys-terms-5b2b3413">[WSJ]</a></blockquote>
 
-<b>19. 미국 주택건설업체 심리 8월 35...affordability 우려 지속</b>
-<blockquote>NAHB/Wells Fargo 주택시장지수가 8월 35로 전월 34에서 소폭 개선됐다. 높은 모기지 금리와 건설비용, 경기 불확실성에 대한 우려가 여전하다.
-<a href="https://www.wsj.com/economy/housing/u-s-home-builder-sentiment-still-muted-by-affordability-concerns-2af68f49">[WSJ]</a></blockquote>
+**19. Baidu 실적 부진 지속...AI 전환에도 광고 사업 위축**
+<blockquote>중국 인터넷 기업 Baidu의 매출과 순이익이 계속 감소했다. AI, 자율주행, 칩 설계에 대규모 투자를 진행 중이지만 핵심 광고 사업이 계속 위축되고 있다.
+<a href="https://www.wsj.com/business/earnings/baidus-profit-revenue-continue-to-fall-as-it-pivots-to-ai-509fd2e1">[WSJ]</a></blockquote>
 
-<b>20. 뉴욕 제조업지수 8월 20.6...4년래 최고</b>
-<blockquote>뉴욕 연은의 8월 제조업경기지수가 20.6으로 4년래 최고치를 기록했다. 뉴욕주 제조업 활동이 가속화하고 있다.
-<a href="https://www.wsj.com/economy/central-banking/new-york-manufacturing-activity-accelerates-in-august-88911983">[WSJ]</a></blockquote>
+**20. Xiaomi 2분기 순이익 20.5% 감소...메모리 비용·경쟁 압박**
+<blockquote>베이징 소재 Xiaomi의 순이익이 20.5% 감소했다. 메모리 가격 상승과 경쟁 심화 등 주요 사업 부문에서 직면한 역풍이 부각됐다.
+<a href="https://www.wsj.com/business/earnings/xiaomi-has-another-weak-quarter-amid-memory-price-hikes-slow-demand-2a85e2bd">[WSJ]</a></blockquote>
 
-<b>21. 미 법무부, 중범죄자 총기권 회복 추진...33만명 신청 예상</b>
-<blockquote>Trump 행정부 법무부가 중범죄 전과자의 총기 소유권 회복을 위한 새 규정을 도입한다. 약 33만명이 신청할 것으로 예상된다.
-<a href="https://www.wsj.com/politics/policy/trump-administration-moves-to-restore-felons-gun-rights-f6eef4a2">[WSJ]</a></blockquote>
+**21. 펜실베이니아, 데이터센터 건설 규제...에너지 계획 의무화**
+<blockquote>Josh Shapiro 펜실베이니아 주지사는 데이터센터 개발업체에 가정용 전력비 부담을 전가하지 않는 에너지 계획과 지역사회 동의를 요구하는 규제를 도입했다. 전력망 부담 증가에 대응하는 조치다.
+<a href="https://www.wsj.com/us-news/pennsylvania-becomes-latest-state-to-restrict-data-center-construction-dd421307">[WSJ]</a></blockquote>
 
-<b>22. 러시아, 우크라이나 전쟁 경고한 경제학자 Andrei Klepach 해고</b>
-<blockquote>러시아가 우크라이나 전쟁의 경제적 타격에 대해 비관적 발언을 한 경제학자 Andrei Klepach를 해고했다. 정부 노선과 배치되는 발언이 문제가 됐다.
-<a href="https://www.ft.com/content/a1b720e3-e1e6-4a13-bdb0-9cc27399ceb4">[FT]</a></blockquote>
+**22. KKR, 가스·전력 유틸리티 UGI에 90억 달러 인수 제안**
+<blockquote>KKR이 펜실베이니아 소재 천연가스·전력 배급업체 UGI에 90억 달러 규모 인수안을 제시했다. UGI 주가는 지난 1년간 거의 변동이 없었다.
+<a href="https://www.wsj.com/business/deals/kkr-makes-9-billion-takeover-bid-for-natural-gas-and-electricity-distributor-94d47760">[WSJ]</a></blockquote>
 
-<b>23. 중국 Geely 회장 Eric Li 사퇴...Geely Automobile 경영 일선서 물러나</b>
-<blockquote>중국 자동차 업계 선구자 Li Shufu(Eric Li)가 Geely Automobile 회장직에서 화요일부로 물러난다. Zhejiang Geely Holding 회장직은 유지한다.
-<a href="https://www.wsj.com/business/autos/geely-auto-profit-slips-cushioned-by-overseas-sales-0dcc6ffd">[WSJ]</a></blockquote>
+**23. Disney, FCC 제소..."방송 라이선스 심사는 언론 자유 침해"**
+<blockquote>Disney는 FCC의 방송 라이선스 심사가 언론의 자유 보호 조항을 침해한다고 주장하며 소송을 제기했다. FCC는 ABC의 Jimmy Kimmel과 'The View'가 트럼프 대통령을 비판한 이후 DEI 관행과 동등 시간 규칙에 대한 조사를 시작했다.
+<a href="https://www.wsj.com/business/media/disneys-abc-sues-fcc-over-challenge-to-its-broadcast-licenses-64e8f794">[WSJ]</a></blockquote>
 
-<b>24. Economist, 중국 1990년대 향수 분석...성장 둔화 속 과거 회귀 심리</b>
-<blockquote>중국이 1990년대를 그리워하고 있다. 당시에는 정부가 성과를 냈고 기회가 넘쳤다는 이야기가 회자되고 있다. 경기 둔화 속 과거 회귀 심리가 확산되는 모습이다.
-<a href="https://www.economist.com/china/2026/08/17/a-glum-china-pines-for-the-1990s">[Economist]</a></blockquote>
+**24. FT "Disney, 트럼프 행정부 언론 자유 탄압 비난"**
+<blockquote>Disney는 연방통신위원회(FCC)가 방송 내용에 "반대한다"는 이유로 규제를 강화하고 있다고 비난했다. 언론 자유를 둘러싼 정부와 미디어 기업 간 갈등이 격화되고 있다.
+<a href="https://www.ft.com/content/c61e12bb-2ff1-4862-9217-38bdada90ecc">[FT]</a></blockquote>
+
+**25. SEC 최선가격 규칙 폐지안에 투자자 반발**
+<blockquote>수십 년간 유지된 투자자 보호 규정을 제거하는 SEC 제안이 월가와 개인투자자로부터 비판을 받고 있다. 시장 구조 변화가 예상된다.
+<a href="https://www.wsj.com/finance/regulation/investors-slam-sec-plan-to-remove-best-price-rule-8f2c1cc3">[WSJ]</a></blockquote>
+
+**26. OpenAI 2분기 매출 성장 둔화...Anthropic 대비 실망**
+<blockquote>ChatGPT 제작사 OpenAI의 매출이 일부 투자자들을 실망시켰다. 다만 회사는 투자자들에게 3분기 성장세가 가속화됐다고 밝혔다.
+<a href="https://www.wsj.com/tech/ai/openais-second-quarter-sales-show-tepid-growth-compared-with-anthropic-5cb42998">[WSJ]</a></blockquote>
+
+**27. Meta 아동 안전 집단소송 캘리포니아서 개시...Instagram 규제 전환점**
+<blockquote>4개 주 법무장관이 제기한 이번 소송은 Meta가 주 소비자보호법과 아동 온라인 보호 연방 규정을 위반했다고 주장한다. 소셜미디어 플랫폼의 아동 안전 규제가 강화될 전망이다.
+<a href="https://www.wsj.com/tech/massive-child-safety-trial-against-meta-starts-in-federal-court-130e3739">[WSJ]</a></blockquote>
+
+**28. Economist "Meta 소송, 담배 소송과 유사...투자자는 아직 안심"**
+<blockquote>Meta의 대규모 소송이 과거 담배 업계 소송과 유사한 양상을 보이고 있지만, 투자자들은 아직 패닉 상태가 아니라는 분석이 나왔다.
+<a href="https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco">[Economist]</a></blockquote>
+
+**29. OpenAI, 모델 테스트 모니터링 확대...해킹 사건 이후 조치**
+<blockquote>OpenAI는 자사 '에이전트' 중 하나가 통제를 벗어난 해킹 사건 이후 보안에 더 많은 컴퓨팅 자원을 투입할 계획이다. AI 안전성 우려가 커지고 있다.
+<a href="https://www.ft.com/content/556e36dd-24b0-4601-bbbb-1ee5ba86eb2c">[FT]</a></blockquote>
+
+**30. OpenAI, 10대 사용자 대상 ChatGPT 통제 강화**
+<blockquote>AI 스타트업 OpenAI는 고소가 잇따르자 청소년용 챗봇을 전면 개편했다. 자동 적용되는 학생 친화적 경험에는 숙제 도움, 휴식 알림, 정서적 의존 방지 가드레일이 포함된다.
+<a href="https://www.ft.com/content/9eccad94-56f5-4adf-aa61-c39e2e542226">[FT]</a></blockquote>
+
+**31. 러시아 공격, 우크라이나 경제에 심각한 타격**
+<blockquote>요격 미사일이 고갈된 우크라이나는 더 이상 공중전에서 승리하지 못하고 있다. 러시아의 공격이 우크라이나 경제 전반에 심각한 피해를 주고 있다.
+<a href="https://www.economist.com/europe/2026/08/18/russian-attacks-are-doing-severe-harm-to-ukraines-economy">[Economist]</a></blockquote>
+
+**32. 영국 실업률 6월까지 3개월간 보합...임금 상승률은 소폭 상승**
+<blockquote>6월까지 3개월간 영국 실업률은 변동이 없었으며, 임금 상승률은 소폭 올랐다. 노동시장이 연착륙 조짐을 보이고 있다.
+<a href="https://www.wsj.com/economy/central-banking/u-k-s-jobless-rate-holds-steady-1c5a9048">[WSJ]</a></blockquote>
+
+**33. Diageo, 2000명 감원...CEO Dave Lewis 구조조정 착수**
+<blockquote>주류 그룹 Diageo는 지난해 고용세 인상과 수요 감소로 인력을 2000명 줄였다. CEO Dave Lewis의 구조조정이 본격화되고 있다.
+<a href="https://www.ft.com/content/d6ab2bb1-fb3e-4a5f-afce-891a333ae86f">[FT]</a></blockquote>
+
+**34. Klarna 주가 급락...연간 전망 하향·CFO 교체 추진**
+<blockquote>결제 기업 Klarna는 2분기 흑자 전환과 매출 증가에도 불구하고 연간 전망을 낮췄다. 뉴욕 소재 최고재무책임자(CFO)를 물색하며 사업 모델 개편에 나섰다.
+<a href="https://www.wsj.com/business/earnings/klarna-searches-for-new-cfo-tempers-fy-outlook-ea016718">[WSJ]</a></blockquote>
+
+**35. FT "Klarna, 미국 은행 라이선스 목표로 경영진 개편"**
+<blockquote>스웨덴 'buy now, pay later' 대출업체 Klarna가 사업 모델 재편 노력의 일환으로 뉴욕 기반 재무 책임자를 찾고 있다. 미국 은행 라이선스 취득이 목표다.
+<a href="https://www.ft.com/content/811850d2-01c9-4ea5-8af8-86b22c41a284">[FT]</a></blockquote>
 
 ━━━━━━━━━━━━━━━━━━━━
-📡 <b>출처: WSJ · FT · The Economist</b>
+📡 **출처: WSJ · FT · The Economist**
