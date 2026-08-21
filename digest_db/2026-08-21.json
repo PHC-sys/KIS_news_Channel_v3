@@ -1,0 +1,666 @@
+[
+  {
+    "url": "https://www.wsj.com/business/autos/us-auto-sales-general-motors-toyota-5cf821e5",
+    "title": "GM Ruled U.S. Auto Sales for 100 Years. Now Toyota Is Closing In.",
+    "summary": "The American automaker is increasing profits while selling fewer vehicles as its rival pursues an opposite approach.",
+    "source": "WSJ",
+    "section": "business",
+    "published": "2026-08-21T01:00:00+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/tech/ai/ai-china-scientists-race-us-cd9732e3",
+    "title": "The Brains Who Powered China’s Surprising AI Leap",
+    "summary": "A university lab nurtured the computer scientists who are using ingenuity and imitation to chase down Anthropic and OpenAI. “They know perfectly how to monetize their work.”",
+    "source": "WSJ",
+    "section": "whats-news",
+    "published": "2026-08-21T01:00:00+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/finance/stocks/nikkei-falls-0-5-tracking-wall-streets-losses-e68ff417",
+    "title": "Nikkei Falls 0.5%, Tracking Wall Street’s Losses",
+    "summary": "The Nikkei Stock Average fell 0.5%, tracking Wall Street’s losses overnight.",
+    "source": "WSJ",
+    "section": "markets",
+    "published": "2026-08-21T00:39:00+00:00"
+  },
+  {
+    "url": "https://www.ft.com/content/25715859-f7a6-4da8-9e75-775610080b94",
+    "title": "Panama Canal to cut daily transits as El Niño grips region",
+    "summary": "Authority plans to reduce number of passages for the second time in its 110-year history",
+    "source": "FT",
+    "section": "homepage",
+    "published": "2026-08-21T00:38:06+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/politics/policy/politicians-who-once-championed-data-centers-are-now-bashing-them-c172d4cb",
+    "title": "State governors on both sides of the aisle are slowing development of data centers as anger over artificial intelligence spreads",
+    "summary": "State governors, including Greg Abbott and Josh Shapiro, are slowing development of the facilities as anger over AI spreads.",
+    "source": "WSJ",
+    "section": "politics",
+    "published": "2026-08-21T00:00:00+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/finance/commodities-futures/oil-futures-fall-on-likely-technical-correction-bee9638e",
+    "title": "Oil Futures Fall on Likely Technical Correction",
+    "summary": "Oil futures fell on a likely technical correction after the futures rose for a fifth consecutive session on Thursday.",
+    "source": "WSJ",
+    "section": "markets",
+    "published": "2026-08-20T23:51:00+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/economy/japan-inflation-picks-up-as-rate-boost-bets-firm-1d63fed4",
+    "title": "Japan Inflation Picks Up as Rate-Boost Bets Firm",
+    "summary": "Japan’s consumer inflation picked up last month as the effects of higher oil prices caused by the Middle East conflict broadened.",
+    "source": "WSJ",
+    "section": "economy",
+    "published": "2026-08-20T23:48:00+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/politics/policy/trump-talks-to-michael-cohen-his-fixer-turned-enemy-98ff00d4",
+    "title": "Trump Speaks On Air With Michael Cohen, His Fixer-Turned-Enemy",
+    "summary": "Cohen interviewed the president for his new radio show, and played a short preview on Thursday. The remainder is slated to be aired Sunday.",
+    "source": "WSJ",
+    "section": "us",
+    "published": "2026-08-20T23:40:00+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/business/earnings/ross-stores-boosts-outlook-as-sales-climb-ab87c56b",
+    "title": "Ross Stores Boosts Outlook on Growing Demand for Off-Price Retail",
+    "summary": "The off-price retailer now forecasts earnings per share of $8.61 to $8.77 for the year as its second-quarter profit and sales gained on higher traffic.",
+    "source": "WSJ",
+    "section": "business",
+    "published": "2026-08-20T23:36:00+00:00"
+  },
+  {
+    "url": "https://www.ft.com/content/dfa7c084-f997-4d76-82cb-6d45f543dc3c",
+    "title": "Founder who blamed $300mn fraud on head injury sentenced to prison",
+    "summary": "Judge accepts injury contributed to Christine Hunsicker’s crime as he sentences her to five years in prison",
+    "source": "FT",
+    "section": "companies",
+    "published": "2026-08-20T23:10:29+00:00"
+  },
+  {
+    "url": "https://www.ft.com/content/14b25583-c64d-4a97-9f6d-359908638e28",
+    "title": "What is Bessent doing with the $32tn Treasury market — and will it work?",
+    "summary": "US Treasury secretary has made a high-stakes bet he can beat back soaring borrowing costs",
+    "source": "FT",
+    "section": "markets",
+    "published": "2026-08-20T23:08:14+00:00"
+  },
+  {
+    "url": "https://www.ft.com/content/50665033-4aed-43b0-a2e6-5c15c04e8c19",
+    "title": "UK consumer confidence rises to highest level for two years",
+    "summary": "Good weather and the ‘Burnham bounce’ brought on by a new prime minister continued to have a positive effect in August",
+    "source": "FT",
+    "section": "world",
+    "published": "2026-08-20T23:01:07+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/business/inside-the-collapse-of-a-maga-marketplace-backed-by-trump-jr-63d7896b",
+    "title": "Inside the Collapse of a MAGA Marketplace Backed by Trump Jr.",
+    "summary": "PublicSquare racked up costs—and consulting fees—before shifting into fintech; a 99% stock drop.",
+    "source": "WSJ",
+    "section": "business",
+    "published": "2026-08-20T23:00:00+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/opinion/the-art-of-the-self-deal-6cf57c5a",
+    "title": "The Art of the Self-Deal",
+    "summary": "Thoughts on how Trump-era corruption is affecting Americans as a people.",
+    "source": "WSJ",
+    "section": "opinion",
+    "published": "2026-08-20T22:19:00+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/opinion/supreme-court-marquette-poll-public-opinion-b872e0ef",
+    "title": "Opinion | The Supreme Court’s Popular Mandate",
+    "summary": "Hakeem Jeffries calls it a MAGA ‘subsidiary.’ A new poll says otherwise.",
+    "source": "WSJ",
+    "section": "us",
+    "published": "2026-08-20T22:07:00+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/opinion/the-medicare-for-all-math-doesnt-add-up-1a3a4758",
+    "title": "Opinion | The ‘Medicare for All’ Math Doesn’t Add Up",
+    "summary": "Care for the elderly is subsidized by private insurance payments.",
+    "source": "WSJ",
+    "section": "us",
+    "published": "2026-08-20T21:45:00+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/opinion/alaskas-ranked-choice-travesty-7b29a200",
+    "title": "Alaska’s Ranked-Choice Voting Travesty",
+    "summary": "The system isn’t merely confusing. It is a game in which voters are the losers.",
+    "source": "WSJ",
+    "section": "opinion",
+    "published": "2026-08-20T21:45:00+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/opinion/ro-khanna-wealth-tax-california-democrats-19834f4b",
+    "title": "Opinion | Ro Khanna Gets a Wealth Tax Education",
+    "summary": "The progressive from Silicon Valley has a not-so-bright idea.",
+    "source": "WSJ",
+    "section": "us",
+    "published": "2026-08-20T21:42:00+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/opinion/darline-graham-taiwan-china-pacific-ralph-norman-758312b4",
+    "title": "Opinion | Darline Graham’s Taiwan Mistake",
+    "summary": "The South Carolina Senate candidate’s goof wasn’t good, but neither was the answer by her competitor, Ralph Norman.",
+    "source": "WSJ",
+    "section": "world",
+    "published": "2026-08-20T21:40:00+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/opinion/u-s-national-debt-40-trillion-spending-6f856ca1",
+    "title": "Opinion | How the U.S. Went $40 Trillion in Debt",
+    "summary": "The problem isn’t tax cuts. Spending is way above historical norms.",
+    "source": "WSJ",
+    "section": "us",
+    "published": "2026-08-20T21:38:00+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/business/abbott-to-pay-670-million-to-settle-baby-formula-litigation-8260e5fb",
+    "title": "Abbott to Pay $670 Million to Settle Baby-Formula Litigation",
+    "summary": "The bulk settlement relates to the Gill lawsuit, in which a Missouri jury ordered the company to pay $495 million in damages after determining it failed to warn that its formula for preterm infants increased the risk for a bowel disease.",
+    "source": "WSJ",
+    "section": "us",
+    "published": "2026-08-20T21:37:00+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/business/walmart-adds-to-wall-street-pressures-with-weak-sales-growth-4f1bd3bb",
+    "title": "Walmart Adds to Wall Street Pressures With Weak Sales Growth",
+    "summary": "Plus, Romania accused Russia of launching an explosive drone, and healthcare costs are set for a steep increase.",
+    "source": "WSJ",
+    "section": "markets",
+    "published": "2026-08-20T21:36:00+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/finance/stocks/u-s-stocks-and-bonds-slide-brushing-off-treasurys-buyback-plans-57ced23b",
+    "title": "U.S. Stocks and Bonds Slide, Brushing Off Treasury’s Buyback Plans",
+    "summary": "Mixed results from Walmart and other retailers offered more gloom on the health of the American consumer.",
+    "source": "WSJ",
+    "section": "markets",
+    "published": "2026-08-20T21:32:00+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/opinion/a-great-day-for-swamp-draining-1324d384",
+    "title": "A Great Day for Swamp Draining",
+    "summary": "The bright side of $40 trillion in federal debt.",
+    "source": "WSJ",
+    "section": "opinion",
+    "published": "2026-08-20T21:31:00+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/business/deals/james-hardie-selling-european-fermacell-business-for-980-million-to-holcim-dc6e1c24",
+    "title": "James Hardie Selling European Fermacell Business for $980 Million to Holcim",
+    "summary": "James Hardie Industries will sell its European Fermacell business to Swiss building-materials company Holcim as it seeks to focus on higher-growth and higher-return markets.",
+    "source": "WSJ",
+    "section": "markets",
+    "published": "2026-08-20T21:29:00+00:00"
+  },
+  {
+    "url": "https://www.ft.com/content/130f404e-6303-49a8-89d6-3368e3fc70b6",
+    "title": "FirstFT: Scott Bessent’s intervention to prop up US market fails to soothe investors",
+    "summary": "Also in this newsletter: Loan to Guggenheim Partners falls to distressed territory and North Korea fires barrage of ballistic missiles",
+    "source": "FT",
+    "section": "world",
+    "published": "2026-08-20T21:22:12+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/opinion/world-libertys-stablecoin-becomes-a-partisan-target-12dbbfa0",
+    "title": "Opinion | World Liberty’s Stablecoin Becomes a Partisan Target",
+    "summary": "Elizabeth Warren is a critic of the crypto industry, but she’s joined by some Democrats who voted for the Genius Act.",
+    "source": "WSJ",
+    "section": "markets",
+    "published": "2026-08-20T21:09:00+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/finance/investing/health-care-roundup-market-talk-b4eee231",
+    "title": "Health Care Roundup: Market Talk",
+    "summary": "Find insight on Moderna, Merck KGaA, Novonesis and more in the latest Market Talks covering the health care sector.",
+    "source": "WSJ",
+    "section": "markets",
+    "published": "2026-08-20T21:08:00+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-debe172a",
+    "title": "Energy & Utilities Roundup: Market Talk",
+    "summary": "Find insight on oil futures, Ithaca Energy and more in the latest Market Talks covering energy and utilities.",
+    "source": "WSJ",
+    "section": "business",
+    "published": "2026-08-20T20:58:00+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/finance/investing/private-credits-next-big-thing-is-1-trillion-in-british-pensions-13b76f04",
+    "title": "Private Credit’s Next Big Thing Is $1 Trillion in British Pensions",
+    "summary": "A deal that includes Standard Life, CVC and Goldman Sachs is the latest to tap an increasingly popular source of investor cash.",
+    "source": "WSJ",
+    "section": "markets",
+    "published": "2026-08-20T20:54:00+00:00"
+  },
+  {
+    "url": "https://www.ft.com/content/79f1f638-1fd5-40e1-845b-b4a787a12883",
+    "title": "Walmart shares tumble as sales growth slows to six-year low",
+    "summary": "Retailer to use almost $2.9bn in tariff refunds to deliver price cuts for squeezed American consumers",
+    "source": "FT",
+    "section": "world",
+    "published": "2026-08-20T20:52:26+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/finance/stocks/u-s-stocks-slide-as-bond-yields-rebound-walmart-disappoints-950aa1d1",
+    "title": "U.S. Stocks Slide as Bond Yields Rebound; Walmart Disappoints",
+    "summary": "U.S. stocks fell as the brief calm in the bond market evaporated.",
+    "source": "WSJ",
+    "section": "markets",
+    "published": "2026-08-20T20:50:00+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/podcasts/opinion-potomac-watch/trump-pauses-his-50-canada-tariffs-the-west-coast-refuels-under-a-jones-act-waiver/ED6FDE8A-BE2C-47B2-A948-B80619AEFD90",
+    "title": "Trump Pauses His 50% Canada Tariffs / The West Coast Refuels Under a Jones Act Waiver",
+    "summary": "President Trump holds off taxing more imports, including hockey sticks and building materials, saying an agreement is near. But what about his USMCA trade deal? Plus, he extends a Jones Act waiver, letting U.S. fuel be shipped freely to California.",
+    "source": "WSJ",
+    "section": "opinion",
+    "published": "2026-08-20T20:35:00+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/business/earnings/warlmart-earnings-q2-2026-wmt-stock-122b69ee",
+    "title": "Walmart Shares Slump on Weakest Sales Growth in Over Six Years",
+    "summary": "E-commerce, membership and advertising are driving the retailer’s growth. Walmart’s stock fell more than 9%.",
+    "source": "WSJ",
+    "section": "business",
+    "published": "2026-08-20T20:33:00+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/opinion/the-bond-chaos-is-a-sign-kevin-warshs-plan-is-working-0e2b8b29",
+    "title": "Opinion | The Bond ‘Chaos’ Is a Sign Kevin Warsh’s Plan Is Working",
+    "summary": "The Fed is becoming less willing to subsidize spendthrift lawmakers. This is a welcome turn.",
+    "source": "WSJ",
+    "section": "markets",
+    "published": "2026-08-20T20:22:00+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/opinion/dissent-grows-among-russias-political-elites-7d53d955",
+    "title": "Opinion | Dissent Grows Among Russia’s Political Elites",
+    "summary": "The firing of a high-profile economist reveals Putin’s anxiety over insiders’ opposition to the war.",
+    "source": "WSJ",
+    "section": "world",
+    "published": "2026-08-20T20:20:00+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/finance/investing/stocks-slump-as-bond-yields-rise-with-crude-prices-c61f10d2",
+    "title": "Stocks Slump as Bond Yields Rise With Crude Prices",
+    "summary": "Plus, Walmart sinks after reporting weak earnings.",
+    "source": "WSJ",
+    "section": "markets",
+    "published": "2026-08-20T20:09:00+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/world/americas/canada-trade-official-says-tariff-deal-with-u-s-very-close-7c0d6821",
+    "title": "Canada Trade Official Says Tariff Deal With U.S. ‘Very Close’",
+    "summary": "Dominic LeBlanc, Canada’s minister in charge of U.S. trade, said Ottawa and Washington are “very close” to finalizing an agreement.",
+    "source": "WSJ",
+    "section": "world",
+    "published": "2026-08-20T20:02:00+00:00"
+  },
+  {
+    "url": "https://www.economist.com/business/2026/08/20/yuval-noah-harari-on-the-economic-and-political-perils-of-ai",
+    "title": "Yuval Noah Harari on the economic and political perils of AI",
+    "summary": "Humanity must not entrust its lot to clever machines, the bestselling historian warns",
+    "source": "Economist",
+    "section": "business",
+    "published": "2026-08-20T20:00:42+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/opinion/what-obamacare-was-meant-to-accomplish-2ccb7587",
+    "title": "What ObamaCare Was Meant to Accomplish",
+    "summary": "The real objective was the establishment of national health insurance through the backdoor.",
+    "source": "WSJ",
+    "section": "opinion",
+    "published": "2026-08-20T20:00:00+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/opinion/why-get-three-mmr-vaccines-instead-of-one-7e45973b",
+    "title": "Why Get Three MMR Vaccines Instead of One?",
+    "summary": "Dravet syndrome is relatively rare.",
+    "source": "WSJ",
+    "section": "opinion",
+    "published": "2026-08-20T20:00:00+00:00"
+  },
+  {
+    "url": "https://www.ft.com/content/da9d84b1-9c67-4d56-890c-ce667db2be3c",
+    "title": "Heatwaves and waterways",
+    "summary": "How climate change is hurting Germany’s economy",
+    "source": "FT",
+    "section": "markets",
+    "published": "2026-08-20T20:00:00+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/opinion/how-the-fed-can-make-capital-countercyclical-75fe4aab",
+    "title": "How the Fed Can Make Capital Countercyclical",
+    "summary": "The remedy isn’t another emergency facility. It is the discipline to build margin while the sun is out.",
+    "source": "WSJ",
+    "section": "opinion",
+    "published": "2026-08-20T19:59:00+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/opinion/whos-teaching-capitalism-9aa0595b",
+    "title": "Who’s Teaching Capitalism?",
+    "summary": "Too many well-intended faculty members are ill equipped to prepare their students for capitalism.",
+    "source": "WSJ",
+    "section": "opinion",
+    "published": "2026-08-20T19:58:00+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/opinion/stop-delaying-snap-reform-debf2ec6",
+    "title": "Stop Delaying SNAP Reform",
+    "summary": "Congress should strengthen the cost-sharing requirement, not further delay its implementation.",
+    "source": "WSJ",
+    "section": "opinion",
+    "published": "2026-08-20T19:58:00+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/world/africa/liberia-us-deportations-begin-b7b78e6a",
+    "title": "U.S. Begins Deporting Immigrants to Liberia",
+    "summary": "The West African nation recently entered an agreement with the Trump administration to accept up to 1,200 people in the next year.",
+    "source": "WSJ",
+    "section": "world",
+    "published": "2026-08-20T19:40:00+00:00"
+  },
+  {
+    "url": "https://www.ft.com/content/402d716a-0cf1-46e6-b09b-e37d6ea428a5",
+    "title": "Tory peer’s free speech group urged Vance to lobby UK government",
+    "summary": "Free Speech Union called on vice-president to focus on censorship at time of Starmer visit to US last year",
+    "source": "FT",
+    "section": "world",
+    "published": "2026-08-20T18:59:48+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/finance/commodities-futures/gold-drops-focus-on-fed-july-minutes-db5bfcf6",
+    "title": "Comex Gold Settles 0.60% Higher at $4516.30",
+    "summary": "Comex gold settled 0.6% higher and silver rose 3.5%, with both metals up for a second-consecutive session.",
+    "source": "WSJ",
+    "section": "markets",
+    "published": "2026-08-20T18:53:00+00:00"
+  },
+  {
+    "url": "https://www.ft.com/content/7069ffff-9534-489d-bf25-9965a1bc48bc",
+    "title": "Guggenheim loan trades in distressed territory after investor call",
+    "summary": "Chief executive Mark Walter’s business empire has come under pressure amid probe into his insurance holdings",
+    "source": "FT",
+    "section": "markets",
+    "published": "2026-08-20T18:43:46+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/business/bonds-strengthen-further-dollar-holds-near-lows-after-treasury-intervention-2692dd07",
+    "title": "U.S. Stocks Fall After Weak Earnings Reports",
+    "summary": "U.S. stocks fell after weak earnings reports from Walmart and Alibaba.",
+    "source": "WSJ",
+    "section": "markets",
+    "published": "2026-08-20T18:18:00+00:00"
+  },
+  {
+    "url": "https://www.ft.com/content/d3fbfcb7-ce89-4b46-8267-c2fed9c67134",
+    "title": "Quant funds rocked as Treasury boosts buybacks and Moderna shares leap",
+    "summary": "Tumultuous session puts further pressure on momentum trades that have been unsettled since AI-related stock sell-off",
+    "source": "FT",
+    "section": "markets",
+    "published": "2026-08-20T18:00:58+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/tech/from-playstation-to-spider-man-inside-sonys-transformation-8174ccd4",
+    "title": "From PlayStation to Spider-Man: Inside Sony’s Transformation",
+    "summary": "Watch as Sony President and CEO Hiroki Totoki explains how the company pivoted from hardware to become an entertainment powerhouse.",
+    "source": "WSJ",
+    "section": "world",
+    "published": "2026-08-20T18:00:00+00:00"
+  },
+  {
+    "url": "https://www.ft.com/content/8bce59a1-d0e7-4f66-b2bd-da45de5a3c4e",
+    "title": "Brazilian municipalities join BHP and Vale dam collapse payout scheme",
+    "summary": "Nineteen authorities reach agreement over 2015 disaster in blow to English High Court class action",
+    "source": "FT",
+    "section": "world",
+    "published": "2026-08-20T17:52:43+00:00"
+  },
+  {
+    "url": "https://www.ft.com/content/47c8bc3b-c1b6-4fae-add9-e55898778936",
+    "title": "Today’s China could learn from Jiang and Zhu",
+    "summary": "History might have been different had collegial, liberalising leadership continued",
+    "source": "FT",
+    "section": "world",
+    "published": "2026-08-20T17:46:13+00:00"
+  },
+  {
+    "url": "https://www.ft.com/content/150aa8bf-54d1-448f-bdc9-14152ce3d76c",
+    "title": "The US Treasury is buying long bonds, but not very many",
+    "summary": "Speaking loudly but wielding a teeny-tiny stick",
+    "source": "FT",
+    "section": "markets",
+    "published": "2026-08-20T17:37:49+00:00"
+  },
+  {
+    "url": "https://www.ft.com/content/b388be2e-67bd-4056-abd2-234e17819a98",
+    "title": "Nvidia looks well placed to benefit from the next stage of the AI boom",
+    "summary": "The world’s biggest chip company is using its balance sheet to seed new markets and a new business model",
+    "source": "FT",
+    "section": "world",
+    "published": "2026-08-20T17:17:16+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/finance/banking/private-equity-firms-look-for-an-exit-three-years-after-buying-everbank-d9cfe378",
+    "title": "Private-Equity Firms Look for an Exit Three Years After Buying EverBank",
+    "summary": "The five owners of Florida-based EverBank clashed over its strategy after their 2023 purchase.",
+    "source": "WSJ",
+    "section": "markets",
+    "published": "2026-08-20T17:13:00+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/business/telecom/spacex-is-racking-up-wins-in-washington-a8bac5f5",
+    "title": "SpaceX Is Racking Up Wins in Washington",
+    "summary": "The Elon Musk-led rocket and AI company is landing lucrative contracts and benefiting from the Trump administration’s deregulatory push.",
+    "source": "WSJ",
+    "section": "business",
+    "published": "2026-08-20T17:09:00+00:00"
+  },
+  {
+    "url": "https://www.ft.com/content/b536b114-8a82-41ef-8e44-42df0716dd03",
+    "title": "Stripe bets that an AI world still needs middlemen",
+    "summary": "Payments company’s purchase of OpenRouter makes strategic sense",
+    "source": "FT",
+    "section": "world",
+    "published": "2026-08-20T17:07:33+00:00"
+  },
+  {
+    "url": "https://www.ft.com/content/ecafb9a8-b9a6-48a4-8d3c-a626b26fe82b",
+    "title": "Monte dei Paschi readies twin takeover bids for Banca Generali and Banco BPM",
+    "summary": "Plan would create an Italian banking group with a combined market valuation of about €70bn",
+    "source": "FT",
+    "section": "banking",
+    "published": "2026-08-20T17:06:58+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/business/earnings/hovnanian-swings-to-a-loss-amid-continually-challenging-housing-market-3639e87b",
+    "title": "Hovnanian Hurt by Frozen Housing Market",
+    "summary": "The home builder swung to a third-quarter loss as it continues to cope with a stagnant housing market",
+    "source": "WSJ",
+    "section": "business",
+    "published": "2026-08-20T16:48:00+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/us-news/ice-arrests-captain-of-deadly-capsize-in-new-york-harbor-336aceb5",
+    "title": "ICE Arrests Captain of Deadly Capsize in New York Harbor",
+    "summary": "Federal authorities will seek to deport Manuel Ernesto Hernandez-Umana, claiming he lied to cross the southern border in 2017.",
+    "source": "WSJ",
+    "section": "us",
+    "published": "2026-08-20T16:33:00+00:00"
+  },
+  {
+    "url": "https://www.ft.com/content/0c01cdd9-93e8-469c-8f09-a6d68c91fbc3",
+    "title": "US long-term bonds slide as Bessent intervention fails to soothe investors",
+    "summary": "Yield on 30-year Treasuries rises despite move to ‘at least double’ purchases of securities",
+    "source": "FT",
+    "section": "markets",
+    "published": "2026-08-20T16:20:40+00:00"
+  },
+  {
+    "url": "https://www.ft.com/content/89d82561-089a-4723-9111-2fdd30552412",
+    "title": "Meet Gregory Fenelon, the (self-declared) $14bn man",
+    "summary": "He has big stakes. We have big questions.",
+    "source": "FT",
+    "section": "world",
+    "published": "2026-08-20T16:03:52+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/opinion/americans-are-getting-caught-in-the-safety-net-fed222f4",
+    "title": "Americans Are Getting Caught in the Safety Net",
+    "summary": "The 1996 welfare reform helped move people from dependency to work. We need to do that again.",
+    "source": "WSJ",
+    "section": "opinion",
+    "published": "2026-08-20T16:03:00+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/opinion/new-york-isnt-the-same-for-jews-7fdf4812",
+    "title": "New York Isn’t the Same for Jews",
+    "summary": "The term ‘hate crime’ didn’t exist when I was growing up in Queens in the 1970s.",
+    "source": "WSJ",
+    "section": "opinion",
+    "published": "2026-08-20T16:02:00+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/business/hospitality/starbucks-laying-off-more-than-200-workers-in-streamlining-drive-71e2b179",
+    "title": "Starbucks Laying Off More Than 200 Workers in Streamlining Drive",
+    "summary": "The cuts affect the company’s corporate staff in technology and coffeehouse development. The reductions don’t involve cafe closures.",
+    "source": "WSJ",
+    "section": "business",
+    "published": "2026-08-20T15:50:00+00:00"
+  },
+  {
+    "url": "https://www.ft.com/content/785aafd1-705a-47da-b016-032d66e449c0",
+    "title": "Trump announces fresh ‘economic warfare’ on Iran",
+    "summary": "UAE, long a crucial trading hub for Tehran, has also suspended commercial ties",
+    "source": "FT",
+    "section": "world",
+    "published": "2026-08-20T15:29:03+00:00"
+  },
+  {
+    "url": "https://www.ft.com/content/fe17490c-084c-4e25-beae-225a0b6c3ad2",
+    "title": "Trump’s South Korea defence flip reminds Japan that it has no Plan B",
+    "summary": "While alarming for Seoul, an abandonment of US guarantees could be disastrous for Tokyo",
+    "source": "FT",
+    "section": "world",
+    "published": "2026-08-20T15:28:31+00:00"
+  },
+  {
+    "url": "https://www.ft.com/content/a355db7d-19f6-469a-a528-8376ca4db5ce",
+    "title": "Moderna breakthrough brings back memories of pandemic mania",
+    "summary": "Biotech nearly triples as mRNA cancer treatment shows promise after company had struggled in recent years",
+    "source": "FT",
+    "section": "world",
+    "published": "2026-08-20T15:13:51+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/politics/elections/jon-ossoff-trump-03201276",
+    "title": "Viral clips of Sen. Jon Ossoff’s speeches have excited liberals, raised millions for his campaign and earned the ire of President Trump",
+    "summary": "Viral clips of the Georgia senator’s speeches have excited liberals, raised millions for his campaign and earned the ire of President Trump.",
+    "source": "WSJ",
+    "section": "politics",
+    "published": "2026-08-20T15:09:00+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/business/super-micro-clears-senior-management-in-alleged-smuggling-scheme-5b0d888d",
+    "title": "Super Micro Clears Senior Management in Alleged Smuggling Scheme",
+    "summary": "The server maker ended an investigation into an alleged scheme by two employees and a contractor to smuggle Nvidia chips to China.",
+    "source": "WSJ",
+    "section": "markets",
+    "published": "2026-08-20T14:57:00+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/economy/u-s-leading-indicators-ticked-up-in-july-8a288be9",
+    "title": "U.S. Leading Indicators Ticked Up in July",
+    "summary": "The Conference Board’s Leading Economic Index rose by 0.2% to 99.5, indicating that moderate growth could be coming.",
+    "source": "WSJ",
+    "section": "economy",
+    "published": "2026-08-20T14:38:00+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/world/europe/jet-fighter-destroys-naval-drone-to-protect-lives-near-black-sea-gas-platform-2510417f",
+    "title": "Jet Fighter Destroys Naval Drone Near Black Sea Gas Platform ‘to Protect Lives’",
+    "summary": "Romanian officials accused Russia of launching the explosive drone, saying it threatened hundreds of workers.",
+    "source": "WSJ",
+    "section": "world",
+    "published": "2026-08-20T14:35:00+00:00"
+  },
+  {
+    "url": "https://www.ft.com/content/eae8bbc5-7946-4fdc-8e0a-3215f7e56dd2",
+    "title": "Europe’s oil refining capacity set to shrink by 20% over next decade",
+    "summary": "North America and Europe to lose further capacity to turn oil into petrol, diesel and jet fuel because of investor wariness",
+    "source": "FT",
+    "section": "markets",
+    "published": "2026-08-20T14:29:44+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/buyside/personal-finance/auto-insurance/cheapest-car-insurance",
+    "title": "Cheapest Car Insurance Options 2026",
+    "summary": "The best cheap car insurance providers offer low rates but don’t skimp on coverage options.",
+    "source": "WSJ",
+    "section": "us",
+    "published": "2026-08-20T13:58:00+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/tech/ai/californias-ai-dominance-fuels-366-billion-venture-capital-bonanza-820e9bde",
+    "title": "California Draws More Startup Investment Than All Other 49 States Combined",
+    "summary": "Investors have plowed a record $366 billion in venture-capital funding into the state amid the AI boom.",
+    "source": "WSJ",
+    "section": "whats-news",
+    "published": "2026-08-20T13:54:00+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/world/uk/the-end-of-harry-and-meghans-american-dream-172623fd",
+    "title": "The End of Harry and Meghan’s American Dream",
+    "summary": "Their return to the U.K. follows six years of Netflix deals, jam making and controversy for the royal couple.",
+    "source": "WSJ",
+    "section": "world",
+    "published": "2026-08-20T13:53:00+00:00"
+  },
+  {
+    "url": "https://www.ft.com/content/49c3c96c-cda1-466a-a0a6-8275e889ecc4",
+    "title": "From balloons to pans: in praise of useful tech",
+    "summary": "Companies developing new materials with previously unknown properties could change the material world",
+    "source": "FT",
+    "section": "opinion",
+    "published": "2026-08-20T13:41:53+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/cmo-today/targets-earnings-call-seldom-is-heard-a-discouraging-word-f9b2ad70",
+    "title": "Target’s Earnings Call: Seldom Is Heard a Discouraging Word",
+    "summary": "Plus, claw arcades bring life back to malls and the FTC says dynamic pricing requires disclosure.",
+    "source": "WSJ",
+    "section": "business",
+    "published": "2026-08-20T13:31:00+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/business/energy-oil/how-to-put-out-wildfires-fueled-by-world-war-ii-ammo-try-driverless-tanks-f69b5d8d",
+    "title": "How to Put Out Wildfires Fueled by World War II Ammo? Try Driverless Tanks.",
+    "summary": "Plus: How Elon Musk leaned in to fossil fuels, a triple-digit crack spread and a new Arctic shipping route.",
+    "source": "WSJ",
+    "section": "world",
+    "published": "2026-08-20T13:30:00+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/finance/commodities-futures/canada-producer-prices-rise-in-july-buoyed-by-gas-and-diesel-69d503d6",
+    "title": "Canada Producer Prices Rise in July, Buoyed by Gas and Diesel",
+    "summary": "Canadian manufactured goods prices rose again last month, driven higher by a jump in fuel costs with a resumption of the conflict in the Middle East.",
+    "source": "WSJ",
+    "section": "business",
+    "published": "2026-08-20T13:21:00+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/economy/central-banking/philadelphia-area-manufacturing-activity-continued-to-expand-in-august-cadc4a64",
+    "title": "Philadelphia Area Manufacturing Activity Continued to Expand in August",
+    "summary": "The reserve bank’s manufacturing business outlook survey showed that the current-activity index rose to 47.4 in August from 41.4 in July.",
+    "source": "WSJ",
+    "section": "economy",
+    "published": "2026-08-20T13:09:00+00:00"
+  }
+]
