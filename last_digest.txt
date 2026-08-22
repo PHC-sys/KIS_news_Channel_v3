@@ -4,81 +4,29 @@
 
 ✅ <b>간밤의 주요 헤드라인</b>
 
-<b>1. Bessent 국채 매입 확대 발표에 달러 급락...비트코인 5월 이후 최고가</b>
-<blockquote>비트코인이 $79,455까지 상승해 5월 이후 최고가를 기록했다. Scott Bessent 재무장관의 국채 매입 확대 발표가 재정 스트레스 신호로 해석되며 달러 약세가 심화됐고, 디베이스먼트 트레이드가 확산된 영향이다. 기관 수요 증가와 공매도 청산, Clarity Act 진전이 동시에 작용했다.
-<a href="https://www.wsj.com/finance/currencies/bitcoin-surges-as-institutional-demand-short-covering-clarity-act-progress-converge-a6451d1a">[WSJ]</a></blockquote>
+<b>1. 미국, 캐나다産 와인·하키스틱·시멘트에 50% 관세...북미 무역전쟁 본격화</b>
+<blockquote>미국은 캐나다산 와인, 하키스틱, 시멘트, 종이·섬유 제품 등에 대해 50% 관세를 부과했다. 무역 협상이 결렬된 이후 발효된 조치로, 캐나다는 9월부터 보복 관세를 시행하겠다고 밝혔다.
+<a href="https://www.wsj.com/economy/trade/whats-getting-hit-with-the-new-u-s-canada-tariffs-4cb8141c">[WSJ]</a></blockquote>
 
-<b>2. 달러 약세에 금 $4,600 돌파...Bessent 국채 개입이 뒷배경</b>
-<blockquote>금 가격이 온스당 $4,600를 돌파했다. 미 재무부의 장기물 국채 매입 확대 계획이 재정 불안 신호로 받아들여지며 달러 매도세가 확산됐고, 투자자들은 비트코인과 금 등 디베이스먼트 트레이드로 이동했다. 금과 비트코인 모두 3년래 최고 주간 상승률을 기록했다.
-<a href="https://www.wsj.com/finance/investing/gold-above-4-600-on-weaker-dollar-debt-fears-7a7d1eb4">[WSJ]</a></blockquote>
+<b>2. Mark Carney 캐나다 총리, "美와 무역전쟁 중"...Trump 관세 오판 지적</b>
+<blockquote>Mark Carney 캐나다 총리는 미국과 "전쟁 상태"라고 선언하며, Donald Trump 대통령이 관세 공격을 확대한 것은 오판이라고 비판했다. 캐나다는 미국의 관세 조치에 맞서 강력히 대응하겠다는 입장을 재확인했다.
+<a href="https://www.ft.com/content/e3b5c236-bd5f-45c2-8ddf-5279a7375d3f">[FT]</a></blockquote>
 
-<b>3. 미국 증시 상승 마감...비트코인 랠리에 리스크 심리 개선</b>
-<blockquote>S&P 500이 상승 마감했지만 주간으로는 3월 이후 최대 낙폭을 기록했다. 비트코인이 $80,000에 근접하며 암호화폐 관련주가 강세를 보였고, 달러 약세가 이어지며 투자 심리가 일부 회복됐다.
-<a href="https://www.wsj.com/finance/stocks/u-s-stocks-rise-as-bitcoin-nears-80-000-5de452ad">[WSJ]</a></blockquote>
+<b>3. 캐나다, 미국산 제품에 보복관세 9월 발표...북미 공급망 분열 심화</b>
+<blockquote>캐나다는 미국의 신규 관세에 대응해 노동절(Labor Day) 이후 보복 관세를 부과할 계획이라고 발표했다. 양국 간 보복 조치가 본격화하면서 북미 무역 관계가 더욱 악화할 전망이다.
+<a href="https://www.wsj.com/economy/trade/canada-announces-new-post-labor-day-tariffs-ef1de8e1">[WSJ]</a></blockquote>
 
-<b>4. 암호화폐 급등에도 비트코인 주간 상승...달러 약세가 원동력</b>
-<blockquote>비트코인과 금이 동반 급등하며 세계 최대 암호화폐는 3년래 최고 주간 상승률을 기록했다. Bessent 재무장관의 채권시장 개입이 달러 약세를 촉발했고, 투자자들은 통화 가치 하락에 대한 헤지 수단으로 비트코인과 금을 동시에 매수했다.
-<a href="https://www.ft.com/content/7e0c8dc0-e957-420a-bba3-d33666d919b8">[FT]</a></blockquote>
+<b>4. 러시아, 우크라이나 쇼핑몰에 '이중 공격'...최소 16명 사망</b>
+<blockquote>러시아군이 우크라이나 쇼핑몰을 공격해 최소 16명이 사망했다. Volodymyr Zelenskyy 우크라이나 대통령은 동맹국들에 러시아에 대한 '실질적 압박'을 통해 전쟁을 종식시킬 것을 촉구했다.
+<a href="https://www.ft.com/content/a7837e1c-6865-42bd-9902-3d4c4b7f37ef">[FT]</a></blockquote>
 
-<b>5. 미 국채 매입 확대에도 금리 상승 지속...재정 우려 부각</b>
-<blockquote>미 재무부의 국채 매입 확대 조치에도 불구하고 장기물 금리가 상승했다. 재무부의 차입 비용 억제 노력이 오히려 재정 스트레스 신호로 해석되며 시장의 신뢰를 얻지 못했다는 평가다.
-<a href="https://www.wsj.com/finance/investing/bond-yields-rise-despite-treasury-efforts-to-curb-borrowing-costs-8aed2b0f">[WSJ]</a></blockquote>
+<b>5. 이스라엘의 시리아 공습, 터키와 갈등 유도 의도 가능성...美 대사 분석</b>
+<blockquote>미국의 앙카라 주재 대사는 이스라엘의 시리아 공군기지 공습이 터키와의 갈등을 유도하려는 "공격적인 선거 전략"일 수 있다고 분석했다. 10월 선거를 앞두고 중동 지역 긴장이 고조될 가능성이 제기됐다.
+<a href="https://www.ft.com/content/d770cdbf-46b1-4928-9ec7-e1155db679d2">[FT]</a></blockquote>
 
-<b>6. Jackson Hole 전망 속 Warsh 발언 주목...금리 인상 시기 힌트 기대</b>
-<blockquote>Kevin Warsh 연준 의장의 Jackson Hole 발언이 이번 주 핵심 이벤트로 주목받는다. 투자자들은 미국 금리 인상 시기와 방향에 대한 단서를 얻기 위해 Warsh 의장의 연설을 주시하고 있다. PCE 물가지표도 함께 발표된다.
-<a href="https://www.wsj.com/economy/central-banking/week-ahead-for-fx-bonds-warsh-speech-at-jackson-hole-u-s-pce-data-in-focus-1b33f004">[WSJ]</a></blockquote>
-
-<b>7. Bessent 국채 매입 조치, 장기 금리 억제 해석...재정 통제 의도 부각</b>
-<blockquote>Scott Bessent 재무장관의 최근 국채 매입 확대 조치가 상승하는 장기 금리를 통제하려는 시도로 해석된다. 시장은 재무부가 차입 비용 상승을 우려해 직접 개입에 나섰다고 보고 있으며, 이는 재정 압박을 반영한다는 분석이 나온다.
-<a href="https://www.ft.com/content/3b463c96-9799-4b1c-856a-978f48b04eff">[FT]</a></blockquote>
-
-<b>8. 이란 대통령 "강한 입장에서 전쟁 종식" 발언...경제 압박 내구력 논쟁</b>
-<blockquote>Masoud Pezeshkian 이란 대통령이 "강한 입장에서 미국과의 전쟁을 끝내겠다"고 밝혔다. 이는 이란 정권 내부에서 경제 제재를 얼마나 더 견딜 수 있을지에 대한 논쟁이 진행 중임을 반영한다는 분석이다.
-<a href="https://www.ft.com/content/9a094571-604d-4f1e-b5ff-c0b5dc032dc1">[FT]</a></blockquote>
-
-<b>9. 중동 긴장 지속에 유가 주간 상승 마감...미국 경제 제재 강화 방침</b>
-<blockquote>미-이란 갈등 해결 진전이 없는 가운데 유가가 주간 상승 마감했다. 미국은 대규모 군사 행동 대신 이란에 대한 경제 제재를 강화하는 방침을 세웠으며, 중동 긴장이 지속되며 유가에 상승 압력이 가해졌다.
-<a href="https://www.wsj.com/finance/commodities-futures/oil-futures-fall-on-likely-technical-correction-bee9638e">[WSJ]</a></blockquote>
-
-<b>10. 미-캐나다 무역협상 막판 조율...트럼프 $200억 추가 관세 유예 중</b>
-<blockquote>미국과 캐나다의 무역협상이 막판 조율에 들어갔다. Donald Trump 대통령이 캐나다에 대한 $200억 규모의 추가 관세 부과를 유예한 가운데, 양측 관계자들은 합의 가능성을 언급하며 협상 타결에 대한 기대감을 높이고 있다.
-<a href="https://www.ft.com/content/24f9c08e-e23f-434e-b0f4-fc1eb55a7b04">[FT]</a></blockquote>
-
-<b>11. 트럼프, 쇠고기 수입 관세 한시 면제 발표...중간선거 겨냥 가격 인하 시도</b>
-<blockquote>Donald Trump 대통령이 갈은 쇠고기 최대 300,000 메트릭톤에 대해 고율 관세를 한시 면제한다고 발표했다. Trump는 외국 공급업체들이 25% 할인을 제공할 것이라고 주장했으나, 미국 목장주들은 중간선거를 앞둔 정치적 조치라며 "배신"이라고 반발하고 있다.
-<a href="https://www.ft.com/content/7aabb591-ca73-4d87-96ad-dac9a210e1d0">[FT]</a></blockquote>
-
-<b>12. 트럼프, 쇠고기 수입 확대로 가격 인하 추진...관세 한시 면제 조치</b>
-<blockquote>트럼프 대통령이 높은 쇠고기 가격 문제를 해결하기 위해 최대 300,000 메트릭톤의 수입 쇠고기에 대해 고율 관세를 한시 면제한다고 밝혔다. 중간선거를 앞두고 소비자 물가 부담을 완화하려는 조치로 풀이된다.
-<a href="https://www.wsj.com/politics/policy/u-s-to-boost-beef-imports-to-address-high-prices-trump-says-52b0f5dc">[WSJ]</a></blockquote>
-
-<b>13. 유럽·아시아 기업 활동 회복세...중동 전쟁에도 경기 완만 둔화 그쳐</b>
-<blockquote>미국과 유럽, 아시아 주요국의 기업 활동이 중동 전쟁 등 악재에도 회복세를 보였다. PMI 지표에 따르면 글로벌 경제는 2분기에 완만한 둔화에 그친 것으로 나타났으며, 지정학 리스크 속에서도 경기가 예상보다 견조하게 유지되고 있다는 평가다.
-<a href="https://www.wsj.com/economy/global/europe-asia-see-pickup-in-business-activity-despite-headwinds-ddf92bb4">[WSJ]</a></blockquote>
-
-<b>14. 연준 인플레이션 재검토 주도하는 3인...Mankiw·Sargent·White 이론 주목</b>
-<blockquote>Greg Mankiw, Thomas Sargent, William White 3인의 인플레이션 이론이 연준의 통화정책 방향에 영향을 미치고 있다. 이들은 각기 다른 관점에서 물가 상승 원인을 분석하며, 향후 연준의 인플레이션 대응 전략을 이끌 것으로 관측된다.
-<a href="https://www.wsj.com/economy/central-banking/the-three-minds-leading-the-feds-inflation-rethink-b0914711">[WSJ]</a></blockquote>
-
-<b>15. 영국 재정 적자 £18억 기록...10월 예산안 앞두고 경제학자 전망 벗어나</b>
-<blockquote>영국 재정 적자가 7월 £18억에 달하며 경제학자들의 예상을 뛰어넘었다. Andy Burnham 총리가 10월 예산안을 준비하는 가운데 재정 건전성 우려가 커지고 있으며, Jim O'Neill의 정부 직책 거부로 인사 문제도 불거졌다.
-<a href="https://www.ft.com/content/7b162fb4-8889-4f9c-9d5b-878850d6e8af">[FT]</a></blockquote>
-
-<b>16. 영국 개인투자자들 국채 매수 러시...금리 급등에 저쿠폰 채권 선호</b>
-<blockquote>영국 국채 금리 급등을 틈타 개인투자자들이 세제 혜택이 있는 저쿠폰 국채를 대거 매수하고 있다. 금리 상승으로 채권 가격이 하락하자 장기 수익을 노린 투자자들이 시장에 진입한 것으로 분석된다.
-<a href="https://www.ft.com/content/2aaa71c8-6321-4b0f-a6c2-2971c28b5b17">[FT]</a></blockquote>
-
-<b>17. Apple, 아일랜드에 백납세금 $170억 납부...EU 법원 판결 따라</b>
-<blockquote>Apple이 EU 법원의 백납세금 판결에 따라 아일랜드 정부에 $170억을 납부했다. 새로운 공시 자료를 통해 Apple의 글로벌 세금 부담 현황이 드러났으며, 다국적 기업의 조세 회피 논란이 재조명됐다.
-<a href="https://www.ft.com/content/65fb0ad1-e4d5-43be-9dcf-f7aba1bea3a6">[FT]</a></blockquote>
-
-<b>18. Fannie Mae 고위 임원 약 12명 해고...모기지 시장 안정성 우려 확산</b>
-<blockquote>정부 모기지 보증기관 Fannie Mae에서 고위 임원 약 12명이 해고되며 조직 내 혼란이 가중됐다. 이번 인사는 기관의 안정성에 대한 우려를 높이고 있으며, 모기지 시장 전반에 대한 불안 심리도 커지고 있다.
-<a href="https://www.wsj.com/finance/regulation/fannie-mae-hit-by-turmoil-in-senior-ranks-as-at-least-10-executives-depart-9f0f40e0">[WSJ]</a></blockquote>
-
-<b>19. Citadel, Situational Awareness 포트폴리오 80% 매각...$40억 규모 블록 트레이드</b>
-<blockquote>Ken Griffin의 헤지펀드 Citadel이 Situational Awareness에서 인수한 포트폴리오의 80%를 최근 수 주간 매각했다. $40억 이상의 블록 트레이드가 집행됐으며, Citadel의 전략적 포지션 조정이 주목받고 있다.
-<a href="https://www.ft.com/content/1603577e-89d8-4cfa-884b-b83fbb8dd20e">[FT]</a></blockquote>
+<b>6. Lula 브라질 대통령-Rubio 美 국무 설전...선거 앞 외교 마찰 격화</b>
+<blockquote>Luiz Inácio Lula da Silva 브라질 대통령과 Marco Rubio 미 국무장관이 설전을 벌이며 양국 외교 마찰이 격화됐다. 브라질 선거를 앞두고 Lula 대통령이 반미 정서를 활용하는 모습이 포착됐다.
+<a href="https://www.ft.com/content/da43f854-8083-4ec1-86da-76b47c84e64a">[FT]</a></blockquote>
 
 ━━━━━━━━━━━━━━━━━━━━
 📡 <b>출처: WSJ · FT · The Economist</b>
