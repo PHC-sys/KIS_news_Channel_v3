@@ -1,32 +1,52 @@
 🌙 <b>간밤의 글로벌 마켓 뉴스</b>
-[{DATE} | WSJ · FT · Economist ]
+[ 2026. 8. 24.(일) | WSJ · FT · Economist ]
 ━━━━━━━━━━━━━━━━━━━━
 
 ✅ <b>간밤의 주요 헤드라인</b>
 
-<b>1. 미국, 캐나다産 와인·하키스틱·시멘트에 50% 관세...북미 무역전쟁 본격화</b>
-<blockquote>미국은 캐나다산 와인, 하키스틱, 시멘트, 종이·섬유 제품 등에 대해 50% 관세를 부과했다. 무역 협상이 결렬된 이후 발효된 조치로, 캐나다는 9월부터 보복 관세를 시행하겠다고 밝혔다.
-<a href="https://www.wsj.com/economy/trade/whats-getting-hit-with-the-new-u-s-canada-tariffs-4cb8141c">[WSJ]</a></blockquote>
-
-<b>2. Mark Carney 캐나다 총리, "美와 무역전쟁 중"...Trump 관세 오판 지적</b>
-<blockquote>Mark Carney 캐나다 총리는 미국과 "전쟁 상태"라고 선언하며, Donald Trump 대통령이 관세 공격을 확대한 것은 오판이라고 비판했다. 캐나다는 미국의 관세 조치에 맞서 강력히 대응하겠다는 입장을 재확인했다.
-<a href="https://www.ft.com/content/e3b5c236-bd5f-45c2-8ddf-5279a7375d3f">[FT]</a></blockquote>
-
-<b>3. 캐나다, 미국산 제품에 보복관세 9월 발표...북미 공급망 분열 심화</b>
-<blockquote>캐나다는 미국의 신규 관세에 대응해 노동절(Labor Day) 이후 보복 관세를 부과할 계획이라고 발표했다. 양국 간 보복 조치가 본격화하면서 북미 무역 관계가 더욱 악화할 전망이다.
+<b>1. 美-캐나다 무역전쟁 급속 격화...노동절 앞두고 보복관세 교환</b>
+<blockquote>미국이 추가 관세를 부과하자 캐나다가 즉각 대응 관세로 맞불을 놓으며 양국 간 무역협상이 결렬됐다. 양측은 협상 결렬 책임을 서로에게 돌리며 무역전쟁이 본격화되는 양상이다.
 <a href="https://www.wsj.com/economy/trade/canada-announces-new-post-labor-day-tariffs-ef1de8e1">[WSJ]</a></blockquote>
 
-<b>4. 러시아, 우크라이나 쇼핑몰에 '이중 공격'...최소 16명 사망</b>
-<blockquote>러시아군이 우크라이나 쇼핑몰을 공격해 최소 16명이 사망했다. Volodymyr Zelenskyy 우크라이나 대통령은 동맹국들에 러시아에 대한 '실질적 압박'을 통해 전쟁을 종식시킬 것을 촉구했다.
-<a href="https://www.ft.com/content/a7837e1c-6865-42bd-9902-3d4c4b7f37ef">[FT]</a></blockquote>
+<b>2. Mark Carney 캐나다 총리 "美와 전쟁 중"...트럼프 오판 강조</b>
+<blockquote>Carney 총리는 트럼프 대통령이 관세 공세를 확대한 것은 오판이라며 캐나다는 현재 미국과 무역전쟁을 벌이고 있다고 선언했다. 양국 관계가 급속히 악화되고 있음을 시사하는 발언이다.
+<a href="https://www.ft.com/content/e3b5c236-bd5f-45c2-8ddf-5279a7375d3f">[FT]</a></blockquote>
 
-<b>5. 이스라엘의 시리아 공습, 터키와 갈등 유도 의도 가능성...美 대사 분석</b>
-<blockquote>미국의 앙카라 주재 대사는 이스라엘의 시리아 공군기지 공습이 터키와의 갈등을 유도하려는 "공격적인 선거 전략"일 수 있다고 분석했다. 10월 선거를 앞두고 중동 지역 긴장이 고조될 가능성이 제기됐다.
-<a href="https://www.ft.com/content/d770cdbf-46b1-4928-9ec7-e1155db679d2">[FT]</a></blockquote>
+<b>3. 트럼프 관세전쟁, 중간선거 앞두고 미국 소비자 직격탄 우려</b>
+<blockquote>캐나다와의 무역협상 결렬로 중간선거를 몇 달 앞둔 시점에 미국 소비자물가가 추가 상승할 위험이 커졌다. 트럼프 행정부가 정치적으로 부담스러운 타이밍에 물가 압박을 자초했다는 비판이 나온다.
+<a href="https://www.ft.com/content/39baf33e-3238-4923-9fe9-f1db48bb54e4">[FT]</a></blockquote>
 
-<b>6. Lula 브라질 대통령-Rubio 美 국무 설전...선거 앞 외교 마찰 격화</b>
-<blockquote>Luiz Inácio Lula da Silva 브라질 대통령과 Marco Rubio 미 국무장관이 설전을 벌이며 양국 외교 마찰이 격화됐다. 브라질 선거를 앞두고 Lula 대통령이 반미 정서를 활용하는 모습이 포착됐다.
-<a href="https://www.ft.com/content/da43f854-8083-4ec1-86da-76b47c84e64a">[FT]</a></blockquote>
+<b>4. Kevin Warsh 연준의장 시장 진정 나섰지만...경제 긴장 신호 증폭</b>
+<blockquote>Warsh 의장이 투자자 불안 해소에 나섰으나 경제 긴장 신호가 잇따르면서 시장 안정 효과에 의문이 제기된다. 이코노미스트들은 연준의 커뮤니케이션 전략을 비판하며 Jackson Hole 회의를 앞두고 정책 불확실성이 커지고 있다고 지적했다.
+<a href="https://www.ft.com/content/40ae9cd3-fbc8-4a55-adaa-c24bc80481c9">[FT]</a></blockquote>
+
+<b>5. Scott Bessent, 트럼프가 원하던 연준의장인가...금리 인하 유도 실패 전망</b>
+<blockquote>Bessent의 채권금리 하향 유도 시도가 실패할 가능성이 크다는 분석이 나왔다. 트럼프가 선호하는 스타일의 연준의장일 수 있으나, 시장 설득력 부족으로 통화정책 효과가 제한적일 것으로 전망된다.
+<a href="https://www.economist.com/finance-and-economics/2026/08/23/is-scott-bessent-the-fed-chair-donald-trump-always-wanted">[Economist]</a></blockquote>
+
+<b>6. 美 인플레이션 재점화 우려 고조...채권시장 긴장 확대</b>
+<blockquote>미국 인플레이션 재점화 우려가 커지면서 채권시장 변동성이 증가하고 있다. 무역전쟁 격화와 연준의 불확실한 커뮤니케이션이 겹치며 국채 투자자들의 경계심이 높아지는 상황이다.
+<a href="https://www.ft.com/content/e05718e3-fa3b-4a0f-8d85-0c7f0f826c96">[FT]</a></blockquote>
+
+<b>7. 이번 주 Jackson Hole·Nvidia 실적·Zelenskyy 연설 주목</b>
+<blockquote>이번 주 연준의 Kevin Warsh가 Jackson Hole에서 통화정책 방향을 제시하고, Nvidia 실적 발표와 Zelenskyy의 우크라이나 국민 연설이 예정돼 있다. 금융시장과 지정학 리스크 양 측면에서 중요한 한 주가 될 전망이다.
+<a href="https://www.ft.com/content/6aa04f24-c216-467e-834a-7b4af3ef660e">[FT]</a></blockquote>
+
+<b>8. 이란 경제 압박 D-Day 다가온다...체제 유화 전략 재고해야</b>
+<blockquote>이란에 대한 경제 압박이 결정적 국면에 접어들고 있으며, 이란 체제 유화가 더 안전한 선택이라고 판단하는 국가들은 입장을 재고해야 한다는 주장이 제기됐다. 이란 경제 압박이 임계점에 도달했다는 분석이다.
+<a href="https://www.ft.com/content/cb865200-1a06-40be-86a3-10ee2bb05804">[FT]</a></blockquote>
+
+<b>9. 영국 에너지 시설 이란 해커 공격으로 가동 중단...안보 경보</b>
+<blockquote>이란 연계 해커들이 영국 소규모 가스발전소를 사이버 공격해 가동이 중단됐다. 영국 보안당국은 에너지 기업 경영진에게 대응 방안을 브리핑하며 에너지 인프라 보안 경계 수위를 높였다.
+<a href="https://www.ft.com/content/bae67bb7-ebf8-44fc-8d55-bbfaada47eb7">[FT]</a></blockquote>
+
+<b>10. 트럼프, 한국 군사훈련 축소...아태 안보 동맹 신뢰 훼손</b>
+<blockquote>트럼프 행정부가 한미 군사훈련을 축소하면서 아시아·태평양 지역에서 미국의 신뢰성에 대한 의문이 커지고 있다. 동맹국들은 미국의 안보 공약 이행 의지를 재평가하는 분위기다.
+<a href="https://www.ft.com/content/22530c4a-65b7-49f7-890d-1c8900f63853">[FT]</a></blockquote>
+
+<b>11. Zelenskyy, 전시 선거 거부...해임 국방장관 요구 일축</b>
+<blockquote>Zelenskyy 대통령이 해임된 국방장관의 선거 실시 요구를 거부하며 전시 선거는 우크라이나를 분열시킬 것이라고 밝혔다. 대통령이 정치적 권위를 재확립하려는 움직임으로 해석된다.
+<a href="https://www.ft.com/content/14eeeead-647f-486a-a8dc-7ca2610f3d35">[FT]</a></blockquote>
 
 ━━━━━━━━━━━━━━━━━━━━
 📡 <b>출처: WSJ · FT · The Economist</b>
