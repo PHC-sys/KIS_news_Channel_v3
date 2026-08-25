@@ -1,152 +1,180 @@
 🌙 <b>간밤의 글로벌 마켓 뉴스</b>
-[{DATE} | WSJ · FT · Economist ]
+[ 2026. 8. 26. | WSJ · FT · Economist ]
 ━━━━━━━━━━━━━━━━━━━━
 
 ✅ <b>간밤의 주요 헤드라인</b>
 
-<b>1. Trump, 對캐나다 자동차 관세 50%로 상향 예고...1월 발효</b>
-<blockquote>Trump 대통령이 캐나다산 자동차 및 부품에 대한 관세를 50%로 인상하겠다고 밝혔다. 이번 조치는 1월부터 시행되며, 양국 간 무역전쟁이 급속히 격화되고 있다. 캐나다는 9월부터 보복 관세를 부과할 계획이다.
-<a href="https://www.wsj.com/economy/trade/trump-threatens-50-tariff-on-automobiles-and-parts-from-canada-83c10448">[WSJ]</a></blockquote>
+<b>1. Bessent, 대이란 '경제 D-Day' 선언...호르무즈 봉쇄 압박 최고조</b>
+<blockquote>Scott Bessent 재무장관이 이란에 대한 경제전쟁 최종 단계를 공식화하며, 호르무즈 해협 봉쇄로 이어질 수 있는 강도 높은 제재 조치를 예고했다. 이란 경제 파트너 국가들에 대한 경고 성격으로 해석된다.
+<a href="https://www.ft.com/content/b6009dd2-7e97-4bbc-941d-cd0b8fc046b6">[FT]</a></blockquote>
 
-<b>2. 美 對캐나다 단계별 관세 시행...와인·하키스틱·시멘트 포함</b>
-<blockquote>미국과 캐나다 간 무역 협상이 결렬된 후 새로운 관세가 발효됐다. 미국은 캐나다산 와인, 하키스틱, 시멘트, 종이·섬유 제품에 50% 관세를 부과하며, 캐나다는 9월부터 보복 관세로 대응할 방침이다.
-<a href="https://www.wsj.com/economy/trade/whats-getting-hit-with-the-new-u-s-canada-tariffs-4cb8141c">[WSJ]</a></blockquote>
+<b>2. FT "Bessent, 이란 교역국에 경고...제재 동참 압박"</b>
+<blockquote>미국 재무부가 이란과 거래를 지속하는 국가들에 제재 위험을 경고하며 경제 압박 범위를 확대하고 있다. 중국과 터키 등 주요 교역국이 표적이 될 전망이다.
+<a href="https://www.ft.com/content/b7a62337-c0f8-41f2-b4d4-7afbe6d63af1">[FT]</a></blockquote>
 
-<b>3. 캐나다 Mark Carney 총리, Trump와 정면 대립...보복 불사</b>
-<blockquote>Mark Carney 캐나다 총리가 Trump 대통령과의 무역 분쟁에서 강경 대응을 이어가고 있다. 양측 간 설전이 격화되며 북미 무역 관계가 급속히 악화되고 있다. 캐나다 정부는 보복 관세를 예고했다.
-<a href="https://www.wsj.com/politics/canada-digs-in-as-more-countries-stand-up-to-trump-3cd4a885">[WSJ]</a></blockquote>
+<b>3. 미 대이란 경제전, 중국 협력 없이는 실효성 의문...FT 분석</b>
+<blockquote>미국의 이란 경제 봉쇄 전략은 중국을 비롯한 주요 교역국의 협조 없이는 완전한 고립 달성이 어렵다는 평가가 나온다. 테헤란의 대중국 원유 수출과 금융 채널이 여전히 작동 중이다.
+<a href="https://www.ft.com/content/3bce2d44-0067-455a-9b8d-d5e1a27fbf0a">[FT]</a></blockquote>
 
-<b>4. 캐나다 자동차부품 업계 타격 우려...관세로 공급망 혼란</b>
-<blockquote>Trump의 對캐나다 관세 인상으로 캐나다 자동차부품 제조업체들이 심각한 타격을 입을 전망이다. 미국과의 긴밀한 공급망 관계를 고려할 때 양국 모두 제조업 원가 상승이 불가피할 것으로 보인다.
-<a href="https://www.wsj.com/articles/auto-transport-roundup-market-talk-7b8feab6">[WSJ]</a></blockquote>
+<b>4. 트럼프 행정부, 사우디 핵협정 의회 제출...이란 압박 배경</b>
+<blockquote>트럼프 대통령이 사우디아라비아와의 민간 핵협력 협정을 의회에 공식 제출했다. 협정 발효는 사우디의 이스라엘 관계 정상화가 전제 조건으로, 이란 고립 전략의 일환으로 풀이된다.
+<a href="https://www.wsj.com/world/middle-east/trump-sends-nuclear-agreement-with-saudi-arabia-to-congress-7f01af2c">[WSJ]</a></blockquote>
 
-<b>5. 캐나다 은행들, 강한 실적 예상에도 밸류에이션 부담</b>
-<blockquote>캐나다 주요 은행들이 이번 분기에도 견조한 실적을 낼 것으로 예상되지만, 최근 강세로 시장 밸류에이션이 높아진 상태다. 무역 분쟁 격화로 향후 실적 전망에 불확실성이 커지고 있다.
-<a href="https://www.wsj.com/finance/banking/canadas-big-banks-expected-to-log-another-strong-quarter-while-valuations-stretched-0eaa08bc">[WSJ]</a></blockquote>
+<b>5. 오만 중재로 호르무즈 해협 관리 잠정합의 가능성...FT</b>
+<blockquote>이란과 오만이 호르무즈 해협 선박 통행 관리를 위한 잠정 협의안을 논의 중인 것으로 전해졌다. 수주간 교착 상태였던 외교 진전의 첫 신호로 주목된다.
+<a href="https://www.ft.com/content/b3e4d264-55f0-485e-8e1a-0ba0cbe006b6">[FT]</a></blockquote>
 
-<b>6. WSJ 달러지수 0.13% 상승한 95.45 기록...관세 리스크 반영</b>
-<blockquote>WSJ 달러지수가 0.1% 오른 95.45를 기록하며 최근 3거래일 중 2일 상승했다. 對캐나다 무역전쟁 격화와 지정학적 긴장 고조가 달러 수요를 뒷받침했다.
-<a href="https://www.wsj.com/finance/currencies/asian-currencies-consolidate-may-be-supported-by-u-s-fiscal-worries-4aff1bfd">[WSJ]</a></blockquote>
+<b>6. 호르무즈 해협서 유조선 신규 피격...이란 보복 경고 후 첫 사례</b>
+<blockquote>오만 연안 호르무즈 해협에서 유조선이 미상 발사체 공격을 받았다고 영국 해양무역기구(UKMTO)가 확인했다. 이란이 미국의 경제 공세에 보복을 예고한 직후 발생한 사건이다.
+<a href="https://www.wsj.com/world/middle-east/new-tanker-strike-in-hormuz-as-iran-vows-retaliation-for-u-s-economic-offensive-6f1a1f54">[WSJ]</a></blockquote>
 
-<b>7. 캐나다 기업들, Trump 관세에 '하향 압박 소용돌이' 우려</b>
-<blockquote>캐나다 기업들이 Trump의 관세 부과로 인한 '하향 압박의 소용돌이'를 우려하고 있다. 對미 교역 비중이 큰 기업들은 불확실성 증가와 수익성 악화에 직면해 있다.
-<a href="https://www.ft.com/content/7522bdde-49f8-4bf0-a930-6591b40eb5e4">[FT]</a></blockquote>
+<b>7. 이란 유조선 수십척 스리랑카 인근 집결...봉쇄 효과 가시화</b>
+<blockquote>미국의 호르무즈 봉쇄로 자국 항구 입항이 차단된 이란 선적 유조선들이 스리랑카 영해 인근 해역에 집결하고 있다. 테헤란의 원유 수출 경로가 실질적으로 마비된 것으로 해석된다.
+<a href="https://www.ft.com/content/ef62e345-2a76-46b4-8a69-9d02a306126b">[FT]</a></blockquote>
 
-<b>8. Bessent, 'Operation Economic Outcast' 발표...對이란 제재 강화</b>
-<blockquote>Scott Bessent 미 재무장관이 이란을 경제적으로 고립시키기 위한 'Operation Economic Outcast'를 발표했다. 이란의 협력국 및 기업을 겨냥한 새로운 제재 조치가 포함됐으며, 테헤란 정권에 경제적 압박을 가하는 것이 목표다.
-<a href="https://www.wsj.com/world/middle-east/bessent-launches-operation-economic-outcast-to-isolate-iran-0e4db091">[WSJ]</a></blockquote>
+<b>8. 유가 이틀째 하락...호르무즈 협상 기대감에 공급 우려 후퇴</b>
+<blockquote>국제 유가가 연이틀 하락하며 미국의 대이란 경제 압박이 테헤란을 협상 테이블로 끌어낼 수 있다는 기대감이 반영됐다. WTI와 브렌트유 모두 전일 대비 하락 마감했다.
+<a href="https://www.wsj.com/finance/commodities-futures/oil-edges-higher-as-traders-assess-u-s-measures-against-iran-2291fac0">[WSJ]</a></blockquote>
 
-<b>9. Bessent, 對이란 제재 강화 발표했으나 포괄적 조치는 보류</b>
-<blockquote>Scott Bessent 미 재무장관이 이란에 대한 'D-Day'를 선언했으나, 예상보다 제한적인 제재 조치를 발표했다. 이란의 경제 협력국에 대한 추가 제재를 예고했지만 전면적인 압박 조치는 당분간 유보됐다.
-<a href="https://www.ft.com/content/67c74e64-5c37-4a5d-ae6c-d3c002f99628">[FT]</a></blockquote>
+<b>9. 미 천연가스 선물 소폭 하락...남부 2/3 지역 폭염 지속에도</b>
+<blockquote>천연가스 선물이 이틀간 상승 후 소폭 하락 마감했다. 미국 남부 3분의 2 지역에서 폭염이 지속될 것이라는 기상 전망에도 불구하고 제한된 등락폭을 보였다.
+<a href="https://www.wsj.com/finance/commodities-futures/european-ttf-gas-holds-above-68-euros-on-winter-supply-concerns-e2775bb6">[WSJ]</a></blockquote>
 
-<b>10. 이란, 美 금융 제재 무력화 가능성...정권은 도전 의지</b>
-<blockquote>미국의 새로운 對이란 제재 발표에도 불구하고 이란 정권이 이를 무력화할 수 있다는 분석이 나왔다. 이란은 우회 무역 및 금융 네트워크를 통해 제재 효과를 상쇄할 수 있는 여지가 크다.
-<a href="https://www.economist.com/middle-east-and-africa/2026/08/24/iran-will-be-able-to-shrug-off-americas-financial-threats">[Economist]</a></blockquote>
+<b>10. 유럽 LNG 가격 2023년 이후 최고...이란 사태로 공급 불안</b>
+<blockquote>유럽 LNG 가격이 2023년 이후 최고치로 급등했다. 이란 전쟁으로 LNG 운송이 차질을 빚는 가운데 유럽 가스 재고가 이미 낮은 수준이었던 것이 원인으로 지목된다.
+<a href="https://www.ft.com/content/8f1a392a-b43c-4124-916e-61695fffa0da">[FT]</a></blockquote>
 
-<b>11. 이란, 호르무즈 해협 통과 선박 46척 위협...규정 위반 주장</b>
-<blockquote>이란이 호르무즈 해협을 통과하는 선박 46척이 통행 규정을 위반했다며 벌금 또는 압류 가능성을 경고했다. 이란의 해협 통제 강화로 에너지 공급망 긴장이 고조되고 있다.
-<a href="https://www.ft.com/content/9ebcd1d7-9959-468b-af96-987ef5bf83a8">[FT]</a></blockquote>
+<b>11. 캐나다, 미국산 200억불 규모 보복관세 발표...9월 8일 발효</b>
+<blockquote>캐나다 정부가 미국산 제품에 대해 총 200억불 규모의 보복 관세를 부과하겠다고 공식 발표했다. 9월 8일부터 수백 개 품목에 15~50% 관세가 적용된다.
+<a href="https://www.ft.com/content/7ced71c2-03b8-4569-a68d-14624a7e83f2">[FT]</a></blockquote>
 
-<b>12. 美 "호르무즈 해협 원유 흐름 계속"...추적 업체는 확인 못해</b>
-<blockquote>미국 정부가 호르무즈 해협을 통과하는 원유 물량이 계속 유지되고 있다고 주장했으나, 선박 및 원유 추적 업체들은 이를 확인하지 못하고 있다. 이란의 해협 봉쇄 위협과 실제 물동량 간 괴리가 커지고 있다.
-<a href="https://www.wsj.com/business/energy-oil/u-s-says-oil-is-pouring-through-hormuz-trackers-cant-find-it-306faebd">[WSJ]</a></blockquote>
+<b>12. 캐나다 보복관세, 미 중간선거 격전지 겨냥...철강·식품·오토바이 포함</b>
+<blockquote>캐나다의 보복 관세 대상 품목은 11월 중간선거 격전 주(州) 산업을 겨냥해 선정됐다. 철강·알루미늄·식품·모터사이클 등에 15~50% 세율이 부과되며, 캐나다 기업의 시장 점유율 방어가 목적이다.
+<a href="https://www.wsj.com/world/americas/canada-targets-u-s-metals-foods-motorcycles-in-retaliatory-tariff-package-f677222b">[WSJ]</a></blockquote>
 
-<b>13. 원유 가격 하락...美 對이란 제재 발표에도 낙폭 지속</b>
-<blockquote>미국의 對이란 제재 강화 발표에도 불구하고 원유 선물 가격이 하락했다. 시장은 이란의 우회 수출 지속 가능성과 제재 실효성에 의문을 제기하고 있다.
-<a href="https://www.wsj.com/finance/commodities-futures/oil-falls-on-possible-position-adjustments-before-potential-u-s-sanctions-on-iran-6d0d22c3">[WSJ]</a></blockquote>
+<b>13. 미-캐나다 무역전쟁, 미국 경제 타격 불가피...중간선거 변수</b>
+<blockquote>캐나다의 보복 관세가 미국 경제에 미칠 영향이 가시화되고 있다. 철강과 알루미늄 등 대형 산업뿐 아니라 중간선거 격전 주(州)의 소규모 산업까지 타격이 예상된다.
+<a href="https://www.wsj.com/world/americas/canada-tariffs-us-economy-impact-ef702321">[WSJ]</a></blockquote>
 
-<b>14. 에너지 섹터 동향...英 에너지 가격 상한제·원유 선물 관찰</b>
-<blockquote>영국의 에너지 가격 상한제 조정 논의와 원유 선물 가격 변동이 시장의 주목을 받고 있다. 중동 지정학 리스크와 對이란 제재 강화가 에너지 시장 변동성을 키우고 있다.
-<a href="https://www.wsj.com/business/energy-utilities-roundup-market-talk-276b187f">[WSJ]</a></blockquote>
+<b>14. 트럼프, 온타리오호를 '아메리카호'로 개명 검토...캐나다 갈등 고조</b>
+<blockquote>트럼프 대통령이 소셜미디어를 통해 온타리오호(Lake Ontario) 명칭을 '아메리카호'로 변경하는 방안을 "진지하게 고려 중"이라고 밝혔다. 미·캐나다 무역 분쟁이 감정적 충돌로 번지고 있다.
+<a href="https://www.wsj.com/world/americas/trump-threatens-to-rename-lake-ontario-as-spat-with-canada-escalates-64a8b1b0">[WSJ]</a></blockquote>
 
-<b>15. AI 투자 부채 우려에 나스닥 하락...지정학 리스크도 부담</b>
-<blockquote>AI 붐에 따른 투자 부채 부담 우려로 반도체 및 테크 주식이 약세를 보이며 나스닥 지수가 하락했다. 對캐나다 무역전쟁과 對이란 제재 강화 등 지정학적 불확실성도 투자 심리를 압박했다.
-<a href="https://www.wsj.com/finance/investing/ai-jitters-and-geopolitical-threats-mark-start-of-busy-week-in-markets-a192c22a">[WSJ]</a></blockquote>
+<b>15. FT "미국 관료들, 트럼프의 캐나다 공격에 당혹"...동맹 관계 훼손 우려</b>
+<blockquote>미국 행정부 관료들이 트럼프 대통령의 캐나다에 대한 공격적 발언과 조치에 "당혹스럽다(embarrassing)"는 반응을 보이고 있다. 장기 동맹국 간 무역전쟁이 모욕과 비난으로 격화되고 있다는 지적이다.
+<a href="https://www.ft.com/content/3b7ac1fe-4761-4b4a-8fff-95c8c28566b9">[FT]</a></blockquote>
 
-<b>16. 美 증시 혼조 마감...유가 하락 vs AI 부채 우려</b>
-<blockquote>미국 증시가 혼조세로 마감했다. 원유 가격 하락이 긍정적 요인으로 작용했으나, AI 관련 투자 부채 증가 우려가 테크 주식을 압박하며 나스닥은 하락했다.
-<a href="https://www.wsj.com/finance/stocks/u-s-stocks-mixed-on-artificial-intelligence-jitters-fb7a3260">[WSJ]</a></blockquote>
+<b>16. Economist "Mark Carney, 전면 무역전쟁 경계해야"...비례적 대응 평가</b>
+<blockquote>캐나다의 최신 보복 관세는 비례적 수준이지만 상황이 전면전으로 확대될 위험이 있다고 Economist가 경고했다. Mark Carney 총리의 대응 전략이 시험대에 올랐다.
+<a href="https://www.economist.com/leaders/2026/08/25/mark-carney-must-beware-an-all-out-trade-war">[Economist]</a></blockquote>
 
-<b>17. Bessent 국채 개입·유가 하락에 美 국채 수익률 낮아져</b>
-<blockquote>Scott Bessent 재무장관의 추가 국채시장 개입 가능성 시사와 원유 가격 하락으로 미국 국채 수익률이 하락했다. 시장은 재무부가 장기채 수익률 안정화에 나설 것으로 기대하고 있다.
-<a href="https://www.wsj.com/finance/investing/global-bond-yields-fall-on-declining-oil-prospects-of-further-treasury-steps-to-tackle-recent-highs-d3794894">[WSJ]</a></blockquote>
+<b>17. FT "트럼프, 채권시장 폭격"...자국 경제에 전쟁 선포</b>
+<blockquote>Financial Times가 트럼프 행정부의 정책을 "채권시장 폭격(bombing the bond market)"으로 규정하며, 대통령이 자국 경제를 상대로 전쟁을 벌이고 있다고 분석했다.
+<a href="https://www.ft.com/content/bc1bb7db-12e6-475a-bb65-c29baabe070c">[FT]</a></blockquote>
 
-<b>18. Bessent의 국채 개입, 장기 시장 불안 해소 미흡...밴드에이드 수준</b>
-<blockquote>Scott Bessent 재무장관의 엔화 및 장기 국채 개입 조치가 단기 시장 안정에 그쳤다는 분석이 나왔다. 미국 채권시장의 구조적 불안을 해소하기엔 역부족이라는 지적이다.
-<a href="https://www.ft.com/content/d6c9e705-ef30-4896-880b-8e88941e0f58">[FT]</a></blockquote>
+<b>18. 미국 채무 위기 심화...단기 재무부 조치로는 전환 불가능</b>
+<blockquote>미국의 부채 증가세가 통제 불능 수준에 근접하고 있다. 단기적 재무부 조치나 경제 성장 기대만으로는 추세 전환이 어렵고, 근본적 개혁이 필요하다는 목소리가 커지고 있다.
+<a href="https://www.wsj.com/opinion/americas-spiraling-debt-crisis-e95dc05a">[WSJ]</a></blockquote>
 
-<b>19. 자산가격 주도 인플레이션 지속...금리 정책 효과 제한적</b>
-<blockquote>미국에서 자산가격 상승이 인플레이션을 주도하면서 연준의 금리 정책 효과가 제한적이라는 분석이 나왔다. 부의 분배 구조 변화로 전통적인 통화정책 수단이 과거보다 덜 효과적이라는 지적이다.
-<a href="https://www.ft.com/content/7a9f5756-bf18-4a42-80d1-653c955447aa">[FT]</a></blockquote>
+<b>19. 미 재정 소진 가속...베센트 "남의 돈 이미 바닥"</b>
+<blockquote>Scott Bessent 재무장관이 미국이 "이미 남의 돈을 다 써버렸다"며 재정 여력 고갈을 경고했다. 젊은 세대를 향한 사회주의 정책 확대가 불가능하다는 현실을 지적한 발언이다.
+<a href="https://www.wsj.com/opinion/the-socialism-we-already-have-1328767f">[WSJ]</a></blockquote>
 
-<b>20. 영국 Burnham 총리, 재정난 인정...조기 총선은 배제</b>
-<blockquote>Andy Burnham 영국 총리가 재정 전망이 '어렵다'고 인정하며 10월 예산안에서 증세 가능성을 배제하지 않았다. 다만 조기 총선 가능성은 일축했다.
-<a href="https://www.ft.com/content/b0b233bd-882b-43a9-b55f-e2cf33ec09b7">[FT]</a></blockquote>
+<b>20. FT "미국 부채 위기, 점진적 악화(drip-drip) 지속"...재정건전성 회복 불투명</b>
+<blockquote>미국의 재정적자와 부채 상환 비용이 증가하고 있지만, 더 이상 재정 건전성 회복 압력으로 작용하지 못하고 있다. 위기가 서서히 악화되는 '점적(drip-drip)' 양상이 지속되고 있다.
+<a href="https://www.ft.com/content/7588a11f-ff57-4c1a-b4cf-2a55a6d8c6b2">[FT]</a></blockquote>
 
-<b>21. 영국 Burnham 정부, 공공주택 건설 계획 수정...주택협회 의존</b>
-<blockquote>Andy Burnham 영국 총리가 Keir Starmer 전 총리 시절 수립된 공공주택 건설 계획을 수정했다. 정부 주도 건설 대신 주택협회에 의존하는 방식으로 전환하며 재정 부담을 완화하려는 것으로 보인다.
-<a href="https://www.ft.com/content/ab1a870c-4b98-46c0-a2ad-5d149defeb0f">[FT]</a></blockquote>
+<b>21. 미 국채 수익률 6월 이후 최대 폭 하락...경기 둔화 신호</b>
+<blockquote>미국 벤치마크 국채 수익률이 6월 이후 최대 폭으로 하락했다. 유가 하락과 부진한 경제 지표가 인플레 우려를 누그러뜨리며 채권 매수세를 자극했다.
+<a href="https://www.wsj.com/finance/stocks/tech-stocks-lead-major-indexes-higher-6291aac9">[WSJ]</a></blockquote>
 
-<b>22. 영국 Starmer 정부, EU와 청년 이동 협상 검토했었다</b>
-<blockquote>Keir Starmer 전 영국 총리 집권 말기 영국 정부가 EU와 매년 10만 명의 청년 이동을 허용하는 협상안을 검토했던 것으로 드러났다. 현 Burnham 정부는 이 계획을 재검토 중이다.
-<a href="https://www.ft.com/content/552b8fca-6dad-4b41-a0be-54d2cd70e3cb">[FT]</a></blockquote>
+<b>22. 유가·인플레 우려 후퇴, 미 국채 강세...안전자산 수요 확대</b>
+<blockquote>유가가 연이틀 하락하고 경제 지표가 예상보다 부진하면서 인플레 압력 완화 기대가 확산됐다. 국채 시장으로 자금이 유입되며 수익률 하락이 지속되고 있다.
+<a href="https://www.wsj.com/finance/stocks/u-s-stocks-rise-as-oil-inflation-fears-retreat-502d4d57">[WSJ]</a></blockquote>
 
-<b>23. 프랑스, 대기업 법인세 할증 연장 가능성...재정난 반영</b>
-<blockquote>Roland Lescure 프랑스 재무장관이 대기업 대상 법인세 할증을 폐지하기 '어려울 것'이라고 경고했다. 재정 적자 축소 압박 속에 기업에 대한 세수 의존이 이어질 전망이다.
-<a href="https://www.ft.com/content/91b3e407-daca-40b3-8572-47cf3de9dd1a">[FT]</a></blockquote>
+<b>23. 시장 반응 제한적...베센트의 '경제 D-Day' 영향 국한</b>
+<blockquote>Scott Bessent의 대이란 '경제 D-Day' 선언에도 불구하고 미국 증시는 제한적 상승에 그쳤다. 테크주 중심의 상승세로 Nasdaq이 주요 지수를 견인했다.
+<a href="https://www.wsj.com/finance/stocks/u-s-futures-higher-yields-steady-after-bessent-iran-speech-573e9dd6">[WSJ]</a></blockquote>
 
-<b>24. Burnham 영국 총리, 키이우 방문해 러 위협 비난</b>
-<blockquote>Andy Burnham 영국 총리가 우크라이나 키이우를 방문해 러시아의 영국에 대한 '터무니없는 위협'을 비난했다. 우크라이나에 대한 장거리 미사일 지원을 약속하며 러시아 견제 의지를 분명히 했다.
-<a href="https://www.ft.com/content/4e3c99fe-1a8d-4fb2-b99a-da1c1da4db8e">[FT]</a></blockquote>
+<b>24. 연준 금리 판단 혼란...상반된 경제 신호에 정책 방향 불투명</b>
+<blockquote>연준이 금리 인상 여부를 판단하기 어려운 상황에 직면했다. 인플레이션, 경제 성장, 고용 지표가 엇갈린 신호를 보내면서 어느 쪽으로든 명확한 근거를 찾기 힘든 상황이다.
+<a href="https://www.wsj.com/opinion/should-the-fed-raise-rates-thats-clear-as-mud-90abb9b7">[WSJ]</a></blockquote>
 
-<b>25. 영국, 우크라이나에 기밀 미사일 기술 공유...AI 훈련 데이터 제공</b>
-<blockquote>영국이 우크라이나와 기밀 미사일 기술을 공유하기로 했다. 우크라이나 전장 이미지 데이터를 활용해 러시아 표적을 식별하고 타격하는 AI 모델 훈련을 지원할 계획이다.
-<a href="https://www.ft.com/content/063dbdd2-fb5a-4ece-9152-74e791e4835c">[FT]</a></blockquote>
+<b>25. 잭슨홀 심포지엄, 연준-재무부 협력 공식화 전망...스테이블코인 주제</b>
+<blockquote>올해 잭슨홀 심포지엄은 스테이블코인을 주제로 다루며, 연준과 재무부의 협력 체계를 더욱 공식화할 것으로 예상된다. 스테이블코인이 단기 국채 수요를 뒷받침할 것으로 기대되고 있다.
+<a href="https://www.ft.com/content/2a5ddf7f-ca14-4073-af2b-eaf79ffbabe8">[FT]</a></blockquote>
 
-<b>26. 우크라이나, 러시아 2위 온라인 쇼핑몰 Ozon 공격</b>
-<blockquote>우크라이나가 드론으로 러시아 2위 전자상거래 업체 Ozon의 물류창고를 타격했다. 최대 업체 Wildberries에 이은 공격으로 러시아 민간 경제 인프라를 겨냥한 전략이 이어지고 있다.
-<a href="https://www.ft.com/content/353032d0-4031-40fe-83ab-958d473401f0">[FT]</a></blockquote>
+<b>26. TIPS 매수 기회?...인플레 방어 채권 가격 매력 부각</b>
+<blockquote>물가연동국채(TIPS) 투자자들이 최근 가격 조정을 매수 기회로 보고 있다. 장기 인플레 헤지 수단으로서의 TIPS 가치가 재평가되고 있다.
+<a href="https://www.wsj.com/finance/investing/are-inflation-fighting-bonds-on-sale-376ad05a">[WSJ]</a></blockquote>
 
-<b>27. 美, 對한국 해병대 훈련 취소...중동 전선 우선 배치</b>
-<blockquote>미국이 한국과의 해병대 훈련을 취소했다. 중동 전선에 대한 군사적 요구가 증가하면서 아시아 지역 훈련 일정이 조정되고 있다.
-<a href="https://www.wsj.com/world/asia/u-s-cancels-marines-drills-with-south-korea-b592bbb7">[WSJ]</a></blockquote>
+<b>27. 미 소비심리 8월 악화...향후 경기·고용 전망 비관 확산</b>
+<blockquote>컨퍼런스보드 소비자신뢰지수가 8월 89.4로 전월 90.2에서 하락했다. 향후 기업 환경과 고용시장 전망이 더욱 비관적으로 변했다.
+<a href="https://www.wsj.com/economy/central-banking/u-s-consumer-sentiment-fell-in-august-conference-board-says-9453f12c">[WSJ]</a></blockquote>
 
-<b>28. 영국, 이란 연계 사이버 공격 후 공급망 보안 강화</b>
-<blockquote>영국 정부가 이란 연계 사이버 공격 이후 공급망 보안을 강화하고 있다. 에너지 기업들의 중국 공급망 의존도에 대한 잠재적 거부권 행사가 검토되고 있어 업계에 부담이 될 전망이다.
-<a href="https://www.ft.com/content/3d46e4cb-4dee-4f49-adc1-0bb0f63d4c49">[FT]</a></blockquote>
+<b>28. 미 주택가격 상승률 6월 둔화...연간 1.5% 상승</b>
+<blockquote>S&P CoreLogic Case-Shiller 전국 주택가격지수가 6월 전년 대비 1.5% 상승했다. 5월 1.2% 상승에서 소폭 증가했지만, 상승세 둔화 추세는 지속되고 있다.
+<a href="https://www.wsj.com/economy/housing/u-s-home-price-growth-rose-in-june-b0c2a451">[WSJ]</a></blockquote>
 
-<b>29. 대만, 對중 AI 서버 밀수 혐의로 9명 기소</b>
-<blockquote>대만 당국이 중국으로 AI 서버를 밀수출한 혐의로 9명을 기소했다. 미국의 對중 수출 통제 강화로 중국 기업들이 Nvidia 칩을 우회 경로로 확보하려는 시도가 이어지고 있다.
-<a href="https://www.wsj.com/tech/taiwan-charges-nine-in-connection-with-smuggling-of-ai-servers-to-china-d1f72f47">[WSJ]</a></blockquote>
+<b>29. 캐나다 도매 판매 7월 0.6% 감소 예상...3분기 경기 둔화 신호</b>
+<blockquote>캐나다 통계청의 조기 집계에 따르면 7월 도매 판매가 전월 대비 0.6% 감소한 것으로 추정된다. 제조업 거래도 소폭 감소가 예상되며, 3분기 초반 경제 연착륙 신호로 해석된다.
+<a href="https://www.wsj.com/economy/canada-wholesale-sales-estimated-to-have-fallen-0-6-in-july-89466837">[WSJ]</a></blockquote>
 
-<b>30. 중국 XPeng, AI 투자 확대로 순손실 증가</b>
-<blockquote>중국 전기차 업체 XPeng의 2분기 순손실이 확대됐다. 견조한 마진에도 불구하고 신모델 및 AI 기술 투자 부담이 실적을 압박했다.
-<a href="https://www.wsj.com/business/earnings/xpeng-net-loss-widens-amid-physical-ai-push-e44b31f1">[WSJ]</a></blockquote>
+<b>30. 트럼프, 제조업 부활 공약 평가 엇갈려...Economist 분석</b>
+<blockquote>트럼프 대통령이 공약한 제조업 일자리 복원 성과에 대한 평가가 엇갈리고 있다. Economist가 대통령의 제조업 부활 공약 이행도를 분석했다.
+<a href="https://www.economist.com/united-states/2026/08/25/does-donald-trump-deserve-credit-for-a-manufacturing-revival">[Economist]</a></blockquote>
 
-<b>31. Temu 모회사 PDD 실적 부진...매출 기대치 밑돌아</b>
-<blockquote>Temu를 운영하는 중국 PDD의 2분기 실적이 기대치를 밑돌았다. 중국 내 경쟁 심화와 규제 압박이 수익성을 압박했다.
-<a href="https://www.wsj.com/business/earnings/temu-owners-profit-falls-but-beats-expectations-252da626">[WSJ]</a></blockquote>
+<b>31. 세계 무역 6월 급증...AI 투자 붐 효과</b>
+<blockquote>세계 무역 흐름이 6월 급증하며 회복세를 이어갔다. 인공지능 관련 투자 붐이 글로벌 교역 증가를 견인한 것으로 분석된다.
+<a href="https://www.wsj.com/economy/global/world-trade-flows-continue-recovery-in-june-88e06ec5">[WSJ]</a></blockquote>
 
-<b>32. Shein, IPO 가치 75% 급락...홍콩 상장 추진</b>
-<blockquote>중국 패스트패션 업체 Shein이 홍콩 증시 상장을 추진하며 기업가치가 최고점 대비 75% 급락한 것으로 나타났다. 한때 1000억 달러로 평가받던 기업의 몰락이 극명하게 드러났다.
-<a href="https://www.ft.com/content/5c8aaa6d-5170-4688-beeb-f1319e5ff29e">[FT]</a></blockquote>
+<b>32. 독일 경제 2022년 이후 최강 성장...GDP 전망 상향</b>
+<blockquote>독일 경제가 2022년 이후 가장 강력한 성장세를 보이고 있다. 2분기 성장률이 예상을 상회하고 Ifo 기업심리지수도 견조하게 나오면서 이코노미스트들이 GDP 전망을 상향 조정했다.
+<a href="https://www.ft.com/content/6b396499-d71d-4e8f-b2a4-66318b1d9426">[FT]</a></blockquote>
 
-<b>33. 우크라이나·러시아 곡물 수출 동시 위협...공급망 리스크 재부상</b>
-<blockquote>2022년과 달리 우크라이나와 러시아 양국의 곡물 수출이 동시에 위협받고 있다. 전쟁 장기화와 인프라 공격으로 글로벌 곡물 공급망 불안이 재점화되고 있다.
-<a href="https://www.economist.com/europe/2026/08/24/the-renewed-threat-to-global-grain-supplies">[Economist]</a></blockquote>
+<b>33. IMF "AI가 글로벌 성장 견인"...에너지 위기 극복 전망</b>
+<blockquote>Kristalina Georgieva IMF 총재는 AI 투자가 미국을 넘어 전 세계로 확산되면서 글로벌 성장을 견인할 것으로 전망했다. 이란 전쟁으로 촉발된 에너지 위기도 세계 경제가 극복할 수 있을 것이라고 평가했다.
+<a href="https://www.ft.com/content/6a76e78b-c493-409a-8694-6fa4ba9a674e">[FT]</a></blockquote>
 
-<b>34. 美, 對중 조선 경쟁 위해 원자력 상선 계획 추진</b>
-<blockquote>미국이 중국의 조선 산업 지배력에 대응하기 위해 원자력 추진 상선 건조 계획을 추진 중이다. 영국 기업 Core Power와 파트너십을 맺고 2028년 첫 선박 건조를 목표로 하고 있다.
-<a href="https://www.ft.com/content/bb60f5f1-bf4c-439e-b78b-3b018062c400">[FT]</a></blockquote>
+<b>34. CIA 국장 John Ratcliffe, 모스크바 전격 방문...4시간 체류</b>
+<blockquote>John Ratcliffe CIA 국장이 러시아 모스크바를 전격 방문해 약 4시간 체류 후 출국했다. CIA는 방문 목적에 대해 논평을 거부했으며, 이는 그의 첫 공개 확인된 러시아 방문이다.
+<a href="https://www.wsj.com/world/cia-director-john-ratcliffe-makes-surprise-trip-to-moscow-c1c68fa6">[WSJ]</a></blockquote>
 
-<b>35. 유럽 증시 반등...테크주 낙폭 축소</b>
-<blockquote>유럽 증시가 오후 들어 상승 전환했다. 장 초반 약세를 보였던 테크 주식들이 낙폭을 줄이며 지수 회복을 이끌었다.
-<a href="https://www.wsj.com/finance/stocks/nikkei-edges-0-3-higher-tracking-wall-streets-gains-7da05fa9">[WSJ]</a></blockquote>
+<b>35. 러시아, 신규 동원령 준비 테스트...2022년 이후 첫 대규모 징집 가능성</b>
+<blockquote>러시아군이 최근 대규모 신병 흡수 역량을 점검하는 훈련을 실시했다. 크렘린이 2022년 이후 처음으로 대규모 동원령을 발동할 경우를 대비한 준비 작업으로 풀이된다.
+<a href="https://www.wsj.com/world/russia/russia-tests-readiness-for-new-round-of-military-mobilization-87d61b96">[WSJ]</a></blockquote>
 
-<b>36. 美 천연가스 선물 상승...무더위 수요 기대</b>
-<blockquote>미국 천연가스 선물 가격이 소폭 상승했다. 향후 수 주간 무더위가 이어지며 전력 부문 수요가 증가할 것이라는 기대가 반영됐다.
-<a href="https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-start-week-with-gains-2e71e11b">[WSJ]</a></blockquote>
+<b>36. Economist "트럼프, 대통령직 흔들리며 더 위험해져"...레임덕 대신 공격적 태세</b>
+<blockquote>트럼프 대통령이 레임덕에 빠지는 대신 더욱 공격적인 태도로 대응하고 있어 위험성이 커지고 있다고 Economist가 진단했다. 노쇠한 우두머리 고릴라가 지배력을 방어하듯 행동하고 있다는 비유를 사용했다.
+<a href="https://www.economist.com/international/2026/08/25/as-his-presidency-flounders-donald-trump-is-more-dangerous-than-ever">[Economist]</a></blockquote>
+
+<b>37. SEC, 헤지펀드 Situational Awareness 거의 붕괴 조사...AI 레버리지 과다</b>
+<blockquote>증권거래위원회(SEC)가 AI 중심 투자로 거의 붕괴 직전까지 간 헤지펀드 Situational Awareness의 자금 조달 은행들로부터 정보를 확보했다. 과도한 레버리지를 통한 AI 베팅이 조사 대상이다.
+<a href="https://www.wsj.com/finance/regulation/regulators-probing-near-collapse-of-hedge-fund-situational-awareness-dbf5dfc6">[WSJ]</a></blockquote>
+
+<b>38. 컨테이너 운송 일시 회복...해상 혼란·육상 병목 효과</b>
+<blockquote>해상 운송 차질과 육상 물류 병목 현상이 컨테이너 운임을 끌어올리며 해운업계에 일시적 호황을 가져다주고 있다. 무역 혼란이 운임 상승 요인으로 작용하고 있다.
+<a href="https://www.ft.com/content/8f106270-037a-45e7-a3f0-fd1e4d884205">[FT]</a></blockquote>
+
+<b>39. 유럽 이상기후로 여름 작황 타격...수확량 감소·작물 실패 확산</b>
+<blockquote>유럽연합(EU)이 극심한 이상기후로 올 여름 작황이 광범위한 피해를 입었다고 발표했다. 수확량이 소폭 감소한 지역부터 작물 실패가 예상되는 심각한 피해 지역까지 영향이 다양하다.
+<a href="https://www.wsj.com/world/europe/extreme-weather-is-hammering-europes-summer-harvest-eu-says-c607fef0">[WSJ]</a></blockquote>
+
+<b>40. SpaceX, 루이지애나에 1000억불 투자...두 번째 우주기지 건설</b>
+<blockquote>Elon Musk의 SpaceX가 루이지애나주에 1000억불 규모 투자를 확정하고 두 번째 발사 단지를 건설한다. 더 많은 Starship 발사를 지원하기 위한 확장 계획이다.
+<a href="https://www.ft.com/content/0c59f1d7-2197-406b-ba9b-6592c12bcb3d">[FT]</a></blockquote>
+
+<b>41. Anthropic, 잠재 매출 30조불 전망...SpaceX 넘어서</b>
+<blockquote>AI 스타트업 Anthropic이 투자자들에게 잠재 매출 규모가 30조불을 넘을 것으로 전망한 것으로 전해졌다. SpaceX의 잠재 매출 추정치를 상회하는 수치다.
+<a href="https://www.wsj.com/tech/ai/anthropic-expected-to-tell-investors-it-sees-over-30-trillion-in-potential-revenue-a611efea">[WSJ]</a></blockquote>
+
+<b>42. 트럼프 Jr 관련 스타트업, 정부 계약 수주 후 공화당 기부</b>
+<blockquote>Donald Trump Jr의 투자회사와 연결된 기업들이 유리한 정부 계약을 따낸 뒤 공화당에 정치 기부를 한 것으로 드러났다. 이해충돌 의혹이 제기되고 있다.
+<a href="https://www.ft.com/content/7a889a33-1af5-4704-a57f-7890d169d94e">[FT]</a></blockquote>
+
+<b>43. 캐나다 Bank of Montreal, 강한 분기 실적 후 자사주 매입 계획</b>
+<blockquote>캐나다 Bank of Montreal이 3분기 두 자릿수 매출 성장과 개선된 신용 성과에 힘입어 자사주 매입 계획을 발표했다. 일회성 비용이 순익을 압박했지만 대손충당금은 10개 분기 중 최저 수준이었다.
+<a href="https://www.wsj.com/finance/banking/bank-of-montreal-plans-to-buy-back-shares-after-earnings-hit-by-charge-f5979a80">[WSJ]</a></blockquote>
 
 ━━━━━━━━━━━━━━━━━━━━
 📡 <b>출처: WSJ · FT · The Economist</b>
