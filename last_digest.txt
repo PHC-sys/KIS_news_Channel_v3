@@ -4,105 +4,37 @@
 
 ✅ <b>간밤의 주요 헤드라인</b>
 
-<b>1. Kevin Warsh, Jackson Hole 연설서 매파 기조 천명...9월 금리인상 베팅 급등</b>
-<blockquote>연준 의장 Warsh는 Jackson Hole 연설에서 "기저 인플레이션이 목표로 향한다는 확신이 필요하다"며 통화긴축이 완료되지 않았음을 시사했다. 시장은 9월 금리인상 가능성을 상향 조정했으며, 2년물 국채수익률이 급등했다.
-<a href="https://www.wsj.com/economy/central-banking/warsh-says-the-fed-may-not-be-done-fighting-inflation-c60a0b51">[WSJ]</a></blockquote>
+<b>1. Warsh, Jackson Hole서 매파 전환 시사...9월 금리 인상 가능성</b>
+<blockquote>Kevin Warsh 연준 의장이 Jackson Hole 연례 심포지엄에서 선제적(forward-looking) 통화정책 접근을 천명했다. 시장에서는 9월 금리 인상 가능성이 제기되며, 중간선거를 앞두고 금리 인하를 요구해온 Trump 대통령과의 정면충돌이 불가피할 전망이다.
+<a href="https://www.ft.com/content/4319c6b7-5a25-41a7-836f-ca068ac4fe60">[FT]</a></blockquote>
 
-<b>2. 단기채 중심 수익률 급등...베어스티프닝 곡선 형성</b>
-<blockquote>Warsh 발언 직후 미국 2년물 국채수익률이 급등하며 단기채 중심 매도세가 강화됐다. 장기채 수익률은 상대적으로 안정세를 유지하며 수익률곡선 스티프닝 양상이 나타났다.
-<a href="https://www.wsj.com/finance/investing/global-bond-yields-rise-ahead-of-feds-warsh-speech-10-year-bund-yield-hits-15-year-high-c7ac0da3">[WSJ]</a></blockquote>
+<b>2. 연준, 중간선거 앞두고 Trump와 충돌 국면...Warsh 금리 인상 시사</b>
+<blockquote>Warsh 의장의 Jackson Hole 발언이 Trump 행정부가 요구해온 금리 인하 기조와 정면으로 배치되면서 중간선거를 앞둔 시점에 정치적 긴장이 고조되고 있다. 연준은 인플레이션 우려를 근거로 차입 비용 인상 가능성을 열어뒀다.
+<a href="https://www.ft.com/content/69452aea-cee0-47de-be8a-dc790fed3db1">[FT]</a></blockquote>
 
-<b>3. 월가, Warsh 연설 긍정 평가...정상적 중앙은행 커뮤니케이션 복귀</b>
-<blockquote>FT는 Warsh가 Jackson Hole 연설에서 경제 상황과 정책 방향을 명확히 제시하며 시장이 원하던 소통 방식을 보여줬다고 평가했다. 다만 향후 정책 반응 함수에 대한 불확실성은 여전히 남아있다.
-<a href="https://www.ft.com/content/0d135ccd-f8cf-4178-a7d8-0a0dfbb705e8">[FT]</a></blockquote>
+<b>3. Trump, 베네수엘라 석유 650억 배럴 통제 발표...휘발유 가격 인하 목표</b>
+<blockquote>Trump 대통령이 미국과 베네수엘라 합작 사업을 통해 650억 배럴 규모의 베네수엘라 원유를 통제하게 될 것이라고 밝혔다. 미국 휘발유 가격 인하가 목표지만, 양국 정치권 모두에서 반발이 나오고 있다.
+<a href="https://www.ft.com/content/2f88581f-4fbc-46a2-8127-830bb630c2f2">[FT]</a></blockquote>
 
-<b>4. Warsh 연설, 인플레 개선 미흡 지적...긴축 지속 의지 드러내</b>
-<blockquote>Warsh 의장은 연설에서 인플레이션이 '의미 있게 개선되지 않았다'며 우려를 표명했다. 연준이 금리 동결 또는 인하로 전환하기 전에 인플레 목표 달성 확신을 얻어야 한다는 입장을 재확인했다.
-<a href="https://www.ft.com/content/69b00e4b-e558-4534-8c78-ed145413cec2">[FT]</a></blockquote>
+<b>4. 미-베네수엘라 석유 협정, 양국 정치권 반발...야당은 위법성 지적</b>
+<blockquote>베네수엘라 야권은 Trump 행정부와의 석유 협정이 잠재적으로 불법일 수 있다고 주장했고, 베네수엘라 정부 내 강경파는 이를 배신 행위로 규정했다. 양측 모두에서 정치적 비난이 쏟아지고 있다.
+<a href="https://www.ft.com/content/b3c98ca2-fe67-459d-89ff-4728993110b7">[FT]</a></blockquote>
 
-<b>5. 미 주식시장 하락 마감...금리인상 우려 반영</b>
-<blockquote>S&P500 지수와 나스닥은 Warsh 발언 이후 약세로 전환했다. 투자자들은 추가 금리인상 가능성이 기업 실적과 밸류에이션에 부담을 줄 것으로 우려하며 매도세를 이어갔다.
-<a href="https://www.wsj.com/finance/investing/u-s-stocks-fall-after-warsh-speech-boosts-bond-yields-c96bb5da">[WSJ]</a></blockquote>
+<b>5. 브라질 우파 거점, Trump 관세로 타격...대선 판도 영향</b>
+<blockquote>미국의 기계류 관세 부과로 브라질 우파 정치 거점 지역이 경제적 타격을 입으면서, 대통령 선거에서 보수 후보에 대한 지지도가 약화되고 있다. Trump 행정부의 무역정책이 역설적으로 브라질 우파 세력을 약화시키는 결과를 낳고 있다.
+<a href="https://www.wsj.com/world/americas/this-right-wing-stronghold-in-brazil-is-getting-pummeled-by-trumps-tariffs-059aa7db">[WSJ]</a></blockquote>
 
-<b>6. 연준 긴축 신호에 주식·채권 동반 약세...리스크자산 전면 타격</b>
-<blockquote>Warsh 연설 이후 주식과 채권이 동시에 하락하며 전형적인 긴축 쇼크 양상이 연출됐다. 단기 국채수익률 상승과 함께 주식 밸류에이션 압박이 강화되며 투자자들은 안전자산 선호를 확대했다.
-<a href="https://www.wsj.com/finance/investing/u-s-stock-futures-mixed-ahead-of-fed-chair-warshs-jackson-hole-debut-5c045a6d">[WSJ]</a></blockquote>
+<b>6. Nvidia, 중국에 로봇용 Physical AI 공급...미 규제 허점 노출</b>
+<blockquote>Nvidia가 로봇과 'Physical AI' 사업에서 중국 기업들을 주요 고객으로 확보하고 있다. 현행 미국 수출 규제가 이 분야를 제대로 포괄하지 못하면서 미중 기술 전쟁의 새로운 허점으로 지목되고 있다.
+<a href="https://www.wsj.com/tech/ai/nvidia-wants-to-run-the-worlds-robots-china-is-an-eager-customer-bdf46169">[WSJ]</a></blockquote>
 
-<b>7. FT, Warsh 매파 발언에도 경기 판단·정책경로 불확실성 지적</b>
-<blockquote>FT는 Warsh가 인플레 우려를 표명했으나, 향후 경제지표에 따라 정책 방향이 어떻게 조정될지에 대한 구체적 기준은 여전히 불명확하다고 분석했다. 시장은 추가 발언과 경제지표를 주시할 전망이다.
-<a href="https://www.ft.com/content/646b812e-c9de-49ba-90f3-f9d12205f876">[FT]</a></blockquote>
+<b>7. 러시아, 키예프 인근 탄약고 타격...최소 37명 사망</b>
+<blockquote>러시아군이 키예프 인근 우크라이나 탄약 저장소를 공격해 최소 37명이 사망했다. 목요일 이후 제트 추진 드론을 이용한 장시간 공습이 27회 경보를 발령시키며 전쟁 중 가장 긴 공격 중 하나로 기록됐다.
+<a href="https://www.ft.com/content/40eaeba7-9514-4e6b-9bd3-4a9381618c84">[FT]</a></blockquote>
 
-<b>8. 시장, 9월 FOMC 금리인상 확률 급등...단기 금리 선물 반영</b>
-<blockquote>Warsh 연설 이후 단기 금리 선물 시장에서 9월 FOMC 회의 금리인상 확률이 급등했다. 투자자들은 연준이 인플레 목표 달성을 위해 조기 긴축 재개 가능성을 반영하기 시작했다.
-<a href="https://www.ft.com/content/d15851dc-9177-4bfe-9039-8d9994a2e4b3">[FT]</a></blockquote>
-
-<b>9. Economist, Warsh의 정상 중앙은행 노선 복귀 평가...시장 환영</b>
-<blockquote>이코노미스트는 Warsh가 Jackson Hole에서 전통적 중앙은행 커뮤니케이션 방식으로 회귀하며 시장의 긍정적 반응을 이끌어냈다고 평가했다. 명확한 경제 진단과 정책 의도 표명이 투명성을 높였다는 분석이다.
-<a href="https://www.economist.com/finance-and-economics/2026/08/28/kevin-warsh-tries-being-a-normal-central-banker">[Economist]</a></blockquote>
-
-<b>10. 금리인상 베팅 후 월가 브리핑...Warsh 정책 전환 주목</b>
-<blockquote>WSJ는 Warsh 발언 이후 월가 전반에 긴축 재개 가능성이 주요 화두로 부상했다고 전했다. 금리인상 베팅 급등과 함께 재무부·연준 간 정책 긴장 관계도 재조명되고 있다.
-<a href="https://www.wsj.com/economy/warsh-speaks-and-rate-cut-odds-rise-22689ee5">[WSJ]</a></blockquote>
-
-<b>11. 미 고용 증가 수정치 하향...연착륙 시나리오 의문 제기</b>
-<blockquote>노동부는 2025년 초부터 올해 초까지 고용 증가 수정치를 하향 조정했다고 발표했다. 당초 추정보다 약한 노동시장 상황이 드러나며 경제 연착륙 가능성에 대한 의문이 제기됐다.
-<a href="https://www.wsj.com/economy/jobs/job-growth-bls-revision-5a632dc9">[WSJ]</a></blockquote>
-
-<b>12. 8월 소비자신뢰지수 하락...인플레·금리인상 우려 반영</b>
-<blockquote>미시간대 소비자신뢰지수는 8월 51.7로 7월 55.2에서 하락했다. 시장 예상치 51에 근접했으며, 금리인상 우려와 지속되는 물가 부담이 소비심리를 압박한 것으로 분석된다.
-<a href="https://www.wsj.com/economy/central-banking/consumer-sentiment-was-weaker-in-august-per-michigan-survey-24d25174">[WSJ]</a></blockquote>
-
-<b>13. WTI 주간 하락 마감...이란 제재 군사 확전보다 협상 기대</b>
-<blockquote>WTI 원유 선물은 주간 하락세로 마감했다. 미국의 이란 제재 강화가 군사 충돌보다는 협상 국면으로 이어질 것이란 시장 기대가 유가 상승을 제한했다.
-<a href="https://www.wsj.com/finance/commodities-futures/oil-edges-higher-on-fading-hopes-for-strait-of-hormuzs-reopening-7cf0d26d">[WSJ]</a></blockquote>
-
-<b>14. 미 재무부, 이란 거래 이집트 은행 제재...중동 압박 강화</b>
-<blockquote>미 재무부는 이란과 거래한 혐의로 이집트 2위 은행 Banque Misr의 UAE 지점에 제재를 부과했다. 이란 금융망 차단을 위한 미국의 압박이 핵심 중동 동맹국 은행으로까지 확대됐다.
-<a href="https://www.wsj.com/world/middle-east/a-core-egyptian-bank-gets-caught-up-in-treasurys-iran-crackdown-bb867772">[WSJ]</a></blockquote>
-
-<b>15. 재무부, 이란 관련 이집트 은행 제재...테헤란 고립 시도</b>
-<blockquote>미 재무부는 Banque Misr의 UAE 지점에 제재를 가하며 이란 금융 고립을 강화했다. 트럼프 행정부의 이란 압박 정책이 중동 금융 허브로까지 확대되고 있다.
-<a href="https://www.ft.com/content/40d1e3df-f220-4740-8c57-cf5e78890bb3">[FT]</a></blockquote>
-
-<b>16. Chevron, 베네수엘라 유전 투자 협상...미국 에너지 공급망 재편</b>
-<blockquote>Chevron과 Halliburton 등 미국 에너지 기업들이 베네수엘라 중질유 유전 투자 협상을 진행 중이다. 수십억 달러 규모 투자가 성사될 경우 미국 에너지 공급망에 변화가 예상된다.
-<a href="https://www.wsj.com/business/energy-oil/chevron-other-u-s-firms-near-deal-to-invest-billions-in-venezuelan-oil-fields-55739e38">[WSJ]</a></blockquote>
-
-<b>17. 트럼프 중간선거 리스크 부상...공화당 의회 과반 위협</b>
-<blockquote>FT는 트럼프 대통령의 낮은 지지율이 11월 중간선거에서 공화당 의회 과반 확보에 위협 요인으로 작용할 수 있다고 분석했다. 트럼프가 스스로를 선거 쟁점으로 만들며 정치 리스크가 고조되고 있다.
-<a href="https://www.ft.com/content/9be1c027-0c94-4cf6-a84f-3193a347858c">[FT]</a></blockquote>
-
-<b>18. 전 IMF 부총재, 트럼프 관세정책 '노골적 보호무역' 비판</b>
-<blockquote>전 IMF 수석 이코노미스트 Gita Gopinath는 FT 인터뷰에서 트럼프의 관세정책을 '노골적 보호무역'이라 규정하고, 달러 기축통화 지위와 글로벌 무역 질서에 대한 위협을 경고했다.
-<a href="https://www.ft.com/content/f983d0be-e58b-4e61-bd67-59e487dad9fe">[FT]</a></blockquote>
-
-<b>19. Jackson Hole, 재무부·연준 긴장 관계 재조명...정책 조율 난항</b>
-<blockquote>WSJ는 Warsh의 Jackson Hole 연설이 재무부와 연준 간 정책 긴장 관계를 다시 부각시켰다고 전했다. 트럼프 행정부의 재정정책과 연준의 통화정책 간 조율 실패 우려가 제기되고 있다.
-<a href="https://www.wsj.com/cfo-journal/jackson-hole-highlights-new-tug-of-war-for-the-treasury-and-fed-ba257a82">[WSJ]</a></blockquote>
-
-<b>20. 캐나다 2분기 GDP 3.3% 성장...관세 불확실성 속 강세</b>
-<blockquote>캐나다 2분기 GDP는 연율 3.3% 증가해 3년래 최고 성장률을 기록했다. 총 GDP는 2조5240억 캐나다달러(1조8220억 달러)에 달했으나, 미국 관세 불확실성이 향후 전망을 흐리고 있다.
-<a href="https://www.wsj.com/economy/canadas-economy-grows-3-3-in-second-quarter-37b0f512">[WSJ]</a></blockquote>
-
-<b>21. Bank of Canada, 미국 관세에 경제전망 조정 예고</b>
-<blockquote>캐나다 중앙은행은 다음 주 금리 결정을 앞두고 미국 관세 불확실성이 경제 전망에 미치는 영향을 평가 중이다. 강한 2분기 성장에도 불구하고 대미 무역 리스크가 정책 결정의 핵심 변수로 부상했다.
-<a href="https://www.wsj.com/economy/central-banking/week-ahead-for-fx-bonds-u-s-jobs-data-in-focus-bank-of-canada-decision-due-d4581c92">[WSJ]</a></blockquote>
-
-<b>22. 일본, 엔화 방어에 사상 최대 987억 달러 투입...미 재무부 협조</b>
-<blockquote>일본 정부는 최근 한 달간 엔화 방어를 위해 사상 최대 규모인 987억 달러를 시장에 투입했다고 공식 확인했다. Scott Bessent 미 재무장관의 지원 하에 진행된 역사적 규모의 공동 개입이었다.
-<a href="https://www.wsj.com/finance/currencies/japan-spent-record-98-7-billion-to-prop-up-yen-in-past-month-ddb03c64">[WSJ]</a></blockquote>
-
-<b>23. 위안화 절상 압력 고조...중국 수출 홍수에 국제 공조 필요</b>
-<blockquote>WSJ 오피니언은 중국이 저가 수출로 세계 시장을 잠식하고 있어 위안화 절상을 강제하는 국제 협약이 유일한 해법일 수 있다고 주장했다. 1985년 플라자 합의 같은 다자 통화 조정이 재논의될 가능성이 제기됐다.
-<a href="https://www.wsj.com/economy/trade/why-the-world-needs-to-force-chinas-yuan-to-revalue-2db5ff9c">[WSJ]</a></blockquote>
-
-<b>24. PayPal 주가 프리마켓 15% 급락...Advent·Stripe 인수 포기</b>
-<blockquote>PayPal 주가는 프리마켓에서 15% 급락해 주당 52.47달러를 기록했다. Advent International과 Stripe가 PayPal 인수 계획을 철회했다는 보도가 나오며 결제업계 재편 기대가 무산됐다.
-<a href="https://www.wsj.com/business/deals/paypal-shares-dive-premarket-on-report-of-advent-stripe-abandoning-takeover-plan-ffeaabf2">[WSJ]</a></blockquote>
-
-<b>25. Walmart, 미 법무부와 오피오이드 소송 5000만 달러 합의</b>
-<blockquote>Walmart는 미국인 진통제 중독을 부추겼다는 혐의로 제기된 법무부 소송을 5000만 달러에 합의했다. 유통업계의 오피오이드 위기 책임 논란이 일단락됐다.
-<a href="https://www.ft.com/content/d0a485ea-af87-4834-aa9a-3611028a7b6e">[FT]</a></blockquote>
+<b>8. Zelensky, 인구밀집지 탄약 보관 비난...안전관리 문제 지적</b>
+<blockquote>Volodymyr Zelensky 우크라이나 대통령은 민간인 거주 지역에 탄약을 보관한 것은 "절대 용납할 수 없다"고 비판했다. 러시아의 공습으로 최소 37명이 사망한 이번 사태는 우크라이나군의 탄약 관리 체계에 대한 논란을 불러일으키고 있다.
+<a href="https://www.wsj.com/world/europe/ammunition-explosion-in-ukraine-kills-at-least-37-0db28d94">[WSJ]</a></blockquote>
 
 ━━━━━━━━━━━━━━━━━━━━
 📡 <b>출처: WSJ · FT · The Economist</b>
