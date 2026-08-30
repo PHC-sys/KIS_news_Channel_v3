@@ -4,37 +4,49 @@
 
 ✅ <b>간밤의 주요 헤드라인</b>
 
-<b>1. Warsh, Jackson Hole서 매파 전환 시사...9월 금리 인상 가능성</b>
-<blockquote>Kevin Warsh 연준 의장이 Jackson Hole 연례 심포지엄에서 선제적(forward-looking) 통화정책 접근을 천명했다. 시장에서는 9월 금리 인상 가능성이 제기되며, 중간선거를 앞두고 금리 인하를 요구해온 Trump 대통령과의 정면충돌이 불가피할 전망이다.
-<a href="https://www.ft.com/content/4319c6b7-5a25-41a7-836f-ca068ac4fe60">[FT]</a></blockquote>
+<b>1. 미군, 수주 만에 처음 이란 로켓발사대 타격...호르무즈 해협 기뢰 부설 저지</b>
+<blockquote>미국 중부사령부는 호르무즈 해협의 한 섬에서 이란 로켓발사대 2기를 공습했다고 밝혔다. 해당 발사대는 기뢰가 탑재된 로켓을 발사해 주요 해상 항로를 봉쇄하려던 것으로 파악됐다. 공습 소식 이후 유가가 상승했다.
+<a href="https://www.ft.com/content/f270814f-e836-44e8-80c2-ec1034f80519">[FT]</a> <a href="https://www.wsj.com/world/middle-east/u-s-strikes-two-iranian-rocket-launchers-in-first-attack-in-weeks-17602dcf">[WSJ]</a></blockquote>
 
-<b>2. 연준, 중간선거 앞두고 Trump와 충돌 국면...Warsh 금리 인상 시사</b>
-<blockquote>Warsh 의장의 Jackson Hole 발언이 Trump 행정부가 요구해온 금리 인하 기조와 정면으로 배치되면서 중간선거를 앞둔 시점에 정치적 긴장이 고조되고 있다. 연준은 인플레이션 우려를 근거로 차입 비용 인상 가능성을 열어뒀다.
-<a href="https://www.ft.com/content/69452aea-cee0-47de-be8a-dc790fed3db1">[FT]</a></blockquote>
+<b>2. 연준 매파 스탠스, 이번 주 고용 지표가 시험대...채권 수익률 상승 지속</b>
+<blockquote>글로벌 채권 수익률 상승 국면이 이어지는 가운데, 이번 주 발표될 미국 고용 지표가 연준의 매파적 기조 유지 여부를 가늠할 핵심 변수로 떠올랐다. 시장은 고용 둔화 조짐이 나타날 경우 연준이 긴축 완화로 선회할 가능성에 주목하고 있다.
+<a href="https://www.ft.com/content/c2682d2b-c5a4-4f98-8f04-cf93883fb9b6">[FT]</a></blockquote>
 
-<b>3. Trump, 베네수엘라 석유 650억 배럴 통제 발표...휘발유 가격 인하 목표</b>
-<blockquote>Trump 대통령이 미국과 베네수엘라 합작 사업을 통해 650억 배럴 규모의 베네수엘라 원유를 통제하게 될 것이라고 밝혔다. 미국 휘발유 가격 인하가 목표지만, 양국 정치권 모두에서 반발이 나오고 있다.
-<a href="https://www.ft.com/content/2f88581f-4fbc-46a2-8127-830bb630c2f2">[FT]</a></blockquote>
+<b>3. Trump, 캐나다산 수입품에 50% 관세 부과...중소기업 직격탄 우려</b>
+<blockquote>미국이 캐나다산 제품에 50% 관세를 부과하면서 캐나다 중소 수출업체들이 심각한 타격을 받고 있다. 꿀, 화장품 등 소비재 업체들이 우선 피해를 보는 가운데, 철강 등 원자재 가격 왜곡 우려도 커지고 있다.
+<a href="https://www.wsj.com/economy/trade/canadian-small-businesses-to-bear-brunt-of-new-u-s-tariffs-7a434c08">[WSJ]</a></blockquote>
 
-<b>4. 미-베네수엘라 석유 협정, 양국 정치권 반발...야당은 위법성 지적</b>
-<blockquote>베네수엘라 야권은 Trump 행정부와의 석유 협정이 잠재적으로 불법일 수 있다고 주장했고, 베네수엘라 정부 내 강경파는 이를 배신 행위로 규정했다. 양측 모두에서 정치적 비난이 쏟아지고 있다.
-<a href="https://www.ft.com/content/b3c98ca2-fe67-459d-89ff-4728993110b7">[FT]</a></blockquote>
+<b>4. 궁지 몰린 Putin, 전쟁 확대 수순 밟아...러시아 갱스터 정치의 귀결</b>
+<blockquote>Vladimir Putin이 후퇴를 거부하며 우크라이나 전쟁을 확전하려는 계획을 본격화하고 있다. 이는 러시아 특유의 갱스터식 정치 구조에서 비롯된 것으로 분석된다. 전선에서 밀리는 상황에서도 Putin은 물러서지 않겠다는 의지를 거듭 천명했다.
+<a href="https://www.economist.com/europe/2026/08/30/cornered-vladimir-putin-plans-to-escalate-his-war">[Economist]</a></blockquote>
 
-<b>5. 브라질 우파 거점, Trump 관세로 타격...대선 판도 영향</b>
-<blockquote>미국의 기계류 관세 부과로 브라질 우파 정치 거점 지역이 경제적 타격을 입으면서, 대통령 선거에서 보수 후보에 대한 지지도가 약화되고 있다. Trump 행정부의 무역정책이 역설적으로 브라질 우파 세력을 약화시키는 결과를 낳고 있다.
-<a href="https://www.wsj.com/world/americas/this-right-wing-stronghold-in-brazil-is-getting-pummeled-by-trumps-tariffs-059aa7db">[WSJ]</a></blockquote>
+<b>5. Putin, 키르기스스탄서 시진핑 회담 예정...러시아 영향력 쇠퇴 속 중국 의존 심화</b>
+<blockquote>Putin과 시진핑 국가주석이 월요일 키르기스스탄에서 정상회담을 열 예정이다. 우크라이나 전쟁 장기화로 러시아의 국제적 입지가 약화되면서, 양국 간 힘의 균형이 중국 쪽으로 급격히 기울고 있는 상황이 이번 회담에서 여실히 드러날 전망이다.
+<a href="https://www.wsj.com/world/russia/putin-turns-again-to-chinas-xi-as-russias-clout-crumbles-125c56be">[WSJ]</a></blockquote>
 
-<b>6. Nvidia, 중국에 로봇용 Physical AI 공급...미 규제 허점 노출</b>
-<blockquote>Nvidia가 로봇과 'Physical AI' 사업에서 중국 기업들을 주요 고객으로 확보하고 있다. 현행 미국 수출 규제가 이 분야를 제대로 포괄하지 못하면서 미중 기술 전쟁의 새로운 허점으로 지목되고 있다.
-<a href="https://www.wsj.com/tech/ai/nvidia-wants-to-run-the-worlds-robots-china-is-an-eager-customer-bdf46169">[WSJ]</a></blockquote>
+<b>6. 아이슬란드, EU 가입 협상 거부...Trump 그린란드 병합 발언 속 안보 고민</b>
+<blockquote>아이슬란드 국민투표에서 EU 가입 협상 개시안이 부결됐다. Trump 대통령이 그린란드 매입 의사를 밝히며 북대서양 안보 불안이 커진 상황에서, 아이슬란드는 EU 가입보다 독자 노선을 택했다. 투표 결과는 접전 끝에 '반대'로 결정됐다.
+<a href="https://www.wsj.com/world/europe/icelanders-reject-eu-membership-talks-national-broadcaster-projects-05a2c74d">[WSJ]</a> <a href="https://www.ft.com/content/53b5abd8-2919-4dc6-8dd6-81fc054e8b6f">[FT]</a></blockquote>
 
-<b>7. 러시아, 키예프 인근 탄약고 타격...최소 37명 사망</b>
-<blockquote>러시아군이 키예프 인근 우크라이나 탄약 저장소를 공격해 최소 37명이 사망했다. 목요일 이후 제트 추진 드론을 이용한 장시간 공습이 27회 경보를 발령시키며 전쟁 중 가장 긴 공격 중 하나로 기록됐다.
-<a href="https://www.ft.com/content/40eaeba7-9514-4e6b-9bd3-4a9381618c84">[FT]</a></blockquote>
+<b>7. 니제르 군부, 쿠데타 시도 진압 완료...불만 세력 군사기지 점거 후 제압</b>
+<blockquote>니제르 정부군이 수도 군사기지를 점거한 반군 세력을 제압하고 쿠데타 시도를 저지했다. 불만을 품은 군인들이 공격을 개시했으나, 당국은 이들을 구금하고 상황을 안정시켰다고 밝혔다.
+<a href="https://www.ft.com/content/4eb02822-d691-48a4-966f-45c6501bccb2">[FT]</a></blockquote>
 
-<b>8. Zelensky, 인구밀집지 탄약 보관 비난...안전관리 문제 지적</b>
-<blockquote>Volodymyr Zelensky 우크라이나 대통령은 민간인 거주 지역에 탄약을 보관한 것은 "절대 용납할 수 없다"고 비판했다. 러시아의 공습으로 최소 37명이 사망한 이번 사태는 우크라이나군의 탄약 관리 체계에 대한 논란을 불러일으키고 있다.
-<a href="https://www.wsj.com/world/europe/ammunition-explosion-in-ukraine-kills-at-least-37-0db28d94">[WSJ]</a></blockquote>
+<b>8. Trump, 베네수엘라 석유 지분 확보...논란의 재계 인사가 투자 유치 주도</b>
+<blockquote>미국이 베네수엘라 석유 거래를 성사시키면서, 논란의 인물인 Alejandro Betancourt가 투자자 유치에 나섰다. 그는 650억 배럴 이상의 석유 매장량을 통제하게 될 합작사의 미국 측 핵심 파트너로 활동하고 있다.
+<a href="https://www.ft.com/content/458940e7-0754-42e3-aa33-f1f9e3e710b7">[FT]</a></blockquote>
+
+<b>9. Aon, 보험 중개사 USI를 170억 달러에 인수 추진...사모펀드 KKR 엑시트</b>
+<blockquote>글로벌 보험 브로커 Aon이 USI Insurance를 약 170억 달러에 인수하는 협상을 최종 단계에서 진행 중이다. USI는 2017년부터 사모펀드 KKR가 보유해 왔으며, 이번 거래는 보험 중개 시장의 대형 통합 사례가 될 전망이다.
+<a href="https://www.wsj.com/finance/aon-nears-roughly-17-billion-deal-for-insurance-brokerage-usi-fcc9fba9">[WSJ]</a></blockquote>
+
+<b>10. 빅테크, AI 기업 지분 평가익으로 1,600억 달러 이익 부풀려...실적 왜곡 논란</b>
+<blockquote>미국 주요 기술 기업들이 OpenAI, Anthropic, SpaceX 등 AI 스타트업 투자 지분의 평가 상승으로 1,600억 달러 규모의 장부상 이익을 기록했다. 애널리스트들은 이러한 비현금성 수익이 기술 섹터의 실적 지표를 왜곡하고 있다고 지적했다.
+<a href="https://www.ft.com/content/a5a0081f-e998-4c80-b967-cc535cbc4933">[FT]</a></blockquote>
+
+<b>11. 글로벌 증류주 수요 둔화...재고 과잉 쌓인 업계 고전</b>
+<blockquote>세계 주류 시장에서 수요 둔화세가 뚜렷해지면서, 주요 증류주 제조사들이 수십억 달러 규모의 재고 부담을 떠안게 됐다. 업계는 파티에 손님이 절반만 온 것과 같은 상황에 직면했다는 분석이 나온다.
+<a href="https://www.wsj.com/business/retail/the-worlds-drinks-order-is-in-distillers-were-expecting-more-8ad379b3">[WSJ]</a></blockquote>
 
 ━━━━━━━━━━━━━━━━━━━━
 📡 <b>출처: WSJ · FT · The Economist</b>
