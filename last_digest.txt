@@ -4,49 +4,121 @@
 
 ✅ <b>간밤의 주요 헤드라인</b>
 
-<b>1. 미군, 수주 만에 처음 이란 로켓발사대 타격...호르무즈 해협 기뢰 부설 저지</b>
-<blockquote>미국 중부사령부는 호르무즈 해협의 한 섬에서 이란 로켓발사대 2기를 공습했다고 밝혔다. 해당 발사대는 기뢰가 탑재된 로켓을 발사해 주요 해상 항로를 봉쇄하려던 것으로 파악됐다. 공습 소식 이후 유가가 상승했다.
-<a href="https://www.ft.com/content/f270814f-e836-44e8-80c2-ec1034f80519">[FT]</a> <a href="https://www.wsj.com/world/middle-east/u-s-strikes-two-iranian-rocket-launchers-in-first-attack-in-weeks-17602dcf">[WSJ]</a></blockquote>
+<b>1. 美, 이란 로켓 발사대 타격 후 보복 미사일 방어...호르무즈 긴장 재점화</b>
+<blockquote>미군이 호르무즈 해협 기뢰 부설 준비 중이던 이란 로켓 발사대를 타격한 후 이란이 요르단 주둔 미군 4천 명을 겨냥해 미사일 공격을 가하며 수 주간의 소강 국면이 깨졌다. 양국 간 새로운 교전은 중동 에너지 공급망 불안을 재점화시키고 있다.
+<a href="https://www.wsj.com/world/middle-east/u-s-strikes-two-iranian-rocket-launchers-in-first-attack-in-weeks-17602dcf">[WSJ]</a></blockquote>
 
-<b>2. 연준 매파 스탠스, 이번 주 고용 지표가 시험대...채권 수익률 상승 지속</b>
-<blockquote>글로벌 채권 수익률 상승 국면이 이어지는 가운데, 이번 주 발표될 미국 고용 지표가 연준의 매파적 기조 유지 여부를 가늠할 핵심 변수로 떠올랐다. 시장은 고용 둔화 조짐이 나타날 경우 연준이 긴축 완화로 선회할 가능성에 주목하고 있다.
-<a href="https://www.ft.com/content/c2682d2b-c5a4-4f98-8f04-cf93883fb9b6">[FT]</a></blockquote>
+<b>2. Trump, 이란 '강타' 경고...유가 상승세 이어져</b>
+<blockquote>Trump 대통령이 이란에 대해 "강력하게 타격할 것"이라 경고하며 중동 긴장이 격화됐다. 양국 간 교전이 재개되자 유가는 상승세를 나타냈으며, 호르무즈 해협 봉쇄 우려가 시장을 압박하고 있다.
+<a href="https://www.ft.com/content/8b09b3fc-bb61-4d9f-aac6-bcef9883fa16">[FT]</a></blockquote>
 
-<b>3. Trump, 캐나다산 수입품에 50% 관세 부과...중소기업 직격탄 우려</b>
-<blockquote>미국이 캐나다산 제품에 50% 관세를 부과하면서 캐나다 중소 수출업체들이 심각한 타격을 받고 있다. 꿀, 화장품 등 소비재 업체들이 우선 피해를 보는 가운데, 철강 등 원자재 가격 왜곡 우려도 커지고 있다.
-<a href="https://www.wsj.com/economy/trade/canadian-small-businesses-to-bear-brunt-of-new-u-s-tariffs-7a434c08">[WSJ]</a></blockquote>
+<b>3. 유가 선물 월간 상승 마감...호르무즈 해협 충돌에 반등</b>
+<blockquote>미국의 이란 로켓 발사대 공격과 이란의 요르단 미군 기지 미사일 공격으로 유가 선물이 반등하며 8월 월간 상승을 기록했다. 호르무즈 해협 긴장 고조가 에너지 시장 변동성을 키우고 있다.
+<a href="https://www.wsj.com/finance/commodities-futures/oil-rises-amid-renewed-fighting-in-middle-east-add7b187">[WSJ]</a></blockquote>
 
-<b>4. 궁지 몰린 Putin, 전쟁 확대 수순 밟아...러시아 갱스터 정치의 귀결</b>
-<blockquote>Vladimir Putin이 후퇴를 거부하며 우크라이나 전쟁을 확전하려는 계획을 본격화하고 있다. 이는 러시아 특유의 갱스터식 정치 구조에서 비롯된 것으로 분석된다. 전선에서 밀리는 상황에서도 Putin은 물러서지 않겠다는 의지를 거듭 천명했다.
-<a href="https://www.economist.com/europe/2026/08/30/cornered-vladimir-putin-plans-to-escalate-his-war">[Economist]</a></blockquote>
+<b>4. 美 증시 하락 마감...이란 전쟁 인플레이션 우려 부각</b>
+<blockquote>호르무즈 해협 인근 미-이란 교전 재개로 미국 증시가 하락 마감했다. 다우지수가 낙폭을 주도했으나 8월 전체로는 견조한 상승세를 유지했다. 전쟁 인플레이션 우려가 시장 심리를 압박하며 장기 채권 금리가 상승했다.
+<a href="https://www.wsj.com/finance/stocks/u-s-stocks-fall-as-iran-war-inflation-heats-up-6f44ff44">[WSJ]</a> <a href="https://www.wsj.com/finance/stocks/stocks-decline-to-end-august-as-war-fears-persist-4388a594">[WSJ]</a> <a href="https://www.wsj.com/finance/investing/u-s-stock-futures-little-changed-as-markets-weigh-warshs-hawkish-remarks-5a036994">[WSJ]</a></blockquote>
 
-<b>5. Putin, 키르기스스탄서 시진핑 회담 예정...러시아 영향력 쇠퇴 속 중국 의존 심화</b>
-<blockquote>Putin과 시진핑 국가주석이 월요일 키르기스스탄에서 정상회담을 열 예정이다. 우크라이나 전쟁 장기화로 러시아의 국제적 입지가 약화되면서, 양국 간 힘의 균형이 중국 쪽으로 급격히 기울고 있는 상황이 이번 회담에서 여실히 드러날 전망이다.
-<a href="https://www.wsj.com/world/russia/putin-turns-again-to-chinas-xi-as-russias-clout-crumbles-125c56be">[WSJ]</a></blockquote>
+<b>5. 독일 8월 인플레이션 예상치 밑돌아...에너지 쇼크 파급 제한적</b>
+<blockquote>독일 8월 인플레이션이 예상보다 낮게 상승하며 중동 갈등에도 불구하고 에너지 가격 압력이 경제 전반으로 확산되는 조짐은 제한적이다. 에너지 비용은 여전히 상방 압력을 받고 있으나 광범위한 물가 압력은 감지되지 않았다.
+<a href="https://www.wsj.com/economy/global/german-inflation-rises-but-few-signs-of-energy-shock-spillover-e22ff3b0">[WSJ]</a></blockquote>
 
-<b>6. 아이슬란드, EU 가입 협상 거부...Trump 그린란드 병합 발언 속 안보 고민</b>
-<blockquote>아이슬란드 국민투표에서 EU 가입 협상 개시안이 부결됐다. Trump 대통령이 그린란드 매입 의사를 밝히며 북대서양 안보 불안이 커진 상황에서, 아이슬란드는 EU 가입보다 독자 노선을 택했다. 투표 결과는 접전 끝에 '반대'로 결정됐다.
-<a href="https://www.wsj.com/world/europe/icelanders-reject-eu-membership-talks-national-broadcaster-projects-05a2c74d">[WSJ]</a> <a href="https://www.ft.com/content/53b5abd8-2919-4dc6-8dd6-81fc054e8b6f">[FT]</a></blockquote>
+<b>6. 미·유럽·중국 재정 문제 비교...채권 투자자의 선택지</b>
+<blockquote>채권 투자자들은 폭식하는 기업가(미국), 고령이지만 신뢰받는 사업가(유럽), 빚진 귀족(중국) 중 누구를 선택할지 고민하고 있다. 각국의 재정 문제가 뚜렷한 특징을 드러내며 글로벌 채권 시장 전략에 영향을 주고 있다.
+<a href="https://www.ft.com/content/0f74b589-3fdf-447d-aa44-9570496bf7c7">[FT]</a></blockquote>
 
-<b>7. 니제르 군부, 쿠데타 시도 진압 완료...불만 세력 군사기지 점거 후 제압</b>
-<blockquote>니제르 정부군이 수도 군사기지를 점거한 반군 세력을 제압하고 쿠데타 시도를 저지했다. 불만을 품은 군인들이 공격을 개시했으나, 당국은 이들을 구금하고 상황을 안정시켰다고 밝혔다.
-<a href="https://www.ft.com/content/4eb02822-d691-48a4-966f-45c6501bccb2">[FT]</a></blockquote>
+<b>7. Bessent, G20서 캐나다 비판...글로벌 정상회의 분열 노정</b>
+<blockquote>Scott Bessent 재무장관이 G20 재무장관 회의에서 캐나다를 비판하며 선진국과 개도국 간 경제적 긴장이 드러났다. 블루리지 산맥에서 열린 회의는 글로벌 경제 협력보다 갈등이 부각됐다.
+<a href="https://www.wsj.com/world/americas/bessent-criticizes-canada-as-global-summit-shows-divisions-483a0b70">[WSJ]</a></blockquote>
 
-<b>8. Trump, 베네수엘라 석유 지분 확보...논란의 재계 인사가 투자 유치 주도</b>
-<blockquote>미국이 베네수엘라 석유 거래를 성사시키면서, 논란의 인물인 Alejandro Betancourt가 투자자 유치에 나섰다. 그는 650억 배럴 이상의 석유 매장량을 통제하게 될 합작사의 미국 측 핵심 파트너로 활동하고 있다.
-<a href="https://www.ft.com/content/458940e7-0754-42e3-aa33-f1f9e3e710b7">[FT]</a></blockquote>
+<b>8. 유럽, G20 회의서 러시아 재무장관 배제...집단사진 불참</b>
+<blockquote>유럽 국가들이 미국 주최 G20 재무장관 회의에서 러시아 재무장관 Anton Siluanov를 집단사진에서 배제했다. Siluanov는 Bessent 장관과 '생산적' 회담을 가졌으나 유럽의 제재 압력은 지속되고 있다.
+<a href="https://www.ft.com/content/16285abd-6bc2-4a38-942c-5206c79f4c4b">[FT]</a></blockquote>
 
-<b>9. Aon, 보험 중개사 USI를 170억 달러에 인수 추진...사모펀드 KKR 엑시트</b>
-<blockquote>글로벌 보험 브로커 Aon이 USI Insurance를 약 170억 달러에 인수하는 협상을 최종 단계에서 진행 중이다. USI는 2017년부터 사모펀드 KKR가 보유해 왔으며, 이번 거래는 보험 중개 시장의 대형 통합 사례가 될 전망이다.
+<b>9. Trump, 관세 정책 영구화 추진...무역 정책 불확실성 고착화</b>
+<blockquote>Trump 행정부가 Section 301 조항을 활용해 관세를 영구화하려는 움직임을 보이며 향후 행정부도 관세를 그대로 두거나 만료시킬 수 없게 됐다. 미국 무역 정책의 영구적 유동성이 글로벌 기업들의 장기 전략을 복잡하게 만들고 있다.
+<a href="https://www.ft.com/content/46bf442d-175b-4347-8ef6-e3d80ae6ea63">[FT]</a></blockquote>
+
+<b>10. 美 육군장관 사임...국방장관과 수개월 긴장 끝 공석</b>
+<blockquote>Dan Driscoll 육군장관이 Pete Hegseth 국방장관과 육군 방향성을 둘러싼 수개월간의 긴장 끝에 Trump 대통령에게 사임서를 제출했다. Driscoll은 해임된 육군참모총장과 긴밀한 관계를 유지했으며, 미군 고위직 공백이 확대되고 있다.
+<a href="https://www.ft.com/content/0d72d3c1-8786-44f0-b88a-ca41b6286a31">[FT]</a> <a href="https://www.wsj.com/politics/national-security/army-secretary-resigns-after-months-of-friction-with-hegseth-9c124207">[WSJ]</a></blockquote>
+
+<b>11. Trump, 데이터센터 반대 지역 '낙후·빈곤' 경고...중간선거 쟁점화</b>
+<blockquote>Trump 대통령이 데이터센터 건설을 반대하는 지역사회는 "낙후되고 가난해질 것"이라 경고하며 AI 인프라 확충을 옹호했다. 대부분의 미국인이 인근 데이터센터 건설에 반대하는 가운데 중간선거 쟁점으로 부상하고 있다.
+<a href="https://www.ft.com/content/744c448c-858e-4398-85dc-a66cecd02abb">[FT]</a> <a href="https://www.wsj.com/politics/policy/trump-says-communities-that-oppose-data-centers-risk-becoming-backwards-and-poor-601f41d7">[WSJ]</a></blockquote>
+
+<b>12. SLB, 데이터센터 냉각 기업 Kelvion $41억 인수...AI 인프라 확대</b>
+<blockquote>석유 시추 기업 SLB가 열관리 전문업체 Kelvion을 $41억에 인수하며 급성장하는 데이터센터 사업을 강화한다. AI 컴퓨팅 확산으로 냉각 기술 수요가 급증하는 가운데 에너지 기업의 IT 인프라 진출이 가속화되고 있다.
+<a href="https://www.wsj.com/business/energy-oil/slb-to-buy-data-center-cooling-firm-kelvion-for-4-1-billion-72d2b2b7">[WSJ]</a></blockquote>
+
+<b>13. EY, '인간 스킬' 보너스 $1억 지급...AI 시대 비판적 사고 강화</b>
+<blockquote>Ernst & Young이 직원들의 비판적 사고, 판단력 등 '인간 스킬' 함양을 위해 $1억 규모 보너스를 지급한다. AI와 협업하는 데 필요한 역량을 육성하려는 기업들의 움직임이 확산되고 있다.
+<a href="https://www.wsj.com/business/ernst-young-is-giving-100-million-in-bonuses-to-staff-for-human-skills-9320e93d">[WSJ]</a></blockquote>
+
+<b>14. 소프트웨어 기업, AI 위협에 높은 가격 치러...2028년 $400억 만기 압박</b>
+<blockquote>사모펀드들이 코로나 시대 인수한 소프트웨어 기업들의 리파이낸싱을 위해 2028년까지 $400억 만기 압박에 직면했다. AI 위협으로 소프트웨어 기업 가치가 하락하며 사모펀드들이 시간을 사기 위해 높은 비용을 지불하고 있다.
+<a href="https://www.ft.com/content/485a3d1c-d282-4921-9dee-c644c5856030">[FT]</a></blockquote>
+
+<b>15. 베네수엘라 석유 기업, 대규모 시추 확대 계획...50대 이상 굴착 장비 투입</b>
+<blockquote>Trump 대통령과 연계된 Alejandro Betancourt가 이끄는 베네수엘라 석유 기업이 50대 이상의 시추 장비를 투입해 침체된 원유 생산을 대폭 확대할 계획이다. 미국 제재 완화 기대 속에 베네수엘라 석유 산업 재건 움직임이 본격화되고 있다.
+<a href="https://www.wsj.com/business/energy-oil/trumps-venezuelan-oil-company-plans-massive-drilling-push-db439e19">[WSJ]</a></blockquote>
+
+<b>16. Westinghouse Electric, 원전 부흥 타고 IPO 추진...美 정부 강력 후원</b>
+<blockquote>Westinghouse Electric이 원전 부흥 흐름을 타고 IPO를 추진하고 있다. 미국 정부가 원전 확대를 적극 지원하는 가운데 기업 성장에 유리한 환경이 조성되고 있다.
+<a href="https://www.wsj.com/business/energy-oil/westinghouse-electric-wants-to-ride-a-nuclear-power-revival-to-an-ipo-9ad2b196">[WSJ]</a></blockquote>
+
+<b>17. ONEOK, Brazos Midstream의 Permian 자산 $44.3억 인수...미국 석유 중심지 확장</b>
+<blockquote>ONEOK이 Brazos Midstream의 Permian Midland Basin 천연가스 집하·처리 자산을 $44.3억에 인수하며 미국 최대 석유 생산지에서의 입지를 확대한다. Permian 분지 인프라 확충 경쟁이 가열되고 있다.
+<a href="https://www.wsj.com/finance/investing/oneok-to-buy-brazos-midstreams-permian-assets-for-4-43-billion-2d0d08f6">[WSJ]</a></blockquote>
+
+<b>18. 러시아, 신형 드론·24시간 공격으로 우크라이나 압박...방어 체계 시험대</b>
+<blockquote>러시아가 더 빠르고 요격하기 어려운 신형 드론을 투입하고 24시간 공격을 펼치며 우크라이나군을 압박하고 있다. 키이우는 지속적인 공격에 적응하는 데 어려움을 겪고 있다.
+<a href="https://www.wsj.com/world/russia-turns-to-new-generation-drones-and-all-day-attacks-to-wear-down-ukrainians-b492ec1b">[WSJ]</a></blockquote>
+
+<b>19. 인도 GDP 7.8% 성장...중동 에너지 쇼크에도 견조한 흐름</b>
+<blockquote>인도 경제가 4~6월 7.8% 성장하며 중앙은행 전망을 상회했다. 중동 분쟁으로 에너지 쇼크가 시작됐지만 세계 최대 성장 경제의 탄력성이 확인됐다.
+<a href="https://www.ft.com/content/88447c72-5510-4847-9908-cf630acfcc1f">[FT]</a> <a href="https://www.wsj.com/economy/central-banking/indias-economy-posts-robust-growth-despite-mideast-energy-shock-5094156a">[WSJ]</a></blockquote>
+
+<b>20. 아이슬란드 EU 가입 국민투표 부결...NATO 내 美·유럽 사이 섬 지위 유지</b>
+<blockquote>아이슬란드가 EU 가입 국민투표를 부결시키며 NATO 내에서 미국과 유럽 사이에 위치한 독립적 지위를 유지하기로 했다. 투표 결과는 부유한 민주국가를 끌어들이려는 EU의 어려움을 보여준다.
+<a href="https://www.wsj.com/world/europe/icelands-rejection-of-eu-keeps-it-a-nato-island-straddling-u-s-and-europe-21e133e7">[WSJ]</a></blockquote>
+
+<b>21. 영국 보수당, 그림자 재무장관 교체...Mel Stride 경질, Andrew Griffith 승진</b>
+<blockquote>Kemi Badenoch 보수당 대표가 Mel Stride 그림자 재무장관을 경질하고 전 Sky 임원 Andrew Griffith를 승진시켰다. Reform당 및 노동당과의 지지율 격차를 줄이려는 쇄신 움직임이다.
+<a href="https://www.ft.com/content/f16c178f-b07c-4b79-a8fc-2bf4c70d43e2">[FT]</a></blockquote>
+
+<b>22. 스위스 의회, UBS 규제 완화 승인...자본 요건 유연성 확대</b>
+<blockquote>스위스 의회 위원회가 UBS의 글로벌 사업을 주식과 채권 혼합으로 자본 확충할 수 있도록 허용하는 규제 완화안을 승인했다. 스위스 최대 금융기관에 대한 규제 압력이 완화되며 UBS의 승리로 평가된다.
+<a href="https://www.ft.com/content/1bdafff4-3e78-4099-be47-755e6b643408">[FT]</a></blockquote>
+
+<b>23. Aon, 보험 중개 USI를 약 $170억 인수...KKR 엑시트</b>
+<blockquote>Aon이 보험 중개업체 USI Insurance를 약 $170억에 인수한다. 2017년부터 USI를 소유한 사모펀드 KKR이 엑시트하며 보험 중개 시장 대형 M&A가 성사됐다.
 <a href="https://www.wsj.com/finance/aon-nears-roughly-17-billion-deal-for-insurance-brokerage-usi-fcc9fba9">[WSJ]</a></blockquote>
 
-<b>10. 빅테크, AI 기업 지분 평가익으로 1,600억 달러 이익 부풀려...실적 왜곡 논란</b>
-<blockquote>미국 주요 기술 기업들이 OpenAI, Anthropic, SpaceX 등 AI 스타트업 투자 지분의 평가 상승으로 1,600억 달러 규모의 장부상 이익을 기록했다. 애널리스트들은 이러한 비현금성 수익이 기술 섹터의 실적 지표를 왜곡하고 있다고 지적했다.
-<a href="https://www.ft.com/content/a5a0081f-e998-4c80-b967-cc535cbc4933">[FT]</a></blockquote>
+<b>24. 액티비스트 헤지펀드 Elliott, 프랑스 산업가스 Air Liquide 지분 확보</b>
+<blockquote>미국 액티비스트 헤지펀드 Elliott이 프랑스 산업가스 그룹 Air Liquide의 지분을 확보했다. Elliott은 최근 수 년간 여러 유럽 대기업을 타깃으로 삼아왔다.
+<a href="https://www.ft.com/content/3d30f551-53af-4fab-8271-3f7fd75d5cfd">[FT]</a></blockquote>
 
-<b>11. 글로벌 증류주 수요 둔화...재고 과잉 쌓인 업계 고전</b>
-<blockquote>세계 주류 시장에서 수요 둔화세가 뚜렷해지면서, 주요 증류주 제조사들이 수십억 달러 규모의 재고 부담을 떠안게 됐다. 업계는 파티에 손님이 절반만 온 것과 같은 상황에 직면했다는 분석이 나온다.
-<a href="https://www.wsj.com/business/retail/the-worlds-drinks-order-is-in-distillers-were-expecting-more-8ad379b3">[WSJ]</a></blockquote>
+<b>25. Eli Lilly, 바이오 기업 Merida를 최대 $28.75억 인수...면역학 포트폴리오 강화</b>
+<blockquote>Eli Lilly가 바이오 기업 Merida Biosciences를 최대 $28.75억 현금에 인수하며 면역학 포트폴리오를 강화한다. 제약업계 M&A 활동이 활발하다.
+<a href="https://www.wsj.com/health/pharma/eli-lilly-to-buy-merida-biosciences-for-up-to-2-875-billion-91c1d351">[WSJ]</a></blockquote>
+
+<b>26. 카지노 Bally's, 급속 확장 전략에 재무 압박...월가 우려</b>
+<blockquote>카지노 운영업체 Bally's가 최근 공시에서 재무 압박 증가 조짐을 보이며 월가를 불안하게 했다. 급속한 확장 전략이 재무 부담으로 이어지고 있다.
+<a href="https://www.wsj.com/business/hospitality/the-rapid-expansion-that-built-ballys-is-now-under-pressure-4f7c8656">[WSJ]</a></blockquote>
+
+<b>27. FTC, 아마존을 광고 가격 조작 혐의로 제소...20개 이상 주 동참</b>
+<blockquote>미 연방거래위원회(FTC)가 아마존을 광고 가격 조작으로 수십억 달러를 챙겼다며 20개 이상 주와 함께 제소했다. 아마존이 소매 플랫폼에서 광고 가격을 조작해 약 120만 기업에 과다 청구하고 소비자 가격을 끌어올렸다는 주장이다.
+<a href="https://www.ft.com/content/bafde798-4860-45bb-9226-633a211e8508">[FT]</a> <a href="https://www.wsj.com/tech/ftc-to-file-lawsuit-alleging-amazon-deceived-advertisers-d71039ee">[WSJ]</a></blockquote>
+
+<b>28. Donald Trump Jr. 펀드, Polymarket 투자 $3억 확대...기업가치 $210억</b>
+<blockquote>Donald Trump Jr.가 이끄는 1789 Capital 펀드가 예측 시장 Polymarket에 대한 투자를 약 $3억 확대하며 기업가치를 약 $210억으로 평가받게 됐다. 정치·시장 예측 플랫폼에 대한 투자자 관심이 높아지고 있다.
+<a href="https://www.wsj.com/finance/investing/donald-trump-jr-s-fund-boosts-polymarket-investment-by-around-300-million-45270bba">[WSJ]</a></blockquote>
+
+<b>29. 기후 변동성, 기업 실적 변동성으로 직결...공급망 취약성 부각</b>
+<blockquote>폭염과 사이클론 등 기후 변동성이 기업의 공급망 취약성을 드러내며 실적 변동성을 키우고 있다. 기후 리스크가 재무적 리스크로 가시화되고 있다.
+<a href="https://www.ft.com/content/e5312a58-4634-4376-b7da-515ffcfaa7f1">[FT]</a></blockquote>
 
 ━━━━━━━━━━━━━━━━━━━━
 📡 <b>출처: WSJ · FT · The Economist</b>
