@@ -4,125 +4,165 @@
 
 ✅ <b>간밤의 주요 헤드라인</b>
 
-<b>1. 미국-이란 상호 공격 재개...호르무즈 해협 긴장 고조</b>
-<blockquote>트럼프 대통령이 이란의 호르무즈 해협 기뢰 매설 및 미군 공격에 대응해 이란 목표물에 대한 신규 공격을 명령했다. 이란은 중동 지역 미군을 겨냥한 공격을 감행한 것으로 알려졌다. 호르무즈 해협 통제권을 둘러싼 미-이란 간 무력 충돌이 격화되고 있다.
-<a href="https://www.wsj.com/world/middle-east/iran-strikes-us-1d263f3f">[WSJ]</a></blockquote>
-
-<b>2. 호르무즈 해협서 유조선 2척 피격...사우디 원유 선적 중</b>
-<blockquote>사우디 원유를 싣고 한밤중 호르무즈 해협을 통과하던 유조선 2척이 공격을 받았다. 일정 기간 상대적 평온을 유지했던 전쟁이 다시 해상 공격으로 확전되면서 이 수로를 통과하는 선박들의 위험이 재차 부각됐다.
-<a href="https://www.wsj.com/world/middle-east/two-tankers-attacked-on-midnight-run-through-hormuz-9957caaf">[WSJ]</a></blockquote>
-
-<b>3. 미국의 이란 공격 확대...유가 급등·국채 수익률 급등세</b>
-<blockquote>미국의 이란 추가 공격으로 유가가 급등하고 미 국채 수익률이 장중 최고치를 기록했다. 투자자들은 새로운 인플레이션 국면을 우려하고 있다.
+<b>1. 미국-이란 추가 공습 재개...유가 3일 연속 상승 $95 근접</b>
+<blockquote>미국이 이란에 대한 신규 공습을 개시하면서 중동 긴장이 재확산되고 있다. 유가는 3거래일 연속 상승하며 배럴당 $95 수준에 근접했다. 페르시아만 원유 수송 차질 우려가 커지면서 국채 수익률도 장중 고점을 경신했다.
 <a href="https://www.ft.com/content/c557ccc2-9fe7-4725-8a1c-c40a0948e8d3">[FT]</a></blockquote>
 
-<b>4. 사우디·한국 선적 유조선 호르무즈서 공격...전쟁 평온기 끝</b>
-<blockquote>사우디와 한국 소속 유조선이 호르무즈 해협에서 공격당했다. 상대적 평온기를 유지하던 전쟁이 선박 공격 증가로 새 국면에 접어들었다.
-<a href="https://www.ft.com/content/bbbce2e1-6542-4806-9c26-d35e8c3b702e">[FT]</a></blockquote>
+<b>2. 유럽 천연가스 가격 2022년 말 이후 최고...겨울 재고 부족 경보</b>
+<blockquote>미국-이란 전쟁 장기화 우려로 유럽 천연가스 가격이 3년 만에 최고치를 기록했다. 유럽은 전쟁이 조기 종결되고 가격이 하락할 것이라는 예상 아래 겨울 대비 가스 구매를 미뤄왔으나, 저장량 부족이 리스크로 부각되고 있다.
+<a href="https://www.wsj.com/finance/commodities-futures/winter-is-approaching-and-europe-is-running-low-on-natural-gas-ee52167a">[WSJ]</a></blockquote>
 
-<b>5. 미국 디젤 가격 급등...트럼프, 정유업체 긴급 소집</b>
-<blockquote>트럼프 대통령이 이란전 재격화로 디젤 가격이 급등하자 백악관에서 정유업체들과 긴급 회의를 열었다. 에너지 비용 상승이 인플레이션 압력을 새롭게 촉발할 것이란 우려가 커지고 있다.
-<a href="https://www.ft.com/content/697253e0-01d3-44fe-85e5-d4d9af207a3c">[FT]</a></blockquote>
+<b>3. 에너지 가격 급등이 채권시장 타격...미국 10년물 수익률 2023년 이후 최고</b>
+<blockquote>이란 전쟁 재확산으로 에너지 가격이 급등하면서 인플레이션 우려가 되살아나고 있다. 미국 10년 만기 국채 수익률은 2023년 이후 최고치를 기록했으며, 유럽 가스 가격도 3년 만에 최고점에 도달했다.
+<a href="https://www.ft.com/content/f73c2c95-5c73-4b2f-9f00-9fa8c12c10c9">[FT]</a></blockquote>
 
-<b>6. 유가 급등에 글로벌 채권시장 위기 가중...호르무즈 공급 차질 우려</b>
-<blockquote>미-이란 전투 재개로 유가가 급등하며 호르무즈 해협을 통한 원유 공급 차질 우려가 깊어졌다. 다른 지역의 공급 리스크까지 겹치면서 글로벌 채권시장 압박이 한층 강화됐다.
-<a href="https://www.wsj.com/finance/commodities-futures/oil-prices-rise-as-renewed-u-s-iran-fighting-deepens-hormuz-supply-risks-3a35f63a">[WSJ]</a></blockquote>
+<b>4. 채권시장 혼란과 연준 금리 인상 전망...소비자 차입비용 상승 우려</b>
+<blockquote>국채시장 불안과 연준의 금리 인상 가능성이 맞물리면서 미국 소비자들의 차입비용이 상승할 전망이다. 이미 물가 압박을 받고 있는 가계에 추가 부담이 될 수 있다는 우려가 커지고 있다.
+<a href="https://www.wsj.com/economy/consumers/what-does-a-bond-selloff-mean-for-american-consumers-236e4be6">[WSJ]</a></blockquote>
 
-<b>7. 러시아, 이란에 초음속 미사일 기술 은밀히 지원...군사협력 심화</b>
-<blockquote>유출된 정보에 따르면 러시아가 이란의 초음속 순항 미사일 개발을 비밀리에 지원해 온 것으로 드러났다. 모스크바-테헤란 간 군사 기술 이전 중 가장 중요한 사례로 평가된다.
-<a href="https://www.ft.com/content/6cf367bc-95b0-4f1f-b149-a25684adefc3">[FT]</a></blockquote>
+<b>5. 미국 주식 상승 마감...채권시장 혼란 속 유가는 계속 상승</b>
+<blockquote>미국 증시는 상승 마감했으나 채권시장 혼란과 이란 전쟁이 투자자들의 주된 관심사로 부각됐다. 유가는 미국-이란 간 공습 재개 소식에 상승세를 이어갔다.
+<a href="https://www.wsj.com/finance/investing/oil-hovers-close-to-95-as-middle-east-conflict-further-pressures-bonds-877d8321">[WSJ]</a></blockquote>
 
-<b>8. 독일, 라이프치히 공항 드론 공격 배후로 러시아 지목...보복 예고</b>
-<blockquote>독일 내무장관 Alexander Dobrindt는 지난달 라이프치히 공항에 발생한 폭발물 탑재 드론 공격의 배후가 러시아라고 밝히며 보복 조치를 예고했다. 독일이 "전쟁 상태는 아니지만 매일 하이브리드 전쟁의 표적이 되고 있다"고 경고했다.
-<a href="https://www.ft.com/content/2ca5dfbf-f48b-4ffb-9ce9-9ff3e787a75e">[FT]</a></blockquote>
+<b>6. 영국 총리 Burnham, 재정책임 강조...채권시장 진정 시도</b>
+<blockquote>영국 총리 Andy Burnham은 정부가 부채 축소 조치를 취하고 있으며 자체 예산 규칙을 계속 준수할 것이라고 의회에서 밝혔다. 재정지출 우려로 채권시장이 흔들리자 책임 재정을 강조하며 시장 안정을 도모하고 있다.
+<a href="https://www.wsj.com/world/europe/uk-prime-minister-says-government-will-be-grounded-in-fiscal-responsibility-652f5c18">[WSJ]</a></blockquote>
 
-<b>9. 독일 "러시아, 라이프치히 공항 폭발 드론 배후"...하이브리드 전쟁 비난</b>
-<blockquote>베를린은 드물게 공개적으로 러시아를 지목하며 지난달 사건에 대한 보복 방침을 밝혔다. 러시아의 하이브리드 전쟁 전술에 대한 독일의 경계가 강화되고 있다.
-<a href="https://www.wsj.com/world/europe/germany-blames-russia-for-explosive-drones-sent-to-leipzig-airport-03599b93">[WSJ]</a></blockquote>
+<b>7. 영국 모기지 차입자들, 금리 인상 전 고정금리 전환 권고받아</b>
+<blockquote>채권시장 매도세 이후 주택담보대출 시장은 고정금리 상승을 앞두고 있다. 업계는 차입자들에게 금리가 더 오르기 전에 고정금리 상품으로 전환할 것을 권고하고 있다.
+<a href="https://www.ft.com/content/9fa4fcb7-14f0-4461-87aa-4fbdf1fe64f4">[FT]</a></blockquote>
 
-<b>10. 글로벌 채권 수익률 급등...정부 차입 비용 압박 심화</b>
-<blockquote>전 세계 채권 금리가 급등하며 글로벌 경제에 광범위한 영향을 미치고 있다. 주택 구매자와 신용카드 이용자는 물론 특히 각국 정부의 재정 부담이 가중되고 있다.
-<a href="https://www.wsj.com/finance/investing/bond-yields-around-the-world-soar-in-challenge-to-government-borrowing-c519c53f">[WSJ]</a></blockquote>
+<b>8. 채권시장 우려, 재정적자뿐 아니라 성장 둔화도 원인</b>
+<blockquote>많은 국가들이 미국보다 재정이 건전해 보이지만, 고령화와 저성장으로 인해 부채 부담이 크다. AI가 성장을 견인하더라도 채권시장의 우려는 쉽게 가라앉지 않을 전망이다.
+<a href="https://www.wsj.com/finance/investing/borrowing-isnt-the-bond-markets-only-concerngrowth-is-too-91596036">[WSJ]</a></blockquote>
 
-<b>11. 인플레 우려에 글로벌 채권 수익률 급등...미-이란 긴장 촉발</b>
-<blockquote>미국과 이란 간 긴장 고조로 인플레이션 기대가 강화되면서 글로벌 채권 수익률이 급등했다. 향후 수개월 내 금리 인상 가능성이 높아지고 있다.
-<a href="https://www.wsj.com/economy/global/global-bond-yields-surge-as-oil-prices-fuel-inflation-worries-ef5c0192">[WSJ]</a></blockquote>
+<b>9. 캐나다 중앙은행 금리 동결 2.25%...무역갈등이 인플레이션 위협</b>
+<blockquote>캐나다 중앙은행은 기준금리를 2.25%로 동결했다. 미국-캐나다 간 무역갈등 격화가 인플레이션을 자극할 수 있다고 경고하며 신중한 입장을 유지했다.
+<a href="https://www.wsj.com/economy/central-banking/bank-of-canada-keeps-rate-steady-warns-trade-conflict-could-upend-recovery-9a477b9d">[WSJ]</a></blockquote>
 
-<b>12. Fed 의장 연설 이후에도 채권 수익률 상승세...Warsh 발언 여파</b>
-<blockquote>Jerome Powell Fed 의장의 Jackson Hole 연설 이후에도 채권 수익률이 계속 오르고 있다. 시장은 연준의 매파적 전환 가능성을 주시하고 있다.
-<a href="https://www.ft.com/content/88733fca-fcbe-4b0b-89f0-9785476f4e3a">[FT]</a></blockquote>
+<b>10. 일본 국채 매도세...글로벌 시장에 미치는 영향 주목</b>
+<blockquote>일본 국채시장에서 매도세가 나타나면서 글로벌 채권시장에 미칠 파급효과가 주목받고 있다. 수주간 이어진 재정·통화정책 scrutiny와 달러/엔 환율 개입 이후 시장 긴장이 높아진 상황이다.
+<a href="https://www.ft.com/content/f394d4ca-d035-4753-b7a0-f21eefa08252">[FT]</a></blockquote>
 
-<b>13. 유가 급등이 글로벌 채권시장 위기 촉발...인플레 우려 증폭</b>
-<blockquote>채권 수익률을 끌어올리는 요인이 다수 존재하지만, 에너지 비용 상승이 인플레이션을 촉발하는 직접적 계기가 되고 있다.
-<a href="https://www.wsj.com/finance/investing/oil-prices-push-global-bond-market-closer-to-the-edge-13135ed4">[WSJ]</a></blockquote>
+<b>11. 사우디-미국 핵 협정 합의...20% 우라늄 농축 허용 검토</b>
+<blockquote>사우디아라비아가 미국과의 핵 협정에서 우라늄을 최대 20%까지 농축할 수 있는 경로를 확보할 가능성이 제기됐다. 이는 미 의회의 반대를 촉발할 수 있는 민감한 사안이다.
+<a href="https://www.wsj.com/world/middle-east/saudi-nuclear-agreement-could-open-a-path-to-20-enrichment-21806868">[WSJ]</a></blockquote>
 
-<b>14. 유럽 채권시장 휴가 이후 충격...금리 급등 배경 미국과 달라</b>
-<blockquote>유럽 채권 수익률 상승의 원인은 미국과 다소 다르지만 문제의 심각성은 결코 덜하지 않다. 유로존 각국 정부의 재정 부담이 급증하고 있다.
-<a href="https://www.economist.com/finance-and-economics/2026/09/01/europes-bond-markets-are-suffering-a-post-holiday-shock">[Economist]</a></blockquote>
+<b>12. Chevron, 베네수엘라에 $7bn 투자 약속...석유 생산 두 배 확대</b>
+<blockquote>Chevron은 베네수엘라 합작 사업을 확대하기 위해 $70억 투자를 약속했다. 백악관이 베네수엘라의 대규모 증산을 추진하는 가운데 미국 석유 메이저의 투자가 본격화되고 있다.
+<a href="https://www.ft.com/content/a76721db-36e1-4198-aad8-8c90137aace9">[FT]</a></blockquote>
 
-<b>15. 글로벌 채권 매도세 심화...영국 금리 2008년 이후 최고</b>
-<blockquote>인플레이션 우려로 글로벌 채권 매도세가 심화되면서 영국 국채 수익률은 2008년 이후 최고, 일본 국채 수익률은 1990년대 이후 최고 수준을 기록했다.
-<a href="https://www.ft.com/content/e6f5f97a-b199-444e-aaec-b8199359b08e">[FT]</a></blockquote>
+<b>13. Pentagon 리더십 공백 심화...육군장관 Driscoll, Hegseth와 충돌 후 사임</b>
+<blockquote>육군장관 Dan Driscoll이 국방장관 Pete Hegseth와의 갈등 끝에 사임하면서 국방부 리더십 공백이 심화되고 있다. 미군이 이란과의 장기 분쟁에 직면한 상황에서 '심각한 리더십 공백'이 우려된다.
+<a href="https://www.ft.com/content/c74c483e-82ff-4b53-b59b-2404e659555a">[FT]</a></blockquote>
 
-<b>16. 각국 정부, 채권시장 경고음에 귀 기울여야...재정 억압은 한계</b>
-<blockquote>채권 수익률 급등에 대응해 금융 억압(financial repression) 정책으로 차입 비용을 관리하는 것은 지속 가능하지 않다. 각국 정부는 채권시장의 경고를 진지하게 받아들여야 한다.
-<a href="https://www.ft.com/content/fe0fc9bf-e7dc-4fa1-91d2-4d7bad22c3c3">[FT]</a></blockquote>
+<b>14. 러시아-NATO 그레이존 공격 확대...독일 라이프치히 드론 공격</b>
+<blockquote>러시아가 조직한 것으로 보이는 일련의 그레이존 공격이 NATO 유럽 회원국들의 대응 수위를 시험하고 있다. 독일은 라이프치히 드론 공격에 대해 러시아를 비난했다.
+<a href="https://www.wsj.com/world/europe/russia-is-testing-natos-ability-to-hold-back-from-a-hot-war-6ef687db">[WSJ]</a></blockquote>
 
-<b>17. 영국 채권 급락에 10월 예산안 증세 우려 확산...재정 압박 심화</b>
-<blockquote>채권 폭락으로 영국 총리와 재무장관이 10월 예산안을 준비하는 가운데, 주요 정책 재원 마련을 위한 증세 가능성이 제기되고 있다.
-<a href="https://www.ft.com/content/4002eb81-07c0-47d0-a076-a6f6331667b2">[FT]</a></blockquote>
+<b>15. 우크라이나 정보기관 간 총격전 발생...Zelenskyy, 스파이 기관 질책</b>
+<blockquote>우크라이나 수도 키이우에서 정보기관 간 무장 대치 끝에 총격전이 발생, 군인 3명이 부상당했다. 우크라이나 내 강력한 정보기관들 간 갈등이 심화되고 있다.
+<a href="https://www.wsj.com/world/gunfight-in-kyiv-deepens-feud-between-ukraines-powerful-spy-agencies-cd9ba2ac">[WSJ]</a></blockquote>
 
-<b>18. AI 거품과 채권·주식 퍼즐 풀이...자금 조달 방식이 핵심</b>
-<blockquote>모든 거품이 그렇듯, AI 붐에서 중요한 것은 이 붐이 어떻게 자금 조달되고 있는가이다. 채권과 주식시장 간 괴리를 이해하는 열쇠가 여기에 있다.
-<a href="https://www.ft.com/content/b189d31a-5e56-471e-91d1-c319aa68f174">[FT]</a></blockquote>
+<b>16. 네덜란드 중앙은행, 금괴 보관지 뉴욕→런던 이동...지정학 불안 반영</b>
+<blockquote>네덜란드 중앙은행(DNB)이 금괴 보관 장소를 뉴욕에서 런던으로 옮기고 있다. '지정학적 불안'을 이유로 들며 런던의 금괴 거래 편의성을 강조했다.
+<a href="https://www.ft.com/content/1749e753-9c90-4ff5-91ec-8df764f3b26d">[FT]</a></blockquote>
 
-<b>19. Warsh 의장 자기 실수 수습...하지만 미국 신뢰도는 여전히 훼손</b>
-<blockquote>Kevin Warsh Fed 의장이 스스로 초래한 혼란을 정리하고 있지만, 그가 대응해야 할 경제 정책 문제의 상당수는 트럼프 행정부에서 비롯됐다. 미국의 정책 신뢰도는 여전히 긴장 상태다.
-<a href="https://www.ft.com/content/b0bde505-2093-4d72-9f20-b1db23e08261">[FT]</a></blockquote>
+<b>17. EU, 외교서비스 분할 계획 가속...재정절감 압박 속 프랑스·독일 주도</b>
+<blockquote>EU는 브뤼셀의 예산 절감 압박이 커지는 가운데 외교서비스 개편 계획을 가속화하고 있다. 프랑스와 독일이 개혁을 주도하고 있다.
+<a href="https://www.ft.com/content/1e55d948-98e5-4c1a-8a09-51e1311fcf63">[FT]</a></blockquote>
 
-<b>20. 유로존 8월 인플레 3년 만에 최고...ECB 금리 인상 압박</b>
-<blockquote>유로존 8월 인플레이션이 3개월 연속 상승하며 거의 3년 만에 최고치를 기록했다. ECB가 다음 주 기준금리를 인상할 것이란 전망이 강화되고 있다.
-<a href="https://www.wsj.com/economy/central-banking/eurozone-inflation-climbs-to-near-three-year-high-ahead-of-ecb-meeting-2566d178">[WSJ]</a></blockquote>
+<b>18. 시진핑, 이집트 방문으로 중동 관계 강화...미국 방문 앞두고</b>
+<blockquote>중국 주석 시진핑이 미국 방문을 앞두고 이집트를 방문하며 중동 지역과의 관계를 강화하고 있다. 드문 해외 순방 일정이 주목받고 있다.
+<a href="https://www.wsj.com/world/chinas-xi-bolsters-mideast-ties-with-egypt-visit-ahead-of-planned-u-s-trip-1a756323">[WSJ]</a></blockquote>
 
-<b>21. ECB, 인플레 재가속에 9월 금리 인상 전망...유로존 8월 물가 급등</b>
-<blockquote>유로존의 8월 HICP 인플레이션율이 재차 상승했다. ECB가 9월 회의에서 금리를 인상할 것이란 시장 기대가 커지고 있다.
-<a href="https://www.ft.com/content/99a48c12-cb13-47dd-8a31-fff9a157d7ea">[FT]</a></blockquote>
+<b>19. 이스라엘, 주간 공중지원 작전으로 하마스 고위급 인사 체포</b>
+<blockquote>이스라엘이 드론을 동원한 대담한 주간 급습 작전으로 하마스 고위 인사를 체포했다. 트럼프 대통령의 평화안에 시간을 주라는 미국의 압박에도 불구하고 공습을 이어가고 있다.
+<a href="https://www.wsj.com/world/middle-east/in-daylight-raid-backed-by-drones-israel-seizes-senior-hamas-militant-ed404b0b">[WSJ]</a></blockquote>
 
-<b>22. Fed 매파 vs 재무부 비둘기...전쟁 장기화가 연준 딜레마 심화</b>
-<blockquote>Fed 이사 한 명은 인플레이션이 개선되지 않으면 조속히 대응해야 한다고 주장한 반면, 재무장관은 에너지 가격 충격을 연준이 무시해야 한다고 말했다. 끝나지 않는 전쟁이 연준의 다음 결정을 복잡하게 만들고 있다.
-<a href="https://www.wsj.com/economy/central-banking/a-war-that-wont-end-is-complicating-the-feds-next-move-77f186d1">[WSJ]</a></blockquote>
+<b>20. 두바이 국제학교 재개...미국-이란 전쟁 후 신뢰 회복 시험대</b>
+<blockquote>두바이의 국제학교들이 새 학기를 시작하면서 미국-이란 전쟁 이후 부유층 외국인을 계속 유치할 수 있을지 시험대에 올랐다. 학기 시작은 두바이의 회복력을 가늠하는 중요한 지표다.
+<a href="https://www.ft.com/content/1c964d75-039f-4669-ae25-12c6418c7826">[FT]</a></blockquote>
 
-<b>23. 미국 증시 하락...유가·금리 급등에 미-이란 전쟁 격화</b>
-<blockquote>호르무즈 해협 군사 공격으로 유가 선물과 채권 수익률이 급등하면서 미국 증시가 3거래일 연속 하락했다.
-<a href="https://www.wsj.com/finance/investing/u-s-stocks-fall-as-oil-bond-yields-spike-u-s-iran-war-heats-up-f87d48da">[WSJ]</a></blockquote>
+<b>21. G-20, 중국 과잉생산 암묵적 비판 성명 채택...국제 압박 새 국면</b>
+<blockquote>G-20이 중국의 수출 의존 성장을 암묵적으로 비판하는 성명을 채택했다. 중국 과잉생산에 대한 국제사회의 압박이 새로운 단계로 진입했다는 평가가 나온다.
+<a href="https://www.wsj.com/world/china/u-s-says-its-fed-up-with-chinas-overcapacityand-more-countries-agree-ec6cc8e5">[WSJ]</a></blockquote>
 
-<b>24. 7월 미국 구인 건수 730만 건으로 소폭 증가...고용 둔화 지속</b>
-<blockquote>7월 구인 건수가 6월 720만 건에서 730만 건으로 소폭 늘었으나 채용은 감소했다. 저채용·저해고 노동시장이 최소 작년부터 이어지고 있다는 신호가 또 나왔다.
-<a href="https://www.wsj.com/economy/jobs/u-s-job-openings-rose-in-july-as-hiring-ticked-down-0672e1d3">[WSJ]</a></blockquote>
+<b>22. 미국 민간 고용 8월 둔화...ADP 3.8만 명 증가, 1월 이후 최저</b>
+<blockquote>ADP에 따르면 미국 민간 기업이 8월 3만8000명을 순증했다. 7월 수정치 4만6000명에 이어 1월 이후 가장 느린 고용 증가세를 기록했다.
+<a href="https://www.wsj.com/economy/jobs/private-sector-hiring-slowed-in-august-90d95697">[WSJ]</a></blockquote>
 
-<b>25. 8월 미국 제조업 성장 둔화...ISM 지수 54.6으로 하락</b>
-<blockquote>ISM 제조업 구매관리자지수가 8월 54.6을 기록해 7월 55.6에서 하락했다. 시장 예상치 55.3을 밑돌았다.
-<a href="https://www.wsj.com/economy/u-s-factory-activity-growth-slowed-in-august-c3b66b11">[WSJ]</a></blockquote>
+<b>23. Broadcom 3분기 순이익 3배 증가...AI 맞춤 칩 수요 2년 지속 전망</b>
+<blockquote>Broadcom은 3분기 순이익이 3배 이상 증가하고 매출은 거의 두 배 늘었다고 발표했다. 맞춤형 반도체 수요는 향후 2년간 계속 증가할 것으로 전망했다.
+<a href="https://www.wsj.com/business/earnings/broadcom-third-quarter-profit-soars-on-ai-driven-revenue-growth-c5add826">[WSJ]</a></blockquote>
 
-<b>26. 미국 기업들 수입 비용 절감 위해 제품 라인 축소...선택지 급감</b>
-<blockquote>소매업체들이 수입·운송·보관 비용 상승에 대응해 제품 라인을 대폭 줄이고 있다. 소비자 선택의 폭이 크게 좁아지고 있다.
-<a href="https://www.wsj.com/logistics-report/companies-slash-consumer-choice-to-save-on-import-costs-0d0b5964">[WSJ]</a></blockquote>
+<b>24. HPE, AI 수요 급증으로 3분기 순이익 5배 증가...장기 목표 상향</b>
+<blockquote>HPE는 두 부문 모두에서 매출이 증가하며 3분기 순이익이 5배 이상 늘었다. AI 수요에 힘입어 장기 성장 목표를 상향 조정했다.
+<a href="https://www.wsj.com/business/earnings/hpe-boosts-outlook-as-ai-demand-drives-surge-in-third-quarter-profit-2ba3b90a">[WSJ]</a></blockquote>
 
-<b>27. 캐나다 중앙은행, 수요일 금리 동결 전망...미국 무역갈등 영향 평가</b>
-<blockquote>캐나다 중앙은행이 수요일 기준금리를 동결할 것으로 예상된다. 오타와-워싱턴 무역 관계 급격한 악화에 따른 후폭풍을 평가하는 중이다.
-<a href="https://www.wsj.com/economy/central-banking/bank-of-canada-expected-to-remain-on-hold-as-trade-conflict-with-u-s-escalates-fcf9659c">[WSJ]</a></blockquote>
+<b>25. Google, 광고 독점 소송에서 사업부 분할 면해...관행 시정 명령만</b>
+<blockquote>연방 판사는 Google이 웹 퍼블리셔의 광고 단가를 낮추는 관행을 중단하라고 명령했지만, 법무부가 요청한 광고 거래소 매각은 기각했다.
+<a href="https://www.wsj.com/business/media/google-avoids-breakup-of-dominant-ad-tech-business-0eb492c0">[WSJ]</a></blockquote>
 
-<b>28. G20 공동성명 무산...중국, '비시장 정책' 표현에 반발</b>
-<blockquote>미국 주최 G20 회의 이후 중국이 공동성명 문구에 반발하면서 성명 발표가 무산됐다. 베이징은 무역 불균형 해소를 위해 '비시장' 정책을 제거하라는 표현에 이의를 제기했다.
-<a href="https://www.ft.com/content/dcefdf76-9bac-4b34-80c2-eab80b559f53">[FT]</a></blockquote>
+<b>26. Microsoft, 보고 구조 개편...AI 영향 반영해 3개→2개 부문으로</b>
+<blockquote>Microsoft는 보고 구조를 기존 3개 부문에서 2개 부문—Agents and Infra, Devices and Consumer—으로 변경한다. AI의 영향을 반영한 조직 재편이다.
+<a href="https://www.wsj.com/tech/ai/microsoft-to-change-reporting-structure-to-reflect-effects-of-ai-59dce66d">[WSJ]</a></blockquote>
 
-<b>29. 21개 은행, 공동 스테이블코인 출시 계획...디지털 자산 경쟁 대응</b>
-<blockquote>대형 은행들을 포함한 21개 금융회사가 공동으로 스테이블코인을 발행할 회사를 설립할 계획이다. 디지털 자산과의 경쟁에 대응하기 위한 조치다.
-<a href="https://www.wsj.com/finance/banking/these-banks-are-banding-together-to-launch-a-stablecoin-6de07eff">[WSJ]</a></blockquote>
+<b>27. 트럼프 행정부, OpenAI 저작권 소송 지지 입장...AI 훈련 제한은 국가안보 우려</b>
+<blockquote>트럼프 행정부 관리들은 법원 서면에서 AI 기업의 콘텐츠 학습 능력을 제한하는 것은 국가안보 우려를 야기한다고 밝혔다. 출판사들과의 저작권 소송에서 OpenAI를 지지하는 입장을 표명했다.
+<a href="https://www.wsj.com/tech/ai/u-s-government-backs-openai-in-copyright-fight-with-publishers-64a0735b">[WSJ]</a></blockquote>
 
-<b>30. 채권 매도세 시대, 채권 투자 가이드...분산 포트폴리오 여전히 유효</b>
-<blockquote>자문가들은 글로벌 채권시장 폭락에도 불구하고 채권이 분산 포트폴리오에서 여전히 중요한 역할을 한다고 조언했다.
-<a href="https://www.wsj.com/finance/investing/a-guide-to-owning-bonds-when-they-are-selling-off-be8e0a2b">[WSJ]</a></blockquote>
+<b>28. G-20 CEO들과 트럼프 행정부, AI 친화적 정책 채택 요구</b>
+<blockquote>기술 기업 CEO들과 미국 관리들은 엄격한 규제가 글로벌 성장을 견인하고 질병을 치료할 수 있는 산업을 질식시킬 수 있다고 G-20에 경고했다.
+<a href="https://www.wsj.com/tech/ai/tech-ceos-trump-administration-ask-g-20-to-adopt-pro-ai-policies-5b27a45c">[WSJ]</a></blockquote>
+
+<b>29. Uber, Delivery Hero $15bn 인수 제안에 이사회 지지 확보</b>
+<blockquote>독일 배달 기업 Delivery Hero는 경영진과 감독이사회가 미국 Uber의 인수 제안을 독립적으로 검토했다고 밝혔다.
+<a href="https://www.wsj.com/business/ubers-15-billion-takeover-bid-gets-delivery-hero-board-backing-2f6c992e">[WSJ]</a></blockquote>
+
+<b>30. Uber, 10% 인력 감축 단행...팬데믹 이후 최대 구조조정</b>
+<blockquote>Uber는 3300개 일자리를 없애는 구조조정을 단행한다. 음식 배달 부문 경쟁 심화와 로보택시 경쟁 격화 속에 팬데믹 이후 최대 규모 감원이다.
+<a href="https://www.ft.com/content/5eda86fe-1d2c-4a4e-9563-24a50aa734a4">[FT]</a></blockquote>
+
+<b>31. JPMorgan, Jane Street에 대출 제한...채권시장 진출 견제</b>
+<blockquote>JPMorgan은 작년 트레이딩 전문 업체 Jane Street가 미국 국채 시장메이킹에 진출한 후 대출을 축소한 것으로 알려졌다.
+<a href="https://www.ft.com/content/07e849ac-ea87-4227-81d4-7f18b0d7d473">[FT]</a></blockquote>
+
+<b>32. PVH 2분기 매출 감소, 이란 전쟁 압박...1억290만 달러 적자</b>
+<blockquote>Tommy Hilfiger와 Calvin Klein을 보유한 PVH는 2분기 1억290만 달러 적자를 기록했다. 전년 동기 2억2420만 달러 흑자에서 적자 전환했으며, 이란 전쟁 압박이 원인으로 지목됐다.
+<a href="https://www.wsj.com/business/earnings/pvh-second-quarter-revenue-falls-on-pressure-from-iran-war-c2c01c3f">[WSJ]</a></blockquote>
+
+<b>33. 이란 제재 효과에 회의론 확산...역사적 선례는 부정적</b>
+<blockquote>러시아, 북한, 쿠바, 베네수엘라는 모두 억압과 다양한 제재 회피 수단을 동원해 서방의 강력한 압박에도 버텨왔다. 이란에 대한 '경제적 D-Day'도 험난한 길이 예상된다.
+<a href="https://www.wsj.com/world/why-washingtons-economic-d-day-against-iran-faces-steep-odds-19a21279">[WSJ]</a></blockquote>
+
+<b>34. 히말라야 재난, 중국 지역 리더십 시험대...네팔과의 관계 주목</b>
+<blockquote>중국은 수년간 네팔과 관계를 구축해왔다. 이제 베이징은 자국의 지원이 이웃 국가에도 도움이 될 수 있음을 보여줘야 하는 압박에 직면했다.
+<a href="https://www.wsj.com/world/asia/himalayan-disaster-tests-chinas-clout-as-regional-leader-d7aebada">[WSJ]</a></blockquote>
+
+<b>35. 공화당, 트럼프에 Maga Inc $4억 전쟁자금 투입 촉구...중간선거 자금난</b>
+<blockquote>미국 대통령의 슈퍼팩 Maga Inc는 11월 선거에서 공화당 패배를 예상하는 여론조사가 나오는데도 아직 중간선거에 큰 돈을 투입하지 않고 있다. 공화당 의원들이 트럼프에게 자금 투입을 촉구하고 있다.
+<a href="https://www.ft.com/content/8f699fbc-cb01-4846-837c-0d1528a620d0">[FT]</a></blockquote>
+
+<b>36. Economist: Kevin Warsh, 중앙은행의 암울한 미래 앞에 시간 벌어</b>
+<blockquote>중앙은행은 암울한 미래에 직면해 있지만, 연준 의장 Kevin Warsh는 자신에게 시간을 벌었다는 평가가 나온다.
+<a href="https://www.economist.com/finance-and-economics/2026/09/02/central-banking-has-a-forbidding-future">[Economist]</a></blockquote>
+
+<b>37. Economist: 데이터센터, 미국 중간선거 최대 정치 이슈로 부상</b>
+<blockquote>데이터센터 시설에 대한 증오가 커지면서 미국 중간선거 판도를 바꾸고 있다. 데이터센터가 어떻게 뜨거운 정치 이슈가 됐는지 조명했다.
+<a href="https://www.economist.com/united-states/2026/09/02/how-data-centres-became-one-of-americas-hottest-political-issues">[Economist]</a></blockquote>
+
+<b>38. Economist: 트럼프 베네수엘라 딜, 민주주의 차단 인센티브 우려</b>
+<blockquote>트럼프 대통령의 베네수엘라 딜은 대담하지만 문제가 있으며, 더 나쁜 것은 민주주의를 차단할 인센티브를 만든다는 비판이 제기됐다.
+<a href="https://www.economist.com/leaders/2026/09/02/donald-trumps-venezuela-deal-is-bold-but-dodgy">[Economist]</a></blockquote>
+
+<b>39. FT 사설: 베네수엘라 석유 딜 비판...트럼프 국가 자본주의의 잘못된 사례</b>
+<blockquote>베네수엘라 경제를 되살리는 잘못된 방법이라는 비판이 제기됐다. 석유 딜은 트럼프의 새로운 국가 자본주의를 보여주는 가장 극명한 사례라는 평가다.
+<a href="https://www.ft.com/content/1fef1e44-2a79-4057-89e5-33417e5a7763">[FT]</a></blockquote>
+
+<b>40. FT 사설: 유럽 성장은 생사 문제...국방 재원 마련 유일한 길</b>
+<blockquote>성장은 치명적 적들을 가진 대륙의 방위 재원을 마련하는 유일한 방법이다. 유럽에 성장이 생사를 가르는 문제라는 논평이다.
+<a href="https://www.ft.com/content/978fbb75-14b1-4cb7-96b7-c761b4b9a8a6">[FT]</a></blockquote>
 
 ━━━━━━━━━━━━━━━━━━━━
 📡 <b>출처: WSJ · FT · The Economist</b>
