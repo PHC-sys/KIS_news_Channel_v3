@@ -4,145 +4,125 @@
 
 ✅ <b>간밤의 주요 헤드라인</b>
 
-<b>1. Waller 연준 이사 비둘기파 발언...금리동결 가능성 부각</b>
-<blockquote>Christopher Waller 연준 이사가 8월 인플레이션 지표가 뒷받침할 경우 9월 회의에서 금리를 동결하는 방안을 지지할 수 있다고 밝혔다. 이 발언 이후 미국 국채수익률이 하락하고 주식시장은 상승세를 보였다. 다우지수는 600포인트 이상 올랐다.
-<a href="https://www.wsj.com/finance/stocks/u-s-stocks-rise-as-waller-comments-weigh-on-yields-ease-rate-fears-b9dbaea4">[WSJ]</a></blockquote>
+<b>1. 미국 8월 고용 16.2만 명 증가...연준 9월 인상 베팅 급등</b>
+<blockquote>미국 8월 비농업 고용이 16.2만 명 늘며 시장 예상을 크게 웃돌았다. 실업률은 4.1%로 역사적 저점을 유지했다. 연준의 9월 금리 인상 가능성이 높아지면서 단기 국채 수익률과 달러가 급등하고 주식과 금 가격은 하락했다.
+<a href="https://www.ft.com/content/a7ce8b2f-98f5-4e96-afa0-ccf4dceef8bd">[FT]</a></blockquote>
 
-<b>2. BoE 수석 이코노미스트 금리인상 필요성 제기...연준과 대조</b>
-<blockquote>영란은행 수석 이코노미스트 Huw Pill은 전쟁의 향방이 불확실한 상황에서 인플레이션이 목표치 이상에서 장기화할 위험을 제한하기 위해 기준금리를 인상해야 한다고 밝혔다. 이는 연준의 온건한 기조와 대비를 이룬다.
-<a href="https://www.wsj.com/economy/central-banking/boes-chief-economist-sees-need-for-rate-rise-as-wars-course-remains-uncertain-3a2976f4">[WSJ]</a></blockquote>
+<b>2. 미 국채 수익률·금리 인상 베팅 동반 상승...9월 FOMC 긴장 고조</b>
+<blockquote>8월 고용 보고서 이후 미 국채 수익률이 급등하고 9월 16일 연준 회의에서 금리 인상 가능성이 커졌다. 시장은 인플레이션 억제를 위한 추가 긴축 신호에 주목하고 있다. 다음 주 발표될 미국 인플레이션 지표와 ECB 금리 인상 결정이 주요 변수로 부상했다.
+<a href="https://www.wsj.com/economy/global/u-s-european-bond-yields-little-changed-ahead-of-key-jobs-data-6528bb59">[WSJ]</a></blockquote>
 
-<b>3. 글로벌 채권시장 매도세 소강...연준 금리인상 기대 후퇴</b>
-<blockquote>미국 연준의 금리인상 기대가 냉각되면서 국채수익률이 하락했다. 하지만 채권시장의 매도세가 완전히 끝난 것은 아니라는 분석이 나온다.
-<a href="https://www.wsj.com/economy/central-banking/global-bond-markets-take-a-breather-1572d1e3">[WSJ]</a></blockquote>
+<b>3. 주식·채권 동반 하락...강력한 고용 지표에 금리 인상 우려</b>
+<blockquote>미 증시가 예상보다 강한 고용 지표로 하락 마감했다. 연준 정책 불확실성이 커지면서 단기 채권 가격도 동반 하락했다. 투자자들은 9월 금리 인상 베팅을 늘리며 위험자산 비중을 축소하는 모습이다.
+<a href="https://www.wsj.com/finance/stocks/u-s-stock-futures-treasurys-little-moved-ahead-of-jobs-data-36dab277">[WSJ]</a></blockquote>
 
-<b>4. 미국 서비스업 PMI 8월 55.4 기록...견조한 확장세 지속</b>
-<blockquote>공급관리협회(ISM)가 발표한 8월 서비스업 구매관리자지수는 55.4로 7월 54.1에서 상승했다. 서비스업 활동이 다시 확장세를 보이며 경기 회복력을 시사했다.
-<a href="https://www.wsj.com/economy/central-banking/u-s-services-sector-activity-expanded-again-in-august-8b89a0e3">[WSJ]</a></blockquote>
+<b>4. 단기 금리 상승·주식 약세...고용 호조에 연준 매파 전환 신호</b>
+<blockquote>뜨거운 고용 지표가 발표되자 단기 국채 수익률이 급등하고 주가는 하락했다. 시장은 연준이 9월에 금리를 인상할 가능성을 높게 보고 있다. 채권과 주식 시장 모두 긴축 기조 강화에 민감하게 반응하고 있다.
+<a href="https://www.wsj.com/finance/investing/u-s-stocks-fall-as-robust-august-jobs-data-spurs-yields-rate-hike-bets-0adff908">[WSJ]</a></blockquote>
 
-<b>5. 미국 실업수당 청구 20.6만 건...소폭 증가에도 안정세 유지</b>
-<blockquote>지난주 신규 실업수당 청구 건수가 20.6만 건으로 집계됐다. 일자리 창출이 둔화되는 가운데에도 청구 건수는 전반적으로 평탄한 흐름을 이어가고 있다.
-<a href="https://www.wsj.com/economy/jobs/u-s-jobless-claims-ticked-back-up-last-week-6757cac1">[WSJ]</a></blockquote>
+<b>5. 금·은 선물 하락...고용 호조로 달러 강세·금리 인상 전망</b>
+<blockquote>금 선물이 8월 고용 증가 16.2만 명 발표 이후 하락했다. 단기 국채 수익률 상승과 9월 연준 금리 인상 기대감이 안전자산 수요를 억누르고 있다. 은 선물도 동반 약세를 보이며 귀금속 시장 전반이 압박받고 있다.
+<a href="https://www.wsj.com/finance/commodities-futures/gold-rises-on-weaker-u-s-dollar-821f948d">[WSJ]</a></blockquote>
 
-<b>6. 원유 선물 혼조 마감...미-이란 갈등 장기화 우려 지속</b>
-<blockquote>이번 주 미국의 군사 공습 재개로 미-이란 갈등이 장기화할 것이라는 전망이 나오면서 유가는 보합권에서 혼조세로 마감했다. 시장은 갈등이 더 오래 지속될 것으로 보고 있다.
-<a href="https://www.wsj.com/finance/commodities-futures/oil-futures-fall-on-likely-technical-correction-cac84e35">[WSJ]</a></blockquote>
+<b>6. 중동 긴장 고조로 원유 주간 상승...이란 공격에 공급 우려</b>
+<blockquote>중동 지역 긴장이 높아지면서 원유 선물이 한 주 동안 상승세를 이어갔다. 미국의 이란 타깃 공습 재개와 이란의 선박 공격으로 공급 차질 우려가 커졌다. 노동절 연휴를 앞두고 등락을 거듭하며 장을 마감했다.
+<a href="https://www.wsj.com/finance/commodities-futures/oil-rises-amid-elevated-supply-disruption-concerns-fa01461e">[WSJ]</a></blockquote>
 
-<b>7. EU 겨울 가스 비축량 역대 최저...공급 압박 우려 고조</b>
-<blockquote>유럽연합이 겨울철을 앞두고 천연가스 비축량이 역사상 최저 수준을 기록했다. 가스저장협회 책임자는 상황이 문제가 될 수 있다고 경고했다.
-<a href="https://www.ft.com/content/5e9db3c2-70c0-40da-8767-88dcbaf8cfc5">[FT]</a></blockquote>
+<b>7. 이란 전쟁 격화로 디젤 사상 최고가 $5.85...11월 중간선거 앞두고 트럼프 압박</b>
+<blockquote>미국 디젤 가격이 갤런당 평균 $5.85로 사상 최고치를 기록하며 2022년 기록을 넘어섰다. 이란과의 전쟁 확대로 중동 에너지 공급 차질이 심화되면서 미국 산업 전반에 핵심 연료인 디젤 가격이 급등했다. 11월 중간선거를 앞두고 트럼프 행정부에 정치적 부담이 가중되고 있다.
+<a href="https://www.ft.com/content/aa71ca9a-b64f-41b6-8e6f-00ce03a47553">[FT]</a></blockquote>
 
-<b>8. 중국 전기차 확대로 호르무즈 리스크 완화 효과...에너지 전환 가속</b>
-<blockquote>중국의 전기차 확산이 호르무즈 해협 의존도를 낮추는 데 기여하고 있으며, 이는 아직 초기 단계에 불과하다. 에너지 전환이 지정학적 리스크를 줄이는 효과를 내고 있다.
-<a href="https://www.wsj.com/business/energy-oil/evs-helped-make-china-hormuz-proofand-they-are-still-just-getting-started-1de14fd2">[WSJ]</a></blockquote>
+<b>8. 디젤 사상 최고가로 트럼프 중간선거 난관...인플레 재점화 우려</b>
+<blockquote>디젤 가격이 갤런당 평균 $5.85로 역대 최고치를 찍으며 11월 중간선거를 앞둔 트럼프 대통령에게 새로운 도전과제가 되고 있다. 2022년 기록을 넘어선 연료비 급등은 인플레이션 재점화 우려를 키우고 있다.
+<a href="https://www.wsj.com/business/energy-oil/record-fuel-prices-pose-fresh-challenge-for-trump-ahead-of-midterms-fb433718">[WSJ]</a></blockquote>
 
-<b>9. 네덜란드 중앙은행 금 86톤 런던으로 이동...지정학 불안 대응</b>
-<blockquote>네덜란드 중앙은행은 지정학적 불안이 커지는 상황에서 뉴욕과 오타와에 보관 중이던 금 86톤을 런던으로 옮겼다고 밝혔다. 이는 유사시 금 거래 능력을 개선하기 위한 조치다.
-<a href="https://www.wsj.com/economy/central-banking/netherlands-moves-gold-from-new-york-to-london-citing-geopolitical-unrest-7a095eb8">[WSJ]</a></blockquote>
+<b>9. 천연가스 선물 상승...노동절 연휴에도 폭염 지속 전망</b>
+<blockquote>미국 천연가스 선물이 노동절 연휴를 앞두고 상승했다. 다음 주까지 무더위가 계속될 것으로 예상되면서 냉방 수요가 유지될 것이란 전망이 나왔다. 날씨 요인이 단기 가격 변동의 핵심 변수로 작용하고 있다.
+<a href="https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-pick-up-in-early-trading-f3754d92">[WSJ]</a></blockquote>
 
-<b>10. 금 선물 상승...국채수익률 하락·달러 약세에 반등</b>
-<blockquote>금 선물이 이틀 연속 상승하며 국채수익률 완화와 달러 약세에 힘입어 반등했다. 시장은 금요일 발표될 8월 고용 보고서를 주목하고 있다.
-<a href="https://www.wsj.com/finance/commodities-futures/gold-falls-markets-await-further-u-s-jobs-data-926919c4">[WSJ]</a></blockquote>
+<b>10. Volkswagen, 노조와 10만 명 추가 감원 합의...유럽 구조조정 가속</b>
+<blockquote>Volkswagen이 노조와 10만 명 추가 감원에 합의하며 경영진이 큰 승리를 거뒀다. 독일의 협력적 노사관계 모델에 타격을 주는 결정이다. 공장 폐쇄와 지배구조 문제는 향후 과제로 남아 유럽 자동차 산업 구조조정이 본격화되고 있다.
+<a href="https://www.economist.com/business/2026/09/04/vws-surprise-job-slashing-deal-is-a-big-win-for-its-bosses">[Economist]</a></blockquote>
 
-<b>11. 폭스바겐 5만 명 추가 감원 승인...구조조정 규모 두 배 확대</b>
-<blockquote>폭스바겐 이사회가 기존 계획보다 두 배 많은 약 5만 명을 추가로 감원하는 구조조정안을 승인했다. 독일 내 공장의 향후 방향은 여전히 불투명한 상태다.
-<a href="https://www.wsj.com/business/autos/volkswagen-board-approves-plan-to-cut-workforce-model-portfolio-ac933812">[WSJ]</a></blockquote>
+<b>11. VW 노사 타협 성사...공장 폐쇄·지배구조는 과제로 남아</b>
+<blockquote>Volkswagen이 수천 명 추가 감원 승인을 얻기 위해 공장 폐쇄와 지배구조 문제를 미래로 미뤘다. 노조와의 평화 협정은 성사됐지만 앞으로 더 큰 전투가 예고되고 있다. 유럽 자동차 산업의 구조적 변화가 가속화되는 신호다.
+<a href="https://www.wsj.com/business/autos/volkswagens-peace-deal-with-unions-sets-up-fresh-battles-to-come-2b826e18">[WSJ]</a></blockquote>
 
-<b>12. 폭스바겐 투자자 정크본드 강등 경고...대규모 감축 촉구</b>
-<blockquote>독일 최대 자산운용사 Union Investment는 폭스바겐이 대규모 구조조정을 단행하지 않으면 정크본드로 강등될 위험이 있다고 경고했다. 독일 내 10만 명 감축을 촉구하는 압력이 커지고 있다.
-<a href="https://www.ft.com/content/f128e38b-e7bf-4376-b3fd-6dbe871c7fad">[FT]</a></blockquote>
+<b>12. VW 경영진, 감원 합의로 승리...거버넌스 이슈는 미결로</b>
+<blockquote>Volkswagen 경영진이 대규모 감원 계획을 노조로부터 승인받는 데 성공했다. 하지만 지배구조 문제는 여전히 해결되지 않아 향후 갈등 요인으로 남아 있다. 유럽 자동차 산업의 구조조정이 새로운 국면에 접어들었다.
+<a href="https://www.ft.com/content/6662ffd4-13f6-453c-8e5a-365c4948b585">[FT]</a></blockquote>
 
-<b>13. 유럽 재정위기 심화...프랑스급 부채 문제 부상</b>
-<blockquote>미국도 막대한 부채를 안고 있지만, 유럽이 실질적인 부채 문제를 떠안고 있다는 분석이 나왔다. 프랑스 수준의 재정 문제가 유럽연합 중심부에 자리 잡고 있다.
-<a href="https://www.economist.com/europe/2026/09/03/america-has-a-whopping-debt-but-europe-has-the-whopping-debt-problem">[Economist]</a></blockquote>
+<b>13. 영국 Healey 재무장관, 첫 예산안서 친기업 기조...은행세 가능성 열어둬</b>
+<blockquote>영국 신임 재무장관 Healey가 첫 예산안에서 안정성을 강조하며 친기업 메시지를 냈다. 다만 은행에 대한 세금 인상 가능성은 배제하지 않았다. 금융 규제 완화 추진은 계속될 전망이다.
+<a href="https://www.ft.com/content/96a69838-e43b-42a0-b30d-4cc7a07b61d8">[FT]</a></blockquote>
 
-<b>14. ECB 9월 회의 프리뷰...통화정책 방향 주목</b>
-<blockquote>파이낸셜타임스가 유럽중앙은행의 9월 10일 회의를 앞두고 주요 관전 포인트를 정리했다. 에너지 위기와 재정 압박 속에서 ECB의 정책 결정이 주목된다.
-<a href="https://www.ft.com/content/8fad4a81-ae66-4248-9669-81138b0d0f2a">[FT]</a></blockquote>
+<b>14. 영국, '더 위험한 세계'에 강경 예산안 예고...재정 준칙 사수 방침</b>
+<blockquote>Healey 재무장관과 Andy Burnham 총리가 재정 준칙을 반드시 지키겠다고 밝히며 긴축 기조를 예고했다. 지정학적 불확실성이 커지는 가운데 영국이 강력한 재정 관리에 나설 것임을 시사했다.
+<a href="https://www.ft.com/content/6d43b599-3d7c-471c-88c2-0f056475a840">[FT]</a></blockquote>
 
-<b>15. 캐나다 Carney 총리 미국에 관세 보장 요구...협상 난항</b>
-<blockquote>Mark Carney 캐나다 총리는 미국과의 무역협정에서 합의된 관세 수준이 향후 변경되지 않을 것이라는 보장을 받지 못했다고 밝혔다. 미국이 관세 수준에 대한 확약을 주지 않아 협상이 어려움을 겪고 있다.
-<a href="https://www.wsj.com/world/americas/u-s-failed-to-give-assurances-on-tariff-levels-canadas-carney-says-9c0b4506">[WSJ]</a></blockquote>
+<b>15. BoE Bailey 총재, 중앙은행 독립성 위협 경고...포퓰리즘 비판</b>
+<blockquote>영란은행 총재 Andrew Bailey가 일부 정치 지도자들이 중앙은행을 '비대표적 엘리트'로 몰아가는 것이 심각한 도전이라고 경고했다. 포퓰리즘이 중앙은행 독립성을 위협하고 있다는 우려를 표명했다.
+<a href="https://www.ft.com/content/a6be8465-63ea-4c5f-8a3e-b46cd5475c7e">[FT]</a></blockquote>
 
-<b>16. 미국 무역적자 7월 886억 달러로 확대...수입 증가 영향</b>
-<blockquote>7월 미국 무역적자가 886억 달러로 6월 712억 달러에서 확대됐다. 수입이 수출보다 크게 늘어난 영향이다. 시장 예상치는 900억 달러였다.
-<a href="https://www.wsj.com/economy/trade/u-s-trade-deficit-widened-in-july-51cae4a2">[WSJ]</a></blockquote>
+<b>16. 영국 Reform 당 불법 자금 의혹...핵심 보좌관 2명 사퇴</b>
+<blockquote>영국 Reform 당 대표 Nigel Farage의 핵심 보좌관 2명이 불법 해외 자금 조달 의혹이 제기된 후 사퇴했다. 경찰이 정치 기부금 관련 법 위반 혐의를 검토 중이다. 당 내부에서 새로운 스캔들이 터지며 정치적 타격이 우려된다.
+<a href="https://www.wsj.com/world/europe/u-k-s-reform-party-hit-with-fresh-funding-allegations-fc4cd7d2">[WSJ]</a></blockquote>
 
-<b>17. 캐나다 보복관세 압박 강화...미국 정치권 타격 목표</b>
-<blockquote>캐나다가 미국에 최대한의 정치적 압박을 가하기 위해 보복관세를 전략적으로 설계하고 있다는 분석이 나왔다. 미국 내 주요 선거구를 겨냥한 관세 부과가 예상된다.
-<a href="https://www.economist.com/united-states/2026/09/03/where-canada-can-hurt-america-most">[Economist]</a></blockquote>
+<b>17. Farage, Reform 당 불법 자금 의혹에 "법 위반 없었다" 주장</b>
+<blockquote>Nigel Farage가 Reform 당이 법을 어긴 적 없다고 주장했지만, 불법 해외 자금 조달 시도 의혹으로 주요 보좌관들이 사퇴하면서 버밍엄 당 대회가 파장에 휩싸였다.
+<a href="https://www.ft.com/content/5c4f86d2-411f-4b3b-9926-d27432ffc290">[FT]</a></blockquote>
 
-<b>18. Lululemon 실적 부진에 연간 전망 재차 하향...매출 둔화</b>
-<blockquote>애슬레저 브랜드 Lululemon이 또 한 분기 실적 부진을 겪으며 연간 매출 전망을 103.5억~105억 달러로 하향 조정했다. 이전 가이던스는 110억~111.5억 달러였다.
-<a href="https://www.wsj.com/business/retail/lululemon-cuts-outlook-again-after-another-tough-quarter-07ac0b2a">[WSJ]</a></blockquote>
+<b>18. Reform 당 여론조사 기관, 규정 위반 '명백'...업계 단체 조사 착수</b>
+<blockquote>영국 여론조사협회가 Reform 당 소속 여론조사 기관 JL Partners의 규정 위반이 명백하다며 추가 정보를 요구했다. Channel Four News 보도 이후 Reform 당 자금 스캔들이 확대되고 있다.
+<a href="https://www.ft.com/content/89d8bb57-0e59-437e-a25d-d6556dcb42b0">[FT]</a></blockquote>
 
-<b>19. Campbell's 인력 13% 감축...분기 적자 전환에 구조조정</b>
-<blockquote>수프·스낵 제조업체 Campbell's가 최근 분기 적자를 기록하며 인력의 13%를 감축한다고 밝혔다. 높은 비용 압박과 수요 부진이 수익성을 악화시켰다.
-<a href="https://www.wsj.com/business/earnings/campbells-looks-to-reset-after-quarterly-loss-60335f2c">[WSJ]</a></blockquote>
+<b>19. Reform 당 자금 스캔들 여파...유권자 반응 냉담</b>
+<blockquote>Reform UK가 비밀 취재 보도로 타격을 입으면서 당 대회 분위기가 예년과 달리 침울했다. 과거 통하던 농담도 더 이상 먹히지 않는 모습이다.
+<a href="https://www.ft.com/content/7de897f0-a393-47f3-84ce-27aa64a67f07">[FT]</a></blockquote>
 
-<b>20. Victoria's Secret 가이던스 상향에도 성장 둔화...턴어라운드 진행 중</b>
-<blockquote>란제리 브랜드 Victoria's Secret는 연간 매출 전망을 71억~71.8억 달러로 상향 조정했지만, 2분기 매출 증가세는 둔화됐다. 턴어라운드 계획이 진전을 보이고 있지만 성장세는 식고 있다.
-<a href="https://www.wsj.com/business/retail/victorias-secret-boosts-fiscal-year-guidance-again-as-turnaround-pays-off-41897011">[WSJ]</a></blockquote>
+<b>20. Anthropic, $2조 IPO 주관사로 Morgan Stanley·Goldman Sachs 낙점 임박</b>
+<blockquote>AI 대기업 Anthropic이 $2조 규모 IPO 주관사로 Morgan Stanley와 Goldman Sachs를 선정할 것으로 보인다. 빠르면 다음 주 상장 서류 제출이 예상되며 월가 역사상 최대 규모 IPO가 될 전망이다.
+<a href="https://www.ft.com/content/3c9d0a82-643b-44ef-96a0-74a00e3c72ba">[FT]</a></blockquote>
 
-<b>21. Tyson Foods 매출 가이던스 하향...육류 공급 압박</b>
-<blockquote>육가공업체 Tyson Foods는 2026 회계연도 매출 증가율 전망을 1.5~2%로 낮췄다. 이전 전망치는 2.5~3.5%였다. 소 공급 압박이 원인으로 지목됐다.
-<a href="https://www.wsj.com/business/earnings/tyson-foods-cuts-revenue-guidance-citing-cattle-pressure-511e0d63">[WSJ]</a></blockquote>
+<b>21. AI 일자리 영향 초기 긍정적...고용 붕괴 우려 후퇴</b>
+<blockquote>AI 기술이 고용에 미치는 초기 영향이 긍정적으로 나타나고 있다. 대규모 일자리 감소 우려와 달리 AI 관련 신규 고용이 증가하는 모습이다. 일자리 종말론이 당분간 연기될 것으로 보인다.
+<a href="https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here">[Economist]</a></blockquote>
 
-<b>22. 기업들 소규모 팀 관리자 해고 증가...Uber 등 구조조정 단행</b>
-<blockquote>Uber를 비롯한 미국 기업들이 소규모 팀을 이끄는 중간관리자를 해고하는 추세가 확산되고 있다. 관리직 인력 축소가 구조조정의 주요 타깃이 되고 있다.
-<a href="https://www.wsj.com/business/corporate-america-is-axing-the-micro-team-boss-173d3e4e">[WSJ]</a></blockquote>
+<b>22. Hugging Face 창업자, 엔비디아 $13B 투자 배경 공개</b>
+<blockquote>Hugging Face 창업자들이 엔비디아로부터 $130억 투자를 받게 된 경위를 설명했다. 10대용 이모지 앱으로 시작한 스타트업이 오픈소스 AI의 선봉이 된 과정이 주목받고 있다.
+<a href="https://www.wsj.com/tech/ai/the-deeply-nerdy-founders-behind-nvidias-13-billion-bet-on-hugging-face-3a4b5227">[WSJ]</a></blockquote>
 
-<b>23. Nvidia, Hugging Face 130억 달러에 인수...오픈소스 AI 경쟁 격화</b>
-<blockquote>Nvidia가 오픈소스 AI 플랫폼 Hugging Face를 130억 달러에 인수하기로 합의했다. 이번 인수로 Nvidia는 OpenAI 및 Anthropic와 경쟁하는 오픈 웨이트 AI 모델 확산에 박차를 가한다.
-<a href="https://www.wsj.com/tech/ai/nvidia-agrees-to-buy-hugging-face-for-13-billion-11929060">[WSJ]</a></blockquote>
+<b>23. 중국 Moonshot AI CEO, 실리콘밸리 떠나 귀국...오픈소스 AI 경쟁 가세</b>
+<blockquote>33세 AI 스타 Yang Zhilin이 미국 경력을 포기하고 베이징으로 돌아가 Moonshot AI를 창업했다. 그의 오픈 웨이트 모델이 글로벌 시장을 흔들고 있다. 실리콘밸리 기술 인재의 중국 귀환이 AI 경쟁 구도를 바꾸고 있다.
+<a href="https://www.wsj.com/tech/moonshot-ai-yang-ceo-china-6f12ddbf">[WSJ]</a></blockquote>
 
-<b>24. Docusign AI 수요로 가이던스 상향...매출 전망 두 번째 상향</b>
-<blockquote>전자서명 솔루션 업체 Docusign이 인공지능 관련 수요 증가를 이유로 올해 두 번째로 매출 전망을 상향 조정했다. AI 수요가 실적을 견인하고 있다.
-<a href="https://www.wsj.com/business/earnings/docusign-raises-sales-view-on-higher-second-quarter-revenue-f41217a6">[WSJ]</a></blockquote>
+<b>24. 캐나다 8월 고용 4.17만 명 감소...실업률 6.4% 유지</b>
+<blockquote>캐나다가 8월 4만 1,700개 일자리를 잃었지만 실업률은 6.4%를 유지했다. 고용 감소에도 실업률이 변동 없는 것은 경제활동인구 감소 영향으로 풀이된다.
+<a href="https://www.wsj.com/economy/jobs/canada-unemployment-holds-at-6-4-though-employment-falls-821342b6">[WSJ]</a></blockquote>
 
-<b>25. IRS 대학 인종정책 세금면제 박탈 규정 제안...비용 부담 예고</b>
-<blockquote>미국 국세청이 인종 기반 입학·장학금 등 정책을 사용하는 대학의 세금 면제를 박탈하는 규정안을 제안했다. 이는 대학들에 막대한 비용 부담으로 이어질 수 있다.
-<a href="https://www.wsj.com/us-news/education/irs-proposes-rules-to-strip-tax-exemptions-from-colleges-using-race-in-policies-774a32af">[WSJ]</a></blockquote>
+<b>25. 미 법무부, 캐나다 정부와 반독점 협력 일시 중단 지시</b>
+<blockquote>법무부가 캐나다 정부와의 반독점 협력을 일시 중단하라는 이메일을 보냈으나, 이는 지시를 오해한 것이며 협력은 계속된다고 밝혔다. 무역 분쟁 와중에 나온 혼선으로 양국 관계에 긴장이 감돌고 있다.
+<a href="https://www.wsj.com/politics/policy/justice-department-hits-pause-on-cooperation-with-canadian-government-da9d74e0">[WSJ]</a></blockquote>
 
-<b>26. 트럼프 중간선거 전략 집중...공화당 내부 피로감 확산</b>
-<blockquote>공화당 지도부가 중간선거에서 하원과 상원 장악을 위해 트럼프 대통령을 전면에 내세우고 있지만, 일부 의원들 사이에서는 반발과 우려가 커지고 있다. 참패 가능성이 높아질 수 있다는 우려도 나온다.
-<a href="https://www.wsj.com/politics/elections/trump-fatigue-starts-to-rattle-republicans-9c17754d">[WSJ]</a></blockquote>
+<b>26. 일본 첫 여성 재무장관, 미일 관계·시장 안정 핵심 인물로 부상</b>
+<blockquote>일본의 첫 여성 재무장관이 미국 재무장관 Scott Bessent, 일본 총리 Takaichi, 그리고 글로벌 투자자들 사이를 잇는 핵심 연결고리로 주목받고 있다. 워싱턴과의 관계 및 시장 안정에서 중추 역할이 기대된다.
+<a href="https://www.ft.com/content/d8f53899-5aaa-4b5d-9b3b-5e2d4775a3aa">[FT]</a></blockquote>
 
-<b>27. 민주당 내분 심화...Jeffries 리더십 도전받아</b>
-<blockquote>민주당 소속 중도 의원 2명이 이번 주 공화당 주요 표결에서 이탈하며 Hakeem Jeffries 원내대표의 리더십에 의문이 제기되고 있다. 당내 결속력 유지가 도전받고 있다.
-<a href="https://www.wsj.com/politics/shock-defections-challenge-top-democrat-hakeem-jeffries-3d6282be">[WSJ]</a></blockquote>
+<b>27. 베네수엘라 대형 석유 거래...채권자들 회의적 반응</b>
+<blockquote>베네수엘라가 대규모 석유 거래를 체결했지만, 일반 채권자들은 카라카스가 달러로 충분한 원유를 생산·판매해 채무를 갚을 수 있을지 의문을 제기하고 있다.
+<a href="https://www.ft.com/content/f84c4053-3e14-4666-9543-7e958a1dadb2">[FT]</a></blockquote>
 
-<b>28. 아르헨티나 Milei 포클랜드 영유권 주장...지지율 하락 대응</b>
-<blockquote>Javier Milei 아르헨티나 대통령이 지지율 하락에 대응해 영국령 포클랜드 제도에 대한 영유권 주장을 부활시켰다. 트럼프 대통령의 발언이 계기가 됐으며, 국민 연설을 예고했다.
-<a href="https://www.wsj.com/world/americas/argentinas-milei-battles-falling-ratings-by-reviving-claim-to-the-falklands-40b9c3b4">[WSJ]</a></blockquote>
+<b>28. 버크셔 해서웨이, 시장 혼란 시 헤지 수단으로 부각</b>
+<blockquote>시장 불안정성이 높아질 경우 버크셔 해서웨이가 적극적 헤지 수단으로 기능할 가능성이 커지고 있다. 견고한 재무 구조를 갖춘 이 금융 요새가 시장 혼란기에 투자자들에게 안전판이 될 전망이다.
+<a href="https://www.ft.com/content/af5b1fd3-194d-4aed-b1ef-0bf662170952">[FT]</a></blockquote>
 
-<b>29. 베네수엘라 반대파 미국 석유 거래에 반발...도덕적 딜레마</b>
-<blockquote>베네수엘라 야당 지도자 María Corina Machado는 미국과의 석유 거래가 야당 진영에 분노를 촉발시켰다고 밝혔다. 트럼프 대통령에 대한 비판은 자제하면서도 광범위한 불만이 존재함을 시사했다.
-<a href="https://www.ft.com/content/c5dadf10-7c7e-4035-ae21-e18535d7d609">[FT]</a></blockquote>
+<b>29. 프랑스 검찰, 맥킨지 세무조사로 €65M 압류...조사 진행 중</b>
+<blockquote>프랑스 검찰이 맥킨지의 세무 관행을 조사하며 €6,500만을 잠정 압류했다. 벌금은 수사가 계속되는 동안 잠정적이며 최종 결과는 미정이다.
+<a href="https://www.ft.com/content/f8d6ef71-5c26-49c6-8b9b-dbe3eef85c2f">[FT]</a></blockquote>
 
-<b>30. Revolut 미국 은행 라이선스 예비 승인...핀테크 확장 이정표</b>
-<blockquote>영국 기반 핀테크 Revolut가 미국 통화감독청으로부터 은행 라이선스 예비 승인을 받았다. 이는 미국 내 사업 확장을 위한 중요한 이정표다.
-<a href="https://www.ft.com/content/d6c24b34-1520-4dc4-8996-83eab8e81941">[FT]</a></blockquote>
-
-<b>31. Leon Black, 하원 Epstein 조사에 소송 제기...출석 거부</b>
-<blockquote>억만장자 Leon Black이 하원 위원회를 상대로 소송을 제기하며 출석을 거부했다. 위원회가 여성들과의 비공개 합의서 제출을 강제할 수 없다고 주장하고 있다.
-<a href="https://www.wsj.com/politics/policy/leon-black-sues-house-committee-over-epstein-probe-a17aa95c">[WSJ]</a></blockquote>
-
-<b>32. Blackstone 프라이빗 크레딧 펀드 출금 제한 유지...인출 압박 지속</b>
-<blockquote>Blackstone의 430억 달러 규모 프라이빗 크레딧 펀드가 3분기에 펀드 가치의 10%에 해당하는 인출 요청을 받았다고 밝혔다. 출금 제한 조치를 유지하고 있다.
-<a href="https://www.ft.com/content/41017d78-2d1c-4a41-9dee-c9237179d616">[FT]</a></blockquote>
-
-<b>33. 엘니뇨 강도 역대급...농업 피해 우려 확대</b>
-<blockquote>유엔은 올해 엘니뇨가 최소 70년 만에 가장 강력한 수준이 될 것으로 예상되며, 전 세계 농산물 시장에 광범위한 혼란이 발생할 가능성이 높아졌다고 밝혔다.
-<a href="https://www.wsj.com/economy/global/el-nino-is-yet-to-peak-bringing-heat-and-agricultural-damage-in-tow-un-says-1cfe9dd0">[WSJ]</a></blockquote>
-
-<b>34. Microsoft 버지니아 데이터센터 비용 분쟁...대법원 항소</b>
-<blockquote>Microsoft가 버지니아주 대법원에 데이터센터 건설 관련 신규 규정에 대해 항소했다. 건설업체들이 전력망 인프라 비용을 선불로 부담해야 하는 규정을 문제 삼았다.
-<a href="https://www.ft.com/content/f86672dd-5ee5-46f6-8419-3c959814dd1c">[FT]</a></blockquote>
-
-<b>35. 폭스바겐 미국 리더십 교체...판매 부진에 2년 만에 교체</b>
-<blockquote>폭스바겐이 급격한 판매 감소 이후 미국 사업부를 다시 개편하며 베테랑 임원 Marco Schubert를 북미 사업 책임자로 임명했다. 현 책임자는 2년도 안 돼 회사를 떠난다.
-<a href="https://www.wsj.com/business/autos/volkswagen-shakes-up-u-s-leadership-again-after-steep-sales-declines-3cfe8454">[WSJ]</a></blockquote>
+<b>30. EQT, 보험 브로커 McGill $2B 인수...사모펀드의 보험 섹터 공략 가속</b>
+<blockquote>스웨덴 투자그룹 EQT가 보험 브로커 McGill and Partners 지분을 $20억에 인수하기로 합의했다. 사모펀드의 보험 섹터 투자가 확대되는 최신 사례다.
+<a href="https://www.wsj.com/finance/investing/eqt-to-buy-insurance-broker-mcgill-in-2-billion-deal-439b3cb8">[WSJ]</a></blockquote>
 
 ━━━━━━━━━━━━━━━━━━━━
 📡 <b>출처: WSJ · FT · The Economist</b>
