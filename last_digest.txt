@@ -4,29 +4,45 @@
 
 ✅ <b>간밤의 주요 헤드라인</b>
 
-<b>1. 미국, 이란 유조선 3척 타격...호르무즈 해협 통제권 다툼 격화</b>
-<blockquote>미군이 이란 유조선 3척을 공습했다. 이란이 미국 항공모함을 향해 미사일을 발사한 데 대한 보복 조치다. 6개월간 이어진 양국 간 충돌이 일시 중단됐다가 재개된 뒤 호르무즈 해협 통제권을 둘러싼 군사적 긴장이 다시 고조되고 있다.
-<a href="https://www.ft.com/content/7c7c07db-cde5-474d-9a20-8e2c2f273d4e">[FT]</a></blockquote>
+<b>1. 글로벌 인플레이션 재점화...각국 중앙은행 금리인상 재개</b>
+<blockquote>세계 주요국에서 인플레이션이 다시 고개를 들면서 중앙은행들이 금리인상 사이클을 재개하고 있다. 지난해 후반 안정세를 보이던 물가 상승률이 에너지·원자재 가격 반등과 공급망 병목 재발로 재가속되면서, 각국 통화당국들은 긴축 기조를 강화할 수밖에 없는 상황에 직면했다.
+<a href="https://www.economist.com/finance-and-economics/2026/09/06/inflation-is-back-around-the-world-as-is-the-fight-against-it">[Economist]</a></blockquote>
 
-<b>2. 美 항모에 미사일 발사 후 이란 선박 3척 타격...호르무즈 해협 긴장 최고조</b>
-<blockquote>미국이 이란의 미사일 공격을 받은 직후 이란 선박 3척을 타격했다. 양국은 호르무즈 해협 통제권을 놓고 군사적 충돌을 이어가고 있다. 이번 공습은 석유 수송로를 둘러싼 양측의 대립이 한층 격화되고 있음을 보여준다.
-<a href="https://www.wsj.com/world/middle-east/u-s-strikes-three-iranian-ships-after-missiles-fired-at-american-aircraft-carrier-ec5b3d5c">[WSJ]</a></blockquote>
+<b>2. 미국 연준, 9월 금리인상 결정 앞두고 인플레이션 데이터 주목</b>
+<blockquote>연방준비제도는 이번 주 발표될 인플레이션 지표를 토대로 9월 금리인상 여부를 결정할 전망이다. 시장은 연준이 물가 압력 재점화에 대응해 추가 긴축에 나설 가능성에 무게를 두고 있으며, 이번 주 경제지표가 통화정책 방향을 가늠하는 핵심 변수가 될 것으로 보인다.
+<a href="https://www.ft.com/content/cffea5bc-0255-4029-8e76-0c3671bf4d92">[FT]</a></blockquote>
 
-<b>3. Trump 특사, 우크라이나 평화안 들고 Putin 면담...공습 일시 중단 합의</b>
-<blockquote>Jared Kushner와 Steve Witkoff가 우크라이나 평화 협상안을 갖고 Putin과 회담을 진행했다. 러시아와 우크라이나는 특사 방문 기간 동안 공습을 중단하기로 합의했다. Trump 행정부의 중재 노력이 양측의 협상 재개로 이어질지 주목된다.
-<a href="https://www.ft.com/content/9ae2c655-bcf7-4ef2-9a9b-0855248d06a0">[FT]</a></blockquote>
+<b>3. OPEC+ 10월 증산 동결 결정...6개월 연속 증산 후 전환</b>
+<blockquote>석유수출국기구(OPEC)와 러시아 등 산유국 동맹체는 10월 원유 생산량을 현 수준으로 동결하기로 합의했다. 지난 6개월간 월별 증산을 지속해온 카르텔이 증산 중단으로 돌아서면서, 글로벌 유가와 에너지 시장 공급 전망에 변수가 생겼다.
+<a href="https://www.wsj.com/business/energy-oil/opec-allies-agree-to-keep-oil-output-steady-in-october-c7fceb83">[WSJ]</a></blockquote>
 
-<b>4. Putin, Trump 특사와 회담...우크라이나 평화 협상 재개 추진</b>
-<blockquote>Putin이 Trump 특사인 Witkoff와 Kushner를 만나 우크라이나 평화 협상 재개를 논의했다. 러시아는 특사의 우크라이나 방문 기간 동안 Kyiv에 대한 공격을 중단하겠다고 약속했다. 미국의 중재로 양측이 협상 테이블에 복귀할 가능성이 거론된다.
-<a href="https://www.wsj.com/world/russia/putin-to-meet-trump-envoys-as-u-s-pushes-to-revive-ukraine-peace-talks-564945af">[WSJ]</a></blockquote>
+<b>4. 미 해군, 호르무즈 해협 기뢰 제거 작전 수행...야간 은밀 작전</b>
+<blockquote>미국 해군 잠수부대와 로봇 장비가 호르무즈 해협의 기뢰를 제거하기 위해 은밀한 야간 작전을 수행했다. 글로벌 원유 수송의 핵심 통로인 이 해협에서 기뢰 위협이 현실화되면서, 에너지 안보와 공급망 리스크에 대한 우려가 커지고 있다.
+<a href="https://www.ft.com/content/04031dbe-7412-441e-8aaa-89a9ee6c7439">[FT]</a></blockquote>
 
-<b>5. 러-우크라 평화 협상 내년 시작 가능...전 MI6 수장 전망</b>
-<blockquote>전 영국 정보국(MI6) 국장 John Sawers는 러시아와 우크라이나 간 평화 협상이 내년 시작될 수 있다고 밝혔다. 다만 Putin이 집권하는 한 지속 가능한 평화는 현실적으로 어렵다고 덧붙였다. 협상 재개 가능성과 함께 구조적 한계도 함께 지적됐다.
-<a href="https://www.ft.com/content/4826a106-9cd4-45bc-8436-69e2519d0205">[FT]</a></blockquote>
+<b>5. 이스라엘, 레바논 공습 강화...재무부·병원 건물 피격</b>
+<blockquote>이스라엘군이 레바논에 대한 공습을 확대하면서 재무부 청사가 손상되고 빈 병원 건물이 파괴됐다. 레바논 정부는 '위험한 확전'이라고 경고했으며, 중동 지역 긴장 고조가 에너지 시장과 지정학 리스크 프리미엄에 영향을 미칠 것으로 보인다.
+<a href="https://www.ft.com/content/1b46baac-10e7-444f-99c5-c661c164b2f1">[FT]</a></blockquote>
 
-<b>6. 美 국채 매도 압력에 정크본드 스프레드 확대...최약체 차입자 압박</b>
-<blockquote>미국 국채 매도세가 이어지면서 정크본드 스프레드가 확대됐다. 최고 위험 등급 채권의 스프레드는 작년 '해방의 날' 관세 충격 이후 최고 수준까지 올랐다. 금리 상승 압력이 신용도가 낮은 차입자들에게 집중되고 있다.
-<a href="https://www.ft.com/content/6e096712-5abe-48c5-8e4d-c0042f947639">[FT]</a></blockquote>
+<b>6. 미국 은행들, 이란 제재 우회 거래에 취약...대이란 압박 약한 고리</b>
+<blockquote>미국 금융기관들이 이란에 대한 경제 제재를 우회하는 거래를 차단하는 데 취약점을 드러내고 있다. 대이란 압박 캠페인의 핵심 수단인 금융 제재가 자국 은행들의 통제 미비로 효과를 발휘하지 못하면서, 제재 실효성에 대한 의문이 제기되고 있다.
+<a href="https://www.wsj.com/tech/americas-own-banks-are-a-weak-link-in-the-campaign-to-cut-off-iran-53e1eb07">[WSJ]</a></blockquote>
+
+<b>7. Trump 특사, 모스크바·키이우 잇따라 방문...평화협상 재추진</b>
+<blockquote>Jared Kushner와 Steve Witkoff가 모스크바를 거쳐 키이우에서 Volodymyr Zelenskyy 우크라이나 대통령과 회담을 가졌다. 미국 특사들은 이전 평화안을 재점화하려는 움직임을 보이고 있으며, 러시아와 우크라이나는 특사 방문 기간 동안 상호 수도 공격을 보류했다.
+<a href="https://www.wsj.com/world/europe/trump-envoys-visit-ukraine-in-new-push-for-peace-talks-ee01b34e">[WSJ]</a> <a href="https://www.ft.com/content/1e2d9db0-cb2c-4c79-942b-f0aff960e4c5">[FT]</a></blockquote>
+
+<b>8. 유럽, 러시아 하이브리드전 억제 실패...독일 공항 드론 공격 저지</b>
+<blockquote>유럽 국가들이 러시아의 하이브리드 공격을 억제하는 데 실패하고 있다는 지적이 나왔다. 독일 공항에서 드론 공격 시도가 적발된 사건을 두고 국방 관계자들은 NATO의 대응이 취약하며 모스크바가 사실상 처벌 없이 작전을 수행하고 있다고 경고했다.
+<a href="https://www.ft.com/content/83e08169-69b5-4997-9bf0-e0622e752eda">[FT]</a></blockquote>
+
+<b>9. 독일 극우 AfD, 주선거서 44% 득표로 1위...역사적 승리</b>
+<blockquote>독일 극우정당 '독일을 위한 대안'(AfD)이 작센안할트주 선거에서 44% 득표율로 제1당에 올랐지만 과반 확보에는 실패했다. AfD의 역사적 승리는 주류 정당에 대한 유권자 불만을 반영하며, Friedrich Merz 총리는 AfD의 집권을 허용할지 여부를 놓고 고통스러운 선택을 앞두고 있다.
+<a href="https://www.ft.com/content/a0229455-1822-4de8-ad2f-7453577d95cd">[FT]</a> <a href="https://www.ft.com/content/48e7b92b-affc-4fd0-8de1-ae8765e5c799">[FT]</a> <a href="https://www.wsj.com/world/europe/germanys-right-wing-populists-on-course-for-historic-victory-56662408">[WSJ]</a></blockquote>
+
+<b>10. 화웨이, 뉴욕서 형사 재판 시작...범죄 기반 성장 의혹 다퉈</b>
+<blockquote>중국 통신장비업체 화웨이가 범죄 행위를 통해 성장했는지를 가리는 형사 재판이 뉴욕 브루클린 법원에서 시작된다. Meng Wanzhou 최고재무책임자(CFO)가 캐나다에서 석방된 지 5년 만에 회사 자체가 재판대에 서면서, 미중 기술전쟁의 새로운 국면이 전개될 전망이다.
+<a href="https://www.ft.com/content/9422805f-519c-4b22-839c-cbd7a6464f07">[FT]</a></blockquote>
 
 ━━━━━━━━━━━━━━━━━━━━
 📡 <b>출처: WSJ · FT · The Economist</b>
