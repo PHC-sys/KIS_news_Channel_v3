@@ -1,104 +1,104 @@
 🌙 <b>간밤의 글로벌 마켓 뉴스</b>
-[ 2026. 9. 8. | WSJ · FT · Economist ]
+[{DATE} | WSJ · FT · Economist ]
 ━━━━━━━━━━━━━━━━━━━━
 
 ✅ <b>간밤의 주요 헤드라인</b>
 
-<b>1. 미군, 이란 유조선 다수 타격...브렌트유 배럴당 $100 근접</b>
-<blockquote>미군이 이란혁명수비대와 연계된 복수의 유조선을 타격했다. 이란이 미 해군 함정을 향해 미사일 공격을 시도한 데 대한 대응이다. 이번 공격으로 브렌트유 가격은 배럴당 $99를 넘어서며 여름 시즌 최고치를 기록했고, 미국 증시는 하락세를 보였다.
-<a href="https://www.ft.com/content/b460b828-6183-4914-9140-5dfb6d61312c">[FT]</a> <a href="https://www.wsj.com/world/middle-east/iran-launched-undisclosed-second-wave-of-attacks-on-u-s-navy-ships-560f31a1">[WSJ]</a></blockquote>
+<b>1. 브렌트유 $100 돌파...미·이란 충돌에 후티 사우디 공습까지</b>
+<blockquote>브렌트유가 7월 이후 처음으로 배럴당 $100를 돌파했다. 미국·이란 간 직접 교전 격화에 후티 반군의 사우디 석유시설 공격까지 겹치며 걸프 지역 공급 차질 우려가 확대됐다. 이란 미사일의 요르단 피격 소식도 긴장을 증폭시켰다.
+<a href="https://www.wsj.com/finance/commodities-futures/oil-rises-as-houthi-militants-attack-amplifies-supply-disruption-fears-f0d68a35">[WSJ]</a> <a href="https://www.wsj.com/world/middle-east/brent-nears-100-as-u-s-iran-escalation-houthi-strikes-deepen-gulf-supply-fears-768ab4db">[WSJ]</a> <a href="https://www.ft.com/content/c8921e49-1d06-4d27-ab38-7a1d8e3d43fe">[FT]</a> <a href="https://www.economist.com/middle-east-and-africa/2026/09/09/is-traffic-through-hormuz-really-back-to-normal">[Economist]</a> <a href="https://www.ft.com/content/07e5851c-5e3b-43a8-ad23-527c0f191089">[FT]</a></blockquote>
 
-<b>2. 후티, 사우디 에너지 시설 공격...중동 해상 물류 위협 확대</b>
-<blockquote>예멘의 후티 반군이 사우디아라비아 에너지 인프라를 공격했다. 미국과 이란 간 전쟁이 호르무즈 해협을 통한 에너지 흐름을 차단하면서 지역 내 해운 리스크가 커지고 있다. 18개 해운 강국은 전쟁과 그림자 선단이 자유로운 해상 운송을 위협한다며 구조적 비용 상승을 경고했다.
-<a href="https://www.wsj.com/world/middle-east/yemens-houthi-militants-attack-saudi-energy-infrastructure-067fa4f7">[WSJ]</a> <a href="https://www.economist.com/middle-east-and-africa/2026/09/08/as-the-iran-war-menaces-shipping-land-routes-are-making-a-comeback">[Economist]</a></blockquote>
+<b>2. 금 선물 소폭 상승...국채 수익률 상승에도 달러 약세가 지지</b>
+<blockquote>금 선물이 미 국채 수익률 상승에도 불구하고 소폭 올랐다. 달러 약세가 금 가격을 지탱했으며, 중동 리스크 확대 국면에서 안전자산 수요가 유입된 것으로 풀이된다.
+<a href="https://www.wsj.com/finance/commodities-futures/gold-slips-traders-eye-inflation-data-a5ad1d66">[WSJ]</a></blockquote>
 
-<b>3. 영국 중앙은행 총재, 전쟁·기상이 인플레이션 재점화 경고</b>
-<blockquote>Andrew Bailey 영란은행 총재는 전쟁과 기후 변화가 영국의 인플레이션을 다시 끌어올릴 수 있다고 경고했다. 영국 30년 만기 국채는 1998년 이후 최고 수익률인 5.82%를 기록하며 재정 압박이 심화되는 모습이다.
-<a href="https://www.ft.com/content/faa622d9-0faa-4578-b908-4e77b72a8d44">[FT]</a> <a href="https://www.ft.com/content/b23151c3-b4c1-4f96-a801-f3507d907cc7">[FT]</a></blockquote>
+<b>3. 미 증시 하락 지속...중동 전쟁 격화·유가 급등에 투자심리 악화</b>
+<blockquote>미국 주식시장이 중동 전쟁 확대와 유가 급등 여파로 하락세를 이어갔다. 지정학 리스크와 인플레이션 재점화 우려가 동시에 부각되며 투자자들의 위험회피 성향이 강화됐다.
+<a href="https://www.wsj.com/finance/stocks/u-s-stocks-fall-as-war-escalation-oil-spike-continues-8e83817c">[WSJ]</a></blockquote>
 
-<b>4. 글로벌 채권 매도 심화...재정 적자가 통화정책 발목</b>
-<blockquote>인도를 비롯한 여러 국가에서 채권 금리가 급등하고 있다. 재정 적자와 공공 부채 증가가 중앙은행의 인플레이션 통제 능력을 약화시키는 구조적 문제로 지목됐다. 전문가들은 재정 건전성 악화가 통화정책 독립성을 제약하고 있다고 분석했다.
-<a href="https://www.economist.com/finance-and-economics/2026/09/08/what-is-causing-the-global-bond-sell-off">[Economist]</a> <a href="https://www.ft.com/content/dda770b2-79b4-48bb-b141-0e1291d08115">[FT]</a></blockquote>
+<b>4. Bessent $6B 국채 환매 발표...10년물 수익률 3년래 최고치로 급등</b>
+<blockquote>Scott Bessent 재무장관이 만기 10~20년 물 국채 환매 규모를 $6B로 늘렸으나, 시장 기대에 미치지 못하며 투자자 실망을 샀다. 발표 직후 10년물 수익률이 3년래 최고치로 치솟았고, 채권 매도세가 확대됐다.
+<a href="https://www.wsj.com/finance/investing/bessents-latest-buyback-move-leaves-investors-wanting-more-82d0268b">[WSJ]</a> <a href="https://www.wsj.com/finance/investing/u-s-treasury-plans-6-billion-10-to-20-year-bond-buyback-d12d3647">[WSJ]</a> <a href="https://www.ft.com/content/2476992f-c9fe-4992-887d-f34c81c100ab">[FT]</a></blockquote>
 
-<b>5. 캐나다 보복관세 발효, 트럼프 정부계약 차단 맞불</b>
-<blockquote>캐나다가 약 $200억 상당의 미국 제품에 대한 보복관세를 발효했다. Trump 대통령은 캐나다 기업의 미 정부 계약 참여를 막고 Bombardier 보이콧을 촉구하며 맞대응했다. Mark Carney 캐나다 총리는 경제 대응책을 마련하겠다고 밝혔다.
-<a href="https://www.wsj.com/world/americas/trump-says-he-will-block-canadian-firms-from-government-contracts-a4c3c21e">[WSJ]</a> <a href="https://www.wsj.com/world/americas/canada-pm-carney-vows-to-backstop-economy-as-u-s-trade-row-escalates-18646c9e">[WSJ]</a></blockquote>
+<b>5. WSJ 달러지수 0.06% 하락...3일 연속 약세 지속</b>
+<blockquote>WSJ 달러지수가 0.06% 내려 94.85를 기록하며 3거래일 연속 하락했다. 엔화 강세 흐름이 이어지는 가운데 통화시장 변동성이 확대되고 있다.
+<a href="https://www.wsj.com/finance/currencies/yen-strengthens-on-prospects-of-two-boj-rate-hikes-by-year-end-c56a9483">[WSJ]</a></blockquote>
 
-<b>6. 트럼프, 아이슬란드 포함 성조기 지도 게시...주재국 대사 소환</b>
-<blockquote>Trump 대통령이 캐나다, 멕시코, 그린란드, 아이슬란드 등을 미국 국기로 덮은 지도를 소셜미디어에 게시하자 아이슬란드 정부가 주재 미국 대사를 소환했다. 대외정책 긴장이 동맹국으로까지 확대되는 양상이다.
-<a href="https://www.ft.com/content/792e9e30-7a96-402c-a472-d7304f5bc1ef">[FT]</a></blockquote>
+<b>6. 일본 Takaichi 재정확대 공약에 시장 불안...Bessent "엔 개입 주저 않겠다"</b>
+<blockquote>일본 총리 후보 Takaichi Sanae가 대규모 재정지출 공약을 내세우며 채권·통화 시장이 동요했다. Scott Bessent 재무장관은 "I am the house now"라며 엔화 급등 시 외환 개입을 시사해 투기세력을 견제했다.
+<a href="https://www.economist.com/asia/2026/09/09/takaichi-sanaes-big-spending-plans-are-unnerving-markets">[Economist]</a> <a href="https://www.ft.com/content/38d718f6-110b-4822-9403-f7d12a48cfa8">[FT]</a></blockquote>
 
-<b>7. 영국·프랑스·캐나다, 서안 정착촌 관련 이스라엘 무역 제재</b>
-<blockquote>영국을 비롯한 유럽 국가들이 서안 지구 이스라엘 정착촌 문제를 이유로 무역 금지 조치를 발표했다. 영국 외무장관은 정착민들이 팔레스타인인을 '인종 청소'하고 있다고 비판했다. 이스라엘은 즉각 보복 조치로 화답했고, 전 이스라엘 법무장관은 영국의 조치를 지지하는 기고문을 발표했다.
-<a href="https://www.wsj.com/world/middle-east/european-nations-impose-trade-bans-on-israel-over-west-bank-settlements-3a5cdfdb">[WSJ]</a> <a href="https://www.ft.com/content/990e71e5-bfa3-4ebb-963d-f8693c5ac7b1">[FT]</a></blockquote>
+<b>7. 화웨이 美 재판 코앞...트럼프-시진핑 회담 직전 제재위반 심리</b>
+<blockquote>중국 화웨이가 이란 제재 위반과 기술 탈취 혐의로 미국 법정에 선다. 재판 시점이 트럼프-시진핑 정상회담 수주 전으로 잡히며 미·중 무역협상 분위기에 영향을 미칠 전망이다.
+<a href="https://www.wsj.com/politics/national-security/huawei-faces-u-s-criminal-trial-weeks-before-trump-xi-meeting-d5e21663">[WSJ]</a></blockquote>
 
-<b>8. 독일 극우 AfD 동부 거점서 보수 진영 격파...Merz 위기</b>
-<blockquote>독일 극우정당 AfD가 작센안할트 주에서 압승을 거두며 기민당(CDU) 등 보수 진영을 무너뜨렸다. Friedrich Merz 총리는 "포기는 선택지가 아니다"라고 밝혔지만, 극우 부상에 대한 독일 정치권의 대응책이 시급하다는 지적이 나온다.
-<a href="https://www.economist.com/leaders/2026/09/08/what-should-germany-do-about-its-rising-right">[Economist]</a> <a href="https://www.ft.com/content/22eacb3c-6cab-490d-a117-75ba90a2d35c">[FT]</a></blockquote>
+<b>8. 중국 AI 모델 '증류' 의혹 제기...미 안보당국 6개 기업 겨냥</b>
+<blockquote>미국 안보기관들이 중국 AI 기업 6곳을 미국 모델 체계적 도용 혐의로 지목했다. '증류(distillation)' 기법을 통해 미국 AI 시스템을 훈련에 활용했다는 의혹이다.
+<a href="https://www.wsj.com/tech/ai/is-china-stealing-american-ai-why-distillation-has-washington-up-in-arms-f924d29e">[WSJ]</a></blockquote>
 
-<b>9. 러시아, 키이우 미사일 공격 재개...Kushner 방문 뒤 교착</b>
-<blockquote>Jared Kushner와 Steve Witkoff가 우크라이나를 방문했지만 돌파구를 찾지 못한 가운데, 러시아는 키이우에 대한 미사일 공격을 재개했다. 한편 Vladimir Putin 대통령은 Trump 대통령과의 통화에서 미국의 평화 노력을 칭찬했다. 우크라이나는 러시아의 탄도미사일에 대응할 방어 시스템 확보에 주력하고 있다.
-<a href="https://www.ft.com/content/0815cd34-bf4c-4771-8bf5-710eff286763">[FT]</a> <a href="https://www.ft.com/content/76d33021-57c6-4240-ae0b-cd4a79a24980">[FT]</a></blockquote>
+<b>9. 미국, 핵융합 기술로 핵무기 개발 가속...對 중·러 삼각 군비경쟁</b>
+<blockquote>미국이 핵융합 에너지 스타트업 기술을 활용해 핵무기 고도화에 나섰다. 러시아·중국과의 3자 군비경쟁 국면에서 신형 핵탄두 개발을 가속화하고 있다.
+<a href="https://www.wsj.com/politics/national-security/nuclear-fusion-weapons-testing-china-russia-0b5fcfa9">[WSJ]</a></blockquote>
 
-<b>10. GE Aerospace, 금속 주조 업체 $11.75B 인수</b>
-<blockquote>GE Aerospace가 금속 주조 전문 업체 Consolidated Precision Products를 $117억5000만에 인수한다. 이번 인수는 차세대 엔진 냉각에 필요한 고급 소재 확보를 위한 전략적 투자로 평가된다.
-<a href="https://www.wsj.com/business/deals/ge-aerospace-to-buy-consolidated-precision-products-for-11-75-billion-ed7c8fc8">[WSJ]</a></blockquote>
+<b>10. CIA 국장, 러·우 협상 개입 확대...셔틀외교 주도 예정</b>
+<blockquote>John Ratcliffe CIA 국장이 러시아·우크라이나 협상에서 더 큰 역할을 맡을 예정이다. 모스크바와 키이우를 오가는 셔틀외교를 주도하며 평화협정 중재에 나선다.
+<a href="https://www.ft.com/content/d0557d25-78b5-45d8-bb33-d655e859d803">[FT]</a></blockquote>
 
-<b>11. Meta, WhatsApp·Instagram 연동 AI 개인비서 출시</b>
-<blockquote>Meta가 WhatsApp과 Instagram에 연결된 AI 개인비서 'Muse'를 공개했다. 쇼핑, 이메일 전송 등의 작업을 수행할 수 있으며 채팅과 소셜미디어 활동을 바탕으로 맞춤형 제안을 제공한다. Meta는 막대한 AI 투자를 수익화하기 위한 시도를 이어가고 있다.
-<a href="https://www.ft.com/content/5816292b-c36b-4c22-aa50-2680b9970382">[FT]</a> <a href="https://www.wsj.com/tech/ai/meta-launches-a-personal-ai-agent-designed-to-be-easy-to-use-3eb5cfac">[WSJ]</a></blockquote>
+<b>11. Anthropic 연구원 사퇴..."AI 통제불능 우려" 경고</b>
+<blockquote>Anthropic 소속 AI 연구원이 '통제 불능' 리스크를 이유로 사직했다. AI 기업 간 경쟁이 자율개선 모델 개발을 과속화하며 인간 통제력 상실 위험을 키우고 있다는 우려가 제기됐다.
+<a href="https://www.wsj.com/tech/ai/anthropic-researcher-quits-over-out-of-control-ai-fears-707b7628">[WSJ]</a></blockquote>
 
-<b>12. OpenAI, 밀레니엄 난제 나비에-스토크스 방정식 해결 주장</b>
-<blockquote>OpenAI는 수백만 달러를 투입해 밀레니엄 수학 난제 중 하나인 나비에-스토크스 방정식을 해결했다고 발표했다. 이는 AI가 이룬 수학 분야 최대 성과로 거론되지만, 경쟁사들은 이미 검증 작업에 나서고 있다.
-<a href="https://www.wsj.com/tech/ai/openai-millennium-prize-navier-stokes-math-2bf240f8">[WSJ]</a></blockquote>
+<b>12. OpenAI 신임 이사 "AI 치명적 위험 가능"...안전 경고 수위 높여</b>
+<blockquote>OpenAI 비영리 이사회에 임명된 미 정부 고위 인사 Paul Christiano가 고도화된 AI가 "대다수 인구를 살상할 수 있다"며 강력한 안전장치 필요성을 경고했다.
+<a href="https://www.ft.com/content/d73e188f-b906-42ec-8b91-db9729c9d2d9">[FT]</a></blockquote>
 
-<b>13. Anthropic·OpenAI 투자은행, IPO 후 투자등급 등급 추진</b>
-<blockquote>Anthropic과 OpenAI의 투자은행들이 두 기업의 IPO 이후 투자등급 신용등급 확보를 추진 중이다. 투자등급 지정은 AI 기업과 인프라 파트너들에게 저렴한 자금 조달 기회를 열어줄 것으로 기대된다.
-<a href="https://www.ft.com/content/aa304856-cade-4ad8-a2bf-2dd34fa75b1b">[FT]</a></blockquote>
+<b>13. Cognition AI $48B 밸류로 $2B 조달...Thiel 주도 Series E</b>
+<blockquote>Peter Thiel 지원 AI 코딩 스타트업 Cognition이 Series E에서 $2B를 유치하며 밸류에이션 $48B를 인정받았다. AI 버블 논란 속에서도 밸류 급등세가 이어지고 있다.
+<a href="https://www.wsj.com/pro/private-equity/peter-thiel-backed-ai-startup-cognition-raises-funds-at-48-billion-valuation-41b41b85">[WSJ]</a></blockquote>
 
-<b>14. 중국 은행에 $54B 자본 확충...전문가들 "여전히 부족"</b>
-<blockquote>중국 정부가 은행들에 $540억 규모의 자본을 투입했지만 전문가들은 이것만으로는 부족하다고 지적한다. 은행 대차대조표의 구조적 문제가 대출 확대를 제약하고 있다는 분석이다.
-<a href="https://www.economist.com/finance-and-economics/2026/09/08/chinas-54bn-capital-boost-for-banks-falls-far-short">[Economist]</a></blockquote>
+<b>14. OpenAI·Anthropic 직원 주식 매각 붐...밀리어네어 수백 명 탄생</b>
+<blockquote>OpenAI와 Anthropic의 지분 매각이 수백 명의 백만장자를 탄생시켰다. 일부는 컴퓨터 하드웨어·고급 에스프레소 머신에 수익을 쏟아붓고 있으며, 지출 방식을 고민 중인 직원이 많다.
+<a href="https://www.wsj.com/tech/ai/ai-tech-anthropic-openai-ipo-0a9da59e">[WSJ]</a></blockquote>
 
-<b>15. NextEra Energy, 아이오와 원전 재가동에 DOE $1.9B 대출</b>
-<blockquote>NextEra Energy가 아이오와주 Duane Arnold Energy Center 원자력 발전소 재가동을 위해 미 에너지부로부터 최대 $19억 대출을 확보했다. 원자력 에너지 부문에서 목표와 실행 간 격차가 크다는 지적도 나온다.
-<a href="https://www.wsj.com/business/energy-oil/nextera-energy-doe-close-on-1-9-billion-loan-for-nuclear-power-plant-in-iowa-381c2994">[WSJ]</a> <a href="https://www.ft.com/content/4320e779-73ab-4e56-ad13-9d5e9aa48b3c">[FT]</a></blockquote>
+<b>15. Tether, 프라이빗 크레딧 펀드 출시...스테이블코인 활용 다각화</b>
+<blockquote>세계 최대 스테이블코인 발행사 Tether가 프라이빗 크레딧 펀드를 출범했다. 시장 여건이 어려운 가운데 스테이블코인 사용 확대를 위한 신규 사업 모색에 나섰다.
+<a href="https://www.ft.com/content/b9e0b9b5-3b6e-420e-83da-381b75534635">[FT]</a></blockquote>
 
-<b>16. Cerberus, 영국 Goodwin 방산 부문 £1B 인수 임박</b>
-<blockquote>사모펀드 Cerberus가 런던 상장 엔지니어링 그룹 Goodwin의 방산 부문을 £10억에 인수하는 협상을 최종 단계에서 진행 중이다.
-<a href="https://www.ft.com/content/d264136c-8215-4ac6-a1cc-1efeb23ae5cd">[FT]</a></blockquote>
+<b>16. 애플, 폴더블 iPhone Duo 공개...$1,999부터 시작·공급망 압박 반영</b>
+<blockquote>애플이 폴더블 스마트폰 'iPhone Duo'를 선보이며 시작가를 $1,999로 책정했다. Pro·Max 모델도 전년 대비 $100 인상됐으며, 공급망 압박이 가격에 반영됐다.
+<a href="https://www.wsj.com/tech/apple-to-debut-new-foldable-iphone-new-ceo-and-new-prices-b2485b9f">[WSJ]</a> <a href="https://www.ft.com/content/dea481e8-d30b-4cbb-b535-5ff219c4e546">[FT]</a></blockquote>
 
-<b>17. 미 교통장관, Ford의 중국 기술 사용 '수용 불가' 비판</b>
-<blockquote>미 교통장관이 Ford의 CEO에게 공개 서한을 보내 중국 배터리 업체 CATL과의 거래 및 중국 자동차 제조사 Geely와의 합작 사업을 '수용할 수 없다'고 비판했다.
-<a href="https://www.wsj.com/business/autos/fords-use-of-chinese-tech-called-unacceptable-by-transportation-secretary-00b22e0a">[WSJ]</a></blockquote>
+<b>17. 빅테크 데이터센터 세제 혜택 철회...주정부 반발 확산</b>
+<blockquote>Amazon·Meta·Google 등 빅테크가 누려온 데이터센터 세제 혜택이 주정부들의 철회 움직임에 직면했다. 수십 년간 유지됐던 감면 조치가 지역 반발로 무효화될 위기다.
+<a href="https://www.wsj.com/politics/policy/states-that-gave-data-centers-billions-in-tax-breaks-are-now-ripping-up-the-deals-4879c4f9">[WSJ]</a></blockquote>
 
-<b>18. Block, 연방 규제 신탁은행 'Builders Bank & Trust' 설립 신청</b>
-<blockquote>핀테크 기업 Block이 연방 규제를 받는 무보험 국법 신탁은행 'Builders Bank & Trust' 설립 승인을 신청했다.
-<a href="https://www.wsj.com/finance/banking/block-applies-to-establish-builders-bank-trust-3c6c9556">[WSJ]</a></blockquote>
+<b>18. Analog Devices, Alif Semiconductor $1.35B 인수...방산·데이터센터 확장</b>
+<blockquote>Analog Devices가 Alif Semiconductor를 현금 $1.35B에 인수한다. 데이터센터 인프라와 방산 분야에서 급성장 중인 시장 접근성을 확대하는 전략이다.
+<a href="https://www.wsj.com/tech/analog-devices-to-acquire-alif-semiconductor-for-1-35-billion-1b31d6fe">[WSJ]</a></blockquote>
 
-<b>19. Robinhood-Crypto.com, 예측시장 사업 제휴</b>
-<blockquote>Robinhood가 Crypto.com과 제휴를 맺고 예측시장 계약 상품을 추가한다. Robinhood는 이번 제휴를 통해 Crypto.com의 지분도 일부 취득한다.
-<a href="https://www.wsj.com/finance/currencies/robinhood-strikes-deal-with-crypto-com-in-latest-prediction-markets-push-901a32aa">[WSJ]</a></blockquote>
+<b>19. 공화당, 트럼프 중심 중간선거 전략...지지율 낮음에도 총력</b>
+<blockquote>공화당이 의회 다수당 유지를 위해 트럼프 대통령을 선거운동 중심에 배치했다. 지지율 부진에도 불구하고 트럼프 동원력에 승부를 거는 고위험 전략이다.
+<a href="https://www.wsj.com/politics/elections/trump-rnc-midterm-convention-30544786">[WSJ]</a></blockquote>
 
-<b>20. Tamarack Valley-Headwater Exploration $7.24B 합병</b>
-<blockquote>Tamarack Valley가 Headwater Exploration과 $72억4000만 규모의 합병에 합의했다. 이번 합병으로 앨버타 북부 1500개 이상의 인접 토지가 통합된다.
-<a href="https://www.wsj.com/business/energy-oil/tamarack-valley-to-merge-with-headwater-exploration-in-over-7-24-billion-deal-b8e0a0b6">[WSJ]</a></blockquote>
+<b>20. 뉴햄프셔 상원 경선, 민주 Pappas·공화 Sununu 승리...11월 격전 예고</b>
+<blockquote>뉴햄프셔 상원 경선에서 민주당 Chris Pappas 하원의원과 공화당 John E. Sununu 전 상원의원이 각각 승리했다. 경합주에서 치열한 본선 대결이 예상된다.
+<a href="https://www.wsj.com/politics/elections/new-hampshires-senate-primary-winners-now-face-tight-fall-matchup-bf79f52b">[WSJ]</a></blockquote>
 
-<b>21. GameStop, 연간 전망 상향...이익 증가</b>
-<blockquote>비디오게임 소매업체 GameStop의 순이익이 예상 범위 내로 증가했으며 회사는 연간 전망을 상향 조정했다.
-<a href="https://www.wsj.com/business/earnings/gamestop-profit-rises-boosts-full-year-outlook-dacd2245">[WSJ]</a></blockquote>
+<b>21. FT, 미국 물가 추적기 공개...중간선거 핵심 변수 실시간 집계</b>
+<blockquote>FT가 미국 생활비 변동을 실시간 추적하는 대시보드를 출범했다. 중간선거 결과를 좌우할 핵심 지표로 인플레이션 체감도가 부각되고 있다.
+<a href="https://www.ft.com/content/71dccbca-4a1f-485a-9790-28cc527cdb82">[FT]</a></blockquote>
 
-<b>22. Boston Scientific, 사이버 공격으로 실적 전망 미달 예상</b>
-<blockquote>의료기술 업체 Boston Scientific은 사이버 공격으로 운영이 중단되면서 재무 전망을 달성하지 못할 것이라고 밝혔다. 이 소식에 주가는 시간 외 거래에서 급락했다.
-<a href="https://www.wsj.com/business/boston-scientific-wont-meet-guidance-due-to-cyberattack-feb29ee1">[WSJ]</a></blockquote>
+<b>22. Albertsons, Meg Whitman 회장 임명...성장 모멘텀 확보 시급</b>
+<blockquote>식료품 체인 Albertsons가 eBay·HP 전 CEO Meg Whitman을 신설 회장직에 임명했다. 매출 감소와 소비 위축 국면에서 성장 전략 재정비에 나선다.
+<a href="https://www.wsj.com/business/retail/albertsons-names-former-hp-ebay-ceo-meg-whitman-as-executive-chair-to-help-spur-growth-cd3b4d15">[WSJ]</a></blockquote>
 
-<b>23. Trump, 유권자 검증용 이민 데이터베이스 사용 긴급 상고</b>
-<blockquote>Trump 행정부가 연방 이민 데이터베이스를 유권자 명부 검증에 사용할 수 있도록 대법원에 긴급 상고를 신청했다. 대법원은 이미 부재자 투표 규칙 변경 건도 검토 중이어서 압박이 커지고 있다.
-<a href="https://www.wsj.com/politics/policy/trump-officials-ask-high-court-to-allow-immigration-database-for-voter-scrutiny-a7197aad">[WSJ]</a></blockquote>
+<b>23. JPMorgan Dimon, Burnham과 면담...영국 예산 windfall tax 우려 전달</b>
+<blockquote>JPMorgan CEO Jamie Dimon이 영국 Burnham 재무장관과 면담하며 은행 대상 windfall tax 가능성에 우려를 표명했다. 노조는 다음 달 예산에서 은행 과세를 요구하고 있다.
+<a href="https://www.ft.com/content/6b71127f-2ca3-4a6b-a268-91177b6cc981">[FT]</a></blockquote>
 
-<b>24. Smithsonian 사무총장 Lonnie Bunch, Trump와 마찰 끝 사임</b>
-<blockquote>세계 최대 박물관·연구 복합단지를 이끄는 첫 흑인 역사학자 Lonnie Bunch가 사임을 발표했다. 그는 올해 말 떠날 예정이며, Smithsonian 전시 내용이 Trump 대통령의 빈번한 비판 대상이 돼왔다.
-<a href="https://www.wsj.com/arts-culture/fine-art/smithsonian-secretary-lonnie-bunch-steps-down-amid-strife-with-trump-04d1bb61">[WSJ]</a></blockquote>
+<b>24. Millennium, 그리스 이전 추진...세제 혜택 노린 헤지펀드 엑소더스</b>
+<blockquote>헤지펀드 Millennium이 그리스 이전을 추진 중이다. 그리스 정부가 올여름 헤지펀드·사모펀드 임원 대상 세제 우대안을 내놓으며 금융업계 유치 경쟁이 치열해지고 있다.
+<a href="https://www.ft.com/content/bce40838-6b08-4a04-9937-627bdf64a1a9">[FT]</a></blockquote>
 
 ━━━━━━━━━━━━━━━━━━━━
 📡 <b>출처: WSJ · FT · The Economist</b>
