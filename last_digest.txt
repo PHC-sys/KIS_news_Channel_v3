@@ -4,101 +4,189 @@
 
 ✅ <b>간밤의 주요 헤드라인</b>
 
-<b>1. 브렌트유 $100 돌파...미·이란 충돌에 후티 사우디 공습까지</b>
-<blockquote>브렌트유가 7월 이후 처음으로 배럴당 $100를 돌파했다. 미국·이란 간 직접 교전 격화에 후티 반군의 사우디 석유시설 공격까지 겹치며 걸프 지역 공급 차질 우려가 확대됐다. 이란 미사일의 요르단 피격 소식도 긴장을 증폭시켰다.
-<a href="https://www.wsj.com/finance/commodities-futures/oil-rises-as-houthi-militants-attack-amplifies-supply-disruption-fears-f0d68a35">[WSJ]</a> <a href="https://www.wsj.com/world/middle-east/brent-nears-100-as-u-s-iran-escalation-houthi-strikes-deepen-gulf-supply-fears-768ab4db">[WSJ]</a> <a href="https://www.ft.com/content/c8921e49-1d06-4d27-ab38-7a1d8e3d43fe">[FT]</a> <a href="https://www.economist.com/middle-east-and-africa/2026/09/09/is-traffic-through-hormuz-really-back-to-normal">[Economist]</a> <a href="https://www.ft.com/content/07e5851c-5e3b-43a8-ad23-527c0f191089">[FT]</a></blockquote>
+<b>1. 후티 반군 모카 항구 점령...바브엘만데브 해협 봉쇄 위협 현실화</b>
+<blockquote>예멘 후티 반군이 홍해 전략 항구인 모카를 점령하고 바브엘만데브 해협을 향해 남진하며 사우디 지원 정부군을 후퇴시켰다. 이란의 지원을 받는 후티는 에너지 수출의 핵심 병목 지점 인근까지 세력을 확대했다.
+<a href="https://www.wsj.com/world/middle-east/yemens-iran-backed-houthis-sweep-toward-strategic-bab-al-mandeb-c1786d79">[WSJ]</a></blockquote>
 
-<b>2. 금 선물 소폭 상승...국채 수익률 상승에도 달러 약세가 지지</b>
-<blockquote>금 선물이 미 국채 수익률 상승에도 불구하고 소폭 올랐다. 달러 약세가 금 가격을 지탱했으며, 중동 리스크 확대 국면에서 안전자산 수요가 유입된 것으로 풀이된다.
-<a href="https://www.wsj.com/finance/commodities-futures/gold-slips-traders-eye-inflation-data-a5ad1d66">[WSJ]</a></blockquote>
+<b>2. 후티 반군, 홍해 모카 항구 장악...사우디 타격</b>
+<blockquote>후티 반군이 예멘의 역사적 항구 모카를 점령하며 전략적 요충지인 바브엘만데브 해협으로 진격했다. 사우디를 겨냥한 반군의 공세가 강화되며 에너지 수출로 압박이 커지고 있다.
+<a href="https://www.ft.com/content/cd652b20-1fa3-4a51-bea7-4d7e33b1eaa2">[FT]</a></blockquote>
 
-<b>3. 미 증시 하락 지속...중동 전쟁 격화·유가 급등에 투자심리 악화</b>
-<blockquote>미국 주식시장이 중동 전쟁 확대와 유가 급등 여파로 하락세를 이어갔다. 지정학 리스크와 인플레이션 재점화 우려가 동시에 부각되며 투자자들의 위험회피 성향이 강화됐다.
-<a href="https://www.wsj.com/finance/stocks/u-s-stocks-fall-as-war-escalation-oil-spike-continues-8e83817c">[WSJ]</a></blockquote>
+<b>3. 이란, 지하 시설서 탄도미사일 재생산 개시...정보당국 확인</b>
+<blockquote>정보당국은 이란이 비축 부품을 지하 시설에서 조립해 탄도미사일 생산을 재개했다고 밝혔다. 지난 3월 이스라엘 공습으로 지상 시설이 파괴된 후 지하로 옮긴 것으로 보인다.
+<a href="https://www.wsj.com/world/middle-east/iran-ballistic-missile-production-5538af12">[WSJ]</a></blockquote>
 
-<b>4. Bessent $6B 국채 환매 발표...10년물 수익률 3년래 최고치로 급등</b>
-<blockquote>Scott Bessent 재무장관이 만기 10~20년 물 국채 환매 규모를 $6B로 늘렸으나, 시장 기대에 미치지 못하며 투자자 실망을 샀다. 발표 직후 10년물 수익률이 3년래 최고치로 치솟았고, 채권 매도세가 확대됐다.
-<a href="https://www.wsj.com/finance/investing/bessents-latest-buyback-move-leaves-investors-wanting-more-82d0268b">[WSJ]</a> <a href="https://www.wsj.com/finance/investing/u-s-treasury-plans-6-billion-10-to-20-year-bond-buyback-d12d3647">[WSJ]</a> <a href="https://www.ft.com/content/2476992f-c9fe-4992-887d-f34c81c100ab">[FT]</a></blockquote>
+<b>4. 이스라엘, 레바논 남부 헤즈볼라 터널망 폭파</b>
+<blockquote>이스라엘이 알리 알 타헤르 능선 아래 헤즈볼라 터널 복합시설을 폭파했다. 이는 수개월간 전략 요충지 장악을 위해 벌인 작전의 일환이다.
+<a href="https://www.ft.com/content/57045557-574a-4bd6-9912-adb64fd6110f">[FT]</a></blockquote>
 
-<b>5. WSJ 달러지수 0.06% 하락...3일 연속 약세 지속</b>
-<blockquote>WSJ 달러지수가 0.06% 내려 94.85를 기록하며 3거래일 연속 하락했다. 엔화 강세 흐름이 이어지는 가운데 통화시장 변동성이 확대되고 있다.
-<a href="https://www.wsj.com/finance/currencies/yen-strengthens-on-prospects-of-two-boj-rate-hikes-by-year-end-c56a9483">[WSJ]</a></blockquote>
+<b>5. 이란 전쟁 6개월 경과...호르무즈 봉쇄·유가 급등 장기전 국면</b>
+<blockquote>이란과 미국·이스라엘 간 분쟁이 6개월째 이어지며 호르무즈 해협 물동량 제약이 지속되고 있다. 원유 가격 급등과 지정학 리스크 장기화 우려가 커지고 있다.
+<a href="https://www.wsj.com/podcasts/opinion-potomac-watch/in-the-war-room-after-six-months-of-conflict-with-iran/C4CB1D97-7DB7-4BB4-9C8C-ECFE48C9A467">[WSJ]</a></blockquote>
 
-<b>6. 일본 Takaichi 재정확대 공약에 시장 불안...Bessent "엔 개입 주저 않겠다"</b>
-<blockquote>일본 총리 후보 Takaichi Sanae가 대규모 재정지출 공약을 내세우며 채권·통화 시장이 동요했다. Scott Bessent 재무장관은 "I am the house now"라며 엔화 급등 시 외환 개입을 시사해 투기세력을 견제했다.
-<a href="https://www.economist.com/asia/2026/09/09/takaichi-sanaes-big-spending-plans-are-unnerving-markets">[Economist]</a> <a href="https://www.ft.com/content/38d718f6-110b-4822-9403-f7d12a48cfa8">[FT]</a></blockquote>
+<b>6. 트럼프, 이란 핵시설 타격 검토...'픽액스 마운틴' 재공습 시사</b>
+<blockquote>트럼프 행정부가 이란의 지하 핵농축 시설인 '픽액스 마운틴'에 대한 공습을 재검토하고 있다. 이란이 지하 깊숙이 핵 개발을 계속하고 있다는 정보에 따른 것이다.
+<a href="https://www.wsj.com/opinion/pickaxe-mountain-iran-nuclear-site-donald-trump-6f34dff5">[WSJ]</a></blockquote>
 
-<b>7. 화웨이 美 재판 코앞...트럼프-시진핑 회담 직전 제재위반 심리</b>
-<blockquote>중국 화웨이가 이란 제재 위반과 기술 탈취 혐의로 미국 법정에 선다. 재판 시점이 트럼프-시진핑 정상회담 수주 전으로 잡히며 미·중 무역협상 분위기에 영향을 미칠 전망이다.
-<a href="https://www.wsj.com/politics/national-security/huawei-faces-u-s-criminal-trial-weeks-before-trump-xi-meeting-d5e21663">[WSJ]</a></blockquote>
+<b>7. 브렌트유 $107, WTI $100 돌파...중동 공급 차질 우려 심화</b>
+<blockquote>원유 선물 가격이 4개월 만에 최고치로 급등했다. 브렌트유는 배럴당 $107, WTI는 $100를 넘어서며 페르시아만 전역의 분쟁 격화로 공급 우려가 확대됐다.
+<a href="https://www.wsj.com/finance/commodities-futures/oil-rises-amid-escalation-in-mideast-conflict-1394ff07">[WSJ]</a></blockquote>
 
-<b>8. 중국 AI 모델 '증류' 의혹 제기...미 안보당국 6개 기업 겨냥</b>
-<blockquote>미국 안보기관들이 중국 AI 기업 6곳을 미국 모델 체계적 도용 혐의로 지목했다. '증류(distillation)' 기법을 통해 미국 AI 시스템을 훈련에 활용했다는 의혹이다.
-<a href="https://www.wsj.com/tech/ai/is-china-stealing-american-ai-why-distillation-has-washington-up-in-arms-f924d29e">[WSJ]</a></blockquote>
+<b>8. 유가 급등에 공급 우려 가중...중동 분쟁 격화 여파</b>
+<blockquote>원유 선물이 거의 4개월 만에 최고치로 상승했다. 페르시아만 지역 분쟁 확대와 사우디에 대한 후티 반군의 새로운 공습이 공급 불안을 키웠다.
+<a href="https://www.wsj.com/business/energy-oil/brent-holds-above-100-amid-gulf-supply-risks-65db20ba">[WSJ]</a></blockquote>
 
-<b>9. 미국, 핵융합 기술로 핵무기 개발 가속...對 중·러 삼각 군비경쟁</b>
-<blockquote>미국이 핵융합 에너지 스타트업 기술을 활용해 핵무기 고도화에 나섰다. 러시아·중국과의 3자 군비경쟁 국면에서 신형 핵탄두 개발을 가속화하고 있다.
-<a href="https://www.wsj.com/politics/national-security/nuclear-fusion-weapons-testing-china-russia-0b5fcfa9">[WSJ]</a></blockquote>
+<b>9. 사우디 원유 생산 급감...후티 위협에 서부 수출 차질</b>
+<blockquote>사우디의 지난달 원유 생산이 급락했다. 이란 지원 후티 반군의 위협으로 서부 해안 수출이 차질을 빚었고, 페르시아만 호르무즈 해협 물동량도 제약을 받고 있다.
+<a href="https://www.wsj.com/business/energy-oil/opec-further-cuts-this-years-oil-demand-growth-forecast-79ed23ad">[WSJ]</a></blockquote>
 
-<b>10. CIA 국장, 러·우 협상 개입 확대...셔틀외교 주도 예정</b>
-<blockquote>John Ratcliffe CIA 국장이 러시아·우크라이나 협상에서 더 큰 역할을 맡을 예정이다. 모스크바와 키이우를 오가는 셔틀외교를 주도하며 평화협정 중재에 나선다.
-<a href="https://www.ft.com/content/d0557d25-78b5-45d8-bb33-d655e859d803">[FT]</a></blockquote>
+<b>10. 사우디, 후티 위협에 올해 최저 산유량...OPEC 수요 전망 하향</b>
+<blockquote>사우디 아라비아가 후티 반군의 해상 봉쇄 위협으로 원유 생산을 올해 최저 수준으로 줄였다. 세계 최대 원유 수출국인 사우디의 감산은 공급 압박을 가중시키고 있다.
+<a href="https://www.ft.com/content/683a6973-ad54-42e1-8b53-f0e294d15022">[FT]</a></blockquote>
 
-<b>11. Anthropic 연구원 사퇴..."AI 통제불능 우려" 경고</b>
-<blockquote>Anthropic 소속 AI 연구원이 '통제 불능' 리스크를 이유로 사직했다. AI 기업 간 경쟁이 자율개선 모델 개발을 과속화하며 인간 통제력 상실 위험을 키우고 있다는 우려가 제기됐다.
-<a href="https://www.wsj.com/tech/ai/anthropic-researcher-quits-over-out-of-control-ai-fears-707b7628">[WSJ]</a></blockquote>
+<b>11. 미 PPI 8월 0.4% 상승...유가 급등에 인플레이션 가속</b>
+<blockquote>8월 미국 생산자물가지수(PPI)가 전월비 0.4% 상승하며 7월 0.1% 증가에서 가속화됐다. 유가 급등이 에너지 비용을 끌어올리며 상업 부문 인플레이션 압력이 커지고 있다.
+<a href="https://www.wsj.com/economy/central-banking/producer-price-inflation-accelerated-last-month-bc29a96f">[WSJ]</a></blockquote>
 
-<b>12. OpenAI 신임 이사 "AI 치명적 위험 가능"...안전 경고 수위 높여</b>
-<blockquote>OpenAI 비영리 이사회에 임명된 미 정부 고위 인사 Paul Christiano가 고도화된 AI가 "대다수 인구를 살상할 수 있다"며 강력한 안전장치 필요성을 경고했다.
-<a href="https://www.ft.com/content/d73e188f-b906-42ec-8b91-db9729c9d2d9">[FT]</a></blockquote>
+<b>12. 미 10년물 5% 코앞...유가 급등에 국채 매도 가속</b>
+<blockquote>미 10년물 국채 금리가 5% 턱밑까지 상승하며 수년 만에 최고치를 경신했다. 원유 가격이 배럴당 $100를 넘어서며 인플레이션 우려가 커지고 재무부 바이백 매입도 목표에 미달했다.
+<a href="https://www.wsj.com/finance/investing/bond-yields-edge-up-as-investors-await-ecb-rate-hike-u-s-treasury-buybacks-4cd2e9f3">[WSJ]</a></blockquote>
 
-<b>13. Cognition AI $48B 밸류로 $2B 조달...Thiel 주도 Series E</b>
-<blockquote>Peter Thiel 지원 AI 코딩 스타트업 Cognition이 Series E에서 $2B를 유치하며 밸류에이션 $48B를 인정받았다. AI 버블 논란 속에서도 밸류 급등세가 이어지고 있다.
-<a href="https://www.wsj.com/pro/private-equity/peter-thiel-backed-ai-startup-cognition-raises-funds-at-48-billion-valuation-41b41b85">[WSJ]</a></blockquote>
+<b>13. 글로벌 채권 매도세...유가 $109 급등에 금리 상승</b>
+<blockquote>유가가 $109로 급등하며 글로벌 채권 시장이 동반 매도세를 보였다. Scott Bessent 재무장관의 국채 바이백 작전이 목표 미달로 끝나며 미 국채 금리가 당일 최고치를 경신했다.
+<a href="https://www.ft.com/content/49e8c693-0064-4ef9-917f-5f2be97458fc">[FT]</a></blockquote>
 
-<b>14. OpenAI·Anthropic 직원 주식 매각 붐...밀리어네어 수백 명 탄생</b>
-<blockquote>OpenAI와 Anthropic의 지분 매각이 수백 명의 백만장자를 탄생시켰다. 일부는 컴퓨터 하드웨어·고급 에스프레소 머신에 수익을 쏟아붓고 있으며, 지출 방식을 고민 중인 직원이 많다.
-<a href="https://www.wsj.com/tech/ai/ai-tech-anthropic-openai-ipo-0a9da59e">[WSJ]</a></blockquote>
+<b>14. 채권 매도에도 바이백 목표 미달...유가 $107 급등</b>
+<blockquote>재무부의 국채 바이백 매입이 목표에 못 미치며 채권 가격이 하락했다. 유가가 배럴당 $107를 넘어서고 도매 인플레이션이 상승하며 시장 불안이 지속됐다.
+<a href="https://www.wsj.com/finance/investing/bonds-sell-off-despite-buyback-operation-1126d0da">[WSJ]</a></blockquote>
 
-<b>15. Tether, 프라이빗 크레딧 펀드 출시...스테이블코인 활용 다각화</b>
-<blockquote>세계 최대 스테이블코인 발행사 Tether가 프라이빗 크레딧 펀드를 출범했다. 시장 여건이 어려운 가운데 스테이블코인 사용 확대를 위한 신규 사업 모색에 나섰다.
-<a href="https://www.ft.com/content/b9e0b9b5-3b6e-420e-83da-381b75534635">[FT]</a></blockquote>
+<b>15. 미 국채 4일 연속 하락...주식도 동반 조정</b>
+<blockquote>미국 증시가 4거래일 연속 하락했고 국채 금리는 수년 만에 최고치를 기록했다. 원유 가격이 배럴당 $100를 넘어서며 8월 인플레이션 지표가 에너지 비용 급등의 영향을 드러냈다.
+<a href="https://www.wsj.com/finance/stocks/u-s-stocks-fall-as-oil-tops-100-yields-hit-multiyear-highs-0cd4f1ec">[WSJ]</a></blockquote>
 
-<b>16. 애플, 폴더블 iPhone Duo 공개...$1,999부터 시작·공급망 압박 반영</b>
-<blockquote>애플이 폴더블 스마트폰 'iPhone Duo'를 선보이며 시작가를 $1,999로 책정했다. Pro·Max 모델도 전년 대비 $100 인상됐으며, 공급망 압박이 가격에 반영됐다.
-<a href="https://www.wsj.com/tech/apple-to-debut-new-foldable-iphone-new-ceo-and-new-prices-b2485b9f">[WSJ]</a> <a href="https://www.ft.com/content/dea481e8-d30b-4cbb-b535-5ff219c4e546">[FT]</a></blockquote>
+<b>16. ECB 기준금리 2.5%로 인상...인플레이션 장기화 경고</b>
+<blockquote>유럽중앙은행(ECB)이 올해 두 번째 금리 인상을 단행하며 기준금리를 2.5%로 올렸다. 중동 분쟁으로 재점화된 에너지 가격이 물가 압력을 2027년까지 이어갈 것이라는 우려가 반영됐다.
+<a href="https://www.ft.com/content/7816ad68-58ed-494c-a66f-091a9cca2cbc">[FT]</a></blockquote>
 
-<b>17. 빅테크 데이터센터 세제 혜택 철회...주정부 반발 확산</b>
-<blockquote>Amazon·Meta·Google 등 빅테크가 누려온 데이터센터 세제 혜택이 주정부들의 철회 움직임에 직면했다. 수십 년간 유지됐던 감면 조치가 지역 반발로 무효화될 위기다.
-<a href="https://www.wsj.com/politics/policy/states-that-gave-data-centers-billions-in-tax-breaks-are-now-ripping-up-the-deals-4879c4f9">[WSJ]</a></blockquote>
+<b>17. ECB 금리 인상...물가 압력 장기화 전망</b>
+<blockquote>유럽중앙은행이 중동 에너지 가격 급등으로 인플레이션 우려가 재점화되자 기준금리를 인상했다. 유가와 가스 가격 상승이 물가 압력을 지속시킬 것으로 보인다.
+<a href="https://www.wsj.com/economy/central-banking/the-ecb-just-raised-interest-rates-heres-what-to-know-c03f9bb0">[WSJ]</a></blockquote>
 
-<b>18. Analog Devices, Alif Semiconductor $1.35B 인수...방산·데이터센터 확장</b>
-<blockquote>Analog Devices가 Alif Semiconductor를 현금 $1.35B에 인수한다. 데이터센터 인프라와 방산 분야에서 급성장 중인 시장 접근성을 확대하는 전략이다.
-<a href="https://www.wsj.com/tech/analog-devices-to-acquire-alif-semiconductor-for-1-35-billion-1b31d6fe">[WSJ]</a></blockquote>
+<b>18. ECB 금리 인상, 성장·물가 전망 상향...금리 경로 강경 시그널</b>
+<blockquote>유럽중앙은행이 예상대로 금리를 인상하며 경제 성장과 인플레이션 전망을 소폭 상향 조정했다. 시장 금리 경로가 높아진 가운데서도 강경한 통화정책 기조를 유지했다.
+<a href="https://www.ft.com/content/a98cb11f-e665-46ee-9ac5-0f85ec73e3b2">[FT]</a></blockquote>
 
-<b>19. 공화당, 트럼프 중심 중간선거 전략...지지율 낮음에도 총력</b>
-<blockquote>공화당이 의회 다수당 유지를 위해 트럼프 대통령을 선거운동 중심에 배치했다. 지지율 부진에도 불구하고 트럼프 동원력에 승부를 거는 고위험 전략이다.
-<a href="https://www.wsj.com/politics/elections/trump-rnc-midterm-convention-30544786">[WSJ]</a></blockquote>
+<b>19. 미 모기지 금리 7% 돌파...15개월 만에 최고</b>
+<blockquote>미국 모기지 금리가 15개월 만에 처음으로 7%를 넘어섰다. 2월 말 약 6%까지 하락했던 금리는 미국과 이스라엘의 이란 전쟁 개시로 원유 운송이 차질을 빚고 인플레이션이 상승하며 반등했다.
+<a href="https://www.wsj.com/economy/central-banking/u-s-mortgage-rates-top-7-for-first-time-in-15-months-def6f20e">[WSJ]</a></blockquote>
 
-<b>20. 뉴햄프셔 상원 경선, 민주 Pappas·공화 Sununu 승리...11월 격전 예고</b>
-<blockquote>뉴햄프셔 상원 경선에서 민주당 Chris Pappas 하원의원과 공화당 John E. Sununu 전 상원의원이 각각 승리했다. 경합주에서 치열한 본선 대결이 예상된다.
-<a href="https://www.wsj.com/politics/elections/new-hampshires-senate-primary-winners-now-face-tight-fall-matchup-bf79f52b">[WSJ]</a></blockquote>
+<b>20. 8월 미 기존주택 판매 1년여 만에 최저...모기지 7% 타격</b>
+<blockquote>8월 미국 기존주택 판매가 1년여 만에 최저 수준으로 떨어졌다. 모기지 금리 상승이 주택시장에 다시 한 번 타격을 가하며 전월 대비 2% 감소했다.
+<a href="https://www.wsj.com/economy/housing/home-sales-in-august-tumble-to-lowest-level-since-last-year-25851c6e">[WSJ]</a></blockquote>
 
-<b>21. FT, 미국 물가 추적기 공개...중간선거 핵심 변수 실시간 집계</b>
-<blockquote>FT가 미국 생활비 변동을 실시간 추적하는 대시보드를 출범했다. 중간선거 결과를 좌우할 핵심 지표로 인플레이션 체감도가 부각되고 있다.
-<a href="https://www.ft.com/content/71dccbca-4a1f-485a-9790-28cc527cdb82">[FT]</a></blockquote>
+<b>21. 미국, 외국인 국채 매수 감소...captive creditor 상실</b>
+<blockquote>미국이 전통적으로 국채를 안정적으로 매입해주던 'captive creditor'(중앙은행·연기금 등)를 잃어가고 있다. 가격에 더 민감한 투자자들을 유인하기 위해 더 높은 금리를 지불해야 하는 상황이다.
+<a href="https://www.ft.com/content/a441ea66-329a-4f42-8e50-3ff140958e53">[FT]</a></blockquote>
 
-<b>22. Albertsons, Meg Whitman 회장 임명...성장 모멘텀 확보 시급</b>
-<blockquote>식료품 체인 Albertsons가 eBay·HP 전 CEO Meg Whitman을 신설 회장직에 임명했다. 매출 감소와 소비 위축 국면에서 성장 전략 재정비에 나선다.
-<a href="https://www.wsj.com/business/retail/albertsons-names-former-hp-ebay-ceo-meg-whitman-as-executive-chair-to-help-spur-growth-cd3b4d15">[WSJ]</a></blockquote>
+<b>22. 트럼프 $5,000 직접지급 공약...총 1조 달러 재정 부담</b>
+<blockquote>트럼프 대통령이 중간선거 연설에서 미국 성인 전원에게 $5,000를 지급하겠다는 공약을 내놨다. 총 1조 달러 규모의 이 구상은 의회 승인과 인플레이션 재점화 우려라는 장애물에 직면해 있다.
+<a href="https://www.wsj.com/politics/policy/5-000-checks-for-every-american-what-to-know-about-trumps-latest-promise-0eb47fe6">[WSJ]</a></blockquote>
 
-<b>23. JPMorgan Dimon, Burnham과 면담...영국 예산 windfall tax 우려 전달</b>
-<blockquote>JPMorgan CEO Jamie Dimon이 영국 Burnham 재무장관과 면담하며 은행 대상 windfall tax 가능성에 우려를 표명했다. 노조는 다음 달 예산에서 은행 과세를 요구하고 있다.
-<a href="https://www.ft.com/content/6b71127f-2ca3-4a6b-a268-91177b6cc981">[FT]</a></blockquote>
+<b>23. 트럼프 '1인당 $5,000' 공약...재정·인플레이션 리스크 부각</b>
+<blockquote>트럼프 대통령의 1인당 $5,000 지급 공약이 공화당 중간선거 캠페인의 핵심이 되고 있다. 재정 부담과 인플레이션 재점화 우려 속에 실행 가능성은 불투명하다.
+<a href="https://www.ft.com/content/a79892a3-c6c2-4c0b-8c3a-a37e9a32cf4f">[FT]</a></blockquote>
 
-<b>24. Millennium, 그리스 이전 추진...세제 혜택 노린 헤지펀드 엑소더스</b>
-<blockquote>헤지펀드 Millennium이 그리스 이전을 추진 중이다. 그리스 정부가 올여름 헤지펀드·사모펀드 임원 대상 세제 우대안을 내놓으며 금융업계 유치 경쟁이 치열해지고 있다.
-<a href="https://www.ft.com/content/bce40838-6b08-4a04-9937-627bdf64a1a9">[FT]</a></blockquote>
+<b>24. 트럼프 '현금 지급' 공약은 전형적 포퓰리즘...WSJ 사설</b>
+<blockquote>트럼프 대통령의 $5,000 지급 공약은 고전적인 표 매수형 포퓰리즘 정책이다. 재정 건전성과 인플레이션 관리를 외면한 선심성 공약이라는 비판이 제기되고 있다.
+<a href="https://www.wsj.com/opinion/donald-trump-5000-dividend-midterm-elections-f2643cf3">[WSJ]</a></blockquote>
+
+<b>25. 공화당 컨벤션 빈 좌석 논란...트럼프 지지율 저조 상징</b>
+<blockquote>트럼프 대통령의 댈러스 중간선거 컨벤션에서 수십 개 좌석이 빈 채로 남았다. 여론조사에서 낮은 지지율을 기록한 트럼프가 대규모 집회를 주도했지만 참석률 저조가 중간선거 리스크를 시사했다.
+<a href="https://www.wsj.com/politics/elections/trump-midterm-convention-election-74ec132c">[WSJ]</a></blockquote>
+
+<b>26. 트럼프 중간선거 컨벤션 빈 좌석 속출...11월 투표율 의문</b>
+<blockquote>트럼프 대통령이 댈러스 경기장을 가득 채우지 못했다면 11월 중간선거 투표율 동원도 불투명하다는 우려가 나온다. 이란 전쟁이 2기 임기 말까지 이어질 수 있다는 전망도 제기됐다.
+<a href="https://www.wsj.com/politics/if-trump-cant-fill-a-dallas-arena-can-he-turn-out-a-november-vote-dc30368d">[WSJ]</a></blockquote>
+
+<b>27. Fetterman 상원의원, GOP 컨벤션 영상 출연...민주당 불안 가중</b>
+<blockquote>펜실베이니아 John Fetterman 상원의원이 공화당 중간선거 컨벤션에 깜짝 영상 출연하며 정치 성향 논란을 키웠다. 민주당 소속을 유지하겠다고 밝혔지만 중간선거를 앞두고 당내 불안이 확산됐다.
+<a href="https://www.wsj.com/politics/elections/sen-john-fetterman-fuels-democratic-anxiety-over-midterms-c8904d8f">[WSJ]</a></blockquote>
+
+<b>28. 민주당 분열 심화...좌파 기반 불만 폭발</b>
+<blockquote>민주당 지지 기반이 당 지도부와 트럼프 대통령 모두에 분노하며 당내 분열이 심화되고 있다. 좌파 성향 유권자들이 민주당의 온건 노선에 반발하며 중간선거 불확실성이 커졌다.
+<a href="https://www.economist.com/united-states/2026/09/10/how-far-left-will-democrats-go">[Economist]</a></blockquote>
+
+<b>29. 트럼프 2024 스윙 유권자 이탈...연합 붕괴 조짐</b>
+<blockquote>2024년 트럼프를 지지했던 스윙 유권자들이 대거 이탈하고 있다. 중도 성향 유권자들의 지지 철회가 공화당 중간선거 전망을 어둡게 하고 있다.
+<a href="https://www.economist.com/interactive/united-states/2026/09/10/donald-trumps-disintegrating-coalition">[Economist]</a></blockquote>
+
+<b>30. 공화당 분열 긍정론...당내 단합 과대평가 비판</b>
+<blockquote>공화당의 내분이 오히려 건강한 정치 현상일 수 있다는 주장이 제기됐다. 당내 통합이 과대평가되고 있으며, 정책 논쟁과 다양성이 중요하다는 시각이다.
+<a href="https://www.economist.com/leaders/2026/09/10/in-praise-of-the-democrats-disarray">[Economist]</a></blockquote>
+
+<b>31. 9/11 이후 대테러 정책, 트럼프 '제국적 대통령직' 강화</b>
+<blockquote>9/11 테러 이후 25년간 구축된 대테러 정책이 트럼프 대통령의 권한을 확대시켰다는 분석이 나왔다. 국가안보 명분의 행정권 강화가 제국적 대통령직으로 이어졌다는 지적이다.
+<a href="https://www.economist.com/united-states/2026/09/10/how-counterterrorism-has-empowered-donald-trumps-imperial-presidency">[Economist]</a></blockquote>
+
+<b>32. 유럽 우크라이나 지원 자금 고갈...재정 부담 가중</b>
+<blockquote>유럽 각국 정부가 우크라이나 방어 비용 증가에 자금 격차를 메우기를 꺼리고 있다. 전쟁 지원 반대 야당의 영향력이 커지며 유럽의 우크라이나 지원 부담이 가중되고 있다.
+<a href="https://www.wsj.com/world/europe/defending-ukraine-is-getting-more-expensive-and-europe-is-struggling-to-foot-the-bill-eaecea4a">[WSJ]</a></blockquote>
+
+<b>33. 독일 AfD 약진...메르츠 압박 가중</b>
+<blockquote>독일 극우정당 AfD가 작센안할트 선거에서 선전하며 기민당(CDU) 대표 Friedrich Merz에 대한 압박이 커졌다. AfD가 독일 정치 판도를 흔들며 영향력을 확대하고 있다.
+<a href="https://www.economist.com/europe/2026/09/10/the-afd-is-making-the-weather-in-german-politics">[Economist]</a></blockquote>
+
+<b>34. 스웨덴 선거에 러시아 영향력...우익 포퓰리즘당 전망 불투명</b>
+<blockquote>스웨덴 총선에 러시아의 그림자가 드리워졌다. 우익 포퓰리즘 정당인 스웨덴민주당이 기대만큼 약진하지 못할 수 있다는 전망이 나온다.
+<a href="https://www.economist.com/europe/2026/09/10/a-russian-shadow-flits-over-swedens-election">[Economist]</a></blockquote>
+
+<b>35. 독일 AfD 성공은 불안정 초래...보수 에너지 아닌 마비</b>
+<blockquote>독일 AfD의 선거 성공이 보수 정치의 활력을 가져오기보다는 정치적 불안정과 마비를 초래할 가능성이 크다. JD Vance의 독일 보수주의 기대와 달리 혼선만 가중될 전망이다.
+<a href="https://www.wsj.com/opinion/has-afd-made-vances-german-dream-come-true-964d89ec">[WSJ]</a></blockquote>
+
+<b>36. 영국 Burnham 총리, 커먼웰스 정상회의 배상 압박</b>
+<blockquote>영국 총리가 앤티가에서 열리는 커먼웰스 격년 정상회의 참석 여부를 고심하고 있다. 노예제 배상 요구가 거세지는 가운데 회의 불참 압력이 커지고 있다.
+<a href="https://www.ft.com/content/92a1f269-2832-4bcd-aad6-629fd86dda0f">[FT]</a></blockquote>
+
+<b>37. Oracle 데이터센터 수익 성장...AI 인프라 경쟁 가속</b>
+<blockquote>Oracle의 데이터센터 부문 매출이 빠르게 성장하며 AI 인프라 경쟁에서 진전을 보이고 있다. 위험 부담이 큰 AI 인프라 투자 전략이 성과를 내고 있다는 평가다.
+<a href="https://www.ft.com/content/9df99d0b-6ef6-4530-8771-8b220f740e74">[FT]</a></blockquote>
+
+<b>38. Positron, $5bn 밸류로 $875m 펀딩...AI 칩 수요 급증</b>
+<blockquote>AI 모델 고속 실행용 칩을 제조하는 Positron이 $50억 기업가치로 $8억7500만 펀딩을 유치했다. NEA, Atreides, Jim Clark 등이 참여하며 AI 인프라 투자 열기가 지속되고 있다.
+<a href="https://www.wsj.com/tech/ai/positron-valued-at-5-billion-in-new-funding-as-cpu-demand-surges-76dde819">[WSJ]</a></blockquote>
+
+<b>39. 미 국방부, AI 인프라에 $5bn 대출 추진</b>
+<blockquote>국방부가 AI 인프라 기업 Fluidstack에 $50억 규모 대출을 논의 중이다. 트럼프 대통령 초기 지지자인 Palmer Luckey가 설립한 은행이 자문을 맡고 있다.
+<a href="https://www.wsj.com/tech/ai/pentagon-in-talks-to-get-into-ai-infrastructure-funding-with-a-5-billion-loan-0367eeb0">[WSJ]</a></blockquote>
+
+<b>40. 중국 AI 기업, 미 모델 복제 시도...Anthropic 수백만 쿼리 악용</b>
+<blockquote>Anthropic은 DeepSeek과 Moonshot 등 중국 AI 기업이 수천 개 가짜 계정과 수백만 실사용자 쿼리를 이용해 자사 AI 능력을 복제하려는 '증류(distillation)' 작업을 시도했다고 밝혔다.
+<a href="https://www.wsj.com/tech/ai/chinese-ai-giants-accused-of-sending-millions-of-user-queries-to-u-s-models-768c9d26">[WSJ]</a></blockquote>
+
+<b>41. Anthropic, AI 생물무기 악용 시도 차단...5건 적발</b>
+<blockquote>Anthropic이 AI를 잠재적 생물무기 용도로 사용하려는 시도를 차단했다고 공개했다. 행위자들이 통제를 우회하고 연구 목적을 은폐하려 한 5건의 사례를 적발했다.
+<a href="https://www.ft.com/content/845cf3bf-59c5-4e53-a45e-e11d2339df9d">[FT]</a></blockquote>
+
+<b>42. Anthropic, EU에 Mythos 5 접근권 제공...사이버보안 협력</b>
+<blockquote>Anthropic이 EU 사이버보안청에 Mythos 5 AI 모델 접근권을 제공했다. 컴퓨터 코드 취약점 발견 능력을 갖춘 이 모델은 국가안보 우려를 불러일으켰으나, EU 집행위와 수개월간 협상 끝에 제공이 결정됐다.
+<a href="https://www.wsj.com/tech/anthropic-gives-eus-cybersecurity-agency-access-to-mythos-5-ai-model-33e3a3ef">[WSJ]</a></blockquote>
+
+<b>43. Meta AI 연구원, Anthropic으로 이적...보상 패키지 불구</b>
+<blockquote>Meta의 스타 AI 연구원 Andrew Tulloch가 Anthropic으로 이직했다. 1년도 안 돼 $10억 규모 보상 패키지를 제안받았음에도 회사를 떠났다.
+<a href="https://www.wsj.com/tech/ai/star-ai-researcher-is-leaving-meta-8906e4aa">[WSJ]</a></blockquote>
+
+<b>44. 중국 G-20서 철강 과잉생산 인정...무역 관행 책임 촉구</b>
+<blockquote>G-20이 중국의 정책 주도 철강 과잉생산을 인정한 것은 환영할 만한 첫걸음이다. 베이징의 무역 관행에 대한 책임을 묻는 움직임이 본격화되고 있다.
+<a href="https://www.wsj.com/opinion/hold-china-accountable-for-its-trade-practices-b72ef463">[WSJ]</a></blockquote>
+
+<b>45. 터키 중앙은행 금리 동결...인플레이션 리스크 지속</b>
+<blockquote>터키 중앙은행이 기준금리를 37.0%로 동결했다. 지속되는 인플레이션 리스크 속에 1월 이후 처음으로 금리를 유지했다.
+<a href="https://www.wsj.com/economy/central-banking/turkish-central-bank-keeps-rates-unchanged-amid-continued-inflation-risks-6316aa47">[WSJ]</a></blockquote>
+
+<b>46. Huawei, 미 형사재판 임박...트럼프-시진핑 회담 수주 전</b>
+<blockquote>Huawei가 트럼프-시진핑 정상회담을 수주 앞두고 미국에서 형사재판을 받게 됐다. 기술 제재와 국가안보 이슈가 미중 관계에 또 다른 변수로 작용할 전망이다.
+<a href="https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-huawei-faces-u-s-criminal-trial-weeks-before-trump-xi-meeting-37bfd0b8">[WSJ]</a></blockquote>
 
 ━━━━━━━━━━━━━━━━━━━━
 📡 <b>출처: WSJ · FT · The Economist</b>
