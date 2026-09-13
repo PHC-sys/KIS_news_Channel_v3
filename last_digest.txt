@@ -4,33 +4,69 @@
 
 ✅ <b>간밤의 주요 헤드라인</b>
 
-<b>1. 사우디, 호르무즈 우회 East-West 파이프라인 폐쇄...유가 급등 모멘텀 강화</b>
-<blockquote>사우디아라비아가 공격을 받은 East-West 파이프라인을 폐쇄했다. 이 파이프라인은 호르무즈 해협을 우회해 원유를 수송하는 핵심 루트로, 폐쇄로 유가 상승 압력이 한층 커질 전망이다.
-<a href="https://www.ft.com/content/3bafb3ae-ba94-44f0-984c-ec7c9f54a5e0">[FT]</a></blockquote>
+<b>1. 걸프국가-이란 협상 연기...호르무즈 해협 재개 합의 실패</b>
+<blockquote>호르무즈 해협 봉쇄 해제를 위한 걸프 산유국과 이란의 고위급 회담이 합의 부재로 연기됐다. 회담 지연으로 글로벌 에너지 공급망의 핵심 요충지인 호르무즈 해협의 해운 정상화 노력에 차질이 빚어지고 있다.
+<a href="https://www.ft.com/content/4845a503-3ddd-4bb7-a469-c51f275bc873">[FT]</a></blockquote>
 
-<b>2. BRICS, 걸프 지역 평화 노력 본격화...중동 지정학 긴장 속 중재 역할 모색</b>
-<blockquote>BRICS 국가들이 걸프 지역 평화를 위한 중재 노력을 강화하고 있다. 중동 전쟁 우려가 고조되는 가운데 인도-중국 관계 개선에도 경제·지정학적 경쟁이 걸림돌로 작용하고 있다.
-<a href="https://www.ft.com/content/f32bef26-d2b8-47a6-b938-3dcd5e870685">[FT]</a></blockquote>
+<b>2. 예멘 후티 반군 진격...이란의 중동 협상 레버리지 강화</b>
+<blockquote>이란이 지원하는 예멘 후티 반군이 예상을 뛰어넘는 군사 진격을 보이며 지역 세력 균형을 흔들고 있다. 후티의 이번 공세는 사우디에 압박 요인이자, 호르무즈 위기 협상에서 이란의 협상력을 높이는 요인으로 작용하고 있다.
+<a href="https://www.economist.com/middle-east-and-africa/2026/09/13/the-houthis-shock-advance-in-yemen-gives-iran-new-leverage">[Economist]</a></blockquote>
 
-<b>3. 중국 경제 침체, 히말라야 송이버섯 채취 경쟁 격화로 가시화...티베트 농가 소득 급감</b>
-<blockquote>중국 경제 둔화가 티베트 샹그릴라의 송이버섯 채취업에까지 영향을 미치고 있다. 히말라야 고산지대에서 연 수 주간 진행되는 송이버섯 채취가 과열 경쟁에 시달리며, 티베트 농가들의 소득이 급감하고 있다.
-<a href="https://www.wsj.com/world/china/chinas-economic-troubles-reach-the-mushroom-hunters-of-shangri-la-ea4cd49d">[WSJ]</a></blockquote>
+<b>3. 이라크 친이란 민병대, 사우디 파이프라인 타격...중동 에너지 인프라 위협 확산</b>
+<blockquote>이라크 내 친이란 민병대가 사우디 송유관을 공격하며 중동 에너지 인프라에 대한 위협이 확대되고 있다. 이라크 정부는 테헤란 연계 민병대의 영향력을 줄이기 위한 조치를 검토 중이다.
+<a href="https://www.ft.com/content/b60624fb-0a09-45e6-b148-b7a5ca38f83e">[FT]</a></blockquote>
 
-<b>4. Musk·Altman·Amodei, AI 개발 속도 감속 필요성 의견 일치...안전 우려 주류로 부상</b>
-<blockquote>Elon Musk와 Sam Altman이 Anthropic CEO Dario Amodei의 AI 안전 경고에 동조하며 개발 속도 감축을 지지했다. 주요 AI 기업 CEO들이 인류가 기술 통제력을 잃을 위험을 경고하면서, 한때 변방의 우려였던 AI 안전 이슈가 주류 담론으로 자리잡았다.
-<a href="https://www.wsj.com/tech/ai/anthropic-boss-warns-ai-industry-must-slow-the-pace-a4267b56">[WSJ]</a></blockquote>
+<b>4. 걸프전 오일 위기가 투자 붐으로 전환 가능성...에너지 기업 재무 확충 배경</b>
+<blockquote>Economist 분석에 따르면, 호르무즈 봉쇄로 인한 유가 급등이 에너지 기업들의 대규모 투자 사이클을 촉발할 가능성이 커지고 있다. 전쟁 특수로 강화된 재무제표를 바탕으로 주주 환원에서 설비 확장으로 자본 배분 전략이 전환될 것으로 전망된다.
+<a href="https://www.economist.com/business/2026/09/13/how-an-oil-supply-crisis-could-bring-about-an-investment-boom">[Economist]</a></blockquote>
 
-<b>5. Larry Ellison, Oracle 주식 $7.5bn 매각 계획 하루 만에 철회...내부자 매도 신호 후퇴</b>
-<blockquote>Larry Ellison이 10월 말까지 Oracle 주식 최대 5,000만 주를 매각하겠다던 계획을 발표 하루 만에 취소했다. 매각 주식은 $7.5bn 규모였으며, 실제 매도는 전혀 이뤄지지 않았다.
-<a href="https://www.ft.com/content/05e61eb8-9273-4b9a-a356-47f525b7d506">[FT]</a></blockquote>
+<b>5. Trump, 우크라이나에 러시아 정유 타격 중단 요구...디젤 가격 급등 책임 전가</b>
+<blockquote>Donald Trump 대통령이 우크라이나에 러시아 정유시설 공습 중단을 압박하며, 최근 디젤 가격 사상 최고치 원인이 우크라이나 타격에 있다고 주장했다. 이란과의 전쟁이 아니라 우크라이나의 공격이 유류 가격 급등을 초래했다는 발언이다.
+<a href="https://www.ft.com/content/e3ba3f9a-9312-4d0b-99fd-2c80728f2dcd">[FT]</a></blockquote>
 
-<b>6. 영국 Reform UK, 암호화폐 거부 기부 £72mn 확보...영국 정치사 최대 규모 정치자금</b>
-<blockquote>영국 Reform UK가 암호화폐 억만장자 Ben Delo와 Christopher Harborne로부터 각각 £36mn씩, 총 £72mn의 기부를 받았다. 이는 영국 정치사상 최대 규모의 정치 기부금으로, Trump 대통령이 사면한 사업가가 £48.7mn를 기부한 데 이어 제2 기부자가 곧바로 동일 금액을 지원했다.
-<a href="https://www.wsj.com/world/uk/u-k-s-reform-party-rakes-in-record-97-million-donations-from-crypto-world-18d9f11d">[WSJ]</a></blockquote>
+<b>6. 러시아-우크라이나 공습 격화...양측 모두 에너지·교통 인프라 집중 타격</b>
+<blockquote>러시아와 우크라이나가 교환 공습을 강화하며 전쟁이 격화되고 있다. 러시아는 드론으로 폴란드 접경 인근 철도를 타격했고, 우크라이나는 러시아 정유 시설을 지속 공격하며 양측 모두 상대 인프라를 표적으로 삼는 양상이다.
+<a href="https://www.wsj.com/world/europe/dueling-airstrikes-fuel-angst-as-russia-ukraine-war-escalates-a6c0a67b">[WSJ]</a></blockquote>
 
-<b>7. 인도 중앙은행, Tata Sons 강제 상장 명령 확정...인도 사상 최대 IPO 가능성</b>
-<blockquote>인도 중앙은행(RBI)이 Tata Sons의 상장 의무화 이의신청을 기각하며 강제 상장 결정을 확정했다. 이번 결정으로 인도 대표 재벌 그룹의 지주회사가 상장될 경우 인도 역사상 최대 규모 IPO가 될 전망이다.
-<a href="https://www.ft.com/content/6a173e7c-cfe8-4ab8-8c8f-b90871cc907e">[FT]</a></blockquote>
+<b>7. 러시아, 외국 고위인사 통과 직후 우크라이나 철도 타격...서방 고위급 노선 겨냥</b>
+<blockquote>러시아가 David Petraeus 전 CIA 국장, Boris Johnson 전 영국 총리 등 서방 고위인사들이 탑승한 기차가 지나간 직후 우크라이나 철도를 타격했다. 서방 인사들이 이용하는 보급로를 겨냥한 공격으로, 우크라이나 지원 인사들에 대한 경고 메시지로 풀이된다.
+<a href="https://www.ft.com/content/cdce9cd6-4857-4332-af34-ffc9ce45eadf">[FT]</a></blockquote>
+
+<b>8. 캐나다, EU와 우크라이나 차관 협력 추진...대미 의존도 축소 모색</b>
+<blockquote>Mark Carney 캐나다 총리가 이번 주 유럽 순방에서 우크라이나 지원 차관 공동 참여 방안을 논의한다. 캐나다는 미국 의존도를 낮추고 유럽과의 전략적 유대를 강화하려는 움직임을 본격화하고 있다.
+<a href="https://www.ft.com/content/9cd8cc79-e98a-449f-a903-609b034a56e3">[FT]</a></blockquote>
+
+<b>9. BRICS 정상회담, '트럼프주의' 반대 연대 형성...걸프전·관세·제재 공동 대응</b>
+<blockquote>역사적으로 이견이 많았던 BRICS 회원국들이 Trump 행정부의 관세·제재 정책과 걸프전에 대한 우려를 공유하며 이례적으로 단결된 모습을 보였다. 'Trumpism'에 대한 반대가 BRICS 내 새로운 결속 요인으로 부상하고 있다.
+<a href="https://www.ft.com/content/d17cda71-1c35-4abd-b4d5-773550b109cc">[FT]</a></blockquote>
+
+<b>10. Trump, 아일랜드 위스키 관세 철폐 약속...방문 중 돌연 발표</b>
+<blockquote>Trump 대통령이 아일랜드 골프 대회 방문 중 아일랜드 위스키에 부과된 10% 관세를 철폐하겠다고 전격 발표했다. 하루 전 아일랜드 통일 발언으로 논란을 일으킨 직후 나온 유화 조치로, 통상 정책의 예측 불가능성을 다시 한번 드러냈다.
+<a href="https://www.ft.com/content/aa4465ff-5261-4c3b-874f-ce1a607efa70">[FT]</a> <a href="https://www.wsj.com/economy/trade/trump-pledges-to-rescind-10-tariff-on-irish-whiskey-fc456b00">[WSJ]</a></blockquote>
+
+<b>11. 프랑스 Marine Le Pen, 대선 캠페인 시작...자국민 우선주의 강조</b>
+<blockquote>극우 성향 Marine Le Pen이 프랑스 대선 캠페인을 공식 시작하며 자국민 우선 정책을 핵심 공약으로 내세웠다. 수 주간 당내 갈등을 겪은 후 당권 장악력을 과시하려는 행보로 풀이된다.
+<a href="https://www.ft.com/content/d25e4152-afc5-4ff9-bfd9-3317413800ff">[FT]</a></blockquote>
+
+<b>12. EU-영국 정상회담 또 연기...무역 규정 갈등 지속</b>
+<blockquote>EU와 영국의 관계 재설정 정상회담이 11월 말로 다시 미뤄졌다. 'Made in Europe' 원산지 규정을 둘러싼 양측 이견이 여전히 해소되지 않은 가운데, 영국 제조업에 대한 압박 요인으로 작용하고 있다.
+<a href="https://www.ft.com/content/182365c4-a0ac-4670-97e0-22e88d3bc02d">[FT]</a></blockquote>
+
+<b>13. 영국 총리 Andy Burnham, 친기업 정책 천명...성장 파트너 자임</b>
+<blockquote>Andy Burnham 영국 총리가 기업인들 앞에서 정부가 성장을 위한 파트너가 될 것이라며 영국 비즈니스 관행의 '문화 전환'을 약속했다. 기업 활동 지원을 통한 경제 성장 전략을 본격 추진하겠다는 신호다.
+<a href="https://www.ft.com/content/60ef3d28-8e1b-4c2b-b8c1-0b0059c4eedc">[FT]</a></blockquote>
+
+<b>14. 이번 주 주요 일정...러시아 선거·인플레 지표·Fed·BoE·BoJ 금리 결정 집중</b>
+<blockquote>이번 주 글로벌 시장은 러시아 의회 선거, 미국·유럽 인플레이션 데이터, Fed·BoE·BoJ 세 중앙은행의 금리 결정이 동시 예정돼 있어 변동성이 예고된다. 우크라이나 침공 이후 첫 러시아 선거와 주요국 통화정책 방향이 시장 관심사다.
+<a href="https://www.ft.com/content/7de7cc10-e7a5-414b-a40f-3296eaf49ce7">[FT]</a></blockquote>
+
+<b>15. 연준, 에너지발 인플레 압박 속 금리 인상 가능성...Trump 압박과 맞물려</b>
+<blockquote>FT는 이번 주 연준이 Trump의 금리 인하 압박에도 불구하고 디젤 등 에너지 가격 급등으로 인한 인플레이션 압력을 이유로 금리 인상을 검토할 가능성을 제기했다. 정치적 압박과 물가 안정 책무 사이에서 연준의 선택이 주목된다.
+<a href="https://www.ft.com/content/1fd5bbf6-9bb6-4848-a01b-7c94b3e59b6e">[FT]</a></blockquote>
+
+<b>16. AI 개발 속도 조절 요구 vs. Trump의 규제 거부...정책 충돌</b>
+<blockquote>미국 주요 AI 기업 경영진들이 기술 개발 속도를 늦추고 규제를 강화해야 한다는 공동 성명을 낸 가운데, Trump 대통령은 이를 일축하며 최소 규제 기조를 재확인했다. AI 안전성과 기술 우위 확보 사이에서 정책 방향이 엇갈리고 있다.
+<a href="https://www.ft.com/content/cae60732-f929-4735-a627-db8c14e7c7ed">[FT]</a> <a href="https://www.wsj.com/tech/ai/trump-defends-white-houses-light-touch-on-ai-regulation-c4ed2488">[WSJ]</a></blockquote>
 
 ━━━━━━━━━━━━━━━━━━━━
 📡 <b>출처: WSJ · FT · The Economist</b>
