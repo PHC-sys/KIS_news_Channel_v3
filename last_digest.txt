@@ -1,160 +1,140 @@
 🌙 <b>간밤의 글로벌 마켓 뉴스</b>
-[ 2026. 9. 16 | WSJ · FT · Economist ]
+[{DATE} | WSJ · FT · Economist ]
 ━━━━━━━━━━━━━━━━━━━━
 
 ✅ <b>간밤의 주요 헤드라인</b>
 
-<b>1. 10년물 미 국채 수익률 5% 돌파...2007년 이후 최고치 경신</b>
-<blockquote>10년 만기 미국 국채 수익률이 5.04%까지 상승하며 2007년 이후 최고 수준을 기록했다. 인플레이션과 장기 고금리 우려가 확대되면서 글로벌 채권 매도세가 심화되고 있다.
-<a href="https://www.ft.com/content/5e2327aa-dbd0-4a79-8c99-622a893876d7">[FT]</a></blockquote>
+<b>1. Fed, 2023년 이후 첫 금리 인상...추가 인상 시사</b>
+<blockquote>연준이 만장일치로 금리를 인상했다. 대부분의 위원들이 올해 안에 추가 인상 1회를 예상하는 것으로 나타났다. 에너지 충격과 AI 투자 급증이 인플레이션 전망을 바꿨다.
+<a href="https://www.wsj.com/economy/central-banking/fed-raises-rates-for-first-time-in-three-years-08539fbe">[WSJ]</a></blockquote>
 
-<b>2. 연준 금리 결정 앞두고 시장 긴장 고조...국채 수익률 급등세</b>
-<blockquote>연방준비제도의 금리 결정을 앞두고 10년물 국채 수익률이 5% 선을 돌파했다. 금융위기 이후 고점 수준인지, 아니면 새로운 고금리 시대로 진입하는 신호인지 시장이 주목하고 있다.
-<a href="https://www.wsj.com/finance/investing/what-comes-next-now-that-the-10-year-treasury-yield-has-crossed-5-c3bd8b05">[WSJ]</a></blockquote>
+<b>2. Trump 압박 무시하고 금리 인상 단행...연준 독립성 시험대</b>
+<blockquote>연준은 트럼프 대통령의 금리 1% 이하 인하 요구를 무시하고 2023년 이후 처음으로 긴축 정책을 택했다. 금리 정책 결정자들이 차입 비용을 올린 직후 트럼프가 반발했다.
+<a href="https://www.ft.com/content/f5ce5c38-76e3-4212-8c60-4c868f6dee70">[FT]</a></blockquote>
 
-<b>3. 글로벌 채권 매도세 심화...다년 만기 수익률 연이어 고점</b>
-<blockquote>미국 연방준비제도의 금리 결정을 앞두고 10년물 국채 수익률이 다년간 최고치를 기록하며 글로벌 채권시장 매도세가 심화되고 있다. 중동 에너지 쇼크와 인플레이션 재점화 우려가 배경으로 작용했다.
-<a href="https://www.wsj.com/finance/investing/u-s-10-year-treasury-yield-rises-to-highest-since-2007-91d1e44f">[WSJ]</a></blockquote>
+<b>3. Warsh 의장 "인플레이션 여전히 너무 높다"...매파 기조 확인</b>
+<blockquote>Kevin Warsh 연준 의장이 기자회견에서 경제에 대한 낙관적 전망을 내놓으면서도 추가 금리 인상 가능성을 시사했다. 인플레이션이 "너무 높고 너무 오래 지속됐다"고 경고했다.
+<a href="https://www.wsj.com/economy/central-banking/the-key-takeaways-from-kevin-warshs-press-conference-fb0522fd">[WSJ]</a></blockquote>
 
-<b>4. Kevin Warsh 연준 의장, 신뢰성 회복 과제...금리 인상 압박</b>
-<blockquote>Kevin Warsh 연준 의장이 금리 인상을 단행해야 연방준비제도의 신뢰성을 회복할 수 있다는 분석이 제기됐다. 경제적 논리와 함께 중앙은행의 독립성 확보가 시급한 상황이다.
-<a href="https://www.ft.com/content/51a381f2-cbff-4d2f-9ebd-9f0ec3996570">[FT]</a></blockquote>
+<b>4. Warsh 매파 성향 분석...시장은 여전히 오판 중</b>
+<blockquote>언론과 월가가 새로운 연준 의장의 인플레이션 대응 의지를 제대로 이해하지 못하고 있다는 지적이 나왔다. Warsh는 취임 이후 일관되게 물가 안정을 최우선 과제로 삼아왔다.
+<a href="https://www.wsj.com/opinion/kevin-warsh-rate-hike-federal-reserve-fomc-donald-trump-657987d4">[WSJ]</a></blockquote>
 
-<b>5. Scott Bessent 재무장관 신뢰도 위기...채권시장 압박 지속</b>
-<blockquote>Scott Bessent 재무장관이 채권시장을 비난하고 있지만, 시장은 정상적으로 작동하고 있으며 오히려 그의 개입이 문제라는 지적이 나왔다. 정치적 압박이 재무장관의 판단을 흐리고 있다는 분석이다.
-<a href="https://www.economist.com/finance-and-economics/2026/09/15/scott-bessent-should-stop-blaming-the-bond-market">[Economist]</a></blockquote>
+<b>5. 미 증시 7거래일 중 7번째 하락...Warsh 경고 후 급락</b>
+<blockquote>연준 의장이 인플레이션이 여전히 문제라고 밝힌 뒤 미국 3대 주요 지수가 모두 하락 마감했다. 최근 8거래일 중 7번 내림세를 기록했다.
+<a href="https://www.wsj.com/finance/investing/u-s-markets-sell-off-after-feds-warsh-says-inflation-is-still-too-high-26bd17f2">[WSJ]</a></blockquote>
 
-<b>6. 후티 반군, 홍해 봉쇄 위협...이란 대리 민병대 사우디 석유 수출 겨냥</b>
-<blockquote>이란의 대리 민병대인 후티 반군이 홍해를 통한 사우디 석유 수출 봉쇄 위협을 가하고 있다. 중동 에너지 공급망에 대한 지정학 리스크가 고조되고 있다.
-<a href="https://www.wsj.com/opinion/houthis-middle-east-bab-al-mandab-saudi-arabia-oil-3944cb9c">[WSJ]</a></blockquote>
+<b>6. 다우 500포인트 급락...채권 금리 동반 상승</b>
+<blockquote>연준의 금리 인상 결정 이후 주가가 폭락했다. Kevin Warsh 의장이 인플레이션이 여전히 높다는 신호를 보내자 주식과 채권 시장이 동시에 타격을 받았다.
+<a href="https://www.wsj.com/finance/stocks/oil-pares-gains-stock-futures-steady-as-cautious-optimism-heralds-fed-day-65090da0">[WSJ]</a></blockquote>
 
-<b>7. AWS, 이란 공습으로 중동 데이터 일부 영구 손실 통보</b>
-<blockquote>Amazon Web Services가 이란의 공습으로 바레인과 아랍에미리트 시설에 저장된 일부 데이터를 복구할 수 없다고 발표했다. 해당 지역에만 독점 저장된 데이터가 영구 손실될 수 있다는 첫 공식 확인이다.
-<a href="https://www.wsj.com/world/middle-east/aws-says-it-cant-restore-some-data-from-mideast-facilities-struck-by-iran-ddcb7e5d">[WSJ]</a></blockquote>
+<b>7. 달러 강세 지속...연준 인상 모멘텀 힘 받아</b>
+<blockquote>달러화가 연준의 예상된 금리 인상 이후 강세를 보였다. 만장일치 결정은 시장에 예상 밖이었다는 분석이다. 최근 FOMC 회의에서 위원들 간 의견 불일치가 주요 테마였기 때문이다.
+<a href="https://www.wsj.com/finance/currencies/fed-guidance-key-to-asian-fx-outlook-511a4410">[WSJ]</a></blockquote>
 
-<b>8. 미 국방부, 대이란 전쟁 비용 $380억 추산...요격미사일 보충에 최소 5년</b>
-<blockquote>미 의회예산국은 이란과의 전쟁 초기 몇 달간 미군이 약 380억 달러를 지출했으며, 사용한 미사일 요격체를 보충하는 데 최소 5년이 걸릴 것으로 추정했다.
-<a href="https://www.wsj.com/politics/national-security/congressional-watchdog-puts-war-costs-at-38-billion-estimates-5-years-to-replace-interceptors-c7d85678">[WSJ]</a></blockquote>
+<b>8. 금 가격 하락...금리 인상에 안전자산 매력 감소</b>
+<blockquote>연준의 예상된 금리 인상 이후 금 선물 가격이 하락했다. 금리 상승은 무이자 자산인 금의 기회비용을 높여 투자 매력을 떨어뜨린다.
+<a href="https://www.wsj.com/finance/commodities-futures/rate-hike-views-yields-keep-gold-under-pressure-49c31f66">[WSJ]</a></blockquote>
 
-<b>9. 사우디 East-West 파이프라인 폐쇄...중동 공급 우려에 유가 4개월 고점</b>
-<blockquote>사우디아라비아의 동서 파이프라인 폐쇄와 후티 반군의 홍해 해운 위협으로 중동 석유 공급 불안이 지속되며 유가가 4개월 만에 최고치를 기록했다.
-<a href="https://www.wsj.com/business/energy-oil/oil-prices-rise-as-middle-east-supply-concerns-persist-e3bff20f">[WSJ]</a></blockquote>
+<b>9. 금리 인상이 가계에 미치는 영향...신용카드 금리 상승 불가피</b>
+<blockquote>연준의 금리 인상은 신용카드 차입 비용을 높이지만 모기지 금리에는 직접적인 영향을 주지 않는다. 신용카드 금리는 기준금리에 연동돼 즉각 오르는 반면 주택담보대출은 장기 채권 금리를 따른다.
+<a href="https://www.wsj.com/finance/investing/what-fed-rate-increase-means-for-your-money-cf527fcd">[WSJ]</a></blockquote>
 
-<b>10. 사우디 왕세자, 이집트 긴급 방문...후티 전쟁 격화 속 안보 협의</b>
-<blockquote>사우디 왕세자 Mohammed bin Salman이 이집트를 긴급 방문해 대통령 Abdel Fattah al-Sisi와 안보 회담을 가졌다. 최근 드론과 미사일 공격으로 13명이 부상당한 직후 이뤄진 조치다.
-<a href="https://www.ft.com/content/08ddd08c-97b2-46a0-a4ed-b3b4ff5ebfd9">[FT]</a></blockquote>
+<b>10. 미국 소매판매 1.2% 반등...예상 상회</b>
+<blockquote>지난달 소매업체 판매가 1.2% 증가하며 7월 0.5% 감소에서 반등했다. 경제학자들이 예상한 0.8% 증가를 웃도는 수치다. 소비 강세가 확인됐다.
+<a href="https://www.wsj.com/economy/u-s-retail-sales-rebounded-last-month-cdb4a2e0">[WSJ]</a></blockquote>
 
-<b>11. 미국 디젤 가격 갤런당 $6.27 신고가...연준 금리 인상 압박 확대</b>
-<blockquote>미국 디젤 평균 가격이 갤런당 6.27달러로 사상 최고치를 경신했다. 연방준비제도가 수요일 금리를 인상할 것이라는 시장 기대가 높아지고 있다.
-<a href="https://www.wsj.com/finance/commodities-futures/u-s-diesel-prices-hit-new-record-high-as-fuel-squeeze-bites-455c4983">[WSJ]</a></blockquote>
+<b>11. 강한 경제지표, 연준 금리 인상 뒷받침</b>
+<blockquote>8월 소매판매의 견조한 증가세가 일련의 호조 경제지표에 추가됐다. 미국 경제가 금리 인상을 견딜 만큼 강하다는 점을 뒷받침하며 연준의 정책 결정을 정당화한다는 분석이다.
+<a href="https://www.wsj.com/economy/central-banking/solid-economic-data-show-u-s-economy-running-hot-ahead-of-fed-decision-6b10c235">[WSJ]</a></blockquote>
 
-<b>12. Scott Bessent 재무장관, 중국 부총리 何立峰과 뉴욕 회동...무역전쟁 휴전 1년 만료 앞두고</b>
-<blockquote>Scott Bessent 미국 재무장관과 중국 부총리 何立峰이 뉴욕에서 회담을 갖는다. Trump-Xi 정상회담을 앞두고 무역전쟁 휴전 1년 만료 시점이 다가오는 가운데 이뤄진 접촉이다.
-<a href="https://www.ft.com/content/7cc04edd-2897-4655-99d4-ede1ccfcd91c">[FT]</a></blockquote>
+<b>12. 중국 원유 가격 사상 최고치...사우디 파이프라인 공격 여파</b>
+<blockquote>사우디 송유관 공격으로 중국 원유 가격이 기록적 수준으로 치솟았다. 베이징은 이란 전쟁의 글로벌 충격을 재고 방출로 완화해왔으나 이제 '극단적 다이어트를 끝내고' 있다.
+<a href="https://www.ft.com/content/3a88d016-9575-4c11-bd34-14606964a867">[FT]</a></blockquote>
 
-<b>13. 중국, 해외여행 통제 대폭 강화...첨단기술·인력 유출 차단</b>
-<blockquote>중국 시진핑 주석이 국가기밀, 첨단기술, 고급 인력 유출을 막기 위해 해외여행 통제를 대폭 강화하는 새 법안을 추진하고 있다. 기술 주권 확보와 안보 강화가 목적이다.
-<a href="https://www.ft.com/content/3f2b2172-0c1a-4708-aba2-559eb37eabc8">[FT]</a></blockquote>
+<b>13. 유가 4개월 고점 근접...중동 공급 불안 심화</b>
+<blockquote>원유 선물이 5월 이후 최고 수준까지 상승한 뒤 일부 반납했다. 중동 지역 선박과 에너지 시설에 대한 위협이 확대되며 공급 차질 우려가 커졌다.
+<a href="https://www.wsj.com/finance/commodities-futures/oil-declines-but-remains-elevated-amid-supply-concerns-geopolitical-risks-15e97c33">[WSJ]</a></blockquote>
 
-<b>14. 미국, 멕시코에 對중국 AI 하드웨어 우회수출 차단 압박</b>
-<blockquote>미국 무역협상가들이 멕시코에 중국 기업 등 외국 기업의 관세 우회를 막기 위한 AI 하드웨어 수출 규칙을 수용하도록 압박하고 있다. 북미산 콘텐츠 비중을 높이는 것이 목표다.
-<a href="https://www.wsj.com/economy/trade/u-s-pressures-mexico-to-box-out-chinas-ai-hardware-exports-4f708103">[WSJ]</a></blockquote>
+<b>14. 텍사스 향 에너지 탱커 사이버 공격...이란 연관 조사</b>
+<blockquote>미국 정부가 텍사스 항구로 향하던 에너지 운반선에 대한 사이버 공격의 이란 연계 가능성을 조사 중이다. 선박들은 지브롤터 해협에서 미국 항구로 향하던 중 공격을 받았다.
+<a href="https://www.wsj.com/politics/national-security/u-s-probes-cyberattacks-on-energy-tankers-bound-for-american-coast-33d92f3a">[WSJ]</a></blockquote>
 
-<b>15. 상원, 암호화폐 법안 절차적 표결 부결...Trump 윤리 우려로 민주당 이탈</b>
-<blockquote>디지털 자산을 주류 금융 시스템에 편입시키려는 획기적인 암호화폐 법안이 상원 절차적 표결에서 부결됐다. Trump 대통령의 암호화폐 투자에 대한 윤리 우려로 의회가 분열됐다.
-<a href="https://www.ft.com/content/8d0c90f0-b6f6-4b89-8839-d6c8c5c03c54">[FT]</a></blockquote>
+<b>15. 후티 반군, 사우디 F-15 격추 주장...왕국 압박 가중</b>
+<blockquote>예멘의 후티 반군이 사우디 F-15 전투기를 격추했다고 주장했다. 이란 지원을 받는 반군의 진격과 사우디 석유 산업을 겨냥한 공격으로 왕국이 압박받는 가운데 나온 주장이다.
+<a href="https://www.wsj.com/world/middle-east/yemens-houthi-rebels-claim-shooting-down-saudi-f-15-jet-fighter-237ecc7d">[WSJ]</a></blockquote>
 
-<b>16. 암호화폐 거래소 CoinEx 갑작스런 운영 중단...이란 불법 자금 허브 역할 논란</b>
-<blockquote>이란 내 불법 자금 거래 통로로 지목됐던 암호화폐 거래소 CoinEx가 월스트리트저널 보도 3개월도 안 돼 운영을 중단한다고 발표했다.
-<a href="https://www.wsj.com/finance/currencies/crypto-exchange-that-was-hub-for-illicit-iran-cash-closes-suddenly-80afba35">[WSJ]</a></blockquote>
+<b>16. 예멘서 중국제 미사일 잔해 발견...사우디 첫 사용 추정</b>
+<blockquote>예멘 사막에서 발견된 Dongfeng 15로 보이는 미사일 동체는 사우디가 중국제 미사일을 처음 사용했음을 시사한다. 중동 무기 시장의 지각 변동을 보여주는 증거다.
+<a href="https://www.wsj.com/world/middle-east/debris-found-in-yemen-suggests-saudi-arabia-fired-its-first-chinese-missile-dfb8d9fe">[WSJ]</a></blockquote>
 
-<b>17. 미 법무부, Binance 통한 對이란 석유 자금세탁 $61백만 압수 소송</b>
-<blockquote>미국 법무부가 중국 기업들이 Binance를 통해 이란 석유 거래 대금 6100만 달러를 세탁했다며 자금 압수 소송을 제기했다. 암호화폐 플랫폼을 통한 불법 자금 흐름이 드러났다.
-<a href="https://www.ft.com/content/a3830162-2f40-46b7-8259-0db45fe2acef">[FT]</a></blockquote>
+<b>17. 호르무즈 위기, 장기 LNG 수요 타격 우려</b>
+<blockquote>호르무즈 해협의 장기화된 위기가 주요 아시아 시장에서 대체 에너지원 모색을 촉진하며 LNG 장기 수요를 약화시킬 수 있다는 우려가 제기됐다. 가격 급등이 구조적 수요 감소로 이어질 위험이다.
+<a href="https://www.ft.com/content/31f41c2e-084b-4bdf-a548-bf3d1139dbbe">[FT]</a></blockquote>
 
-<b>18. 미 법무부, Binance 고객의 對이란 석유 자금 유통 적발...$15억 규모</b>
-<blockquote>검찰은 연관된 디지털 지갑을 통해 총 15억 달러가 이란으로 송금됐다고 밝혔다. 암호화폐 거래소를 통한 대규모 제재 우회 사례가 확인됐다.
-<a href="https://www.wsj.com/finance/currencies/doj-says-binance-customers-used-crypto-exchange-to-funnel-iran-oil-money-d546b0a9">[WSJ]</a></blockquote>
+<b>18. 미국 원유 재고 3주 연속 감소...수급 타이트</b>
+<blockquote>미국 원유 재고가 3주 연속 감소한 반면 휘발유와 증류유 재고는 증가했다. 원유 수급 긴축이 지속되고 있음을 보여준다.
+<a href="https://www.wsj.com/business/energy-oil/u-s-crude-oil-stockpiles-post-moderate-draw-68fcaca5">[WSJ]</a></blockquote>
 
-<b>19. 미 증시 하락...유가·국채 수익률 쇼크 지속</b>
-<blockquote>미국 연방준비제도 금리 결정을 앞두고 국채 수익률이 다년간 최고치를 기록하고 장기 유가 쇼크 조짐이 보이면서 미 증시가 하락했다.
-<a href="https://www.wsj.com/finance/stocks/u-s-stocks-down-as-oil-yield-shock-continues-866478de">[WSJ]</a></blockquote>
+<b>19. Exxon, 베네수엘라 유전 투자 협상 중...19년 만에 복귀 모색</b>
+<blockquote>Exxon이 베네수엘라 유전 투자를 위한 예비 합의를 앞두고 있다. 철수 19년 만에 라틴아메리카 국가로의 잠재적 복귀를 협상 중이다.
+<a href="https://www.wsj.com/business/energy-oil/exxon-is-nearing-a-preliminary-deal-to-invest-in-venezuelas-oil-fields-8c02126b">[WSJ]</a></blockquote>
 
-<b>20. 천연가스 선물 연이틀 상승...9월 무더위에 상승폭 제한적</b>
-<blockquote>천연가스 선물이 9월까지 이어진 여름 날씨로 이틀 연속 상승했으나, 계절이 바뀌고 기온이 내려가면서 상승폭은 제한적이었다.
-<a href="https://www.wsj.com/finance/commodities-futures/european-natural-gas-prices-supported-as-market-remains-tight-380d8d95">[WSJ]</a></blockquote>
+<b>20. Trump 측근 Harold Hamm의 Continental, 베네수엘라 원유 계약</b>
+<blockquote>트럼프 대통령의 미국 석유업계 최측근인 Harold Hamm이 이끄는 Continental Resources가 베네수엘라 미개발 유전 탐사 예비 계약을 체결했다. 서방 석유 생산업체들의 베네수엘라 진출이 잇따르고 있다.
+<a href="https://www.wsj.com/business/energy-oil/harold-hamms-continental-resources-signs-preliminary-oil-deal-in-venezuela-ff46cfd3">[WSJ]</a></blockquote>
 
-<b>21. 유가 4개월 고점...사우디 파이프라인 폐쇄·후티 위협에 중동 공급 불안</b>
-<blockquote>사우디아라비아 East-West 파이프라인 폐쇄와 후티 반군의 홍해 해운 위협으로 중동 석유 공급에 대한 우려가 지속되며 유가가 4개월 만에 최고치를 기록했다.
-<a href="https://www.wsj.com/business/energy-oil/oil-prices-rise-as-middle-east-supply-concerns-persist-e3bff20f">[WSJ]</a></blockquote>
+<b>21. 영국 인플레이션 8월 3.1% 상승...가계 압박 심화</b>
+<blockquote>영국 8월 소비자물가 상승률이 3.1%를 기록하며 가계에 대한 압박이 악화됐다. 영란은행 통화정책회의를 앞두고 나온 수치다.
+<a href="https://www.ft.com/content/57c085c9-741e-4202-8be7-812ea7bd6d19">[FT]</a></blockquote>
 
-<b>22. Trump, $5000 현금 지급 공약에 공화당 의원들 회의적 반응</b>
-<blockquote>Trump 대통령이 중간선거에서 공화당이 상하원을 유지하면 미국 성인 모두에게 5000달러를 지급하겠다고 약속했으나, 실제 법안을 표결해야 하는 공화당 의원들은 1조 달러 이상 소요되는 이 계획에 회의적이다.
-<a href="https://www.wsj.com/politics/policy/republicans-arent-sold-on-trumps-5-000-payments-2cbf1182">[WSJ]</a></blockquote>
+<b>22. 유로존 7월 산업생산 하락...에너지 비용 압박</b>
+<blockquote>유로존 산업생산이 3분기 초반 감소하며 회복세의 고르지 못한 성격을 드러냈다. 제조업체들이 수요 개선 조짐에도 높은 에너지 비용에 시달리고 있다.
+<a href="https://www.wsj.com/world/europe/eurozone-industrial-production-fell-at-start-of-third-quarter-eea9c3bf">[WSJ]</a></blockquote>
 
-<b>23. 연방대법원, Trump 우편투표 규제 차단...중간선거 앞두고 혼란 방지</b>
-<blockquote>연방대법원이 11월 투표를 앞두고 Trump 대통령의 새로운 우편투표 요건 시행을 차단했다. 선거 직전 새 규칙 도입으로 인한 혼란을 피하게 됐다.
-<a href="https://www.wsj.com/politics/policy/supreme-court-blocks-trumps-new-mail-ballot-requirements-for-midterms-d7e8af3f">[WSJ]</a></blockquote>
+<b>23. Economist "선진국 재정 재앙 문턱"...국채 금리 급등 경고</b>
+<blockquote>치솟는 채권 금리, 벌어지는 재정 적자, 쌓이는 부채 더미를 앞두고 선진국들이 재정 재앙과 위험한 장난을 하고 있다는 경고가 나왔다.
+<a href="https://www.economist.com/finance-and-economics/2026/09/16/soaring-bond-yields-gaping-deficits-and-towering-debts-what-could-go-wrong">[Economist]</a></blockquote>
 
-<b>24. 관세로 미시간 자동차 수출 타격...對캐나다 수출 23% 감소</b>
-<blockquote>미시간 주지사 Gretchen Whitmer는 관세가 미시간에 어떤 피해를 주고 있는지 설명하며, 미국의 對캐나다 자동차 수출이 지난 1년간 23% 감소했다고 밝혔다.
-<a href="https://www.wsj.com/opinion/gov-gretchen-whitmer-how-tariffs-hurt-michigan-6c2a0c85">[WSJ]</a></blockquote>
+<b>24. 영국 재무장관 "매우 도전적" 예산 예고...전쟁 영향</b>
+<blockquote>영국 Healey 재무장관이 중동과 우크라이나 전쟁이 경제에 '심각한 영향'을 미치고 있다며 '정말 도전적인' 예산안을 준비 중이라고 밝혔다.
+<a href="https://www.ft.com/content/3dacfbb9-e7ec-4286-b161-1f86bcd761cb">[FT]</a></blockquote>
 
-<b>25. 미국 가계소득 작년 사상 최고...고소득층 호조·여성 임금 격차 개선</b>
-<blockquote>미국 인구조사국 연례 보고서에 따르면 작년 미국 가계소득이 사상 최고치를 기록했다. 고소득 가구가 호조를 보였고, 남성 대비 여성 임금도 개선됐다.
-<a href="https://www.wsj.com/economy/consumers/american-incomes-hit-record-last-year-as-women-gained-ground-304ed2fd">[WSJ]</a></blockquote>
+<b>25. 영국 연금 triple lock 재정 지속 불가능...구조조정 압박</b>
+<blockquote>영국 국가연금의 triple lock 제도가 재정적으로 지속 불가능하다는 지적이 나왔다. 국가 퇴직급여를 소득 증가율에 연동하는 것이 더 낫다는 주장이다.
+<a href="https://www.ft.com/content/d4368014-a79f-4887-a839-1fc43b52fca1">[FT]</a></blockquote>
 
-<b>26. 미국 제조업체, 공급망 비용 인플레이션 재발...이란 전쟁·관세 영향</b>
-<blockquote>Donald Trump의 이란 전쟁과 관세 정책이 원자재 가격을 밀어올리고 있으며, AI 붐으로 일부 부품 공급이 압박받으면서 미국 제조업체들이 새로운 공급망 비용 인플레이션을 겪고 있다.
-<a href="https://www.ft.com/content/e14542d9-2bc5-49c8-8e7e-c9656b0a2d36">[FT]</a></blockquote>
+<b>26. 브라질 중앙은행 5회 연속 금리 인하...기준금리 13.75%</b>
+<blockquote>브라질 중앙은행 통화정책위원회가 예상대로 Selic 기준금리를 14%에서 13.75%로 인하했다. 인플레이션이 진정되면서 5회 연속 금리 인하를 단행했다.
+<a href="https://www.wsj.com/economy/central-banking/brazils-central-bank-lowers-for-fifth-straight-meeting-as-inflation-cools-7977cc0c">[WSJ]</a></blockquote>
 
-<b>27. 캐나다 7월 도매판매 0.3% 증가...계절조정 C$930억</b>
-<blockquote>캐나다 통계청에 따르면 7월 도매판매가 전월 대비 0.3% 증가한 계절조정 930억 캐나다달러(미화 669억6000만 달러)를 기록했다.
-<a href="https://www.wsj.com/business/retail/canada-wholesale-sales-rose-in-july-17e6af86">[WSJ]</a></blockquote>
+<b>27. 캐나다 중앙은행, 에너지 비용 전이 시 금리 인상 검토</b>
+<blockquote>캐나다 중앙은행 고위 정책 입안자들이 인플레이션 리스크가 심화됐다는 데 동의했다. 높은 연료 비용이 다른 재화와 서비스 가격으로 전이되는 증거가 나타나면 금리 인상이 필요할 수 있다고 밝혔다.
+<a href="https://www.wsj.com/economy/central-banking/bank-of-canada-flagged-need-for-rate-hike-should-high-fuel-costs-spill-over-minutes-say-d78b24bb">[WSJ]</a></blockquote>
 
-<b>28. 러시아-우크라이나, Trump 휴전 주장 직후 공습 재개</b>
-<blockquote>러시아와 우크라이나가 공중 공격을 재개했다. 관계자들은 키이우의 주유소와 자포리자 지역 에너지 인프라가 타격을 받았다고 밝혔다.
-<a href="https://www.wsj.com/world/europe/russia-ukraine-trade-aerial-strikes-after-trumps-claim-of-truce-4c4fe113">[WSJ]</a></blockquote>
+<b>28. 터키 주식 급락...펀드 10억 달러 유출, MSCI 강등 위험</b>
+<blockquote>터키 주식시장에서 '펀드 런'이 발생하며 투자자들이 10억 달러를 인출했다. 지수 제공업체 MSCI가 펀드 매니저들의 '조직적 거래' 혐의를 제기하며 터키를 이머징 마켓에서 프론티어 마켓으로 강등할 가능성을 시사했다.
+<a href="https://www.ft.com/content/3f9013b1-11a8-4dbd-a985-b0577fd95313">[FT]</a></blockquote>
 
-<b>29. 러시아 함정, 발트해서 덴마크 헬기에 조명탄 발사...NATO 긴장</b>
-<blockquote>러시아 군함이 발트해에서 덴마크 헬기를 향해 조명탄을 발사했으며, 그 중 하나가 항공기 근처를 아슬아슬하게 통과했다. 덴마크는 이를 '무모한 행동'이라고 비난했다.
-<a href="https://www.ft.com/content/b49762b0-2f8a-457d-bd3a-2820f1fff346">[FT]</a></blockquote>
+<b>29. EU 집행위원장, 캐나다 준회원국 지위 지지</b>
+<blockquote>Ursula von der Leyen EU 집행위원장이 캐나다를 EU 블록의 첫 준회원국으로 만드는 계획을 지지했다. 캐나다 Mark Carney 총리가 자국의 EU로의 피벗을 가속화하려는 노력에 화답했다.
+<a href="https://www.wsj.com/world/europe/eu-chief-floats-plan-to-make-canada-first-associate-member-da300f13">[WSJ]</a></blockquote>
 
-<b>30. Truist, $55억 자동차 대출 매각...준우량 대출 사업 철수</b>
-<blockquote>Truist Financial이 준우량 자동차 대출 사업에서 철수하면서 55억 달러 규모 자동차 대출 매각 계약을 체결했다.
-<a href="https://www.wsj.com/finance/banking/truist-to-sell-5-5-billion-of-loans-as-it-exits-near-prime-auto-lending-31dfad7b">[WSJ]</a></blockquote>
+<b>30. 캐나다 EU 준회원국 지위의 실체는...새로운 형태의 통합</b>
+<blockquote>준회원국이라는 명칭은 완전히 새로운 것으로 캐나다의 공식 지위가 되기 전에 넘어야 할 상당한 장애물이 남아있다. EU 통합의 새로운 모델이 될지 주목된다.
+<a href="https://www.wsj.com/world/europe/what-would-canadas-associate-membership-of-the-eu-look-like-2f65a931">[WSJ]</a></blockquote>
 
-<b>31. Scott Bessent 신뢰도 위기 심화...채권시장 압박 속 정치적 혼선</b>
-<blockquote>Scott Bessent 재무장관이 채권시장을 비난하고 있지만, 정작 문제는 시장이 아니라 그의 정치적 개입이라는 분석이 나왔다. 재무장관의 신뢰성이 흔들리고 있다.
-<a href="https://www.ft.com/content/608a9f4e-0beb-4840-a37c-831a5265d7da">[FT]</a></blockquote>
+<b>31. DeepMind 공동창업자 "AGI 안전 통제 필수"</b>
+<blockquote>Shane Legg DeepMind 공동창업자가 인공일반지능(AGI)이 안전 통제를 앞질러서는 안 된다고 경고했다. 업계 감속 요구가 커지는 가운데 AGI의 함의를 탐구하는 새 DeepMind Institute가 출범했다.
+<a href="https://www.ft.com/content/0fc3ae6d-732e-4f08-950e-8669b1fcfd8e">[FT]</a></blockquote>
 
-<b>32. 캐나다, 적극적 설비 감가상각 세제로 투자 유치...C$1조 목표</b>
-<blockquote>캐나다가 자본설비의 가속 감가상각과 연계된 세제 변경을 시행하며, Mark Carney 총리의 1조 달러 신규 투자 유치 목표를 향해 나아가고 있다.
-<a href="https://www.wsj.com/world/americas/canada-looks-to-lure-investment-with-expensing-change-that-promises-to-give-country-a-tax-edge-d515a518">[WSJ]</a></blockquote>
+<b>32. Anthropic S-1 리스크 요인 "인류 멸종 10% 가능성"</b>
+<blockquote>Anthropic가 상장 신고서에 자사 제품이 인류 멸종을 초래할 가능성이 10% 이상이라고 명시했다. AI 기업들이 안전 리스크를 공개하는 전례 없는 사례로 주목받고 있다.
+<a href="https://www.ft.com/content/29f0dac0-0523-46c4-a573-cd681a69b445">[FT]</a></blockquote>
 
-<b>33. Trump 베네수엘라 석유 딜 논란...결함 투성이냐 대마불사냐</b>
-<blockquote>베네수엘라 에너지 경영진들이 미국과의 이례적인 석유 협정의 함의를 파악하기 위해 분주하게 움직이고 있다. 이 거래의 실효성을 두고 논란이 가열되고 있다.
-<a href="https://www.ft.com/content/2104f2c8-ba9b-4716-bc26-a69c7c46a450">[FT]</a></blockquote>
-
-<b>34. 미 국방부, 우주무기 배치 최초 공식 확인...對중·러 견제</b>
-<blockquote>미국 관계자들이 군이 우주에 무기를 배치했다고 밝히며, 오랫동안 기밀로 유지됐던 사실을 처음으로 인정했다.
-<a href="https://www.wsj.com/politics/national-security/u-s-eyes-china-and-russia-as-pentagon-confirms-space-weapons-2e373e47">[WSJ]</a></blockquote>
-
-<b>35. Steve Bannon·Bernie Sanders, AI 규제 긴급 입법 공동 촉구</b>
-<blockquote>Trump 전략가 출신 Steve Bannon과 진보 성향 상원의원 Bernie Sanders가 인공지능 규제를 위한 긴급 조치가 워싱턴에서 필요하다고 입을 모았다.
-<a href="https://www.wsj.com/politics/bernie-sanders-steve-bannon-ai-d053e269">[WSJ]</a></blockquote>
-
-<b>36. 중국, 탈미국 시대 준비 미흡...Trump 이란 참사가 너무 일렀다</b>
-<blockquote>Donald Trump의 이란 참사가 중국이 충분히 활용하기에는 너무 이른 시점에 발생했다는 분석이 나왔다. 중국은 아직 탈미국 시대를 주도할 준비가 되어 있지 않다.
-<a href="https://www.economist.com/international/2026/09/15/china-is-not-ready-for-a-post-american-world">[Economist]</a></blockquote>
-
-<b>37. Kennedy Center 개보수 무기한 중단...Trump, 명칭 분쟁으로 폐쇄 위협</b>
-<blockquote>Trump 대통령이 Kennedy Center 건물에 자신의 이름을 재부착하는 것을 막는 결정이 번복되지 않으면 공연장을 폐쇄하고 수리를 진행하지 않겠다고 위협했다.
-<a href="https://www.wsj.com/us-news/law/trumps-name-cant-be-reinstalled-on-kennedy-center-judge-rules-34a7c28a">[WSJ]</a></blockquote>
-
-<b>38. 9월 뉴욕 제조업 활동 둔화...전월 4년 고점서 하락</b>
-<blockquote>뉴욕 연방준비은행이 발표한 뉴욕주 제조업 지수는 9월 7.6을 기록하며, 8월 4년 최고치인 20.6에서 하락했다.
-<a href="https://www.wsj.com/economy/central-banking/new-york-manufacturing-activity-decelerated-in-september-738a6a82">[WSJ]</a></blockquote>
+<b>33. OpenAI·Anthropic 내부 AI 감속 갈등</b>
+<blockquote>AI 기업 경영진들의 안전 강조 발언이 OpenAI와 Anthropic 내부에서 균열을 일으키고 있다. 직원들이 AI 감속 수사를 현실로 전환하는 방법을 놓고 고심 중이다.
+<a href="https://www.ft.com/content/d085adc5-977b-4c7e-9641-9824d1d345d3">[FT]</a></blockquote>
 
 ━━━━━━━━━━━━━━━━━━━━
 📡 <b>출처: WSJ · FT · The Economist</b>
