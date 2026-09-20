@@ -4,33 +4,85 @@
 
 ✅ <b>간밤의 주요 헤드라인</b>
 
-<b>1. 사우디 수도 공습에 정제 병목 겹쳐...글로벌 디젤 공급망 위기 고조</b>
-<blockquote>예멘 후티 반군이 사우디 수도 리야드 공항 연료 저장소를 공습해 화재가 발생했으며, 이란·우크라이나 전쟁으로 러시아와 중동 정제시설 의존도가 심화되면서 글로벌 디젤 공급 병목이 에너지 시장 최대 리스크로 떠올랐다. 사우디 당국은 처음으로 수도권 공습 경보를 발령했으며, 정제 능력 부족이 원유 공급 차질보다 더 심각한 가격 충격을 유발할 수 있다는 우려가 확산되고 있다.
-<a href="https://www.wsj.com/world/middle-east/air-attack-sets-fuel-depot-ablaze-at-airport-in-saudi-capital-8bcc439c">[WSJ]</a> <a href="https://www.ft.com/content/07fd42b5-0610-470c-8fb8-4840b5401271">[FT]</a> <a href="https://www.wsj.com/business/energy-oil/refineries-are-now-the-main-chokepoint-for-global-energy-supplies-f923e1ba">[WSJ]</a></blockquote>
+<b>1. 중립금리 상승 추정치 확산...고금리 장기화 가능성 부각</b>
+<blockquote>세계 경제가 중앙은행의 고금리 정책에 예상보다 강한 회복력을 보이면서, 경제학자들이 중립금리(neutral rate) 추정치를 잇달아 상향 조정하고 있다. 중립금리는 경기를 억누르지도 부양하지도 않는 수준의 정책금리를 뜻하며, 이 수준이 높아질수록 중앙은행이 긴축 완화 속도를 늦출 명분이 커진다.
+<a href="https://www.wsj.com/economy/central-banking/the-silver-lining-in-soaring-interest-rates-the-economy-can-handle-them-842e29ff">[WSJ]</a></blockquote>
 
-<b>2. 독일 출신 Carsten Breuer NATO 최고군사책임자 선임...대러 강경파 부상</b>
-<blockquote>NATO 회원국들이 독일군 장성 Carsten Breuer를 차기 최고군사책임자로 선출했다. 그는 유럽 방위 강화와 러시아 위협 대응을 일관되게 주장해온 인물로, 이번 인사는 미국 안보 공약 불확실성 속에서 유럽 자체 방위력 증대 필요성이 반영된 결과로 해석된다. Breuer는 취임 후 동맹국들에게 러시아 위협 경고를 강화할 플랫폼을 확보하게 됐다.
-<a href="https://www.wsj.com/world/europe/german-general-wins-top-nato-roleand-a-platform-to-warn-about-russia-fecf91c5">[WSJ]</a></blockquote>
+<b>2. 미 재무부, 단기채 발행 1조달러 확대 예상...장기금리 상승 억제 전략</b>
+<blockquote>월가는 미 재무부가 올해 약 1조달러 규모의 단기채(Treasury bills) 발행을 늘릴 것으로 전망하고 있다. Scott Bessent 재무장관이 장기금리 상승을 제어하기 위해 단기 조달 비중을 높이는 전략으로, 중립금리 상승과 맞물려 채권시장 변동성이 커질 수 있다는 관측이다.
+<a href="https://www.ft.com/content/3fcee89f-b69d-4f4b-a944-39fe1c214fb8">[FT]</a></blockquote>
 
-<b>3. Trump, 'AI Force' 창설 발표...유권자 우려 커지자 연방 감독 체제 전환</b>
-<blockquote>Trump 대통령이 AI 산업 감독을 위한 'AI Force' 창설을 전격 발표했다. 그간 규제 도입에 저항해온 백악관이 유권자들의 AI 기술 우려가 고조되자 입장을 선회한 것으로, 대통령은 AI 산업의 '나쁜 행위'를 감시할 차르(tsar)를 임명할 계획이다. 이번 조치는 기술 규제 불확실성을 증폭시키며 AI 관련 기업들의 정책 리스크를 키울 전망이다.
-<a href="https://www.wsj.com/tech/ai/trump-announces-an-ai-force-after-industry-sounded-alarm-7c189b8f">[WSJ]</a> <a href="https://www.ft.com/content/bcbfe352-9e9f-4ef5-81b2-2e01505b8477">[FT]</a></blockquote>
+<b>3. 우크라이나, 모스크바 '역대 최대' 드론 공습 단행...정유시설 화재</b>
+<blockquote>우크라이나군이 러시아 모스크바를 대상으로 '역대 최대 규모' 드론 공격을 감행해 모스크바 시내 주요 정유시설에 화재를 일으켰다. 공습은 러시아 의회 선거 투표가 마무리되는 시점에 이뤄졌으며, 전쟁 양상이 러시아 본토 타격으로 확대되는 신호로 해석된다.
+<a href="https://www.ft.com/content/2b6f1b4b-4010-4e95-8b5c-dfb2e32cd7ae">[FT]</a></blockquote>
 
-<b>4. 백악관, CNN·MS Now·Politico 출입 금지...Trump 언론 탄압 확전</b>
-<blockquote>백악관이 토요일 CNN, MS Now, Politico 기자들의 출입증을 압수하고 백악관 접근을 차단했다. Trump 행정부의 언론 통제가 주요 뉴스 매체 복수를 대상으로 확대되면서 언론 자유 침해 논란이 격화되고 있으며, 중간선거를 앞두고 행정부의 투명성과 민주주의 규범 후퇴 우려가 커지고 있다.
-<a href="https://www.wsj.com/politics/policy/ms-now-denied-entry-to-white-house-after-trump-ban-9c0cfaef">[WSJ]</a> <a href="https://www.ft.com/content/4cd82226-3d4a-474d-bc3e-de2ed0b1e6f8">[FT]</a></blockquote>
+<b>4. Burnham 영국 총리, Trump 대통령 첫 회담...우크라이나 방공망 지원 요청 예정</b>
+<blockquote>영국 Andy Burnham 총리가 Donald Trump 대통령과 첫 공식 회담을 앞두고 있으며, 우크라이나에 대한 미국의 방공 시스템 지원 확대를 요청할 계획이다. 회담은 Trump 대통령의 유엔 총회 연설 전날인 월요일로 예정돼 있다.
+<a href="https://www.ft.com/content/f4535bd7-7c23-4eb7-b306-43dab2772dd3">[FT]</a></blockquote>
 
-<b>5. Pete Hegseth 국방장관 탄핵 투표 일단 회피...공화당 의원들도 불만 표출</b>
-<blockquote>Pete Hegseth 국방장관이 하원 탄핵 표결을 당장 피했지만, 공화당 의원 다수를 포함한 의회가 국방부 운영 방향에 강한 불만을 드러내고 있다. 의원들은 Hegseth가 Trump의 '손댈 수 없는 전사'로 보호받고 있지만, 의회 내 지지 기반이 약화되고 있다고 지적했다. 국방부 리더십 불안정은 안보 정책 불확실성을 가중시킬 수 있다.
-<a href="https://www.wsj.com/politics/national-security/hegseth-is-trumps-untouchable-warriorbut-his-support-in-congress-is-slipping-a2ccdb21">[WSJ]</a></blockquote>
+<b>5. Trump 그린란드 협정 체결...미 기업 투자 확대 전망</b>
+<blockquote>Trump 대통령의 그린란드 협정이 체결되면서 미국 기업들의 북극 지역 투자가 늘어날 것으로 보인다. 협정은 Trump가 원했던 완전한 통제권을 확보한 것은 아니지만, 그린란드 내 미국과의 협력에 대한 정치적 낙인이 줄어들고 투자 여건이 개선될 것으로 기대된다.
+<a href="https://www.wsj.com/world/trumps-greenland-deal-eases-way-for-u-s-business-on-arctic-island-1cbef960">[WSJ]</a></blockquote>
 
-<b>6. 중간선거 50일 앞두고 경합 지역 혼전...정책 불확실성 지속 전망</b>
-<blockquote>중간선거 투표일까지 50일도 남지 않은 가운데 예비선거가 마무리되고 본선 구도가 확정됐다. 주요 경합 지역에서 민주·공화 양당이 박빙 접전을 벌이고 있으며, 의회 구성 변화 가능성이 재정·통화 정책과 규제 방향에 미칠 영향을 두고 시장 불확실성이 고조되고 있다. 선거 결과에 따라 행정부 정책 추진력이 크게 달라질 수 있다.
-<a href="https://www.wsj.com/politics/elections/primaries-are-over-midterms-are-set-this-is-where-we-are-d16351cc">[WSJ]</a></blockquote>
+<b>6. Trump 정부, ICC 제재 강화 준비...글로벌 금융 시스템 접근 차단 방침</b>
+<blockquote>Trump 행정부가 국제형사재판소(ICC)를 대상으로 한 전방위 제재를 준비 중이며, ICC를 글로벌 금융 시스템에서 사실상 고립시킬 수 있는 조치가 포함될 것으로 알려졌다. 이는 미국의 국제 사법기구에 대한 압박을 한층 강화하는 움직임이다.
+<a href="https://www.wsj.com/politics/policy/trump-administration-prepares-to-sanction-the-international-criminal-court-85f5f44c">[WSJ]</a></blockquote>
 
-<b>7. Trump, 그린란드 병합 요구 철회했지만...덴마크 동맹 신뢰는 이미 훼손</b>
-<blockquote>Trump 대통령이 그린란드 소유권 요구를 철회하고 덴마크·그린란드와 방위협정을 개정했지만, 병합 위협으로 인한 외교적 손실은 이미 발생했다는 평가가 나온다. 개정 협정은 소폭 개선에 그쳤으며, 미국의 일방적 영토 요구는 NATO 동맹 결속에 균열을 낸 값비싼 실책으로 기록될 전망이다.
-<a href="https://www.economist.com/international/2026/09/19/donald-trump-drops-demands-to-own-greenland-but-the-harm-has-been-done">[Economist]</a></blockquote>
+<b>7. 유엔 총회에 주요국 정상들 불참...독일 Merz 총리 등 빠져</b>
+<blockquote>이번 주 뉴욕에서 열리는 유엔 총회에 주요국 정상들의 불참이 눈에 띈다. 독일 Friedrich Merz 총리는 국내 정치 위기로 참석하지 않으며, 중국 Xi Jinping 주석은 총회를 건너뛰고 백악관으로 직행할 예정이다.
+<a href="https://www.ft.com/content/66623b14-f679-48ad-85a5-5d75f1cc8c17">[FT]</a></blockquote>
+
+<b>8. Trump, 워싱턴 아치를 '군사 복합시설'로 전환...드론·저격 장비 배치 예고</b>
+<blockquote>Trump 대통령이 워싱턴에 건설 중인 250피트 높이 개선문을 드론과 저격 장비를 갖춘 '군사 복합시설'로 활용하겠다고 밝혔다. 이번 발표는 건설 계획을 둘러싼 소송이 진행 중인 가운데 국가안보 명분을 추가하기 위한 조치로 풀이된다.
+<a href="https://www.wsj.com/politics/national-security/trump-says-proposed-arch-will-double-as-military-complex-ad5c73e1">[WSJ]</a></blockquote>
+
+<b>9. 독일 총리 Merz, 지방선거 참패에도 유임 의사...집권당 위기 지속</b>
+<blockquote>독일 Friedrich Merz 총리가 지방선거에서 '재앙' 수준의 패배를 겪었음에도 총리직을 유지하겠다는 뜻을 밝혔다. 부분 개표 결과에 따르면 집권 기민당(CDU)은 메클렌부르크포어포메른 주에서 의회 진출조차 실패할 가능성이 있다.
+<a href="https://www.ft.com/content/d74ce82a-2a15-404a-ae3a-3921e887bab3">[FT]</a></blockquote>
+
+<b>10. 독일 선거 결과에 포퓰리즘 약진...Merz 정치적 입지 흔들</b>
+<blockquote>독일 지방선거에서 포퓰리스트 정당들이 약진하면서 Friedrich Merz 총리가 '재앙'이라고 표현한 결과가 나왔다. 독일 정치가 분열·와해·급진화되는 양상이 뚜렷해지고 있으며, Merz의 정치적 미래에 대한 의문이 커지고 있다.
+<a href="https://www.economist.com/europe/2026/09/20/friedrich-merz-rues-disaster-as-populists-win-state-elections">[Economist]</a></blockquote>
+
+<b>11. 독일 Merz 총리 버티기...유럽 사례는 '인기 급락 지도자 회복 거의 불가' 시사</b>
+<blockquote>독일 Merz 총리는 지방선거 참패에도 불구하고 자리를 지키겠다는 입장이지만, 유럽 다른 국가의 사례를 보면 일단 깊은 인기 추락을 겪은 지도자는 거의 회복하지 못했다. 정치적 지속 가능성에 대한 의구심이 커지고 있다.
+<a href="https://www.ft.com/content/a4901983-10a2-488d-8725-66177d6f9ea2">[FT]</a></blockquote>
+
+<b>12. 영국 노동당 의원들, 맨션 택스 기준 인하 반대...런던 지지층 이탈 우려</b>
+<blockquote>영국 노동당 의원들이 예산안에서 맨션 택스 기준을 150만파운드로 낮추는 방안에 반대하고 나섰다. 이 경우 약 16만 가구가 추가로 과세 대상이 되며, 런던 지역에서 노동당 지지층 이탈을 초래할 수 있다는 우려가 제기됐다.
+<a href="https://www.ft.com/content/f37d9712-009a-4573-b268-a438b4c7502b">[FT]</a></blockquote>
+
+<b>13. Trump, 뉴욕 시장 Mamdani와 월요일 회담...재산세·이민 갈등 조정 시도</b>
+<blockquote>Trump 대통령이 월요일 뉴욕 시장 Zohran Mamdani와 회담을 갖는다. 양측은 최근 몇 달간 뉴욕시 재산세 정책과 이민 문제를 놓고 충돌해 왔으며, 회담은 유엔 총회 연설 하루 전에 열린다.
+<a href="https://www.wsj.com/politics/policy/trump-to-meet-mamdani-in-new-york-amid-policy-strains-between-the-two-8e475aa8">[WSJ]</a></blockquote>
+
+<b>14. 캔자스 공화당 상원의원 Marshall, 지역구서 야유 세례...보수층 이탈 신호</b>
+<blockquote>캔자스 주 박람회에서 열린 상원의원 토론회에서 현역 공화당 상원의원 Roger Marshall이 마이크를 잡자 수백 명의 청중이 야유와 조롱을 쏟아냈다. 전통적으로 공화당 우세 지역인 캔자스에서조차 공화당에 대한 열기가 식고 있다는 징후로 해석된다.
+<a href="https://www.wsj.com/politics/elections/even-in-reliably-red-kansas-republican-enthusiasm-is-fading-260dabb5">[WSJ]</a></blockquote>
+
+<b>15. 알래스카 상원 선거, 민주당이 '생선과 매력'으로 승부수</b>
+<blockquote>민주당이 알래스카 상원 의석 탈환을 위해 개인적 매력, 알래스카 특유의 정치 지형, 그리고 대통령의 실수를 활용하는 전략을 구사하고 있다. 상원 다수당 확보를 위한 핵심 격전지로 꼽힌다.
+<a href="https://www.economist.com/united-states/2026/09/20/want-to-flip-the-senate-try-fish-and-charisma">[Economist]</a></blockquote>
+
+<b>16. Trump, AI 산업 불안 확산에 'AI Force' 창설 발표...연방 감독 강화</b>
+<blockquote>Trump 대통령이 AI 산업에 대한 유권자들의 우려가 커지자 연방 차원의 감독 기구인 'AI Force'를 창설한다고 발표했다. AI 업계가 경고음을 낸 직후 나온 조치로, 규제 강화 움직임이 본격화될 전망이다.
+<a href="https://www.wsj.com/tech/ai/trump-announces-an-ai-force-after-industry-sounded-alarm-7c189b8f">[WSJ]</a></blockquote>
+
+<b>17. 일본은행, 인플레이션 오버슈트 우려 부상...엔화 약세 압력 지속 가능성</b>
+<blockquote>일본은행(BOJ)이 인플레이션이 목표치를 넘어설(overshoot) 가능성을 우려하고 있다는 관측이 나왔다. 이는 통화정책 정상화 속도 조절에 영향을 미칠 수 있으며, 엔화 약세와 아시아 금리 시장 변동성으로 이어질 수 있다.
+<a href="https://www.ft.com/content/6a5789f3-1bf3-4a46-b570-eee84704dd68">[FT]</a></blockquote>
+
+<b>18. 셰브론, 탐사 드릴링 확대 계획...석유·가스 탐사 전략 전면 재편</b>
+<blockquote>셰브론이 석유·가스 탐사 전략을 전면 재편하며 대규모 드릴링 확대에 나선다. 탐사 책임자 Kevin McLachlan은 TotalEnergies에서 이룬 탐사 부문 회생 성과를 셰브론에서도 재현하겠다는 목표를 밝혔다.
+<a href="https://www.ft.com/content/bbf1d846-7d89-45f6-8c0f-1fba1e334b4b">[FT]</a></blockquote>
+
+<b>19. CATL, 무역장벽 속에도 미국 픽업트럭용 배터리 개발 추진</b>
+<blockquote>중국 배터리 제조업체 CATL이 무역장벽에도 불구하고 미국 시장을 겨냥한 픽업트럭용 배터리 개발을 진행 중이라고 밝혔다. 이번 발언은 Xi Jinping 중국 주석의 워싱턴 방문을 앞두고 나왔다.
+<a href="https://www.ft.com/content/bfe6fc60-51b3-41f0-b6c9-32583735150e">[FT]</a></blockquote>
+
+<b>20. 볼보, 전 슈코다 CEO Zellmer 영입...수익성 턴어라운드 본격화</b>
+<blockquote>볼보가 폭스바겐 그룹의 슈코다 브랜드를 이끌며 BMW·메르세데스 수준의 수익률을 달성했던 Klaus Zellmer를 차기 CEO로 영입한다. Zellmer는 내년부터 현 CEO Håkan Samuelsson의 뒤를 이어 신차 출시를 주도할 예정이다.
+<a href="https://www.wsj.com/business/autos/volvo-recruits-a-top-vw-executive-to-steer-its-turnaround-4ae45ee6">[WSJ]</a></blockquote>
 
 ━━━━━━━━━━━━━━━━━━━━
 📡 <b>출처: WSJ · FT · The Economist</b>
