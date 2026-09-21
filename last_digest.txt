@@ -4,85 +4,109 @@
 
 ✅ <b>간밤의 주요 헤드라인</b>
 
-<b>1. 중립금리 상승 추정치 확산...고금리 장기화 가능성 부각</b>
-<blockquote>세계 경제가 중앙은행의 고금리 정책에 예상보다 강한 회복력을 보이면서, 경제학자들이 중립금리(neutral rate) 추정치를 잇달아 상향 조정하고 있다. 중립금리는 경기를 억누르지도 부양하지도 않는 수준의 정책금리를 뜻하며, 이 수준이 높아질수록 중앙은행이 긴축 완화 속도를 늦출 명분이 커진다.
-<a href="https://www.wsj.com/economy/central-banking/the-silver-lining-in-soaring-interest-rates-the-economy-can-handle-them-842e29ff">[WSJ]</a></blockquote>
+<b>1. 유가 4거래일 연속 하락...호르무즈 해협 공급 우려 완화</b>
+<blockquote>미국-이란 외교 재개 전망이 부상하면서 호르무즈 해협 통행량이 개선되고 있다. 브렌트유 가격은 $4.50 추가 하락하며 즉각적 공급 차질 우려가 완화됐다. 시장은 미 대통령 트럼프가 이번주 이란 대통령과 회담할 가능성에 주목하고 있다.
+<a href="https://www.wsj.com/world/middle-east/oil-prices-fall-for-fourth-day-as-supply-concerns-ease-f2583983">[WSJ]</a> <a href="https://www.ft.com/content/18f9e0ac-b7d9-4648-803f-3e894990c626">[FT]</a></blockquote>
 
-<b>2. 미 재무부, 단기채 발행 1조달러 확대 예상...장기금리 상승 억제 전략</b>
-<blockquote>월가는 미 재무부가 올해 약 1조달러 규모의 단기채(Treasury bills) 발행을 늘릴 것으로 전망하고 있다. Scott Bessent 재무장관이 장기금리 상승을 제어하기 위해 단기 조달 비중을 높이는 전략으로, 중립금리 상승과 맞물려 채권시장 변동성이 커질 수 있다는 관측이다.
-<a href="https://www.ft.com/content/3fcee89f-b69d-4f4b-a944-39fe1c214fb8">[FT]</a></blockquote>
+<b>2. 걸프 국가들, 이란 관계 개선 공개 촉구...중동 긴장 완화 모색</b>
+<blockquote>UAE·사우디 등 걸프 국가들이 이란과의 관계 재설정을 촉구하고 나섰다. UAE는 '새로운 사고방식'을 요구했고 카타르는 지역 '안보 체제' 구축을 제안했다. 중동 에너지 수출국들의 전쟁 확전 방지 의지가 반영된 것으로 풀이된다.
+<a href="https://www.ft.com/content/2a0d724d-b2be-4539-a4ab-30ba919cd253">[FT]</a></blockquote>
 
-<b>3. 우크라이나, 모스크바 '역대 최대' 드론 공습 단행...정유시설 화재</b>
-<blockquote>우크라이나군이 러시아 모스크바를 대상으로 '역대 최대 규모' 드론 공격을 감행해 모스크바 시내 주요 정유시설에 화재를 일으켰다. 공습은 러시아 의회 선거 투표가 마무리되는 시점에 이뤄졌으며, 전쟁 양상이 러시아 본토 타격으로 확대되는 신호로 해석된다.
-<a href="https://www.ft.com/content/2b6f1b4b-4010-4e95-8b5c-dfb2e32cd7ae">[FT]</a></blockquote>
+<b>3. 카타르, 호르무즈 해협 재개 시 수주 내 LNG 생산 재개 준비</b>
+<blockquote>카타르 에너지 당국은 호르무즈 해협 통행이 정상화되면 수주 안에 LNG 생산을 재개할 수 있다고 밝혔다. 세계 3대 LNG 수출국인 카타르는 올해 초 수출 허브 공격과 호르무즈 해협 봉쇄 우려로 생산을 중단한 바 있다.
+<a href="https://www.wsj.com/business/energy-oil/qatar-says-its-ready-to-resume-lng-operations-within-weeks-of-hormuz-reopening-4d0557f5">[WSJ]</a></blockquote>
 
-<b>4. Burnham 영국 총리, Trump 대통령 첫 회담...우크라이나 방공망 지원 요청 예정</b>
-<blockquote>영국 Andy Burnham 총리가 Donald Trump 대통령과 첫 공식 회담을 앞두고 있으며, 우크라이나에 대한 미국의 방공 시스템 지원 확대를 요청할 계획이다. 회담은 Trump 대통령의 유엔 총회 연설 전날인 월요일로 예정돼 있다.
-<a href="https://www.ft.com/content/f4535bd7-7c23-4eb7-b306-43dab2772dd3">[FT]</a></blockquote>
+<b>4. Nasdaq 사상 최고가 경신...유가 급락에 테크주 급등</b>
+<blockquote>유가 급락과 이란 긴장 완화 기대감이 위험자산 선호를 촉발했다. Nasdaq 종합지수는 사상 최고치를 기록했고 AI 관련 기술주들이 랠리를 주도했다. 투자자들은 인플레이션 압력 완화와 금리 안정 가능성에 무게를 두는 모습이다.
+<a href="https://www.wsj.com/finance/stocks/u-s-stocks-rise-nasdaq-hits-record-as-oil-slides-ai-bets-surge-6f886ab6">[WSJ]</a> <a href="https://www.ft.com/content/18f9e0ac-b7d9-4648-803f-3e894990c626">[FT]</a></blockquote>
 
-<b>5. Trump 그린란드 협정 체결...미 기업 투자 확대 전망</b>
-<blockquote>Trump 대통령의 그린란드 협정이 체결되면서 미국 기업들의 북극 지역 투자가 늘어날 것으로 보인다. 협정은 Trump가 원했던 완전한 통제권을 확보한 것은 아니지만, 그린란드 내 미국과의 협력에 대한 정치적 낙인이 줄어들고 투자 여건이 개선될 것으로 기대된다.
-<a href="https://www.wsj.com/world/trumps-greenland-deal-eases-way-for-u-s-business-on-arctic-island-1cbef960">[WSJ]</a></blockquote>
+<b>5. 비트코인 $86,000 돌파...8개월래 최고치</b>
+<blockquote>비트코인이 $86,000를 넘어서며 8개월래 최고가를 기록했다. 8월 19일 이후 30% 이상 반등하며 최근 주요 저항선이었던 $80,000를 안정적으로 상회하고 있다. 위험자산 전반의 랠리가 가상자산 시장으로 확산되는 양상이다.
+<a href="https://www.wsj.com/finance/currencies/bitcoin-jumps-above-85-000-to-8-month-high-050f3578">[WSJ]</a></blockquote>
 
-<b>6. Trump 정부, ICC 제재 강화 준비...글로벌 금융 시스템 접근 차단 방침</b>
-<blockquote>Trump 행정부가 국제형사재판소(ICC)를 대상으로 한 전방위 제재를 준비 중이며, ICC를 글로벌 금융 시스템에서 사실상 고립시킬 수 있는 조치가 포함될 것으로 알려졌다. 이는 미국의 국제 사법기구에 대한 압박을 한층 강화하는 움직임이다.
-<a href="https://www.wsj.com/politics/policy/trump-administration-prepares-to-sanction-the-international-criminal-court-85f5f44c">[WSJ]</a></blockquote>
+<b>6. 공화당 의원들, 디젤 수출 금지 촉구...트럼프에 전쟁 비용 부담 압박</b>
+<blockquote>미국 공화당 의원들이 치솟는 디젤 가격을 중간선거 최대 리스크로 보고 수출 금지 조치를 요구했다. 아이오와주 상원 후보 Ashley Hinson은 "유권자들이 이란 전쟁 비용을 떠안아선 안 된다"고 밝혔다. 트럼프는 이에 대응해 젤렌스키에게 러시아 정유시설 공격 중단을 압박한 것으로 알려졌다.
+<a href="https://www.ft.com/content/319c7b67-b585-407e-a0da-6e23b1612180">[FT]</a> <a href="https://www.wsj.com/politics/elections/republicans-running-out-of-time-on-lowering-diesel-gas-prices-before-midterms-51b9d1fe">[WSJ]</a> <a href="https://www.ft.com/content/adb80fa3-b54a-4b3d-8ed2-0ebe55a5e05e">[FT]</a></blockquote>
 
-<b>7. 유엔 총회에 주요국 정상들 불참...독일 Merz 총리 등 빠져</b>
-<blockquote>이번 주 뉴욕에서 열리는 유엔 총회에 주요국 정상들의 불참이 눈에 띈다. 독일 Friedrich Merz 총리는 국내 정치 위기로 참석하지 않으며, 중국 Xi Jinping 주석은 총회를 건너뛰고 백악관으로 직행할 예정이다.
-<a href="https://www.ft.com/content/66623b14-f679-48ad-85a5-5d75f1cc8c17">[FT]</a></blockquote>
+<b>7. 트럼프, 중동 에너지 인프라 재건에 $5~10bn 펀드 제안</b>
+<blockquote>미국 정부가 중동 에너지 시설 복구를 위한 투자 펀드 조성을 추진 중이다. 제안 규모는 $5bn에서 $10bn 사이로 사우디·UAE 등 여러 중동 국가들과 협의가 진행되고 있다. 전쟁으로 타격 받은 에너지 인프라 재건을 통해 공급망 안정을 도모하려는 시도로 풀이된다.
+<a href="https://www.wsj.com/world/middle-east/trump-administration-proposes-5-billion-to-kickstart-investment-fund-to-rebuild-gulf-energy-sites-5b75cadf">[WSJ]</a> <a href="https://www.wsj.com/politics/policy/trump-proposes-10-billion-fund-for-middle-east-energy-infrastructure-project-43097512">[WSJ]</a></blockquote>
 
-<b>8. Trump, 워싱턴 아치를 '군사 복합시설'로 전환...드론·저격 장비 배치 예고</b>
-<blockquote>Trump 대통령이 워싱턴에 건설 중인 250피트 높이 개선문을 드론과 저격 장비를 갖춘 '군사 복합시설'로 활용하겠다고 밝혔다. 이번 발표는 건설 계획을 둘러싼 소송이 진행 중인 가운데 국가안보 명분을 추가하기 위한 조치로 풀이된다.
-<a href="https://www.wsj.com/politics/national-security/trump-says-proposed-arch-will-double-as-military-complex-ad5c73e1">[WSJ]</a></blockquote>
+<b>8. 트럼프, 캐나다산 칼륨비료 대신 벨라루스산 거래 모색</b>
+<blockquote>트럼프 대통령이 캐나다산 칼륨비료를 우회해 벨라루스와 저가 공급 계약을 추진하고 있다. 러시아의 우방국인 벨라루스와의 거래는 북미 무역 동맹국인 캐나다 수출업체들에 타격을 줄 전망이다. 농업 투입재 비용 절감을 위한 정치적 결단으로 해석된다.
+<a href="https://www.wsj.com/economy/trade/trump-looks-to-sideline-canadian-potash-with-belarusian-supply-deal-4a7eb147">[WSJ]</a></blockquote>
 
-<b>9. 독일 총리 Merz, 지방선거 참패에도 유임 의사...집권당 위기 지속</b>
-<blockquote>독일 Friedrich Merz 총리가 지방선거에서 '재앙' 수준의 패배를 겪었음에도 총리직을 유지하겠다는 뜻을 밝혔다. 부분 개표 결과에 따르면 집권 기민당(CDU)은 메클렌부르크포어포메른 주에서 의회 진출조차 실패할 가능성이 있다.
-<a href="https://www.ft.com/content/d74ce82a-2a15-404a-ae3a-3921e887bab3">[FT]</a></blockquote>
+<b>9. 시카고 연은 Goolsbee 총재, "수요 과열...공격적 긴축 필요"</b>
+<blockquote>시카고 연방준비은행 총재 Austan Goolsbee가 인플레이션 압력이 이란발 공급 충격에 더해 '수요 과열'에서 비롯되고 있다며 공격적 긴축 필요성을 강조했다. 유가 하락에도 연준이 매파 기조를 유지할 가능성을 시사한 것으로 받아들여진다.
+<a href="https://www.ft.com/content/e173bec6-352b-4b51-b3a4-382a9229bc86">[FT]</a></blockquote>
 
-<b>10. 독일 선거 결과에 포퓰리즘 약진...Merz 정치적 입지 흔들</b>
-<blockquote>독일 지방선거에서 포퓰리스트 정당들이 약진하면서 Friedrich Merz 총리가 '재앙'이라고 표현한 결과가 나왔다. 독일 정치가 분열·와해·급진화되는 양상이 뚜렷해지고 있으며, Merz의 정치적 미래에 대한 의문이 커지고 있다.
-<a href="https://www.economist.com/europe/2026/09/20/friedrich-merz-rues-disaster-as-populists-win-state-elections">[Economist]</a></blockquote>
+<b>10. 영국 모기지 비용, 이란 전쟁 여파로 연 £840 추가 부담</b>
+<blockquote>중동 전쟁 격화로 촉발된 금리 상승이 영국 주택 소유자들에게 연간 £840의 모기지 이자 부담 증가로 이어졌다. 차입 비용 급등이 소비자 지출 여력을 위축시키며 실물경제에 영향을 미치기 시작한 것으로 나타났다.
+<a href="https://www.ft.com/content/789c2d18-d6ce-4556-bbfb-877233b12aee">[FT]</a></blockquote>
 
-<b>11. 독일 Merz 총리 버티기...유럽 사례는 '인기 급락 지도자 회복 거의 불가' 시사</b>
-<blockquote>독일 Merz 총리는 지방선거 참패에도 불구하고 자리를 지키겠다는 입장이지만, 유럽 다른 국가의 사례를 보면 일단 깊은 인기 추락을 겪은 지도자는 거의 회복하지 못했다. 정치적 지속 가능성에 대한 의구심이 커지고 있다.
-<a href="https://www.ft.com/content/a4901983-10a2-488d-8725-66177d6f9ea2">[FT]</a></blockquote>
+<b>11. 미 국채금리, 유가 하락에도 변동 제한적</b>
+<blockquote>국채 금리는 유가 급락에도 불구하고 제한적 움직임을 보였다. 단기적 에너지 가격 완화가 연준의 긴축 경로를 바꿀 만큼 충분하지 않다는 판단이 반영된 것으로 풀이된다. 채권 시장은 구조적 인플레 압력이 여전히 남아 있다고 보는 모습이다.
+<a href="https://www.wsj.com/finance/citi-raises-10-year-u-s-treasury-yield-forecast-ee0a5651">[WSJ]</a></blockquote>
 
-<b>12. 영국 노동당 의원들, 맨션 택스 기준 인하 반대...런던 지지층 이탈 우려</b>
-<blockquote>영국 노동당 의원들이 예산안에서 맨션 택스 기준을 150만파운드로 낮추는 방안에 반대하고 나섰다. 이 경우 약 16만 가구가 추가로 과세 대상이 되며, 런던 지역에서 노동당 지지층 이탈을 초래할 수 있다는 우려가 제기됐다.
-<a href="https://www.ft.com/content/f37d9712-009a-4573-b268-a438b4c7502b">[FT]</a></blockquote>
+<b>12. 프랑스, EU에 에너지 가격 인하 조치 즉각 시행 촉구</b>
+<blockquote>프랑스가 유럽연합에 에너지 가격 인하를 위한 즉각적 조치를 취할 것을 요구했다. 동시에 메탄 배출 규제 시행을 1년 연기해달라고 요청하며 에너지 위기 대응과 기후 정책 속도 조절 필요성을 제기했다.
+<a href="https://www.ft.com/content/07c05f00-5c05-4b6d-837b-17118b266ecd">[FT]</a></blockquote>
 
-<b>13. Trump, 뉴욕 시장 Mamdani와 월요일 회담...재산세·이민 갈등 조정 시도</b>
-<blockquote>Trump 대통령이 월요일 뉴욕 시장 Zohran Mamdani와 회담을 갖는다. 양측은 최근 몇 달간 뉴욕시 재산세 정책과 이민 문제를 놓고 충돌해 왔으며, 회담은 유엔 총회 연설 하루 전에 열린다.
-<a href="https://www.wsj.com/politics/policy/trump-to-meet-mamdani-in-new-york-amid-policy-strains-between-the-two-8e475aa8">[WSJ]</a></blockquote>
+<b>13. Meta 주도 테크주 반등...Magnificent 7 재부상</b>
+<blockquote>Meta 등 주요 기술주들이 강세를 보이며 'Magnificent 7' 종목군이 다시 시장 상승을 주도했다. AI 안전 우려는 뒤로 물러나고 유가 하락에 따른 비용 부담 완화 기대가 부각됐다. 기술주 밸류에이션에 대한 낙관론이 되살아나는 분위기다.
+<a href="https://www.wsj.com/finance/stocks/meta-magnificent-seven-tech-stock-5a793174">[WSJ]</a> <a href="https://www.wsj.com/finance/stocks/global-stocks-rally-yields-lower-as-oil-prices-extend-falls-8b63390a">[WSJ]</a></blockquote>
 
-<b>14. 캔자스 공화당 상원의원 Marshall, 지역구서 야유 세례...보수층 이탈 신호</b>
-<blockquote>캔자스 주 박람회에서 열린 상원의원 토론회에서 현역 공화당 상원의원 Roger Marshall이 마이크를 잡자 수백 명의 청중이 야유와 조롱을 쏟아냈다. 전통적으로 공화당 우세 지역인 캔자스에서조차 공화당에 대한 열기가 식고 있다는 징후로 해석된다.
-<a href="https://www.wsj.com/politics/elections/even-in-reliably-red-kansas-republican-enthusiasm-is-fading-260dabb5">[WSJ]</a></blockquote>
+<b>14. OpenAI, 미국 주도 글로벌 AI 안전 기준 마련 촉구</b>
+<blockquote>OpenAI가 미국 정부에 글로벌 AI 안전 표준 수립을 주도해달라고 요청했다. CEO Sam Altman은 이번주 UN 안보리에서 브리핑을 진행할 예정이다. 트럼프 대통령은 성장을 억제하지 않겠지만 필요시 법무부가 개입할 수 있다고 밝혔다.
+<a href="https://www.wsj.com/tech/ai/openai-urges-u-s-government-to-create-global-ai-safety-standards-a8afba96">[WSJ]</a> <a href="https://www.ft.com/content/4e502288-b611-4193-acdb-46ef34b1e3b0">[FT]</a></blockquote>
 
-<b>15. 알래스카 상원 선거, 민주당이 '생선과 매력'으로 승부수</b>
-<blockquote>민주당이 알래스카 상원 의석 탈환을 위해 개인적 매력, 알래스카 특유의 정치 지형, 그리고 대통령의 실수를 활용하는 전략을 구사하고 있다. 상원 다수당 확보를 위한 핵심 격전지로 꼽힌다.
-<a href="https://www.economist.com/united-states/2026/09/20/want-to-flip-the-senate-try-fish-and-charisma">[Economist]</a></blockquote>
+<b>15. SoftBank, OpenAI 투자 위해 $11bn+ 정크본드 발행 추진</b>
+<blockquote>일본 SoftBank가 OpenAI 지분 투자를 위해 달러·유로 표시 정크본드 발행을 준비하고 있다. 발행 규모는 $11bn을 넘을 것으로 예상되며 역대 최대 규모의 고수익 채권 딜 중 하나가 될 전망이다. AI 붐에 대한 SoftBank의 공격적 베팅이 지속되고 있다.
+<a href="https://www.ft.com/content/4e7004b7-d262-40c8-b979-fdf7f237adda">[FT]</a></blockquote>
 
-<b>16. Trump, AI 산업 불안 확산에 'AI Force' 창설 발표...연방 감독 강화</b>
-<blockquote>Trump 대통령이 AI 산업에 대한 유권자들의 우려가 커지자 연방 차원의 감독 기구인 'AI Force'를 창설한다고 발표했다. AI 업계가 경고음을 낸 직후 나온 조치로, 규제 강화 움직임이 본격화될 전망이다.
-<a href="https://www.wsj.com/tech/ai/trump-announces-an-ai-force-after-industry-sounded-alarm-7c189b8f">[WSJ]</a></blockquote>
+<b>16. 중국 공산당, 최고위 장성 2명 '불충' 혐의로 축출</b>
+<blockquote>중국 공산당이 Zhang Youxia·Liu Zhenli 등 최고위 장성 2명을 당에서 제명했다. 당 지도부는 이들이 '레드라인을 넘었다'며 '불충' 혐의를 제기했다. 시진핑 주석의 군 장악력 강화와 내부 숙청 지속을 보여주는 조치로 평가된다.
+<a href="https://www.ft.com/content/378926f5-0494-4f5e-8bd1-e1775980ab82">[FT]</a></blockquote>
 
-<b>17. 일본은행, 인플레이션 오버슈트 우려 부상...엔화 약세 압력 지속 가능성</b>
-<blockquote>일본은행(BOJ)이 인플레이션이 목표치를 넘어설(overshoot) 가능성을 우려하고 있다는 관측이 나왔다. 이는 통화정책 정상화 속도 조절에 영향을 미칠 수 있으며, 엔화 약세와 아시아 금리 시장 변동성으로 이어질 수 있다.
-<a href="https://www.ft.com/content/6a5789f3-1bf3-4a46-b570-eee84704dd68">[FT]</a></blockquote>
+<b>17. 트럼프는 중국 개방 주장...미 기업들 회의적 반응</b>
+<blockquote>트럼프 대통령이 중국 시장 개방을 언급했지만 미국 기업들은 비관적 시각을 유지하고 있다. 반도체 기업들의 기록적 매출에도 불구하고 중국 사업 환경에 대한 전망은 여전히 어둡다. 미중 무역 협상 진전에 대한 기대와 현장 체감 간 괴리가 지속되고 있다.
+<a href="https://www.economist.com/business/2026/09/21/donald-trump-says-china-is-opening-up-american-bosses-disagree">[Economist]</a></blockquote>
 
-<b>18. 셰브론, 탐사 드릴링 확대 계획...석유·가스 탐사 전략 전면 재편</b>
-<blockquote>셰브론이 석유·가스 탐사 전략을 전면 재편하며 대규모 드릴링 확대에 나선다. 탐사 책임자 Kevin McLachlan은 TotalEnergies에서 이룬 탐사 부문 회생 성과를 셰브론에서도 재현하겠다는 목표를 밝혔다.
-<a href="https://www.ft.com/content/bbf1d846-7d89-45f6-8c0f-1fba1e334b4b">[FT]</a></blockquote>
+<b>18. 독일 Merz 총리, 극우·극좌 선거 승리 후 잔류 선언</b>
+<blockquote>독일 총리 Merz는 극우 AfD와 극좌가 지역 선거에서 승리한 후에도 사퇴 압력을 뿌리치고 잔류 의사를 밝혔다. 인기도 추락과 연이은 선거 참패에도 불구하고 경제 개혁 추진을 계속하겠다고 강조했다. 독일 정치권의 불안정이 심화되고 있다.
+<a href="https://www.wsj.com/world/europe/germanys-merz-pledges-to-stay-on-despite-disastrous-election-result-1a312f0b">[WSJ]</a> <a href="https://www.ft.com/content/e40691e8-e96e-444a-baf7-ae3dfef99bce">[FT]</a></blockquote>
 
-<b>19. CATL, 무역장벽 속에도 미국 픽업트럭용 배터리 개발 추진</b>
-<blockquote>중국 배터리 제조업체 CATL이 무역장벽에도 불구하고 미국 시장을 겨냥한 픽업트럭용 배터리 개발을 진행 중이라고 밝혔다. 이번 발언은 Xi Jinping 중국 주석의 워싱턴 방문을 앞두고 나왔다.
-<a href="https://www.ft.com/content/bfe6fc60-51b3-41f0-b6c9-32583735150e">[FT]</a></blockquote>
+<b>19. 독일 극좌, 베를린 선거 승리...반유대주의·주택 사회화 논란</b>
+<blockquote>독일 극좌 정당이 베를린 선거에서 승리하며 반유대주의 발언과 주택 사회주의 정책 논란을 촉발했다. 독일 주류 정치권의 침체 속에서 극단 정치 세력이 약진하는 양상이 뚜렷해지고 있다.
+<a href="https://www.wsj.com/opinion/germany-elections-afd-die-linke-elif-eralp-b8feb3e6">[WSJ]</a> <a href="https://www.ft.com/content/f0b37ddf-3a4f-4631-b664-887b0cdd281c">[FT]</a></blockquote>
 
-<b>20. 볼보, 전 슈코다 CEO Zellmer 영입...수익성 턴어라운드 본격화</b>
-<blockquote>볼보가 폭스바겐 그룹의 슈코다 브랜드를 이끌며 BMW·메르세데스 수준의 수익률을 달성했던 Klaus Zellmer를 차기 CEO로 영입한다. Zellmer는 내년부터 현 CEO Håkan Samuelsson의 뒤를 이어 신차 출시를 주도할 예정이다.
-<a href="https://www.wsj.com/business/autos/volvo-recruits-a-top-vw-executive-to-steer-its-turnaround-4ae45ee6">[WSJ]</a></blockquote>
+<b>20. Paramount-Warner $110bn 합병, 12개 주와 반독점 합의</b>
+<blockquote>Paramount가 12개 주 검찰총장들과 반독점 합의에 도달하며 Warner Bros와의 $110bn 합병이 승인됐다. 자산 매각 없이 캘리포니아 내 운영 유지를 약속했다. CEO David Ellison에게 구조적 변화 강제 없이 일부 제재만 부과됐다.
+<a href="https://www.ft.com/content/0bfc882f-fe1b-40cb-a356-162e833f2008">[FT]</a> <a href="https://www.wsj.com/business/media/paramount-settles-states-antitrust-suit-clearing-way-for-warner-megadeal-95588926">[WSJ]</a></blockquote>
+
+<b>21. Silver Lake, Carl Icahn과 Endeavor $13bn 인수 분쟁</b>
+<blockquote>사모펀드 Silver Lake가 Carl Icahn 등 투자자들을 상대로 $13bn 규모 Endeavor 인수를 방해하기 위해 불법 담합했다며 소송을 제기했다. 차익거래 헤지펀드들과 행동주의 투자자 간 법적 충돌이 격화되고 있다.
+<a href="https://www.wsj.com/business/deals/silver-lake-takes-on-carl-icahn-and-all-of-merger-arbitrage-in-endeavor-fight-4da9e2ba">[WSJ]</a></blockquote>
+
+<b>22. Priority Technology, CEO 주도 $1.6bn MBO 합의</b>
+<blockquote>결제 기술 기업 Priority Technology가 회장 겸 CEO Thomas Priore가 이끄는 투자그룹에 인수되기로 합의했다. 거래 기업가치는 약 $1.6bn 규모다. 경영진 주도 사모화(MBO) 거래가 성사됐다.
+<a href="https://www.wsj.com/business/deals/priority-technology-ceo-to-take-firm-private-in-1-6-billion-deal-e3b4fa36">[WSJ]</a></blockquote>
+
+<b>23. 크렘린 지원 위조 자금 $6.9bn, 글로벌 은행 경유</b>
+<blockquote>크렘린이 지원한 위조 자금 스킴을 통해 $6.9bn이 Standard Chartered·Citigroup 등 글로벌 은행들을 거쳐 이동한 것으로 드러났다. 핀테크 기업 A7 내부 유출 자료에서 수천 건의 러시아발 결제 내역이 확인됐다. 제재 회피 자금세탁 네트워크의 규모가 재조명되고 있다.
+<a href="https://www.ft.com/content/3848a4ad-1426-4352-ba86-ef1279c4ffd1">[FT]</a></blockquote>
+
+<b>24. 트럼프 관세 회피 단속 강화...무역 행정 부담 증가 우려</b>
+<blockquote>트럼프 행정부가 관세 회피 단속을 강화하면서 무역 절차상 복잡성이 증가할 것이란 우려가 제기됐다. 미 관세청의 새로운 단속 이니셔티브가 이미 과부하 상태인 관료 조직에 추가 부담을 줄 전망이다.
+<a href="https://www.ft.com/content/71016c06-d9bb-49ab-8584-6989d974d2f7">[FT]</a></blockquote>
+
+<b>25. 캐나다, 프로젝트 승인 신속화 법안 추진</b>
+<blockquote>캐나다 정부가 주요 프로젝트 승인 절차를 신속화하는 법안을 추진한다. 철도·항만 등 무역 집약적 부문의 노동 분쟁을 최소화하는 조치도 포함됐다. 경제 성장 가속을 위한 규제 완화 노력의 일환으로 평가된다.
+<a href="https://www.wsj.com/world/americas/canada-to-enshrine-expedited-project-reviews-with-legislation-8d7048d6">[WSJ]</a></blockquote>
+
+<b>26. 트럼프, CNN 등 백악관 출입 금지...언론사 소송 제기</b>
+<blockquote>트럼프 행정부가 CNN 등 일부 언론사의 백악관 출입을 금지한 데 대해 여러 언론사가 수정헌법 제1조 침해를 이유로 소송을 제기했다. 일부 방송사는 취재를 중단하기도 했다. 백악관 기자단을 인근 건물로 이전하는 방안도 논의된 것으로 알려졌다.
+<a href="https://www.ft.com/content/63140a82-8af6-4af8-90bd-0325c5724e74">[FT]</a> <a href="https://www.wsj.com/politics/policy/cnn-ms-now-politico-to-sue-white-house-over-reporter-ban-f1dceded">[WSJ]</a> <a href="https://www.wsj.com/politics/policy/trump-has-repeatedly-weighed-kicking-press-out-of-white-house-0d0644e8">[WSJ]</a></blockquote>
 
 ━━━━━━━━━━━━━━━━━━━━
 📡 <b>출처: WSJ · FT · The Economist</b>
