@@ -4,137 +4,97 @@
 
 ✅ <b>간밤의 주요 헤드라인</b>
 
-<b>1. Trump 이란 협상 재개...UN 연설선 '전멸' 경고</b>
-<blockquote>Trump 대통령은 UN 총회 연설에서 이란에 "전멸(annihilation)"을 경고하면서도 Steve Witkoff와 Jared Kushner가 뉴욕에서 이란 대표단과 6월 이후 첫 협상을 진행했다고 밝혔다. 미·이란 간 긴장 완화 기대가 유가 하락을 견인했다.
-<a href="https://www.ft.com/content/1434496d-0eaf-4270-8ad3-87724cd3721e">[FT]</a></blockquote>
+<b>1. 美 10년물 국채 수익률 5.14% 급등...19년 만에 최고치 경신</b>
+<blockquote>미국 10년 만기 국채 수익률이 장중 5.14%까지 치솟으며 2007년 7월 이후 최고치를 기록했다. 채권 전반에 걸친 매도세가 확산되며 경제 전반의 차입 비용이 급등했다. 하루 상승폭은 1년여 만에 가장 컸다.
+<a href="https://www.wsj.com/finance/investing/ten-year-treasury-yield-reaches-19-year-high-amid-broad-bonds-selloff-087132fb">[WSJ]</a> <a href="https://www.ft.com/content/5b11b598-7c77-4bdf-82bf-a763adf71a72">[FT]</a></blockquote>
 
-<b>2. 사우디 East-West 파이프라인 재개 신호...Hormuz 우회 전략 복귀</b>
-<blockquote>사우디가 드론 공격으로 2주간 폐쇄됐던 East-West 파이프라인 테스트를 시작, 수일 내 재개 전망이다. 동시에 미국은 아랍 동맹국들과 Hormuz 해협 우회 인프라 구축을 위한 $100억 펀드 협의 중이다.
-<a href="https://www.ft.com/content/5b4f8738-3b93-40c8-88d6-08c8ea684e83">[FT]</a></blockquote>
+<b>2. 달러 8주 최고치 기록...연준 추가 인상 베팅 확산</b>
+<blockquote>달러화가 주요 통화 대비 8주 만에 최고 수준으로 강세를 나타냈다. 시장은 Federal Reserve의 추가 금리 인상 가능성에 무게를 싣고 있다. 채권 수익률 급등과 맞물려 글로벌 금융조건 긴축 우려가 커지고 있다.
+<a href="https://www.wsj.com/economy/central-banking/dollar-jumps-to-8-week-high-as-fed-rate-hike-bets-outweigh-lower-oil-prices-92e6cf72">[WSJ]</a></blockquote>
 
-<b>3. 유가 5일 연속 하락, $100 이하 진입...중동 긴장 완화 기대</b>
-<blockquote>WTI 원유는 미·이란 협상 재개와 사우디 파이프라인 복구 기대로 5거래일 연속 하락, $100 아래로 내려왔다. Hormuz 해협을 통한 dark transit(트랜스폰더 꺼진 채 운항) 선박도 계속 확인되고 있다.
-<a href="https://www.wsj.com/world/middle-east/oil-prices-rise-as-hormuz-shipping-risks-persist-363fbeb1">[WSJ]</a></blockquote>
+<b>3. Kevin Warsh, 금융조건 타이트닝 딜레마 경고</b>
+<blockquote>Kevin Warsh가 주식시장 급락 없이 금융조건을 긴축할 수 있을지에 대한 우려를 제기했다. 연준의 통화정책이 자산시장에 미치는 영향을 둘러싼 논쟁이 재점화되고 있다.
+<a href="https://www.ft.com/content/281a2cd1-2094-4f33-af04-387b75fe9db1">[FT]</a></blockquote>
 
-<b>4. Trump 디젤 수출금지 검토...공화당 압박 속 "빠른 결정" 예고</b>
-<blockquote>Trump 대통령은 치솟는 디젤 가격에 대응해 디젤 수출금지 조치를 검토 중이라며 "결정이 빠를 것"이라고 밝혔다. 여러 공화당 의원들이 중간선거를 앞두고 수출 제한을 강력히 요구하고 있다.
-<a href="https://www.wsj.com/business/energy-oil/trump-weighs-diesel-export-ban-as-fuel-prices-soar-6d1a3d2e">[WSJ]</a></blockquote>
+<b>4. 이란 대통령 UN 연설...호르무즈 해협 선박 공격 직후 긴장 고조</b>
+<blockquote>이란 대통령 Masoud Pezeshkian이 유엔 총회에서 대화 의지를 밝혔으나 미국에 굴복하지 않겠다고 강조했다. 발언 수 시간 전 호르무즈 해협에서 상선 공격으로 사상자가 발생하며 중동 긴장이 극도로 고조됐다.
+<a href="https://www.wsj.com/world/middle-east/irans-president-says-open-to-talks-but-wont-bow-to-u-s-35f44f25">[WSJ]</a></blockquote>
 
-<b>5. 마크롱, 러·우크라 에너지 인프라 공격 중단 요구...연료 가격 급등 배경</b>
-<blockquote>Macron 프랑스 대통령은 러시아와 우크라이나 양측에 에너지 및 민간 인프라 공격에 대한 '이중 모라토리엄'을 요구했다. 최근 연료 가격 급등이 유럽 경제와 소비자 신뢰에 타격을 주고 있다.
-<a href="https://www.ft.com/content/16d676c9-94c4-4df1-8fa6-56966b2c9aa7">[FT]</a></blockquote>
+<b>5. 트럼프 행정부 디젤 수출 규제 추진...업계 반발에도 강행 기류</b>
+<blockquote>Chris Wright 에너지 장관이 디젤 수출 전면 금지가 아닌 제한 조치를 시사했다. 석유업계는 격렬히 반발하고 있으나 트럼프 대통령의 발언 이후 정책 현실화 가능성이 커지고 있다. 유럽 디젤 가격은 공급 차질 우려에 급등세를 보였다.
+<a href="https://www.wsj.com/business/energy-oil/trumps-oil-allies-see-nightmare-scenario-of-diesel-export-ban-becoming-reality-16973ae2">[WSJ]</a> <a href="https://www.wsj.com/politics/policy/energy-secretary-hints-at-voluntary-cap-on-diesel-exports-rather-than-ban-5d05bc4a">[WSJ]</a> <a href="https://www.ft.com/content/a8614065-b38b-426d-b176-192c6cd75f56">[FT]</a> <a href="https://www.ft.com/content/3e480031-4ee7-4ded-9893-75c060aeef1a">[FT]</a></blockquote>
 
-<b>6. 천연가스 선물 4.5% 급등...$2.965 마감</b>
-<blockquote>미국 천연가스 선물은 6주 만에 최대 일일 상승폭을 기록하며 $2.965/mmBtu로 마감했다. 중동 LNG 공급 차질 우려가 하방을 제한했다.
-<a href="https://www.wsj.com/finance/commodities-futures/european-gas-prices-fall-but-mideast-lng-disruptions-limit-downside-74c9d5e5">[WSJ]</a></blockquote>
+<b>6. 유가 5거래일 만에 반등...중동 리스크 지속</b>
+<blockquote>국제유가가 5거래일 연속 하락을 마감하고 반등했다. WTI는 1.8% 오른 배럴당 $92.16, 브렌트유는 3.9% 급등한 $103.08에 거래를 마쳤다. 사우디 수출 개선 기대와 미·이란 외교 진전 가능성에도 중동 공급 차질 우려가 가격을 지지했다.
+<a href="https://www.wsj.com/finance/commodities-futures/oil-falls-as-mideast-developments-remain-in-focus-9a5a30e4">[WSJ]</a> <a href="https://www.wsj.com/business/energy-oil/oil-prices-mixed-as-traders-weigh-u-s-iran-talks-saudi-pipeline-progress-3b33f75c">[WSJ]</a></blockquote>
 
-<b>7. 사우디, 미국의 후티 공격 소극 대응에 불만 표출...방위 동맹 신뢰 흔들</b>
-<blockquote>사우디는 Trump 행정부가 후티 반군 공격에 적극 대응하지 않는 데 불만을 표시하며, 미국의 주요 방위 파트너로서 신뢰성에 의문을 제기하고 있다. "MBS는 잊지 않을 것"이라는 내부 평가가 나온다.
-<a href="https://www.ft.com/content/99457bcb-d98f-4719-a203-688daefcc3f7">[FT]</a></blockquote>
+<b>7. 미국 난방유 가격 급등...글로벌 연료 위기 확산</b>
+<blockquote>글로벌 연료 공급 위기가 미국 가정용 난방유 가격을 끌어올리고 있다. 동북부와 알래스카 지역은 겨울철 난방유 의존도가 높아 가계 부담이 가중될 전망이다.
+<a href="https://www.wsj.com/business/energy-oil/the-global-fuel-crisis-is-driving-up-the-costs-of-home-heating-oil-too-e5026f51">[WSJ]</a></blockquote>
 
-<b>8. Fed Barkin "금리 1회 인상으론 인플레 통제 불충분"...매파 경로 재개 신호</b>
-<blockquote>Richmond 연은 Thomas Barkin 총재는 올해 인플레이션을 촉발한 일시적 충격이 장기화할 수 있으며 새로운 비용 압력이 나타날 수 있다고 경고하며, 금리 인상 1회로는 충분치 않다고 밝혔다.
-<a href="https://www.wsj.com/economy/central-banking/feds-barkin-says-one-rate-hike-may-not-be-enough-to-tame-inflation-dd338c6c">[WSJ]</a></blockquote>
+<b>8. 이란발 항공편 대거 취소...미국 제재 강화 경고</b>
+<blockquote>이라크·오만·아제르바이잔이 이란 노선 운항을 중단했다. Scott Bessent 재무장관이 항공사들을 '폐쇄'하겠다고 경고한 직후 나온 조치다. 제재 강화 움직임이 가시화되고 있다.
+<a href="https://www.ft.com/content/7a98e756-92a3-45e4-9630-187d20685e79">[FT]</a></blockquote>
 
-<b>9. 유로존 소비자 신뢰 1.0p 하락...-16.5 기록</b>
-<blockquote>유럽위원회가 발표한 유로존 9월 플래시 소비자 신뢰지수는 전월 대비 1.0포인트 하락한 -16.5를 기록했다. 에너지 가격 급등이 소비 심리를 압박했다.
-<a href="https://www.wsj.com/economy/central-banking/eurozone-consumer-sentiment-knocked-by-surging-energy-prices-dd9668d7">[WSJ]</a></blockquote>
+<b>9. 후티 반군에 중국산 물자 급증...글로벌 유류 위협</b>
+<blockquote>예멘 후티 반군에 압수된 물품 중 중국 기업 제품이 가장 큰 비중을 차지하는 것으로 나타났다. 후티는 글로벌 원유 공급에 지속적 위협을 가하고 있다.
+<a href="https://www.wsj.com/world/middle-east/yemens-houthis-threatening-global-oil-are-increasingly-supplied-by-china-6bfcfeec">[WSJ]</a></blockquote>
 
-<b>10. 달러 인덱스 6거래일 중 5일 상승...96.23 마감</b>
-<blockquote>WSJ 달러 인덱스는 0.04% 상승한 96.23으로 마감, 최근 7거래일 중 6일 상승세를 기록했다. 금 선물은 달러 강세와 수익률 상승 속에 소폭 하락했다.
-<a href="https://www.wsj.com/finance/currencies/asian-currencies-mixed-on-hopes-for-u-s-iran-negotiations-95e21ec2">[WSJ]</a></blockquote>
+<b>10. 시진핑, 워싱턴 도착...미중 정상회담 임박</b>
+<blockquote>시진핑 주석이 Donald Trump 대통령과의 정상회담을 위해 미국에 도착했다. 11월 무역휴전 만료를 두 달 앞둔 시점에서 양국 관계의 향방을 가를 회담이다.
+<a href="https://www.ft.com/content/8ff1b8fd-ff58-42a4-8e44-6a31f6db8154">[FT]</a></blockquote>
 
-<b>11. Anthropic·OpenAI, 저가 모델 출시...AI 가격 전쟁 격화</b>
-<blockquote>Anthropic과 OpenAI가 기존 버전 대비 비용을 대폭 낮춘 신규 Claude·ChatGPT 모델을 출시했다. 성능은 향상되면서 가격은 급락해 AI 시장 내 가격 경쟁이 격화되고 있다.
-<a href="https://www.ft.com/content/0e50a3c6-9731-4b29-a21e-4e0ff89a595e">[FT]</a></blockquote>
+<b>11. 미중 정상회담 무대 뒤 외교전...레드카펫 의전 협상 치열</b>
+<blockquote>양측은 수주간 시진핑 방미의 의전 세부사항을 협의하면서도 핵심 갈등 사안은 건드리지 않았다. 중국은 이미지 관리에, 미국은 실리 확보에 주력하는 양상이다.
+<a href="https://www.wsj.com/world/china/trump-xi-meeting-china-image-df83c33f">[WSJ]</a></blockquote>
 
-<b>12. Meta Muse AI 에이전트 출시...금융주 위협 본격화</b>
-<blockquote>Meta가 신규 AI 에이전트 'Muse'를 출시하며 자산관리·중개·보험 업무 자동화를 예고했다. 금융주는 이날 압박을 받았으며, AI가 금융 서비스 일자리를 대체할 것이란 우려가 확산됐다.
-<a href="https://www.wsj.com/finance/investing/metas-muse-comes-for-financial-stocks-17bdf11a">[WSJ]</a></blockquote>
+<b>12. 트럼프, 이란·대만 의제 부각 시사</b>
+<blockquote>Trump 대통령이 시진핑과의 회담에서 이란 지원 중단과 대만 무기 판매 문제를 거론할 것으로 알려졌다. 무역 협상 외에 지정학적 이슈가 주요 의제로 떠오르고 있다.
+<a href="https://www.wsj.com/podcasts/opinion-potomac-watch/whats-on-trumps-agenda-with-xi/330B6D42-7940-4E1C-8D47-CE555ADCDAE2">[WSJ]</a></blockquote>
 
-<b>13. Nasdaq 100 사상 최고가 경신...'AI FOMO' 복귀</b>
-<blockquote>Nasdaq 100 지수가 여름 매도세에서 회복해 신고점을 기록했다. 빅테크 기업들이 AI 신제품 출시로 랠리를 이어가며 'AI FOMO(기회 놓칠까 하는 두려움)'가 재점화됐다.
-<a href="https://www.ft.com/content/2c60812b-77b4-4de5-a276-5e3eb2ceb5c3">[FT]</a></blockquote>
+<b>13. Putin, 플로리다 G-20 정상회의 초청받아</b>
+<blockquote>Trump 대통령이 Vladimir Putin을 플로리다 리조트에서 열리는 G-20 정상회의에 초청했다고 국무장관이 밝혔다. 두 정상은 2025년 8월 알래스카 회담 이후 대면하지 않았다.
+<a href="https://www.wsj.com/world/russia/putin-invited-to-g-20-summit-at-trumps-florida-resort-rubio-says-3a0344f9">[WSJ]</a></blockquote>
 
-<b>14. Trump UN 연설 "글로벌 AI 규제 거부"...미·중 AI 패권 경쟁 재확인</b>
-<blockquote>Trump 대통령은 UN 연설에서 "미국은 중국보다 AI에서 압도적으로 앞서 있으며 이를 유지할 것"이라며 글로벌 AI 규제 체제 구축 시도를 '세계주의 음모'라고 비판했다.
-<a href="https://www.ft.com/content/0e03521f-c4f1-4242-8fff-0e34a27a26db">[FT]</a></blockquote>
+<b>14. 영국 재정 헤드룸 축소 가능성...증세 규모 줄일 수도</b>
+<blockquote>영국 재무부가 예산 완충 여력을 현재 £23.6bn에서 약 £14bn으로 줄이는 방안을 검토 중이다. 투자자들은 이 정도 수준이면 국채시장 동요 없이 감내 가능하다는 반응을 보이고 있다.
+<a href="https://www.ft.com/content/5deccbb2-7354-4856-a98b-c19c8c73d6ef">[FT]</a></blockquote>
 
-<b>15. AI 책임 문제 부각...Anthropic, 티베트인 겨냥 베이징 작전 적발</b>
-<blockquote>Anthropic은 베이징과 연계된 조직이 자사 AI 시스템을 활용해 티베트 반체제 인사와 단체를 겨냥한 사이버 작전을 벌인 사실을 발견했다고 밝혔다.
-<a href="https://www.wsj.com/opinion/beijing-turns-ai-against-tibetans-worldwide-a95c6132">[WSJ]</a></blockquote>
+<b>15. 캐나다 Carney 총리, EU와 독자 무역심화 권리 고수</b>
+<blockquote>Mark Carney 캐나다 총리가 WSJ 인터뷰에서 미국과의 무역협정에 개방적이지만 EU와의 관계 심화 권리는 포기하지 않겠다고 밝혔다. 주권 확보를 위해 동맹국 간 협력이 필요하다고 강조했다.
+<a href="https://www.wsj.com/world/europe/canadas-carney-open-to-u-s-trade-deal-but-wont-give-up-right-to-deepen-eu-ties-9b08a792">[WSJ]</a></blockquote>
 
-<b>16. AI 직원들, 사회 위협 우려로 정신적 고통 호소</b>
-<blockquote>OpenAI, Anthropic, Google DeepMind, 영국 Aisi 등 주요 AI 연구기관 직원들이 강력한 AI 개발이 사회에 미칠 위협을 우려하며 번아웃과 스트레스를 호소하고 있다고 FT가 보도했다.
-<a href="https://www.ft.com/content/60870960-f433-48ca-bc2c-708686a69ae7">[FT]</a></blockquote>
+<b>16. 스위스 의회, UBS 자본규제 강화안 지지</b>
+<blockquote>스위스 상원이 UBS에 대한 자본규제 강화안을 승인하며 절충안을 기각했다. UBS와 정부 간 공방에서 의회가 은행 측에 불리한 결정을 내렸다.
+<a href="https://www.ft.com/content/9bc23f86-f977-408e-b32f-2917fd4a2267">[FT]</a></blockquote>
 
-<b>17. Economist "AI 묵시록 리스크, 시장에서 프라이싱 불가능"</b>
-<blockquote>Economist는 잘못 정렬된 초지능이 가져올 위협은 기존 금융 도구로는 가격 발견이 불가능하다고 분석했다. 시스템적 붕괴 위험을 거래 가능한 자산으로 전환하는 데 한계가 있다는 지적이다.
-<a href="https://www.economist.com/finance-and-economics/2026/09/22/you-cant-trade-your-way-through-the-ai-apocalypse">[Economist]</a></blockquote>
+<b>17. 영국, 차고스 협정 재검토...트럼프 반대에 발목</b>
+<blockquote>영국이 전략적 요충지인 인도양 차고스 제도의 모리셔스 주권 이양 합의를 재검토하고 있다. Trump 대통령의 거듭된 반대가 배경으로 작용했다.
+<a href="https://www.ft.com/content/a241848e-f78c-4435-abfd-3980160345c2">[FT]</a></blockquote>
 
-<b>18. Trump·시진핑 정상회담 임박...중국 기업인 대표단 불참 예상</b>
-<blockquote>Trump와 시진핑 정상회담에 중국 기업 대표단이 불참할 가능성이 크다. 이는 이번 회담에서 의미 있는 비즈니스 성과를 기대하기 어렵다는 신호로 해석된다.
-<a href="https://www.wsj.com/world/china/trump-summit-with-xi-unlikely-to-include-chinese-ceos-7a9e90dd">[WSJ]</a></blockquote>
+<b>18. 이탈리아 원전 재가동 법안 통과</b>
+<blockquote>이탈리아 상원이 신세대 원자로 건설을 허용하는 법안을 승인했다. 기존 원전을 폐쇄한 지 수십 년 만에 원자력 발전 부활의 길을 열었다.
+<a href="https://www.ft.com/content/c5215e50-446c-45e5-a2ec-36e3e30d0310">[FT]</a></blockquote>
 
-<b>19. Trump 그린란드 협정 체결...미군 주둔 확대</b>
-<blockquote>Trump 행정부는 그린란드와 협정을 체결, 북극 지역 내 미군 주둔을 확대할 수 있는 기반을 마련했다. 이는 중국·러시아와의 전략적 경쟁 구도에서 북극권 영향력 강화를 노린 조치다.
-<a href="https://www.wsj.com/world/heres-what-trumps-greenland-deal-means-for-the-u-s-16c26745">[WSJ]</a></blockquote>
+<b>19. 중국 Geely, 5분 이내 EV 초고속 충전 기술 공개</b>
+<blockquote>중국 자동차 제조사 Geely가 5분 이내 충전이 가능한 전기차 배터리를 공개했다. BYD의 초고속 충전 기술과 경쟁하며 둔화된 중국 시장에서 구매자 유인을 노린다. CATL 의존도를 낮추려는 움직임이다.
+<a href="https://www.wsj.com/business/autos/chinas-geely-unveils-ev-charging-under-five-minutes-2739bc45">[WSJ]</a> <a href="https://www.ft.com/content/8d8e774d-7559-4fcf-a435-13cad11f57e1">[FT]</a></blockquote>
 
-<b>20. EU, 러 올리가르히 Fridman·Usmanov 제재 해제</b>
-<blockquote>EU는 3년간 제재 연장 합의의 일환으로 러시아 재벌 Mikhail Fridman과 Alisher Usmanov를 제재 리스트에서 제외했다.
-<a href="https://www.ft.com/content/760091dd-20be-4152-aa0d-561475a99ee8">[FT]</a></blockquote>
+<b>20. 금·철광석 가격 동향 주목</b>
+<blockquote>금 선물과 철광석 가격 움직임이 시장의 관심을 받고 있다. 매크로 환경 변화에 따른 원자재 수급 전망이 엇갈리고 있다.
+<a href="https://www.wsj.com/business/basic-materials-roundup-market-talk-0dd685b1">[WSJ]</a></blockquote>
 
-<b>21. Lukoil 자산 매각에 미 정부·걸프 자본 참여...Todd Boehly 컨소시엄</b>
-<blockquote>Todd Boehly가 이끄는 컨소시엄이 미국 정부 및 걸프 억만장자들의 지원을 받아 Lukoil의 국제 사업부 인수전에 뛰어들었다. 1월 매각 합의한 Carlyle을 제치려는 시도다.
-<a href="https://www.ft.com/content/152aa77b-977f-4607-8a09-77291f85d2a0">[FT]</a></blockquote>
+<b>21. 핀란드 드론 기업 Sensofusion, 헬싱키 IPO 추진</b>
+<blockquote>핀란드 방위 기술 업체 Sensofusion이 헬싱키 증시 상장을 통해 €344mn 조달을 추진한다. 드론 기업에 대한 투자자 관심이 높아진 틈을 타겠다는 전략이다.
+<a href="https://www.wsj.com/business/retail/finnish-drone-group-sensofusion-seeks-344-million-in-helsinki-ipo-6ed784ac">[WSJ]</a></blockquote>
 
-<b>22. 영국 8월 재정적자 £18bn...예산 압박 심화</b>
-<blockquote>영국 8월 정부 차입액이 £180억에 달하며 '암울한' 재정 상황을 드러냈다. 인플레이션이 정부 지출을 밀어올리며 Healey 재무장관의 예산안 편성에 부담이 가중되고 있다.
-<a href="https://www.ft.com/content/a17b2217-e49f-432c-8fdb-31e9bc3a4361">[FT]</a></blockquote>
+<b>22. Putin, 선거 결과를 전쟁 지지로 해석</b>
+<blockquote>Vladimir Putin이 러시아 집권당의 선거 승리를 우크라이나 전쟁에 대한 지지로 규정하며 군에 공세 강화를 주문했다.
+<a href="https://www.wsj.com/world/russia/putin-casts-vote-result-as-an-endorsement-of-his-war-50d62d1c">[WSJ]</a></blockquote>
 
-<b>23. 영국 자민당 Ed Davey, £170억 감세 공약 발표</b>
-<blockquote>자유민주당 당수 Ed Davey는 면세 개인소득 한도 인상을 골자로 하는 £170억 규모 감세안을 발표하며 당이 "생존을 건 싸움"에 있다고 밝혔다.
-<a href="https://www.ft.com/content/460dbb45-03b8-466e-98ef-80063b07189a">[FT]</a></blockquote>
-
-<b>24. 영국 억만장자, 세금 회피 논란...£18mn 인지세 절감</b>
-<blockquote>Quadrature Capital의 Suneil Setiya가 런던 맨션과 함께 아파트 5채를 일괄 구매해 인지세를 £1,800만 절감한 사실이 드러나 노동당 의원들이 허점 차단을 요구했다.
-<a href="https://www.ft.com/content/1ca67e27-b6b6-454a-8d37-b957835201d7">[FT]</a></blockquote>
-
-<b>25. ACA 보조금 축소로 76만 명 제외...헬스케어 인플레 압박</b>
-<blockquote>Trump 행정부의 부정 단속 태스크포스가 오바마케어(ACA) 가입 자격 요건을 강화하며 76만 명이 공공 보험 거래소에서 제외될 전망이다. 헬스케어 인플레이션과 재정 부담 논란이 예상된다.
-<a href="https://www.wsj.com/politics/policy/vance-led-task-force-set-to-remove-760-000-allegedly-fraudulent-obamacare-enrollments-0fbb72d7">[WSJ]</a></blockquote>
-
-<b>26. KB Home, 마진 전망 하향...주택시장 악화</b>
-<blockquote>미국 주택건설사 KB Home은 연간 총이익률 전망을 16.0~16.2%로 하향 조정했다. 기존 가이던스는 16.1~16.5%였다. 주택시장 여건 악화가 반영됐다.
-<a href="https://www.wsj.com/economy/housing/kb-home-cuts-margin-outlook-as-housing-conditions-worsen-caa020ae">[WSJ]</a></blockquote>
-
-<b>27. 데이터센터 리스크, 보험 시장 압박...프리미엄 높지만 소화 한계</b>
-<blockquote>데이터센터의 급증으로 보험 시장이 압박받고 있다. 프리미엄은 매력적이지만 재정적 위험 규모가 너무 커 보험사들이 소화하기 어렵다는 분석이다.
-<a href="https://www.economist.com/finance-and-economics/2026/09/22/data-centres-are-straining-the-insurance-market">[Economist]</a></blockquote>
-
-<b>28. Airtel Money, 런던 대형 IPO 추진...$80~90억 밸류 목표</b>
-<blockquote>아프리카 모바일 결제 기업 Airtel Money가 이번 주 중 상장 서류를 제출하고 $8억 조달을 목표로 한다. 최근 런던 시장에서 가장 큰 IPO 중 하나가 될 전망이다.
-<a href="https://www.ft.com/content/62a6939f-7e24-492e-bdf6-b9ab9e1d3578">[FT]</a></blockquote>
-
-<b>29. Mercedes-Benz, Wayve와 AI 자율주행 협력...중국 격차 만회 시도</b>
-<blockquote>Mercedes-Benz는 영국 AI 스타트업 Wayve와 협력해 향후 2년 내 최소 1개 모델에 자율주행 시스템을 통합할 계획이다. 중국 경쟁사들과의 AI 격차를 줄이려는 시도다.
-<a href="https://www.ft.com/content/4ed7bccb-7d02-485f-aed6-9e7b0244ac78">[FT]</a></blockquote>
-
-<b>30. EU-필리핀 FTA 타결...공급망 재편 가속</b>
-<blockquote>EU와 필리핀이 자유무역협정 협상을 타결했다. 지속적인 지정학적 충격과 관세 압박 속에서 새로운 무역 파트너 확보 필요성이 강조된 결과다.
-<a href="https://www.wsj.com/economy/trade/eu-philippines-reach-breakthrough-in-free-trade-talks-0fdf1e12">[WSJ]</a></blockquote>
-
-<b>31. Royal Caribbean, Sandals 인수 임박...$60억 이상 밸류</b>
-<blockquote>크루즈 운영사 Royal Caribbean이 리조트 체인 Sandals 인수 협상을 진행 중이며, 거래 규모는 $60억 이상으로 추정된다. 회사 역사상 최대 거래가 될 전망이다.
-<a href="https://www.ft.com/content/be468cf8-e450-46d8-891f-67bc79ffd7b3">[FT]</a></blockquote>
-
-<b>32. Andreessen, $35mn 대학 대안 아카데미 펀딩...교육 구조 변화 신호</b>
-<blockquote>벤처캐피털 Andreessen Horowitz가 2년제 아카데미에 $3,500만을 투자하며 전통 대학 대안을 지원한다. 실리콘밸리 거물들이 고등교육 시장 재편에 나서고 있다.
-<a href="https://www.wsj.com/us-news/education/horowitz-andreessen-academy-college-alternative-f9f3ac2e">[WSJ]</a></blockquote>
-
-<b>33. Warburg Pincus·CD&R, Canaccord 영국 자산관리 부문 인수 협상</b>
-<blockquote>사모펀드 Warburg Pincus와 CD&R이 Canaccord의 영국 자산관리(wealth management) 부문을 £10억 이상 밸류로 인수하는 협상을 최종 단계에서 진행 중이다.
-<a href="https://www.ft.com/content/2715d69d-15d1-42af-a5e5-cb2a251a1ff6">[FT]</a></blockquote>
+<b>23. Rosneft 수십억 달러, 크렘린 자금세탁 네트워크 핵심</b>
+<blockquote>FT 조사 결과 러시아 국영 석유 기업 Rosneft의 경화(硬貨)가 크렘린 후원 자금세탁 네트워크의 중심에 있었던 것으로 드러났다. 러시아의 제재 회피 노력을 보여주는 사례다.
+<a href="https://www.ft.com/content/fb42c5dd-1550-402c-8881-49a3902710a0">[FT]</a></blockquote>
 
 ━━━━━━━━━━━━━━━━━━━━
 📡 <b>출처: WSJ · FT · The Economist</b>
