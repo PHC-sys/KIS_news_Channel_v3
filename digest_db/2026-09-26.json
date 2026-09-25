@@ -1,0 +1,906 @@
+[
+  {
+    "url": "https://www.ft.com/content/651024b1-d1ce-40c1-acae-a92c3505d3f1",
+    "title": "OpenAI says governments among ‘dozens’ of organisations hacked by its agents",
+    "summary": "Company says its models leaked images shared by users in a disclosure that is likely to further inflame AI safety fears",
+    "source": "FT",
+    "section": "world",
+    "published": "2026-09-25T22:18:19+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/podcasts/opinion-potomac-watch/wrapping-up-the-trump-xi-summit-the-president-vs-the-white-house-press-corps/93400158-7BDA-499C-9250-5CC141858DC2",
+    "title": "Wrapping Up the Trump-Xi Summit / The President vs. the White House Press Corps",
+    "summary": "Donald Trump's meetings with Chinese leader Xi Jinping result in an extended trade truce, as Beijing presses the U.S. on its stance regarding Taiwan. Meantime, a federal judge halts Trump from banning CNN, MS NOW and Politico from the White House.",
+    "source": "WSJ",
+    "section": "opinion",
+    "published": "2026-09-25T22:07:00+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/opinion/cbo-medicare-climate-change-report-cd3ac862",
+    "title": "Opinion | CBO’s Climate Health Forecasters",
+    "summary": "Congress’s budget office takes on temperatures and Medicare spending.",
+    "source": "WSJ",
+    "section": "us",
+    "published": "2026-09-25T22:03:00+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-as-treasury-yields-hit-new-highs-50a63fb4",
+    "title": "WSJ Dollar Index Rises 0.63% This Week to 96.70",
+    "summary": "The WSJ Dollar Index fell 0.3%, snapping its winning streak.",
+    "source": "WSJ",
+    "section": "markets",
+    "published": "2026-09-25T21:55:00+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/us-news/report-details-security-failures-at-school-where-charlie-kirk-was-killed-563ee8ee",
+    "title": "Report Details Security Failures at School Where Charlie Kirk Was Killed",
+    "summary": "An independent review found deficiencies in how Utah Valley University and Turning Point USA handled his campus event.",
+    "source": "WSJ",
+    "section": "us",
+    "published": "2026-09-25T21:50:00+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/world/china/deep-divides-and-missed-deals-cloud-trump-xi-visit-630122b0",
+    "title": "Deep Divides and Missed Deals Cloud Trump-Xi Visit",
+    "summary": "After getting heckled outside by protesters, Xi slipped inside the White House for a state dinner where some 30 to 40 guests asked for photographs.",
+    "source": "WSJ",
+    "section": "world",
+    "published": "2026-09-25T21:45:00+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/opinion/congress-college-sports-ncaa-bill-f4a9fc7e",
+    "title": "Opinion | Congress Tries to Fix College Sports",
+    "summary": "The NCAA invites 535 athletic commissioners. Hope it works out.",
+    "source": "WSJ",
+    "section": "us",
+    "published": "2026-09-25T21:37:00+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/opinion/usda-brooke-rollins-dairy-farmers-esg-lawsuit-c24b4d53",
+    "title": "Opinion | Ending the ESG Dairy Heist",
+    "summary": "The USDA settles a lawsuit against a coercive farm payment.",
+    "source": "WSJ",
+    "section": "us",
+    "published": "2026-09-25T21:36:00+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/opinion/donald-trump-vladimir-putin-g-20-russia-nato-a60c1d4b",
+    "title": "Opinion | Trump Gives Putin Another Blessing",
+    "summary": "He invites the Russian to the Florida G-20 despite his hybrid war.",
+    "source": "WSJ",
+    "section": "world",
+    "published": "2026-09-25T21:35:00+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/world/china/chinas-panda-diplomacy-is-losing-its-clout-with-the-u-s-f608c14c",
+    "title": "China’s Panda Diplomacy Is Losing Its Clout With the U.S.",
+    "summary": "In a summit with few clear results, the loan is a reminder of an older era of Chinese diplomacy.",
+    "source": "WSJ",
+    "section": "world",
+    "published": "2026-09-25T21:20:00+00:00"
+  },
+  {
+    "url": "https://www.ft.com/content/632e21a3-b889-4423-a1d9-be16b3e680bd",
+    "title": "Walmart chief rules out personalised pricing as AI transforms retail",
+    "summary": "Largest US retailer issues open letter saying it will not use electronic shelf labels to change costs based on shopper identity",
+    "source": "FT",
+    "section": "world",
+    "published": "2026-09-25T21:16:49+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/us-news/law/pentagon-backed-venezuelan-oil-company-poised-to-challenge-chevron-abf18109",
+    "title": "Pentagon-Backed Venezuelan Oil Company Poised to Challenge Chevron",
+    "summary": "Plus, SCOTUS decides the White House can use a database to check voters’ citizenship and a federal court upheld the Pentagon labeling Anthropic a security risk.",
+    "source": "WSJ",
+    "section": "us",
+    "published": "2026-09-25T21:16:00+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/business/financial-services-roundup-market-talk-07d653ca",
+    "title": "Financial Services Roundup: Market Talk",
+    "summary": "Find insight on Canadian banks, ETF inflows, Societe Generale and more in the latest Market Talks covering Financial Services.",
+    "source": "WSJ",
+    "section": "markets",
+    "published": "2026-09-25T21:14:00+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/business/auto-transport-roundup-market-talk-6a0cdae5",
+    "title": "Auto & Transport Roundup: Market Talk",
+    "summary": "Find insight on Cargojet, CarMax, Maersk and more in the latest Market Talks covering Auto and Transport.",
+    "source": "WSJ",
+    "section": "markets",
+    "published": "2026-09-25T21:10:00+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/finance/stocks/stocks-rise-to-cap-week-of-increasing-yields-volatile-oil-prices-de1cba89",
+    "title": "Stocks Rise to Cap Week of Increasing Yields, Volatile Oil Prices",
+    "summary": "The Dow snaps its three-session losing streak, finishing the week higher.",
+    "source": "WSJ",
+    "section": "markets",
+    "published": "2026-09-25T21:06:00+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/business/basic-materials-roundup-market-talk-e3a8f635",
+    "title": "Basic Materials Roundup: Market Talk",
+    "summary": "Find insight on gold futures, Evonik, Glencore and more in the latest Market Talks covering Basic Materials.",
+    "source": "WSJ",
+    "section": "markets",
+    "published": "2026-09-25T21:04:00+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/business/energy-oil/pentagon-backed-oil-company-is-set-to-vie-for-chevrons-crown-in-venezuela-f8e4300a",
+    "title": "Pentagon-Backed Oil Company Is Set to Vie for Chevron’s Crown in Venezuela",
+    "summary": "The rise of a U.S.-backed oil company in Venezuela has frustrated executives at America’s biggest oil companies.",
+    "source": "WSJ",
+    "section": "business",
+    "published": "2026-09-25T21:02:00+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-ace960f2",
+    "title": "Energy & Utilities Roundup: Market Talk",
+    "summary": "Find insight on oil futures, BP, Equinor and more in the latest Market Talks covering Energy and Utilities.",
+    "source": "WSJ",
+    "section": "business",
+    "published": "2026-09-25T21:02:00+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-96e978fa",
+    "title": "Tech, Media & Telecom Roundup: Market Talk",
+    "summary": "Find insight on Meta’s Muse AI agent, Comcast, GoDaddy and more in the latest Market Talks covering Technology, Media and Telecom.",
+    "source": "WSJ",
+    "section": "markets",
+    "published": "2026-09-25T20:56:00+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/finance/stocks/u-s-stocks-rise-to-end-volatile-week-c8b2dc82",
+    "title": "U.S. Stocks Rise To End Volatile Week",
+    "summary": "U.S. stocks recovered from a couple of down sessions as oil prices fell on hopes for progress toward an agreement between the U.S. and Iran to open the Strait of Hormuz.",
+    "source": "WSJ",
+    "section": "markets",
+    "published": "2026-09-25T20:54:00+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/world/americas/u-s-troops-are-now-fighting-the-drug-war-on-the-ground-in-ecuador-8d0f439c",
+    "title": "U.S. Troops Are Now Fighting the Drug War on the Ground in Ecuador",
+    "summary": "Dozens of American military personnel joined Ecuadorean police in raids this week, marking a new level of direct U.S. involvement.",
+    "source": "WSJ",
+    "section": "world",
+    "published": "2026-09-25T20:53:00+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/pro/cybersecurity/yields-subside-stocks-breathe-easier-b76d7f47",
+    "title": "Yields Subside, Stocks Breathe Easier",
+    "summary": "Plus, Brent drops on Hormuz hopes and Microsoft leads the Dow",
+    "source": "WSJ",
+    "section": "markets",
+    "published": "2026-09-25T20:50:00+00:00"
+  },
+  {
+    "url": "https://www.economist.com/international/2026/09/25/america-and-chinas-leaders-indulge-in-pageantry-as-crises-mount",
+    "title": "America and China’s leaders indulge in pageantry as crises mount",
+    "summary": "Donald Trump and Xi Jinping squandered a chance to tackle the world’s gravest threats",
+    "source": "Economist",
+    "section": "international",
+    "published": "2026-09-25T20:47:05+00:00"
+  },
+  {
+    "url": "https://www.ft.com/content/917a9cba-6afd-4ba3-8742-2b7601ecc2ba",
+    "title": "Iran offers US new seven-day ceasefire proposal",
+    "summary": "Foreign minister says plan could see Strait of Hormuz reopen within a week",
+    "source": "FT",
+    "section": "world",
+    "published": "2026-09-25T20:37:54+00:00"
+  },
+  {
+    "url": "https://www.ft.com/content/a255d9e6-ae6f-4b30-9ca6-b694663f547c",
+    "title": "Houthis promise not to target European ships",
+    "summary": "Pledge comes as container shipping through key Bab al-Mandeb Strait reaches highest level in almost three years",
+    "source": "FT",
+    "section": "world",
+    "published": "2026-09-25T20:35:58+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/finance/commodities-futures/oil-pulls-back-as-cautious-hopes-compete-with-escalation-d3308b21",
+    "title": "Oil Futures End Volatile Week With Mixed Results",
+    "summary": "Crude futures settled lower with the market watching for any breakthrough in diplomatic efforts to reopen the Strait of Hormuz.",
+    "source": "WSJ",
+    "section": "markets",
+    "published": "2026-09-25T20:25:00+00:00"
+  },
+  {
+    "url": "https://www.ft.com/content/c5af4151-2c14-481b-8145-f5ec1f43a3f4",
+    "title": "US bond sell-off pushes long-term yields to highest since 2004",
+    "summary": "Investors ‘don’t want to hold risk going into the weekend’, said one investor, as market heads for worst week since 2024",
+    "source": "FT",
+    "section": "markets",
+    "published": "2026-09-25T20:24:38+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/opinion/trump-is-in-denial-about-ais-danger-695349d0",
+    "title": "Opinion | Trump Is in Denial About AI’s Danger",
+    "summary": "He tells the U.N. that concerns about mankind’s future are a hoax. Ike would have known better.",
+    "source": "WSJ",
+    "section": "us",
+    "published": "2026-09-25T20:19:00+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/opinion/whos-afraid-of-civility-and-dialogue-on-campus-dbd56164",
+    "title": "Opinion | Who’s Afraid of Civility and Dialogue on Campus",
+    "summary": "A faculty group that dubs itself Uncivil claims that open conversation is right-wing and pro-Israel.",
+    "source": "WSJ",
+    "section": "us",
+    "published": "2026-09-25T20:19:00+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/opinion/will-the-ai-frenzy-add-up-to-anything-ee76a76c",
+    "title": "Opinion | Will the AI Frenzy Add Up to Anything?",
+    "summary": "Deterring nuclear war wasn’t a one-day job. The answer to AI risk isn’t suddenly on the table.",
+    "source": "WSJ",
+    "section": "world",
+    "published": "2026-09-25T20:18:00+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/finance/investing/dont-fall-for-bond-funds-that-say-theyre-beating-the-market-fe8876d4",
+    "title": "Don’t Fall for Bond Funds That Say They’re Beating the Market",
+    "summary": "Active bond funds claim to beat the benchmark, but hidden risks often drive returns.",
+    "source": "WSJ",
+    "section": "markets",
+    "published": "2026-09-25T20:16:00+00:00"
+  },
+  {
+    "url": "https://www.ft.com/content/c1ab1254-bf38-43ca-aa22-02a09d6e2b73",
+    "title": "Blackstone’s top private equity executive prepares exit for possible public service move",
+    "summary": "Joseph Baratta, one of the company’s best-paid employees, plans to leave the group after almost three decades",
+    "source": "FT",
+    "section": "markets",
+    "published": "2026-09-25T20:10:36+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/opinion/the-tax-bill-on-top-of-your-tax-bill-1d0540cf",
+    "title": "The Tax Bill on Top of Your Tax Bill",
+    "summary": "It takes a village as large as Chicago to figure out what Americans owe.",
+    "source": "WSJ",
+    "section": "opinion",
+    "published": "2026-09-25T20:03:00+00:00"
+  },
+  {
+    "url": "https://www.ft.com/content/bcf0715b-4292-428e-80ec-e6702d430aa4",
+    "title": "Soaring bond yields ‘not even close’ to cooling red-hot US economy, investors say",
+    "summary": "Rising borrowing costs so far show no sign of putting a brake on activity in world’s biggest economy",
+    "source": "FT",
+    "section": "markets",
+    "published": "2026-09-25T20:00:09+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/articles/oil-prices-fall-as-u-s-iran-diplomacy-and-regional-tensions-remain-in-focus-0a4887e8",
+    "title": "Oil Prices Fall as U.S.-Iran Diplomacy, Regional Tensions Remain in Focus",
+    "summary": "Oil prices declined Friday as investors assessed prospects for U.S.-Iran diplomacy aimed at reopening the Strait of Hormuz.",
+    "source": "WSJ",
+    "section": "world",
+    "published": "2026-09-25T19:58:00+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/business/retail/iran-war-is-driving-up-the-cost-of-your-next-oil-change-b254bfb1",
+    "title": "Iran War Is Driving Up the Cost of Your Next Oil Change",
+    "summary": "Higher gas prices were just the warm-up act for drivers, repair shops and retailers like Walmart and Costco.",
+    "source": "WSJ",
+    "section": "business",
+    "published": "2026-09-25T19:42:00+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/finance/commodities-futures/european-gas-prices-headed-for-5-weekly-loss-but-storage-concerns-remain-in-focus-518cf44c",
+    "title": "U.S. Natural-Gas Futures Settle Lower",
+    "summary": "U.S. natural-gas futures returned some of the previous session’s gains that were due to the outage on a pipeline in West Virginia operated by a unit of TC Energy.",
+    "source": "WSJ",
+    "section": "markets",
+    "published": "2026-09-25T19:37:00+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/us-news/new-jersey-lt-gov-dale-caldwell-resigns-after-probe-finds-misconduct-909f4679",
+    "title": "New Jersey Lt. Gov. Dale Caldwell Resigns After Probe Finds Misconduct",
+    "summary": "Gov. Mikie Sherrill asked him to step down when an independent investigation found he committed sexual harassment and ethical violations.",
+    "source": "WSJ",
+    "section": "us",
+    "published": "2026-09-25T19:35:00+00:00"
+  },
+  {
+    "url": "https://www.ft.com/content/1ca99235-f10f-4129-904c-1897e05fd1cc",
+    "title": "Blair’s think-tank offers political access to $25,000-a-year corporate members",
+    "summary": "BP, Uber and Amazon are among corporate members of the non-profit’s membership programme, the Global Network for Change",
+    "source": "FT",
+    "section": "world",
+    "published": "2026-09-25T19:00:09+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/finance/investing/blackstones-top-private-equity-executive-is-preparing-to-leave-firm-6d7057db",
+    "title": "Blackstone’s Top Private-Equity Executive Is Preparing to Leave Firm",
+    "summary": "Joseph Baratta would be the latest of several senior executives to leave private-investment giant.",
+    "source": "WSJ",
+    "section": "markets",
+    "published": "2026-09-25T18:52:00+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/business/media/what-is-the-white-house-press-pool-f831c619",
+    "title": "What Is the White House Press Pool?",
+    "summary": "President Trump’s effort to ban three news outlets from the White House escalated tensions between the president and the journalists who cover him.",
+    "source": "WSJ",
+    "section": "business",
+    "published": "2026-09-25T18:45:00+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/opinion/the-u-s-needs-to-defeat-irans-irgc-3e425998",
+    "title": "Opinion | The U.S. Needs to Defeat Iran’s IRGC",
+    "summary": "A terrorist group controls a government that is determined to acquire nuclear weapons.",
+    "source": "WSJ",
+    "section": "world",
+    "published": "2026-09-25T18:41:00+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/opinion/notable-quotable-mamdani-816216e6",
+    "title": "Opinion | Notable & Quotable: Mamdani",
+    "summary": "‘Mr. Mamdani, you try to stop me from coming here. . . . Well, you can’t silence me.’",
+    "source": "WSJ",
+    "section": "world",
+    "published": "2026-09-25T18:37:00+00:00"
+  },
+  {
+    "url": "https://www.ft.com/content/5e8f72a3-bd99-4dfc-8c6a-30deae88eec7",
+    "title": "Northern Ireland allows controversial Protestant parade for first time in 28 years",
+    "summary": "Plan to march along largely Catholic Garvaghy Road rekindles community tensions after three decades of peace",
+    "source": "FT",
+    "section": "world",
+    "published": "2026-09-25T18:25:42+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/finance/commodities-futures/gold-falls-amid-expectations-for-fed-rate-increase-368c44e9",
+    "title": "Gold Futures Settle Higher As Dollar Slips",
+    "summary": "Gold futures snapped a four-session losing streak as the U.S. dollar pulled back following four straight sessions of gains.",
+    "source": "WSJ",
+    "section": "markets",
+    "published": "2026-09-25T18:20:00+00:00"
+  },
+  {
+    "url": "https://www.ft.com/content/a1614884-7c8c-4320-bf61-4eaaa8f6960b",
+    "title": "Andy Burnham under pressure to signal shift on Labour’s EU ‘red lines’",
+    "summary": "Prime minister’s team taking soundings on whether party should move UK closer to Europe",
+    "source": "FT",
+    "section": "world",
+    "published": "2026-09-25T17:57:57+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/opinion/inside-ukraines-drone-mission-control-room-78bf4223",
+    "title": "Opinion | Inside Ukraine’s Drone Mission Control Room",
+    "summary": "Visit with the commander of the Unmanned Systems Forces, Robert ‘Magyar’ Brovdi. who has a warning for the U.S. and NATO.",
+    "source": "WSJ",
+    "section": "world",
+    "published": "2026-09-25T17:51:00+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/opinion/nikole-hannah-jones-and-the-price-of-equality-e89b312c",
+    "title": "Opinion | Nikole Hannah-Jones and the Price of ‘Equality’",
+    "summary": "She sacrificed her child’s education for a false ideal. I lost my job and many friends for a true one.",
+    "source": "WSJ",
+    "section": "business",
+    "published": "2026-09-25T17:50:00+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/politics/policy/trump-xi-dinner-who-was-there-1bbcec0b",
+    "title": "See the High-Profile Guests Who Attended the Trump-Xi Dinner",
+    "summary": "Billionaire business leaders and U.S. officials attended the White House festivities.",
+    "source": "WSJ",
+    "section": "world",
+    "published": "2026-09-25T17:42:00+00:00"
+  },
+  {
+    "url": "https://www.ft.com/content/c6ca50bf-d80f-496f-bfab-8c9e020a0575",
+    "title": "Europe Innovative Lawyers Awards 2026: the winners",
+    "summary": "Awards highlights include: restructuring, unlocking capital, digital strategy and pro bono. Plus the most innovative law firms and individuals",
+    "source": "FT",
+    "section": "companies",
+    "published": "2026-09-25T17:41:12+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/politics/national-security/u-s-appeals-court-upholds-pentagon-labeling-anthropic-a-security-risk-9d08c3af",
+    "title": "U.S. Appeals Court Upholds Pentagon Labeling Anthropic a Security Risk",
+    "summary": "Conflicting court rulings over the Pentagon dispute with Anthropic complicate the AI developer’s ties with Trump administration.",
+    "source": "WSJ",
+    "section": "us",
+    "published": "2026-09-25T17:40:00+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/video/fare-evasion-makes-the-subway-less-safe/82FCD173-27C8-461C-BAD0-641FAE5EEB6A",
+    "title": "Fare Evasion Makes the Subway Less Safe",
+    "summary": "Cracking down on fare evasion reduces crime on the subway significantly. If we want the subway to be safe and clean, farebeaters need to face consequences, says Emma Camp.",
+    "source": "WSJ",
+    "section": "opinion",
+    "published": "2026-09-25T17:18:00+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/world/middle-east/in-iran-talk-of-whether-to-build-a-nuclear-bomb-bursts-into-the-open-57704fd3",
+    "title": "In Iran, Talk of Whether to Build a Nuclear Bomb Bursts Into the Open",
+    "summary": "Iran’s top officials still say the country will forgo nuclear weapons, but they are warning that could change.",
+    "source": "WSJ",
+    "section": "world",
+    "published": "2026-09-25T17:13:00+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/video/anti-israel-protesters-high-on-enthusiasm-unclear-on-facts/FE0FC70C-EAD3-45CB-8D81-342499FCC2FC",
+    "title": "Anti-Israel Protesters: High on Enthusiasm, Unclear on Facts",
+    "summary": "Nearly 130 heads of state and government are in New York for the U.N. General Assembly. But one leader has drawn particular attention: Israeli Prime Minister Benjamin Netanyahu. Jack Butler spoke with protesters demonstrating against him.",
+    "source": "WSJ",
+    "section": "opinion",
+    "published": "2026-09-25T17:11:00+00:00"
+  },
+  {
+    "url": "https://www.ft.com/content/44ea845f-7048-4c98-b061-c9df7983af16",
+    "title": "Yields up",
+    "summary": "Higher real yields will need tighter monetary policy to keep inflation pressures down",
+    "source": "FT",
+    "section": "world",
+    "published": "2026-09-25T17:06:18+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/opinion/good-schools-are-built-on-effective-execution-6242bb1c",
+    "title": "Good Schools Are Built on Effective Execution",
+    "summary": "The next task for education reform isn’t merely identifying good schools but understanding what makes schools good.",
+    "source": "WSJ",
+    "section": "opinion",
+    "published": "2026-09-25T17:03:00+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/opinion/britains-giveaway-disguised-as-diplomacy-1950a3df",
+    "title": "Opinion | Britain’s Giveaway Disguised as Diplomacy",
+    "summary": "President Trump needs to take decisive action.",
+    "source": "WSJ",
+    "section": "world",
+    "published": "2026-09-25T17:02:00+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/opinion/have-republicans-abandoned-conservatism-f39dcaf1",
+    "title": "Have Republicans Abandoned Conservatism?",
+    "summary": "Those on the right running away from the president are true traditional conservatives, not the opposite.",
+    "source": "WSJ",
+    "section": "opinion",
+    "published": "2026-09-25T17:01:00+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/opinion/the-cost-of-israels-restraint-b309af1b",
+    "title": "The Cost of Israel’s Restraint",
+    "summary": "When the only nation whose self-defense is treated as a war crime is the Jewish one, there is no other explanation than antisemitism.",
+    "source": "WSJ",
+    "section": "opinion",
+    "published": "2026-09-25T17:01:00+00:00"
+  },
+  {
+    "url": "https://www.ft.com/content/4acbdc1f-d898-4966-b865-924470de0066",
+    "title": "Bond ructions point to new danger zone in markets",
+    "summary": "Sell-offs of this scale and speed have the potential to light fires in other parts of the financial system",
+    "source": "FT",
+    "section": "markets",
+    "published": "2026-09-25T17:00:09+00:00"
+  },
+  {
+    "url": "https://www.ft.com/content/8c6f0c32-01b8-4490-afd3-96254b567168",
+    "title": "Stockpickers: Mortgage Advice Bureau, Luceco, Next",
+    "summary": "Our experts discuss which companies to buy, sell or hold this week",
+    "source": "FT",
+    "section": "world",
+    "published": "2026-09-25T17:00:09+00:00"
+  },
+  {
+    "url": "https://www.ft.com/content/4deafc9c-981b-4fd8-9f74-da0e8fce9651",
+    "title": "Directors’ Deals: AstraZeneca’s Soriot in a major show of faith",
+    "summary": "Share price is down after a series of disappointing drug trials",
+    "source": "FT",
+    "section": "companies",
+    "published": "2026-09-25T17:00:09+00:00"
+  },
+  {
+    "url": "https://www.ft.com/content/4c3f75a2-c2f9-4ef7-9895-21daf5e92dfe",
+    "title": "OK, so where are all these data centres?",
+    "summary": "A construction shortfall so big you can’t see it from space",
+    "source": "FT",
+    "section": "alphaville",
+    "published": "2026-09-25T16:59:49+00:00"
+  },
+  {
+    "url": "https://www.ft.com/content/14aed3cb-492e-45c1-b217-869790b6130d",
+    "title": "Bitget crypto exchange hit by $390mn hack",
+    "summary": "Company said action was ‘highly consistent’ with methods of North Korean criminals",
+    "source": "FT",
+    "section": "markets",
+    "published": "2026-09-25T16:53:40+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/finance/investing/u-s-treasury-yields-stay-near-multiyear-highs-in-asian-trade-69ae3ed8",
+    "title": "Treasury Bond Yields Resume Their March Higher to End the Week",
+    "summary": "U.S. Treasury yields rose as new indications of economic resilience fuel forecasts for a prolonged cycle of interest rate increases.",
+    "source": "WSJ",
+    "section": "markets",
+    "published": "2026-09-25T16:53:00+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/opinion/build-ai-but-bet-carefully-97c66fd0",
+    "title": "Opinion | Build AI, But Bet Carefully",
+    "summary": "Rapid technological change is itself a reason to scrutinize long-term technology investments.",
+    "source": "WSJ",
+    "section": "whats-news",
+    "published": "2026-09-25T16:49:00+00:00"
+  },
+  {
+    "url": "https://www.ft.com/content/f9d5e0af-0106-4909-a854-7bd69cbb74ab",
+    "title": "What an AI maths breakthrough means for human discovery",
+    "summary": "In solving complex problems, process can be as important as the final result",
+    "source": "FT",
+    "section": "opinion",
+    "published": "2026-09-25T16:48:03+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/business/chemicals-giant-basf-moves-for-rival-evonik-6bdff9f5",
+    "title": "Chemicals Giant BASF Moves for Rival Evonik",
+    "summary": "The German company said it entered initial talks over a takeover of smaller peer Evonik, a tie-up that would bolster BASF’s dominant position in Europe’s chemicals industry.",
+    "source": "WSJ",
+    "section": "business",
+    "published": "2026-09-25T16:39:00+00:00"
+  },
+  {
+    "url": "https://www.ft.com/content/5c15c5a9-9529-41c4-ad76-8b702583df4f",
+    "title": "India police detain dozens of protesters against election commission",
+    "summary": "Opposition Congress and ‘Cockroach’ youth movement demand resignation of chief commissioner over mass removal of voters from electoral rolls",
+    "source": "FT",
+    "section": "world",
+    "published": "2026-09-25T16:29:41+00:00"
+  },
+  {
+    "url": "https://www.ft.com/content/469c3f85-ee58-41ed-8289-33866a72549a",
+    "title": "US Supreme Court lets Trump vet voters’ immigration status",
+    "summary": "Ruling boosts the president’s efforts to overhaul election rules before the midterms",
+    "source": "FT",
+    "section": "world",
+    "published": "2026-09-25T16:22:36+00:00"
+  },
+  {
+    "url": "https://www.ft.com/content/35a3a327-bb57-4070-942f-5988be564072",
+    "title": "BASF makes takeover approach for chemicals rival Evonik",
+    "summary": "Move would be significant step in consolidating Europe’s fragmented chemicals industry",
+    "source": "FT",
+    "section": "companies",
+    "published": "2026-09-25T16:22:18+00:00"
+  },
+  {
+    "url": "https://www.ft.com/content/08b4cf3d-3418-4159-b641-533fdb305d3e",
+    "title": "The case for talking to China is not a case for détente",
+    "summary": "Summits, like this week’s between Trump and Xi, are never cost-free",
+    "source": "FT",
+    "section": "world",
+    "published": "2026-09-25T16:21:06+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/politics/policy/supreme-court-says-trump-officials-can-use-immigration-database-for-voter-checks-c122a0fa",
+    "title": "The Supreme Court said the Trump administration could deploy a federal immigration database to check voters’ citizenship",
+    "summary": "The system could be used to scrub voter rolls and potentially challenge election results.",
+    "source": "WSJ",
+    "section": "politics",
+    "published": "2026-09-25T16:13:00+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/world/i-joined-agents-hunting-the-fast-boats-flooding-europe-with-cocaine-e28d242f",
+    "title": "I Joined Agents Hunting the Fast Boats Flooding Europe with Cocaine",
+    "summary": "Watch WSJ’s Sune Engel Rasmussen embed with Spanish authorities tackling the new wave of cocaine trafficked into Europe.",
+    "source": "WSJ",
+    "section": "world",
+    "published": "2026-09-25T16:06:00+00:00"
+  },
+  {
+    "url": "https://www.ft.com/content/0206443e-a4ca-4316-a583-267aa74b0298",
+    "title": "Burnham’s opposition to Heathrow expansion puts third runway in doubt",
+    "summary": "New prime minister has been a longstanding critic of the project",
+    "source": "FT",
+    "section": "world",
+    "published": "2026-09-25T16:02:50+00:00"
+  },
+  {
+    "url": "https://www.ft.com/content/2f820ff9-28c2-4e53-9948-6be009a8a23c",
+    "title": "Manchester City found guilty of breaching Premier League rules",
+    "summary": "Independent panel finds club guilty on 114 out of 115 charges after a lengthy investigation into financial rule breaches",
+    "source": "FT",
+    "section": "companies",
+    "published": "2026-09-25T16:02:39+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/tech/ai/dirty-work-goes-driverless-at-the-dump-c2e9516e",
+    "title": "Dirty Work Goes Driverless at the Dump",
+    "summary": "Plus, a world alliance racing to control AI, the tech elite’s alternative to college, and K-pop’s bet on bots.",
+    "source": "WSJ",
+    "section": "whats-news",
+    "published": "2026-09-25T15:55:00+00:00"
+  },
+  {
+    "url": "https://www.ft.com/content/db266f36-c6d3-4368-8633-290e2c35e54d",
+    "title": "Submit a question: What’s next for the global economy?",
+    "summary": "Economics leader writer Tej Parikh and European economics commentator Martin Sandbu will answer reader questions in a live Q&amp;A on Thursday October 1 at 1pm",
+    "source": "FT",
+    "section": "world",
+    "published": "2026-09-25T15:53:34+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/economy/week-ahead-for-fx-bonds-u-s-jobs-data-in-focus-as-another-fed-rate-hike-looks-possible-8593c44f",
+    "title": "Week Ahead for FX, Bonds: U.S. Jobs Data in Focus as Another Fed Rate Hike Looks Possible",
+    "summary": "Market participants will stay focused on the global bond selloff and fluctuations in energy prices as the Middle East conflict drives up economic costs across the region.",
+    "source": "WSJ",
+    "section": "economy",
+    "published": "2026-09-25T15:46:00+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/arts-culture/books/what-could-possibly-go-right-review-the-rise-of-a-restaurant-empire-b12feb60",
+    "title": "‘What Could Possibly Go Right?’ Review: The Rise of a Restaurant Empire",
+    "summary": "In the past 20 years, Danny Meyer has opened 27 restaurants and closed 10. He’s also launched more than 700 Shake Shacks in 24 countries.",
+    "source": "WSJ",
+    "section": "business",
+    "published": "2026-09-25T15:43:00+00:00"
+  },
+  {
+    "url": "https://www.economist.com/international/2026/09/25/the-war-room-newsletter-the-soviet-unions-greatest-war-reporter",
+    "title": "The War Room newsletter: The Soviet Union’s greatest war reporter",
+    "summary": "Oliver Jones, a news editor, explores the legacy of Vasily Grossman",
+    "source": "Economist",
+    "section": "international",
+    "published": "2026-09-25T15:41:04+00:00"
+  },
+  {
+    "url": "https://www.ft.com/content/7fbecb15-c396-49d2-8cab-1518809a7b2b",
+    "title": "Russia targets Ukraine’s data centres",
+    "summary": "Kyiv residents experience two days of internet disruptions, raising fears over access to banking and other online services",
+    "source": "FT",
+    "section": "world",
+    "published": "2026-09-25T15:19:38+00:00"
+  },
+  {
+    "url": "https://www.ft.com/content/e12c31a2-dec8-48b7-ae76-52bc7cb81109",
+    "title": "The delicate bargain of the British monarchy",
+    "summary": "A damaging book by Earl Spencer and the return of the Sussexes pose threats to the stability of the House of Windsor",
+    "source": "FT",
+    "section": "opinion",
+    "published": "2026-09-25T15:17:21+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/politics/elections/the-2026-races-that-could-determine-house-control-9500c90d",
+    "title": "The balance of power in the House is on the line in the 2026 elections. Here are the races that could determine House control.",
+    "summary": "The balance of power in the House is on the line in the 2026 elections.",
+    "source": "WSJ",
+    "section": "politics",
+    "published": "2026-09-25T15:16:00+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/pro/bankruptcy/florida-railroad-brightline-files-for-bankruptcy-to-cut-heavy-debt-burden-3f7e1c42",
+    "title": "Florida Railroad Brightline Files for Bankruptcy to Cut Heavy Debt Burden",
+    "summary": "Ridership at the Fortress Investment Group-backed railroad is growing, but still trails the levels needed to support its expansion.",
+    "source": "WSJ",
+    "section": "markets",
+    "published": "2026-09-25T15:12:00+00:00"
+  },
+  {
+    "url": "https://www.ft.com/content/df673db6-ffef-4c06-b2d1-b9b4f1e43869",
+    "title": "FTAV’s Friday chart quiz",
+    "summary": "Wanna be chartin’ somethin’",
+    "source": "FT",
+    "section": "alphaville",
+    "published": "2026-09-25T15:11:55+00:00"
+  },
+  {
+    "url": "https://www.ft.com/content/b002f3d7-1303-416b-aeab-d8bda1e40182",
+    "title": "France’s Goncourt literary prize pulls novel over AI concerns",
+    "summary": "Prix Goncourt judges say Haitian-Canadian author Thélyson Orélien ‘in all likelihood’ used artificial intelligence to write his book — a claim he denies",
+    "source": "FT",
+    "section": "technology",
+    "published": "2026-09-25T15:03:01+00:00"
+  },
+  {
+    "url": "https://www.ft.com/content/1cc67221-b54e-4ff9-a499-01209c7999d8",
+    "title": "Pope makes rare address at France’s Élysée Palace",
+    "summary": "Pontiff praises diversity as he visits European countries grappling with rise of far right",
+    "source": "FT",
+    "section": "europe",
+    "published": "2026-09-25T14:53:10+00:00"
+  },
+  {
+    "url": "https://www.ft.com/content/91684f96-6c7b-4b25-8486-d810d2088f9e",
+    "title": "Brussels pushes Trump to maintain ‘free flow’ of diesel",
+    "summary": "Bloc’s energy commissioner warns the continent is already facing its ‘worst winter’ for energy prices since 2022",
+    "source": "FT",
+    "section": "markets",
+    "published": "2026-09-25T14:29:48+00:00"
+  },
+  {
+    "url": "https://www.ft.com/content/c0cffdfc-ad4b-48dc-9894-c1e8492962c7",
+    "title": "The challenge for Burnham: words are no longer enough",
+    "summary": "His speech to Labour conference must paradoxically offer more than just a promise of action",
+    "source": "FT",
+    "section": "opinion",
+    "published": "2026-09-25T14:28:39+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/economy/consumers/consumer-sentiment-ticked-lower-in-september-5ad0b371",
+    "title": "Consumer Sentiment Ticked Lower in September",
+    "summary": "The University of Michigan survey’s headline index landed at 48.1 in September, down from 51.7 in August.",
+    "source": "WSJ",
+    "section": "economy",
+    "published": "2026-09-25T14:26:00+00:00"
+  },
+  {
+    "url": "https://www.ft.com/content/1ade33b1-b5eb-43bb-9ee4-2272ec91fa5b",
+    "title": "Bill Gates warns AI could cause ‘a billion deaths’",
+    "summary": "Microsoft billionaire calls for US government intervention after series of AI security incidents",
+    "source": "FT",
+    "section": "companies",
+    "published": "2026-09-25T14:24:11+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/tech/benjamin-rosen-wall-street-pcs-dead-c3600a73",
+    "title": "Benjamin Rosen, Who Persuaded Wall Street to Take PCs Seriously, Dies at 93",
+    "summary": "After bringing Apple to Morgan Stanley for its IPO, he financed Compaq and Lotus, and helped make PCs standard-issue in America’s homes and offices.",
+    "source": "WSJ",
+    "section": "whats-news",
+    "published": "2026-09-25T14:00:00+00:00"
+  },
+  {
+    "url": "https://www.ft.com/content/ad2f9563-7853-4a6a-b46c-fe6afeccbbc0",
+    "title": "Private equity-backed Florida railway Brightline files for bankruptcy",
+    "summary": "Orlando-to-Miami route seeking to popularise high-speed rail in US has filed for Chapter 11 to cut nearly $6bn in debt",
+    "source": "FT",
+    "section": "us",
+    "published": "2026-09-25T13:55:57+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/tech/ai/ai-is-a-regulators-nightmare-39d7fa7a",
+    "title": "AI Is a Regulator’s Nightmare",
+    "summary": "There is no template for a technology that is both immensely beneficial and deeply dangerous.",
+    "source": "WSJ",
+    "section": "whats-news",
+    "published": "2026-09-25T13:47:00+00:00"
+  },
+  {
+    "url": "https://www.ft.com/content/07a246f8-d81d-4b43-9aa3-16153fc0fac9",
+    "title": "Lawyers join microchips on the list of data centre must-haves",
+    "summary": "The Oracle dispute suggests there is another risk investors may have overlooked",
+    "source": "FT",
+    "section": "us",
+    "published": "2026-09-25T13:46:21+00:00"
+  },
+  {
+    "url": "https://www.ft.com/content/6f6c698a-e1eb-4ce0-b4b0-6c54cdd67850",
+    "title": "Airbus offers divestments to secure Brussels backing for space merger",
+    "summary": "European aerospace group is seeking to allay competition concerns over deal with Leonardo and Thales",
+    "source": "FT",
+    "section": "europe",
+    "published": "2026-09-25T13:24:06+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/economy/durable-goods-orders-were-unchanged-in-august-a75bce16",
+    "title": "Durable Goods Orders Were Unchanged in August",
+    "summary": "Demand for U.S. durable goods was unchanged in August, according to Commerce Department data. Economists expected a decrease of 0.3%.",
+    "source": "WSJ",
+    "section": "economy",
+    "published": "2026-09-25T13:03:00+00:00"
+  },
+  {
+    "url": "https://www.ft.com/content/7c43f989-6902-4979-b36b-a6211930f4ce",
+    "title": "Trump is not going to drop Canada",
+    "summary": "But Carney is right to act as though his country is at war with its neighbour",
+    "source": "FT",
+    "section": "us",
+    "published": "2026-09-25T13:00:07+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/cio-journal/ai-revs-the-economic-engine-3d46b683",
+    "title": "AI Revs the Economic Engine",
+    "summary": "Plus, the U.N. debates on who gets a say on AI.",
+    "source": "WSJ",
+    "section": "whats-news",
+    "published": "2026-09-25T12:53:00+00:00"
+  },
+  {
+    "url": "https://www.ft.com/content/d5c23b98-cdef-4e86-94f2-e3ea41e5ee69",
+    "title": "At Milan Fashion Week, Prada skirts the issue while Vogue World offers robots",
+    "summary": "Plus Glenn Martens’ Diesel swansong, Meryll Rogge makes her mark at Marni and a glass-encased runway at Fendi after Peta protests in New York and London",
+    "source": "FT",
+    "section": "europe",
+    "published": "2026-09-25T12:41:45+00:00"
+  },
+  {
+    "url": "https://www.ft.com/content/8f1030c3-9ad0-45b2-86bf-71d8dec27be4",
+    "title": "Former US spymaster Avril Haines: a third world war is ‘plausible’",
+    "summary": "The security expert on the chances of a Trump-Xi deal on Taiwan, her interactions with President Biden — and why a third world war is a ‘plausible scenario’",
+    "source": "FT",
+    "section": "us",
+    "published": "2026-09-25T12:00:26+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/business/health-care-roundup-market-talk-8a3e8bd6",
+    "title": "Health Care Roundup: Market Talk",
+    "summary": "Find insight on Novartis, UCB and more in the latest Market Talks covering Health Care.",
+    "source": "WSJ",
+    "section": "whats-news",
+    "published": "2026-09-25T12:00:00+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/world/europe/arcelormittal-says-it-cant-restart-ukrainian-operations-after-missile-strikes-462821fa",
+    "title": "ArcelorMittal Drops Plan to Restart Ukrainian Operations After Missile Strikes",
+    "summary": "The steelmaker said it isn’t able to safely restart operations at its Ukrainian subsidiary after missile attacks killed five people and injured 17 employees.",
+    "source": "WSJ",
+    "section": "world",
+    "published": "2026-09-25T11:39:00+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-irans-secret-weapon-is-help-from-china-4f8d4478",
+    "title": "The Morning Risk Report: Iran’s Secret Weapon Is Help From China",
+    "summary": "Plus: Kalshi’s embrace of sports betting tests rules for prediction markets, and OpenAI agents tried to hack four more websites while seeking data.",
+    "source": "WSJ",
+    "section": "world",
+    "published": "2026-09-25T11:25:00+00:00"
+  },
+  {
+    "url": "https://www.ft.com/content/702d053a-0100-4160-9996-0b5d8502d512",
+    "title": "ICC is insulated against US sanctions, says deputy prosecutor",
+    "summary": "Tribunal has overhauled systems to withstand potential new measures from Trump administration",
+    "source": "FT",
+    "section": "us",
+    "published": "2026-09-25T11:17:07+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/cfo-journal/trumps-summit-with-xi-three-things-business-leaders-should-watch-b8fc78d0",
+    "title": "Trump’s Summit With Xi: Three Things Business Leaders Should Watch",
+    "summary": "Greg Ip’s take on the China-U.S. relationship.",
+    "source": "WSJ",
+    "section": "business",
+    "published": "2026-09-25T11:15:00+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/politics/trump-xi-summit-gives-china-something-money-could-never-buy-eaa76eee",
+    "title": "Chinese flags are waving everywhere in Washington this week. Will the Trump-driven flattery campaign make any difference in U.S.-China relations? Read more in today’s WSJ Politics Newsletter:",
+    "summary": "Plus, the U.S. government paid for a pro-Trump TV ad, and the White House restored access to reporters from CNN, MS NOW and Politico.",
+    "source": "WSJ",
+    "section": "politics",
+    "published": "2026-09-25T11:01:00+00:00"
+  },
+  {
+    "url": "https://www.ft.com/content/db491595-a093-4e7d-9cd2-a41ad42f122c",
+    "title": "Julia Jacklin only gets better with rewarding album The Gem",
+    "summary": "The Australian indie-rock singer-songwriter has a more dreamlike approach to her melodic introspection on her latest release",
+    "source": "FT",
+    "section": "asia-pacific",
+    "published": "2026-09-25T11:00:08+00:00"
+  },
+  {
+    "url": "https://www.ft.com/content/4b5a6fe3-8aff-44ac-b5ac-09e75eacdda8",
+    "title": "Gilla Band demand complete attention with sardonic and triumphantly overloaded Pugnello",
+    "summary": "The Dublin band have inspired artists like Fontaines DC, but have so far generated less attention than those they’ve influenced. This new release might change things",
+    "source": "FT",
+    "section": "europe",
+    "published": "2026-09-25T11:00:08+00:00"
+  },
+  {
+    "url": "https://www.ft.com/content/c1a78fa4-572d-421c-ade5-e8ab8789275e",
+    "title": "How to give your garden the ‘wow’ factor",
+    "summary": "A new book inspires with showstoppers from roses and irises to ornamental grasses and coniferous trees",
+    "source": "FT",
+    "section": "opinion",
+    "published": "2026-09-25T11:00:08+00:00"
+  },
+  {
+    "url": "https://www.ft.com/content/87651f1b-8b9f-4346-aca6-c055f1546f93",
+    "title": "The world’s 80mn-kilometre power grid problem",
+    "summary": "Huge rise in infrastructure investment needed to meet energy access and climate goals, UN says",
+    "source": "FT",
+    "section": "companies",
+    "published": "2026-09-25T11:00:08+00:00"
+  },
+  {
+    "url": "https://www.ft.com/content/289ee7fe-8c1d-4607-b70b-a2ccc7308d12",
+    "title": "Rebuilding LA, the Eames way",
+    "summary": "The 1949 house designed by Charles and Ray Eames is the inspiration for a new generation of prefab homes replacing those destroyed in last year’s wildfires",
+    "source": "FT",
+    "section": "companies",
+    "published": "2026-09-25T11:00:08+00:00"
+  }
+]
