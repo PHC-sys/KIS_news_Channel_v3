@@ -4,149 +4,33 @@
 
 ✅ <b>간밤의 주요 헤드라인</b>
 
-<b>1. 美 국채 매도세에 장기물 금리 2004년 이후 최고...경제 과열 논란 재점화</b>
-<blockquote>미국 국채 시장에서 매도세가 거세지며 10년물 수익률이 2004년 이후 최고 수준으로 치솟았다. 투자자들은 주말을 앞두고 리스크 자산 보유를 꺼리는 모습이다. 이번 주 채권 시장은 2024년 이후 최악의 낙폭을 기록했다.
-<a href="https://www.ft.com/content/c5af4151-2c14-481b-8145-f5ec1f43a3f4">[FT]</a></blockquote>
+<b>1. 미중, 양방향 300억 달러 관세 감축 합의...AI 대화 채널 신설</b>
+<blockquote>미국과 중국이 양측 각각 300억 달러 규모의 덜 민감한 품목에 대한 관세를 줄이고 AI 협력 대화 채널을 개설하기로 합의했다. Trump 대통령과 Xi Jinping 주석의 정상회담 후속 조치로, 무역전쟁 완화를 위한 첫 단계로 평가된다.
+<a href="https://www.wsj.com/world/china/u-s-china-agree-to-reduce-tariffs-on-30-billion-of-trade-fd798758">[WSJ]</a></blockquote>
 
-<b>2. 치솟는 국채 수익률에도 美 경기 냉각 신호 없어...연준 추가 인상 가능성</b>
-<blockquote>투자자들은 급등한 차입 비용이 미국 경제에 제동을 걸 조짐이 보이지 않는다고 지적했다. 경제 과열과 재정 우려가 지속되면서 장기 금리 상승세가 이어지고 있다.
-<a href="https://www.ft.com/content/bcf0715b-4292-428e-80ec-e6702d430aa4">[FT]</a></blockquote>
+<b>2. Trump-Xi 회담, 무역 긴장 해소 실패...추가 정상회담 2회 예정</b>
+<blockquote>미중 정상회담이 양국 간 무역 갈등을 해소하는 데 실질적 돌파구를 마련하지 못한 것으로 나타났다. 관측통들은 양국이 원활한 소통을 유지했지만 근본적인 무역 대치 상황에선 진전이 없었다고 평가했으며, 추가 정상회담 2회가 예정돼 있다.
+<a href="https://www.ft.com/content/bd99d372-d3d1-4972-a3fe-1bed8f71e14c">[FT]</a></blockquote>
 
-<b>3. 美 국채 금리 상승 지속...경기 회복 지표에 인상 사이클 장기화 전망</b>
-<blockquote>미국 국채 수익률이 경제 회복 신호에 힘입어 다년 만의 고점 부근에서 상승세를 이어갔다. 금리 인상 사이클이 장기화될 것이란 전망이 힘을 얻고 있다.
-<a href="https://www.wsj.com/finance/investing/u-s-treasury-yields-stay-near-multiyear-highs-in-asian-trade-69ae3ed8">[WSJ]</a></blockquote>
+<b>3. 미국 농촌 유권자, GOP 이탈 조짐...관세·에너지 비용 불만 확산</b>
+<blockquote>중간선거를 한 달여 앞두고 미국 농촌 지역에서 공화당 지지율이 수십 년 만에 최악 수준으로 떨어졌다. 관세와 수입 쇠고기 문제, 가솔린·디젤·비료 가격 상승이 농민들의 불만을 키우며 전통적 공화당 텃밭에서 이탈 움직임이 나타나고 있다.
+<a href="https://www.wsj.com/politics/elections/americas-farmers-are-rethinking-their-loyalty-to-the-gop-af5c85fe">[WSJ]</a></blockquote>
 
-<b>4. 美 소비자심리 9월 하락...장기 금리 급등에 경기 둔화 우려</b>
-<blockquote>미시간대 소비자심리지수가 9월 48.1로 전월 51.7에서 하락했다. 국채 금리 급등이 소비 심리에 부담을 주고 있다.
-<a href="https://www.wsj.com/economy/consumers/consumer-sentiment-ticked-lower-in-september-5ad0b371">[WSJ]</a></blockquote>
+<b>4. Trump, 이란 호르무즈 해협 재개방 제안 거부...7개월 분쟁 지속</b>
+<blockquote>Trump 대통령이 이란의 일주일 휴전 제안을 거부하면서 호르무즈 해협 봉쇄 사태가 장기화될 전망이다. 이란은 평화협상 재개를 위한 전제로 일주일간 해협을 재개방하겠다고 제안했으나, 7개월째 이어진 분쟁 종식의 실마리는 보이지 않는다.
+<a href="https://www.ft.com/content/4d71acf8-dda7-475e-88c5-5351f0176558">[FT]</a></blockquote>
 
-<b>5. 美 내구재 주문 8월 보합...시장 예상 하회하며 제조업 부진 지속</b>
-<blockquote>8월 미국 내구재 주문이 전월 대비 보합을 기록했다. 시장은 0.3% 감소를 예상했다. 제조업 수요 회복이 지연되는 모습이다.
-<a href="https://www.wsj.com/economy/durable-goods-orders-were-unchanged-in-august-a75bce16">[WSJ]</a></blockquote>
+<b>5. 에너지 비용·AI 전력 수요가 뉴욕 기후회담 주도...배출 감축 논의 밀려나</b>
+<blockquote>뉴욕에서 열린 기후회담에서 에너지 시장 혼란과 AI 전력 수요가 핵심 의제로 부상했다. 과거 배출량 감축에 집중했던 논의가 글로벌 에너지 공급망 재편과 AI 인프라 전력 확보 문제로 옮겨가며 기후 대응 전략의 우선순위가 재조정되고 있다.
+<a href="https://www.ft.com/content/8edbe5e7-19c6-44b9-9ada-16257f014a62">[FT]</a></blockquote>
 
-<b>6. WSJ 달러지수 주간 0.63% 상승 96.70 마감...금리 인상 기대 반영</b>
-<blockquote>WSJ 달러지수가 금요일 0.3% 하락했지만 주간 기준으로는 0.63% 올라 96.70에 거래를 마쳤다. 연준의 추가 금리 인상 기대가 달러 강세를 뒷받침했다.
-<a href="https://www.wsj.com/finance/currencies/asian-currencies-consolidate-as-treasury-yields-hit-new-highs-50a63fb4">[WSJ]</a></blockquote>
+<b>6. 독일·러시아 외교장관 4년 만에 회담...우크라이나 긴장 완화 모색</b>
+<blockquote>독일 외교장관 Johann Wadephul이 러시아 외교장관 Sergei Lavrov와 4년여 만에 만나 '강도 높은 대화'를 나눴다. Wadephul은 드론 침입 경고와 우크라이나 사태 긴장 완화를 촉구했으며, 유럽 내 러시아 외교 채널 재개 가능성이 주목된다.
+<a href="https://www.ft.com/content/ec92933f-7147-410e-8ade-ab09add476a7">[FT]</a></blockquote>
 
-<b>7. 美 증시 변동성 속 주간 상승 마감...금리·유가 급변에 혼조세</b>
-<blockquote>미국 증시가 금리 상승과 유가 변동성 속에서도 주간 상승세로 마감했다. 다우지수는 3거래일 연속 하락에서 벗어나 반등에 성공했다.
-<a href="https://www.wsj.com/finance/stocks/stocks-rise-to-cap-week-of-increasing-yields-volatile-oil-prices-de1cba89">[WSJ]</a></blockquote>
-
-<b>8. 국채 금리 후퇴에 증시 반등...호르무즈 협상 기대로 유가 하락</b>
-<blockquote>미국 증시가 국채 금리 상승세 일시 완화와 유가 하락에 힘입어 변동성 심한 한 주를 상승세로 마무리했다. 미국·이란 간 호르무즈 해협 재개 협상 기대가 유가 하락을 이끌었다.
-<a href="https://www.wsj.com/finance/stocks/u-s-stocks-rise-to-end-volatile-week-c8b2dc82">[WSJ]</a></blockquote>
-
-<b>9. 금 선물 4거래일 만에 반등...달러 약세 전환에 매수세</b>
-<blockquote>금 선물이 4거래일 연속 하락을 멈추고 반등했다. 미국 달러가 4일 연속 상승 후 약세로 돌아서며 금 가격을 끌어올렸다.
-<a href="https://www.wsj.com/finance/commodities-futures/gold-falls-amid-expectations-for-fed-rate-increase-368c44e9">[WSJ]</a></blockquote>
-
-<b>10. 이란, 미국에 7일 휴전 제안...호르무즈 해협 일주일 내 재개 가능성</b>
-<blockquote>이란 외무장관이 미국에 새로운 7일 휴전안을 제시했다. 이란 측은 합의 시 호르무즈 해협이 일주일 내 재개될 수 있다고 밝혔다.
-<a href="https://www.ft.com/content/917a9cba-6afd-4ba3-8742-2b7601ecc2ba">[FT]</a></blockquote>
-
-<b>11. 후티 반군, 유럽 선박 불공격 약속...밥 알-만데브 해협 운항량 3년 만에 최고</b>
-<blockquote>예멘 후티 반군이 유럽 선박을 공격하지 않겠다고 약속했다. 밥 알-만데브 해협을 통과하는 컨테이너 운송량이 거의 3년 만에 최고 수준에 도달했다.
-<a href="https://www.ft.com/content/a255d9e6-ae6f-4b30-9ca6-b694663f547c">[FT]</a></blockquote>
-
-<b>12. 유가 혼조세 마감...호르무즈 외교 진전 기대 속 변동성 지속</b>
-<blockquote>원유 선물이 호르무즈 해협 재개를 위한 외교 노력의 돌파구 가능성을 주시하며 혼조세로 변동성 큰 한 주를 마감했다. 브렌트유는 하락 마감했다.
-<a href="https://www.wsj.com/finance/commodities-futures/oil-pulls-back-as-cautious-hopes-compete-with-escalation-d3308b21">[WSJ]</a></blockquote>
-
-<b>13. 유가 하락세...美·이란 호르무즈 외교 진전 관측 부상</b>
-<blockquote>금요일 유가가 하락했다. 투자자들은 호르무즈 해협 재개를 목표로 한 미국·이란 외교 협상의 진전 가능성을 평가하고 있다.
-<a href="https://www.wsj.com/articles/oil-prices-fall-as-u-s-iran-diplomacy-and-regional-tensions-remain-in-focus-0a4887e8">[WSJ]</a></blockquote>
-
-<b>14. 이란 전쟁에 엔진오일 가격까지 급등...월마트·코스트코도 타격</b>
-<blockquote>이란 전쟁 여파로 휘발유 가격 급등은 시작에 불과했다. 운전자, 정비소, 월마트·코스트코 같은 소매업체까지 유류 교환 비용 상승에 직면하고 있다.
-<a href="https://www.wsj.com/business/retail/iran-war-is-driving-up-the-cost-of-your-next-oil-change-b254bfb1">[WSJ]</a></blockquote>
-
-<b>15. 美 천연가스 선물 하락...파이프라인 가동 중단 우려 완화</b>
-<blockquote>미국 천연가스 선물이 하락 마감했다. TC Energy 자회사 운영 웨스트버지니아 파이프라인 가동 중단으로 전날 급등했던 가격이 일부 반납됐다.
-<a href="https://www.wsj.com/finance/commodities-futures/european-gas-prices-headed-for-5-weekly-loss-but-storage-concerns-remain-in-focus-518cf44c">[WSJ]</a></blockquote>
-
-<b>16. EU 집행위, 트럼프에 디젤 공급 유지 촉구...에너지 가격 2022년 이후 최악</b>
-<blockquote>유럽연합 에너지 집행위원이 트럼프 대통령에 디젤 공급의 '자유로운 흐름' 유지를 요청했다. EU는 이미 2022년 이후 최악의 에너지 가격 상황에 직면해 있다.
-<a href="https://www.ft.com/content/91684f96-6c7b-4b25-8486-d810d2088f9e">[FT]</a></blockquote>
-
-<b>17. 이란, 핵무기 개발 논의 공개...최고위층서 보유 필요성 언급</b>
-<blockquote>이란 최고위 관리들 사이에서 핵무기 개발 여부를 둘러싼 논의가 공개적으로 이뤄지고 있다. 이란 정부는 여전히 핵무기를 보유하지 않겠다는 입장이지만 상황이 바뀔 수 있다고 경고했다.
-<a href="https://www.wsj.com/world/middle-east/in-iran-talk-of-whether-to-build-a-nuclear-bomb-bursts-into-the-open-57704fd3">[WSJ]</a></blockquote>
-
-<b>18. 트럼프-시진핑 정상회담, 실질 성과 없이 종료...대만·무역 갈등 지속</b>
-<blockquote>Donald Trump와 Xi Jinping의 정상회담이 무역 휴전 연장 외에 뚜렷한 성과 없이 끝났다. 베이징은 대만 문제에 대한 미국의 입장 변화를 압박했지만 진전은 없었다.
-<a href="https://www.wsj.com/podcasts/opinion-potomac-watch/wrapping-up-the-trump-xi-summit-the-president-vs-the-white-house-press-corps/93400158-7BDA-499C-9250-5CC141858DC2">[WSJ]</a></blockquote>
-
-<b>19. 트럼프-시 회담, 분열과 협상 실패로 얼룩...국빈만찬 이면의 갈등</b>
-<blockquote>백악관 밖에서 시위대의 야유를 받은 Xi Jinping은 백악관 국빈만찬에 참석해 30~40명의 하객과 사진을 찍었다. 하지만 깊은 이견과 협상 결렬로 회담의 실질적 성과는 미미했다.
-<a href="https://www.wsj.com/world/china/deep-divides-and-missed-deals-cloud-trump-xi-visit-630122b0">[WSJ]</a></blockquote>
-
-<b>20. 美·中 정상 의전에 치중하며 위기 대응 실기...세계 최대 위협 방치</b>
-<blockquote>Donald Trump와 Xi Jinping이 의전 행사에 몰두하는 동안 세계의 가장 심각한 위협들을 다룰 기회를 놓쳤다. 실질적 위기 해결보다 외교적 과시에 집중했다는 비판이 나온다.
-<a href="https://www.economist.com/international/2026/09/25/america-and-chinas-leaders-indulge-in-pageantry-as-crises-mount">[Economist]</a></blockquote>
-
-<b>21. 중국 판다 외교, 美서 영향력 상실...낡은 외교 수단 한계 노출</b>
-<blockquote>명확한 성과 없이 끝난 정상회담에서 판다 대여는 중국 외교의 이전 시대를 상기시키는 상징이 됐다. 판다 외교가 미국에서 더 이상 실효성을 발휘하지 못하고 있다.
-<a href="https://www.wsj.com/world/china/chinas-panda-diplomacy-is-losing-its-clout-with-the-u-s-f608c14c">[WSJ]</a></blockquote>
-
-<b>22. 러시아 Putin, G-20 초청받아...NATO 긴장 고조 예고</b>
-<blockquote>트럼프 대통령이 Putin을 플로리다 G-20 정상회의에 초청했다. 러시아의 하이브리드 전쟁이 계속되는 가운데 나온 결정으로 NATO와의 긴장이 고조될 전망이다.
-<a href="https://www.wsj.com/opinion/donald-trump-vladimir-putin-g-20-russia-nato-a60c1d4b">[WSJ]</a></blockquote>
-
-<b>23. 前 美 정보국장 "3차 세계대전 가능성 현실적"...트럼프-시 대만 합의 회의론</b>
-<blockquote>전 미국 국가정보국장 Avril Haines가 제3차 세계대전 발발 가능성을 '현실적 시나리오'로 평가했다. 트럼프-시진핑 간 대만 문제 합의 가능성과 Biden 대통령과의 교류 등을 논했다.
-<a href="https://www.ft.com/content/8f1030c3-9ad0-45b2-86bf-71d8dec27be4">[FT]</a></blockquote>
-
-<b>24. 러시아, 우크라이나 데이터센터 집중 공격...인터넷 차단에 금융 마비 우려</b>
-<blockquote>러시아가 우크라이나의 데이터센터를 표적 공격하면서 키이우 주민들이 이틀간 인터넷 장애를 겪었다. 은행 서비스 등 온라인 접속 차단에 대한 우려가 커지고 있다.
-<a href="https://www.ft.com/content/7fbecb15-c396-49d2-8cab-1518809a7b2b">[FT]</a></blockquote>
-
-<b>25. ArcelorMittal, 우크라이나 공장 재가동 포기...미사일 공격에 5명 사망</b>
-<blockquote>철강 대기업 ArcelorMittal이 미사일 공격으로 직원 5명이 사망하고 17명이 부상당한 후 우크라이나 자회사 재가동 계획을 철회했다. 안전한 운영이 불가능하다고 판단했다.
-<a href="https://www.wsj.com/world/europe/arcelormittal-says-it-cant-restart-ukrainian-operations-after-missile-strikes-462821fa">[WSJ]</a></blockquote>
-
-<b>26. ICC, 美 제재에 대비해 시스템 개편...트럼프 행정부 압박 견뎌낼 준비</b>
-<blockquote>국제형사재판소(ICC) 부검사가 재판소가 미국의 제재로부터 보호받을 수 있다고 밝혔다. 트럼프 행정부의 잠재적 새 제재 조치를 견뎌낼 수 있도록 시스템을 전면 개편했다.
-<a href="https://www.ft.com/content/702d053a-0100-4160-9996-0b5d8502d512">[FT]</a></blockquote>
-
-<b>27. 베네수엘라 국영 석유사, 펜타곤 지원으로 Chevron 도전...美 메이저와 갈등</b>
-<blockquote>미국 국방부가 지원하는 베네수엘라 석유 기업이 Chevron의 베네수엘라 시장 지배력에 도전장을 내밀 준비를 하고 있다. 미국 최대 석유 기업들의 경영진은 이에 불만을 표시했다.
-<a href="https://www.wsj.com/business/energy-oil/pentagon-backed-oil-company-is-set-to-vie-for-chevrons-crown-in-venezuela-f8e4300a">[WSJ]</a></blockquote>
-
-<b>28. BASF, 독일 화학업체 Evonik 인수 협상 착수...유럽 화학 업계 통합 가속</b>
-<blockquote>독일 화학 대기업 BASF가 소규모 경쟁사 Evonik과 인수 합병 초기 협상에 들어갔다고 밝혔다. 통합이 성사되면 유럽 화학 산업에서 BASF의 지배적 지위가 더욱 강화될 전망이다.
-<a href="https://www.wsj.com/business/chemicals-giant-basf-moves-for-rival-evonik-6bdff9f5">[WSJ]</a></blockquote>
-
-<b>29. BASF, Evonik 인수 제안...유럽 화학산업 통합 본격화</b>
-<blockquote>BASF가 화학업체 Evonik에 인수 제안을 했다. 분산된 유럽 화학 산업 통합의 중요한 단계가 될 것으로 보인다.
-<a href="https://www.ft.com/content/35a3a327-bb57-4070-942f-5988be564072">[FT]</a></blockquote>
-
-<b>30. Brightline 철도, 파산 신청...부채 부담 축소 위해 챕터11 진입</b>
-<blockquote>Fortress Investment Group이 지원하는 플로리다 철도 Brightline이 과중한 부채 부담을 줄이기 위해 파산 신청을 했다. 승객 수는 증가하고 있지만 확장 계획을 뒷받침하기엔 여전히 부족한 수준이다.
-<a href="https://www.wsj.com/pro/bankruptcy/florida-railroad-brightline-files-for-bankruptcy-to-cut-heavy-debt-burden-3f7e1c42">[WSJ]</a></blockquote>
-
-<b>31. 플로리다 고속철 Brightline, 파산 보호 신청...$6bn 부채 감축 목표</b>
-<blockquote>사모펀드 지원을 받는 플로리다 올랜도-마이애미 노선 Brightline이 약 60억 달러의 부채를 줄이기 위해 챕터11 파산보호를 신청했다. 미국 고속철 대중화를 시도해 온 사업이다.
-<a href="https://www.ft.com/content/ad2f9563-7853-4a6a-b46c-fe6afeccbbc0">[FT]</a></blockquote>
-
-<b>32. 암호화폐 거래소 Bitget, $390mn 해킹 피해...북한 연루 의심</b>
-<blockquote>암호화폐 거래소 Bitget이 3억9000만 달러 규모의 해킹 공격을 받았다. 회사 측은 공격 방식이 북한 범죄 조직의 수법과 '매우 일치'한다고 밝혔다.
-<a href="https://www.ft.com/content/14aed3cb-492e-45c1-b217-869790b6130d">[FT]</a></blockquote>
-
-<b>33. 美 대법원, 트럼프 행정부의 유권자 신원 확인 허용...이민 데이터베이스 활용</b>
-<blockquote>미국 대법원이 트럼프 행정부가 연방 이민 데이터베이스를 사용해 유권자 시민권을 확인할 수 있도록 허용했다. 중간선거를 앞두고 선거 규칙 개편 노력에 힘을 실었다.
-<a href="https://www.ft.com/content/469c3f85-ee58-41ed-8289-33866a72549a">[FT]</a></blockquote>
-
-<b>34. 대법원, 트럼프 정부의 유권자 시민권 확인 데이터베이스 사용 승인</b>
-<blockquote>연방대법원이 트럼프 행정부의 이민 데이터베이스를 유권자 시민권 확인에 활용하는 것을 허용했다. 이 시스템은 유권자 명부 정리와 선거 결과 이의 제기에 활용될 수 있다.
-<a href="https://www.wsj.com/politics/policy/supreme-court-says-trump-officials-can-use-immigration-database-for-voter-checks-c122a0fa">[WSJ]</a></blockquote>
-
-<b>35. 美 연방법원, 국방부의 Anthropic '안보 위협' 판정 지지</b>
-<blockquote>미국 연방항소법원이 국방부가 AI 개발사 Anthropic을 안보 위협으로 지정한 결정을 지지했다. 상충되는 법원 판결들이 Anthropic과 트럼프 행정부 간 관계를 복잡하게 만들고 있다.
-<a href="https://www.wsj.com/politics/national-security/u-s-appeals-court-upholds-pentagon-labeling-anthropic-a-security-risk-9d08c3af">[WSJ]</a></blockquote>
-
-<b>36. UN 보고서 "에너지 전환에 8000만km 전력망 투자 시급"...기후 목표 달성 관건</b>
-<blockquote>유엔이 에너지 접근성과 기후 목표 달성을 위해 전 세계 8000만 킬로미터에 달하는 전력망 인프라 투자가 대폭 늘어나야 한다고 밝혔다.
-<a href="https://www.ft.com/content/87651f1b-8b9f-4346-aca6-c055f1546f93">[FT]</a></blockquote>
+<b>7. 영국, Help to Buy 주택 부양책 부활...성장 둔화 우려 반영</b>
+<blockquote>영국 정부가 주택 구입 지원 제도 Help to Buy를 재개하며 첫 주택 구매자 지원에 나선다. 장관들 사이에서 낮은 주택 건설 물량이 성장 전망치를 위협할 수 있다는 우려가 커지면서 부양 정책 부활이 결정됐다.
+<a href="https://www.ft.com/content/e23be690-2cc2-4847-aed7-ceda7f94c1c0">[FT]</a></blockquote>
 
 ━━━━━━━━━━━━━━━━━━━━
 📡 <b>출처: WSJ · FT · The Economist</b>
