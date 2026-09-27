@@ -4,33 +4,45 @@
 
 ✅ <b>간밤의 주요 헤드라인</b>
 
-<b>1. 미중, 양방향 300억 달러 관세 감축 합의...AI 대화 채널 신설</b>
-<blockquote>미국과 중국이 양측 각각 300억 달러 규모의 덜 민감한 품목에 대한 관세를 줄이고 AI 협력 대화 채널을 개설하기로 합의했다. Trump 대통령과 Xi Jinping 주석의 정상회담 후속 조치로, 무역전쟁 완화를 위한 첫 단계로 평가된다.
-<a href="https://www.wsj.com/world/china/u-s-china-agree-to-reduce-tariffs-on-30-billion-of-trade-fd798758">[WSJ]</a></blockquote>
+<b>1. 이란, 핵양보 압박 받으며 평화협상 재개 시도...트럼프 7일 휴전 거부 후 중재안</b>
+<blockquote>중재국들이 이란에 핵 양보를 조건으로 미국과 평화협상 재개를 압박하고 있다. Trump 대통령이 7일 휴전안을 거부한 후 전면전 회피를 위한 장기적 시도로 평가된다. 중재안은 성사 가능성이 낮은 것으로 전해졌다.
+<a href="https://www.wsj.com/world/middle-east/iran-pressed-to-make-nuclear-concessions-to-revive-peace-talks-with-u-s-80016aff">[WSJ]</a></blockquote>
 
-<b>2. Trump-Xi 회담, 무역 긴장 해소 실패...추가 정상회담 2회 예정</b>
-<blockquote>미중 정상회담이 양국 간 무역 갈등을 해소하는 데 실질적 돌파구를 마련하지 못한 것으로 나타났다. 관측통들은 양국이 원활한 소통을 유지했지만 근본적인 무역 대치 상황에선 진전이 없었다고 평가했으며, 추가 정상회담 2회가 예정돼 있다.
-<a href="https://www.ft.com/content/bd99d372-d3d1-4972-a3fe-1bed8f71e14c">[FT]</a></blockquote>
+<b>2. 영국, RAF Fairford 인근 테러 미수 사건으로 5명 체포...이란 보복 가능성 조사</b>
+<blockquote>영국 경찰이 미군 이란 공습 출격 기지인 RAF Fairford 인근에서 테러 용의자 5명을 체포했다. Trump 대통령은 미국과 영국이 공동으로 공격을 차단했다고 밝혔다. 이란은 영국에 결과를 감수하라고 경고한 바 있다.
+<a href="https://www.wsj.com/world/uk/u-k-arrests-five-in-suspected-terrorist-plot-near-air-base-used-by-u-s-28d8a97a">[WSJ]</a> <a href="https://www.ft.com/content/875027a3-db29-40a6-b17c-fa97c30fd07b">[FT]</a></blockquote>
 
-<b>3. 미국 농촌 유권자, GOP 이탈 조짐...관세·에너지 비용 불만 확산</b>
-<blockquote>중간선거를 한 달여 앞두고 미국 농촌 지역에서 공화당 지지율이 수십 년 만에 최악 수준으로 떨어졌다. 관세와 수입 쇠고기 문제, 가솔린·디젤·비료 가격 상승이 농민들의 불만을 키우며 전통적 공화당 텃밭에서 이탈 움직임이 나타나고 있다.
-<a href="https://www.wsj.com/politics/elections/americas-farmers-are-rethinking-their-loyalty-to-the-gop-af5c85fe">[WSJ]</a></blockquote>
+<b>3. Trump, 시진핑에 미국 무기 구매 제안...대만 무기판매 지연 논란은 부인</b>
+<blockquote>Trump 대통령이 시진핑 주석에게 미국산 무기 구매 의사를 타진한 것으로 전해졌다. 미국 측은 대만 140억 달러 규모 무기판매 지연이 중국 눈치 보기 때문이라는 의혹을 부인했다. 미중 무역협상 과정에서 나온 발언으로 분석된다.
+<a href="https://www.ft.com/content/8b4690d4-7c02-48af-b117-56faf21c389d">[FT]</a></blockquote>
 
-<b>4. Trump, 이란 호르무즈 해협 재개방 제안 거부...7개월 분쟁 지속</b>
-<blockquote>Trump 대통령이 이란의 일주일 휴전 제안을 거부하면서 호르무즈 해협 봉쇄 사태가 장기화될 전망이다. 이란은 평화협상 재개를 위한 전제로 일주일간 해협을 재개방하겠다고 제안했으나, 7개월째 이어진 분쟁 종식의 실마리는 보이지 않는다.
-<a href="https://www.ft.com/content/4d71acf8-dda7-475e-88c5-5351f0176558">[FT]</a></blockquote>
+<b>4. 미국, 중국산 핵심광물 공급망 탈동조화 본격 추진...군사·산업 안보 강화</b>
+<blockquote>Trump 행정부가 추진한 군사·산업 투입재의 중국 프리 공급망 구축 이니셔티브가 가시적 성과를 내기 시작했다. 중국 의존 핵심광물 대체 공급망 확보가 진행 중이며, 미중 디커플링 정책이 실질 단계에 진입했다는 평가다.
+<a href="https://www.wsj.com/politics/national-security/china-critical-minerals-supply-chain-charts-fbe4eb85">[WSJ]</a></blockquote>
 
-<b>5. 에너지 비용·AI 전력 수요가 뉴욕 기후회담 주도...배출 감축 논의 밀려나</b>
-<blockquote>뉴욕에서 열린 기후회담에서 에너지 시장 혼란과 AI 전력 수요가 핵심 의제로 부상했다. 과거 배출량 감축에 집중했던 논의가 글로벌 에너지 공급망 재편과 AI 인프라 전력 확보 문제로 옮겨가며 기후 대응 전략의 우선순위가 재조정되고 있다.
-<a href="https://www.ft.com/content/8edbe5e7-19c6-44b9-9ada-16257f014a62">[FT]</a></blockquote>
+<b>5. 미국 기업들, 중국산 오픈소스 AI 모델 채택 확대...실리콘밸리 넘어 확산</b>
+<blockquote>실리콘밸리를 넘어 미국 기업들이 OpenAI·Anthropic 대신 저렴한 중국산 오픈소스 AI 모델을 채택하는 사례가 늘고 있다. 미중 기술 디커플링 정책에도 불구하고 현실적 비용 압박이 기업 선택을 좌우하는 모습이다.
+<a href="https://www.ft.com/content/d9de4776-1fc9-4f2b-aaaf-9961c35d8acd">[FT]</a></blockquote>
 
-<b>6. 독일·러시아 외교장관 4년 만에 회담...우크라이나 긴장 완화 모색</b>
-<blockquote>독일 외교장관 Johann Wadephul이 러시아 외교장관 Sergei Lavrov와 4년여 만에 만나 '강도 높은 대화'를 나눴다. Wadephul은 드론 침입 경고와 우크라이나 사태 긴장 완화를 촉구했으며, 유럽 내 러시아 외교 채널 재개 가능성이 주목된다.
-<a href="https://www.ft.com/content/ec92933f-7147-410e-8ade-ab09add476a7">[FT]</a></blockquote>
+<b>6. 북한, 미국에 비핵화 요구 철회 조건 제시...Trump-김정은 재회담 가능성</b>
+<blockquote>북한이 미국의 비핵화 요구 포기를 조건으로 Trump 대통령과 김정은의 재회담 가능성을 시사했다. Trump 행정부 2기 들어 북미 대화 재개 여부가 동아시아 지정학 리스크 변수로 부상하고 있다.
+<a href="https://www.economist.com/asia/2026/09/27/will-donald-trump-get-to-meet-kim-jong-un-again">[Economist]</a></blockquote>
 
-<b>7. 영국, Help to Buy 주택 부양책 부활...성장 둔화 우려 반영</b>
-<blockquote>영국 정부가 주택 구입 지원 제도 Help to Buy를 재개하며 첫 주택 구매자 지원에 나선다. 장관들 사이에서 낮은 주택 건설 물량이 성장 전망치를 위협할 수 있다는 우려가 커지면서 부양 정책 부활이 결정됐다.
-<a href="https://www.ft.com/content/e23be690-2cc2-4847-aed7-ceda7f94c1c0">[FT]</a></blockquote>
+<b>7. 아일랜드 알루미나 정제업체, 러시아 전쟁 물자 공급 논란...EU 제재 리스트 검토</b>
+<blockquote>EU가 러시아 전쟁 물자 공급 혐의로 아일랜드 알루미나 정제업체를 제재 대상 명단에 올리는 방안을 검토 중이다. EU 역내 기업의 러시아 우회 공급망 차단 압력이 강화되고 있다.
+<a href="https://www.economist.com/europe/2026/09/27/ireland-is-helping-supply-russias-war-machine">[Economist]</a></blockquote>
+
+<b>8. 스위스 국민투표, 중립성 강화안 부결...68.4% 반대로 군사동맹 협력 유지</b>
+<blockquote>스위스 유권자의 68.4%가 중립성 강화 국민투표안을 부결시켰다. 이 안건은 공격받지 않는 한 군사동맹과 협력을 금지하는 내용을 담고 있었다. 유럽 안보 구도에서 스위스의 실용적 협력 기조가 유지된다.
+<a href="https://www.ft.com/content/aaf4c7d7-b4bc-4b5c-83b7-7f761d315b63">[FT]</a></blockquote>
+
+<b>9. 유럽 산업, 중국 노출 기업은 고전하지만 다수는 적응 중...회복력 확인</b>
+<blockquote>중국 시장 의존도가 높은 유럽 기업들은 어려움을 겪고 있으나, 대다수 기업은 공급망·시장 다변화로 적응하고 있다. 유럽 산업의 중국 리스크 대응 능력이 예상보다 견조한 것으로 나타났다.
+<a href="https://www.economist.com/business/2026/09/27/european-industry-is-doing-better-than-you-may-think">[Economist]</a></blockquote>
+
+<b>10. 미국 고용지표 발표 앞두고 연준 정책 압박 고조...금리 경로 불확실성 지속</b>
+<blockquote>이번 주 발표될 미국 고용지표가 연준 정책 방향에 압력을 가할 전망이다. 노동시장 강도 확인 여부에 따라 금리 경로 불확실성이 지속될 것으로 시장은 전망하고 있다.
+<a href="https://www.ft.com/content/08fe7323-5a2f-4d46-ad64-132ce469b381">[FT]</a></blockquote>
 
 ━━━━━━━━━━━━━━━━━━━━
 📡 <b>출처: WSJ · FT · The Economist</b>
