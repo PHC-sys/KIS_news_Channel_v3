@@ -4,125 +4,237 @@
 
 ✅ <b>간밤의 주요 헤드라인</b>
 
-<b>1. 미-이란 협상 난항에 국채·유가 동반 급등...주식 전방위 압박</b>
-<blockquote>미국과 이란의 핵협상 타결 기대가 약화되자 브렌트유가 상승하고 10년물 미 국채 수익률이 5.2%를 돌파하며 19년 만에 최고치를 기록했다. 국채 매도세와 유가 상승이 겹치며 미 증시는 전반적으로 하락 압력을 받았다.
-<a href="https://www.ft.com/content/d751ad99-531d-4990-9a4c-ee89a9fc1b2d">[FT]</a> <a href="https://www.wsj.com/finance/investing/oil-prices-and-bond-yields-keep-rising-putting-a-damper-on-stocks-0dd33e36">[WSJ]</a> <a href="https://www.wsj.com/finance/stocks/u-s-stocks-slide-as-treasury-selloff-deepens-5bfbd7de">[WSJ]</a> <a href="https://www.wsj.com/finance/investing/treasury-yields-climb-to-fresh-highs-while-oil-rises-8749516c">[WSJ]</a> <a href="https://www.wsj.com/finance/commodities-futures/oil-prices-rise-as-u-s-iran-talks-face-fresh-hurdles-7ea7f176">[WSJ]</a></blockquote>
+<b>1. US 30년물 수익률 2002년 이래 최고치...인플레·재정 우려 지속</b>
+<blockquote>미국 30년 만기 국채 수익률이 2002년 이후 최고 수준을 기록했다. 유가 하락과 비둘기파 연준 총재 발언에도 불구하고 장기 인플레 기대와 재정 우려로 채권 매도세가 계속되고 있다.
+<a href="https://www.ft.com/content/c8693313-7750-40c7-892a-101ab16dec70">[FT]</a></blockquote>
 
-<b>2. 사우디 동서 송유관 재개...원유 초반 상승분 대부분 반납</b>
-<blockquote>사우디 국영 석유기업 아람코가 동서 송유관 운영을 재개하면서 하루 350만 배럴 처리 능력을 회복했다. 공급 복구 소식에 원유 가격은 장중 상승분을 거의 되돌리고 배럴당 92.60달러에 마감했다.
-<a href="https://www.wsj.com/finance/commodities-futures/oil-rises-on-geopolitical-risks-stockpile-decline-1e019399">[WSJ]</a> <a href="https://www.wsj.com/world/middle-east/saudi-arabia-resumes-oil-exports-via-east-west-pipeline-after-repairs-sources-say-314c9ae8">[WSJ]</a></blockquote>
+<b>2. 장기채 수익률 24년 최고 기록...비둘기파 발언도 무색</b>
+<blockquote>미국 장기 국채 수익률이 24년 만에 최고치를 경신했다. 유가 하락과 연준 내 비둘기파 발언이 나왔지만 채권 시장의 매도 압력은 수그러들지 않고 있다.
+<a href="https://www.wsj.com/finance/investing/bond-yields-keep-rising-despite-drop-in-oil-price-dovish-fed-speech-49aeab91">[WSJ]</a></blockquote>
 
-<b>3. 천연가스 선물 6.1% 급락...원유와 상반된 흐름</b>
-<blockquote>천연가스 선물 가격은 전일 대비 6.1% 하락한 mmBtu당 3달러에 거래를 마쳤다. 유럽 LNG 공급 차질 우려가 지속되는 가운데 원유 시장과는 반대 방향으로 움직였다.
-<a href="https://www.wsj.com/finance/commodities-futures/european-gas-prices-rise-on-prospects-of-prolonged-lng-disruptions-82000fff">[WSJ]</a></blockquote>
+<b>3. 장기채 수익률 상승세...유가 하락에도 매도세 지속</b>
+<blockquote>미국 장기 국채 수익률이 계속 오르고 있다. 국제 유가가 하락했음에도 불구하고 채권 시장에서는 매도 압력이 이어지며 수익률 상승세가 멈추지 않고 있다.
+<a href="https://www.wsj.com/finance/investing/long-term-treasury-yields-push-higher-despite-decline-in-oil-prices-7f69c1b7">[WSJ]</a></blockquote>
 
-<b>4. Fed 쿡 이사 "AI 인프라 투자, 향후 인플레 압박 요인"</b>
-<blockquote>연준 Lisa Cook 이사는 인공지능 인프라 구축을 위한 대규모 투자가 앞으로 수개월간 인플레이션 압력으로 작용할 것으로 전망했다. 향후 인플레이션을 목표치로 되돌리기 위해 어떤 수준의 정책금리가 필요할지 계속 검토하겠다고 밝혔다.
-<a href="https://www.wsj.com/economy/central-banking/feds-cook-expects-continuing-inflation-pressure-from-ai-buildout-in-coming-months-78632a7f">[WSJ]</a></blockquote>
+<b>4. 뉴욕연은 Williams, 금리 인상 서두를 필요 없다</b>
+<blockquote>뉴욕연방은행 총재 John Williams가 연준이 금리 인상을 서두를 필요가 없다고 말했다. 연준은 지난주 3년 만에 첫 금리 인상을 단행한 바 있으며, 이번 발언은 4주 후 다음 회의에 대한 시장 기대를 재조정할 수 있다.
+<a href="https://www.wsj.com/economy/central-banking/newyork-fed-s-williams-hints-next-interest-rate-increase-can-wait-6518cd41">[WSJ]</a></blockquote>
 
-<b>5. ECB Lagarde 총재 "에너지발 인플레 상승 예상, 광범위 확산 징후는 제한적"</b>
-<blockquote>유럽중앙은행 Christine Lagarde 총재는 에너지 위기로 유로존 인플레이션이 추가 상승할 것으로 예상된다고 밝혔다. 다만 높은 에너지 비용이 경제 전반의 물가 압력으로 확산될 뚜렷한 징후는 아직 보이지 않는다고 덧붙였다.
-<a href="https://www.wsj.com/economy/central-banking/eurozone-inflation-set-to-rise-but-no-signs-yet-of-becoming-entrenched-ecbs-lagarde-says-f2a222fa">[WSJ]</a></blockquote>
+<b>5. 연준 Barr, AI 투자·수요가 인플레에 영향...추가 조치 필요</b>
+<blockquote>연준 이사 Michael Barr는 인공지능(AI) 관련 투자와 수요 급증이 물가에 측정 가능한 영향을 미치고 있다며, 인플레이션을 목표치로 되돌리기 위해 추가 정책 조정이 필요할 것으로 보인다고 밝혔다.
+<a href="https://www.wsj.com/economy/central-banking/feds-barr-surge-of-investment-and-related-demand-from-ai-buildout-is-having-measurable-effect-on-prices-27626b1f">[WSJ]</a></blockquote>
 
-<b>6. 미 재무부, ETF 세금회피 전략 단속 착수...추가 조치 예고</b>
-<blockquote>미 재무부는 월스트리트의 ETF를 활용한 과세 이득 회피 전략 사용을 제한하고, 다른 '잠재적 남용' 전술에 대해서도 단속할 수 있다고 경고했다. 연준도 보안 취약점에 노출돼 있다는 내부 감독기구의 지적을 받았다.
-<a href="https://www.ft.com/content/7c6d87b1-d7d9-49c3-b842-2600928fba38">[FT]</a> <a href="https://www.ft.com/content/22c4fa19-1751-44e9-928d-5203a6af8900">[FT]</a> <a href="https://www.wsj.com/economy/central-banking/federal-reserve-staffer-removed-sensitive-files-before-retiring-report-finds-7114ee2a">[WSJ]</a></blockquote>
+<b>6. 미국 소비자신뢰 9월 급락...유가·인플레 우려 반영</b>
+<blockquote>컨퍼런스보드가 발표한 9월 미국 소비자신뢰지수가 81.9로 전월 대비 6.7포인트 하락했다. 두 달 연속 하락세를 이어가며 유가 상승과 인플레이션 우려가 소비 심리를 짓누르고 있는 것으로 나타났다.
+<a href="https://www.wsj.com/economy/central-banking/u-s-consumer-confidence-fell-sharply-in-september-conference-board-says-a3578a0f">[WSJ]</a></blockquote>
 
-<b>7. Goldman Sachs 이사회, John Waldron 차기 CEO 논의</b>
-<blockquote>Goldman Sachs 이사회가 현 사장인 John Waldron을 차기 CEO로 임명하는 방안을 논의 중인 것으로 알려졌다. 계획대로라면 2018년부터 은행을 이끌어온 David Solomon이 내년 중 CEO직에서 물러나 이사회 의장으로 전환한다.
-<a href="https://www.wsj.com/finance/banking/goldmans-board-has-discussed-a-plan-to-name-john-waldron-as-its-next-ceo-7c5d90dd">[WSJ]</a></blockquote>
+<b>7. 미 증시 하락...소비자신뢰 급락에 매도세</b>
+<blockquote>미국 증시가 소폭 하락 마감했다. 9월 소비자신뢰지수가 우려스러운 수준으로 떨어졌지만, 연준 관계자의 금리 인상 신중론 발언으로 낙폭은 제한됐다.
+<a href="https://www.wsj.com/finance/stocks/u-s-stocks-edge-lower-as-consumer-confidence-sinks-4b38d491">[WSJ]</a></blockquote>
 
-<b>8. Trump, 아이오와 150억 달러 철강 프로젝트 발표...연비 규제 완화도 단행</b>
-<blockquote>Trump 대통령은 아이오와주에 150억 달러 규모의 철강 프로젝트를 공개했다. 한편 행정부는 2031년 모델 기준 평균 연비 기준을 갤런당 50.4마일에서 34.5마일로 하향 조정하며 규제를 완화했다.
-<a href="https://www.wsj.com/politics/trump-to-unveil-planned-15-billion-iowa-steel-project-051bc7d8">[WSJ]</a> <a href="https://www.wsj.com/business/autos/trump-administration-ends-tougher-fuel-economy-rules-013c4633">[WSJ]</a></blockquote>
+<b>8. 미 증시 Williams 발언 후 낙폭 축소</b>
+<blockquote>뉴욕연은 총재 John Williams가 연준이 금리 인상을 서두를 필요가 없다고 발언한 뒤 미국 증시 낙폭이 축소됐다. 장 마감 시점까지 하락세는 이어졌지만 발언 이전보다 매도 압력이 완화된 모습이다.
+<a href="https://www.wsj.com/finance/stocks/stock-futures-drift-as-treasury-selloff-continues-d9bf63c1">[WSJ]</a></blockquote>
 
-<b>9. Raytheon, 207억 달러 규모 미사일 계약 확보</b>
-<blockquote>Raytheon은 미 국방부로부터 5년 계약에 2년의 옵션이 포함된 207억 달러 규모의 AMRAAM 미사일 생산 계약을 수주했다. 회사는 이 계약을 통해 장기 수요를 충족하기 위해 미사일 생산량을 사상 최고 수준으로 확대할 방침이다.
-<a href="https://www.wsj.com/business/raytheon-gets-20-7-billion-contract-to-accelerate-amraam-missile-production-25f96d73">[WSJ]</a></blockquote>
+<b>9. 유가 하락...걸프 원유 수출 회복 영향</b>
+<blockquote>국제 유가가 하락했다. 사우디아라비아 East-West 파이프라인의 원유 출하량이 예상보다 빠르게 회복되면서 걸프 지역 원유 공급 증가에 대한 기대가 반영됐다.
+<a href="https://www.wsj.com/business/energy-oil/oil-prices-rise-as-u-s-iran-talks-remain-uncertain-1a33ff00">[WSJ]</a></blockquote>
 
-<b>10. AMD, AI 스타트업 World Labs 82억 달러 인수</b>
-<blockquote>AMD는 Stanford 대학 연구자 Fei-Fei Li가 설립한 AI 스타트업 World Labs를 82억 달러에 인수한다고 발표했다. 이번 인수로 3D 환경을 이해하는 AI 모델 분야, 특히 물리적 AI와 로봇 공학 분야에서 하드웨어와 소프트웨어 역량을 강화할 계획이다.
-<a href="https://www.ft.com/content/33344fa5-6a25-4d72-8934-528526dd89bd">[FT]</a> <a href="https://www.wsj.com/tech/ai/amd-to-acquire-world-labs-for-8-2-billion-a8d03d11">[WSJ]</a></blockquote>
+<b>10. 이란, 호르무즈 석유 수출 지배력 상실...수출 급증에도 유가 고공</b>
+<blockquote>이란이 호르무즈 해협을 통한 석유 수출 통제력을 잃고 있는 것으로 보인다. 걸프 지역 석유 수출량이 급증하고 있지만 국제 유가는 여전히 높은 수준을 유지하고 있다.
+<a href="https://www.economist.com/middle-east-and-africa/2026/09/29/has-iran-lost-its-grip-on-gulf-oil-exports">[Economist]</a></blockquote>
 
-<b>11. Boeing 737 MAX 10, 소프트웨어 결함으로 인증 지연...주가 6% 급락</b>
-<blockquote>미 연방항공청(FAA)이 Boeing의 737 MAX 10 모델 승인을 새로운 소프트웨어 결함 발견으로 연기했다. 항공 안전 당국은 잠재적 안전 위험을 평가한 후 베스트셀러 기종의 최종 모델을 인증할 예정이며, Boeing 주가는 6% 하락한 184달러에 마감했다.
-<a href="https://www.wsj.com/politics/policy/software-glitch-will-delay-approval-of-boeings-latest-737-max-model-7a2cc5d2">[WSJ]</a> <a href="https://www.ft.com/content/387f15e0-6c42-478e-9da1-e9bfe5ad7127">[FT]</a> <a href="https://www.wsj.com/business/airlines/faa-to-delay-737-max-10-approval-over-new-software-glitch-9e52602d">[WSJ]</a></blockquote>
+<b>11. 중동 원유 수출 전쟁 이후 최고 수준...호르무즈 통과량 80% 회복</b>
+<blockquote>중동 석유 수출량이 이란 전쟁 발발 이후 최고 수준으로 증가했다. 호르무즈 해협을 통한 운송량도 전쟁 전 일일 평균의 80% 이상으로 회복되면서 해상 수송로가 점차 정상화되고 있다.
+<a href="https://www.ft.com/content/26c54c8c-931c-4d84-9cf3-fd3e9b5e215d">[FT]</a></blockquote>
 
-<b>12. 영국, 미 공군기지 테러 용의자 석방...이란 연루 조사 지속</b>
-<blockquote>영국 대테러 경찰이 미군이 주둔한 공군기지에서 발생한 테러 음모 혐의로 체포한 용의자 5명을 보석으로 석방했다. 수사 당국은 이란이나 이슬람 무장단체가 음모를 조직했는지를 조사 중이라고 관계자들이 전했다.
-<a href="https://www.wsj.com/world/u-k-probes-possible-iran-link-to-suspected-terror-plot-at-base-hosting-u-s-forces-b2328fb2">[WSJ]</a> <a href="https://www.ft.com/content/571a3103-ec01-464b-ab39-0c0da58d9524">[FT]</a></blockquote>
+<b>12. EU, 유가 급등에 석유비축 방출 논의</b>
+<blockquote>유럽연합(EU)이 에너지 장관 회의에서 석유 비축분 방출을 논의하고 있다. 더블린에서 열린 회의에서 EU는 이란 전쟁 이후 추가로 지출한 에너지 비용이 €1000억에 달한다고 밝혔다.
+<a href="https://www.ft.com/content/f16439a7-5554-412a-ae34-b46459ce28a9">[FT]</a></blockquote>
 
-<b>13. 이집트, 10월 7일 공격 사전에 Netanyahu에 경고...이스라엘 총선 쟁점화</b>
-<blockquote>이집트가 Hamas의 10월 7일 공격 이전에 Netanyahu 이스라엘 총리에게 경고했다는 보도가 나오면서 야당이 총리를 공세하고 있다. UAE 관리들도 사전에 위협을 알렸다는 누설이 이어지며 총선을 앞두고 정치적 압박이 커지고 있다.
-<a href="https://www.wsj.com/world/middle-east/egypt-warned-netanyahu-of-impending-attack-on-israel-before-oct-7-8e3d5ae0">[WSJ]</a> <a href="https://www.ft.com/content/f261c9cd-7169-4d16-97fc-9859099ce0f8">[FT]</a></blockquote>
+<b>13. 영국 디젤 가격 ￡2/리터 돌파 예상...중동·러시아 공급 차질</b>
+<blockquote>영국의 평균 디젤 가격이 며칠 내로 리터당 ￡2를 넘어설 것으로 전망된다. 미국의 수출 위협과 중동·러시아의 공급 차질로 인해 처음으로 이 '심리적 가격선'을 돌파할 것으로 보인다.
+<a href="https://www.ft.com/content/807daf90-94e6-40a3-b446-20a4395b42d4">[FT]</a></blockquote>
 
-<b>14. 영국 Burnham 총리, 사회복지·청년실업 대응 '진지한 공약' 제시 예고</b>
-<blockquote>영국 Andy Burnham 총리는 노동당 당 대회에서 사회복지 위기와 청년 실업 등 영국의 가장 큰 문제를 정면 돌파하는 '진지한 공약'을 발표할 예정이라고 밝혔다. "정치의 관행을 깨겠다"고 선언하며 차별화된 정책 방향을 제시하겠다는 의지를 드러냈다.
-<a href="https://www.ft.com/content/51c0928d-019b-4a1f-9c3a-1c9a2174f760">[FT]</a></blockquote>
+<b>14. 미-이란 교착 타개 중재 시도</b>
+<blockquote>중재자들이 7개월간 이어진 전쟁을 끝내기 위해 미국과 이란 관계자들을 오가며 협상 재개를 위한 노력을 벌이고 있다. 양측 간 교착 상태를 깨기 위한 외교적 접촉이 활발히 진행 중이다.
+<a href="https://www.ft.com/content/2e2c868b-9510-4f0c-bbeb-ca17e7a18cc1">[FT]</a></blockquote>
 
-<b>15. 영국 주택건설주, 'Your First Home' 제도 발표에 급등</b>
-<blockquote>영국 정부가 주택 구매 사다리 진입을 지원하는 'Your First Home' 신규 제도를 발표하자 주택건설 기업들의 주가가 급등했다. Burnham 총리가 공개한 새로운 Help to Buy 방안이 시장의 긍정적 반응을 이끌어냈다.
-<a href="https://www.ft.com/content/964a6d85-a6d9-4017-90ef-30ffcd8d7f8d">[FT]</a></blockquote>
+<b>15. 사우디 왕세자-UAE 왕족 회담...예멘 갈등 이후 첫 관계 복원 시도</b>
+<blockquote>사우디아라비아 왕세자가 UAE 고위 왕족과 회담을 가졌다. 올해 1월 예멘 사태로 촉발된 양국 간 긴장이 표면화한 이후 처음으로 관계 회복을 위한 대화가 이뤄진 것으로 주목된다.
+<a href="https://www.ft.com/content/87bfd2b4-aab6-4dcb-9c77-3d2606185578">[FT]</a></blockquote>
 
-<b>16. TotalEnergies, 유가 급등에 자사주 매입·배당 확대</b>
-<blockquote>프랑스 에너지기업 TotalEnergies는 이란 전쟁 영향으로 유가가 급등하면서 현금흐름이 증가하자 자사주 매입과 배당을 늘린다고 발표했다. 에너지 가격 상승이 주주환원 정책 강화로 직결되는 모습이다.
-<a href="https://www.ft.com/content/1cd3310e-da01-49da-9a3c-8029d59f5761">[FT]</a></blockquote>
+<b>16. 중국 모기지 보조금 도입...첫 주택 구매자 이자 지원</b>
+<blockquote>중국이 첫 주택 구매자를 대상으로 모기지 이자 비용을 보조하기로 했다. 베이징 당국이 수년간 이어진 부동산 시장 침체에서 벗어나기 위해 주택 판매 활성화에 나선 것이다.
+<a href="https://www.wsj.com/economy/central-banking/china-offers-subsidies-on-some-residential-mortgages-f1c20dad">[WSJ]</a></blockquote>
 
-<b>17. Nvidia, 사상 최대 1500억 달러 자사주 매입 승인</b>
-<blockquote>Nvidia 이사회가 1500억 달러 규모의 자사주 매입 프로그램을 승인하면서 총 환매 한도는 2350억 달러로 늘어났다. 연초 이후 주가 상승세가 둔화된 가운데 대규모 주주환원 프로그램을 통해 시장 신뢰 회복에 나섰다.
-<a href="https://www.wsj.com/tech/ai/nvidia-adds-record-150-billion-to-stock-buyback-910f96a8">[WSJ]</a> <a href="https://www.ft.com/content/88e87863-4cf6-4c4e-8858-f0099db350d4">[FT]</a></blockquote>
+<b>17. 중국 모기지 보조금+금리 인하...경기 부양 노력</b>
+<blockquote>중국이 첫 주택 구매자 대상 모기지 이자 보조와 함께 정책금리를 인하했다. 경기 성장률을 끌어올리기 위한 베이징의 부양책이 잇따르고 있다.
+<a href="https://www.ft.com/content/fa48c931-bafd-487a-b5a5-eff93fdcf53f">[FT]</a></blockquote>
 
-<b>18. Meta, 기업용 AI 사업 본격화...대규모 투자 수익화 추진</b>
-<blockquote>Meta가 수백억 달러 규모의 AI 투자를 수익화하기 위해 기업 고객 대상 도구와 서비스 판매를 본격 확대한다. Mark Zuckerberg CEO는 기술 투자를 이익으로 전환하기 위한 새 전선을 열며 엔터프라이즈 AI 사업에 진출했다.
-<a href="https://www.ft.com/content/fbe0a48f-4d33-42eb-8d2c-79f662c88678">[FT]</a> <a href="https://www.wsj.com/tech/ai/meta-seeks-payoff-from-ai-spending-with-new-push-for-business-customers-8b9ca5bc">[WSJ]</a></blockquote>
+<b>18. 달러 2개월 최고치...10월 금리 인상 기대 반영</b>
+<blockquote>달러 가치가 2개월 만에 최고 수준에 올랐다. 연준이 이달 초 금리를 인상한 이후 정책 당국자들의 발언이 이어지면서 10월에도 추가 인상이 있을 것이라는 전망이 힘을 얻고 있다.
+<a href="https://www.wsj.com/economy/central-banking/dollar-rises-to-2-month-high-on-growing-prospect-of-october-u-s-rate-rise-8cb5f9e8">[WSJ]</a></blockquote>
 
-<b>19. Nvidia, AI 에이전트 통제 소프트웨어 공개...무단 행동 차단</b>
-<blockquote>Nvidia는 개발자들이 AI 행동을 지속적으로 모니터링하고 통제할 수 있는 플랫폼을 공개했다. AI 에이전트가 무단으로 행동하는 것을 방지할 수 있다고 설명하며, AI 거버넌스 도구 시장 선점에 나섰다.
-<a href="https://www.wsj.com/tech/ai/nvidia-releases-software-it-says-can-prevent-ai-agents-from-going-rogue-12fd4ef8">[WSJ]</a></blockquote>
+<b>19. 캐나다 GDP 7월 0%...6월 0.4%로 상향</b>
+<blockquote>캐나다 7월 국내총생산(GDP)이 전월과 변동 없이 0%로 집계됐다. 3개월 연속 확장세를 기록하다 7월 들어 성장이 멈췄으며, 6월 성장률은 0.4%로 상향 수정됐다.
+<a href="https://www.wsj.com/economy/central-banking/canada-gdp-indicates-pick-up-after-stalling-in-july-c4bf9b65">[WSJ]</a></blockquote>
 
-<b>20. AI 최고 연구자들, 자가개선 AI 시스템 긴급 감독 촉구</b>
-<blockquote>OpenAI, Anthropic, Microsoft, Meta의 연구 책임자들이 AI가 곧 인간이 따라잡을 수 없는 속도로 자가개선할 수 있다며 긴급한 감독 체계 마련을 촉구했다. 자율 개선형 AI 시스템이 통제 불능 상태가 될 위험을 경고한 것이다.
-<a href="https://www.wsj.com/tech/ai/top-ai-researchers-call-for-urgent-oversight-of-self-improving-systems-49bae9b4">[WSJ]</a></blockquote>
+<b>20. 미국 주택가격 상승률 재가속...7월 1.9% vs 6월 1.6%</b>
+<blockquote>S&P Corelogic Case-Shiller 전국주택가격지수에 따르면 7월 주택가격이 전년 동월 대비 1.9% 상승했다. 6월의 1.6% 상승보다 오름폭이 확대되며 주택시장의 가격 상승세가 다시 빨라지고 있다.
+<a href="https://www.wsj.com/economy/housing/u-s-home-price-growth-increases-again-7b8699d6">[WSJ]</a></blockquote>
 
-<b>21. 상원 조사, 이란 정권의 Tether 스테이블코인 광범위 사용 확인</b>
-<blockquote>상원 민주당 의원들의 조사 결과, 이란과 연루돼 제재를 받은 지갑들이 압도적으로 Tether의 USDT 스테이블코인을 거래한 것으로 나타났다. 암호화폐를 통한 제재 회피 실태가 구체적으로 드러났다.
-<a href="https://www.wsj.com/finance/currencies/senate-investigation-finds-rampant-use-of-tethers-stablecoin-by-iranian-regime-ce652e22">[WSJ]</a></blockquote>
+<b>21. 천연가스 $3/mmBtu 접근...11월물 3.1% 하락</b>
+<blockquote>천연가스 선물이 100만 영국열량단위(mmBtu)당 $3에 서서히 근접하고 있다. 11월 인도분이 전일 대비 3.1% 떨어진 $3.011/mmBtu에 거래를 마쳤다.
+<a href="https://www.wsj.com/finance/commodities-futures/natural-gas-slides-on-milder-temperature-outlook-b27ac1c4">[WSJ]</a></blockquote>
 
-<b>22. Citi, Coinbase와 제휴로 디지털 자산 사업 확대</b>
-<blockquote>Citigroup이 미국 최대 암호화폐 거래소 Coinbase와 제휴를 맺고 기업 고객들이 스테이블코인으로 결제할 수 있도록 디지털 인프라를 제공받는다. 전통 금융기관의 암호화폐 사업 본격 진출 사례로 주목된다.
-<a href="https://www.wsj.com/finance/currencies/citi-expands-digital-assets-footprint-with-coinbase-partnership-8e97a7b9">[WSJ]</a></blockquote>
+<b>22. 금 소폭 상승 $4147.70...은은 하락</b>
+<blockquote>COMEX 금 신규 최근월물이 소폭 오른 $4147.70에 장을 마감했다. 금이 0.27% 상승한 반면 은은 하락 마감했다.
+<a href="https://www.wsj.com/finance/commodities-futures/gold-edges-higher-prices-remain-under-pressure-69d48e15">[WSJ]</a></blockquote>
 
-<b>23. 터키, 180억 달러 주식시장 스캔들 여파 확산...여당 부대표 사임</b>
-<blockquote>터키에서 180억 달러 규모 주식시장 스캔들이 불거지자 Erdoğan 대통령이 "조작 행위에 가담한 자들은 책임을 질 것"이라며 사태 진화에 나섰다. 여당 부대표가 사임하는 등 정치권 파장이 커지고 있다.
-<a href="https://www.ft.com/content/c72a016b-ad45-4cde-8020-dc1da7ab0839">[FT]</a></blockquote>
+<b>23. Shell 주도 컨소시엄, LNG Canada $230억 확장 승인</b>
+<blockquote>Shell이 주도하는 컨소시엄이 LNG Canada 프로젝트의 $230억 규모 확장 계획을 승인했다. 이번 확장으로 캐나다 주력 액화천연가스(LNG) 프로젝트의 생산 용량이 두 배로 늘어나게 된다.
+<a href="https://www.ft.com/content/364d5454-876d-42ef-8f30-759e1ebdb026">[FT]</a></blockquote>
 
-<b>24. Tata 가문 후계자, 지주회사 상장 저지 계획 발표</b>
-<blockquote>Noel Tata가 이끄는 자선단체가 Tata 그룹 전자 계열사와 합병을 통해 대규모 IPO를 회피하겠다는 계획을 내놨다. 강제 상장 압력에 대응해 지주회사를 비상장 상태로 유지하려는 전략이다.
-<a href="https://www.ft.com/content/51b3e0ed-9416-4ffc-9d57-30b6804d2de0">[FT]</a></blockquote>
+<b>24. 영국 기업들, Burnham·Healey '사업비용' 강조에 긴장</b>
+<blockquote>영국 기업 최고경영자들이 Andy Burnham 총리와 Rachel Healey 재무장관의 '사업비용(cost of business)' 강조 발언에 긴장하고 있다. 연금 트리플락(triple lock) 폐지 등 과감한 조치는 환영하지만 다음 달 예산안에서 세금 인상 가능성에 대비하고 있다.
+<a href="https://www.ft.com/content/bd830daa-e4fe-4cd6-a145-40502652c0b2">[FT]</a></blockquote>
 
-<b>25. Evonik, BASF의 103억 유로 인수 제안 거부</b>
-<blockquote>독일 화학기업 Evonik이 BASF로부터 받은 103억 유로 인수 제안을 거부했다. 프리미엄 규모가 경영진과 최대주주에 압력을 가할 가능성이 있어 화학업계 통합 향방이 주목된다.
-<a href="https://www.ft.com/content/f7f9d03c-cb01-45d3-8148-1c9f3fcc4501">[FT]</a></blockquote>
+<b>25. Burnham, 사회복지 대개혁·연금 트리플락 폐지·브렉시트 재논의...차기 선거 후 공약</b>
+<blockquote>영국 총리 Andy Burnham이 다음 총선 이후 '전국 돌봄 서비스(national care service)' 신설, 연금 트리플락 폐지, 브렉시트 논의 재개 등을 추진하겠다고 밝혔다. 현 임기 중에는 실행하지 않고 차기 선거 이후로 미뤄둔 공약들이다.
+<a href="https://www.ft.com/content/2cb65c90-e8ee-43fa-84a1-16a6834e168e">[FT]</a></blockquote>
 
-<b>26. HSBC, Hang Seng 대차대조표 정리로 자본효율 개선 추진</b>
-<blockquote>HSBC가 홍콩 자회사 Hang Seng의 14억 달러 규모 대출 포트폴리오를 매각하며 대차대조표 정리에 나섰다. 자본 효율성을 개선하기 위한 조치의 일환으로, Hang Seng 강화 전략의 일부다.
-<a href="https://www.ft.com/content/ffa65213-3178-454c-9d7d-c8ae8d64124f">[FT]</a></blockquote>
+<b>26. Burnham 사회복지 개혁 계획...트리플락 폐지로 재원 마련</b>
+<blockquote>Andy Burnham 총리가 연금 트리플락을 폐지해 확보한 재원으로 잉글랜드에 무료 사회 돌봄 서비스를 제공하겠다는 계획을 밝혔다. 차기 선거 이후 본격 추진할 사회복지 대개혁 구상이다.
+<a href="https://www.ft.com/content/fd9bb414-838d-48e5-bcdf-39c8a6bd41ca">[FT]</a></blockquote>
 
-<b>27. Shein, 상장 후 첫 실적서 순이익 3분의 2 감소</b>
-<blockquote>패스트패션 기업 Shein의 상장 후 첫 실적 보고서에서 순이익이 3분의 2 급감한 것으로 나타났다. 운임비 상승과 관세 인상으로 수익성이 악화되면서 비즈니스 모델에 압박을 받고 있다.
-<a href="https://www.ft.com/content/e1696e1f-a54e-4e2a-bbfd-2273f26704cd">[FT]</a></blockquote>
+<b>27. Burnham 연설 평가...차기 선거 강령, 당장의 행동 계획 아냐</b>
+<blockquote>Andy Burnham 총리의 연설은 시급한 실행 계획보다는 차기 총선을 겨냥한 과감한 강령에 가까웠다는 평가가 나온다. '내일의 잼(jam tomorrow)' 비전이라는 지적도 제기됐다.
+<a href="https://www.ft.com/content/95854630-e639-4240-9598-564b996f30c5">[FT]</a></blockquote>
 
-<b>28. 우크라이나, 북한 포로 소재 공개로 한국과 갈등</b>
-<blockquote>Volodymyr Zelensky 우크라이나 대통령이 포로로 잡힌 북한군 2명의 현재 위치를 공개하면서 한국 정부와 마찰을 빚고 있다. 한국은 이러한 정보 공개가 금지 사항이라고 보고 있어 양국 간 은밀한 포로 교환 협정이 논란이 됐다.
-<a href="https://www.wsj.com/world/asia/a-secretive-north-korean-pow-handover-becomes-publicand-controversial-228d9223">[WSJ]</a></blockquote>
+<b>28. Burnham 연설 6가지 핵심...유럽·선거제 개혁 등 포함</b>
+<blockquote>Burnham 총리 연설에서 주목할 6가지 핵심 제안에는 유럽 관계, 선거제도 개혁 등이 포함됐다. 다만 이들 제안 대부분은 차기 총선 이후에나 본격 추진될 전망이다.
+<a href="https://www.ft.com/content/5e819183-5362-479b-a340-a1f38f7bed23">[FT]</a></blockquote>
 
-<b>29. FBI 부국장 사임, Kash Patel 체제 혼란 심화</b>
-<blockquote>FBI 국장 Kash Patel의 공동 부국장 중 한 명인 Andrew Bailey가 약 1년 만에 퇴임한다. 법집행기관 내 대규모 이탈과 혼란이 지속되는 가운데 고위직 사임이 이어지고 있다.
-<a href="https://www.wsj.com/politics/policy/a-top-kash-patel-deputy-is-leaving-the-fbi-dcef061b">[WSJ]</a></blockquote>
+<b>29. Burnham 비전은 차기 선거 이후...진짜 혁명은 재집권 후</b>
+<blockquote>총리의 진정한 혁명을 위한 출발 신호는 차기 총선 이후에야 울릴 것이라는 분석이 나온다. Burnham의 '용감한 신세계'는 유권자의 재신임을 받은 뒤에야 시작된다는 평가다.
+<a href="https://www.ft.com/content/122a29d3-da08-4ffc-8add-aed427781659">[FT]</a></blockquote>
 
-<b>30. 미 중간선거 전망, 공화당 승리 시나리오 분석</b>
-<blockquote>WSJ은 11월 중간선거에서 공화당이나 민주당이 예상을 뛰어넘을 경우의 시나리오를 분석했다. 공화당이 승리할 경우 Trump의 2기 집권 후반부를 결정짓는 정책 방향이 주목된다.
-<a href="https://www.ft.com/content/29f1af13-ecc3-4f26-a479-e6088c67231b">[FT]</a></blockquote>
+<b>30. Carnival 3분기 순익 증가 $19.2억...유류비 상승 수요로 상쇄</b>
+<blockquote>크루즈 업체 Carnival이 3분기 순이익 $19.2억($1.40/주)을 기록했다. 전년 동기 $18.5억($1.33/주)보다 증가했으며, 강한 수요로 높아진 유류비 부담을 상쇄했다고 밝혔다.
+<a href="https://www.wsj.com/business/earnings/carnival-logs-higher-profit-revenue-on-accelerating-demand-804ca346">[WSJ]</a></blockquote>
+
+<b>31. 알래스카항공 라운지·좌석 업그레이드...프리미엄 승객 확보 경쟁</b>
+<blockquote>알래스카항공이 라운지 시설과 기내 좌석을 개선하는 등 고액 결제 고객 확보 경쟁에 나섰다. 국제선 비즈니스석과 프리미엄 이코노미석을 늘려 대형 경쟁사에 맞서겠다는 전략이다.
+<a href="https://www.wsj.com/business/airlines/alaska-air-upgrades-lounges-and-cabins-in-battle-for-high-paying-travelers-ea83b2fe">[WSJ]</a></blockquote>
+
+<b>32. CarMax 2분기 순익 증가 $1.65억...턴어라운드 본격화</b>
+<blockquote>미국 최대 중고차 판매업체 CarMax가 8월 31일 마감 2분기 순이익 $1.653억을 기록했다. 전년 동기 $0.954억보다 증가하며 회생 전략이 가시화되고 있다.
+<a href="https://www.wsj.com/business/retail/carmax-posts-higher-profit-as-vehicle-sales-rise-70505bf7">[WSJ]</a></blockquote>
+
+<b>33. Oura IPO 연기...시장 불확실성 탓</b>
+<blockquote>스마트링 제조사 Oura가 IPO(기업공개)를 연기했다. 수요는 강했으나 시장 불확실성을 이유로 상장 시기를 미루기로 했다고 밝혔다.
+<a href="https://www.wsj.com/tech/oura-postpones-ipo-over-market-uncertainty-49d49791">[WSJ]</a></blockquote>
+
+<b>34. Oura IPO 연기...최대 $140억 밸류에이션 목표였으나</b>
+<blockquote>핀란드계 미국 스마트링 스타트업 Oura가 IPO를 연기했다. 최대 $140억 기업가치를 목표로 상장을 준비 중이었지만 시장 상황을 고려해 일정을 미뤘다.
+<a href="https://www.ft.com/content/7ffd0cd4-716f-40f3-976a-62a2e737bb3d">[FT]</a></blockquote>
+
+<b>35. Piper Sandler, Perella Weinberg 인수 협상</b>
+<blockquote>Piper Sandler가 Perella Weinberg 인수 협상을 진행 중이다. 두 월가 자문회사가 합병할 경우 업계 지형에 변화가 예상된다.
+<a href="https://www.wsj.com/business/deals/piper-sandler-holds-talks-to-buy-perella-weinberg-633bae65">[WSJ]</a></blockquote>
+
+<b>36. 중앙은행 금기 깨기...통화정책이 수요뿐 아니라 공급에도 영향</b>
+<blockquote>중앙은행들의 오랜 금기가 깨지고 있다는 분석이 나왔다. 통화정책이 수요만이 아니라 공급 측면에도 영향을 미친다는 사실이 밝혀지면서 정책 운용 방식 재검토가 필요하다는 지적이다.
+<a href="https://www.ft.com/content/a060e1f6-e669-4657-af63-701053709c2d">[FT]</a></blockquote>
+
+<b>37. AI 붐이 선진국 재정 위기 악화 가능성</b>
+<blockquote>인공지능(AI) 붐이 오히려 선진국의 재정난을 악화시킬 수 있다는 분석이 제기됐다. 경제 성장률이 높아지더라도 세수 확보는 더욱 어려워질 수 있다는 우려다.
+<a href="https://www.economist.com/finance-and-economics/2026/09/29/how-the-ai-boom-could-worsen-the-rich-worlds-fiscal-crunch">[Economist]</a></blockquote>
+
+<b>38. 은행, AI 에이전트가 예금 이동...저비용 예금 위협 가능</b>
+<blockquote>AI 에이전트가 고객 예금을 더 높은 금리 계좌로 자동 이동시킬 경우 은행들의 저비용 예금 기반이 위협받을 수 있다는 분석이 나왔다. 고객 충성도가 낮아질 수 있다는 우려도 제기된다.
+<a href="https://www.wsj.com/finance/banking/lazy-customers-are-great-for-banks-could-ai-change-that-220b4dc9">[WSJ]</a></blockquote>
+
+<b>39. Hegseth 국방장관, 장성급 20% 감축 발표</b>
+<blockquote>Pete Hegseth 국방장관이 장성급 장교 자리를 20% 줄이겠다는 계획을 수요일 발표할 예정이다. 이 조치는 군 전반에 걸친 광범위한 개편의 일환으로 추진된다.
+<a href="https://www.ft.com/content/1199468e-dbe5-4581-b039-3d57985291ac">[FT]</a></blockquote>
+
+<b>40. Hegseth 장성급 20% 감축...하급 장병 대상 연설에서 발표</b>
+<blockquote>Pete Hegseth 국방장관이 수요일 하급 장교와 사병들로 구성된 선별 집단 앞 연설에서 장성급(장군·제독) 보직 20% 감축을 발표한다. 군 조직 전반의 변화 신호탄으로 해석된다.
+<a href="https://www.wsj.com/politics/national-security/pete-hegseth-military-officer-cuts-e4acab48">[WSJ]</a></blockquote>
+
+<b>41. 트럼프 행정부, 국토안보부 자금으로 친트럼프 광고 방영</b>
+<blockquote>트럼프 행정부가 국토안보부 예산을 사용해 최근 TV에서 방영된 친트럼프 광고를 제작한 것으로 드러났다. 백악관은 공공 서비스 광고라고 주장하지만 비판자들은 세금으로 선거 캠페인 성격의 메시지를 내보낸 것은 연방법 위반 소지가 있다고 지적한다.
+<a href="https://www.wsj.com/politics/policy/homeland-security-money-financed-pro-trump-television-ads-54ac33bb">[WSJ]</a></blockquote>
+
+<b>42. 트럼프 행정부, 비시민권자 제3국 추방 허용...대법원 임시 결정</b>
+<blockquote>연방 대법원이 임시 결정을 통해 트럼프 행정부가 비시민권자를 아무런 연고가 없는 제3국으로 추방하는 것을 당분간 허용했다. 이민자 추방 정책을 둘러싼 법적 논란이 계속되고 있다.
+<a href="https://www.ft.com/content/264c7d6f-9f84-43b9-89de-f8e9523a41a5">[FT]</a></blockquote>
+
+<b>43. 트럼프 행정부 AI 기반 정부서비스 '컨시어지' 도구 출시</b>
+<blockquote>트럼프 행정부가 인공지능(AI) 기반의 연방정부 '컨시어지' 도구를 구축했다. America.gov 웹사이트를 통해 시민들의 온라인 경험을 개선하겠다는 행정부의 야심찬 계획을 시험할 예정이다.
+<a href="https://www.wsj.com/politics/policy/trump-administration-launches-ai-tool-aimed-at-streamlining-government-online-services-4a2e5767">[WSJ]</a></blockquote>
+
+<b>44. 재무부, 트럼프 아동투자계좌 6천만 명 자동 등록</b>
+<blockquote>미국 재무부가 아동투자계좌 자동 등록 방식으로 전환해 6천만 명을 등록할 계획이다. 이전에는 부모나 보호자가 직접 신청해야 했던 절차를 없애 가입 문턱을 대폭 낮춘다.
+<a href="https://www.wsj.com/politics/policy/treasury-will-auto-enroll-60-million-in-trump-accounts-a5f82421">[WSJ]</a></blockquote>
+
+<b>45. 상원 조사, 이란 정권의 테더 스테이블코인 광범위 사용 발견</b>
+<blockquote>상원 조사 결과 이란 정권이 스테이블코인 테더(Tether)를 광범위하게 사용하고 있는 것으로 드러났다. 암호화폐를 통한 제재 우회 가능성이 현실화되고 있다는 우려가 제기된다.
+<a href="https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-senate-investigation-finds-rampant-use-of-tethers-stablecoin-by-iranian-regime-a68861cb">[WSJ]</a></blockquote>
+
+<b>46. 영국 테러 용의자 5명 석방...미스터리 심화</b>
+<blockquote>영국 테러 사건 용의자 5명이 석방되면서 미스터리가 깊어지고 있다. 이번 석방은 초기 발표된 내용에 의문을 제기하며 미영 양국 당국을 혼란에 빠뜨리고 있다.
+<a href="https://www.wsj.com/world/europe/mystery-deepens-over-alleged-u-k-terror-incident-after-suspects-are-freed-8f9bd0df">[WSJ]</a></blockquote>
+
+<b>47. RAF Fairford 사건 용의자, 체포 직전 999 신고</b>
+<blockquote>영국 공군기지 RAF Fairford 사건 용의자가 체포되기 직전 999(영국 긴급전화)에 신고한 것으로 밝혀졌다. 미군 폭격기가 사용하는 기지에서 발생한 이번 사건을 경찰이 계속 수사 중인 가운데 신고 동기는 아직 불분명하다.
+<a href="https://www.ft.com/content/e9b18367-5144-4775-8ddd-d1d133672db0">[FT]</a></blockquote>
+
+<b>48. 트럼프, AI 규제 경량화 옹호...업계 자율규제+법무부 등 기존 권한 활용</b>
+<blockquote>트럼프 대통령이 업계 '자율규제(self-regulation)'와 법무부 등 기존 권한 활용으로 AI 도구의 안전을 유지할 수 있다며 경량 규제 전략을 옹호했다. 업계가 안전성 우려를 제기한 뒤 나온 입장이다.
+<a href="https://www.wsj.com/tech/ai/trump-defends-light-touch-ai-strategy-after-industry-sounds-alarms-2f9599eb">[WSJ]</a></blockquote>
+
+<b>49. 트럼프, 미 기술 CEO들과 AI '도덕적 합의'...자율규제 합의</b>
+<blockquote>트럼프 대통령은 미국 기술 기업 최고경영자들이 백악관 오찬에서 AI 리스크에 대한 '도덕적 구속력(morally binding)' 자율규제 합의에 서명했다고 밝혔다. 정부 개입을 최소화하는 방향이다.
+<a href="https://www.ft.com/content/a8c1d14d-97aa-4b09-8162-adbcac1d0029">[FT]</a></blockquote>
+
+<b>50. OpenAI, IPO 연기(안전 우려)...AI 개인비서 출시</b>
+<blockquote>ChatGPT 개발사 OpenAI의 Sam Altman CEO가 안전성 문제를 극복할 때까지 IPO를 연기하겠다고 밝혔다. 동시에 Meta의 Muse와 경쟁하는 새로운 AI 개인비서를 출시했다.
+<a href="https://www.ft.com/content/211d10ae-cf9e-481d-99ed-0321d2eb0676">[FT]</a></blockquote>
+
+<b>51. 후티 진격, 이란·중국 무기 지원</b>
+<blockquote>예멘 후티 반군의 전격 진격이 이란과 중국의 무기 지원으로 가능했던 것으로 분석됐다. 이번 공세로 후티는 미국과 이란 간 더 넓은 전쟁에서 무시할 수 없는 세력으로 부상했다.
+<a href="https://www.wsj.com/world/middle-east/see-how-the-houthi-advance-was-powered-by-arms-from-iran-and-china-3637f097">[WSJ]</a></blockquote>
+
+<b>52. 푸틴 키예프 신규 폭격...겨울 전 수도 마비 목표</b>
+<blockquote>러시아 푸틴 대통령이 키예프에 대한 새로운 폭격을 감행하고 있다. 겨울이 오기 전 우크라이나 수도를 마비시키려는 끔찍한 논리가 작용하고 있다는 분석이다.
+<a href="https://www.economist.com/europe/2026/09/29/putins-new-bombardment-of-kyiv-has-a-terrible-logic">[Economist]</a></blockquote>
+
+<b>53. 미군, 라틴아메리카 마약 전쟁 확대...드론·정보작전</b>
+<blockquote>미군이 라틴아메리카에서 드론·병력·정보 작전을 동원해 마약 카르텔을 겨냥한 작전을 확대하고 있다. Francis Donovan 장군은 밀림에서 첨단 드론을 사용한 새로운 작전 내용을 공개하며 미군 지원 지상 공격도 옵션이라고 밝혔다.
+<a href="https://www.wsj.com/politics/national-security/how-the-pentagon-is-escalating-trumps-drug-war-in-latin-america-a631b53b">[WSJ]</a></blockquote>
+
+<b>54. Dangote $160억 케냐 정유소...토지 분쟁으로 법원 중단</b>
+<blockquote>Dangote의 $160억 규모 케냐 석유정제소 프로젝트가 토지 분쟁으로 법원에 의해 중단됐다. 수입 연료 의존도를 줄이기 위한 주요 산업 프로젝트가 난관에 부딪혔다.
+<a href="https://www.ft.com/content/5bb621fa-2c18-4384-80ab-4a72e51b139a">[FT]</a></blockquote>
+
+<b>55. 암호화폐 결제카드, 중국의 미국 AI 모델 구매 우회 가능성</b>
+<blockquote>암호화폐 계좌와 연결된 결제 카드가 중국의 미국 AI 모델 구매를 가능하게 할 수 있다는 우려가 제기됐다. AI 붐이 새로운 형태의 암호화폐 사기와 만나고 있다는 분석이다.
+<a href="https://www.economist.com/finance-and-economics/2026/09/29/the-ai-boom-meets-a-new-kind-of-crypto-scam">[Economist]</a></blockquote>
+
+<b>56. 영국 지원 텅스텐 광산, 미 국방 비축 공급...중국 외 공급망</b>
+<blockquote>영국이 지원하는 텅스텐 광산이 미국 국방 비축분을 공급하고 있다. 최근 거래는 항공우주·군수 공급망에서 중국 의존도를 낮추기 위한 금속 공급망 구축의 복잡성을 보여준다.
+<a href="https://www.ft.com/content/0cd95b53-4b99-42c9-9b3e-b1074ed88e12">[FT]</a></blockquote>
+
+<b>57. 레포 차입 급증...주체는 누구인가?</b>
+<blockquote>환매조건부채권(repo) 시장에서 차입이 급증하고 있다. 이 대규모 레포 차입을 주도하는 주체가 누구인지에 대한 관심이 커지고 있다.
+<a href="https://www.ft.com/content/df11786e-4b07-45d6-b8ef-8e74f0d189ad">[FT]</a></blockquote>
+
+<b>58. Apollo·Oaktree, Drahi 상대 소송...Optimum 구조조정</b>
+<blockquote>Apollo와 Oaktree가 억만장자 Patrick Drahi를 상대로 소송을 제기했다. 채권 보유자들은 Drahi가 미국 통신사 Optimum Communications의 가장 가치 있는 케이블TV 자산을 손이 닿지 않는 곳으로 이전하려는 '뻔뻔한' 계획을 추진했다고 주장한다.
+<a href="https://www.ft.com/content/85de7143-a93b-4dbb-b2f3-856d407ba08f">[FT]</a></blockquote>
 
 ━━━━━━━━━━━━━━━━━━━━
 📡 <b>출처: WSJ · FT · The Economist</b>
