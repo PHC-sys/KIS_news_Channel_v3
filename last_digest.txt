@@ -4,133 +4,33 @@
 
 ✅ <b>간밤의 주요 헤드라인</b>
 
-<b>1. 美 9월 고용 +2.9만명 쇼크...10월 FOMC 금리인상 기대 급락</b>
-<blockquote>9월 미국 고용증가 폭이 2만9천 명에 그쳐 시장 예상을 크게 밑돌았다. 실업률은 역사적 저점 근처를 유지했지만, 일관된 고용 증가세가 꺾이는 신호가 포착됐다. 이번 지표는 연준의 10월 금리인상 가능성을 낮추는 결정적 요인으로 작용했다.
-<a href="https://www.wsj.com/economy/jobs/september-jobs-report-unemployment-6b6d6643">[WSJ]</a> <a href="https://www.ft.com/content/7fc80097-1926-4306-81e0-83d90a3d8a1d">[FT]</a></blockquote>
+<b>1. Trump, 메디케어 수혜자에 $90 지급 약속...중간선거 앞두고 재정 포퓰리즘 가속</b>
+<blockquote>Trump 대통령이 메디케어 가입자에게 보험료 부담 경감 명목으로 1인당 $90를 지급하겠다고 발표했다. 공화당이 주요 경합지역에서 열세를 보이는 가운데 나온 조치로, 선거를 앞두고 유권자에게 직접 금전 혜택을 약속하는 행보가 이어지고 있다.
+<a href="https://www.wsj.com/politics/policy/trump-announces-another-payment-to-voters-ahead-of-midterms-ad0671d0">[WSJ]</a></blockquote>
 
-<b>2. 연준 10월 금리인상 전망 급속 후퇴...시장 '10월 동결' 베팅 강화</b>
-<blockquote>약한 고용지표 이후 연준의 10월 금리인상 기대치가 급락했다. Fed 9월 회의록이 다음주 공개될 예정으로, 향후 통화정책 경로를 가늠하는 핵심 단서가 될 전망이다. 시장은 이제 연준이 한동안 금리 동결에 나설 것으로 보고 있다.
-<a href="https://www.ft.com/content/c89a552e-4720-47ae-9f0d-e9ff85b36dd9">[FT]</a> <a href="https://www.wsj.com/economy/central-banking/week-ahead-for-fx-bonds-fed-minutes-in-focus-as-near-term-rate-hike-prospects-dim-b91369f2">[WSJ]</a> <a href="https://www.ft.com/content/906051fc-c116-4803-b395-2d56d1bcbf28">[FT]</a></blockquote>
+<b>2. 영국 보수당, £100,000 소득세 함정 폐지 공약...재정건전성 우려 속 증세 철회</b>
+<blockquote>Kemi Badenoch 보수당 대표는 연소득 £100,000 이상 고소득자에게 적용되는 세금 구간 폐지를 공약했다. 이전 보수당 정부가 도입한 해당 정책이 추가 근로를 억제한다는 논리다. 선진국 전반에서 선거를 앞두고 증세 철회 흐름이 관찰되고 있다.
+<a href="https://www.ft.com/content/82ceae35-e3ef-4b68-8cfa-553b205a4bb0">[FT]</a></blockquote>
 
-<b>3. 나스닥 급등·달러 약세...고용 쇼크에 리스크 자산 동반 강세</b>
-<blockquote>약한 고용지표가 금리인상 우려를 완화시키면서 미 증시가 상승 마감했다. 나스닥이 장중 신고점을 경신했고, 달러는 전반적으로 약세를 보였다. 채권 수익률도 상승세를 멈추며 안정화 신호를 나타냈다.
-<a href="https://www.wsj.com/finance/stocks/u-s-stocks-rise-as-jobs-report-tempers-rate-outlook-fde051d1">[WSJ]</a> <a href="https://www.wsj.com/finance/investing/nasdaq-leads-stocks-higher-as-hiring-softens-9a254192">[WSJ]</a></blockquote>
+<b>3. FlyDubai 항공기 조종실서 부기장 도끼 공격...UAE, 테러로 규정</b>
+<blockquote>텔아비브행 FlyDubai 1073편에서 부기장이 비상탈출용 도끼를 이용해 기장을 공격한 사건이 발생했다. UAE 당국은 이를 테러 행위로 규정했으며, 항공기 비상용 장비가 공격 무기로 전용될 수 있다는 점에서 규제 당국의 검토가 예상된다.
+<a href="https://www.wsj.com/world/flydubai-co-pilot-used-crash-ax-in-attack-says-u-a-e-88554e9a">[WSJ]</a></blockquote>
 
-<b>4. G7, 전략비축유 1억배럴 방출 합의...美 경유 수출금지 위협 회피</b>
-<blockquote>G7이 원유와 경유 1억 배럴 규모의 전략비축유 방출에 합의했다. Trump 대통령은 유럽 국가들이 경유 재고 방출을 결정한 데 대해 '위대한 조치'라고 평가했다. 이번 합의로 미국의 경유 수출금지 위협은 당분간 회피된 것으로 보인다.
-<a href="https://www.ft.com/content/97200b07-755c-40ce-a50b-b51666bd4b7e">[FT]</a> <a href="https://www.wsj.com/business/energy-oil/g-7-agrees-to-release-100-million-barrels-of-crude-and-oil-products-7624f30b">[WSJ]</a> <a href="https://www.wsj.com/finance/commodities-futures/why-are-diesel-prices-soaring-and-what-would-a-u-s-export-ban-do-e453fd47">[WSJ]</a></blockquote>
+<b>4. Netanyahu, FlyDubai 테러 저지 인물 포용...총선 앞두고 안보 카드 강화</b>
+<blockquote>Benjamin Netanyahu 총리는 FlyDubai 기내 테러 미수 사건 저지에 관여한 인물들을 공개 포용하며 선거 전략에 활용하고 있다. 이스라엘이 사방에서 공격받고 있으며 우파 연정만이 국가를 방어할 수 있다는 메시지를 유권자에게 전달하려는 의도로 분석된다.
+<a href="https://www.wsj.com/world/middle-east/netanyahu-in-tough-election-fight-embraces-those-who-stopped-flydubai-attack-68366a96">[WSJ]</a></blockquote>
 
-<b>5. 유가·경유가 하락...비축유 방출에 인플레 압력 완화 기대</b>
-<blockquote>G7의 비축유 방출 합의 발표 직후 유가와 경유 가격이 하락했다. 중동 전쟁과 우크라이나 사태로 전 세계 경유 수출의 약 3분의 1을 공급하던 지역들의 선적이 차단됐던 상황에서, 이번 방출 조치는 에너지 인플레 압력 완화에 기여할 전망이다.
-<a href="https://www.wsj.com/business/energy-oil/oil-prices-fall-as-middle-east-crude-exports-recover-but-shipping-risks-remain-84ca187f">[WSJ]</a></blockquote>
+<b>5. 영국, 이란 지시 맨체스터 유대인 시설 공격 음모 기소...테러 리스크 유럽 확산</b>
+<blockquote>영국 대테러경찰은 이란으로부터 지시받은 것으로 추정되는 소형 보트 불법 이민자 2명을 맨체스터 유대인 시설 공격 음모 혐의로 기소했다. 중동 지정학 긴장이 유럽 본토 테러 리스크로 전이되는 양상이 뚜렷해지고 있다.
+<a href="https://www.ft.com/content/05fd286f-6fac-4479-b560-848970f32af5">[FT]</a></blockquote>
 
-<b>6. 유로존 9월 인플레 3.8%...3년래 최고치 기록</b>
-<blockquote>유로존 9월 소비자물가가 전년비 3.8% 상승하며 3년래 최고치를 경신했다. 상승폭은 시장 예상치를 웃돌았다. 강한 인플레 압력이 유럽 통화정책과 재정 여건에 새로운 부담 요인으로 작용하고 있다.
-<a href="https://www.ft.com/content/6394fdc7-5fa5-4ec3-8bde-52633acd2b57">[FT]</a></blockquote>
+<b>6. 백악관, AI 리스크 평가 태스크포스 신설...Jay Clayton 국가정보국장 주도</b>
+<blockquote>백악관은 AI 기술의 리스크를 평가할 전담 태스크포스를 출범시켰다. 업계와 대중의 우려가 제기된 데 따른 조치로, Jay Clayton 국가정보국장이 'AI 차르'로서 태스크포스를 이끌게 된다. 빅테크 밸류에이션에 규제 리스크 프리미엄이 반영될 가능성이 커지고 있다.
+<a href="https://www.wsj.com/tech/ai/new-ai-task-force-to-report-on-risks-of-technology-after-public-and-industry-concerns-b6308bef">[WSJ]</a></blockquote>
 
-<b>7. 독일 국채 안전자산 수요 급증...프랑스·이탈리아 국채는 매도</b>
-<blockquote>글로벌 채권 매도세 속에서도 독일 국채(Bund)는 안전자산 수요에 힘입어 수익률이 하락했다. 반면 미국, 프랑스 등 다른 주요국 국채는 인플레 우려로 급격한 매도세를 보였다. 독일 국채와 여타 유로존 국채 간 스프레드가 확대되는 분화 현상이 심화되고 있다.
-<a href="https://www.ft.com/content/93028839-5f0e-43c4-8ee7-44990115ea57">[FT]</a></blockquote>
-
-<b>8. 글로벌 채권시장 급락세 진정...10년물 美 국채 수익률 2002년래 최고 후 안정</b>
-<blockquote>이번주 격렬한 매도세를 보였던 글로벌 채권시장이 안정화 조짐을 나타냈다. 10년물 미 국채 수익률은 2002년 이후 최고치까지 치솟았다가 상승을 멈췄다. 시장은 채권의 '화폐성(moneyness)' 약화 가능성에 주목하고 있다.
-<a href="https://www.ft.com/content/4f2ad4c1-22b0-497b-88c8-197d7f301f79">[FT]</a> <a href="https://www.ft.com/content/7128ce19-5ea0-4d5d-9d47-1270404831a7">[FT]</a></blockquote>
-
-<b>9. 이탈리아·그리스, EU 재정규칙 완화 요청...연료가 보조금·인플레로 압박</b>
-<blockquote>이탈리아와 그리스가 EU 재정규칙 완화를 요청했다. 연료가 지원과 인플레 상승이 양국의 재정 상황에 압박을 가하고 있기 때문이다. 유로존 재정 여건의 분화가 심화되는 모습이다.
-<a href="https://www.ft.com/content/d2f01dd2-2fde-4d3b-aff0-f82aa9e05296">[FT]</a></blockquote>
-
-<b>10. 英 예산안 '숨 고르기' 예상...Healey 재무장관, 대규모 증세 대신 선별 지원</b>
-<blockquote>영국 Healey 재무장관이 다음 예산안에서 대규모 증세보다는 가계와 기업에 대한 선별적 지원에 초점을 맞출 것으로 예상된다. 최근 영국 예산안들처럼 급진적인 재정 조치보다는 '숨 고르기(breathing space)' 성격이 강할 전망이다.
-<a href="https://www.ft.com/content/9df55c2e-e9c8-4a5a-a025-99fb459721d3">[FT]</a></blockquote>
-
-<b>11. EU, 우크라이나 추가 지원 거부...개혁 미이행 이유로 자금 집행 보류</b>
-<blockquote>EU가 우크라이나의 올해 추가 지원 요청을 거부했다. 브뤼셀은 키이우 의회가 약속한 개혁 법안 통과에 어려움을 겪고 있다는 점을 이유로 추가 자금 집행을 보류했다.
-<a href="https://www.ft.com/content/bab346fd-7839-4812-ab27-19309e317938">[FT]</a></blockquote>
-
-<b>12. 금 가격 주간 3.59% 하락...$4133.70에 마감</b>
-<blockquote>Comex 금 선물이 온스당 $4133.70에 거래를 마치며 0.9% 하락했다. 이로써 3거래일 연속 상승세가 끊겼고, 주간 기준으로는 3.59% 하락했다. 달러와 국채 수익률 변동이 금 가격의 주요 변수로 작용했다.
-<a href="https://www.wsj.com/finance/commodities-futures/gold-falls-u-s-dollar-yields-key-obstacles-for-price-gain-a4f001e3">[WSJ]</a></blockquote>
-
-<b>13. FlyDubai 테러 공격 사건...UAE와 Netanyahu, 이념 동기 테러로 규정</b>
-<blockquote>FlyDubai 1073편에서 부기장이 기장을 칼로 공격해 비행기를 추락시키려 한 사건이 이념 기반 테러로 확인됐다. UAE와 이스라엘 Netanyahu 총리가 공식적으로 테러 행위로 규정했다. 공격자는 급진적 견해로 오만에서 비행 금지 조치를 받았던 인물로 밝혀졌다.
-<a href="https://www.wsj.com/world/middle-east/flydubai-attacker-had-been-banned-from-flying-by-oman-for-radical-views-ab363b5d">[WSJ]</a> <a href="https://www.wsj.com/world/asia/u-a-e-netanyahu-say-flydubai-attack-was-terrorism-31531f46">[WSJ]</a></blockquote>
-
-<b>14. 英 맨체스터 유대인 시설 테러 음모 적발...이란발 소형 보트 이민자 2명 기소</b>
-<blockquote>영국 대테러경찰이 맨체스터 유대인 시설 공격을 모의한 혐의로 이란발 소형 보트 이민자 2명을 기소했다. Salam Ahmadyan과 Rahman Salehi는 이란으로부터 직접 지시를 받았을 가능성이 있다. RAF Fairford 기지 인근 사건도 이란 연루 가능성이 조사 중이다.
-<a href="https://www.ft.com/content/05fd286f-6fac-4479-b560-848970f32af5">[FT]</a> <a href="https://www.ft.com/content/538ea132-4021-4095-8da3-9db41d42b19d">[FT]</a> <a href="https://www.ft.com/content/7a91fa6b-e908-4a28-b04f-02d5a10a6bb1">[FT]</a></blockquote>
-
-<b>15. 북극항로 이용 4배 급증...걸프전과 온난화가 동시 작용</b>
-<blockquote>북극 해상 항로를 경유한 선박 통행량이 4배로 급증했다. 중동 걸프 지역 전쟁으로 선박들이 우회 항로를 찾는 가운데, 기후변화로 북극 빙하가 녹으면서 항로 통행이 용이해졌기 때문이다. 지정학 리스크와 기후 변화가 복합 작용한 결과다.
-<a href="https://www.ft.com/content/2e0eb698-d4d3-4bcc-927a-2997df7709be">[FT]</a></blockquote>
-
-<b>16. 프랑스 전역 학생시위 확산...학교 방화에 정부 위기 심화</b>
-<blockquote>프랑스 전역에서 학교 시설 개선을 요구하는 학생 시위가 격화되며 다수 학교에서 방화 사건이 발생했다. Sébastien Lecornu 총리와 극우 Marine Le Pen은 극좌 정당이 시위를 부추긴다고 비난했다. 6개월 후 선거를 앞두고 정치 불안이 고조되고 있다.
-<a href="https://www.economist.com/europe/2026/10/02/schoolyard-protests-are-setting-france-ablaze">[Economist]</a> <a href="https://www.ft.com/content/38176237-e89f-410c-979c-c8c5d68d041a">[FT]</a></blockquote>
-
-<b>17. 스페인 Pedro Sánchez 총리, 주택개혁 의회 표결 패배...조기 총선 가능성</b>
-<blockquote>스페인 Pedro Sánchez 총리가 주택개혁 법안 의회 표결에서 패배했다. 이번 의회 좌절은 총리의 조기 총선 결단으로 이어질 가능성이 있다.
-<a href="https://www.ft.com/content/79bcc1f3-954a-4c62-96c6-989b1384b9f3">[FT]</a></blockquote>
-
-<b>18. 英 야당 Polanski, 이스라엘 제재 주도 성과 강조...중앙은행 비판도</b>
-<blockquote>영국 야당 당수 Polanski가 당 대회에서 이스라엘 제재 조치를 자신의 주도 성과로 강조하며 '우리가 정부를 바꾼다'고 선언했다. 영란은행(Bank of England)에 대한 비판도 함께 제기했다. 정치적으로 결정적인 한 주가 시작됐다.
-<a href="https://www.ft.com/content/68d4b1f2-5b77-4604-add3-2c4915b4b267">[FT]</a></blockquote>
-
-<b>19. 퀀트펀드, 채권 매도세서 큰 수익...추세추종 전략 적중</b>
-<blockquote>추세추종 전략을 운용하는 퀀트 헤지펀드들이 글로벌 채권 매도세에서 큰 수익을 거뒀다. 이란 전쟁과 강한 미국 경제지표가 인플레 우려를 키우면서 채권 수익률이 급등한 추세를 포착한 결과다.
-<a href="https://www.ft.com/content/75b0ab84-a252-4ea1-9058-c9ee7ca07f4f">[FT]</a></blockquote>
-
-<b>20. 美 국채 유동성 문제 부각...화폐성 상실 우려 제기</b>
-<blockquote>미국 국채 시장의 유동성 문제가 부각되고 있다. 40년간 국채는 증권이자 화폐 역할을 동시에 수행해왔으나, 이제 그 특수성을 잃을 가능성이 제기되고 있다. 시장 구조 변화가 금융안정에 미칠 영향이 주목된다.
-<a href="https://www.ft.com/content/7128ce19-5ea0-4d5d-9d47-1270404831a7">[FT]</a></blockquote>
-
-<b>21. Partners Group 주력 PE 펀드 분리...고객 환매 요구에 대응</b>
-<blockquote>스위스 자산운용사 Partners Group이 주력 사모펀드를 분리했다. 6월 환매를 5%로 제한한 데 이어 고객들의 현금 인출 요구에 대응하기 위한 조치다. PE 시장의 유동성 압박이 가시화되고 있다.
-<a href="https://www.ft.com/content/10d99379-b576-46c0-afe6-70c6e2059456">[FT]</a></blockquote>
-
-<b>22. 美 법무부, Fed의 Jay Powell 형사조사 재개 않기로</b>
-<blockquote>미 법무부가 연준의 $25억 규모 청사 리노베이션 프로젝트에 대한 Jay Powell 의장의 형사 조사를 재개하지 않기로 했다. Todd Blanche 법무장관은 중앙은행 프로젝트에 대한 감독 부재가 '반드시 범죄는 아니다'고 밝혔다.
-<a href="https://www.ft.com/content/887e90a5-8456-4eba-9ed0-205c873d4846">[FT]</a></blockquote>
-
-<b>23. 지역은행들, 암호화폐 특허 발급 규제 완화에 소송 제기</b>
-<blockquote>미 지역은행 단체들이 Trump 행정부의 규제당국을 상대로 소송을 제기했다. 암호화폐 기업들에게 은행과 동일한 감독 없이 은행시스템 접근 권한을 부여한 것이 위험한 처사라고 주장했다.
-<a href="https://www.wsj.com/finance/regulation/community-banks-swing-back-at-trump-regulators-over-crypto-charters-7007902f">[WSJ]</a></blockquote>
-
-<b>24. Volvo Car 가이던스 철회...중국·美 시장 악화에 3분기 판매 부진</b>
-<blockquote>Volvo Car가 연간 가이던스를 철회했다. 핵심 시장인 중국과 미국 시장 환경이 악화되면서 3분기 판매가 예상을 밑돌고 향후 전망도 약화됐다. 글로벌 자동차 수요 둔화의 최신 신호로 해석된다.
-<a href="https://www.wsj.com/business/earnings/volvo-car-pulls-guidance-as-chinese-auto-market-worsen-e72ca14f">[WSJ]</a></blockquote>
-
-<b>25. Tesla 3분기 판매 2% 감소...로보택시·AI에 역량 집중</b>
-<blockquote>Tesla의 3분기 전기차 인도량이 전년비 2% 감소했다. 미국 전체 전기차 시장이 둔화된 가운데 Tesla는 로보택시와 인공지능으로 사업 중심축을 이동하고 있다.
-<a href="https://www.wsj.com/business/autos/tesla-sales-fell-in-third-quarter-8a7cad7c">[WSJ]</a></blockquote>
-
-<b>26. Trump, DNI Jay Clayton을 AI czar로 임명 예정</b>
-<blockquote>Trump 대통령이 국가정보국장(DNI) Jay Clayton을 새로운 인공지능 czar로 임명할 예정이다. Clayton은 올 여름 DNI로 인준받은 인물로, 행정부 전반의 AI 정책을 총괄하게 된다.
-<a href="https://www.wsj.com/politics/policy/trump-expected-to-name-dnis-jay-clayton-as-ai-czar-8d066854">[WSJ]</a></blockquote>
-
-<b>27. 美 국방부, 중간선거 투표 위해 군인들에 하루 휴가 부여</b>
-<blockquote>Pete Hegseth 국방장관이 미군 장병들에게 투표를 위한 하루 '작전 중단(stand down)'을 승인했다. 공화당이 의회를 지키기 위한 전략의 일환으로, 군인 투표율 격차를 해소하려는 조치다. 지휘관들은 10월 15일까지 투표 휴가를 부여해야 한다.
-<a href="https://www.wsj.com/politics/elections/hegseth-gives-u-s-troops-a-day-off-to-vote-955aafdc">[WSJ]</a></blockquote>
-
-<b>28. 공화당 주요 후원단체, 노스캐롤라이나 상원 선거 지출 중단...Kansas로 자금 이동</b>
-<blockquote>공화당 상원 선거를 지원하는 자금력 있는 단체 Senate Leadership Fund가 노스캐롤라이나 지출을 중단하고 캔자스로 자금을 이동했다. 중간선거 막판 전장 지형이 급변하고 있음을 보여주는 사례다. 민주당이 전통적 공화당 텃밭인 캔자스 의석 탈환을 노리고 있다.
-<a href="https://www.wsj.com/politics/elections/deep-pocketed-gop-group-exits-north-carolina-senate-race-7d1cd8f3">[WSJ]</a></blockquote>
-
-<b>29. AI 신뢰성 문제 부각...모델의 '사고 과정' 불투명성 증가</b>
-<blockquote>최첨단 AI 모델들이 발전하면서 실제 작동 방식과 설명하는 방식 간 격차가 커지고 있다. AI의 '사고 과정(chain of thought)'을 더 이상 신뢰할 수 없게 되면서, 통제 불능 모델의 리스크가 증가하고 있다.
-<a href="https://www.wsj.com/tech/ai/ai-monitoring-chain-of-thought-research-b46a05fd">[WSJ]</a></blockquote>
-
-<b>30. 뉴욕 오피스 임대료 신기록...헤지펀드 Castle Hook, 연 $2120만 지불</b>
-<blockquote>저명도가 낮은 헤지펀드 Castle Hook이 뉴욕 오피스 임대료 사상 최고 기록을 경신했다. Related 개발사의 Madison Avenue 신축 타워 펜트하우스 5만3천 평방피트에 연간 최대 $2120만을 지불하기로 했다.
-<a href="https://www.ft.com/content/17762862-bdb7-44d0-a0d0-d2285bedbd2d">[FT]</a></blockquote>
-
-<b>31. Ant 지원 핀테크 Mynt, 필리핀 IPO서 $70억 기업가치 평가</b>
-<blockquote>중국 Ant가 지원하는 핀테크 기업 Mynt가 필리핀 증시 상장에서 약 $70억 기업가치를 인정받았다. 필리핀 증권거래소 역대 최대 IPO 중 하나가 될 전망이다.
-<a href="https://www.wsj.com/pro/private-equity/ant-backed-fintech-mynt-valued-at-around-7-billion-in-philippine-ipo-0224c31b">[WSJ]</a></blockquote>
-
-<b>32. Novartis, 중국 Abogen과 최대 $78억 mRNA 약물 라이선스 계약</b>
-<blockquote>Novartis가 중국 Abogen으로부터 mRNA 약물 후보에 대한 라이선스를 확보하고 향후 치료제에 대한 옵션을 얻는 계약을 체결했다. 계약 규모는 최대 $78억에 달한다.
-<a href="https://www.wsj.com/health/pharma/novartis-to-license-drug-from-chinas-abogen-in-up-to-7-8-billion-deal-4ad8509c">[WSJ]</a></blockquote>
+<b>7. Temu, 영국 매출 2배 증가해 $171mn...소액 면세 허점 활용</b>
+<blockquote>중국 전자상거래 플랫폼 Temu의 영국 매출이 전년 대비 2배 이상 증가해 $171mn을 기록했다. 소액 소포에 관세를 부과하지 않는 세제 허점을 활용한 결과로, 영국 정부의 세제 개편 논의가 가속화될 전망이다.
+<a href="https://www.ft.com/content/b119a81f-2347-4ba8-8b5f-13b380cf45fa">[FT]</a></blockquote>
 
 ━━━━━━━━━━━━━━━━━━━━
 📡 <b>출처: WSJ · FT · The Economist</b>
