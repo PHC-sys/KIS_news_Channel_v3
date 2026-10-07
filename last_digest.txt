@@ -4,161 +4,129 @@
 
 ✅ <b>간밤의 주요 헤드라인</b>
 
-<b>1. SpaceX, Apollo 주도로 400억달러 조달 추진...Nvidia 칩 매입 자금 확보</b>
-<blockquote>SpaceX가 AI 인프라 구축을 위해 Apollo 주도 대규모 채권 발행을 통해 400억달러 조달을 검토 중이다. 조달 자금은 Nvidia 칩 대량 구매에 투입될 예정이며, AI 인프라에 대한 막대한 자본 지출이 지속되고 있음을 보여준다.
-<a href="https://www.ft.com/content/d3f5928d-f38c-4666-8f7a-8737f9c45f51">[FT]</a></blockquote>
+<b>1. 후티 반군, 사우디 공항에 연쇄 미사일 공격...3명 사망·수십명 부상</b>
+<blockquote>예멘 후티 반군이 사우디아라비아 주요 공항들을 겨냥한 대규모 미사일 공격을 감행해 3명이 숨지고 수십 명이 다쳤다. 이란의 지원을 받는 후티 반군과 사우디 간 갈등이 심화되는 양상이다.
+<a href="https://www.wsj.com/world/middle-east/houthis-escalate-attacks-on-saudi-airports-killing-3-and-wounding-dozens-f81ee1ca">[WSJ]</a></blockquote>
 
-<b>2. AI 컴퓨팅 스타트업 Lambda, IPO 전 최종 라운드서 40억달러 조달</b>
-<blockquote>Nvidia 지원을 받는 AI 컴퓨팅 스타트업 Lambda가 2027년 IPO를 앞두고 최종 펀딩 라운드에서 40억달러 조달을 진행 중이다. AI 인프라 투자 열풍이 스타트업 단계까지 확산되며 자본 집중 현상이 심화되고 있다.
-<a href="https://www.wsj.com/tech/ai/ai-neocloud-lambda-is-raising-4-billion-in-final-round-before-planned-ipo-568182f9">[WSJ]</a></blockquote>
+<b>2. 후티, 리야드·아덴에 추가 미사일 공격...바브엘만데브 해협 탈환 작전 직후</b>
+<blockquote>후티 반군이 사우디 수도 리야드와 예멘 항구도시 아덴을 향해 새로운 미사일 공격을 단행했다. 이는 사우디 주도 연합군이 전략적 요충지인 바브엘만데브 해협 탈환을 선언한 지 며칠 만에 이뤄진 것이다.
+<a href="https://www.ft.com/content/6a2dc960-c9fd-4795-b5ea-78f9bb77309d">[FT]</a></blockquote>
 
-<b>3. Google·Constellation, 20년 원전 전력공급 계약 체결...사상 최대 업그레이드 프로젝트</b>
-<blockquote>Google과 Constellation Energy가 기존 원전 출력 증대를 통해 전력을 공급하는 20년 장기 계약을 체결했다. 이번 계약은 원전 업그레이드(uprate) 프로젝트 중 사상 최대 규모로, 빅테크의 AI 전력 수요 확보 경쟁이 본격화됐다.
-<a href="https://www.wsj.com/business/energy-oil/google-and-constellation-energy-strike-a-sweeping-nuclear-power-deal-4287b372">[WSJ]</a></blockquote>
+<b>3. 미 석유 트레이더, 20억 달러 규모 탱커 투자...호르무즈 우회 노선 확보</b>
+<blockquote>미국 석유 거래업체가 호르무즈 해협을 피해 아시아 정제시설로 원유를 운송하기 위해 20억 달러 규모의 탱커 투자에 나섰다. 디젤 공급 부족이 인플레이션을 부채질하는 가운데 미국의 에너지 안보 확보 노력이 본격화되고 있다.
+<a href="https://www.ft.com/content/ff76eda4-0c63-4fcd-a5a1-2729fbbffccc">[FT]</a></blockquote>
 
-<b>4. ExxonMobil, 트리니다드토바고 해상 프로젝트로 캐리비안 붐 재현 노려</b>
-<blockquote>ExxonMobil이 가이아나에서 거둔 성공을 재현하기 위해 트리니다드토바고 해상 유전 개발 프로젝트를 추진 중이다. 미국 석유 메이저의 캐리비안 지역 추가 시추 계획이 에너지 인프라 투자 확대로 이어지고 있다.
-<a href="https://www.ft.com/content/211b69e4-ae2f-4323-bc31-e07fc1560581">[FT]</a></blockquote>
+<b>4. IEA, 디젤 추가 방출 없다...G7 약속 4억배럴에 포함</b>
+<blockquote>국제에너지기구(IEA)가 G7이 약속한 1억배럴의 디젤 방출은 3월 합의한 4억배럴 석유 비축분 방출에 포함된 것이라고 밝혔다. 추가 디젤 공급이 없다는 소식에 디젤 가격이 급등했다.
+<a href="https://www.ft.com/content/2761b6af-df11-49e8-a348-792a9597c9af">[FT]</a></blockquote>
 
-<b>5. 모든 시장이 AI에 베팅...단일 테마로 수렴하는 글로벌 거래</b>
-<blockquote>채권·주식·원자재 등 모든 자산군이 AI 붐 여부에 따라 움직이며 시장 전반이 단일 테마로 수렴되고 있다는 분석이 나왔다. AI 인프라 투자 광풍이 자산 배분 전략의 핵심 변수로 자리잡았다.
-<a href="https://www.ft.com/content/6d06a6b2-ea2f-4384-959d-682ce78a1693">[FT]</a></blockquote>
+<b>5. 국제유가 하락 마감...중동 공급 낙관론에도 분쟁 리스크 여전</b>
+<blockquote>국제유가가 장중 상승분을 반납하고 하락 마감했다. 중동발 원유 공급이 계속될 것이란 낙관론이 우세했지만, 역내 분쟁이 계속되면서 추가 하락은 제한됐다.
+<a href="https://www.wsj.com/business/energy-oil/oil-prices-rise-as-houthi-attacks-u-s-gulf-storm-raise-supply-risks-9a0aacf8">[WSJ]</a></blockquote>
 
-<b>6. S&P500 신고가 경신...AI 테크 집중 랠리, 나머지 종목은 하락</b>
-<blockquote>S&P500이 사상 최고치를 기록했지만 대다수 종목은 하락했으며, AI 관련 테크주만 강세를 보였다. 시장 상승이 소수 종목에 집중되며 밸류에이션 리스크가 커지고 있다.
-<a href="https://www.wsj.com/finance/stocks/the-s-p-500-hits-a-new-record-high-powered-by-techand-not-much-else-66e01705">[WSJ]</a></blockquote>
+<b>6. 미 원유 재고 320만배럴 감소...시장 예상 170만배럴 증가 빗나가</b>
+<blockquote>10월 2일로 끝난 한 주간 미 상업용 원유 재고가 320만배럴 감소한 4억2410만배럴을 기록했다. 월스트리트저널 조사에서 애널리스트들이 예상한 170만배럴 증가와 정반대 결과다.
+<a href="https://www.wsj.com/business/energy-oil/u-s-crude-oil-stockpiles-post-weekly-drop-948f4817">[WSJ]</a></blockquote>
 
-<b>7. 미 증시 상승세...AI 모멘텀 재점화로 S&P500 기록 경신</b>
-<blockquote>미국 증시가 AI 투자 기대 재부상으로 상승했으며 S&P500이 신고가를 기록했다. 채권 금리 급등에도 불구하고 AI 테마주 중심 랠리가 지속되고 있다.
-<a href="https://www.wsj.com/finance/stocks/u-s-stocks-rise-as-ai-momentum-builds-6f054e9f">[WSJ]</a></blockquote>
+<b>7. 중국, 호르무즈 석유 위기 관리가 글로벌 파급 좌우...Economist 분석</b>
+<blockquote>중국이 호르무즈 해협발 석유 공급 위기에 어떻게 대응하느냐가 글로벌 시장에 큰 영향을 미칠 전망이다. 중국은 세계 최대 원유 수입국으로 중동 원유 의존도가 높다.
+<a href="https://www.economist.com/china/2026/10/07/how-china-manages-its-oil-woes-will-have-global-repercussions">[Economist]</a></blockquote>
 
-<b>8. 채권 금리 상승에도 주식 계속 오른다...AI 테크가 이끄는 역설</b>
-<blockquote>채권 금리가 급등하는 가운데에도 주식시장은 상승세를 이어가며, 금리와 주가 간 전통적 상관관계가 무너지고 있다. AI 투자 열풍이 금리 부담을 상쇄하며 증시를 떠받치고 있다.
-<a href="https://www.wsj.com/finance/investing/whatever-happens-to-bonds-stocks-win-d1c95f6f">[WSJ]</a></blockquote>
+<b>8. 미·유럽 국채 금리 급등...미 10년물 5.3% 경매는 2000년 이후 최고</b>
+<blockquote>미국 정부가 390억 달러 규모 10년물 국채를 수익률 5.300%에 발행했다. 이는 2000년 이후 최고 수준이다. 프랑스·이탈리아·영국 국채도 예산 우려 속에 동반 급락했다.
+<a href="https://www.wsj.com/finance/investing/u-s-european-government-bond-yields-rise-french-bonds-underperform-on-budget-worries-c068d9ae">[WSJ]</a></blockquote>
 
-<b>9. 채권 금리 급등 원인 분석...공급 우려·인플레이션·재정 적자 복합 작용</b>
-<blockquote>글로벌 채권 금리 상승이 국채 공급 증가 우려, 인플레이션 기대 상승, 재정 적자 확대 등 복합 요인에 기인한다는 분석이 나왔다. 구조적 금리 상승 압력이 지속될 가능성이 제기됐다.
-<a href="https://www.ft.com/content/a6161dfd-bfb9-4bf5-866f-1ca0a0c8e6aa">[FT]</a></blockquote>
+<b>9. 경매 후 미 국채 안정...유럽 국채는 변동성 지속</b>
+<blockquote>미 10년물 국채 경매 이후 미국 국채 시장은 안정을 되찾았다. 반면 프랑스·이탈리아·영국 국채는 재정 우려 속에 변동성이 계속됐다.
+<a href="https://www.ft.com/content/33c67aa0-bfdb-457b-84bb-960b4fed94b6">[FT]</a></blockquote>
 
-<b>10. 프랑스 채권 매도 가속...대선 앞두고 이탈리아식 위기 우려</b>
-<blockquote>프랑스 국채 시장에서 매도세가 확산되며 유로존 재정 불안이 재부상했다. 대선을 앞두고 정치 불확실성이 커지며 이탈리아식 채권 위기 재연 가능성이 제기되고 있다.
-<a href="https://www.ft.com/content/9b252b46-a87c-45e7-a09a-45a39ce077b8">[FT]</a></blockquote>
+<b>10. 연준 의사록, 올해 추가 금리 인상 시사...10월은 긴급 아냐</b>
+<blockquote>연방준비제도(Fed) 9월 회의록에서 관계자들은 올해 추가 금리 인상 필요성에 폭넓게 동의했지만, 10월 회의에서 긴급하게 인상할 필요는 없다는 입장을 밝혔다. 일부 고위 인사들은 12월까지 금리 인상을 기다릴 수 있다고 시사했다.
+<a href="https://www.wsj.com/economy/central-banking/fed-minutes-signal-further-rate-increase-this-year-but-no-urgency-for-october-hike-54ec759f">[WSJ]</a></blockquote>
 
-<b>11. 프랑스 정부, 수십억 유로 삭감 예산안 의회 우회 통과 시사</b>
-<blockquote>프랑스 재무장관 Roland Lescure가 예산안 통과를 위해 필요시 의회를 우회하는 방안을 검토 중이라고 밝혔다. 야당 반대에도 불구하고 재정긴축 예산을 강행 처리할 가능성이 커지며 정치 리스크가 고조되고 있다.
-<a href="https://www.wsj.com/world/europe/french-government-is-willing-to-bypass-parliament-to-pass-billions-in-cuts-699d99c5">[WSJ]</a></blockquote>
+<b>11. 이란 전쟁, 영국 재정에 120억파운드 타격...차입비용 급등</b>
+<blockquote>이란발 전쟁이 인플레이션과 차입비용 급등을 촉발하면서 영국 재정에 약 120억파운드(약 21조원)의 타격을 입힌 것으로 추정됐다. FT 분석에 따르면 John Healey 재무장관의 재정 여력이 절반으로 줄었다.
+<a href="https://www.ft.com/content/2cb13aed-f6bf-4f45-b906-fa1194405a0c">[FT]</a></blockquote>
 
-<b>12. 프랑스 극우 Le Pen, GDP 60% 부채 상한·재정 적자 축소 공약</b>
-<blockquote>대선 선두주자인 극우 후보 Marine Le Pen이 국가부채를 GDP 60% 이하로 제한하고 재정 적자를 축소하겠다는 재정긴축 공약을 발표했다. 다만 실현 가능성에 대해 분석가들은 회의적 반응을 보이고 있다.
-<a href="https://www.ft.com/content/4e1a4297-62f4-4b42-a41a-2ad23b64cbe9">[FT]</a></blockquote>
+<b>12. 프랑스, 단기채 발행 확대 검토...채권시장 혼란 속 전략적 대응</b>
+<blockquote>프랑스 재무장관 Roland Lescure가 채권시장 혼란 이후 단기채 발행을 늘리는 방안을 검토 중이라고 밝혔다. 프랑스는 신규 부채 발행에서 전략적으로 접근할 것이라고 강조했다.
+<a href="https://www.wsj.com/world/europe/france-considers-issuing-more-shorter-term-debt-amid-bond-market-turmoil-db2966fd">[WSJ]</a></blockquote>
 
-<b>13. Ion Group, 채권단에 110억달러 부채 전액 상환 의사 전달</b>
-<blockquote>금융 데이터 기업 Ion Group이 채권단에 110억달러 부채를 전액 상환할 계획이라고 밝혔다. Mergermarket·Dealogic 등을 소유한 Ion은 강압적 부채 구조조정을 하지 않겠다는 입장을 명확히 했다.
-<a href="https://www.ft.com/content/fba91434-70d3-40e6-adb1-8d0c5d6f4fe6">[FT]</a></blockquote>
+<b>13. 프랑스 중앙은행 총재, ECB 채권 개입 불필요...극좌의 위협 비판</b>
+<blockquote>프랑스 중앙은행 총재 Emmanuel Moulin이 채권시장 급락에도 유럽중앙은행(ECB)의 개입은 필요 없다고 밝혔다. 그는 또 극좌파의 트럼프식 위협에 대해서도 비판했다.
+<a href="https://www.ft.com/content/d9ba8e1f-54f9-4739-9ce3-94e62d585e26">[FT]</a></blockquote>
 
-<b>14. 월가 보너스, 올해도 최고치 경신 전망...업계 수익 900억달러 예상</b>
-<blockquote>뉴욕주 당국은 월가가 올해 900억달러 수익을 기록하며 보너스가 또다시 사상 최고치를 경신할 것으로 전망했다. 금융업계 호황이 지속되며 고액 보상이 계속 증가하고 있다.
-<a href="https://www.wsj.com/finance/wall-street-bonuses-are-expected-to-hit-another-high-this-year-d7dd453f">[WSJ]</a></blockquote>
+<b>14. 달러지수 0.26% 상승...18거래일 중 14일 상승</b>
+<blockquote>WSJ 달러지수가 0.3% 올라 97.40을 기록했다. 최근 18거래일 중 14일 상승하며 강세를 이어가고 있다.
+<a href="https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-may-be-aided-by-appetite-for-risk-assets-ee0a9ce8">[WSJ]</a></blockquote>
 
-<b>15. 호르무즈 해협 통과 선장 급여 월 10만달러...중동 리스크에 인건비 급등</b>
-<blockquote>호르무즈 해협을 통과하는 선박 선장의 급여와 보너스가 월 10만달러까지 치솟았다. 이란 공격 위협으로 해협 운항 위험이 커지며 해운 인력 비용이 급증하고 있다.
-<a href="https://www.ft.com/content/0d665e5b-d8c8-4f1e-acf5-bba7193b4e6e">[FT]</a></blockquote>
+<b>15. 미 증시 하락...국채 금리 수십년래 고점 테스트</b>
+<blockquote>국채 금리 변동성이 주택담보대출 금리와 기업 차입비용에 대한 우려를 촉발하면서 미국 증시가 하락했다.
+<a href="https://www.wsj.com/finance/investing/u-s-stocks-fall-as-treasury-yields-test-multidecade-highs-107d696f">[WSJ]</a></blockquote>
 
-<b>16. Vitol 대표, 유조선 부족에 배럴당 200달러 유가 경고</b>
-<blockquote>세계 최대 독립 석유 트레이딩 업체 Vitol의 CEO가 유조선 공급 부족으로 배럴당 200달러 유가 가능성을 경고했다. 중동 원유 수출 회복에도 불구하고 운송 병목이 새로운 리스크 요인으로 부상했다.
-<a href="https://www.ft.com/content/95db1fbd-4e1f-45cf-b678-c40635f59197">[FT]</a></blockquote>
+<b>16. 금리 상승, 테크주 밸류에이션 압박...고공행진 종목도 예외 없어</b>
+<blockquote>금리 상승으로 여러 업종의 주가가 급락했으며, 기술주들도 과거처럼 높은 밸류에이션 배수를 누리지 못하고 있다.
+<a href="https://www.wsj.com/finance/stocks/rising-rates-are-eroding-the-value-of-even-the-most-high-flying-tech-stocks-fb420a5e">[WSJ]</a></blockquote>
 
-<b>17. 유가 소폭 상승 마감...중동 수출 회복에도 운송 리스크 잔존</b>
-<blockquote>국제유가가 초반 하락세를 만회하고 소폭 상승 마감했다. 중동 원유 수출 증가 기대감과 호르무즈 해협·홍해 인근 운송 리스크가 맞물리며 변동성이 지속됐다.
-<a href="https://www.wsj.com/finance/commodities-futures/oil-little-changed-as-traders-weigh-mideast-crude-export-data-6785f907">[WSJ]</a></blockquote>
+<b>17. 금 선물 하락...달러 강세·고금리 압박</b>
+<blockquote>금 선물이 4거래일 중 3번째 하락했다. 달러 강세와 높은 미국 채권 수익률이 금 수요를 제한했다.
+<a href="https://www.wsj.com/finance/commodities-futures/gold-ticks-lower-as-investors-await-fed-meeting-minutes-1e95b0b1">[WSJ]</a></blockquote>
 
-<b>18. 미국 천연가스 선물 3거래일 연속 상승...생산 감소·냉방 수요 지속</b>
-<blockquote>미국 천연가스 선물이 3거래일 연속 상승했다. 가스 생산 감소, 냉방 수요 지속, LNG 수출 증가 등이 복합 작용하며 가격 상승세가 이어지고 있다.
-<a href="https://www.wsj.com/articles/european-gas-prices-rise-as-low-storage-leaves-market-vulnerable-cd26ccd5">[WSJ]</a></blockquote>
+<b>18. 중국 국채 수익률 1.7% 하락...글로벌 금리 급등 속 예외</b>
+<blockquote>중국 10년물 국채 수익률이 1.7%까지 떨어졌다. 글로벌 국채 금리가 급등하는 가운데 중국만 예외적으로 경기 둔화와 디플레이션 우려로 국채 가격이 올랐다.
+<a href="https://www.wsj.com/finance/investing/bond-yields-are-surging-around-the-worldbut-not-in-china-efd4c694">[WSJ]</a></blockquote>
 
-<b>19. Trump, 휘발유세 중단 검토 중...유가 급등에 중간선거 4주 앞두고 압박</b>
-<blockquote>Donald Trump 대통령이 연방 휘발유세 중단을 검토 중이라고 밝혔다. 유가 급등으로 공화당이 중간선거를 4주 앞두고 압박받는 가운데 유권자 부담 완화 카드를 꺼내들었다.
-<a href="https://www.ft.com/content/3fd43fc5-4973-4a26-9d9c-47b6361e6217">[FT]</a></blockquote>
+<b>19. 중국, EU 하이브리드차 자율 수출 제한 요청 거부...무역 갈등 심화</b>
+<blockquote>중국이 유럽연합(EU)의 하이브리드차 자율적 수출 제한 요청을 거부했다. EU 집행위는 이제 급증하는 중국산 하이브리드차 수입을 막기 위한 임시 제한 조치를 검토 중이며, 이는 심각한 무역 갈등을 촉발할 수 있다.
+<a href="https://www.ft.com/content/32e1c801-fe7d-4389-b3fc-ab687cbb087b">[FT]</a></blockquote>
 
-<b>20. 캐나다 퀘벡, 분리주의 정당 승리...미국과의 연합 전선에 균열</b>
-<blockquote>캐나다 퀘벡주에서 분리주의 정당이 선거에서 승리하며 Mark Carney 총리가 미국에 맞선 연합 전선 구축에 어려움을 겪게 됐다. 서부 앨버타주에서도 주권 도전이 제기되며 연방 단결이 시험대에 올랐다.
-<a href="https://www.ft.com/content/c9aa72e9-9c96-4330-9372-1f00925b9f66">[FT]</a></blockquote>
+<b>20. 독일, 중국 국영사 함부르크 항만 인수 차단...안보 우려</b>
+<blockquote>독일 정부가 안보 우려를 이유로 중국 국영 해운사 Cosco의 함부르크 항만 물류기업 인수를 차단했다. 독일 최대 항만에서 중국의 영향력 확대를 막기 위한 조치다.
+<a href="https://www.ft.com/content/3616b259-723d-4797-a96c-be617d673feb">[FT]</a></blockquote>
 
-<b>21. 독일 극우, 지역 의회 의장직 첫 확보...기성 정당 4명 비밀 지지</b>
-<blockquote>독일 극우정당 후보 Tobias Rausch가 기성 정당 소속 의원 4명의 비밀 지지를 받아 지역 의회 의장에 선출됐다. 극우 세력이 지역 의회 의장직을 차지한 것은 처음으로, 독일 정치권에 충격을 주고 있다.
-<a href="https://www.ft.com/content/76db879a-2c53-4aee-8354-b30185f1d3a4">[FT]</a></blockquote>
+<b>21. 영국, 중국산 화학제품 관세 부과 검토...EU 무역 분쟁 제품</b>
+<blockquote>영국 무역감시기구가 EU와 무역 분쟁 중인 중국산 화학제품에 대한 관세 부과를 권고했다. 영국 정부는 권고를 따를지 어려운 결정에 직면했다.
+<a href="https://www.ft.com/content/a7af63b4-70de-4c08-8aa1-1eb2298d7f2f">[FT]</a></blockquote>
 
-<b>22. 전 독일 정보기관 수장, 간첩 혐의로 체포...BND 창설 이래 최대 스캔들</b>
-<blockquote>독일 연방정보국(BND) 전 국장이 간첩 혐의로 체포됐다. 이번 사건은 1950년대 중반 BND 창설 이래 최대 스캔들로, 독일 정보기관의 신뢰에 타격을 입혔다.
-<a href="https://www.wsj.com/world/europe/former-german-spy-chief-arrested-on-suspicion-of-espionage-9e261c69">[WSJ]</a></blockquote>
+<b>22. 트럼프 행정부, 강제노동 관세 부활...새 이론으로 글로벌 관세 정당화</b>
+<blockquote>트럼프 행정부가 강제노동 위반을 이유로 글로벌 관세를 부활시켰다. 민주당이 주도하는 법적 도전에 직면했지만, 강제노동 정책은 사라지지 않을 전망이다.
+<a href="https://www.wsj.com/economy/trade/trumps-tariffs-put-a-spotlight-on-forced-labor-it-isnt-going-away-b5f68fda">[WSJ]</a></blockquote>
 
-<b>23. 미국·아이슬란드 군사 협력 강화...북극 군사 거점 확대 추진</b>
-<blockquote>Marco Rubio 국무장관이 아이슬란드를 방문해 북극 지역 군사 협력 강화를 논의했다. Trump 대통령의 그린란드 위협 발언으로 긴장이 고조된 가운데, 미국이 북극 군사 거점 확대를 모색하고 있다.
-<a href="https://www.wsj.com/world/u-s-looks-to-iceland-as-it-expands-military-footprint-in-arctic-aa6420e6">[WSJ]</a></blockquote>
+<b>23. Oracle·Broadcom·SpaceX, AI 칩 위해 수백억달러 차입 추진</b>
+<blockquote>Oracle, Broadcom, SpaceX가 AI 칩 구매 자금 마련을 위해 각각 수백억 달러 규모의 대규모 부채 조달에 나섰다. Apollo, Blackstone, Goldman Sachs 등이 대출 협상에 참여 중이다.
+<a href="https://www.wsj.com/tech/oracle-broadcom-and-spacex-seek-blockbuster-debt-deals-to-pay-for-ai-chips-848e8032">[WSJ]</a></blockquote>
 
-<b>24. Volvo CEO, 미국 내 중국 부품 사용 확대 전망...의회 금지 논의 속 역행</b>
-<blockquote>Volvo CEO가 미국 판매 차량에 중국 부품 사용을 늘릴 것이라고 밝혔다. 의회에서 중국 자동차 제조사 금지를 논의하는 가운데, Volvo는 중국 소유권과 미국 소비자를 모두 활용하는 전략을 추진 중이다.
-<a href="https://www.wsj.com/business/autos/this-auto-ceo-sees-a-future-with-more-chinese-parts-in-american-cars-f34efc01">[WSJ]</a></blockquote>
+<b>24. SpaceX 신용 리스크 급등...400억달러 Nvidia 칩 차입 보도 후</b>
+<blockquote>Elon Musk의 SpaceX를 추종하는 신용부도스왑(CDS) 프리미엄이 급등했다. FT가 SpaceX가 Nvidia 칩 구매를 위해 400억 달러 차입을 추진 중이라고 보도한 직후다.
+<a href="https://www.ft.com/content/4f2417d3-3de6-4f62-bd3a-8c8f740a4b29">[FT]</a></blockquote>
 
-<b>25. 러 시베리아 연구소서 페스트 유출 가능성...미국, 공개 압박</b>
-<blockquote>러시아 시베리아 연구소에서 페스트가 유출됐을 가능성이 제기되며 미국이 러시아에 세부 정보 공개를 압박하고 있다. 러시아의 비밀주의로 위협 수준이 불명확한 상태다.
-<a href="https://www.economist.com/europe/2026/10/06/the-plague-may-have-escaped-from-a-lab-in-siberia">[Economist]</a></blockquote>
+<b>25. 런던 헤지펀드 Arini, 크레딧 베팅 실패로 16% 손실</b>
+<blockquote>런던 헤지펀드 Arini의 플래그십 전략이 크레딧 베팅 실패로 16% 손실을 기록했다. 이 펀드는 3개월 연속 손실을 본 후 최근 몇 주간 15억 달러를 추가 조달했다.
+<a href="https://www.ft.com/content/b52c8acc-7ea5-4bd0-b26a-b9956e19867b">[FT]</a></blockquote>
 
-<b>26. 미 8월 무역적자 1060억달러로 1년여래 최대...원유·금·반도체 수입 급증</b>
-<blockquote>미국의 8월 무역적자가 약 1060억달러를 기록하며 1년여 만에 최대 규모를 나타냈다. 원유, 금, 반도체 등 수입이 급증하며 적자 폭이 확대됐다.
-<a href="https://www.wsj.com/economy/trade/u-s-trade-deficit-widens-to-largest-level-in-more-than-a-year-32618af7">[WSJ]</a></blockquote>
+<b>26. 천연가스 선물 상승...초반 난방 수요 전망에 4거래일 연속 상승</b>
+<blockquote>미국 천연가스 선물이 4거래일 연속 상승했다. 쌀쌀한 날씨 전망이 초반 난방 수요를 촉진하면서 주입 시즌 잔여 기간 재고 증가폭을 제한할 것으로 예상된다.
+<a href="https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-extends-gains-with-eyes-on-storm-a8a32ad9">[WSJ]</a></blockquote>
 
-<b>27. 캐나다 8월 무역흑자 대폭 확대...2022년 5월 이후 최대</b>
-<blockquote>캐나다의 8월 상품무역 흑자가 예상치를 크게 웃돌며 6개월 연속 흑자를 기록했다. 2022년 5월 이후 최대 규모로, 새로운 관세 부과를 앞두고 무역 호조세를 보였다.
-<a href="https://www.wsj.com/economy/trade/canadas-august-trade-surplus-widens-sharply-ahead-of-fresh-tariffs-48955372">[WSJ]</a></blockquote>
+<b>27. Wells Fargo, 흑인 주택 소유 확대 프로그램 규제 조사</b>
+<blockquote>트럼프 행정부의 주택도시개발부(HUD)가 Wells Fargo의 흑인 주택 소유권 확대 프로그램을 조사 중이다. 인종 기반 대출이 공정주택법 위반 가능성이 있다며 단속에 나섰다.
+<a href="https://www.wsj.com/finance/banking/wells-fargo-faces-regulator-probe-over-efforts-to-boost-black-homeownership-a337b46e">[WSJ]</a></blockquote>
 
-<b>28. 영국 Asos, 앱 해킹 경고 알림 후 주가 11% 급락</b>
-<blockquote>영국 온라인 패션 리테일러 Asos의 앱 사용자에게 해킹 경고 알림이 발송된 후 주가가 11% 급락했다. 회사는 사건 조사에 착수했으며, FTSE 250 구성 종목으로 시장 신뢰에 타격을 입었다.
-<a href="https://www.ft.com/content/eab7052d-6640-4928-a128-8df73455ba0a">[FT]</a></blockquote>
+<b>28. FlyDubai 부조종사, 7월에도 공격 계획...이스라엘행 노선 물색</b>
+<blockquote>FlyDubai 여객기 추락 사건 수사에 정통한 소식통에 따르면, 부조종사는 이스라엘로 가는 항공사와 노선을 물색했으며 지난 7월 비행에서도 공격을 실행하려 했던 것으로 드러났다.
+<a href="https://www.wsj.com/world/middle-east/flydubai-co-pilot-almost-carried-out-his-attack-in-july-58bfd268">[WSJ]</a></blockquote>
 
-<b>29. 영국 보수당, EU 식품 규제 협정 폐기 검토...업계 '엄청난 불확실성' 우려</b>
-<blockquote>영국 보수당이 EU와의 식품 규제 협정 폐기를 검토하고 있어 식음료 업계가 반발하고 있다. 업계는 정권 교체 때마다 상이한 규제를 준수해야 할 위험을 우려하고 있다.
-<a href="https://www.ft.com/content/f923e23b-423a-446c-bf84-a68f7b1d169c">[FT]</a></blockquote>
+<b>29. 러시아, 우크라이나 대규모 공격으로 최소 24명 사망...어린이 포함</b>
+<blockquote>러시아가 우크라이나를 향해 대규모 공격을 감행해 어린이를 포함해 최소 24명이 숨졌다. 러시아는 우크라이나의 탄도미사일과 제트 추진 드론 방어망 허점을 공략하고 있다.
+<a href="https://www.wsj.com/world/europe/heavy-russian-attack-kills-at-least-24-in-ukraine-including-children-147a90c1">[WSJ]</a></blockquote>
 
-<b>30. 영국 Badenoch, 청년층 고용주 국민보험 절반 감면 공약</b>
-<blockquote>영국 보수당 대표 Kemi Badenoch가 21~24세 근로자에 대한 고용주 국민보험 기여금을 절반으로 줄이겠다고 공약했다. 보수당은 추가 세수와 복지 지출 감소를 감안하면 비용이 23억파운드에 그칠 것으로 추산했다.
-<a href="https://www.ft.com/content/aae1fc0b-2c24-4e44-a2b7-886ad2cc5ffe">[FT]</a></blockquote>
+<b>30. 미 무역적자 확대...데이터센터 건설 붐에 수입 급증</b>
+<blockquote>미국 무역적자가 확대됐다. 데이터센터 건설 붐으로 관련 장비 수입이 급증한 것이 주요 원인이다.
+<a href="https://www.wsj.com/logistics-report/u-s-trade-deficit-widens-as-data-center-build-out-boosts-imports-f5dbdefa">[WSJ]</a></blockquote>
 
-<b>31. 영국 Healey 재무장관, 은행 CEO에 '어려운 재정 상황' 경고...증세 언급은 회피</b>
-<blockquote>영국 재무장관 Rachel Healey가 Barclays·HSBC·NatWest 등 은행 CEO들과 만나 '어려운(challenging)' 재정 상황을 경고했지만, 예산안 증세 여부에 대해서는 구체적 답변을 하지 않았다.
-<a href="https://www.ft.com/content/3cd5097b-b5ca-4b9f-83fd-f008bb2b72d3">[FT]</a></blockquote>
-
-<b>32. EY 데이터 유출 사건에 Goldman Sachs·Man Group도 노출</b>
-<blockquote>올해 초 발생한 EY 데이터 유출 사건의 피해 범위가 확대되며 Goldman Sachs와 Man Group도 영향을 받은 것으로 드러났다. 금융업계 데이터 보안 우려가 커지고 있다.
-<a href="https://www.ft.com/content/2ad1ff25-f08e-4e78-83c9-90e7ea3844ee">[FT]</a></blockquote>
-
-<b>33. McKesson·CD&R, 주입 치료 업체 Option Care Health 58억달러 인수</b>
-<blockquote>McKesson과 사모펀드 CD&R이 재택 주입 치료 제공업체 Option Care Health를 58억달러에 인수한다. CD&R이 지분 51%, McKesson이 49%를 보유하며, 헬스케어 서비스 업체 밸류에이션 하락기를 노린 인수 거래가 이어지고 있다.
-<a href="https://www.wsj.com/business/deals/cd-r-mckesson-to-acquire-at-home-infusion-therapy-provider-for-5-8-billion-1beddf40">[WSJ]</a></blockquote>
-
-<b>34. 프랑스 AI 스타트업 Mistral, 신규 모델 출시로 미국 경쟁사 추격</b>
-<blockquote>프랑스 AI 스타트업 Mistral이 미국 경쟁사와의 격차를 좁히기 위해 신규 AI 모델 공개 미리보기를 시작했다. 학습된 파라미터는 10월 27일 공개될 예정이다.
-<a href="https://www.wsj.com/tech/ai/mistral-to-release-new-ai-model-to-better-compete-with-u-s-rivals-3f7c8a3d">[WSJ]</a></blockquote>
-
-<b>35. 영국 Informa, Blackstone 소유 Clarion 22억파운드 인수...학술 부문은 분리</b>
-<blockquote>FTSE 100 기업 Informa가 Blackstone 소유의 경쟁 이벤트 업체 Clarion을 22억파운드에 인수한다. Informa는 학술 사업 부문을 분리하고 라이브 이벤트 사업에 집중할 계획이다.
-<a href="https://www.ft.com/content/0c8c0122-cc24-4ea5-bc7f-09bfc95d3dd1">[FT]</a></blockquote>
-
-<b>36. 연준 Kevin Warsh, '경제 주시·연준 무시' 강조했지만...부의장들 10월 금리 기대 조정 나서</b>
-<blockquote>Kevin Warsh 연준 의장이 투자자들에게 연준이 아닌 경제를 주시하라고 당부했지만, 지난주 연준 부의장들이 시장의 10월 금리인하 기대를 조정하기 위해 나섰다. 연준 커뮤니케이션 축소가 예상보다 어렵다는 평가가 나온다.
-<a href="https://www.wsj.com/economy/central-banking/why-weaning-markets-off-fed-speak-is-harder-than-it-sounds-d202aefb">[WSJ]</a></blockquote>
-
-<b>37. Paramount, Warner Bros 1,110억달러 인수 완료...Skydance로 사명 변경</b>
-<blockquote>Paramount가 Warner Bros 인수를 완료하고 사명을 Skydance로 변경했다. David Ellison CEO는 통합 기업에서 60억달러 비용 절감을 목표로 대규모 구조조정을 예고했다.
-<a href="https://www.ft.com/content/93756433-eb78-422d-8ac3-30e8cc243a00">[FT]</a></blockquote>
-
-<b>38. Energy Transfer, Vaquero Midstream 26억3000만달러 인수</b>
-<blockquote>Energy Transfer가 중류 에너지 기업 Vaquero Midstream을 26억3000만달러에 인수한다. 거래 대금은 현금 19억5000만달러와 신주 3,330만 주로 구성된다.
-<a href="https://www.wsj.com/business/energy-oil/energy-transfer-to-acquire-vaquero-midstream-for-2-63-billion-79c90c47">[WSJ]</a></blockquote>
-
-<b>39. 미 대법원, 대형 석유사 기후소송 관할 심리...비용 책임 놓고 핵심 공방</b>
-<blockquote>미국 대법원이 대형 석유사들을 기후변화 비용 책임 대상으로 삼는 소송의 관할권 문제를 심리했다. 이번 사건은 오염 기업에 기후변화 비용 책임을 묻는 핵심 선례가 될 전망이다.
-<a href="https://www.ft.com/content/664a215a-86e4-4e13-ad7c-50119d7ebdb1">[FT]</a></blockquote>
+<b>31. VW, 자동차 금융 불완전판매 스캔들에 7억2500만파운드 충당금</b>
+<blockquote>폭스바겐이 자동차 금융 불완전판매 스캔들로 7억2500만파운드의 충당금을 적립했다. 자동차 제조사로는 최대 규모이며, 자동차 업계 전체 충당금은 15억파운드를 넘어섰다.
+<a href="https://www.ft.com/content/ad767b0a-d6c4-4728-b82d-56a33154ddd8">[FT]</a></blockquote>
 
 ━━━━━━━━━━━━━━━━━━━━
 📡 <b>출처: WSJ · FT · The Economist</b>
