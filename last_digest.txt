@@ -4,117 +4,29 @@
 
 ✅ <b>간밤의 주요 헤드라인</b>
 
-<b>1. Trump, 러시아산 디젤 공급 계약 체결...중간선거 앞두고 유가 안정화 시도</b>
-<blockquote>Trump 대통령이 대규모 러시아산 디젤 공급 계약을 체결했다. 중간선거를 앞두고 연료 가격 인하를 노린 정책 전환으로, 모스크바에 대한 압박을 완화하는 움직임이다. 에너지 시장과 대러 제재 기조에 중대한 변화가 예상된다.
-<a href="https://www.wsj.com/politics/policy/trump-strikes-deal-with-putin-for-russian-diesel-15751436">[WSJ]</a> <a href="https://www.ft.com/content/84ca76fd-0eed-4fb6-aea4-f72638a9d9c8">[FT]</a></blockquote>
+<b>1. 사우디 수도 공항 미사일 공격으로 12명 사망...예멘 후티 반군 소행</b>
+<blockquote>리야드 국제공항이 미사일 공격을 받아 최소 12명이 사망하고 수백 명이 부상했다. 사우디 당국은 공항을 폐쇄하고 승객을 대피시켰다. 10년 이상 사우디에서 발생한 공격 중 가장 치명적인 사건으로, 왕국이 대규모 투자 서밋을 앞두고 있는 시점에 발생했다.
+<a href="https://www.ft.com/content/391ddf3f-b233-41fd-819b-fcdbfb0ed010">[FT]</a> <a href="https://www.wsj.com/world/middle-east/iran-backed-houthis-hit-saudi-capitals-airport-in-damaging-new-attack-d4c12236">[WSJ]</a></blockquote>
 
-<b>2. 유가, 중간선거 전 이란 공격 배제 선언에 소폭 상승...에너지 시장 긴장 완화</b>
-<blockquote>Trump 대통령이 중간선거 전 이란 공격을 배제하겠다고 밝힌 뒤 유가는 소폭 상승 마감했다. 시장은 중동 전쟁 확전 우려 완화에 안도했지만 페르시아만 해운 리스크와 멕시코만 생산 차질은 여전히 가격을 지지하는 요인으로 작용했다.
-<a href="https://www.wsj.com/business/energy-oil/oil-prices-retreat-after-trump-appears-to-rule-out-iran-strikes-before-midterms-55b0e4d9">[WSJ]</a></blockquote>
+<b>2. 사우디 주요 투자회의 참석 불확실성 확산...에너지 업계 긴장 고조</b>
+<blockquote>리야드 공항 공격 이후 세계석유회의(WPC) 에너지 총회와 미래투자이니셔티브(FII) 참석 여부를 두고 글로벌 기업 임원들이 고심하고 있다. 사우디는 다음 주 두 차례 대규모 투자 행사를 개최할 예정이었으나, 공격으로 참석률과 투자 심리에 타격이 불가피한 상황이다.
+<a href="https://www.ft.com/content/e29fd05b-9e71-474c-906e-c3fd45dfaa03">[FT]</a></blockquote>
 
-<b>3. 이란, 호르무즈 해협 외곽 유조선 공격 확대...에너지 공급망 압박 지속</b>
-<blockquote>이란이 호르무즈 해협 외곽에서 유조선 공격을 확대하며 글로벌 에너지 공급로에 대한 영향력을 유지하려 하고 있다. 전쟁 확전 우려가 일부 완화됐지만 중동 해운 경로의 지정학 리스크는 여전히 높은 수준이다.
-<a href="https://www.ft.com/content/83b817d5-df71-41a6-bef5-3db55a3a89cf">[FT]</a></blockquote>
+<b>3. Trump, 우크라이나에 러시아 정유시설 공격 중단 요구...Zelenskyy 교체 압박</b>
+<blockquote>Trump 대통령이 우크라이나의 러시아 정유시설 공격 중단을 요구하며 Volodymyr Zelenskyy 대통령 교체를 촉구했다. 백악관은 우크라이나의 러시아 공격이 정보공유 협력을 위협한다고 경고했다. 러시아가 우크라이나 도시 폭격을 강화하는 가운데 양국 관계가 최악의 국면으로 치닫고 있다.
+<a href="https://www.wsj.com/world/trump-calls-on-ukraine-to-stop-hitting-russian-refineriesand-replace-zelensky-cc9bada8">[WSJ]</a> <a href="https://www.ft.com/content/7fd4dffc-8adf-4ad8-9fba-333e1ced991d">[FT]</a></blockquote>
 
-<b>4. 허리케인 Isaias, 멕시코만 강타...석유·가스 생산 차질 발생</b>
-<blockquote>올해 첫 대서양 허리케인 Isaias가 멕시코만을 향해 북상하며 플로리다, 앨라배마, 조지아, 미시시피 지역 석유·가스 생산에 차질이 발생했다. 에너지 공급망 불확실성이 더해지는 상황이다.
-<a href="https://www.ft.com/content/f7d90625-0d78-44b2-927f-d63f4dbc5e8d">[FT]</a></blockquote>
+<b>4. 허리케인 Isaias, 미 멕시코만 강타...석유·가스 생산 차질 불가피</b>
+<blockquote>올 시즌 첫 대형 대서양 허리케인 Isaias가 플로리다·앨라배마·조지아를 강타해 최소 2명이 사망하고 80만 가구 이상이 정전 피해를 입었다. 멕시코만 석유·가스 생산 시설이 타격을 받으며 에너지 공급 차질이 우려된다.
+<a href="https://www.ft.com/content/f7d90625-0d78-44b2-927f-d63f4dbc5e8d">[FT]</a> <a href="https://www.wsj.com/us-news/climate-environment/hurricane-isaias-makes-landfall-in-florida-ac0b1964">[WSJ]</a></blockquote>
 
-<b>5. 항공사들, 이란 전쟁 여파로 암울한 겨울 전망...에너지 쇼크 타격</b>
-<blockquote>항공업계가 미국-이스라엘의 이란 전쟁으로 촉발된 에너지 쇼크에 직격탄을 맞았다. 연료비 급등으로 수익성 악화가 예상되며 항공사들은 겨울 성수기를 앞두고 어두운 전망을 내놓고 있다.
-<a href="https://www.ft.com/content/847e6d14-08e4-4477-8722-40bd7162b992">[FT]</a></blockquote>
+<b>5. 인도 중앙은행, 루피 방어 개입 나서...사상 최저치 근접</b>
+<blockquote>인도중앙은행이 루피화 지지를 위한 시장 개입에 나섰다. 미국-이스라엘의 이란 전쟁 여파로 에너지 비용이 상승하면서 세계 최대 경제 성장국인 인도의 통화가 약세 압력을 받고 있다. 루피화는 역대 최저치에 근접한 수준까지 하락했다.
+<a href="https://www.ft.com/content/b373cf00-9a94-4dc7-bdda-bc7006da1148">[FT]</a></blockquote>
 
-<b>6. EU 집행위, 에너지 기업 횡재세 검토...이란 전쟁 특수 수익 겨냥</b>
-<blockquote>EU 집행위원회가 미국-이스라엘의 이란 전쟁 여파로 막대한 수익을 올리는 석유·가스 기업에 대한 횡재세 부과를 검토하고 있다. 에너지 가격 급등으로 기업 이익이 급증하는 가운데 과세 논의가 본격화됐다.
-<a href="https://www.ft.com/content/ffb13044-216b-4b31-885c-cda9c78cbfdb">[FT]</a></blockquote>
-
-<b>7. Trump, Lisa Cook 연준 이사 조사위원회 설치...중앙은행 장악 시도 재개</b>
-<blockquote>Trump 대통령이 Lisa Cook 연준 이사에 대한 모기지 사기 혐의 조사위원회를 설치했다. 대법원이 지난 6월 Cook 해임 시도를 기각한 뒤 다시 시작된 공세로, 연준에 대한 정치적 영향력 확대 의지를 재확인했다.
-<a href="https://www.wsj.com/economy/central-banking/trump-announces-committee-to-investigate-fed-governor-lisa-cook-bcd509fa">[WSJ]</a> <a href="https://www.ft.com/content/d0c81cd2-f944-46b9-a859-abc3f0bd3516">[FT]</a></blockquote>
-
-<b>8. 달러, 4주 연속 강세 마감...연준 금리 인상 기대 지속</b>
-<blockquote>달러 지수가 4주 연속 상승 마감했다. 투자자들은 연준이 인플레이션 억제를 위해 금리 인상을 지속할 것으로 예상하고 있으며, 이는 달러 강세를 뒷받침하는 주요 요인으로 작용했다.
-<a href="https://www.wsj.com/finance/currencies/asian-currencies-mostly-consolidate-focus-on-u-s-data-fe613e38">[WSJ]</a></blockquote>
-
-<b>9. 글로벌 채권 수익률 소폭 상승...채권 매도세 주춤하며 고점 하회</b>
-<blockquote>미국과 유럽 국채 수익률이 소폭 상승했지만 최근 고점은 하회했다. 글로벌 채권 매도 압력이 다소 완화되는 모습이지만 수익률 상승 기조는 여전히 유지되고 있다.
-<a href="https://www.wsj.com/finance/investing/u-s-treasury-yields-edge-higher-eurozone-bond-yields-decline-62cfd8c8">[WSJ]</a></blockquote>
-
-<b>10. 스몰캡 주가, 수익률 상승에 타격...Russell 2000 지수 5주 연속 하락</b>
-<blockquote>소형주를 추적하는 Russell 2000 지수가 금요일 5주 연속 하락 마감했다. 채권 수익률 급등이 차입 비용에 민감한 소형주에 직격탄을 날리며 약세를 이어갔다.
-<a href="https://www.wsj.com/finance/stocks/as-yields-surged-small-cap-stocks-were-hit-hard-7470f7e4">[WSJ]</a></blockquote>
-
-<b>11. 금 가격, 2주 하락세 탈출...주간 소폭 상승 마감</b>
-<blockquote>금 선물이 2주 연속 하락세를 끊고 이번 주 소폭 상승 마감했다. 달러 강세와 채권 수익률 상승에도 불구하고 지정학 리스크가 금 수요를 일부 지지했다.
-<a href="https://www.wsj.com/finance/commodities-futures/gold-rises-supported-by-potential-china-demand-08b60462">[WSJ]</a></blockquote>
-
-<b>12. Bessent 재무장관, 방콕 IMF 연차총회 불참...국내 일정 이유</b>
-<blockquote>Scott Bessent 미국 재무장관이 '국내 업무'를 이유로 방콕에서 열리는 IMF 연차총회 참석을 취소했다. 글로벌 경제·통화 정책 협의 무대에서 미국의 부재가 주목된다.
-<a href="https://www.ft.com/content/9496dd1d-fabf-4c58-bbc3-88cb51f2a68d">[FT]</a></blockquote>
-
-<b>13. 미국 증시 상승, 이란 긴장 완화에 안도...중동 전쟁 확전 우려 진정</b>
-<blockquote>Trump 대통령의 중간선거 전 이란 공격 배제 선언 이후 미국 증시는 상승 마감했다. 중동 전쟁 확전과 에너지 시장 혼란에 대한 우려가 완화되며 투자 심리가 개선됐다.
-<a href="https://www.wsj.com/finance/stocks/u-s-stocks-rise-as-iran-escalation-fears-subside-2ad4f362">[WSJ]</a></blockquote>
-
-<b>14. 미시간대 소비자심리지수 46.3으로 급락...9월 48.1서 하락</b>
-<blockquote>미시간대 10월 소비자심리지수 예비치가 46.3으로 9월 48.1에서 하락했다. 높은 인플레이션과 금리 부담이 소비자 심리를 압박하며 경기 둔화 우려를 키우고 있다.
-<a href="https://www.wsj.com/economy/consumers/consumer-sentiment-drops-per-michigan-survey-ea8fae7c">[WSJ]</a></blockquote>
-
-<b>15. 부유층·고령층 순자산 급증...팬데믹 이후 미국 자산 양극화 심화</b>
-<blockquote>연준 조사 결과 팬데믹 이후 부유층과 고령층 미국인의 순자산이 크게 증가한 것으로 나타났다. 전체 가구 중위 순자산은 2% 상승에 그쳤지만 상위층 자산은 급증하며 불평등이 심화됐다.
-<a href="https://www.wsj.com/economy/affluent-and-older-americans-got-much-richer-in-the-postpandemic-years-f53b3113">[WSJ]</a></blockquote>
-
-<b>16. SpaceX, 주파수 매입 발표에 미국 통신주 $60bn 급락...모바일 시장 진출 본격화</b>
-<blockquote>SpaceX가 주파수 매입을 발표하며 미국 소비자 대상 Starlink 모바일 서비스 출시를 위한 중대한 발걸음을 내디뎠다. 이 소식에 기존 통신사 주가가 급락하며 시가총액 $60bn이 증발했다.
-<a href="https://www.ft.com/content/8c3f95ec-2428-4102-9f67-b707f1264c69">[FT]</a> <a href="https://www.wsj.com/finance/stocks/spacexs-wireless-move-trips-up-telecoms-49d5f27f">[WSJ]</a></blockquote>
-
-<b>17. Delta 항공, 연료비 상승에 3분기 이익 전망 하향...이란 전쟁 여파 지속</b>
-<blockquote>Delta 항공이 유가 상승으로 3분기 이익 전망을 하향 조정했다. 매출은 증가했지만 이란 분쟁 여파로 인한 연료비 부담이 수익성을 압박하고 있다.
-<a href="https://www.ft.com/content/77d73223-3cfc-4892-a3c5-5502595f42d4">[FT]</a></blockquote>
-
-<b>18. OpenAI 매출 수정 공개, 월가 변동성 촉발...연간 매출 $20bn 하향</b>
-<blockquote>OpenAI의 연간 매출이 기존 예상치보다 $20bn 낮은 것으로 드러나며 미국 증시에 변동성을 일으켰다. AI 기업 밸류에이션에 대한 불확실성이 커지며 투자 심리에 영향을 미쳤다.
-<a href="https://www.ft.com/content/62653892-2333-4953-a8d5-cfd760ae3257">[FT]</a></blockquote>
-
-<b>19. 중국-EU, 하이브리드차 수출 제한 '이해' 도달...무역 갈등 일단락</b>
-<blockquote>EU 무역 집행위원 Maros Sefcovic는 중국이 WTO 규정에 따라 하이브리드·플러그인 하이브리드 차량 수출을 줄이기로 합의했다고 밝혔다. 양측은 무역 분쟁을 협상으로 해결할 수 있음을 보여줬다고 평가했다.
-<a href="https://www.wsj.com/business/autos/china-eu-move-forward-on-trade-relationship-talks-0f3361b4">[WSJ]</a> <a href="https://www.ft.com/content/2823ef6f-b3d7-494b-b131-414c02d6a59f">[FT]</a></blockquote>
-
-<b>20. Trump, 멕시코에 에너지 거래 압박...무역 협상 쟁점 부상</b>
-<blockquote>Trump 행정부가 무역 협상에서 멕시코에 에너지 거래를 압박하고 나서며 멕시코시티에 경보가 울렸다. 에너지 부문의 국내 통제는 멕시코의 현대 정치 정체성의 일부로 간주되는 민감한 사안이다.
-<a href="https://www.ft.com/content/dda61be8-88bd-4ebc-bde5-ba440308d518">[FT]</a></blockquote>
-
-<b>21. 중국 Geely, 2027년 캐나다 진출 발표...미국 금지 시도 속 북미 확장</b>
-<blockquote>중국 자동차 대기업 Geely가 2027년 캐나다 시장 진출을 발표했다. 미국이 중국 자동차 금지를 추진하는 가운데 캐나다와의 협정으로 수만 대의 저가 전기차를 공급할 계획이다.
-<a href="https://www.wsj.com/business/autos/chinese-auto-giant-geely-announces-canada-entry-in-2027-as-u-s-seeks-ban-5fc6681c">[WSJ]</a></blockquote>
-
-<b>22. 캐나다 고용 6.83만 명 감소, 실업률 6.5% 상승...노동시장 둔화 지속</b>
-<blockquote>캐나다에서 9월 고용이 6만8300명 감소하며 실업률이 0.1%포인트 오른 6.5%를 기록했다. 고용 감소세가 이어지며 경기 둔화 신호가 뚜렷해지고 있다.
-<a href="https://www.wsj.com/economy/jobs/canada-jobless-rate-edges-up-with-another-drop-in-employment-a58c642d">[WSJ]</a></blockquote>
-
-<b>23. 인도 중앙은행 금리 인상...양극화 경제 시험대</b>
-<blockquote>인도 중앙은행이 금리를 인상하며 두 개의 속도로 움직이는 경제를 관리하는 과제에 직면했다. 인플레이션 억제와 성장 둔화 우려 사이에서 통화정책 균형이 시험받고 있다.
-<a href="https://www.ft.com/content/4e84539f-b7a1-4dd2-b475-14afb04bdde3">[FT]</a></blockquote>
-
-<b>24. 브라질 대선, Bolsonaro 아들 결선투표 선두...우파 재집권 전망</b>
-<blockquote>수감 중인 전 대통령 Jair Bolsonaro의 아들 Flávio Bolsonaro가 10월 25일 결선투표에서 Luiz Inácio Lula da Silva를 꺾고 승리할 것으로 예상된다. 브라질 정치 왕조의 재집권 가능성이 커지고 있다.
-<a href="https://www.ft.com/content/d57c427a-2625-4297-bd29-01aac0d69e2f">[FT]</a></blockquote>
-
-<b>25. 미국, ICC 제재 발표...헤이그 재판소에 180일 거래 중단 통보</b>
-<blockquote>미국이 국제형사재판소(ICC)에 대한 전면적 제재를 발표하며 ICC를 미국 금융 시스템에서 차단하고 달러 거래를 금지할 수 있다고 경고했다. 기업들에게는 180일 내 ICC와의 거래를 중단하라는 통보가 내려졌다.
-<a href="https://www.wsj.com/world/europe/u-s-sanctions-and-threatens-to-dismantle-international-criminal-court-1d7417c8">[WSJ]</a> <a href="https://www.ft.com/content/4d5757e9-78b5-42f6-b26b-d9556321c0c8">[FT]</a></blockquote>
-
-<b>26. Vance 부통령, Microsoft 등 H-1B 비자 프로그램서 정지...이민 남용 단속</b>
-<blockquote>JD Vance 부통령이 Microsoft를 포함한 여러 기술 기업의 H-1B 비자 소지자 영주권 신청 프로그램 참여를 정지한다고 밝혔다. Trump 행정부의 이민 시스템 남용 단속 일환으로 추진된다.
-<a href="https://www.wsj.com/politics/policy/vance-says-u-s-will-suspend-microsoft-and-other-firms-from-green-card-program-7f45a570">[WSJ]</a></blockquote>
-
-<b>27. Binance '고가치 고객', 이란 금융 생명선 구축...서방 제재 우회</b>
-<blockquote>공개되지 않았던 Binance 문서에 따르면 이란 네트워크가 암호화폐 거래소를 이용해 서방 정부의 의사에 반하는 자금 이동 통로를 구축한 것으로 드러났다. 제재 회피 경로로 암호화폐가 활용된 사례가 확인됐다.
-<a href="https://www.wsj.com/world/middle-east/how-a-binance-high-value-customer-established-a-financial-lifeline-for-iran-43bdd88e">[WSJ]</a></blockquote>
-
-<b>28. 독일, ECB 총재직 추진 포기...집행이사 후임 지명으로 선회</b>
-<blockquote>독일 재무장관 Lars Klingbeil이 룩셈부르크에서 동료들에게 베를린이 Isabel Schnabel 집행이사 후임 후보를 지명할 것이라고 밝혔다. ECB 총재직 확보 전략에서 물러나는 독일의 입장 전환이 주목된다.
-<a href="https://www.ft.com/content/8354b63b-44ae-4aef-9c6b-5cef1f9bb001">[FT]</a></blockquote>
+<b>6. AI 인프라 채권 발행 둔화...투자자들 부채 급증에 경계감</b>
+<blockquote>AI 인프라 붐을 뒷받침하던 채권 발행이 둔화되고 있다. 수개월간 기록적인 발행이 이어진 뒤 투자자들이 과도한 부채 증가에 우려를 나타내며 자금 조달 여건이 달라지고 있다. 기술 섹터의 차입 환경 변화가 AI 투자 템포에 영향을 줄 수 있다는 관측이다.
+<a href="https://www.ft.com/content/9c13d40e-d2b2-45d5-921c-a68cd4b308f9">[FT]</a></blockquote>
 
 ━━━━━━━━━━━━━━━━━━━━
 📡 <b>출처: WSJ · FT · The Economist</b>
