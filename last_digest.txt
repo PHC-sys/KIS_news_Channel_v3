@@ -4,29 +4,69 @@
 
 ✅ <b>간밤의 주요 헤드라인</b>
 
-<b>1. 사우디 수도 공항 미사일 공격으로 12명 사망...예멘 후티 반군 소행</b>
-<blockquote>리야드 국제공항이 미사일 공격을 받아 최소 12명이 사망하고 수백 명이 부상했다. 사우디 당국은 공항을 폐쇄하고 승객을 대피시켰다. 10년 이상 사우디에서 발생한 공격 중 가장 치명적인 사건으로, 왕국이 대규모 투자 서밋을 앞두고 있는 시점에 발생했다.
-<a href="https://www.ft.com/content/391ddf3f-b233-41fd-819b-fcdbfb0ed010">[FT]</a> <a href="https://www.wsj.com/world/middle-east/iran-backed-houthis-hit-saudi-capitals-airport-in-damaging-new-attack-d4c12236">[WSJ]</a></blockquote>
+<b>1. 후티 리야드 공항 미사일 타격...예멘 반군 군사력 과시로 걸프 긴장 고조</b>
+<blockquote>예멘 후티 반군이 사우디 리야드 국제공항을 미사일로 공격해 12명이 사망했다. FT는 이란 지원을 받는 후티가 단순한 민병대가 아닌 정규군 수준의 타격 능력을 보유했음을 입증했다고 분석했다. 사우디는 대응 옵션이 제한적인 상황이다.
+<a href="https://www.ft.com/content/bd2c7385-184e-425e-997f-0f5a8c54184e">[FT]</a></blockquote>
 
-<b>2. 사우디 주요 투자회의 참석 불확실성 확산...에너지 업계 긴장 고조</b>
-<blockquote>리야드 공항 공격 이후 세계석유회의(WPC) 에너지 총회와 미래투자이니셔티브(FII) 참석 여부를 두고 글로벌 기업 임원들이 고심하고 있다. 사우디는 다음 주 두 차례 대규모 투자 행사를 개최할 예정이었으나, 공격으로 참석률과 투자 심리에 타격이 불가피한 상황이다.
-<a href="https://www.ft.com/content/e29fd05b-9e71-474c-906e-c3fd45dfaa03">[FT]</a></blockquote>
+<b>2. 리야드 공습에 BP 등 석유 메이저 CEO들 에너지 회의 불참...산업 행사 취소</b>
+<blockquote>후티의 리야드 공항 미사일 공격으로 World Petroleum Council 회의에 참석 예정이던 BP 등 글로벌 석유 기업 최고경영자들이 불참을 선언했다. 사우디 에너지 산업 중심부가 타격받으면서 주요 산업 행사가 무산됐다.
+<a href="https://www.ft.com/content/a01776ea-4a12-4195-8820-e43a885ba5fe">[FT]</a></blockquote>
 
-<b>3. Trump, 우크라이나에 러시아 정유시설 공격 중단 요구...Zelenskyy 교체 압박</b>
-<blockquote>Trump 대통령이 우크라이나의 러시아 정유시설 공격 중단을 요구하며 Volodymyr Zelenskyy 대통령 교체를 촉구했다. 백악관은 우크라이나의 러시아 공격이 정보공유 협력을 위협한다고 경고했다. 러시아가 우크라이나 도시 폭격을 강화하는 가운데 양국 관계가 최악의 국면으로 치닫고 있다.
-<a href="https://www.wsj.com/world/trump-calls-on-ukraine-to-stop-hitting-russian-refineriesand-replace-zelensky-cc9bada8">[WSJ]</a> <a href="https://www.ft.com/content/7fd4dffc-8adf-4ad8-9fba-333e1ced991d">[FT]</a></blockquote>
+<b>3. 사우디 영공 회피로 글로벌 항공 노선 차단...중동 물류 허브 기능 마비</b>
+<blockquote>미사일 공격 이후 주요 항공사들이 사우디 영공 통과를 중단하면서 세계 양대 경제권을 연결하던 핵심 항로가 끊겼다. 항공 여행이 지정학 갈등의 최전선으로 부상하면서 중동 물류 허브 기능이 사실상 마비됐다.
+<a href="https://www.wsj.com/business/airlines/air-travel-emerges-as-dangerous-front-line-in-global-conflicts-20e972c5">[WSJ]</a></blockquote>
 
-<b>4. 허리케인 Isaias, 미 멕시코만 강타...석유·가스 생산 차질 불가피</b>
-<blockquote>올 시즌 첫 대형 대서양 허리케인 Isaias가 플로리다·앨라배마·조지아를 강타해 최소 2명이 사망하고 80만 가구 이상이 정전 피해를 입었다. 멕시코만 석유·가스 생산 시설이 타격을 받으며 에너지 공급 차질이 우려된다.
-<a href="https://www.ft.com/content/f7d90625-0d78-44b2-927f-d63f4dbc5e8d">[FT]</a> <a href="https://www.wsj.com/us-news/climate-environment/hurricane-isaias-makes-landfall-in-florida-ac0b1964">[WSJ]</a></blockquote>
+<b>4. Economist "사우디 대응 옵션 부재"...후티 공격에 포위된 왕국</b>
+<blockquote>Economist는 사우디가 예멘 반군의 치명적 공격에 효과적으로 대응할 수단이 없다고 진단했다. 방어 시스템 한계와 보복 공격의 역효과 우려로 사우디는 점점 더 포위되는 형국이다.
+<a href="https://www.economist.com/middle-east-and-africa/2026/10/11/saudi-arabia-is-increasingly-under-siege">[Economist]</a></blockquote>
 
-<b>5. 인도 중앙은행, 루피 방어 개입 나서...사상 최저치 근접</b>
-<blockquote>인도중앙은행이 루피화 지지를 위한 시장 개입에 나섰다. 미국-이스라엘의 이란 전쟁 여파로 에너지 비용이 상승하면서 세계 최대 경제 성장국인 인도의 통화가 약세 압력을 받고 있다. 루피화는 역대 최저치에 근접한 수준까지 하락했다.
-<a href="https://www.ft.com/content/b373cf00-9a94-4dc7-bdda-bc7006da1148">[FT]</a></blockquote>
+<b>5. 미 해군, 걸프오브오만서 상선 타격...이란 봉쇄 강화로 중동 긴장 확산</b>
+<blockquote>미군 중부사령부는 걸프오브오만에서 이란 항구 봉쇄를 돌파하려던 상선을 공격했다고 발표했다. 한 달 만에 처음 있는 미군의 직접 타격으로 중동 해역 긴장이 고조되고 있다.
+<a href="https://www.ft.com/content/f9b9f937-97b0-4a03-90f6-05d7c7344ab9">[FT]</a></blockquote>
 
-<b>6. AI 인프라 채권 발행 둔화...투자자들 부채 급증에 경계감</b>
-<blockquote>AI 인프라 붐을 뒷받침하던 채권 발행이 둔화되고 있다. 수개월간 기록적인 발행이 이어진 뒤 투자자들이 과도한 부채 증가에 우려를 나타내며 자금 조달 여건이 달라지고 있다. 기술 섹터의 차입 환경 변화가 AI 투자 템포에 영향을 줄 수 있다는 관측이다.
-<a href="https://www.ft.com/content/9c13d40e-d2b2-45d5-921c-a68cd4b308f9">[FT]</a></blockquote>
+<b>6. Trump 러시아 디젤 수입 허용에 공화당 내 반발...초당적 반대 직면</b>
+<blockquote>Trump 대통령이 러시아산 디젤 수입을 허용하겠다고 밝힌 가운데 공화당 의원들이 반대 입장을 표명했다. FT는 양당 의원들이 이 합의가 Putin의 전쟁 자금을 지원하고 미국 법률을 위반한다고 주장한다고 전했다.
+<a href="https://www.ft.com/content/debf0be6-d5aa-4ba7-bb66-7daf770d99ff">[FT]</a></blockquote>
+
+<b>7. 상원, Trump-Putin 디젤 딜 2022년 법 위반 지적...법적 쟁점 부각</b>
+<blockquote>초당적 상원 의원 그룹이 Trump의 러시아 디젤 수입 허용 조치가 2022년 제정된 법률을 위반한다며 문제를 제기했다. WSJ는 이 법적 쟁점이 행정부의 에너지 정책 추진에 걸림돌이 될 것으로 전망했다.
+<a href="https://www.wsj.com/world/trump-declares-a-russia-ukraine-energy-ceasefire-but-moscow-hasnt-confirmed-f57414e9">[WSJ]</a></blockquote>
+
+<b>8. 러시아 디젤 공급 능력 분석...Trump 딜 실행 가능성 의문</b>
+<blockquote>FT는 우크라이나의 정유시설 공격으로 러시아가 소련 붕괴 이후 최악의 휘발유 부족을 겪고 있지만 디젤은 공급 여력이 있다고 분석했다. Trump의 러시아산 디젤 수입 계획이 물리적으로는 실행 가능하다는 평가다.
+<a href="https://www.ft.com/content/445b2856-a276-4d4c-bdea-44799d771c21">[FT]</a></blockquote>
+
+<b>9. 미국, 우크라이나에 러시아 정유시설 공격 금지 압박...무기 지원 연계 위협</b>
+<blockquote>미국 당국이 유럽 수도와 키이우를 상대로 우크라이나의 러시아 정유시설 공격을 중단시키지 않으면 무기 지원을 차단하겠다고 압박하고 있다. Trump의 Putin 디젤 딜 이후 우크라이나 지원 정책에 혼선이 가중되고 있다.
+<a href="https://www.ft.com/content/68fd8c4f-6f34-4f6e-a52c-76f635164031">[FT]</a></blockquote>
+
+<b>10. Trump, Zelenskyy 교체 시사에 유럽 동맹국 충격...대서양 동맹 균열 우려</b>
+<blockquote>Trump 대통령이 Volodymyr Zelenskyy 우크라이나 대통령을 교체해야 한다고 시사한 발언에 키이우와 유럽 국가들이 충격을 받았다. FT는 우크라이나 동맹국들이 미국의 정책 신뢰성에 의문을 제기하고 있다고 전했다.
+<a href="https://www.ft.com/content/724ef0e2-4d50-49fd-aef8-abc0534f2f84">[FT]</a></blockquote>
+
+<b>11. 후티·우크라이나 사태에 Trump 곤경...중간선거 앞두고 공화당 악재</b>
+<blockquote>WSJ은 중동과 우크라이나에서 확대되는 에너지 위기가 Trump 행정부를 궁지로 몰아넣고 있으며 공화당 후보들에게도 불리하게 작용하고 있다고 분석했다. 글로벌 에너지 혼란이 더 많은 국가로 확산되면서 정치적 부담이 커지고 있다.
+<a href="https://www.wsj.com/politics/policy/houthis-and-ukraine-put-trump-in-treacherous-territory-36bad4be">[WSJ]</a></blockquote>
+
+<b>12. Cleveland 연은 Hammack "금리 아직 충분히 높지 않다"...매파 스탠스 유지</b>
+<blockquote>Cleveland 연방준비은행 총재 Beth Hammack은 기업들의 가격결정력이 여전히 강하고 경제가 견조한 점을 들어 금리가 인플레이션을 억제하기에 충분히 높지 않다고 밝혔다. 연준 내 매파 목소리가 지속되고 있다.
+<a href="https://www.wsj.com/finance/investing/beth-hammack-cleveland-fed-inflation-7751c731">[WSJ]</a></blockquote>
+
+<b>13. 9월 인플레이션 데이터 주목...연준 정책 방향 가를 핵심 변수</b>
+<blockquote>FT는 이번 주 발표될 9월 인플레이션 지표가 연준의 올해 남은 기간 금리 정책을 결정지을 것으로 전망했다. 시장은 물가 둔화 여부에 따라 연준의 긴축 기조 지속 여부를 판단하게 된다.
+<a href="https://www.ft.com/content/eae9d22f-3722-427f-a33b-aebc58fba2c4">[FT]</a></blockquote>
+
+<b>14. FT 미국 물가 추적기...중간선거 변수로 부상한 생활비 데이터</b>
+<blockquote>FT가 2026년 중간선거에 영향을 미칠 미국 생활비 변화를 추적하는 데이터를 공개했다. 유권자들이 체감하는 물가 부담이 선거 결과를 좌우할 핵심 변수로 주목받고 있다.
+<a href="https://www.ft.com/content/71dccbca-4a1f-485a-9790-28cc527cdb82">[FT]</a></blockquote>
+
+<b>15. EU, 중국 하이브리드차 세이프가드 합의...무역 긴장 완화 시도</b>
+<blockquote>EU가 베이징과 하이브리드 자동차 부문을 중국산 수입으로부터 보호하는 세이프가드 조치에 합의했다. 자동차 업계는 환영했지만 다른 산업들은 중국의 막대한 무역 흑자가 추가 조치 없이는 지속될 것이라고 경고했다.
+<a href="https://www.ft.com/content/7e48dd50-957c-4f45-ad24-ce628ca7e06a">[FT]</a></blockquote>
+
+<b>16. 인도 수도 봉쇄로 청년 실업 시위 격화...신흥국 정치 불안 조짐</b>
+<blockquote>인도 정부가 수도 뉴델리 중심부를 봉쇄해 유권자 명부 항의 시위를 막았다. WSJ은 이 분노가 일자리를 구하지 못하는 젊은 인도인들의 불만과 결합되고 있다고 전했다. 신흥국 정치 리스크가 부각되고 있다.
+<a href="https://www.wsj.com/world/india/india-locks-down-heart-of-capital-to-thwart-voter-rights-protest-c7aad7a4">[WSJ]</a></blockquote>
 
 ━━━━━━━━━━━━━━━━━━━━
 📡 <b>출처: WSJ · FT · The Economist</b>
