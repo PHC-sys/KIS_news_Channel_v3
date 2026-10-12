@@ -4,69 +4,205 @@
 
 ✅ <b>간밤의 주요 헤드라인</b>
 
-<b>1. 후티 리야드 공항 미사일 타격...예멘 반군 군사력 과시로 걸프 긴장 고조</b>
-<blockquote>예멘 후티 반군이 사우디 리야드 국제공항을 미사일로 공격해 12명이 사망했다. FT는 이란 지원을 받는 후티가 단순한 민병대가 아닌 정규군 수준의 타격 능력을 보유했음을 입증했다고 분석했다. 사우디는 대응 옵션이 제한적인 상황이다.
-<a href="https://www.ft.com/content/bd2c7385-184e-425e-997f-0f5a8c54184e">[FT]</a></blockquote>
+<b>1. 후티 반군, 사우디 공항 미사일 공격 지속...국제 에너지 기업 리야드 행사 불참</b>
+<blockquote>후티 반군의 사우디 공항에 대한 미사일 공격이 이어지면서 리야드에서 열린 에너지 컨퍼런스에 국제 석유 기업 수뇌부들이 불참했다. 이번 공격으로 사우디의 금융·이벤트 허브 비전이 타격을 받고 있다는 평가가 나온다.
+<a href="https://www.ft.com/content/ad0b6e93-708c-46c6-a1f2-e6248c934faf">[FT]</a></blockquote>
 
-<b>2. 리야드 공습에 BP 등 석유 메이저 CEO들 에너지 회의 불참...산업 행사 취소</b>
-<blockquote>후티의 리야드 공항 미사일 공격으로 World Petroleum Council 회의에 참석 예정이던 BP 등 글로벌 석유 기업 최고경영자들이 불참을 선언했다. 사우디 에너지 산업 중심부가 타격받으면서 주요 산업 행사가 무산됐다.
-<a href="https://www.ft.com/content/a01776ea-4a12-4195-8820-e43a885ba5fe">[FT]</a></blockquote>
+<b>2. 후티 공격, MBS 경제 비전에 치명타...리야드 국제공항 직격탄</b>
+<blockquote>후티 반군의 리야드 국제공항 폭격으로 Mohammed bin Salman 왕세자의 경제 다각화 구상이 위협받고 있다. 사우디를 글로벌 금융·행사 중심지로 육성하려는 계획에 지정학 리스크가 걸림돌로 작용하고 있다.
+<a href="https://www.ft.com/content/bc7302fa-f8e4-43da-aad5-0abbfefca4f8">[FT]</a></blockquote>
 
-<b>3. 사우디 영공 회피로 글로벌 항공 노선 차단...중동 물류 허브 기능 마비</b>
-<blockquote>미사일 공격 이후 주요 항공사들이 사우디 영공 통과를 중단하면서 세계 양대 경제권을 연결하던 핵심 항로가 끊겼다. 항공 여행이 지정학 갈등의 최전선으로 부상하면서 중동 물류 허브 기능이 사실상 마비됐다.
-<a href="https://www.wsj.com/business/airlines/air-travel-emerges-as-dangerous-front-line-in-global-conflicts-20e972c5">[WSJ]</a></blockquote>
+<b>3. 이란 지원 세력, 사우디 왕세자 압박 강화...경제 악화·안보 위협 이중고</b>
+<blockquote>Mohammed bin Salman 왕세자가 막대한 지출로 약화된 경제와 후티 위협 오판이 겹치며 궁지에 몰렸다. 이란이 지원하는 무장 세력들이 사우디를 압박하면서 중동 긴장이 고조되고 있다.
+<a href="https://www.wsj.com/world/middle-east/iran-backed-militants-are-tightening-the-screws-on-saudi-arabias-crown-prince-e7b9e789">[WSJ]</a></blockquote>
 
-<b>4. Economist "사우디 대응 옵션 부재"...후티 공격에 포위된 왕국</b>
-<blockquote>Economist는 사우디가 예멘 반군의 치명적 공격에 효과적으로 대응할 수단이 없다고 진단했다. 방어 시스템 한계와 보복 공격의 역효과 우려로 사우디는 점점 더 포위되는 형국이다.
-<a href="https://www.economist.com/middle-east-and-africa/2026/10/11/saudi-arabia-is-increasingly-under-siege">[Economist]</a></blockquote>
+<b>4. Delta, 사우디 직항 개시 연기...리야드 공항 후티 공격 여파</b>
+<blockquote>Delta 항공이 리야드 국제공항 노선 개설을 당초 10월 23일에서 내년 3월로 연기했다. 후티 반군의 공항 공격이 잇따르면서 안전 문제를 고려한 조치로 풀이된다.
+<a href="https://www.wsj.com/business/airlines/delta-delays-plans-for-nonstop-service-to-saudi-arabia-ba1f6446">[WSJ]</a></blockquote>
 
-<b>5. 미 해군, 걸프오브오만서 상선 타격...이란 봉쇄 강화로 중동 긴장 확산</b>
-<blockquote>미군 중부사령부는 걸프오브오만에서 이란 항구 봉쇄를 돌파하려던 상선을 공격했다고 발표했다. 한 달 만에 처음 있는 미군의 직접 타격으로 중동 해역 긴장이 고조되고 있다.
-<a href="https://www.ft.com/content/f9b9f937-97b0-4a03-90f6-05d7c7344ab9">[FT]</a></blockquote>
+<b>5. 러시아, 우크라이나 에너지 인프라 다시 공격...트럼프 휴전 발표 직후</b>
+<blockquote>러시아가 우크라이나 천연가스 인프라·발전소·변전소를 공격했다. 트럼프 대통령이 우크라이나의 러시아 정유시설 공격 중단을 압박하는 가운데 러시아는 공세를 이어가고 있다.
+<a href="https://www.wsj.com/world/europe/russia-pounds-ukrainian-energy-despite-trumps-ceasefire-announcement-f5d4779d">[WSJ]</a></blockquote>
 
-<b>6. Trump 러시아 디젤 수입 허용에 공화당 내 반발...초당적 반대 직면</b>
-<blockquote>Trump 대통령이 러시아산 디젤 수입을 허용하겠다고 밝힌 가운데 공화당 의원들이 반대 입장을 표명했다. FT는 양당 의원들이 이 합의가 Putin의 전쟁 자금을 지원하고 미국 법률을 위반한다고 주장한다고 전했다.
-<a href="https://www.ft.com/content/debf0be6-d5aa-4ba7-bb66-7daf770d99ff">[FT]</a></blockquote>
+<b>6. 트럼프 러시아 디젤 딜, 유가 하락 효과 제한적...초당적 반발</b>
+<blockquote>트럼프 대통령이 러시아와 체결한 디젤 공급 협정이 연료 가격 완화에 큰 도움이 되지 않을 전망이다. 미 의회 양당은 협정의 합법성에 의문을 제기하고 있다.
+<a href="https://www.wsj.com/business/energy-oil/why-trumps-diesel-supply-deal-with-russia-wont-ease-fuel-prices-much-a8b0b3f5">[WSJ]</a></blockquote>
 
-<b>7. 상원, Trump-Putin 디젤 딜 2022년 법 위반 지적...법적 쟁점 부각</b>
-<blockquote>초당적 상원 의원 그룹이 Trump의 러시아 디젤 수입 허용 조치가 2022년 제정된 법률을 위반한다며 문제를 제기했다. WSJ는 이 법적 쟁점이 행정부의 에너지 정책 추진에 걸림돌이 될 것으로 전망했다.
-<a href="https://www.wsj.com/world/trump-declares-a-russia-ukraine-energy-ceasefire-but-moscow-hasnt-confirmed-f57414e9">[WSJ]</a></blockquote>
+<b>7. 유가, 트럼프 에너지 휴전 무산에 상승...중동·우크라이나 공급 리스크</b>
+<blockquote>트럼프 대통령의 에너지 휴전 발표 이후에도 전투가 격화되면서 유가가 상승했다. 중동과 우크라이나의 공급 불안이 유가 상승 압력으로 작용하고 있다.
+<a href="https://www.ft.com/content/a663781e-2709-41f2-99df-4fb5a6162e6b">[FT]</a></blockquote>
 
-<b>8. 러시아 디젤 공급 능력 분석...Trump 딜 실행 가능성 의문</b>
-<blockquote>FT는 우크라이나의 정유시설 공격으로 러시아가 소련 붕괴 이후 최악의 휘발유 부족을 겪고 있지만 디젤은 공급 여력이 있다고 분석했다. Trump의 러시아산 디젤 수입 계획이 물리적으로는 실행 가능하다는 평가다.
-<a href="https://www.ft.com/content/445b2856-a276-4d4c-bdea-44799d771c21">[FT]</a></blockquote>
+<b>8. Putin, 트럼프 에너지 휴전 위반...Zelenskyy 비난</b>
+<blockquote>우크라이나가 러시아의 발전소 공격을 들어 Vladimir Putin이 트럼프의 에너지 휴전을 위반했다고 비난했다. 트럼프가 일요일 발표한 휴전 합의 직후 공격이 이뤄졌다.
+<a href="https://www.ft.com/content/863619b6-c4a7-4b1a-8a53-6950d47d1833">[FT]</a></blockquote>
 
-<b>9. 미국, 우크라이나에 러시아 정유시설 공격 금지 압박...무기 지원 연계 위협</b>
-<blockquote>미국 당국이 유럽 수도와 키이우를 상대로 우크라이나의 러시아 정유시설 공격을 중단시키지 않으면 무기 지원을 차단하겠다고 압박하고 있다. Trump의 Putin 디젤 딜 이후 우크라이나 지원 정책에 혼선이 가중되고 있다.
-<a href="https://www.ft.com/content/68fd8c4f-6f34-4f6e-a52c-76f635164031">[FT]</a></blockquote>
+<b>9. 트럼프, 우크라이나 무기 지원 중단 위협 재점화...디젤 딜 불발 가능성</b>
+<blockquote>트럼프 대통령이 우크라이나에 대한 무기 지원을 중단하겠다고 다시 위협했다. 러시아와의 디젤 협정이 에너지 휴전만큼이나 실현 가능성이 낮다는 관측이 나온다.
+<a href="https://www.economist.com/europe/2026/10/12/donald-trump-is-again-threatening-to-cut-off-arms-to-ukraine">[Economist]</a></blockquote>
 
-<b>10. Trump, Zelenskyy 교체 시사에 유럽 동맹국 충격...대서양 동맹 균열 우려</b>
-<blockquote>Trump 대통령이 Volodymyr Zelenskyy 우크라이나 대통령을 교체해야 한다고 시사한 발언에 키이우와 유럽 국가들이 충격을 받았다. FT는 우크라이나 동맹국들이 미국의 정책 신뢰성에 의문을 제기하고 있다고 전했다.
-<a href="https://www.ft.com/content/724ef0e2-4d50-49fd-aef8-abc0534f2f84">[FT]</a></blockquote>
+<b>10. 유가 선물 3일 연속 상승...중동 갈등·러-우 공급 우려 지속</b>
+<blockquote>유가 선물이 3거래일 연속 상승했다. 중동 분쟁 지속과 러시아-우크라이나 에너지 휴전에 대한 회의론이 공급 리스크 우려를 키우고 있다.
+<a href="https://www.wsj.com/finance/commodities-futures/oil-futures-extend-gains-on-persistent-supply-concerns-db1651af">[WSJ]</a></blockquote>
 
-<b>11. 후티·우크라이나 사태에 Trump 곤경...중간선거 앞두고 공화당 악재</b>
-<blockquote>WSJ은 중동과 우크라이나에서 확대되는 에너지 위기가 Trump 행정부를 궁지로 몰아넣고 있으며 공화당 후보들에게도 불리하게 작용하고 있다고 분석했다. 글로벌 에너지 혼란이 더 많은 국가로 확산되면서 정치적 부담이 커지고 있다.
-<a href="https://www.wsj.com/politics/policy/houthis-and-ukraine-put-trump-in-treacherous-territory-36bad4be">[WSJ]</a></blockquote>
+<b>11. 유가 반등, 중동 공급 리스크 부각...러 디젤 협정·휴전 효과 제한적</b>
+<blockquote>유가가 중동 공급 리스크 지속으로 반등 마감했다. 러시아 디젤 공급 확대 가능성과 러-우 에너지 휴전 전망을 놓고 시장이 엇갈린 평가를 내놨다.
+<a href="https://www.wsj.com/business/energy-oil/oil-prices-rebound-amid-persistent-middle-east-supply-risks-bc9fabcf">[WSJ]</a></blockquote>
 
-<b>12. Cleveland 연은 Hammack "금리 아직 충분히 높지 않다"...매파 스탠스 유지</b>
-<blockquote>Cleveland 연방준비은행 총재 Beth Hammack은 기업들의 가격결정력이 여전히 강하고 경제가 견조한 점을 들어 금리가 인플레이션을 억제하기에 충분히 높지 않다고 밝혔다. 연준 내 매파 목소리가 지속되고 있다.
-<a href="https://www.wsj.com/finance/investing/beth-hammack-cleveland-fed-inflation-7751c731">[WSJ]</a></blockquote>
+<b>12. 에너지주 상승, 유가 급등에 수혜...중동·우크라이나 전투 격화</b>
+<blockquote>미국 증시에서 에너지 섹터 주가가 상승했다. 우크라이나와 중동에서 공격이 이어지면서 트럼프 대통령의 연료비 인하 노력이 복잡해지는 가운데 유가가 올랐다.
+<a href="https://www.wsj.com/finance/stocks/energy-stocks-rise-as-global-conflicts-push-up-oil-prices-8d605857">[WSJ]</a></blockquote>
 
-<b>13. 9월 인플레이션 데이터 주목...연준 정책 방향 가를 핵심 변수</b>
-<blockquote>FT는 이번 주 발표될 9월 인플레이션 지표가 연준의 올해 남은 기간 금리 정책을 결정지을 것으로 전망했다. 시장은 물가 둔화 여부에 따라 연준의 긴축 기조 지속 여부를 판단하게 된다.
-<a href="https://www.ft.com/content/eae9d22f-3722-427f-a33b-aebc58fba2c4">[FT]</a></blockquote>
+<b>13. 금 선물 하락, 달러·유가 동반 강세에 밀려...중동 긴장 지속</b>
+<blockquote>금 선물 가격이 하락 마감했다. 달러 강세와 유가 상승이 겹치면서 금 수요가 위축됐다. 중동 지정학 긴장은 여전히 높은 수준이다.
+<a href="https://www.wsj.com/finance/commodities-futures/gold-futures-settle-lower-on-rising-dollar-oil-2c0301c2">[WSJ]</a></blockquote>
 
-<b>14. FT 미국 물가 추적기...중간선거 변수로 부상한 생활비 데이터</b>
-<blockquote>FT가 2026년 중간선거에 영향을 미칠 미국 생활비 변화를 추적하는 데이터를 공개했다. 유권자들이 체감하는 물가 부담이 선거 결과를 좌우할 핵심 변수로 주목받고 있다.
-<a href="https://www.ft.com/content/71dccbca-4a1f-485a-9790-28cc527cdb82">[FT]</a></blockquote>
+<b>14. Adnoc Logistics, HEA 지분 인수 협상...밸류에이션 30억달러</b>
+<blockquote>Adnoc Logistics가 HEA 지분 인수를 협상 중이다. UAE가 OPEC 탈퇴 후 원유 생산 확대를 공언한 지 수개월 만에 해양 유전·가스 서비스 부문 확장에 나섰다.
+<a href="https://www.wsj.com/business/energy-oil/adnoc-logistics-in-talks-to-buy-stake-in-hea-at-3-billion-valuation-c005541a">[WSJ]</a></blockquote>
 
-<b>15. EU, 중국 하이브리드차 세이프가드 합의...무역 긴장 완화 시도</b>
-<blockquote>EU가 베이징과 하이브리드 자동차 부문을 중국산 수입으로부터 보호하는 세이프가드 조치에 합의했다. 자동차 업계는 환영했지만 다른 산업들은 중국의 막대한 무역 흑자가 추가 조치 없이는 지속될 것이라고 경고했다.
+<b>15. 독일-프랑스, EU 자동차 정책 합의 임박...내연기관 단계적 폐지 연기</b>
+<blockquote>Emmanuel Macron 프랑스 대통령이 독일과의 EU 자동차 정책 합의가 임박했다고 밝혔다. 내연기관 퇴출 시기를 늦추고 중국 경쟁에 맞서 역내 생산을 늘리는 내용이 담길 것으로 보인다.
+<a href="https://www.ft.com/content/af0a5da6-abc7-41ab-85cf-da806fc7a6e5">[FT]</a></blockquote>
+
+<b>16. EU, 중국 하이브리드차 수입 연 35만대 제한...자국 산업 보호</b>
+<blockquote>EU가 중국산 하이브리드 자동차 수입을 연간 35만대로 제한하기로 했다. EU는 중국의 예상 수출 물량을 절반 이상 줄이는 것을 목표로 하고 있다.
+<a href="https://www.wsj.com/business/eu-to-cap-chinese-hybrid-vehicle-imports-at-350-000-units-annually-official-says-2198522f">[WSJ]</a></blockquote>
+
+<b>17. EU, 중국 하이브리드차 수입 쿼터 도입...베이징과 '이해' 도출</b>
+<blockquote>EU가 중국산 하이브리드차 수입 쿼터를 신설하며 베이징과 합의에 도달했다. 자동차 업계는 환영했지만 다른 산업은 중국의 막대한 무역 흑자가 추가 조치 없이는 지속될 것이라고 경고했다.
 <a href="https://www.ft.com/content/7e48dd50-957c-4f45-ad24-ce628ca7e06a">[FT]</a></blockquote>
 
-<b>16. 인도 수도 봉쇄로 청년 실업 시위 격화...신흥국 정치 불안 조짐</b>
-<blockquote>인도 정부가 수도 뉴델리 중심부를 봉쇄해 유권자 명부 항의 시위를 막았다. WSJ은 이 분노가 일자리를 구하지 못하는 젊은 인도인들의 불만과 결합되고 있다고 전했다. 신흥국 정치 리스크가 부각되고 있다.
-<a href="https://www.wsj.com/world/india/india-locks-down-heart-of-capital-to-thwart-voter-rights-protest-c7aad7a4">[WSJ]</a></blockquote>
+<b>18. 유럽, 중국 대응 강화 평가...독-프 무역 강경론 전환 주목</b>
+<blockquote>유럽이 마침내 중국의 중상주의에 맞서고 있다는 평가가 나온다. 프랑스와 독일이 베이징에 대한 강경 입장을 본격화하면서 EU의 대중국 정책 전환이 주목받고 있다.
+<a href="https://www.ft.com/content/e374bc1a-bd56-40b4-98c9-d1b502ef9d47">[FT]</a></blockquote>
+
+<b>19. EU 대중국 무역 압박, 실효성 논란...독일 강경론 초점 불명확</b>
+<blockquote>독일의 무역 강경론 전환이 초점이 불명확하고 입증되지 않았다는 지적이 나온다. EU가 중국을 향해 으르렁거리지만 실제 제재 수단은 부족하다는 비판이다.
+<a href="https://www.ft.com/content/90d5003e-dbec-4db3-88d2-d30d9c2a119d">[FT]</a></blockquote>
+
+<b>20. 프랑스, 광물 기업 Eramet 지분 확대...핵심 광물 공급망 확보 경쟁</b>
+<blockquote>프랑스 정부가 어려움을 겪고 있는 광산 기업 Eramet의 지분을 확대할 예정이다. 각국 정부가 핵심 광물 공급망 확보 경쟁에 나서면서 파리가 최대주주로 올라선다.
+<a href="https://www.ft.com/content/4d84b98b-bdbe-4e1c-a0b8-4dd0c814927b">[FT]</a></blockquote>
+
+<b>21. 영국 EU 관계 리셋 시도, EU 대학 등록금 요구에 걸림돌...총리 "거부는 직무유기"</b>
+<blockquote>영국의 브뤼셀과의 관계 재설정 시도가 EU의 대학 등록금 요구로 난관에 부딪혔다. 총리는 EU와의 긴밀한 관계 거부가 직무 유기라고 의회에 밝힐 예정이다.
+<a href="https://www.ft.com/content/011a7926-402e-4baa-90ba-bab4a44a74de">[FT]</a></blockquote>
+
+<b>22. 영국 브렉시트 역전 모멘텀 부상...정치·전략·경제적 압력 확대</b>
+<blockquote>영국의 브렉시트 역전을 향한 정치적·전략적·경제적 모멘텀이 커지고 있다. 브렉시트 재검토 논의가 영국 내에서 다시 힘을 얻고 있다.
+<a href="https://www.ft.com/content/0a66d390-149d-4cdc-83b6-88015da1e835">[FT]</a></blockquote>
+
+<b>23. 프랑스 재정 악화 지속...정치권, 재정보다 자신의 생존 우선</b>
+<blockquote>프랑스 정치인들이 과도한 지출을 이어가며 국가 재정 건전성보다 자신들의 정치적 생존을 우선시하고 있다. 프랑스가 재정 구멍을 계속 키우고 있다는 비판이 나온다.
+<a href="https://www.wsj.com/opinion/france-keeps-digging-a-hole-8c52404f">[WSJ]</a></blockquote>
+
+<b>24. 영국 국채, 예산안 앞두고 언더퍼폼 전망...재정 우려 부각</b>
+<blockquote>영국 국채 수익률이 하락했다. 시장 분석가들은 10월 28일 예산안 발표를 앞두고 재정 우려로 영국 자산이 부진할 수 있다고 전망했다.
+<a href="https://www.wsj.com/finance/ecb-unlikely-to-intervene-in-french-bond-selloff-ab7ca520">[WSJ]</a></blockquote>
+
+<b>25. 영국, 열펌프 보조금 삭감 논란...국방비 증액 위해 에너지부 20억파운드 절감 지시</b>
+<blockquote>영국 정부가 열펌프 지원 예산을 삭감하려는 계획에 업계가 반발했다. 다우닝가 국방비 증액을 위해 에너지부에 20억파운드 절감을 지시한 것으로 알려졌다.
+<a href="https://www.ft.com/content/e67a9120-4dec-4796-8414-3f4990b01f11">[FT]</a></blockquote>
+
+<b>26. 영국, 이란 제재 강화...RAF Fairford 기지 사건 '이란 지시 가능성 높아'</b>
+<blockquote>영국이 RAF Fairford 기지 사건과 관련해 이란에 새 제재를 부과했다. Andy Burnham 장관은 미군이 사용하는 글로스터셔 기지의 사건이 이란 혁명수비대의 지시일 가능성이 높다고 밝혔다.
+<a href="https://www.ft.com/content/f7ef12e0-7719-4cac-a3a2-27b85b6ab99b">[FT]</a></blockquote>
+
+<b>27. NATO 사령관, 러시아 유럽 공격 경고...하이브리드 전쟁 불안 확산</b>
+<blockquote>NATO 최고사령관 Alexus Grynkewich 장군이 러시아의 유럽 공격 가능성에 대해 경고했다. 러시아의 하이브리드 전쟁이 불안을 조성하고 있지만 즉각적인 충돌 가능성은 낮다고 평가했다.
+<a href="https://www.ft.com/content/da71c823-ca31-4eaa-8e6e-6baacea986a4">[FT]</a></blockquote>
+
+<b>28. NATO 사령관, 러시아 공격 저지 계획 공개...초기 공세 차단·지휘 능력 파괴</b>
+<blockquote>Alexus Grynkewich NATO 최고사령관이 러시아의 NATO 공격을 저지하기 위한 계획을 공개했다. 초기 공격을 차단하고 적의 지휘·지원 능력을 파괴하는 일련의 조치를 제시했다.
+<a href="https://www.wsj.com/world/europe/natos-top-commander-lays-out-plan-to-thwart-a-russian-attack-on-the-alliance-96d57680">[WSJ]</a></blockquote>
+
+<b>29. 러시아 남성, 징집 회피 위해 대거 이동...Putin 대규모 강제 징집 초읽기</b>
+<blockquote>러시아 남성들이 군대 징집을 피하기 위해 다시 이동하고 있다. Vladimir Putin이 대규모 강제 징집을 준비하는 것으로 보인다.
+<a href="https://www.economist.com/europe/2026/10/12/russian-men-are-again-fleeing-before-the-army-can-grab-them">[Economist]</a></blockquote>
+
+<b>30. 달러 지수 0.21% 상승...이틀 연속 강세</b>
+<blockquote>WSJ 달러 지수가 0.2% 오르며 이틀 연속 상승했다. 달러가 97.58로 마감하며 강세를 이어갔다.
+<a href="https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-mideast-tensions-could-weigh-9ec0bb96">[WSJ]</a></blockquote>
+
+<b>31. S&P 500·나스닥 하락, 유가 상승에도 에너지주만 강세...러 우크라 공격 지속</b>
+<blockquote>미국 증시는 혼조세로 마감했다. 다우 산업평균은 상승했지만 나스닥 종합지수는 하락했다. 우크라이나와 중동에서 공격이 계속되면서 유가가 올랐다.
+<a href="https://www.wsj.com/finance/investing/stocks-rise-as-oil-eases-after-russian-diesel-deal-despite-middle-east-tension-29ae28a5">[WSJ]</a></blockquote>
+
+<b>32. 개인 투자자 옵션 거래 급증, 2021년 밈주식 광풍 수준 근접...리스크 선호 여전</b>
+<blockquote>개별 주식 옵션 거래량이 2021년 수준에 근접했다. 당시 신세대 개인 투자자들이 월가를 뒤흔들었던 시기와 비슷한 양상이다.
+<a href="https://www.wsj.com/finance/stocks/frenzied-stock-options-trading-shows-individual-investors-are-still-hungry-for-risk-89ed24e5">[WSJ]</a></blockquote>
+
+<b>33. 시진핑 강국 야심, 중국 부채 악순환 초래...내수 침체·무역 갈등 악화</b>
+<blockquote>시진핑 주석이 위험한 부채 악순환을 주도하고 있다. 내수 경제를 옥죄고 전 세계 무역 파트너에 피해를 주는 부채 구조가 심화되고 있다.
+<a href="https://www.wsj.com/world/china/xis-superpower-ambitions-fuel-a-dangerous-debt-spiral-in-china-edad4f9f">[WSJ]</a></blockquote>
+
+<b>34. 중국 납세 부담 증가...숨겨진 세금 가시화</b>
+<blockquote>중국 납세자들의 세금 부담이 늘어나고 있다. 그동안 숨겨져 있던 각종 부담금이 가시화되면서 납세자들에게 더 많은 것이 돌아가야 한다는 목소리가 나온다.
+<a href="https://www.economist.com/china/2026/10/12/chinese-taxpayers-now-owe-more-is-more-owed-to-them">[Economist]</a></blockquote>
+
+<b>35. 트럼프 제조업 공약 시험대...아이오와 철강·필라델피아 조선 프로젝트 난항</b>
+<blockquote>미국 제조업 복원을 목표로 한 두 건의 수십억달러 프로젝트가 난관에 봉착했다. 아이오와 철강과 필라델피아 조선소 모두 말처럼 쉽지 않은 과제다.
+<a href="https://www.wsj.com/business/from-iowa-steel-to-philly-ships-trumps-industrial-promises-face-big-tests-537cc173">[WSJ]</a></blockquote>
+
+<b>36. Fannie·Freddie 신용점수 변경, 모기지 시장 혼란...FICO 대신 VantageScore 도입</b>
+<blockquote>트럼프 행정부와 대출 기관들은 FICO의 경쟁 모델 도입이 모기지 비용을 낮출 것이라고 주장하지만, 일각에서는 인수 리스크 우려를 제기하고 있다.
+<a href="https://www.wsj.com/finance/regulation/fannie-freddie-vantagescore-mortgages-85b41d3f">[WSJ]</a></blockquote>
+
+<b>37. 노벨 경제학상, 위기 관리 혁신 경제학자에...Hall·Woodford 공동 수상</b>
+<blockquote>Robert E. Hall과 Michael Woodford가 노벨 경제학상을 공동 수상했다. 두 경제학자는 중앙은행의 2008년 금융 위기 대응을 혁신하는 데 기여했다.
+<a href="https://www.ft.com/content/1d3b1c4f-823d-49eb-aaf5-b662a6281ac7">[FT]</a></blockquote>
+
+<b>38. 노벨 경제학상, 경제 안정 유지 이론 정립...뉴케인지언 Hall·Woodford</b>
+<blockquote>경제를 안정적으로 유지하는 방법을 연구한 두 명의 뉴케인지언 경제학자 Robert Hall과 Michael Woodford가 노벨 경제학상을 받았다.
+<a href="https://www.economist.com/finance-and-economics/2026/10/12/a-nobel-prize-for-how-to-keep-economies-on-an-keel">[Economist]</a></blockquote>
+
+<b>39. LVMH 매출 둔화, 럭셔리 회복세 제동...중국 수요 부진</b>
+<blockquote>LVMH가 매출 성장 둔화를 발표하며 유럽 럭셔리 업계의 오랫동안 기다려온 회복세에 제동이 걸렸다. 파리 소재 그룹은 미국 시장은 호조를 보였지만 중국 수요 둔화가 타격을 줬다고 밝혔다.
+<a href="https://www.wsj.com/business/retail/lvmh-sales-sputter-5411056a">[WSJ]</a></blockquote>
+
+<b>40. LVMH 패션·가죽 부문 매출 감소...미국 호조에도 중국 둔화 타격</b>
+<blockquote>LVMH의 패션·가죽 제품 매출이 감소했다. 미국 시장이 활기를 띠었지만 중국 수요 둔화로 매출에 타격을 입었다.
+<a href="https://www.ft.com/content/71003e2e-107b-4e87-adef-77e825a3aef4">[FT]</a></blockquote>
+
+<b>41. Zuckerberg, Meta AI 'frontier 도달' 선언...Muse Wonder 모델 공개</b>
+<blockquote>Mark Zuckerberg가 Meta가 AI 최전선에 도달했다고 선언했다. 방대한 투자 끝에 새 Muse Wonder 모델을 공개하며 AI 경쟁에서 경쟁사들에 도전장을 내밀었다.
+<a href="https://www.ft.com/content/fca23e77-be57-4d7e-ae61-74ff299e25cb">[FT]</a></blockquote>
+
+<b>42. Meta, 차세대 AI 모델 공개...Muse 에이전트 성능 향상</b>
+<blockquote>Meta가 최첨단 신규 AI 모델 Muse Wonder를 공개했다. 글로벌 개인비서 에이전트 다운로드가 둔화된 가운데 나온 발표다.
+<a href="https://www.wsj.com/tech/ai/meta-says-new-ai-model-is-state-of-the-art-will-make-muse-agent-smarter-1304cdf4">[WSJ]</a></blockquote>
+
+<b>43. Albertsons, Kroger에 80억달러 배상 청구...합병 무산 책임 추궁</b>
+<blockquote>Albertsons가 재판을 앞두고 Kroger가 합병을 고의로 좌초시켰다며 80억달러 배상을 요구했다.
+<a href="https://www.wsj.com/business/retail/albertsons-wants-8-billion-from-kroger-after-failed-merger-fd0aacd8">[WSJ]</a></blockquote>
+
+<b>44. Bumble, 밸류에이션 10억달러에 비상장화 협상 막바지...창업자 Wolfe Herd 참여 지속</b>
+<blockquote>데이팅 앱 Bumble이 밸류에이션 10억달러에 비상장화하는 협상을 진행 중이다. 창업자 Whitney Wolfe Herd는 거래 이후에도 회사에 관여할 것으로 예상된다.
+<a href="https://www.wsj.com/business/deals/dating-app-bumble-in-advanced-talks-to-go-private-at-1-billion-valuation-fcc8c6ef">[WSJ]</a></blockquote>
+
+<b>45. Steris, Xodus Medical 21억달러 인수...병원·제약 포트폴리오 확대</b>
+<blockquote>아일랜드 더블린 소재 병원·제약 제품·서비스 업체 Steris가 Xodus Medical을 21억달러에 인수한다. 회사는 이번 거래로 포트폴리오가 확대될 것으로 기대한다고 밝혔다.
+<a href="https://www.wsj.com/business/deals/steris-to-acquire-xodus-medical-for-2-1-billion-ea048437">[WSJ]</a></blockquote>
+
+<b>46. 양자컴퓨팅 IonQ, 사이버보안 업체 최대 13억달러 인수...랜섬웨어 확산 차단</b>
+<blockquote>양자컴퓨팅 기업 IonQ가 비상장 사이버보안 업체를 최대 13억달러에 인수한다. 인수 대상 Elisity는 조직 전반에 사이버 공격과 랜섬웨어가 확산되는 것을 막는 기술을 보유하고 있다.
+<a href="https://www.wsj.com/business/deals/quantum-computing-company-ionq-to-buy-cybersecurity-firm-for-up-to-1-3-billion-65af65bd">[WSJ]</a></blockquote>
+
+<b>47. 트럼프, Guilfoyle 대사 해임 검토...재임 중 부적절한 선물 수령 의혹</b>
+<blockquote>트럼프 대통령이 그리스 대사 Kimberly Guilfoyle의 해임을 검토하고 있다. 재임 중 부적절한 선물을 받았다는 보도가 나온 뒤 조치를 고려 중이다.
+<a href="https://www.ft.com/content/c97cf26c-04b7-47ce-8290-b0f779c9490b">[FT]</a></blockquote>
+
+<b>48. 연방요원, Ilhan Omar 하원의원 자택 수색...국토안보부 형사 수사 착수</b>
+<blockquote>국토안보부 요원들이 민주당 Ilhan Omar 하원의원의 워싱턴 자택을 수색했다. 국토안보부가 미네소타 선출 의원에 대한 형사 수사에 착수했다.
+<a href="https://www.wsj.com/politics/policy/ilhan-omars-home-is-searched-by-federal-agents-14a79871">[WSJ]</a></blockquote>
+
+<b>49. Modi 집권 도전 심화...청년 시위 확산, 선거 공정성 의문</b>
+<blockquote>인도에서 시위가 확산되며 선거 공정성에 의문이 제기되고 있다. Narendra Modi 총리의 정당성이 위협받고 있다.
+<a href="https://www.ft.com/content/463be44f-5477-46e6-b4d2-460fa2551064">[FT]</a></blockquote>
+
+<b>50. 보스니아, 미국에 친러 세르비아계 로비 경고...공공 자금으로 친러 정치 공작</b>
+<blockquote>보스니아 외교장관이 친러 세르비아계 자치지역이 모스크바 동맹을 위해 미국에서 정치적 영향력을 행사하는 데 공공 자금을 사용하고 있다고 우려를 표명했다.
+<a href="https://www.ft.com/content/31b02094-19db-4764-b79f-0b0fcf902c63">[FT]</a></blockquote>
 
 ━━━━━━━━━━━━━━━━━━━━
 📡 <b>출처: WSJ · FT · The Economist</b>
