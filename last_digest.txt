@@ -4,117 +4,153 @@
 
 ✅ <b>간밤의 주요 헤드라인</b>
 
-<b>1. 사우디 아람코 본사 후티 공격...호르무즈 2주간 24척 피격</b>
-<blockquote>사우디 아람코 본사가 예멘 후티 반군의 공격을 받았으며, 호르무즈 해협에서는 최근 2주간 24척의 선박이 이란 측 공격을 당했다. 일요일에만 6척이 동시에 피격됐다. 전쟁 발발 이후 최악의 선박 공격 집중 사태로, 걸프 에너지 수출 경로에 대한 우려가 커지고 있다.
-<a href="https://www.ft.com/content/a25417b3-d4e4-4b89-b14d-6370a85ce3c4">[FT]</a> <a href="https://www.ft.com/content/a4ab83d4-81b5-4336-9569-a0708b41e894">[FT]</a></blockquote>
+<b>1. 호르무즈 해협 인근 화물선 2척 침몰...이란, 공격 확대 신호</b>
+<blockquote>호르무즈 해협 인근 해역에서 이란의 공격으로 화물선 2척이 침몰했다. 미 해군이 호르무즈 해협을 통한 원유 수송 보호 작전을 성공적으로 수행 중인 가운데 발생한 공격으로, 중동 지정학 리스크가 한층 고조되고 있다는 평가다.
+<a href="https://www.wsj.com/world/middle-east/two-cargo-ships-sink-near-hormuz-as-iranian-attacks-spike-0591887d">[WSJ]</a></blockquote>
 
-<b>2. 유럽 천연가스 전쟁 이후 최고...걸프 석유 생산 반등하나 공격 리스크 재부상</b>
-<blockquote>유럽 천연가스 가격이 이란 전쟁 개시 이후 최고치를 기록했다. 미국과 키예프 간 러시아산 디젤 수입 갈등, 겨울 접근, 이란 전쟁 확대 우려가 복합적으로 작용했다. 한편 사우디는 9월 석유 생산이 전쟁 이후 최고 수준으로 회복됐다고 밝혔으나, 이번 달 공격 재개로 생산 지속 가능성에 의문이 제기되고 있다.
-<a href="https://www.ft.com/content/787acc7e-f0d3-4552-a369-4b4c967e4ca5">[FT]</a> <a href="https://www.ft.com/content/e4c33601-88e9-43fc-b920-1cecc2709dbd">[FT]</a></blockquote>
+<b>2. 사우디 Aramco 본사 건물 타격...Houthi 공격 확전</b>
+<blockquote>예멘 Houthi 반군이 사우디 Dhahran 소재 Aramco 본사 건물을 공격했다고 사우디 에너지부가 화요일 밤 발표했다. 이번 공격은 사우디 주도 연합군이 예멘 수도 내 목표물을 타격한 데 대한 보복으로, Riyadh 국제공항에 이어 추가 타격이 이뤄졌다.
+<a href="https://www.wsj.com/world/middle-east/houthi-strike-hits-building-at-saudi-aramco-headquarters-a436de59">[WSJ]</a></blockquote>
 
-<b>3. OPEC 수요 전망 하향하나 2027년 재고 보충 수요·공급 리스크로 상향</b>
-<blockquote>OPEC은 올해와 내년 석유 수요 증가 전망치를 또다시 하향 조정했다. 그러나 2027년 전망은 상향했는데, 재고 보충 수요와 걸프 지역 공급 리스크 확대가 반영됐다. 단기 수요 둔화와 중장기 공급 불안이 교차하는 복잡한 유가 전망이 나왔다.
-<a href="https://www.wsj.com/business/energy-oil/opec-cuts-demand-growth-forecast-again-as-gulf-supply-risks-mount-848d73a3">[WSJ]</a></blockquote>
+<b>3. 사우디 항공사들, 예멘 전쟁지역서 수십억 달러 항공기 긴급 이동</b>
+<blockquote>Houthi 반군의 미사일 공격이 치명적 수준에 이르자 사우디 항공사들이 수십억 달러 가치의 항공기를 전쟁지역에서 안전지대로 긴급 이동시키고 있다. 항공기 자산 보호를 위한 긴박한 조치로 해석된다.
+<a href="https://www.wsj.com/business/airlines/saudi-airlines-rush-to-save-scores-of-planes-from-a-war-zone-d1e7add7">[WSJ]</a></blockquote>
 
-<b>4. 유가 혼조...중동 리스크 vs 러시아 디젤 공급 기대</b>
-<blockquote>국제 유가는 혼조세로 마감했다. Brent유는 하락, WTI는 소폭 상승했다. 중동 공급 리스크 고조와 러시아산 디젤 추가 수출 가능성이 상반된 압력을 가하며 시장이 방향을 잡지 못했다.
-<a href="https://www.wsj.com/world/middle-east/oil-prices-fall-as-traders-weigh-middle-east-risks-russian-diesel-supplies-53840a01">[WSJ]</a></blockquote>
+<b>4. IEA, 글로벌 디젤 가격 재상승 경고...2027년 중반까지 부족 지속</b>
+<blockquote>국제에너지기구(IEA)가 글로벌 디젤 부족 현상이 2027년 중반까지 이어지며 가격이 다시 오를 것이라고 경고했다. 중동 전쟁 확대에 따른 에너지 공급망 차질이 장기화할 수 있다는 우려가 커지고 있다.
+<a href="https://www.ft.com/content/b06d00da-9df7-405b-9410-b5485c267397">[FT]</a></blockquote>
 
-<b>5. 영국 MI5 "이란, 영국 군사시설 타격으로 전환"...러시아·이란 하이브리드 전쟁 격화 경고</b>
-<blockquote>영국 정보기관 MI5 수장 Ken McCallum은 이란이 "영국 군사시설 타격"으로 전략을 전환했다고 경고했다. 러시아와 이란 모두 하이브리드 전쟁을 격화시키고 있으며, 지난 10년간 국가 위협이 4배 증가했다고 밝혔다.
-<a href="https://www.ft.com/content/a0921eb6-637e-4fac-b15d-ea7aef441e6a">[FT]</a></blockquote>
+<b>5. 9월 미국 CPI 3.7% 급등...연료비 상승이 소비자 압박</b>
+<blockquote>9월 미국 소비자물가지수(CPI)가 전년 대비 3.7% 상승하며 인플레이션이 재가속했다. 이란 전쟁으로 인한 에너지 가격 급등이 주된 원인으로, 다음 달 중간선거를 앞두고 유권자들에 대한 물가 압박이 강화되고 있다.
+<a href="https://www.ft.com/content/c1e4c8b1-8fe0-414d-b52f-c74a6d927b3d">[FT]</a></blockquote>
 
-<b>6. NATO 근해 드론 공격 급증...젤렌스키 정보 실패 비판, 불가리아 선박 11명 실종</b>
-<blockquote>NATO 수역 인근을 항해하는 선박들에 대한 드론 공격이 급증하며 동맹에 새로운 시험대가 되고 있다. 우크라이나 대통령 Zelenskyy는 탄도미사일 공격에 대한 파트너국들의 정보 제공 실패를 비판했다. 불가리아는 흑해에서 자국 화물선이 공격받아 11명의 선원이 실종됐으며, 러시아의 소행으로 추정된다고 밝혔다.
-<a href="https://www.wsj.com/world/europe/drone-attacks-on-ships-sailing-near-nato-waters-present-fresh-test-for-the-alliance-e36c333d">[WSJ]</a> <a href="https://www.ft.com/content/da00e3ff-4392-46d8-bab5-13b4ccc49995">[FT]</a> <a href="https://www.ft.com/content/c6bd25b8-ef9e-41a3-90d2-29c132e10ec2">[FT]</a></blockquote>
+<b>6. 미국 식료품 가격 추가 상승 예고...연료비 급등이 제조업체 압박</b>
+<blockquote>치솟는 연료비가 인플레이션을 부채질하면서 미국 식료품 가격이 추가 상승할 것이라고 식품 제조업체들이 경고했다. 중간선거를 앞두고 소비자 부담이 가중될 전망이다.
+<a href="https://www.ft.com/content/13929c26-1c01-41b2-b81a-d337fa5c9d27">[FT]</a></blockquote>
 
-<b>7. 러시아, 일본 기자 간첩 혐의 체포</b>
-<blockquote>러시아가 일본 홋카이도신문 기자를 간첩 혐의로 체포했다. 정치적 동기가 의심되는 일련의 체포 사건이 이어지고 있다는 비판이 나온다.
-<a href="https://www.ft.com/content/b77a0094-c6f1-449a-9323-2b4d16696cb7">[FT]</a></blockquote>
+<b>7. 연준 베이지북, 인플레이션 상승 압력 지적...제조업은 AI 중심 성장</b>
+<blockquote>연준이 발표한 10월 베이지북은 인플레이션 상승 압력을 지적하면서도 경제 성장은 주로 AI 관련 제조업 부문에서 나타났다고 밝혔다. 통화정책 방향에 대한 시장의 관심이 높아지고 있다.
+<a href="https://www.ft.com/content/17eaf860-753a-4b0c-8d3c-8c771d735083">[FT]</a></blockquote>
 
-<b>8. 프랑스 슈퍼마켓 냉장고 사이버 공격...식량 안보 리스크 부각</b>
-<blockquote>프랑스 슈퍼마켓 체인의 냉장고 시스템이 사이버 공격을 받아 일부 매장에서 냉장고 온도가 80도까지 치솟아 장비가 녹고 식품이 폐기됐다. 식량 안보에 대한 사이버 위협이 현실화됐다는 우려가 커지고 있다.
-<a href="https://www.ft.com/content/6908a0ce-ffdd-4ea9-b376-d35d362639f3">[FT]</a></blockquote>
+<b>8. 연준 Bowman, 인플레이션 목표 상회...금리 조치 시급하지 않다</b>
+<blockquote>연준 Michelle Bowman 감독부의장은 인플레이션이 목표치를 웃돌고 있지만 추가 금리 조치를 서두를 필요는 없다고 밝혔다. 경제 상황을 평가할 시간적 여유가 있다는 입장이다.
+<a href="https://www.wsj.com/economy/central-banking/feds-bowman-says-inflation-above-goal-but-no-urgency-to-act-e20f9529">[WSJ]</a></blockquote>
 
-<b>9. 뉴욕 연은 Williams "2026년 추가 인상 1회 적절, 2027년도 가능"...국채·유로존 수익률 변동</b>
-<blockquote>뉴욕 연방준비은행 총재 John Williams는 올해 추가 금리 인상 1회가 적절할 수 있으며, 2027년 추가 인상 가능성도 열어뒀다고 밝혔다. 한편 미 국채와 유로존 국채 수익률은 Brent유 가격 하락과 AI 주식 조정에 힘입어 하락했다. 시장은 수요일 발표될 미국 소비자물가지수(CPI)를 주시하고 있다.
-<a href="https://www.wsj.com/economy/central-banking/one-more-u-s-interest-rate-increase-may-be-appropriate-feds-williams-says-a5a7a1df">[WSJ]</a> <a href="https://www.wsj.com/economy/central-banking/treasury-eurozone-yields-fall-as-markets-look-to-u-s-inflation-data-412d95a4">[WSJ]</a></blockquote>
+<b>9. 미국 증시, 7월 이후 최대 낙폭...AI·인플레이션 우려 확산</b>
+<blockquote>예상보다 높은 9월 인플레이션 지표가 발표되면서 미국 증시가 7월 이후 최대 낙폭을 기록했다. 올해 추가 금리인상 가능성이 부각되며 투자 심리가 위축됐다.
+<a href="https://www.wsj.com/finance/stocks/u-s-stocks-fall-on-hot-inflation-report-ai-sell-off-6c98113d">[WSJ]</a></blockquote>
 
-<b>10. 미국 9월 주택 판매 소폭 반등...모기지 금리 급등으로 향후 둔화 우려</b>
-<blockquote>미국 9월 주택 판매가 전월 대비 1.5% 증가하며 5월 이후 처음으로 반등했다. 여름철 모기지 금리가 횡보한 덕분이다. 그러나 최근 몇 주간 모기지 금리가 급등하면서 향후 판매 활동 둔화가 우려된다.
-<a href="https://www.wsj.com/economy/housing/home-sales-rose-in-september-for-the-first-time-since-spring-32a7d980">[WSJ]</a></blockquote>
+<b>10. AI 불안과 금리인상 우려 겹쳐...7월 이후 최악의 하루</b>
+<blockquote>뜨거운 인플레이션 지표가 10월 금리인상 기대를 재설정한 데 이어 AI 투자에 대한 신뢰 흔들림이 중심 이슈로 부상했다. 주식·채권 동반 약세가 나타났다.
+<a href="https://www.wsj.com/finance/stocks/ai-jitters-and-rate-hike-fears-combine-for-worst-day-for-stocks-since-july-6abd3a0f">[WSJ]</a></blockquote>
 
-<b>11. JPMorgan·Goldman 어닝 양호하나 시장 반응 냉담...금리 상승 우려</b>
-<blockquote>JPMorgan Chase와 Goldman Sachs가 3분기 실적 호조를 발표하며 은행 어닝 시즌이 시작됐다. 주식 거래 부문이 실적을 견인했다. 그러나 시장 반응은 냉담했다. 금리 추가 인상 전망이 거래 호황 지속 가능성에 의문을 제기하고 있기 때문이다.
-<a href="https://www.wsj.com/finance/stocks/u-s-stocks-tick-down-as-bank-earnings-dont-excite-40b1934e">[WSJ]</a> <a href="https://www.wsj.com/finance/banking/rising-interest-rates-threaten-to-spoil-the-party-for-big-banks-0ef3e7c0">[WSJ]</a> <a href="https://www.ft.com/content/bd1f3385-1985-4a8a-a781-22cbe1292d2d">[FT]</a> <a href="https://www.wsj.com/finance/banking/jpmorgan-goldman-profit-jumps-as-banks-kick-off-earnings-3e78b37d">[WSJ]</a></blockquote>
+<b>11. 미국 반도체주 급락...인플레이션·AI 부채 우려로 안전자산 선호</b>
+<blockquote>인플레이션과 AI 기업 부채 부담 우려가 겹치면서 투자자들이 미국 국채 등 안전자산으로 이동했다. 반도체주가 특히 큰 폭으로 하락하며 매도세를 주도했다.
+<a href="https://www.ft.com/content/fb258413-e88d-47fe-98c8-f645adaea1e1">[FT]</a></blockquote>
 
-<b>12. 금 선물 하락...CPI 대기, 금리 인상 전망</b>
-<blockquote>금 선물 가격이 제한된 범위 내에서 하락했다. 시장은 수요일 발표될 미국 CPI 데이터와 그것이 연준 금리 정책에 미칠 영향을 기다리고 있다.
-<a href="https://www.wsj.com/finance/commodities-futures/gold-falls-as-markets-focus-on-u-s-data-bb4eb024">[WSJ]</a></blockquote>
+<b>12. AI 붐, 신뢰할 수 없는 숫자의 유행병으로 위협받아</b>
+<blockquote>AI 기업들의 재무제표 신뢰성 문제가 불거지면서 AI 투자 붐이 위협받고 있다. 투자자들이 더 이상 기업 데이터를 신뢰할 수 없게 됐다는 우려가 제기됐다.
+<a href="https://www.economist.com/business/2026/10/14/the-ai-boom-is-threatened-by-an-epidemic-of-unreliable-numbers">[Economist]</a></blockquote>
 
-<b>13. Broadcom CEO "AI 투자 카지노 멘탈리티" 경고...삼성·SK하이닉스 급락, Character.AI 파산</b>
-<blockquote>Broadcom CEO가 AI 투자에 대해 "카지노 멘탈리티"라고 경고하며 투자 거품을 우려한 발언을 했다. 이에 삼성전자와 SK하이닉스 등 메모리 칩 주식이 급락하며 한국 코스피 지수가 큰 폭으로 하락했다. 한편 AI 챗봇 업체 Character.AI가 챕터11 파산보호를 신청했다. 이 회사는 청소년 정신건강에 미치는 영향으로 논란을 겪어왔다.
-<a href="https://www.ft.com/content/e16f0422-cf75-4cc9-962d-4605e421dc63">[FT]</a> <a href="https://www.wsj.com/tech/ai/character-ai-maker-files-for-chapter-11-bankruptcy-740e6fb1">[WSJ]</a></blockquote>
+<b>13. Apple, $5조 시가총액 돌파...Nvidia와 함께 클럽 진입</b>
+<blockquote>Apple이 $5조 시가총액을 돌파하며 Nvidia에 이어 두 번째로 이 클럽에 합류했다. CEO John Ternus는 다음 성장 단계를 위해 AI 역량을 강화해야 하는 과제를 안고 있다.
+<a href="https://www.wsj.com/tech/seventh-time-is-the-charm-apple-closes-above-5-trillion-market-capitalization-88a5a056">[WSJ]</a></blockquote>
 
-<b>14. 프라이빗 에쿼티, 금리 상승·exit 부진으로 인력 이탈</b>
-<blockquote>금리 상승과 exit 부진 속에 프라이빗 에쿼티 업계에서 직원 이탈이 늘고 있다. 투자 회수 전망이 어두워지면서 소규모 펀드들이 특히 어려움을 겪고 있다.
-<a href="https://www.wsj.com/finance/investing/higher-rates-are-coming-for-private-equityand-smaller-firms-are-already-hurting-754ada6c">[WSJ]</a></blockquote>
+<b>14. AI 붐, Wall Street 수익 급증 견인...투자은행·자산관리 수혜</b>
+<blockquote>AI 붐으로 투자은행 수익이 증가하고 자산관리 부문이 새로운 AI 백만장자 고객을 유치하면서 Wall Street 전체 수익이 크게 늘었다. AI 관련 M&A와 자금조달 거래가 활발히 이뤄지고 있다.
+<a href="https://www.wsj.com/finance/banking/the-ai-boom-is-supercharging-wall-streets-profits-2a2d9747">[WSJ]</a></blockquote>
 
-<b>15. Bank of America, 자금세탁·제재 위반으로 $1.2B 벌금</b>
-<blockquote>Bank of America가 자금세탁 방지 및 제재법 위반으로 미 재무부와 규제당국에 총 12억 달러의 벌금을 납부하기로 합의했다. 당국은 이 은행이 50억 달러 규모의 의심스러운 거래를 포착하지 못했다고 밝혔다.
-<a href="https://www.wsj.com/finance/regulation/bank-of-america-to-pay-1-21-billion-to-settle-violations-of-money-laundering-sanctions-laws-203b5fdf">[WSJ]</a> <a href="https://www.ft.com/content/c08dd4a1-74a4-49f2-90f7-0857c6e87868">[FT]</a></blockquote>
+<b>15. Bank of America, $1.2bn 벌금으로 3분기 순이익 17% 감소</b>
+<blockquote>Bank of America의 3분기 순이익이 자금세탁 방지 관련 $1.2bn 벌금으로 전년 대비 17% 감소했다. 트레이딩 실적도 Wall Street 경쟁사들보다 부진했다.
+<a href="https://www.ft.com/content/a82b4275-6519-4142-b1df-e74c66ead877">[FT]</a></blockquote>
 
-<b>16. 뮤니 본드, 자연재해 비용 증가로 리스크 상승</b>
-<blockquote>지방채(뮤니시펄 본드) 투자자들이 자연재해 비용 증가로 높아진 리스크에 직면하고 있다. 글로벌 채권시장의 최근 변동성 속에서 전통적으로 가장 안전한 자산군 중 하나였던 뮤니 본드 투자에도 더 신중한 접근이 요구되고 있다.
-<a href="https://www.wsj.com/finance/investing/municipal-bond-investors-face-elevated-risks-from-rising-costs-of-natural-disasters-66404839">[WSJ]</a></blockquote>
+<b>16. Bank of America 문제 지속 우려...월가, 추가 타격 가능성 압박</b>
+<blockquote>실적 부진과 벌금이 겹친 가운데 애널리스트들이 경영진에게 추가 타격 가능성에 대해 집중 질의하며 Bank of America의 문제가 장기화할 수 있다는 우려를 제기했다.
+<a href="https://www.wsj.com/finance/banking/wall-street-worries-bank-of-americas-problems-will-linger-a564492f">[WSJ]</a></blockquote>
 
-<b>17. 트럼프 행정부 Guilfoyle 대사 사임...스캔들</b>
-<blockquote>백악관이 주 그리스 대사 Kimberly Guilfoyle에게 사임을 요청했다. WSJ은 그가 트럼프 기부자로부터 10만 달러를 요구했다고 보도한 바 있다. 야당은 행정부 관료들이 자기 이익 챙기기에 골몰하고 있다는 비판의 목소리를 높이고 있다.
-<a href="https://www.wsj.com/politics/policy/kimberly-guilfoyle-call-to-resign-103cc668">[WSJ]</a> <a href="https://www.ft.com/content/87a1a5a1-4942-47dd-856a-d9a694f7d2fd">[FT]</a></blockquote>
+<b>17. 우크라이나, Starlink 제한과 정보 공백으로 타격...군사작전 차질</b>
+<blockquote>우크라이나가 Starlink 위성 네트워크 연결 문제와 정보 공유 중단으로 군사 작전에 차질을 빚고 있다. Donald Trump가 러시아와의 디젤 거래를 보호하기 위해 핵심 군사 정보 제공을 중단한 것으로 보인다는 관측이 나온다.
+<a href="https://www.ft.com/content/37085602-726a-44dc-a859-51caab38eb75">[FT]</a></blockquote>
 
-<b>18. 트럼프, Ørsted 해상풍력 건설 중단 재추진</b>
-<blockquote>트럼프 대통령이 에너지 허가 법안에 대한 지지를 확보하기 위해 재생에너지 프로젝트 반대를 철회한다고 밝혔지만, 덴마크 Ørsted의 해상풍력 프로젝트 건설 중단 노력은 재개하고 있다.
-<a href="https://www.ft.com/content/4cb3d090-787d-4678-89ea-9028bdeefd14">[FT]</a></blockquote>
+<b>18. Trump, 우크라이나 군사 생명줄 조여...러시아 디젤 거래 보호 목적</b>
+<blockquote>Donald Trump가 러시아 디젤 거래를 보호하기 위해 우크라이나에 제공되던 핵심 군사 정보를 차단하고 있는 것으로 전해졌다. 우크라이나의 군사 작전 능력이 심각하게 약화되고 있다.
+<a href="https://www.economist.com/europe/2026/10/14/donald-trump-is-squeezing-ukraines-military-lifeline">[Economist]</a></blockquote>
 
-<b>19. 미국 방산 스타트업, 대만서 對中 무관 드론 생산 확대</b>
-<blockquote>미국 방산 스타트업들이 대만에서 중국과 무관한 드론 생산 확대에 나서고 있다. 이 신흥 산업은 미군에 공급하는 동시에 대만에 생존에 필수적인 무기를 제공할 잠재력을 갖췄다.
-<a href="https://www.wsj.com/tech/u-s-defense-startups-flock-to-taiwan-to-build-china-free-drones-5c871c94">[WSJ]</a></blockquote>
+<b>19. 우크라이나, Starlink 속도 제한으로 러시아 공격 능력 약화</b>
+<blockquote>우크라이나 관리들은 Starlink 단말기에 부과된 속도 제한으로 러시아 목표물 공격 및 드론 요격 능력이 둔화됐다고 밝혔다. 군사 작전 전반에 걸쳐 타격이 우려되는 상황이다.
+<a href="https://www.wsj.com/world/europe/ukraine-says-new-starlink-speed-limit-is-disrupting-its-attacks-79225e19">[WSJ]</a></blockquote>
 
-<b>20. 트럼프 김정은 회담 암시...북한은 ICBM 과시</b>
-<blockquote>트럼프 대통령이 김정은과의 회담 가능성을 시사하는 가운데, 북한 김정은은 가족과 함께 신규 군사박물관을 방문해 미국 본토를 사정권에 둔 미사일과 드론을 과시했다. 군사력 증강 추진을 강조하는 행보다.
-<a href="https://www.wsj.com/world/asia/while-trump-floats-a-kim-meeting-north-korea-flaunts-its-u-s-range-missiles-840ea74b">[WSJ]</a></blockquote>
+<b>20. Burnham, Trump-Zelenskyy 간 관계 복원 모색...러시아 디젤 거래 논란 속</b>
+<blockquote>영국 총리 Burnham이 Downing Street에서 우크라이나 Zelenskyy 대통령과 회담을 갖고 미국 Trump와의 관계 복원을 모색했다. 미국의 러시아 디젤 거래가 논란이 되는 가운데 진행된 회동이다.
+<a href="https://www.ft.com/content/16ceb1fb-662c-4379-8187-0a51a7f4106f">[FT]</a></blockquote>
 
-<b>21. 영국 Burnham·Healey, 기업에 세금 안심 메시지...자본이득세 인상 거부</b>
-<blockquote>영국 총리 Burnham과 재무장관 Healey가 기업 총수들과의 라운드테이블에서 예산안 발표를 앞두고 세금에 대한 안심 메시지를 전달했다. Healey는 자본이득세와 소득세율을 동일하게 만들자는 제안을 거부했다. 이 제안은 노동당 고위 인사들의 지지를 받았으나 기업가와 투자자들의 우려를 낳았었다.
-<a href="https://www.ft.com/content/e582246d-c869-46dc-a8a5-5ea52fa689e7">[FT]</a> <a href="https://www.ft.com/content/d63348fb-901d-4ff3-9cdc-0d023778dbc2">[FT]</a></blockquote>
+<b>21. 이탈리아 Meloni, Trump의 러시아 디젤 거래 비판...우크라이나 정당성 약화 우려</b>
+<blockquote>이탈리아 총리 Meloni가 Trump의 러시아 디젤 거래가 우크라이나에 대한 러시아의 확전 캠페인에 '정당성'을 부여할 것이라며 비판했다. 유럽 동맹국 내 반발이 커지고 있다.
+<a href="https://www.ft.com/content/178041cc-c9e7-4bd9-8c6e-7967931dcb33">[FT]</a></blockquote>
 
-<b>22. IMF 전망 역사 분석...세계 경제 예상보다 뜨거운 성장·인플레이션</b>
-<blockquote>IMF 전망 역사를 분석한 결과, 세계 경제가 예상보다 더 뜨거운 성장과 인플레이션을 보이고 있는 것으로 나타났다. 매크로 전망의 불확실성이 지속되고 있음을 시사한다.
-<a href="https://www.ft.com/content/183ace53-2a89-43a9-88c1-9ea1e1b4437d">[FT]</a></blockquote>
+<b>22. 독일 검찰, 우크라이나의 Nord Stream 파괴 혐의 기소</b>
+<blockquote>독일 검찰이 우크라이나 전직 장교 Serhii Kuznietsov를 Nord Stream 가스관에 폭발물을 설치한 다이버 그룹을 지휘한 혐의로 기소했다. Hamburg에서 전쟁범죄 재판이 시작됐다.
+<a href="https://www.ft.com/content/8c3c631c-e37f-4209-aefd-112c4c58020c">[FT]</a></blockquote>
 
-<b>23. 남아공 GDP 2024년 이후 첫 분기 감소...미-이란 전쟁 충격</b>
-<blockquote>남아프리카공화국의 GDP가 2024년 이후 처음으로 분기 감소를 기록했다. 미국-이란 전쟁이 전 세계 경제를 강타한 가운데, 남아공의 고질적인 구조적 취약성이 드러났다는 평가가 나온다.
-<a href="https://www.ft.com/content/eac06dff-3772-456a-bdbb-578e6218b83d">[FT]</a></blockquote>
+<b>23. Nord Stream 재판, 독일-우크라이나 동맹 시험대...전시 파괴 행위 논란</b>
+<blockquote>우크라이나 장교의 Nord Stream 파괴 전쟁범죄 재판이 독일과 우크라이나 동맹의 한계를 시험하고 있다. 전시 파괴 행위의 법적 정당성이 쟁점으로 떠올랐다.
+<a href="https://www.wsj.com/world/europe/nord-stream-trial-tests-germanys-alliance-with-ukraine-c8e0acdd">[WSJ]</a></blockquote>
 
-<b>24. 중국 인구 통계 착시...경제 야망 왜곡 가능성</b>
-<blockquote>중국의 인구 통계 데이터에 착시가 있어 경제 야망을 왜곡할 수 있다는 분석이 나왔다. 정책 결정에 영향을 미칠 수 있는 인구 구조 파악의 정확성에 의문이 제기되고 있다.
-<a href="https://www.wsj.com/world/china/a-demographic-mirage-may-be-distorting-chinas-economic-ambitions-adf0bc92">[WSJ]</a></blockquote>
+<b>24. Marine Le Pen, EU와 전면전 준비...프랑스, 주류정치 종결 준비 완료</b>
+<blockquote>프랑스 극우 지도자 Marine Le Pen이 FT 인터뷰에서 프랑스가 주류 정치의 막을 내릴 준비가 됐다고 선언했다. 유럽연합과의 전면전을 예고하며 정치 지형 변화 가능성을 시사했다.
+<a href="https://www.ft.com/content/73cfaf41-d3ea-4202-bd9b-f355c9e5b504">[FT]</a></blockquote>
 
-<b>25. Kimberly-Clark/Kenvue $40B 합병 EU 조건부 승인</b>
-<blockquote>유럽연합 집행위원회가 Kimberly-Clark와 Kenvue의 400억 달러 규모 합병을 조건부로 승인했다. 체코, 에스토니아, 슬로바키아 탐폰 시장에서의 경쟁 저해 우려를 완전히 해소하는 자산 매각이 조건이다.
-<a href="https://www.wsj.com/business/deals/kimberly-clark-kenvue-win-conditional-eu-approval-for-40-billion-tie-up-1964639a">[WSJ]</a></blockquote>
+<b>25. 영국 Badenoch, 은행세 우려 표명...예산안 경쟁력 타격 경고</b>
+<blockquote>영국 보수당 당수 Badenoch이 예산안의 은행세 인상 가능성에 대해 '경보'를 울렸다. 투자자들도 영국 경쟁력에 타격을 줄 수 있다고 경고하고 있다.
+<a href="https://www.ft.com/content/2ce6438a-7e9a-4984-9364-655bde5c9bf2">[FT]</a></blockquote>
 
-<b>26. Albertsons 실적 부진, 가이던스 철회·전략 재검토</b>
-<blockquote>미국 2위 슈퍼마켓 체인 Albertsons가 2분기 실적 부진을 발표하고 연간 가이던스를 철회했으며, 사업 전략 재검토에 나선다고 밝혔다. 핵심 식료품 사업 압박이 지속되는 가운데 소비자 지출 감소가 실적을 짓눌렀다. 회사는 실적이 잠재력을 반영하지 못한다고 설명했다.
-<a href="https://www.wsj.com/business/retail/albertsons-pulls-fy-guidance-plans-business-review-9d71facf">[WSJ]</a></blockquote>
+<b>26. 영국 재무장관 Healey 예산안, 놓칠 수 없는 순간...대담한 선택 필요</b>
+<blockquote>영국 재무장관 Healey의 예산안이 중요한 기로에 섰다. 이번에 대담한 선택을 피하면 정치·경제적 고통을 미래로 미루는 것에 불과하다는 지적이 나온다.
+<a href="https://www.ft.com/content/9f3713fb-6b0a-41f8-8ccc-b23f2395740e">[FT]</a></blockquote>
 
-<b>27. LSE 소유주, 신용 전문 Octus $3.5B 인수 협상</b>
-<blockquote>런던증권거래소 소유주가 프라이빗 에쿼티 그룹 Permira로부터 신용 데이터 전문업체 Octus를 35억 달러 규모로 인수하는 협상을 진행 중이다.
-<a href="https://www.ft.com/content/fbaeca48-5f50-40ca-b45e-5de62ad52b83">[FT]</a></blockquote>
+<b>27. 중국 소비자 신용 급감...경기 둔화 경고 신호</b>
+<blockquote>중국의 소비자 신용이 급감하며 경기 둔화를 경고하는 또 하나의 신호로 떠올랐다. 공격적 채권추심 단속이 긍정적 측면과 부정적 측면을 동시에 갖고 있다는 평가다.
+<a href="https://www.economist.com/finance-and-economics/2026/10/14/another-warning-sign-for-chinas-economy-falling-consumer-credit">[Economist]</a></blockquote>
 
-<b>28. Altice 채권자, Drahi 자산 이전 불법 주장 소송</b>
-<blockquote>Altice International의 채권자들이 억만장자 오너 Patrick Drahi가 수십억 달러 가치의 자산을 불법적으로 채권자 손이 닿지 않는 곳으로 이전했다며 소송을 제기했다.
-<a href="https://www.ft.com/content/b31aaac7-69c1-40da-9c2f-d4f025104d24">[FT]</a></blockquote>
+<b>28. 중국, 무역장벽 확대 속 유럽시장 의존도 심화...하이브리드차 양보</b>
+<blockquote>중국이 더 많은 무역장벽에 직면하면서 유럽 시장을 잃을 여유가 없다는 판단에 하이브리드 차량 문제에서 양보했다. 유럽 시장에 대한 중국의 의존도가 높아지고 있음을 보여준다.
+<a href="https://www.wsj.com/economy/trade/with-china-facing-more-trade-barriers-it-cant-afford-to-lose-europe-d041ab25">[WSJ]</a></blockquote>
+
+<b>29. Lufthansa, 포르투갈 TAP 지분 44.9% 인수 확정...€1.2bn 투자</b>
+<blockquote>독일 Lufthansa가 포르투갈 항공사 TAP의 44.9% 지분 인수를 위해 최대 €1.2bn을 투자하기로 확정했다. Air France-KLM과의 경쟁에서 승리하며 유럽 항공 통합을 가속화한다.
+<a href="https://www.ft.com/content/60a8f4e6-5da4-4f59-b009-baed53215497">[FT]</a></blockquote>
+
+<b>30. 독일 Lufthansa, 포르투갈 TAP 49.9% 지분 $1.3bn에 인수</b>
+<blockquote>독일 Lufthansa가 포르투갈 국영 항공사 TAP의 49.9% 지분을 $1.3bn에 인수하는 입찰에서 승리했다. Air France-KLM와의 경쟁을 제치고 유럽 항공시장 재편에 나선다.
+<a href="https://www.wsj.com/business/airlines/germanys-lufthansa-beats-air-france-klm-to-take-1-3-billion-stake-in-portugals-flag-carrier-3fe9ccfb">[WSJ]</a></blockquote>
+
+<b>31. GlobalFoundries, $21bn 투자로 뉴욕에 칩 공장 2곳 건설</b>
+<blockquote>반도체 제조업체 GlobalFoundries가 일본 자금과 CHIPS Act 지원금 등 최대 $21bn을 활용해 뉴욕에 칩 공장 2곳을 건설한다. 미 상무부는 이 회사의 4% 지분을 취득할 계획이다.
+<a href="https://www.wsj.com/tech/globalfoundries-to-build-two-chip-fabs-with-up-to-21-billion-funding-e74083ac">[WSJ]</a></blockquote>
+
+<b>32. American Electric Power, Google 위한 연료전지에 $4bn 투자</b>
+<blockquote>American Electric Power가 Alphabet 자회사 Google의 증가하는 에너지 수요를 충족하기 위해 Wyoming 연료전지 발전 프로젝트에 약 $4bn을 투자할 계획이다.
+<a href="https://www.wsj.com/business/energy-oil/american-electric-power-to-invest-4-billion-in-fuel-cell-project-to-meet-energy-demand-from-google-c946aa2f">[WSJ]</a></blockquote>
+
+<b>33. 미국 은행들의 '디뱅킹' 조사...MAGA·민주당 단체 모두 차단</b>
+<blockquote>Trump 행정부 규제당국의 조사 결과, JPMorgan 등 미국 주요 은행들이 MAGA 제품 판매자와 민주당 단체 모두를 계좌 차단한 사례가 적발됐다. 정치적 성향과 무관하게 금융 접근이 차단된 것으로 나타났다.
+<a href="https://www.wsj.com/finance/regulation/debanking-probe-finds-jpmorgan-banks-cut-off-maga-sellers-and-democrat-groups-c170d0a5">[WSJ]</a></blockquote>
+
+<b>34. BlackRock, $205bn 순유입으로 자산 사상 최고치 경신</b>
+<blockquote>세계 최대 자산운용사 BlackRock이 $205bn 순유입을 기록하며 운용자산이 사상 최고치를 경신했다. HPS와 Global Infrastructure Partners 인수 이후 사모자본 시장에서 영향력을 확대하고 있다.
+<a href="https://www.ft.com/content/63e3c39b-357f-4a87-adf0-090c60c929a7">[FT]</a></blockquote>
+
+<b>35. Netflix, 1,000명 해고...성장 둔화 우려 속 구조조정</b>
+<blockquote>스트리밍 기업 Netflix가 시청자 참여도 증대 압박 속에서 1,000명을 해고한다. 주가가 1년 만에 40% 이상 하락한 가운데 단행된 구조조정이다.
+<a href="https://www.ft.com/content/5f1b2f31-2067-4c3a-8093-54210a7c0e72">[FT]</a></blockquote>
+
+<b>36. Fairfax Financial, 인도 IDBI Bank 지분 과반 인수...$5.43bn 투자</b>
+<blockquote>캐나다 Fairfax Financial이 인도 IDBI Bank의 과반 지분을 약 $5.43bn에 인수하며 인도의 빠르게 성장하는 금융서비스 시장에 진출한다.
+<a href="https://www.wsj.com/finance/fairfax-financial-buying-majority-stake-in-indias-idbi-bank-faf0fe0c">[WSJ]</a></blockquote>
+
+<b>37. 러시아, 일본 기자 간첩 혐의 구금...도쿄-모스크바 긴장 고조</b>
+<blockquote>러시아가 일본 기자를 간첩 혐의로 구금했다. 러시아의 우크라이나 침공 이후 도쿄와 모스크바 간 긴장이 높아지고 있는 가운데 발생한 사건이다.
+<a href="https://www.wsj.com/world/russia/russia-detains-japanese-journalist-on-espionage-charges-1506f50f">[WSJ]</a></blockquote>
 
 ━━━━━━━━━━━━━━━━━━━━
 📡 <b>출처: WSJ · FT · The Economist</b>
