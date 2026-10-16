@@ -4,141 +4,157 @@
 
 ✅ <b>간밤의 주요 헤드라인</b>
 
-<b>1. Trump, 러시아·이란 그림자함대 제재 완화 검토...중간선거 앞두고 유가 안정화 시도</b>
-<blockquote>Trump 행정부가 중간선거를 앞두고 연료비 낮추기 위해 러시아·이란 그림자함대 제재 완화를 검토 중이다. 블랙리스트 선박의 글로벌 교역 복귀 허용 가능성이 제기되면서 에너지 시장 변수로 주목된다.
-<a href="https://www.ft.com/content/6dfa9879-589a-4af3-9374-b546a945a219">[FT]</a></blockquote>
+<b>1. AI 신용 우려 확산으로 Wall Street 6월 이후 최악의 주...CoreWeave 등 부채 부담 부각</b>
+<blockquote>CoreWeave와 Alphabet 등 AI 관련 기업들이 대규모 매도세에 휩싸이며 미 증시가 6월 이후 최악의 주간 낙폭을 기록했다. AI 수익 실현이 늦어지는 가운데 신용 부담이 가중되고 있다는 우려가 확산됐다. 국채 수익률은 급락했다.
+<a href="https://www.wsj.com/finance/stocks/us-death-penalty-execution-rates-41ea3427">[WSJ]</a></blockquote>
 
-<b>2. 우크라이나, 러시아 정유시설 타격 재개...Starlink 제한 해제 후 중거리 작전 복귀</b>
-<blockquote>우크라이나군이 Starlink 제한 해제 이후 러시아 정유시설 공격을 재개했다. Moscow가 Trump의 에너지 휴전 제안을 위반한 데 따른 조치로, 중거리 타격 및 군사 작전 재개가 가능해졌다.
-<a href="https://www.wsj.com/world/ukraine-strikes-russian-refinery-after-moscow-breaks-trumps-energy-ceasefire-35b3ee40">[WSJ]</a></blockquote>
+<b>2. CoreWeave 신용 불안에 미 증시 급락...Nasdaq 주간 하락폭 6월 이후 최대</b>
+<blockquote>CoreWeave 등 AI 하이퍼스케일러들의 신용 부담이 예상보다 빨리 증가하면서 기술주 전반에 매도세가 확산됐다. AI 수익화 지연에 대한 우려가 커지며 Nasdaq 지수는 6월 이후 최대 주간 낙폭을 기록했다.
+<a href="https://www.wsj.com/finance/investing/u-s-stocks-fall-as-credit-fears-haunt-tech-sector-db50c887">[WSJ]</a></blockquote>
 
-<b>3. 러시아, NATO 수역서 화물선 2척 타격 의혹...루마니아 인근 화학 탱커 화재</b>
-<blockquote>루마니아 인근 NATO 수역에서 화학 탱커 2척이 화재로 침몰했다. 러시아 드론이 해당 지역에서 목격된 직후 발생해 러시아의 타격 의혹이 제기되며 흑해 긴장이 고조되고 있다.
-<a href="https://www.ft.com/content/f0975e34-5d18-4840-ae09-b998dd35d09e">[FT]</a></blockquote>
+<b>3. 빅테크 주가 '해방의 날' 이후 최대 낙폭...AI 거품 우려에 국채 수요 급증</b>
+<blockquote>빅테크 주가가 트럼프 2기 출범 이후 최대 주간 낙폭을 기록했다. AI 투자 수익성에 대한 의구심이 커지며 투자자들이 국채로 이동했고, 수개월간 이어진 미 국채 매도세가 멈춰섰다.
+<a href="https://www.ft.com/content/4c4f03f4-f878-4bd6-8128-5be7e3bb8ca1">[FT]</a></blockquote>
 
-<b>4. 사우디 이벤트 잇따라 연기...후티 리야드 공항 미사일 공격 여파</b>
-<blockquote>후티 반군의 리야드 공항 미사일 공격 이후 사우디가 EU-걸프 정상회의와 포뮬러원 경기 등 주요 행사를 잇따라 연기했다. 호르무즈 해협 긴장 국면이 걸프 지역 전체로 확산되는 양상이다.
-<a href="https://www.ft.com/content/0be97035-3854-4b6c-8191-98f486862b02">[FT]</a></blockquote>
+<b>4. 빅테크 급락에 Nasdaq 주간 최대 낙폭...칩·AI 관련주 압박 지속</b>
+<blockquote>반도체와 AI 관련주에 대한 새로운 압박이 가해지며 Nasdaq 종합지수가 주간 기준 큰 폭으로 하락했다. 기술주 주도의 랠리가 꺾이며 미 증시 전반이 약세를 보였다.
+<a href="https://www.wsj.com/finance/stocks/stock-futures-treasurys-steady-as-markets-take-breather-5018a757">[WSJ]</a></blockquote>
 
-<b>5. 이스라엘, 가자지구 상업 물품 반입 차단...팔레스타인과 책임 공방</b>
-<blockquote>이스라엘이 가자지구로 향하는 신규 상업 물품 반입을 차단했다. 이스라엘과 팔레스타인 측은 상호 책임을 전가하며 대립하고 있어, 봉쇄 장기화 가능성이 제기된다.
-<a href="https://www.ft.com/content/f60aaf56-a712-43a4-971d-6f1c8815bafa">[FT]</a></blockquote>
+<b>5. Verizon·UnitedHealth 등 주요 기업, 주식 토큰화 반대 목소리...새 규제 틀에 이의 제기</b>
+<blockquote>Broadcom을 비롯한 주요 기업들이 새로운 규제 프레임워크 하에서 자사 주식을 토큰화하는 것에 반대 입장을 밝혔다. Verizon, UnitedHealth 등 대형 기업들이 주식 토큰화 정책에 공식 이의를 제기했다.
+<a href="https://www.wsj.com/finance/stocks/from-verizon-to-unitedhealth-corporate-america-is-balking-at-tokenized-stocks-6dbbeada">[WSJ]</a></blockquote>
 
-<b>6. 미국 9월 도매물가 1.3% 급등...4년래 최고, 시장 예상 두 배 웃돌아</b>
-<blockquote>9월 생산자물가지수(PPI)가 전월 대비 1.3% 상승하며 2022년 3월 이후 최대 상승폭을 기록했다. 시장 예상치 0.6%를 크게 웃돌아 연준의 통화정책 불확실성이 커지고 있다.
-<a href="https://www.wsj.com/economy/central-banking/wholesale-inflation-hit-4-year-high-in-september-e1754eee">[WSJ]</a></blockquote>
+<b>6. Citi 등 미 은행들, AI 에이전트의 계좌 접근 제한...예금 이탈 우려</b>
+<blockquote>Citigroup이 AI 에이전트의 고객 계좌 접근을 제한하는 미국 은행들의 대열에 합류했다. 챗봇이 수십억 달러 규모의 예금을 더 높은 수익률 계좌로 이동시킬 수 있다는 우려가 배경이다.
+<a href="https://www.ft.com/content/f49c8e39-f07f-4177-9948-aabe55e5ed91">[FT]</a></blockquote>
 
-<b>7. 9월 소매판매 0.8% 증가...8월 1.3% 상향 조정, 소비 견조세 지속</b>
-<blockquote>9월 소매판매는 7,450억달러로 전월 대비 0.8% 증가했다. 8월 증가율은 1.3%로 상향 조정되며, 높은 물가와 금리 속에서도 소비 회복력이 확인됐다.
-<a href="https://www.wsj.com/economy/u-s-retail-sales-expanded-in-september-f1d83384">[WSJ]</a></blockquote>
+<b>7. 기술주 하락·유가 상승으로 변동성 확대한 한 주 마감...안전자산 선호 뚜렷</b>
+<blockquote>기술주 급락과 유가 상승이 동시에 나타나며 변동성이 큰 한 주가 마무리됐다. Tesla의 Roadster 출시는 시장의 냉담한 반응을 받았고, 주요 기업들은 주식 토큰화에 부정적 입장을 보였다.
+<a href="https://www.wsj.com/finance/stocks/a-volatile-week-ends-with-tech-stocks-down-oil-up-5f286ce3">[WSJ]</a></blockquote>
 
-<b>8. 미국 실업수당 청구 19.9만건...5주 연속 하락 끝나고 소폭 반등</b>
-<blockquote>10월 10일 마감 주간 신규 실업수당 청구 건수가 19.9만건으로 전주 대비 1,000건 증가했다. 5주 연속 하락세가 멈추며 고용시장 냉각 신호가 포착됐다.
-<a href="https://www.wsj.com/economy/jobs/u-s-jobless-claims-edge-up-snap-5-week-skid-c99e95d5">[WSJ]</a></blockquote>
+<b>8. Brent유 5개월 최고치 $110 돌파...중동 긴장 지속에 공급 우려 증폭</b>
+<blockquote>사우디 주도 연합군이 주요 에너지 시설을 겨냥한 미사일을 요격·파괴했다는 보도가 나오며 중동 긴장이 고조됐다. Brent유는 $110를 넘어 5개월 최고치를 기록했다.
+<a href="https://www.ft.com/content/8ee22d89-03eb-48dc-99a5-27555373a89c">[FT]</a></blockquote>
 
-<b>9. CoreWeave AI 인프라 채권 폭락...금리 상승에 가장 위험한 AI 투자처 타격</b>
-<blockquote>AI 인프라 기업 CoreWeave의 채권이 급락하며 차입 비용 상승 압력이 가시화됐다. 고금리 국면에서 AI 투자의 가장 취약한 부문이 드러나며 시장 경계감이 확산되고 있다.
-<a href="https://www.wsj.com/finance/stocks/the-riskiest-corner-of-the-ai-trade-is-crashing-into-higher-rates-fcdaad37">[WSJ]</a></blockquote>
+<b>9. 유가 선물 상승세 지속...중동·우크라이나 공급 차질 우려에 호르무즈 해협 불확실성 가중</b>
+<blockquote>우크라이나가 러시아 정유 시설에 대한 공격을 재개하면서 원유 가격이 상승했다. 중동의 지속적인 공급 리스크와 호르무즈 해협 통행 불확실성이 더해지며 공급 차질 우려가 커졌다.
+<a href="https://www.wsj.com/business/energy-oil/oil-prices-fall-as-traders-weigh-iea-reserve-releases-hormuz-risks-f8d24d7b">[WSJ]</a></blockquote>
 
-<b>10. 투자자들, 데이터센터 채권 투매...AI 차입자들 '다윈의 순간' 직면</b>
-<blockquote>CoreWeave 등 AI 인프라·네오클라우드 기업들의 채권이 투매되며 스트레스 수준으로 하락했다. AI 붐 수혜 차입자들이 생존 경쟁에 내몰리며 신용 리스크 우려가 커지고 있다.
-<a href="https://www.ft.com/content/678bcd31-6c2a-447b-a68c-ce6dec220bbc">[FT]</a></blockquote>
+<b>10. 중동·우크라이나 공급 우려에 원유 선물 상승...IEA 비축유 방출 발표에도 불안 지속</b>
+<blockquote>중동 분쟁과 우크라이나의 러시아 정유 시설 공격이 지속되며 원유 선물이 상승했다. 초반 약세를 떨쳐내고 공급 우려가 시장을 지배하며 가격 상승세가 이어졌다.
+<a href="https://www.wsj.com/finance/commodities-futures/oil-falls-weighed-by-ieas-crude-diesel-release-announcement-c474aaa9">[WSJ]</a></blockquote>
 
-<b>11. 국채 랠리, AI 난기류 속 안전자산 선호...글로벌 칩주 동반 하락</b>
-<blockquote>AI 붐 지속 가능성 우려 속에 투자자들이 국채로 이동하며 글로벌 칩주가 동반 급락했다. 변동성 확대에 안전자산 수요가 급증하며 국채 수익률이 하락세를 보이고 있다.
-<a href="https://www.ft.com/content/cf5f1209-da29-4ce1-b425-0e83818bf9ec">[FT]</a></blockquote>
+<b>11. 디젤 가격 고공행진 지속...재고 역사적 저점에도 공급 확대 노력 효과 제한적</b>
+<blockquote>정제유 시장 압박을 완화하려는 노력에도 디젤 가격은 여전히 높은 수준을 유지하고 있다. 재고가 역사적 저점 부근에 머물며 공급 확대 조치의 효과가 제한적인 것으로 나타났다.
+<a href="https://www.wsj.com/business/energy-oil/diesel-prices-hold-high-despite-efforts-to-boost-global-supplies-5557b1d2">[WSJ]</a></blockquote>
 
-<b>12. 나스닥 4일 연속 하락...투자자들 테크주서 국채로 회전 매 가속</b>
-<blockquote>AI 투자 우려로 나스닥이 4일 연속 하락하며 투자자들이 테크주에서 국채로 자금을 이동시키고 있다. Dow 지수는 상승하며 방어주 선호 현상이 뚜렷해졌다.
-<a href="https://www.wsj.com/finance/stocks/nasdaq-futures-slide-as-global-ai-selloff-gathers-pace-da79ad4d">[WSJ]</a></blockquote>
+<b>12. Vitol 스타 트레이더 퇴사...이란 전쟁 초반 오판으로 손실</b>
+<blockquote>원유 트레이딩 업계에서 주목받던 Yaoyao Liu가 Vitol을 떠난다. 이란 전쟁 초반 드물게 잘못된 방향 베팅으로 손실을 본 것으로 알려졌다.
+<a href="https://www.wsj.com/business/energy-oil/star-oil-trader-who-made-wrong-way-bet-to-leave-vitol-6e190ee7">[WSJ]</a></blockquote>
 
-<b>13. 미국·독일 국채 수익률 수주래 저점...인플레 쇼크 뒤 경기 우려 고개</b>
-<blockquote>미국 국채와 독일 국채 수익률이 수주래 최저치로 하락했다. 투자자들의 관심이 인플레이션에서 고금리의 경기 영향으로 이동하며 안전자산 선호가 강화되고 있다.
-<a href="https://www.wsj.com/finance/investing/treasury-eurozone-bond-yields-fall-to-multiweek-lows-as-u-s-inflation-shock-fades-29c7b1c1">[WSJ]</a></blockquote>
+<b>13. 방콕 중앙은행 회의서 Fed·ECB 10월 긴축 가능성 후퇴...시장 베팅 재조정</b>
+<blockquote>Federal Reserve와 ECB 관계자들이 방콕 중앙은행 회의에서 10월 추가 금리 인상 가능성을 낮췄다. 영란은행도 현재 데이터로는 추가 긴축을 뒷받침하지 않는다고 밝혔다.
+<a href="https://www.ft.com/content/4c83ec2c-cd77-4f9b-94e6-fdf70af706ef">[FT]</a></blockquote>
 
-<b>14. FT 분석 "AI 붐 stumbles"...투자자들, AI 버스트 대비해야 하나</b>
-<blockquote>AI 붐이 흔들리면서 투자자들이 버블 붕괴 가능성에 대비해야 한다는 분석이 나왔다. 조만간 실적 압박에 직면할 AI 기업들 사이에서 승자와 패자가 갈릴 것이란 전망이다.
-<a href="https://www.ft.com/content/dd74f024-4eeb-44e3-9f62-5338ba7a863c">[FT]</a></blockquote>
+<b>14. Fed 10월 회의 전망 엇갈려...금리 결정 불확실성에 시장 변동성 확대</b>
+<blockquote>Fed의 10월 금리 결정을 둘러싼 시장 변동성이 특히 커지고 있다. 중앙은행의 다음 금리 결정 결과에 대한 금리 시장의 베팅이 크게 엇갈리고 있다.
+<a href="https://www.ft.com/content/5b36d8a4-49f1-4877-8719-2db984c13081">[FT]</a></blockquote>
 
-<b>15. Lex 칼럼 "증시 AI 크런치 리스크 상승"...변동성 확대 전조</b>
-<blockquote>FT Lex 칼럼은 이번 주 진동이 향후 AI 관련 주식시장 크런치의 전조일 수 있다고 경고했다. AI 투자 지속 가능성에 대한 회의가 확산되며 시장 변동성이 커질 것으로 보인다.
-<a href="https://www.ft.com/content/5dd8b17e-b0a3-4b14-9d83-aba2627e635d">[FT]</a></blockquote>
+<b>15. 달러 약세에 주요 암호화폐 상승...Fed 금리 동결 가능성 높아져</b>
+<blockquote>Fed가 이달 금리를 동결할 가능성이 커지며 달러화가 약세를 보였다. 달러 약세에 힘입어 Bitcoin 등 주요 암호화폐가 상승세를 나타냈다.
+<a href="https://www.wsj.com/finance/currencies/asian-currencies-consolidate-before-fed-chairmans-fireside-chat-f4462ae4">[WSJ]</a></blockquote>
 
-<b>16. Anthropic, AI 리스크 모니터링 위해 METR에 '직원급' 접근 허용</b>
-<blockquote>Anthropic이 비영리 평가기관 METR에 직원 수준의 접근 권한을 부여하며 외부 안전 감시를 강화했다. CEO Dario Amodei의 AI 안전 제안 중 핵심 조치로, 업계 자율 규제 모델로 주목받고 있다.
-<a href="https://www.ft.com/content/a3a389d2-7796-4f40-98d3-8986f26f6513">[FT]</a></blockquote>
+<b>16. 일본은행 우에다 총재, 근원 인플레이션 2% 초과 방지 필요 강조</b>
+<blockquote>일본은행 우에다 총재는 근원 인플레이션이 2%를 넘지 않도록 해야 한다고 밝혔다. 중동 정세, AI 수요, 환율이 금리 결정 시기에 영향을 미칠 것이라고 말했다.
+<a href="https://www.wsj.com/economy/central-banking/bank-of-japan-must-ensure-underlying-inflation-doesnt-go-above-2-ueda-says-0d94c2f0">[WSJ]</a></blockquote>
 
-<b>17. Meta-Apple, Mac용 오픈 웨이트 AI 협력...빅테크 라이벌 손잡아</b>
-<blockquote>Meta와 Apple이 Mac 컴퓨터에 최적화된 오픈소스 AI 모델 개발에 협력한다. 라이벌 빅테크 간 파트너십으로, 사용자가 자체 기기에 다운로드 가능한 '오픈' 시스템을 제공할 예정이다.
-<a href="https://www.ft.com/content/3568dbda-ac85-45b3-815a-3a8ec853a78d">[FT]</a></blockquote>
+<b>17. 연료 가격 급등에 글로벌 EV 판매 급증...유럽 디젤 시대 종말 신호</b>
+<blockquote>이란 전쟁의 여파로 화석연료 가격이 급등하며 전기차 판매가 급증하고 있다. 유럽에서 디젤의 종말을 알리는 신호로 해석되며 자동차 산업 재편이 가속화되고 있다.
+<a href="https://www.ft.com/content/30f95850-4ff1-4669-acf8-06edc79c9457">[FT]</a></blockquote>
 
-<b>18. 중국, 유럽 잃을 여유 없어 하이브리드차 양보...무역 장벽 속 타협</b>
-<blockquote>중국이 유럽 시장 방어를 위해 하이브리드 차량 관련 양보안을 제시했다. 미국 등 주요국과의 무역 장벽이 높아지는 가운데 유럽 시장을 잃을 수 없다는 판단이 작용한 것으로 보인다.
-<a href="https://www.wsj.com/economy/trade/with-china-facing-more-trade-barriers-it-cant-afford-to-lose-europe-d041ab25">[WSJ]</a></blockquote>
+<b>18. 프랑스·독일, 유럽 자동차 산업 보호 합의...탈탄소화 유연성 확대·투자 인센티브 제공</b>
+<blockquote>프랑스와 독일이 유럽의 어려움을 겪는 자동차 산업을 보호하기 위한 합의에 도달했다. 탈탄소화 규칙의 유연성을 높이고 투자 인센티브를 제공하는 내용을 담았다.
+<a href="https://www.wsj.com/business/autos/france-and-germany-reach-deal-to-protect-europes-car-industry-f829c51d">[WSJ]</a></blockquote>
 
-<b>19. 프랑스·독일, 영국의 EU 자동차정책 참여 허용...중국 관세 동조 조건</b>
-<blockquote>프랑스와 독일이 영국의 EU 자동차 정책 참여를 허용하기로 합의했다. 단, 영국이 중국산 자동차 관세 정책에 동조하는 것이 조건이며, 'Made in Europe' 보조금 및 내연기관 단계적 폐지 프로그램이 대상이다.
-<a href="https://www.ft.com/content/f8e99974-9f18-4141-ac4a-1f072b7ebb24">[FT]</a></blockquote>
+<b>19. 프랑스·독일 자동차 산업 보호 합의 타결...내연기관 양보·'Made in Europe' 제한</b>
+<blockquote>독일은 내연기관 관련 양보를 확보했고, 프랑스는 파트너 국가들의 'Made in Europe' 접근 제한을 얻어냈다. 양국이 유럽 자동차 산업 보호를 위한 포괄적 합의를 도출했다.
+<a href="https://www.ft.com/content/c36f858f-73e2-478b-9fdb-92b9167ce37f">[FT]</a></blockquote>
 
-<b>20. FT 사설 "유럽, 무역장벽만으론 중국 대응 불가"...하이브리드 딜은 일시적 휴전</b>
-<blockquote>FT는 EU와 중국의 하이브리드차 합의가 긴장 완화에 기여하지만 일시적 휴전에 불과하다고 평가했다. 유럽이 중국에 대응하려면 무역 장벽 외 추가 조치가 필요하다고 강조했다.
-<a href="https://www.ft.com/content/8890bf3f-f243-4bd0-8e2f-f80c78e363f8">[FT]</a></blockquote>
+<b>20. 영국 정부, 2030년 EV 판매 목표 60%로 완화...자동차업계 로비에도 일부만 수용</b>
+<blockquote>영국 정부가 2030년까지 전기차 판매 비중 목표를 60%로 낮추려 하고 있다. 자동차 업계는 더 큰 폭의 완화를 요구했으나 정부는 일부만 수용했다.
+<a href="https://www.ft.com/content/6fc92bd5-e79f-42a9-833c-74b8fffcf1a7">[FT]</a></blockquote>
 
-<b>21. AI 붐 수혜국 vs 비수혜국 격차 심화...에너지·금리 압력에 경제 양극화</b>
-<blockquote>AI 기술 노출도가 낮은 국가들이 고유가·고금리 여파로 경제 타격을 받으며 글로벌 경제가 새로운 승자와 패자로 분리되고 있다. AI 붐 수혜 여부가 국가 간 성장 격차를 결정하는 핵심 변수로 부상했다.
-<a href="https://www.wsj.com/economy/global/ai-boom-shields-select-few-nations-as-economic-pain-sweeps-globe-909f8cc0">[WSJ]</a></blockquote>
+<b>21. 이탈리아, EU로부터 전력 가격 인하 합의 확보...Meloni 총리에 호재</b>
+<blockquote>이탈리아가 EU와 전력 가격 인하 합의를 이끌어냈다. 화석연료 가격 상승으로 어려움을 겪는 가운데 Giorgia Meloni 총리에게 정치적 성과로 평가된다.
+<a href="https://www.ft.com/content/d2928f6b-b8f2-4651-ac9a-9fc4d8653608">[FT]</a></blockquote>
 
-<b>22. 세금 절감 전략이 월가 마진론 급증 촉진...Schwab 잔액 1,900억달러</b>
-<blockquote>Charles Schwab의 마진론 잔액이 3분기 1,900억달러 가까이 급증했다. 세금손실 수확 전략이 확산되며 차입 거래가 급증한 것으로, 월가 레버리지 확대 흐름을 보여준다.
-<a href="https://www.wsj.com/finance/investing/a-popular-tax-minimizing-trade-is-juicing-wall-streets-borrowing-binge-6d81eac2">[WSJ]</a></blockquote>
+<b>22. EU, 우크라이나 추가 재정 지원 검토...Trump의 러시아 연료 거래 후 결속 강화</b>
+<blockquote>유럽 지도자들이 Donald Trump의 모스크바 연료 거래 이후 Volodymyr Zelenskyy를 중심으로 결속하며 우크라이나에 대한 추가 재정 지원을 검토하고 있다.
+<a href="https://www.ft.com/content/ee6dfd48-fa31-4bde-9962-2f9f09c36798">[FT]</a></blockquote>
 
-<b>23. 대학 엔다우먼트, 2021년 이후 최대 수익...SpaceX·AI 투자 수혜</b>
-<blockquote>Harvard 등 주요 대학 기금이 SpaceX와 AI 기업 투자로 2021년 이후 최대 수익률을 기록했다. Harvard는 27.1% 수익률로 총 자산 680억달러를 달성하며 사모자본 보유 자산이 반등했다.
-<a href="https://www.ft.com/content/50c694da-c485-4176-853b-daf643eabb5c">[FT]</a></blockquote>
+<b>23. 러시아의 대담한 NATO 도발 지속...동맹 대응 딜레마 심화</b>
+<blockquote>러시아의 공격적 도발이 계속되며 NATO가 딜레마에 직면했다. 확전 없이 약해 보이지 않는 대응 방안을 모색해야 하는 상황이다.
+<a href="https://www.wsj.com/world/europe/brazen-russian-attacks-are-testing-nato-955ff97d">[WSJ]</a></blockquote>
 
-<b>24. Mark Walter 조사, Guggenheim 자금조달 기계 타격...고객 이탈</b>
-<blockquote>Mark Walter의 제국에 속한 Guggenheim 계열사에 대한 조사로 고객들이 거래를 꺼리고 있다. 월가에 자금을 공급하던 Guggenheim의 핵심 자금조달 메커니즘이 타격을 받고 있다.
-<a href="https://www.wsj.com/finance/investing/mark-walter-probe-dings-a-guggenheim-funding-machine-that-powers-wall-street-f73f5f11">[WSJ]</a></blockquote>
+<b>24. 미국 9월 수입 물가 1.1% 상승...8월 0.5%서 오름폭 확대</b>
+<blockquote>미국의 전체 수입 물가가 9월 1.1% 상승했다. 8월 0.5% 증가에서 오름폭이 커졌다고 노동통계국이 발표했다.
+<a href="https://www.wsj.com/economy/u-s-import-prices-rose-in-september-5ee51f36">[WSJ]</a></blockquote>
 
-<b>25. 금 선물 상승, 달러·수익률 하락 수혜...3일 연속 하락 멈춰</b>
-<blockquote>금 선물이 3거래일 만에 반등했다. 달러 약세와 미국 국채 수익률 하락이 지지 요인으로 작용하며 안전자산 수요가 회복되는 모습이다.
-<a href="https://www.wsj.com/finance/commodities-futures/gold-rises-on-possible-technical-correction-28090dcd">[WSJ]</a></blockquote>
+<b>25. 캐나다 9월 주택 착공 증가...장기 공급 부족은 여전</b>
+<blockquote>캐나다의 지난달 주택 착공이 증가했다. 그러나 연말로 가며 시장에 냉각 조짐이 보이는 가운데 장기적인 공급 부족 문제는 지속되고 있다.
+<a href="https://www.wsj.com/economy/housing/canada-housing-starts-rise-in-september-though-market-faces-longer-term-supply-gap-8a0cde3f">[WSJ]</a></blockquote>
 
-<b>26. Mercuria, 미국 전략비축 Project Vault에 첫 구리 1.2만톤 납품</b>
-<blockquote>트레이딩 하우스 Mercuria가 미국의 120억달러 규모 전략금속 비축 프로젝트 Project Vault에 구리 1.2만톤을 첫 납품했다. 미국 정부의 핵심 광물·금속 비축 전략이 본격화되고 있다.
-<a href="https://www.ft.com/content/37d24217-acd8-4f84-a298-4f1ccc359a27">[FT]</a></blockquote>
+<b>26. 미국 이민 단속으로 주택 건설 타격...외국 출생 노동자 의존 섹터에 인력 부족 심화</b>
+<blockquote>외국 출생 노동자에 크게 의존하는 주택 건설 부문이 노동력 부족으로 어려움을 겪고 있다. 프로젝트가 중단되고 비용이 상승하며 건설 활동이 위축되고 있다.
+<a href="https://www.wsj.com/us-news/the-immigration-crackdown-is-making-it-much-harder-to-build-houses-ec00f4da">[WSJ]</a></blockquote>
 
-<b>27. 영국 Healey 재무장관, 예산안서 은행 증세 시사...금융업 긴장</b>
-<blockquote>영국 Rachel Healey 재무장관이 예산안에서 은행 부문 세금 인상 결정을 시사하며 금융서비스 업계가 긴장하고 있다. 높은 부담금 부과 가능성에 은행들이 대비에 나섰다.
-<a href="https://www.ft.com/content/09e07278-8479-49bb-a145-51e5d93828a2">[FT]</a></blockquote>
+<b>27. 캐나다 Carney 총리, Trump 압박 활용해 인프라 투자 추진...경제 재건 계기로</b>
+<blockquote>캐나다 Mark Carney 총리가 Trump 행정부의 압박을 활용해 국가 인프라 투자 프로젝트를 추진하고 있다. 이를 통해 캐나다 경제를 재건할 수 있는 계기로 삼으려 하고 있다.
+<a href="https://www.wsj.com/world/americas/how-trumps-pressure-could-actually-end-up-saving-canada-1ca3f166">[WSJ]</a></blockquote>
 
-<b>28. Bank of New York Mellon 3분기 이익 증가...시장 변동성 경고</b>
-<blockquote>Bank of New York Mellon이 3분기 실적 증가를 기록했지만 최근 주가 하락을 들어 시장 변동성을 경고했다. 신중한 전망 속에 금융시장 불확실성이 부각되고 있다.
-<a href="https://www.wsj.com/business/earnings/bank-of-new-york-mellon-logs-higher-profit-sales-a622dae6">[WSJ]</a></blockquote>
+<b>28. 중국, AI 기술·칩 수출 통제 초안 발표...최첨단 기술 해외 이전 차단 의지</b>
+<blockquote>중국이 AI 기술과 칩에 대한 확대된 수출 통제 초안을 공개했다. 최첨단 기술의 해외 이전을 막으려는 베이징의 강한 의지를 보여준다.
+<a href="https://www.ft.com/content/e0a1295c-4492-4fdd-aaf5-55678a9ef9bf">[FT]</a></blockquote>
 
-<b>29. Apollo의 easyJet 57억파운드 인수, 은행가 3.34억파운드 수수료</b>
-<blockquote>Apollo의 easyJet 57억파운드 인수 거래로 은행가·자문사들이 3.34억파운드 수수료를 받을 예정이다. 올해 런던 시티에서 가장 수익성 높은 인수합병 중 하나로 꼽힌다.
-<a href="https://www.ft.com/content/66c9bbf1-f25c-4e84-b8ae-c9272fbc49c2">[FT]</a></blockquote>
+<b>29. IMF 회의서 AI 붐·버스트 시나리오 주요 의제로...경제적 가능성과 위험 집중 논의</b>
+<blockquote>방콕에서 열린 IMF 회의에서 AI의 경제적 가능성과 잠재적 위험이 논의의 중심을 차지했다. 새로운 기술의 붐 또는 버스트 시나리오가 주요 의제로 다뤄졌다.
+<a href="https://www.wsj.com/economy/global/ai-boom-or-bust-scenarios-loom-large-at-world-financial-summit-00edaeff">[WSJ]</a></blockquote>
 
-<b>30. Penske Automotive, Penske·Mitsui에 40억달러 비상장화</b>
-<blockquote>Penske Automotive Group이 최대 주주인 Penske와 Mitsui에 약 40억달러에 인수돼 비상장화된다. 자동차 유통 부문의 대형 사모화 거래로 주목된다.
-<a href="https://www.wsj.com/business/deals/penske-automotive-group-to-be-taken-private-by-penske-mitsui-77e061af">[WSJ]</a></blockquote>
+<b>30. 영국 은행세 인상 예고에 금융권 긴장...대형 은행 간 로비 분열</b>
+<blockquote>영국 예산안을 앞두고 은행세 인상 가능성에 은행권이 긴장하고 있다. 대형 은행들 간 로비 캠페인이 분열되며 금융 부문의 대응이 약화됐다는 평가다.
+<a href="https://www.ft.com/content/2b0e3eae-8eae-449e-9492-ac036b0fe143">[FT]</a></blockquote>
 
-<b>31. PNC 매출 증가, 전국 확장 추진...FirstBank 인수 통합비용 3,600만달러</b>
-<blockquote>PNC Financial Services Group이 전국 확장에 따라 매출 증가세를 보였지만 월가 예상에는 미치지 못했다. FirstBank 인수 관련 통합 비용 3,600만달러가 수익을 감소시켰다.
-<a href="https://www.wsj.com/business/earnings/pnc-revenue-rises-on-national-expansion-5fec02b9">[WSJ]</a></blockquote>
+<b>31. 애플, 영국 CMA와 탭투페이 규제로 법적 충돌 예상</b>
+<blockquote>영국 경쟁시장청(CMA)이 애플에 디지털 지갑 기술을 경쟁 결제업체에 개방하도록 강제할 계획이다. 애플의 iPhone 탭투페이 규제를 둘러싼 법적 충돌이 예상된다.
+<a href="https://www.ft.com/content/d05f87bf-225b-43f9-86e6-2f9537cd75c6">[FT]</a></blockquote>
 
-<b>32. DOJ, 캘리포니아 2만명 유권자 투표 차단 소송...연방 선거 개입 확대</b>
-<blockquote>미국 법무부가 캘리포니아주를 상대로 약 2만명 유권자의 투표를 차단하는 소송을 제기했다. 해당 유권자들이 시민권자가 아닐 가능성이 있다는 판단에 따른 것으로, 연방정부의 선거 통제 확대 시도로 해석된다.
-<a href="https://www.wsj.com/politics/elections/doj-sues-california-to-block-ballots-from-20-000-voters-00d1e6f1">[WSJ]</a></blockquote>
+<b>32. Trump 백악관 대변인 Katie Zacharia, 임명 5일 만에 해임...혼란 가중</b>
+<blockquote>Trump 행정부의 백악관 대변인 Katie Zacharia가 임명 5일 만에 해임됐다. 중간선거를 앞두고 백악관 내 혼란이 심화되는 가운데 나온 조치다.
+<a href="https://www.ft.com/content/ae21e5e0-6696-4cd2-877c-7d269b3bcf48">[FT]</a></blockquote>
 
-<b>33. FBI, 선거 사무소에 '미확인 물질' 우편물 조사...주 선거 기관 대상</b>
-<blockquote>FBI가 주 선거 사무소 등에 발송된 미확인 물질 포함 우편물을 조사 중이다. 선거 관련 시설을 겨냥한 것으로 보이며 연방 차원의 보안 대응이 강화되고 있다.
-<a href="https://www.wsj.com/politics/policy/fbi-investigates-mailings-with-unknown-substance-sent-to-election-offices-48c41a05">[WSJ]</a></blockquote>
+<b>33. 백악관 대변인 임명 1주 만에 교체...새 역할은 추후 발표 예정</b>
+<blockquote>Katie Zacharia가 백악관 대변인직에서 물러나 새로운 역할로 전환한다고 소식통이 전했다. 구체적인 새 역할은 나중에 발표될 예정이다.
+<a href="https://www.wsj.com/politics/policy/trump-gives-new-white-house-press-secretary-option-to-quit-af349452">[WSJ]</a></blockquote>
 
-<b>34. Trump, Fort Hood 총격범 공개 처형 생중계 취소...국방장관 결정 번복</b>
-<blockquote>Trump 대통령이 Pete Hegseth 국방장관의 Fort Hood 총격범 처형 생중계 결정을 번복했다. 2009년 Texas 총격 사건 범인의 처형 생중계 계획이 반발에 부딪혀 취소됐다.
-<a href="https://www.ft.com/content/064f7a19-c495-4ba0-a5e5-a6c4bb764ddb">[FT]</a></blockquote>
+<b>34. Elon Musk, 텍사스 상원 선거에 $158백만 투입...공화당 상원 수성 사활</b>
+<blockquote>세계 최고 부호 Elon Musk가 텍사스 주 검찰총장 Ken Paxton을 지원하는 활동에 $158백만을 기부했다. 가을 선거에서 공화당이 상원 장악을 유지하는 데 텍사스 의석이 결정적이라고 판단했다.
+<a href="https://www.wsj.com/politics/elections/elon-musk-pours-a-fortune-into-saving-texas-for-republicans-170b27df">[WSJ]</a></blockquote>
+
+<b>35. 이탈리아 기업들, 독일 기업 인수 가속...Commerzbank 외에도 확산</b>
+<blockquote>UniCredit의 Commerzbank 인수는 시작에 불과하다. 이탈리아 기업들이 독일 기업을 적극 인수하며 유럽 산업 지형이 재편되고 있다.
+<a href="https://www.economist.com/finance-and-economics/2026/10/16/its-not-just-commerzbank-italians-are-eating-up-german-business">[Economist]</a></blockquote>
+
+<b>36. DHL Group, 실적 호조에 2026 가이던스 상향...성수기 전망 긍정적</b>
+<blockquote>독일 물류 기업 DHL Group이 2026년 전망을 상향 조정했다. 이자·세전이익(EBIT)이 $7.86억을 넘어설 것으로 예상되며, 긍정적인 실적과 강한 성수기 전망이 배경이다.
+<a href="https://www.wsj.com/business/dhl-group-lifts-guidance-after-positive-earnings-strong-peak-season-forecast-1b588028">[WSJ]</a></blockquote>
+
+<b>37. 애플 접이식 iPhone 출시 몇 시간 만에 품절...$2,000 'Duo' 배송 2027년으로 밀려</b>
+<blockquote>애플이 '비상한' 수요를 이유로 접이식 iPhone의 품절을 설명했다. $2,000 가격의 'Duo' 모델은 판매 시작 몇 시간 만에 재고가 소진되며 배송이 2027년으로 연기됐다.
+<a href="https://www.ft.com/content/7b236286-ca1d-4063-a728-7f968a638b8f">[FT]</a></blockquote>
+
+<b>38. 미국 불법 국경 통과 60년 최저 수준...올해 98,700건으로 감소</b>
+<blockquote>멕시코에서 미국으로의 불법 국경 통과가 60년 만에 최저 수준으로 떨어졌다. 올해 약 98,700건의 체포가 기록돼 Biden 행정부 시절 200만 명 이상이던 정점에서 급감했다.
+<a href="https://www.ft.com/content/e98c5079-0c9a-4747-afa7-7bc9725795cd">[FT]</a></blockquote>
 
 ━━━━━━━━━━━━━━━━━━━━
 📡 <b>출처: WSJ · FT · The Economist</b>
