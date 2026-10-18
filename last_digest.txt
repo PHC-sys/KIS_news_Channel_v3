@@ -4,29 +4,61 @@
 
 ✅ <b>간밤의 주요 헤드라인</b>
 
-<b>1. 트럼프, 對러 제재 대부분 유예...의회 통과 법안 서명 한 달 만에 번복</b>
-<blockquote>트럼프 대통령이 지난달 서명한 초당적 對러 제재 법안의 이행을 대부분 중단했다. 우크라이나 전쟁 종식을 위한 Putin 압박을 완화하는 조치라는 비판이 공화당 동맹 일부를 포함한 의회에서 제기되고 있다.
-<a href="https://www.wsj.com/politics/policy/trump-waives-most-russia-sanctions-passed-by-congress-4c36bc93">[WSJ]</a></blockquote>
+<b>1. 트럼프의 對러 제재 완화...공화당 중간선거 후보들 곤경</b>
+<blockquote>트럼프 대통령의 러시아 접근 정책이 중간선거를 앞둔 공화당 후보들에게 부담으로 작용하고 있다. 접전 지역구 공화당 후보 다수가 트럼프의 러시아 정책과 선을 긋기 시작했다.
+<a href="https://www.wsj.com/politics/policy/trumps-overtures-to-putin-put-republican-candidates-in-hot-seat-3ac6ffc8">[WSJ]</a></blockquote>
 
-<b>2. Zelenskyy, Starlink 속도 제한은 '계획된 작전'...러시아 공격 요격 차질</b>
-<blockquote>우크라이나 Zelenskyy 대통령은 자국 내 Starlink 인터넷 속도 제한이 우크라이나에만 적용되는 '계획된 조치'라며, 러시아 공격 요격 작전에 차질을 빚고 있다고 비판했다. 트럼프의 對러 제재 완화에 이은 미국-우크라이나 관계 균열 신호로 해석된다.
-<a href="https://www.ft.com/content/e26723df-9076-416c-957a-7fa3bd00b4d7">[FT]</a></blockquote>
+<b>2. 우크라, 푸틴 고향과 러시아 석유시설 동시 타격...에너지 휴전 사실상 종료</b>
+<blockquote>우크라이나가 푸틴 대통령의 고향인 상트페테르부르크 석유터미널과 러시아 내륙 원유시설을 드론으로 공격했다. 트럼프 행정부가 중재한 에너지 휴전 합의가 붕괴된 직후 벌어진 공격으로, 원유 공급 차질 우려가 커지고 있다.
+<a href="https://www.wsj.com/world/europe/ukrainian-drone-strike-hits-putins-hometown-striking-oil-terminal-cec1ce9c">[WSJ]</a> <a href="https://www.ft.com/content/734dad42-2eef-4a70-8947-c73997e49fd1">[FT]</a></blockquote>
 
-<b>3. 복면 이스라엘 정착민, 요르단강 서안서 유럽 외교관 습격...EU 제재 압박</b>
-<blockquote>복면을 쓴 이스라엘 정착민들이 요르단강 서안에서 유럽 외교관을 공격하는 사건이 발생했다. 벨기에 외교장관은 자국 정부가 "폭력 가담자에 대한 EU 제재를 추진할 것"이라고 밝혔다. 점령지 내 정착민 폭력 확대는 이스라엘과 서방 관계에 긴장을 더하고 있다.
-<a href="https://www.wsj.com/world/middle-east/masked-israeli-settlers-attack-european-diplomats-in-west-bank-f60dedd1">[WSJ]</a> <a href="https://www.ft.com/content/35a08f82-6830-41fa-83ae-d3765f3970e0">[FT]</a></blockquote>
+<b>3. 미국의 우크라 포기에 유럽 홀로서기...동맹국들 대응 딜레마</b>
+<blockquote>미국이 우크라이나 지원을 사실상 축소하면서 유럽이 단독 대응 국면에 접어들었다. 유럽은 미국의 지원을 완전히 대체할 수 없는 상황에서 역내 정치 불안까지 겹쳐 전략적 딜레마에 직면했다.
+<a href="https://www.economist.com/europe/2026/10/18/as-america-abandons-ukraine-europe-stands-alone">[Economist]</a></blockquote>
 
-<b>4. 프랑스 전역 시위 폭력 사태로 확산...생활비·정부 긴축 반발 폭발</b>
-<blockquote>프랑스 Paris, Marseille 등 주요 도시에서 평화 시위가 약탈과 폭동으로 번지며 혼란이 발생했다. 높은 생활비와 교육 시스템 불만, 정부 예산 삭감에 대한 국민 분노가 폭발한 것으로 분석된다. 유로존 핵심국의 정치 불안정 심화 우려가 제기되고 있다.
-<a href="https://www.ft.com/content/bcb6c27a-f082-4867-ade4-ae6eb757b780">[FT]</a> <a href="https://www.wsj.com/world/europe/violent-protests-rip-through-cities-across-france-b617c585">[WSJ]</a></blockquote>
+<b>4. 캐나다 앨버타, 독립 찬반 투표 실시...북미 동맹 균열 가시화</b>
+<blockquote>캐나다 서부 앨버타주가 연방 탈퇴를 묻는 비공식 주민투표를 실시한다. 트럼프 행정부의 對캐나다 적대 정책에 반발해 '북미의 스위스'를 표방하며 독립 움직임이 확산되는 가운데, Mark Carney 총리의 국가 통합 노력에 큰 타격이 예상된다.
+<a href="https://www.ft.com/content/d48c545b-6b41-41e9-a71c-cb2126c76082">[FT]</a></blockquote>
 
-<b>5. 백악관 혼란, 트럼프 중간선거 행보 가려...Katie Zacharia 전격 경질</b>
-<blockquote>Katie Zacharia의 전격 경질은 백악관이 한 주 내내 겪은 일련의 실책 중 가장 최근 사례다. 중간선거를 앞두고 트럼프 행정부의 혼란스러운 인사 운영이 정책 실행력과 일관성에 의문을 제기하고 있다.
-<a href="https://www.ft.com/content/5712154e-13a1-4adc-8ff8-be744a9ffc1c">[FT]</a></blockquote>
+<b>5. 미국, 유럽의 스타링크 규제에 보복 경고...대서양 통상 긴장 고조</b>
+<blockquote>Andrew Puzder 주EU 미국대사가 유럽연합의 비EU 기업 주파수 제한 계획에 대해 '파괴적 보복' 가능성을 경고했다. 브뤼셀이 스타링크 등 미국 위성통신 업체의 스펙트럼 접근을 제한하려는 움직임에 대한 강경 대응이다.
+<a href="https://www.ft.com/content/d1e28d93-8574-4a46-946a-b261c401d6fa">[FT]</a></blockquote>
 
-<b>6. 트럼프 16%p 승리 Kansas, 공화당 상원 접전...중간선거 뇌관 부상</b>
-<blockquote>지난 8월 "재선 준비 완료"를 자신했던 Kansas 공화당 상원의원 Roger Marshall이 민주당 도전자에 밀리는 접전을 벌이고 있다. 2024년 대선에서 트럼프가 16%p 차로 승리한 주에서 벌어진 이변으로, 중간선거 전체 판세에 충격을 줄 수 있다는 분석이 나온다.
-<a href="https://www.wsj.com/politics/elections/kansas-senate-election-trump-roger-marshall-d17319e5">[WSJ]</a></blockquote>
+<b>6. 프랑스, 역대급 폭력 시위로 정치 위기 심화...마크롱 정부 압박</b>
+<blockquote>프랑스 전역에서 수년 만에 최악의 폭력 시위가 발생해 시청사에서 명품 부티크까지 공격당했다. 대선 6개월을 앞두고 정부의 대응력에 비판이 쏟아지며 마크롱 대통령의 정치적 입지가 크게 흔들리고 있다.
+<a href="https://www.ft.com/content/19495e50-0f55-44b1-8d19-19244163a4e8">[FT]</a> <a href="https://www.ft.com/content/369eba8b-246d-405f-b0d8-6c676b0b6dab">[FT]</a> <a href="https://www.economist.com/europe/2026/10/18/expect-violent-protests-to-erupt-in-france-again">[Economist]</a></blockquote>
+
+<b>7. 트럼프, 네타냐후 재선 지지 선언...이스라엘 총선 개입</b>
+<blockquote>트럼프 대통령이 이번 달 치러질 이스라엘 총선을 앞두고 Benjamin Netanyahu 총리의 재선을 공개 지지했다. 양국 간 긴장이 지속되던 가운데 네타냐후가 오랫동안 구해온 트럼프의 지지 선언이 이뤄졌다.
+<a href="https://www.wsj.com/world/middle-east/trump-endorses-israels-netanyahu-for-re-election-aaad0b98">[WSJ]</a> <a href="https://www.ft.com/content/37fbe995-df90-429a-bddb-34d14151bf79">[FT]</a></blockquote>
+
+<b>8. 사우디 군 헬기 추락, 예멘 국경서 2명 사망...후티 전쟁 사상자 첫 공식 발표</b>
+<blockquote>사우디아라비아가 예멘 국경 인근 헬기 추락 사고로 군인 2명이 사망했다고 발표했다. 후티 반군과의 전쟁이 격화되는 가운데 사우디가 처음으로 공식 군 사상자를 인정한 것으로, 중동 긴장 고조를 시사한다.
+<a href="https://www.ft.com/content/da1dbd0b-4101-4ba8-aa2d-da6fedcb9f23">[FT]</a></blockquote>
+
+<b>9. 미 육군 아시아 사령관, 對중 억제력 강화 촉구...역내 군사력 증강 요구</b>
+<blockquote>Ronald Clark 미 육군 아시아태평양 사령관이 중국의 팽창 야심에 대응하기 위해 역내 군사력을 대폭 강화해야 한다고 촉구했다. 對중 억제력 구축이 시급하다는 판단에 따른 것이다.
+<a href="https://www.ft.com/content/4ed89331-df18-4f2d-817b-9a7b304fd4e4">[FT]</a></blockquote>
+
+<b>10. 트럼프의 '싸게 만들기' 공약 실패...에너지 가격 상승에 유권자 반발</b>
+<blockquote>트럼프 행정부의 에너지 가격 인하 공약이 현실화되지 못하면서 중간선거를 앞두고 유권자 불만이 커지고 있다. 유권자들은 에너지 가격 상승을 행정부 정책과 직접 연결 짓기 시작했다.
+<a href="https://www.ft.com/content/52a5e9df-cd9a-4951-99b5-2364e575bb44">[FT]</a></blockquote>
+
+<b>11. TINA에서 TARA로 전환...국채 수익률 상승에 주식 매력 퇴색</b>
+<blockquote>국채 수익률 상승으로 투자자들 사이에서 'There Is No Alternative(주식 외 대안 없음)'에서 'There Are Reasonable Alternatives(합리적 대안 존재)'로 투자 기조가 바뀌고 있다. 주식 매력이 낮아지고 이자수익 자산의 선호도가 높아지는 국면이다.
+<a href="https://www.wsj.com/opinion/for-investors-and-savers-tina-is-giving-way-to-tara-3cfc0714">[WSJ]</a></blockquote>
+
+<b>12. AI 업계 막대한 부채에 투자자 불안...Meta 실적 주목</b>
+<blockquote>AI 기업들의 천문학적 부채 규모가 투자자들 사이에서 우려를 키우고 있다. 시장 붕괴 시 누가 비용을 떠안을지 불확실한 가운데, 이번 주 발표될 Meta 실적이 AI 투자 지속 가능성을 가늠하는 시금석이 될 전망이다.
+<a href="https://www.economist.com/business/2026/10/18/the-ai-industrys-gigantic-debts-are-making-investors-nervous">[Economist]</a> <a href="https://www.ft.com/content/7c2e889e-2eb5-4c62-821b-1a7f88c13d05">[FT]</a></blockquote>
+
+<b>13. 민주사회주의자들, Jeffries 원내대표에 진보 공약 압박...의장직 변수</b>
+<blockquote>민주사회당(DSA) 지도부가 하원 의장직에 근접한 Hakeem Jeffries 민주당 원내대표에게 진보 정책 수용을 압박하고 있다. DSA 소속 당선자들을 동원해 막후 압력을 가하며 중간선거 이후 의회 구도에 변수로 작용할 전망이다.
+<a href="https://www.wsj.com/politics/elections/the-democratic-socialists-have-a-plan-to-push-hakeem-jeffries-to-the-left-28735026">[WSJ]</a></blockquote>
+
+<b>14. 프랑스 정치권, 폭력 시위 책임 공방...대선 앞두고 좌파 공세</b>
+<blockquote>프랑스 전역을 휩쓴 폭력 시위를 두고 정치권이 책임 공방을 이어가고 있다. 경찰이 시청사에서 명품 부티크까지 무차별 공격을 막아내지 못한 가운데, Jean-Luc Mélenchon과 좌파 진영은 내년 대선을 겨냥해 정부 공세를 강화하고 있다.
+<a href="https://www.wsj.com/world/europe/french-leaders-trade-blame-after-rioting-sweeps-the-nation-ac02a5b6">[WSJ]</a></blockquote>
 
 ━━━━━━━━━━━━━━━━━━━━
 📡 <b>출처: WSJ · FT · The Economist</b>
