@@ -4,61 +4,137 @@
 
 ✅ <b>간밤의 주요 헤드라인</b>
 
-<b>1. 트럼프의 對러 제재 완화...공화당 중간선거 후보들 곤경</b>
-<blockquote>트럼프 대통령의 러시아 접근 정책이 중간선거를 앞둔 공화당 후보들에게 부담으로 작용하고 있다. 접전 지역구 공화당 후보 다수가 트럼프의 러시아 정책과 선을 긋기 시작했다.
-<a href="https://www.wsj.com/politics/policy/trumps-overtures-to-putin-put-republican-candidates-in-hot-seat-3ac6ffc8">[WSJ]</a></blockquote>
+<b>1. 트럼프, 푸틴·시진핑과 정상회담 제안...우크라이나 배제한 종전 협상</b>
+<blockquote>트럼프 대통령이 러시아·중국 정상과 비핵화 논의 및 우크라이나 전쟁 종전 협상을 진행할 의향을 밝혔다. 푸틴 대통령은 젤렌스키를 제외한 3자 정상회담을 제안하며 러시아에 유리한 협상을 추진 중이다.
+<a href="https://www.wsj.com/world/trump-putin-xi-meeting-ee489ddd">[WSJ]</a> <a href="https://www.wsj.com/world/russia/putin-floats-a-summit-with-trump-and-xi-to-decide-ukraines-fate-1cf6acc1">[WSJ]</a></blockquote>
 
-<b>2. 우크라, 푸틴 고향과 러시아 석유시설 동시 타격...에너지 휴전 사실상 종료</b>
-<blockquote>우크라이나가 푸틴 대통령의 고향인 상트페테르부르크 석유터미널과 러시아 내륙 원유시설을 드론으로 공격했다. 트럼프 행정부가 중재한 에너지 휴전 합의가 붕괴된 직후 벌어진 공격으로, 원유 공급 차질 우려가 커지고 있다.
-<a href="https://www.wsj.com/world/europe/ukrainian-drone-strike-hits-putins-hometown-striking-oil-terminal-cec1ce9c">[WSJ]</a> <a href="https://www.ft.com/content/734dad42-2eef-4a70-8947-c73997e49fd1">[FT]</a></blockquote>
+<b>2. 젤렌스키와 유럽, 푸틴 직접 대화 준비...트럼프 압박에 전략 전환</b>
+<blockquote>우크라이나와 유럽 지도자들이 러시아와의 직접 협상 가능성을 모색하고 있다. 트럼프 행정부가 우크라이나에만 압박을 가하는 종전 전략을 구사하면서 유럽의 대응 방식이 전환점을 맞았다.
+<a href="https://www.ft.com/content/92f271fd-f96c-4723-91f2-48363b98127f">[FT]</a></blockquote>
 
-<b>3. 미국의 우크라 포기에 유럽 홀로서기...동맹국들 대응 딜레마</b>
-<blockquote>미국이 우크라이나 지원을 사실상 축소하면서 유럽이 단독 대응 국면에 접어들었다. 유럽은 미국의 지원을 완전히 대체할 수 없는 상황에서 역내 정치 불안까지 겹쳐 전략적 딜레마에 직면했다.
-<a href="https://www.economist.com/europe/2026/10/18/as-america-abandons-ukraine-europe-stands-alone">[Economist]</a></blockquote>
+<b>3. 미국, 러시아 제재 일부 면제...유가 하락 압력</b>
+<blockquote>트럼프 대통령이 러시아에 대한 신규 제재 일부를 면제하면서 원유 선물 가격이 하락했다. 다만 중동 공급 리스크가 지속되며 하락폭은 제한적이었다.
+<a href="https://www.wsj.com/finance/commodities-futures/oil-futures-fall-on-possible-correction-but-drop-may-be-limited-by-geopolitical-tensions-21ff1c15">[WSJ]</a> <a href="https://www.wsj.com/business/energy-oil/oil-prices-fall-as-traders-weigh-russia-sanctions-waiver-middle-east-risks-05053c4f">[WSJ]</a></blockquote>
 
-<b>4. 캐나다 앨버타, 독립 찬반 투표 실시...북미 동맹 균열 가시화</b>
-<blockquote>캐나다 서부 앨버타주가 연방 탈퇴를 묻는 비공식 주민투표를 실시한다. 트럼프 행정부의 對캐나다 적대 정책에 반발해 '북미의 스위스'를 표방하며 독립 움직임이 확산되는 가운데, Mark Carney 총리의 국가 통합 노력에 큰 타격이 예상된다.
-<a href="https://www.ft.com/content/d48c545b-6b41-41e9-a71c-cb2126c76082">[FT]</a></blockquote>
+<b>4. 사우디, 다보스급 투자회의 내년으로 연기...후티 공격에 안보 우려</b>
+<blockquote>사우디가 내주 예정된 Future Investment Initiative 회의를 2027년으로 연기했다. 이란 지원 후티 반군의 공항 공격이 이어지며 중동 리스크가 재점화됐다.
+<a href="https://www.wsj.com/world/middle-east/saudi-arabia-decides-against-holding-in-person-investor-conference-d9f5e66b">[WSJ]</a> <a href="https://www.ft.com/content/75a2ee4e-ead9-4d37-b1ea-6fd759c4691d">[FT]</a></blockquote>
 
-<b>5. 미국, 유럽의 스타링크 규제에 보복 경고...대서양 통상 긴장 고조</b>
-<blockquote>Andrew Puzder 주EU 미국대사가 유럽연합의 비EU 기업 주파수 제한 계획에 대해 '파괴적 보복' 가능성을 경고했다. 브뤼셀이 스타링크 등 미국 위성통신 업체의 스펙트럼 접근을 제한하려는 움직임에 대한 강경 대응이다.
-<a href="https://www.ft.com/content/d1e28d93-8574-4a46-946a-b261c401d6fa">[FT]</a></blockquote>
+<b>5. 프랑스 폭동 확산에 국채 매도 심화...정치 무능 노출</b>
+<blockquote>학생 시위가 전국적 폭동으로 번지며 프랑스 국채 매도세가 강화됐다. 정부는 통금령을 발동했지만 경찰 통제 실패를 인정하며 정치권의 무능이 드러났다.
+<a href="https://www.wsj.com/world/europe/french-leaders-trade-blame-after-rioting-sweeps-the-nation-ac02a5b6">[WSJ]</a> <a href="https://www.ft.com/content/cc7e577a-db7a-4e12-9a42-443696b98ec5">[FT]</a> <a href="https://www.ft.com/content/388569e9-3936-4359-8856-48b006587fb7">[FT]</a></blockquote>
 
-<b>6. 프랑스, 역대급 폭력 시위로 정치 위기 심화...마크롱 정부 압박</b>
-<blockquote>프랑스 전역에서 수년 만에 최악의 폭력 시위가 발생해 시청사에서 명품 부티크까지 공격당했다. 대선 6개월을 앞두고 정부의 대응력에 비판이 쏟아지며 마크롱 대통령의 정치적 입지가 크게 흔들리고 있다.
-<a href="https://www.ft.com/content/19495e50-0f55-44b1-8d19-19244163a4e8">[FT]</a> <a href="https://www.ft.com/content/369eba8b-246d-405f-b0d8-6c676b0b6dab">[FT]</a> <a href="https://www.economist.com/europe/2026/10/18/expect-violent-protests-to-erupt-in-france-again">[Economist]</a></blockquote>
+<b>6. 유럽 전역 폭력 시위 확산...밀라노·브뤼셀·티라나서 약탈·충돌</b>
+<blockquote>프랑스에 이어 이탈리아 밀라노, 벨기에 브뤼셀·리에주, 알바니아 티라나 등에서 약탈과 경찰 충돌이 발생했다. 유럽 전역의 사회 불안이 동시다발적으로 표출되고 있다.
+<a href="https://www.ft.com/content/d8df36c2-7e8c-4cfb-ad9e-e6e954fea4b9">[FT]</a></blockquote>
 
-<b>7. 트럼프, 네타냐후 재선 지지 선언...이스라엘 총선 개입</b>
-<blockquote>트럼프 대통령이 이번 달 치러질 이스라엘 총선을 앞두고 Benjamin Netanyahu 총리의 재선을 공개 지지했다. 양국 간 긴장이 지속되던 가운데 네타냐후가 오랫동안 구해온 트럼프의 지지 선언이 이뤄졌다.
-<a href="https://www.wsj.com/world/middle-east/trump-endorses-israels-netanyahu-for-re-election-aaad0b98">[WSJ]</a> <a href="https://www.ft.com/content/37fbe995-df90-429a-bddb-34d14151bf79">[FT]</a></blockquote>
+<b>7. 이스라엘 선거 앞두고 유대 후보들 아랍 유권자 외면...표차 근소한데도</b>
+<blockquote>여론조사 결과 접전 양상인데도 이스라엘 주요 후보들이 약 100만 아랍계 유권자의 지지를 구하지 않고 있다. 양극화된 사회에서 아랍계 지지가 오히려 정치적 부담이 되는 상황이다.
+<a href="https://www.wsj.com/world/middle-east/israels-front-runners-shun-arab-voters-who-could-help-them-win-election-8f4cd158">[WSJ]</a></blockquote>
 
-<b>8. 사우디 군 헬기 추락, 예멘 국경서 2명 사망...후티 전쟁 사상자 첫 공식 발표</b>
-<blockquote>사우디아라비아가 예멘 국경 인근 헬기 추락 사고로 군인 2명이 사망했다고 발표했다. 후티 반군과의 전쟁이 격화되는 가운데 사우디가 처음으로 공식 군 사상자를 인정한 것으로, 중동 긴장 고조를 시사한다.
-<a href="https://www.ft.com/content/da1dbd0b-4101-4ba8-aa2d-da6fedcb9f23">[FT]</a></blockquote>
+<b>8. 가자 식량 지원 50만 명분 축소...휴전 협상 난항에 자금 부족</b>
+<blockquote>유엔 세계식량계획(WFP)이 가자 지구 주민 50만 명에 대한 식량 지원을 중단한다고 밝혔다. 휴전 협상 진전 부재로 자금 조달이 막혔다.
+<a href="https://www.ft.com/content/74f18f8f-683a-434d-9176-b41070d6977e">[FT]</a></blockquote>
 
-<b>9. 미 육군 아시아 사령관, 對중 억제력 강화 촉구...역내 군사력 증강 요구</b>
-<blockquote>Ronald Clark 미 육군 아시아태평양 사령관이 중국의 팽창 야심에 대응하기 위해 역내 군사력을 대폭 강화해야 한다고 촉구했다. 對중 억제력 구축이 시급하다는 판단에 따른 것이다.
-<a href="https://www.ft.com/content/4ed89331-df18-4f2d-817b-9a7b304fd4e4">[FT]</a></blockquote>
+<b>9. 캐나다 9월 인플레이션 상승...에너지 가격 급등</b>
+<blockquote>캐나다 9월 소비자물가가 휘발유 가격 상승으로 전월 대비 올랐다. 근원 인플레이션은 안정세를 유지했지만 에너지 부문 변동성이 커졌다.
+<a href="https://www.wsj.com/economy/central-banking/canada-inflation-heats-up-in-september-with-jump-in-gas-prices-7cffb4b8">[WSJ]</a></blockquote>
 
-<b>10. 트럼프의 '싸게 만들기' 공약 실패...에너지 가격 상승에 유권자 반발</b>
-<blockquote>트럼프 행정부의 에너지 가격 인하 공약이 현실화되지 못하면서 중간선거를 앞두고 유권자 불만이 커지고 있다. 유권자들은 에너지 가격 상승을 행정부 정책과 직접 연결 짓기 시작했다.
-<a href="https://www.ft.com/content/52a5e9df-cd9a-4951-99b5-2364e575bb44">[FT]</a></blockquote>
+<b>10. 캐나다 중앙은행 서베이, 인플레이션 기대 급등...금리 인상 가능성</b>
+<blockquote>캐나다 중앙은행 서베이에서 인플레이션 기대가 눈에 띄게 상승한 것으로 나타났다. 이코노미스트들은 이번 결과가 다음 주 캐나다 중앙은행의 금리 인상 근거가 될 수 있다고 분석했다.
+<a href="https://www.wsj.com/economy/central-banking/bank-of-canada-survey-records-notable-rise-in-inflation-expectations-9d035987">[WSJ]</a></blockquote>
 
-<b>11. TINA에서 TARA로 전환...국채 수익률 상승에 주식 매력 퇴색</b>
-<blockquote>국채 수익률 상승으로 투자자들 사이에서 'There Is No Alternative(주식 외 대안 없음)'에서 'There Are Reasonable Alternatives(합리적 대안 존재)'로 투자 기조가 바뀌고 있다. 주식 매력이 낮아지고 이자수익 자산의 선호도가 높아지는 국면이다.
-<a href="https://www.wsj.com/opinion/for-investors-and-savers-tina-is-giving-way-to-tara-3cfc0714">[WSJ]</a></blockquote>
+<b>11. WSJ 달러지수 0.11% 상승...이틀간 낙폭 만회</b>
+<blockquote>WSJ 달러지수가 0.1% 올라 이틀간 하락세를 끊었다. 달러 강세와 국채 수익률 상승이 동시에 나타났다.
+<a href="https://www.wsj.com/finance/currencies/yen-consolidates-but-may-be-supported-by-risk-off-mood-7504bde7">[WSJ]</a></blockquote>
 
-<b>12. AI 업계 막대한 부채에 투자자 불안...Meta 실적 주목</b>
-<blockquote>AI 기업들의 천문학적 부채 규모가 투자자들 사이에서 우려를 키우고 있다. 시장 붕괴 시 누가 비용을 떠안을지 불확실한 가운데, 이번 주 발표될 Meta 실적이 AI 투자 지속 가능성을 가늠하는 시금석이 될 전망이다.
-<a href="https://www.economist.com/business/2026/10/18/the-ai-industrys-gigantic-debts-are-making-investors-nervous">[Economist]</a> <a href="https://www.ft.com/content/7c2e889e-2eb5-4c62-821b-1a7f88c13d05">[FT]</a></blockquote>
+<b>12. WSJ 이코노미스트 서베이, 금리·성장·인플레이션 전망 상향</b>
+<blockquote>WSJ이 조사한 이코노미스트 71명은 장기 국채 수익률이 더 오래 높은 수준을 유지하고, 성장은 견조하며, 인플레이션은 점차 완화될 것으로 전망했다.
+<a href="https://www.wsj.com/finance/see-what-71-economists-told-us-about-where-growth-and-yields-are-headed-8977cb44">[WSJ]</a></blockquote>
 
-<b>13. 민주사회주의자들, Jeffries 원내대표에 진보 공약 압박...의장직 변수</b>
-<blockquote>민주사회당(DSA) 지도부가 하원 의장직에 근접한 Hakeem Jeffries 민주당 원내대표에게 진보 정책 수용을 압박하고 있다. DSA 소속 당선자들을 동원해 막후 압력을 가하며 중간선거 이후 의회 구도에 변수로 작용할 전망이다.
-<a href="https://www.wsj.com/politics/elections/the-democratic-socialists-have-a-plan-to-push-hakeem-jeffries-to-the-left-28735026">[WSJ]</a></blockquote>
+<b>13. 금 선물 하락...달러 강세·수익률 상승에 압박</b>
+<blockquote>금 선물 가격이 달러화 강세와 국채 수익률 상승으로 하락 마감했다. 원유 가격도 초반 낙폭을 일부 만회하며 금에 대한 압박 요인으로 작용했다.
+<a href="https://www.wsj.com/finance/commodities-futures/gold-edges-higher-as-traders-weigh-fed-rate-hike-expectations-3517c447">[WSJ]</a></blockquote>
 
-<b>14. 프랑스 정치권, 폭력 시위 책임 공방...대선 앞두고 좌파 공세</b>
-<blockquote>프랑스 전역을 휩쓴 폭력 시위를 두고 정치권이 책임 공방을 이어가고 있다. 경찰이 시청사에서 명품 부티크까지 무차별 공격을 막아내지 못한 가운데, Jean-Luc Mélenchon과 좌파 진영은 내년 대선을 겨냥해 정부 공세를 강화하고 있다.
-<a href="https://www.wsj.com/world/europe/french-leaders-trade-blame-after-rioting-sweeps-the-nation-ac02a5b6">[WSJ]</a></blockquote>
+<b>14. 미국 주택건설업체 신뢰지수 14년 최저...금리 부담 지속</b>
+<blockquote>10월 NAHB/Wells Fargo 주택시장지수가 29로 3포인트 하락해 2012년 6월 이후 최저치를 기록했다. 높은 금리가 신규 주택 시장 신뢰를 계속 짓누르고 있다.
+<a href="https://www.wsj.com/economy/housing/u-s-home-builder-sentiment-sinks-to-14-year-low-120d5cb6">[WSJ]</a></blockquote>
+
+<b>15. 미국 주식 상승...AI 신용 우려 완화로 반등</b>
+<blockquote>미국 증시가 대체로 상승 마감했다. 트레이더들이 CoreWeave 등 AI 붐을 쫓는 테크 기업들의 과도한 레버리지 우려를 축소하고, AI 실적 기대로 시선을 돌렸다.
+<a href="https://www.wsj.com/finance/investing/u-s-stocks-mostly-higher-as-ai-credit-worries-abate-600bf008">[WSJ]</a> <a href="https://www.ft.com/content/915ea7ca-1f35-4847-810a-fb29e8344496">[FT]</a></blockquote>
+
+<b>16. FirstFT: 중국 경제 회복 가속...AI 수출 호조가 견인</b>
+<blockquote>중국 경제가 AI 붐에 따른 수출 급증으로 성장 속도를 높이고 있다. 기술 부문이 경기 회복의 주요 동력으로 부상했다.
+<a href="https://www.ft.com/content/92a2e2a4-356a-4aa3-9d1e-8b4fbaf1c365">[FT]</a></blockquote>
+
+<b>17. 중국 AI 규제, 속도보다 안전 우선하나...사이버 공간 통제 강화</b>
+<blockquote>중국이 자국 사이버 공간 전면 장악에 이어 AI 영역에서도 동일한 통제를 원하고 있다는 분석이 나왔다. 속도보다 안전을 우선한다는 시각에 의문이 제기된다.
+<a href="https://www.economist.com/china/2026/10/19/does-china-really-prize-ai-speed-over-safety">[Economist]</a></blockquote>
+
+<b>18. 미국 국토안보부, DeepSeek 기술 연방 시스템서 퇴출 명령</b>
+<blockquote>국토안보부가 DeepSeek과 계열사의 제품 및 서비스를 연방 민간 IT 시스템에서 제거하고 향후 구매도 금지하는 명령을 내렸다. 제3자가 DeepSeek 기술로 구축한 제품도 포함된다.
+<a href="https://www.wsj.com/tech/ai/dhs-orders-deepseek-technology-removed-from-federal-civilian-it-systems-060b6d3d">[WSJ]</a></blockquote>
+
+<b>19. Tradeweb, 채권 거래 플랫폼 Trumid 19.7억 달러 인수...FICC 영역 확대</b>
+<blockquote>Tradeweb Markets가 고정금리 거래 플랫폼 Trumid를 인수하기로 합의했다. 이번 거래로 신용 사이클 초기 단계 진입과 그레이마켓 역량 확대가 가능해진다.
+<a href="https://www.wsj.com/business/deals/tradeweb-to-buy-trumid-for-about-1-97-billion-1fd21bdb">[WSJ]</a></blockquote>
+
+<b>20. 일본 국채 1200억 달러 발행 앞두고 시장 긴장...누가 살 것인가</b>
+<blockquote>일본 정부가 대규모 국채 발행을 계획 중인 가운데, 연금기금과 가계가 얼마나 매입할지가 초점이다. 일본은 국내 투자자 참여 확대를 기대하고 있다.
+<a href="https://www.economist.com/finance-and-economics/2026/10/19/who-will-buy-120bn-worth-of-fresh-japanese-government-bonds">[Economist]</a></blockquote>
+
+<b>21. 영국 중앙은행, Barclays 사모신용 익스포저 조사...리스크 과소 평가 의혹</b>
+<blockquote>영국 중앙은행이 Barclays 트레이더들이 사모신용 대출 파생상품의 리스크를 과소 표기했다는 제보를 받고 조사 중이다.
+<a href="https://www.ft.com/content/f3127b4f-d33a-4431-acff-021829f3aa72">[FT]</a></blockquote>
+
+<b>22. EU, KKR에 NetCo 거래 관련 정보 제공 의혹 공식 이의 제기</b>
+<blockquote>유럽연합 집행위가 KKR이 260억 달러 규모 NetCo 거래 승인 과정에서 부정확하거나 오해의 소지가 있는 정보를 제공했다는 잠정 결론을 내렸다. 장기 도매 접속 계약 관련 내용이 쟁점이다.
+<a href="https://www.wsj.com/business/kkr-sent-formal-objection-by-eu-over-information-provided-in-26-billion-netco-deal-5848d196">[WSJ]</a> <a href="https://www.ft.com/content/b9d270a8-738b-41cb-9c3c-5fa5ac0c2325">[FT]</a></blockquote>
+
+<b>23. 인도네시아, MSCI 다운그레이드 회피 위해 자카르타 지수 개편</b>
+<blockquote>인도네시아가 MSCI의 반복된 투자 가능성 우려에 대응해 소수 지분 기업들을 자카르타 지수에서 퇴출했다. 동남아 최대 경제국의 시장 접근성 개선이 목표다.
+<a href="https://www.ft.com/content/472ad6cf-438f-4d62-a41c-8725cbf53383">[FT]</a></blockquote>
+
+<b>24. 미국 국방주 하락...민주당 승리 베팅에 5000억 달러 지출 확대 위기</b>
+<blockquote>투자자들이 민주당의 선거 승리 가능성에 베팅하며 미국 방산주가 급락했다. 트럼프가 제안한 5000억 달러 규모 국방 예산 증액이 초당적 지지 약화로 위험에 처했다.
+<a href="https://www.ft.com/content/e73d0106-486b-4382-8ecc-5c96ac44fdff">[FT]</a></blockquote>
+
+<b>25. 유럽 통신사 4곳 연합...Starlink 견제 위해 위성 스펙트럼 공동 입찰</b>
+<blockquote>Deutsche Telekom, Orange, Telefónica, Vodafone이 모바일 위성 커버리지 제공을 위한 스펙트럼 공동 입찰을 검토 중이다. Elon Musk의 Starlink에 대응하는 전략이다.
+<a href="https://www.ft.com/content/555bbf91-4c38-43ce-94b6-90f7fc04e82c">[FT]</a></blockquote>
+
+<b>26. 영국 북해 석유업체, Rosebank 유전 승인 지연 시 신규 투자 중단 경고</b>
+<blockquote>북해 석유 생산업체가 환경 우려로 지연된 40억 달러 규모 Rosebank 유전 승인과 향후 영국 내 프로젝트를 연계했다. 승인이 나지 않으면 투자를 멈추겠다는 입장이다.
+<a href="https://www.ft.com/content/2ad6e5dd-b8c2-4186-a6e2-ba27f222e1f0">[FT]</a></blockquote>
+
+<b>27. 서아프리카 금 채굴 붐...가격 사상 최고에 수십억 달러 투자</b>
+<blockquote>광산업체들이 금 가격 최고치 근접에 힘입어 서아프리카 신규 금광에 수십억 달러를 투자하고 있다. 서아프리카가 새로운 금 채굴 중심지로 부상했다.
+<a href="https://www.wsj.com/world/africa/the-new-wild-west-of-gold-mining-is-west-africa-8b4886c4">[WSJ]</a></blockquote>
+
+<b>28. 디지털 골드 시장 550억 달러로 3배 급증...젊은 투자자 유입</b>
+<blockquote>세계금협회 조사 결과 토큰화된 금 보유 규모가 370톤, 550억 달러에 달하며 디지털 금 시장이 3배 성장했다. 젊은 세대의 참여가 급증 배경이다.
+<a href="https://www.ft.com/content/ec362974-2f42-4938-84e6-f8c1e72c256a">[FT]</a></blockquote>
+
+<b>29. 남아공 대통령, 미국과 관계 악화 속 중국·인도와 교역 확대 추진</b>
+<blockquote>Cyril Ramaphosa 남아프리카공화국 대통령이 중국과의 무관세 혜택 확대를 활용하고 인도와의 교역도 늘리겠다고 밝혔다. 미국과의 관계 악화에 대응하는 전략이다.
+<a href="https://www.ft.com/content/617fb017-e08e-4e37-abac-a38731b2de3c">[FT]</a></blockquote>
+
+<b>30. Steel Dynamics 3분기 순이익 7.56억 달러...가격 개선·수입 감소</b>
+<blockquote>미국 철강업체 Steel Dynamics가 3분기 순이익 7억5600만 달러를 기록해 전년 동기 4억370만 달러에서 증가했다. 가격 개선과 수입 감소가 실적 호조를 이끌었다.
+<a href="https://www.wsj.com/business/earnings/steel-dynamics-reports-higher-profit-on-improved-pricing-lower-imports-f7bd4545">[WSJ]</a></blockquote>
+
+<b>31. Cleveland-Cliffs 3분기 흑자 전환...판매량·가격 상승</b>
+<blockquote>Cleveland-Cliffs가 3분기 흑자로 돌아섰다. 철강 제품 판매량 증가와 가격 상승으로 매출이 늘었다.
+<a href="https://www.wsj.com/business/earnings/cleveland-cliffs-revenue-rises-on-higher-volumes-selling-price-bcf7fc17">[WSJ]</a></blockquote>
+
+<b>32. 독일 Merck, 영국 바이오텍 Silence Therapeutics 13억 달러 인수</b>
+<blockquote>독일 제약사 Merck가 나스닥 상장 Silence Therapeutics 주식을 주당 20달러 현금에 인수한다고 밝혔다. 금요일 종가 대비 2배 이상 프리미엄이다.
+<a href="https://www.wsj.com/tech/biotech/germanys-merck-to-buy-u-k-biotech-silence-therapeutics-for-1-3-billion-aab773c5">[WSJ]</a></blockquote>
+
+<b>33. Silgan, Trivium Packaging과 34억 달러 합병...글로벌 금속 포장 공급업체 탄생</b>
+<blockquote>Silgan Holdings가 Trivium Packaging과의 합병에 합의했다. 양사 결합으로 소비재용 금속 포장재 글로벌 공급업체가 탄생한다.
+<a href="https://www.wsj.com/business/deals/silgan-to-combine-with-trivium-packaging-in-3-4-billion-deal-bf732879">[WSJ]</a></blockquote>
 
 ━━━━━━━━━━━━━━━━━━━━
 📡 <b>출처: WSJ · FT · The Economist</b>
