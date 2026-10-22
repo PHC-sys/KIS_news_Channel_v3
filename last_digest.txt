@@ -4,157 +4,145 @@
 
 ✅ <b>간밤의 주요 헤드라인</b>
 
-<b>1. 이란 긴장 고조에 후티 사우디 유전 공격...호르무즈 해협 리스크 재점화</b>
-<blockquote>후티 반군이 사우디 아람코 Shaybah 유전에 드론 공격을 감행해 2명이 사망했다. 미국은 사우디 내 일부 인원 철수를 명령했으며, 중동 지역에 군함을 추가 파견하고 있다. 외교당국은 이란과의 긴장 확대를 막기 위해 대화 재개를 시도 중이다.
-<a href="https://www.ft.com/content/f39aa4d2-e290-451f-ae91-b19138b6172f">[FT]</a></blockquote>
+<b>1. 유가 $112 돌파, 예멘 반군 사우디 재공격...이란 리스크 고조</b>
+<blockquote>예멘 후티 반군이 사우디 에너지 시설을 재차 공격하면서 유가가 급등했다. 시장은 미국-이란 긴장 고조로 중동 원유 공급 차질 위험이 커졌다고 판단하고 있다.
+<a href="https://www.wsj.com/business/energy-oil/oil-prices-rise-more-than-2-as-attacks-on-saudi-arabia-u-s-iran-risks-persist-5599ac83">[WSJ]</a></blockquote>
 
-<b>2. 중동 원유 수출 전쟁 이전 수준 회복...대체 항로 활용으로 일평균 2,460만 배럴</b>
-<blockquote>걸프 지역 산유국들의 일평균 원유 수출량이 2,460만 배럴로 분쟁 이전 2,330만 배럴을 넘어섰다. 선박들이 호르무즈 해협 대신 대체 항로를 이용하면서 공급망이 정상화되고 있다는 분석이다.
-<a href="https://www.ft.com/content/509c0ecf-625e-4473-96cf-e249edb7c86e">[FT]</a></blockquote>
+<b>2. American Airlines 연료비 급등에 분기 적자 전망...항공요금 추가 인상 불가피</b>
+<blockquote>4분기 매출은 19.5~22.5% 증가 전망이나 조정 주당순손실 $0.50~1.10 예상된다. 업계는 이란 전쟁으로 항공유 가격이 작년 수준으로 돌아갈 수 없다고 경고했다.
+<a href="https://www.ft.com/content/d114ce00-f30d-41c6-ac03-71209aa62ee2">[FT]</a></blockquote>
 
-<b>3. 원유 선물 혼조 마감...호르무즈 해협 공격에도 공급 낙관론 충돌</b>
-<blockquote>WTI 12월물은 하락 전환한 반면 브렌트유는 보합 마감했다. 해협 인근 선박 공격으로 운송 리스크가 부각됐지만 실제 원유 흐름은 원활하다는 시각이 맞서면서 방향성이 엇갈렸다.
-<a href="https://www.wsj.com/finance/commodities-futures/oil-rises-amid-attacks-on-vessels-in-strait-of-hormuz-5456bfd8">[WSJ]</a></blockquote>
+<b>3. 영국, 벨기에서 긴급 가스 도입...겨울 공급 차질 우려</b>
+<blockquote>영국 정부가 겨울철 천연가스 공급 부족에 대비해 벨기에로부터 긴급 도입 계약을 체결했다. 수년간 자국 가스 생산이 감소한 가운데 에너지 안보 우려가 커지고 있다.
+<a href="https://www.ft.com/content/a88ac504-4d86-4f27-a1e9-cf63db032ab5">[FT]</a></blockquote>
 
-<b>4. Southwest 연료비 급등에 실적 전망 하향...주당순이익 $2.60~$2.85로 조정</b>
-<blockquote>미국 Southwest항공이 올해 조정 주당순이익 가이던스를 하향 조정했다. 유가 상승으로 항공사들의 마진 압박이 지속되고 있으며, 연료비 부담이 실적 발목을 잡고 있다.
-<a href="https://www.wsj.com/business/earnings/southwest-cuts-earnings-outlook-amid-rising-fuel-costs-729f0439">[WSJ]</a></blockquote>
+<b>4. Meta AI 지출 확대에 나스닥 -2.6%...시총 $124bn 증발</b>
+<blockquote>Meta가 향후 수년간 'AI에 수천억 달러' 투자 계획을 밝히자 기술주가 급락했다. 국채 수익률은 5% 아래로 떨어지며 2023년 이후 최대 낙폭을 기록, 안전자산 선호 심리가 확산됐다.
+<a href="https://www.ft.com/content/6e318b81-a771-4842-9754-e265fef2852f">[FT]</a></blockquote>
 
-<b>5. 미국 천연가스 선물 4거래일 연속 하락...온화한 날씨 전망에 난방 수요 약세</b>
-<blockquote>천연가스 선물이 단기 온화한 날씨 예보에 4일째 내림세를 이어갔다. 난방 수요 기대가 약화되면서 가격 하방 압력이 지속되고 있다.
-<a href="https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-extend-decline-on-loss-of-heating-demand-dacc42a0">[WSJ]</a></blockquote>
+<b>5. AI 지출 지속 가능성 의문 확산...기술주 전반 매도</b>
+<blockquote>미국 기술주가 전반적으로 하락했다. 투자자들은 인공지능 인프라에 대한 막대한 지출이 지속 가능한지 우려하고 있다.
+<a href="https://www.wsj.com/finance/stocks/u-s-tech-stocks-drop-on-ai-spending-concerns-05400b55">[WSJ]</a></blockquote>
 
-<b>6. 영국 북해 Jackdaw 가스전 개발 승인...에너지 안보 강화 명분</b>
-<blockquote>영국 정부가 북해 Jackdaw 가스전 개발을 승인했다. 장관들은 대형 유전인 Rosebank와는 다른 판단이라고 선을 그으며, 에너지 안보 확보 차원에서 결정했다고 밝혔다.
-<a href="https://www.ft.com/content/9cfa52b2-77cb-4b53-ad74-badd53f24fc6">[FT]</a></blockquote>
+<b>6. OpenAI 밸류에이션 목표 $1.25조로 하향...당초 $1.4조 제시</b>
+<blockquote>OpenAI가 이달 초 투자 유치 과정에서 제시한 기업가치 목표를 $1.4조에서 $1.25조로 낮춘 것으로 나타났다.
+<a href="https://www.ft.com/content/bb564eb1-79d4-4694-aa24-1155202a9abc">[FT]</a></blockquote>
 
-<b>7. SpaceX 실적 호조에 AI 불안 완화...Tesla 합병 논의 본격화</b>
-<blockquote>SpaceX의 양호한 실적 발표로 AI 투자 수익성 우려가 일시 진정됐다. Elon Musk는 Tesla와 SpaceX 합병이 "좋은 아이디어"라고 언급하며 양사 통합 논의가 수면 위로 떠올랐다.
-<a href="https://www.wsj.com/business/autos/tesla-tsla-3q-earnings-report-2026-stock-a1dc9ce2">[WSJ]</a></blockquote>
+<b>7. 미 국채 수익률 5% 하회...2023년 이후 최대 낙폭</b>
+<blockquote>미국 국채 수익률이 5% 아래로 떨어지며 2023년 이후 가장 큰 하락폭을 기록했다. 기술주 급락으로 안전자산 선호 심리가 강화됐다.
+<a href="https://www.wsj.com/finance/investing/ai-stocks-slide-after-earnings-disappoint-french-bonds-tumble-and-oil-tops-112-734e47a7">[WSJ]</a></blockquote>
 
-<b>8. Tesla 3분기 매출 정체·현금흐름 증가...SpaceX 합병 가능성에 시장 주목</b>
-<blockquote>Tesla가 3분기 매출 정체 속 현금흐름 개선을 기록했다. Musk가 SpaceX와의 합병 가능성을 시사하면서 투자자들의 이목이 집중되고 있다.
-<a href="https://www.wsj.com/business/autos/tesla-tsla-3q-earnings-report-2026-stock-a1dc9ce2">[WSJ]</a></blockquote>
+<b>8. 달러지수 3일 연속 하락...WSJ 달러지수 0.12% 하락</b>
+<blockquote>WSJ 달러지수가 96.80으로 0.1% 하락하며 3거래일 연속 약세를 보였다.
+<a href="https://www.wsj.com/finance/currencies/asian-currencies-consolidate-amid-focus-on-mideast-developments-716c953b">[WSJ]</a></blockquote>
 
-<b>9. FT·WSJ, Musk의 $3.6조 베팅 분석...Tesla·SpaceX 합병의 주주·규제 리스크</b>
-<blockquote>양사 합병은 Musk에게 사상 최대 규모의 도전이 될 전망이다. 로켓·로봇·리스크가 얽힌 거래 구조에서 주주 이익과 글로벌 규제당국의 승인 확보가 관건으로 떠올랐다.
-<a href="https://www.ft.com/content/e598bbc7-8211-436f-a57e-46c3ae21ac0f">[FT]</a></blockquote>
+<b>9. 유로존 소비심리 추가 악화...-17.9로 하락</b>
+<blockquote>유럽연합 집행위원회의 10월 유로존 소비자신뢰지수 속보치가 전월 대비 1.1포인트 하락한 -17.9를 기록했다. 시장 예상치 -17.0을 하회하며 에너지 충격이 지속되고 있음을 보여줬다.
+<a href="https://www.wsj.com/economy/central-banking/eurozone-consumer-sentiment-falls-further-on-lingering-energy-shock-e3f4ddf9">[WSJ]</a></blockquote>
 
-<b>10. Meta 주식 분할·신주 발행 계획...AI 투자 재원 마련 위해 의결권 분리</b>
-<blockquote>Meta가 무의결권 신주 발행을 통해 주식을 분할한다. Mark Zuckerberg의 지배력은 유지하면서 AI 투자 자금을 조달하겠다는 구상이다. 3분기 매출은 사상 최대인 $646억을 기록했다.
-<a href="https://www.wsj.com/articles/metaplatforms-meta-3q-earnings-report-2026-stock-f28d64c2">[WSJ]</a></blockquote>
+<b>10. ECB 2026년 추가 금리 인상 경로 유지 전망</b>
+<blockquote>FT 통화정책 레이더 팀의 10월 시나리오에 따르면 유럽중앙은행이 2026년 추가 금리 인상 경로를 이어갈 것으로 예상된다.
+<a href="https://www.ft.com/content/93852564-cae6-41f6-aa79-8db53e2b7774">[FT]</a></blockquote>
 
-<b>11. Meta, 캘리포니아 부유세 제안에도 Zuckerberg 잔류 합의...신주 구조로 해결</b>
-<blockquote>Meta는 캘리포니아 부유세 발의안에도 불구하고 Zuckerberg를 주내 유지하기로 합의했다. 무의결권 주식 발행으로 주식 매각 시에도 창업자의 지배력이 희석되지 않도록 설계했다.
+<b>11. 터키 중앙은행 금리 36%로 인하...인플레 둔화에도 논란</b>
+<blockquote>터키 중앙은행이 인플레이션 둔화를 근거로 기준금리를 36%로 인하했다. 이는 $180억 규모 투자펀드 스캔들 와중에 단행된 결정이다.
+<a href="https://www.ft.com/content/c6c68f72-4d00-4475-b7ec-847fd2c4d2fa">[FT]</a></blockquote>
+
+<b>12. 미 실업수당 청구 19.4만 건...노동시장 강세 지속</b>
+<blockquote>10월 17일 마감 주간 미국 신규 실업수당 청구 건수가 19.4만 건으로 전주 대비 6천 건 감소했다. 노동시장 강세가 이어지고 있다.
+<a href="https://www.wsj.com/economy/jobs/u-s-jobless-claims-return-to-downward-trend-9ba853fc">[WSJ]</a></blockquote>
+
+<b>13. 캐나다 생산자물가 9월 2% 상승...24개월 연속 상승세</b>
+<blockquote>캐나다 통계청에 따르면 9월 산업제품가격지수가 전월 대비 2%, 전년 동월 대비 14.5% 상승했다. 연간 상승은 24개월째 이어졌다.
+<a href="https://www.wsj.com/economy/central-banking/canada-producer-prices-rise-again-in-september-climbing-2-for-the-month-39c694c2">[WSJ]</a></blockquote>
+
+<b>14. Newmont 금 생산 증가로 3분기 이익 급증</b>
+<blockquote>세계 최대 금 생산업체 Newmont의 3분기 순이익이 $24.8억으로 전년 동기 $18.3억에서 증가했다. 금 판매 증가가 실적을 견인했다.
+<a href="https://www.wsj.com/business/earnings/newmont-logs-higher-profit-revenue-on-higher-gold-sales-f49e99d3">[WSJ]</a></blockquote>
+
+<b>15. Blackstone 금리 충격에 자산 매각 실적 급감</b>
+<blockquote>Blackstone의 사모펀드 부문 자산 매각 수익이 49% 감소했다. 금리 상승으로 부동산 밸류에이션이 하락하면서 투자자 현금 회수가 지연되고 있다.
+<a href="https://www.ft.com/content/df7c95d7-72d1-4cec-87f6-9f7968ac3e5e">[FT]</a></blockquote>
+
+<b>16. Sallie Mae 대손충당금 증가로 연간 전망 하향</b>
+<blockquote>미국 학자금 대출업체 SLM Corp.(Sallie Mae)가 대손상각 증가로 연간 주당순이익 전망을 $1.95~2.05로 하향 조정했다. 기존 전망은 $3.10~3.20이었다.
+<a href="https://www.wsj.com/business/earnings/sallie-mae-cuts-full-year-view-after-logging-higher-charge-offs-52bcaa21">[WSJ]</a></blockquote>
+
+<b>17. Union Pacific·Norfolk Southern 실적 개선...화물 트럭→철도 전환</b>
+<blockquote>미국 주요 철도사들이 최근 분기 매출과 이익 증가를 기록했다. 화주들이 트럭에서 철도로 운송 수단을 전환하면서 물량이 늘어났다.
+<a href="https://www.wsj.com/business/earnings/union-pacific-posts-higher-profit-revenue-on-volume-growth-c6666acd">[WSJ]</a></blockquote>
+
+<b>18. Kering 명품 매출 둔화...3분기 1% 감소</b>
+<blockquote>Gucci와 Bottega Veneta를 보유한 Kering의 매출이 전년 동기 대비 1% 감소했다. 명품 시장의 수요 급감이 지속되고 있다.
+<a href="https://www.wsj.com/business/retail/kerings-sales-lose-steam-in-struggling-luxury-market-2154c2d6">[WSJ]</a></blockquote>
+
+<b>19. L'Oreal 3분기 매출 7.2% 증가...$129.8억 기록</b>
+<blockquote>L'Oreal의 3분기 매출이 전년 동기 대비 동일 기준 7.2% 증가한 $129.8억을 기록했다. 회사는 연간 이익 증가를 전망하고 있다.
+<a href="https://www.wsj.com/business/earnings/loreal-eyes-profit-rise-this-year-as-sales-keep-growing-d1cbee8f">[WSJ]</a></blockquote>
+
+<b>20. American Airlines 4분기 추가 손실 전망</b>
+<blockquote>American Airlines는 4분기 조정 주당순손실 $0.50~1.10을 예상한다고 밝혔다. 연료비 급등이 실적을 압박하고 있다.
+<a href="https://www.wsj.com/business/earnings/american-airlines-forecasts-another-quarterly-loss-on-surging-fuel-costs-68307f23">[WSJ]</a></blockquote>
+
+<b>21. Bloom Energy 전망 상향...현장 발전 솔루션 수요 급증</b>
+<blockquote>Bloom Energy가 연간 조정 주당순이익 전망을 $3.10~3.40으로 상향 조정했다. 3분기 순이익 $2.5억을 기록하며 현장 전력 솔루션 수요가 급증했다.
+<a href="https://www.wsj.com/business/earnings/bloom-energy-lifts-outlook-logs-higher-profit-c36d68c8">[WSJ]</a></blockquote>
+
+<b>22. Western Digital 데이터 스토리지 수요에 이익 증가</b>
+<blockquote>Western Digital의 회계연도 1분기 순이익이 $17.8억으로 증가했다. 지속적인 데이터 스토리지 수요와 가격 개선이 실적을 견인했다.
+<a href="https://www.wsj.com/business/earnings/western-digital-profit-grows-on-data-storage-demand-28a69a7d">[WSJ]</a></blockquote>
+
+<b>23. Trump, Musk에 전화해 우크라이나 Starlink 제한 해제 요청</b>
+<blockquote>Trump 대통령이 Elon Musk에게 전화해 우크라이나의 Starlink 군사용 시스템 속도 제한 해제를 요청했다. 통화 직후 시스템이 정상 작동한 것으로 나타났다.
+<a href="https://www.wsj.com/world/trump-called-musk-and-asked-him-to-lift-ukraine-starlink-restrictions-5aeebc6e">[WSJ]</a></blockquote>
+
+<b>24. 러시아, 평화협상 직후 키예프에 집속탄 투하</b>
+<blockquote>Trump 행정부 특사 Witkoff와 Putin의 평화 회담 직후 러시아가 우크라이나 수도 키예프에 광범위 피해를 유발하는 집속탄을 투하했다.
+<a href="https://www.ft.com/content/9f0c58d3-1833-40de-b805-f5ac53f05ff0">[FT]</a></blockquote>
+
+<b>25. 영국, 은행 '적격성' 규제 완화...Barclays·Odey 사례 제재 기준 약화</b>
+<blockquote>영국이 은행가 책임을 묻던 '적격성 평가' 규제를 완화했다. 이 제도는 Barclays 前 CEO Jes Staley와 헤지펀드 Crispin Odey 제재에 활용됐었다.
+<a href="https://www.ft.com/content/0a5c7582-133c-4e24-8e3d-daa30f5dad56">[FT]</a></blockquote>
+
+<b>26. Meta, Zuckerberg 캘리포니아 잔류 합의...부유세 우회 목적</b>
+<blockquote>Meta가 Mark Zuckerberg의 캘리포니아 거주를 보장하는 새로운 무의결권 주식 클래스를 신설하기로 합의했다. 이는 주 부유세 제안에 대응하기 위한 조치다.
 <a href="https://www.ft.com/content/b34502b6-38dc-4a46-a8e7-d9131726cd31">[FT]</a></blockquote>
 
-<b>12. Meta, 데이터 프라이버시 소송서 뉴멕시코에 $250억 배상 판결</b>
-<blockquote>뉴멕시코 주 배심원단이 Meta의 소비자 기만 행위에 대해 $250억 손해배상을 명령했다. 소셜미디어 대기업의 개인정보 보호 의무 위반이 법적 책임으로 확정됐다.
-<a href="https://www.wsj.com/tech/meta-ordered-to-pay-25-billion-to-new-mexico-in-data-privacy-case-dea99fdd">[WSJ]</a></blockquote>
+<b>27. Barclays AI 구조조정으로 5% 감원 단행</b>
+<blockquote>Barclays가 AI 업무 재편 과정에서 전체 인력의 5%를 감축한다. 금융업계의 AI 도입이 고용 구조에 미치는 영향이 가시화되고 있다.
+<a href="https://www.wsj.com/cio-journal/barclays-cuts-5-of-jobs-in-ai-overhaul-598857e2">[WSJ]</a></blockquote>
 
-<b>13. Trump, 데이터센터 전력 자급 의무화...AI 붐 반대 여론 의식한 중간선거 전략</b>
-<blockquote>Trump 대통령이 대형 데이터센터 건설 기업들에 자체 전력 공급을 의무화하고 지역사회 배당금 지급을 제안했다. 중간선거를 앞두고 AI 인프라 확장에 대한 광범위한 반대 여론을 달래기 위한 조치로 풀이된다.
-<a href="https://www.wsj.com/politics/policy/trump-says-data-centers-must-provide-their-own-electricity-c843ed56">[WSJ]</a></blockquote>
+<b>28. PHP 사이버보안 위기 확산...전 세계 웹사이트 70% 영향</b>
+<blockquote>AI가 발견한 PHP 보안 취약점이 전 세계 웹사이트의 최대 70%에 영향을 미칠 수 있는 것으로 나타났다. 기술업계가 긴급 대응에 나섰다.
+<a href="https://www.wsj.com/tech/cybersecurity/php-cybersecurity-bug-explained-000955c6">[WSJ]</a></blockquote>
 
-<b>14. Bessent 재무장관, AI 시스템 리스크 경시 발언...비공개 투자자 행사서</b>
-<blockquote>Scott Bessent 재무장관이 티켓 $7,500짜리 자선 행사에서 투자자들에게 AI의 '시스템적' 리스크를 대수롭지 않게 언급한 것으로 전해졌다. 정부의 AI 규제 기조를 가늠할 수 있는 발언으로 주목된다.
-<a href="https://www.ft.com/content/5b7c2fdf-2300-4208-860e-6389ceb18886">[FT]</a></blockquote>
+<b>29. 미 당국, 비트코인 담보 모기지 장려</b>
+<blockquote>미국 규제 당국이 암호화폐 보유 자산을 주택담보대출 담보로 활용하는 방안을 장려하고 있다.
+<a href="https://www.ft.com/content/42176f60-b2fd-431c-9f2c-e7e015b07315">[FT]</a></blockquote>
 
-<b>15. AI가 발견한 치명적 웹 버그...전세계 사이트 70% 위협</b>
-<blockquote>AI 도구가 역대 최악 수준의 온라인 보안 취약점을 발견했다. 사이버 보안 전문가들은 해커들이 AI를 악용하기 전에 패치 작업을 서두르고 있다.
-<a href="https://www.wsj.com/tech/cybersecurity/ai-just-found-a-bug-that-puts-up-to-70-of-the-worlds-websites-at-risk-fd0902ea">[WSJ]</a></blockquote>
+<b>30. 영국 정부, 비상사태 대비 촉구...필수품 비축 권고</b>
+<blockquote>영국 정부가 자연재해, 사이버 공격, 국가 주도 테러 위험 증가에 대비해 가정과 기업에 필수품 비축을 권고했다.
+<a href="https://www.ft.com/content/925486f3-1dd4-462a-ba1b-794efd2d6429">[FT]</a></blockquote>
 
-<b>16. NSA, AI로 탐지한 '치명적' 사이버 취약점 경고...주요 웹사이트 소프트웨어 결함</b>
-<blockquote>미국 국가안보국이 OpenAI·Google 모델을 활용해 전세계 웹사이트 대다수가 사용하는 소프트웨어의 심각한 보안 결함을 발견했다고 경고했다. AI 기반 탐지 기술이 방어와 공격 양면에서 활용될 수 있음을 보여주는 사례다.
-<a href="https://www.ft.com/content/245778d9-597b-492d-b5b6-a2967c77e853">[FT]</a></blockquote>
+<b>31. 유럽 위성 독립 필요성 부각...Economist 사설</b>
+<blockquote>Economist는 사설을 통해 유럽이 미국 위성 의존에서 벗어나야 한다고 주장했다. 유럽은 자체 위성망과 발사 능력을 확보해야 한다는 지적이다.
+<a href="https://www.economist.com/leaders/2026/10/22/europe-must-escape-its-reliance-on-american-satellites">[Economist]</a></blockquote>
 
-<b>17. AI 인프라 투자 자금 출처는 연기금 등 주요 자본 풀...전세계 자금 총동원</b>
-<blockquote>선진국 모든 대형 자본 풀이 데이터센터 건설 자금을 대고 있다. 연기금·국부펀드 등 기관투자자들이 AI 인프라 투자에 광범위하게 참여 중이다.
-<a href="https://www.ft.com/content/09f56730-4702-446d-9986-f7c93ffe6bf0">[FT]</a></blockquote>
+<b>32. Economist, 유럽 위성 독립 시급 강조</b>
+<blockquote>Starlink 사태는 유럽이 자체 위성망과 발사 능력을 확보해야 하는 이유를 보여준다. 미국 기술이 앞서 있지만 Brussels는 독립 능력이 필요하다.
+<a href="https://www.ft.com/content/73986a48-b513-458b-b8ea-f9e11ed3e941">[FT]</a></blockquote>
 
-<b>18. CME, AI 컴퓨팅 파생상품 출시...AI 붐 공매도 기회 제공</b>
-<blockquote>Silicon Data 창업자 Carmen Li가 CME Group과 손잡고 컴퓨팅 가격 파생상품을 출시한다. AI 투자에 회의적인 투자자들에게 '컴퓨트' 가격 변동에 베팅할 수 있는 수단을 제공하겠다는 구상이다.
-<a href="https://www.wsj.com/finance/investing/want-to-short-the-ai-boom-she-wants-to-give-you-a-way-to-bet-on-compute-prices-bcdafd3e">[WSJ]</a></blockquote>
+<b>33. 중국, 대만 고립 위한 '회색지대' 전술 강화</b>
+<blockquote>중국이 대만 외교관의 해외 활동을 차단하고 영해를 통제하는 등 '회색지대' 전술을 강화하고 있다.
+<a href="https://www.ft.com/content/587f1f89-3bff-4aae-9130-41f142f1cc5f">[FT]</a></blockquote>
 
-<b>19. Musk, 우크라이나군 Starlink 속도 제한 명령...러시아 공격 저지 능력 약화</b>
-<blockquote>Musk가 우크라이나군용 Starlink의 속도를 제한하면서 키이우의 러시아 공격 대응 역량이 훼손됐다. 우크라이나 방어력 저하로 이어지고 있다는 지적이다.
-<a href="https://www.wsj.com/world/elon-musks-starlink-speed-cap-has-scrambled-ukraines-defenses-fdfd936e">[WSJ]</a></blockquote>
+<b>34. 닛폰스틸 US Steel에 $30억 투자...Pittsburgh 인근 설비 현대화</b>
+<blockquote>US Steel이 Pittsburgh 인근 열연공장에 $30억을 투자한다고 밝혔다. 노후 설비를 교체해 연간 생산능력을 220만 톤에서 350만 톤으로 확대할 계획이다.
+<a href="https://www.wsj.com/business/nippons-u-s-steel-to-invest-nearly-3-billion-in-hot-strip-mill-near-pittsburgh-b9784176">[WSJ]</a></blockquote>
 
-<b>20. 美 의회 양당, Musk에 선서 증언 요구...Starlink 속도 제한 논란</b>
-<blockquote>민주·공화 양당 의원들이 SpaceX CEO Musk에게 의회 출석 후 선서 증언할 것을 요구하고 나섰다. 우크라이나 Starlink 속도 제한 조치를 둘러싼 청문회 압박이 거세지고 있다.
-<a href="https://www.wsj.com/politics/policy/lawmakers-call-for-musk-probe-over-starlink-slowdown-in-ukraine-3ad73a22">[WSJ]</a></blockquote>
-
-<b>21. 프랑스 10년물 국채 수익률 5% 돌파...2002년 이후 처음</b>
-<blockquote>프랑스 10년 만기 국채 수익률이 5%를 넘어섰다. 2월 말 3.2%에서 급등한 것으로, 재정 악화와 정치 불안정에 대한 우려가 반영됐다.
-<a href="https://www.ft.com/content/76f076e4-9db2-4971-8ac9-73d9f39e4876">[FT]</a></blockquote>
-
-<b>22. 프랑스 정국 불안에 Macron·Trump 설전까지...폭동 격화로 소버린 리스크 부각</b>
-<blockquote>학교 환경 개선 요구로 시작된 학생 시위가 전국 폭력 사태로 번지면서 프랑스 정치 불안이 심화되고 있다. Trump가 이민자 탓을 하자 Macron이 "멍청한 발언"이라고 반박하는 등 외교 갈등도 불거졌다.
-<a href="https://www.wsj.com/world/europe/rioting-in-france-whats-fueling-the-violence-and-what-happens-next-87f18199">[WSJ]</a></blockquote>
-
-<b>23. 영국 인플레이션·차입 모두 예상 상회...11월 BoE 금리 인상 압력 가중</b>
-<blockquote>영국의 인플레이션과 정부 차입 규모가 모두 예상을 웃돌았다. 내주 예산안 발표를 앞두고 Healey 재무장관에게 타격이며, 11월 영란은행 금리 인상 기대를 굳혔다.
-<a href="https://www.ft.com/content/443ce2f3-ba36-4dc7-aa0b-a2bc593fa563">[FT]</a></blockquote>
-
-<b>24. Trump 행정부, 세금 관련 형사 기소 확대 지시...법집행 역량 한계 직면</b>
-<blockquote>법무부가 과중한 업무에 시달리는 사기 검사들에게 세금 혐의를 최대한 추가하라고 지시했다. 하지만 이미 포화 상태인 법집행 조직이 실행에 어려움을 겪을 전망이다.
-<a href="https://www.wsj.com/politics/policy/the-trump-administration-wants-more-tax-charges-its-going-to-be-tough-2d1afa3d">[WSJ]</a></blockquote>
-
-<b>25. 대법원, 트랜스젠더 수감자 성전환 의료 제한 일시 차단...소송 진행 중</b>
-<blockquote>연방대법원이 트랜스젠더 수감자에 대한 호르몬 치료 및 성별 관련 편의 제공 금지 조치를 법적 이의신청 심리 기간 동안 중단시켰다. Trump 행정부의 정책이 일단 제동이 걸렸다.
-<a href="https://www.wsj.com/politics/policy/supreme-court-maintains-access-to-transgender-medical-care-in-federal-prisons-9b1d5137">[WSJ]</a></blockquote>
-
-<b>26. 캐나다, 철강·자동차 부문에 수십억 달러 지원...Trump 관세 충격 완화</b>
-<blockquote>캐나다 정부가 철강·자동차 산업에 수십억 달러 규모의 연방 지원을 제공한다. Trump 대통령의 고율 금속·자동차 관세 부과 이후 재정 압박을 받아온 기업들을 지원하기 위한 조치다.
-<a href="https://www.wsj.com/world/americas/canada-to-provide-steel-auto-sectors-with-billions-to-ease-trade-crunch-c4b5ae1a">[WSJ]</a></blockquote>
-
-<b>27. 美 중간선거 양상 엇갈려...공화당 자금 우위 vs 민주당 여론조사 우위</b>
-<blockquote>공화당과 연계 단체들이 막대한 선거자금을 확보했지만 여론조사에서는 민주당이 다수 선거구에서 우세를 보이고 있다. 자금력과 지지율이 엇갈리면서 정책 불확실성이 커지고 있다.
-<a href="https://www.ft.com/content/637bb10e-b5b4-4db2-ac7c-b42348595c4c">[FT]</a></blockquote>
-
-<b>28. Trump 특사, 우크라이나 대화 재개 후 푸틴·시진핑 정상회담 제안</b>
-<blockquote>Steve Witkoff 미국 특사가 러시아 대통령과 우크라이나 평화 협상 재개를 논의한 뒤 다음 달 미·중·러 3자 정상회담 개최를 제안했다. Trump 행정부의 대러 접근법이 구체화되고 있다.
-<a href="https://www.ft.com/content/d7345d46-f000-49b1-99f6-57edfbd5f0af">[FT]</a></blockquote>
-
-<b>29. Witkoff의 푸틴 '인도주의자' 발언 논란...트럼프 정부 러시아 전략 반영</b>
-<blockquote>미국 특사가 러시아에서 Putin을 "인도주의자"라고 칭찬한 발언이 우크라이나 지지자들의 분노를 샀다. 하지만 이는 Trump 대통령의 우크라이나 전쟁 종식 전략을 그대로 따른 것이라는 분석이다.
-<a href="https://www.wsj.com/world/russia/witkoffs-praise-of-putin-as-humanitarian-tracks-with-u-s-approach-to-russia-2e5dc6a3">[WSJ]</a></blockquote>
-
-<b>30. 러시아, 미국인 포로 석방...양국 관계 해빙 신호</b>
-<blockquote>러시아가 2022년 억류한 미국인 Stephen Hubbard를 석방했다. 그는 우크라이나에 수년간 거주하다 체포됐으며, 이번 석방은 미·러 관계 개선 조짐으로 해석된다.
-<a href="https://www.wsj.com/world/russia/russia-releases-captured-american-in-sign-of-warming-ties-d8acccaa">[WSJ]</a></blockquote>
-
-<b>31. Molina Healthcare 3분기 순이익 반토막...$3,800만, Medicaid 가입자 감소 여파</b>
-<blockquote>의료서비스 업체 Molina의 3분기 순이익이 전년 $7,900만에서 $3,800만으로 급감했다. Medicaid와 Marketplace 회원 수 감소가 실적 악화 원인이다.
-<a href="https://www.wsj.com/business/earnings/molina-healthcare-posts-lower-third-quarter-profit-revenue-12588ddc">[WSJ]</a></blockquote>
-
-<b>32. IBM 3분기 실적 개선...지연됐던 일부 계약 성사로 소프트웨어·인프라 매출 증가</b>
-<blockquote>IBM이 3분기 순이익 증가와 소프트웨어·인프라 부문 매출 성장을 기록했다. 2분기 부진이 일시적 현상이었음을 투자자들에게 입증하려는 시도다.
-<a href="https://www.wsj.com/business/earnings/ibm-reports-higher-profit-as-some-slipped-deals-come-through-c0bb0640">[WSJ]</a></blockquote>
-
-<b>33. Philip Morris, Zyn 니코틴 파우치 증산 고수...지정학 리스크 비용 압박 속에도</b>
-<blockquote>Philip Morris가 Zyn 브랜드 니코틴 파우치 성장을 지속하겠다고 밝혔다. 지정학적 긴장이 운영을 방해하고 있지만 급증하는 수요를 충족하기 위해 투자를 이어간다는 방침이다.
-<a href="https://www.wsj.com/business/earnings/philip-morris-profit-falls-despite-higher-sales-3d525ff4">[WSJ]</a></blockquote>
-
-<b>34. Elevance Health 연간 전망 상향...3분기 순이익 $13.4억으로 증가</b>
-<blockquote>건강보험사 Elevance가 3분기 순이익 $13.4억(주당 $6.27)을 기록하며 전년 $11.9억(주당 $5.32)에서 증가했다. 연간 가이던스도 상향 조정했다.
-<a href="https://www.wsj.com/health/healthcare/elevance-health-raises-yearly-outlook-as-profit-revenue-rise-a65fec81">[WSJ]</a></blockquote>
-
-<b>35. Abbott, 영아용 조제분유 소송 중심 영양 사업부 분사...연매출 $85억 규모</b>
-<blockquote>Abbott이 Pedialyte·Similac 브랜드를 보유한 영양 사업부를 독립 회사로 분리한다. 연간 매출 약 $85억 규모로, 영아용 조제분유 소송의 중심에 있는 부문이다.
-<a href="https://www.wsj.com/health/healthcare/abbott-to-carve-out-nutrition-business-into-independent-company-e9384a15">[WSJ]</a></blockquote>
-
-<b>36. LSEG, 신용데이터 전문 Octus 인수 근접...$35억 규모 거래</b>
-<blockquote>런던증권거래소그룹이 신용 데이터 전문업체 Octus를 $35억에 인수하는 거래를 마무리 단계에 있다. 고객 서비스 강화를 위한 전략적 투자다.
-<a href="https://www.ft.com/content/abe0ee90-b0ad-45c2-95db-93f0663af34b">[FT]</a></blockquote>
-
-<b>37. Akzo Nobel·Axalta 합병 규제 승인 위해 유럽 리피니싱 부문 매각 협상</b>
-<blockquote>Akzo Nobel이 미국 Axalta Coating Systems와의 합병 규제 승인을 확보하기 위해 유럽 리피니싱(재도장) 사업부 매각 협상을 진행 중이다. CEO가 밝혔다.
-<a href="https://www.wsj.com/business/deals/akzo-nobel-in-talks-to-shed-european-refinishing-unit-for-axalta-merger-nod-9e194ad0">[WSJ]</a></blockquote>
-
-<b>38. 미 증시 상승 마감...SpaceX 실적에 AI 불안 해소, 나스닥 주도</b>
-<blockquote>미국 증시가 상승 마감했다. SpaceX의 호실적이 AI 사업 수익성 우려를 완화하면서 반도체 업종을 중심으로 나스닥이 강세를 보였다.
-<a href="https://www.wsj.com/finance/stocks/u-s-stocks-rise-as-spacex-spurs-ai-relief-rally-9d3763e7">[WSJ]</a></blockquote>
+<b>35. Shell·Exxon 영국 화학사업 Infineum 매각 추진...$80억 규모</b>
+<blockquote>Shell과 ExxonMobil의 합작 영국 화학사업 Infineum이 Bank of America를 자문사로 선임하고 매각을 추진한다. Shell은 핵심 석유·가스 사업에 집중하고 있다.
+<a href="https://www.ft.com/content/2d4876ae-c707-4df5-a3ae-ae3268343ef2">[FT]</a></blockquote>
 
 ━━━━━━━━━━━━━━━━━━━━
 📡 <b>출처: WSJ · FT · The Economist</b>
