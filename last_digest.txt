@@ -4,145 +4,101 @@
 
 ✅ <b>간밤의 주요 헤드라인</b>
 
-<b>1. 유가 $112 돌파, 예멘 반군 사우디 재공격...이란 리스크 고조</b>
-<blockquote>예멘 후티 반군이 사우디 에너지 시설을 재차 공격하면서 유가가 급등했다. 시장은 미국-이란 긴장 고조로 중동 원유 공급 차질 위험이 커졌다고 판단하고 있다.
-<a href="https://www.wsj.com/business/energy-oil/oil-prices-rise-more-than-2-as-attacks-on-saudi-arabia-u-s-iran-risks-persist-5599ac83">[WSJ]</a></blockquote>
+<b>1. 미국, 이란 육상 무역로 봉쇄 강화...파키스탄·이라크 국경 폐쇄</b>
+<blockquote>파키스탄과 이라크가 이란과 일부 국경 통로를 폐쇄하며 해상 봉쇄와 항공 제재에 이어 육상 무역로마저 차단됐다. 미국의 對이란 압박이 전방위로 확대되며 이란의 경제적 고립이 심화되고 있다.
+<a href="https://www.wsj.com/world/middle-east/iran-is-now-losing-overland-trade-routes-to-u-s-pressure-6c264333">[WSJ]</a></blockquote>
 
-<b>2. American Airlines 연료비 급등에 분기 적자 전망...항공요금 추가 인상 불가피</b>
-<blockquote>4분기 매출은 19.5~22.5% 증가 전망이나 조정 주당순손실 $0.50~1.10 예상된다. 업계는 이란 전쟁으로 항공유 가격이 작년 수준으로 돌아갈 수 없다고 경고했다.
-<a href="https://www.ft.com/content/d114ce00-f30d-41c6-ac03-71209aa62ee2">[FT]</a></blockquote>
+<b>2. 유가 117달러 돌파, 4월 이후 최고...미국 인플레 기대 상승</b>
+<blockquote>중동 긴장 고조로 유가가 배럴당 117달러를 기록하며 지난 4월 이후 최고치를 경신했다. 에너지 가격 급등이 미국의 인플레이션 기대를 끌어올리며 연준의 금리 결정에 새로운 변수로 떠올랐다.
+<a href="https://www.ft.com/content/8948193b-438b-4d71-a0b1-31dff56fc308">[FT]</a></blockquote>
 
-<b>3. 영국, 벨기에서 긴급 가스 도입...겨울 공급 차질 우려</b>
-<blockquote>영국 정부가 겨울철 천연가스 공급 부족에 대비해 벨기에로부터 긴급 도입 계약을 체결했다. 수년간 자국 가스 생산이 감소한 가운데 에너지 안보 우려가 커지고 있다.
-<a href="https://www.ft.com/content/a88ac504-4d86-4f27-a1e9-cf63db032ab5">[FT]</a></blockquote>
+<b>3. 유가, 중동 리스크에 주간 상승 마감...공급 불안 지속</b>
+<blockquote>미국-이란 충돌 재개 우려와 사우디 에너지 시설 추가 공격 가능성이 시장을 긴장시키며 유가 선물이 이번 주 강세를 이어갔다. 중동발 공급 차질 리스크가 여전히 가격 상승을 뒷받침하고 있다.
+<a href="https://www.wsj.com/world/middle-east/oil-prices-rise-as-middle-east-risks-persist-c1262364">[WSJ]</a></blockquote>
 
-<b>4. Meta AI 지출 확대에 나스닥 -2.6%...시총 $124bn 증발</b>
-<blockquote>Meta가 향후 수년간 'AI에 수천억 달러' 투자 계획을 밝히자 기술주가 급락했다. 국채 수익률은 5% 아래로 떨어지며 2023년 이후 최대 낙폭을 기록, 안전자산 선호 심리가 확산됐다.
-<a href="https://www.ft.com/content/6e318b81-a771-4842-9754-e265fef2852f">[FT]</a></blockquote>
+<b>4. SLB 3분기 매출 94.5억달러...중동 사업 회복세 뚜렷</b>
+<blockquote>글로벌 에너지 서비스 업체 SLB의 3분기 매출이 전년 대비 5.8% 증가한 94.5억달러를 기록했다. 데이터센터 부문의 급성장과 중동 사업 회복이 실적 개선을 견인했다.
+<a href="https://www.wsj.com/business/earnings/slb-logs-higher-revenue-as-business-in-the-middle-east-recovers-f1b81666">[WSJ]</a></blockquote>
 
-<b>5. AI 지출 지속 가능성 의문 확산...기술주 전반 매도</b>
-<blockquote>미국 기술주가 전반적으로 하락했다. 투자자들은 인공지능 인프라에 대한 막대한 지출이 지속 가능한지 우려하고 있다.
-<a href="https://www.wsj.com/finance/stocks/u-s-tech-stocks-drop-on-ai-spending-concerns-05400b55">[WSJ]</a></blockquote>
+<b>5. 러시아 디젤 탱커, 미국 항구 향해 신호...Trump-Putin 거래 결실</b>
+<blockquote>러시아산 디젤을 실은 탱커가 미국 항구를 목적지로 간헐적 신호를 보내며 직접 선적 재개 가능성이 포착됐다. Trump 대통령의 글로벌 연료 공급 확대 추진이 러시아산 에너지 수입 재개로 이어질지 주목된다.
+<a href="https://www.wsj.com/finance/commodities-futures/tanker-carrying-russian-diesel-signals-u-s-port-after-trump-putin-deal-c09c15dd">[WSJ]</a></blockquote>
 
-<b>6. OpenAI 밸류에이션 목표 $1.25조로 하향...당초 $1.4조 제시</b>
-<blockquote>OpenAI가 이달 초 투자 유치 과정에서 제시한 기업가치 목표를 $1.4조에서 $1.25조로 낮춘 것으로 나타났다.
-<a href="https://www.ft.com/content/bb564eb1-79d4-4694-aa24-1155202a9abc">[FT]</a></blockquote>
+<b>6. 미 주식 하락, 유가 5개월 최고...안전자산 선호 확대</b>
+<blockquote>미 증시가 유가 급등 속에 하락 마감하며 투자자들이 덜 위험한 자산으로 이동했다. 유가가 5개월 만에 최고치를 경신하면서 인플레이션 우려가 주식 매도 압력으로 작용했다.
+<a href="https://www.wsj.com/finance/stocks/u-s-stocks-fall-as-oil-prices-hit-five-month-high-a800db83">[WSJ]</a></blockquote>
 
-<b>7. 미 국채 수익률 5% 하회...2023년 이후 최대 낙폭</b>
-<blockquote>미국 국채 수익률이 5% 아래로 떨어지며 2023년 이후 가장 큰 하락폭을 기록했다. 기술주 급락으로 안전자산 선호 심리가 강화됐다.
-<a href="https://www.wsj.com/finance/investing/ai-stocks-slide-after-earnings-disappoint-french-bonds-tumble-and-oil-tops-112-734e47a7">[WSJ]</a></blockquote>
+<b>7. 금 4,000달러 붕괴...안전자산 역설 심화</b>
+<blockquote>금 가격이 온스당 4,000달러 아래로 급락하며 이번 주 시장 매도세에 동참했다. 투자자들이 미 국채로 몰리는 가운데 전통적 안전자산인 금마저 하락하는 역설적 상황이 연출됐다.
+<a href="https://www.ft.com/content/5a6e15e9-249d-4d59-a140-c51302930a9f">[FT]</a></blockquote>
 
-<b>8. 달러지수 3일 연속 하락...WSJ 달러지수 0.12% 하락</b>
-<blockquote>WSJ 달러지수가 96.80으로 0.1% 하락하며 3거래일 연속 약세를 보였다.
-<a href="https://www.wsj.com/finance/currencies/asian-currencies-consolidate-amid-focus-on-mideast-developments-716c953b">[WSJ]</a></blockquote>
+<b>8. 귀금속 전반 약세...은 연중 최저치 경신</b>
+<blockquote>귀금속 가격이 유가 상승 압력 속에 전반적 하락세를 이어갔다. 은이 연중 최저치를 기록했고 금도 4,000달러 선 아래에서 거래를 마감하며 안전자산 수요가 국채로 집중되는 양상이다.
+<a href="https://www.wsj.com/finance/commodities-futures/gold-is-flat-likely-to-consolidate-in-near-term-1fb03f5c">[WSJ]</a></blockquote>
 
-<b>9. 유로존 소비심리 추가 악화...-17.9로 하락</b>
-<blockquote>유럽연합 집행위원회의 10월 유로존 소비자신뢰지수 속보치가 전월 대비 1.1포인트 하락한 -17.9를 기록했다. 시장 예상치 -17.0을 하회하며 에너지 충격이 지속되고 있음을 보여줬다.
-<a href="https://www.wsj.com/economy/central-banking/eurozone-consumer-sentiment-falls-further-on-lingering-energy-shock-e3f4ddf9">[WSJ]</a></blockquote>
+<b>9. 미 국채 수익률 상승, 유로존 채권은 하락...프랑스 우려 지속</b>
+<blockquote>미 국채 수익률이 상승한 반면 프랑스 국채 혼란 속에 유로존 채권 수익률은 하락했다. 다음 주 연준 금리 결정을 앞두고 투자자들이 미 국채로 안전자산 수요를 집중시키고 있다.
+<a href="https://www.wsj.com/finance/investing/u-s-treasury-yields-edge-up-bond-market-focus-to-stay-on-france-8b28a326">[WSJ]</a></blockquote>
 
-<b>10. ECB 2026년 추가 금리 인상 경로 유지 전망</b>
-<blockquote>FT 통화정책 레이더 팀의 10월 시나리오에 따르면 유럽중앙은행이 2026년 추가 금리 인상 경로를 이어갈 것으로 예상된다.
-<a href="https://www.ft.com/content/93852564-cae6-41f6-aa79-8db53e2b7774">[FT]</a></blockquote>
+<b>10. 미 소비자 심리 10월 48.0...기록적 저점 근접 지속</b>
+<blockquote>미시간대 소비자 심리지수가 10월 48.0으로 전월 48.1에서 소폭 하락했다. 역대 최저 수준 근처에서 정체되며 미국 가계의 경기 인식 악화가 장기화되고 있다.
+<a href="https://www.wsj.com/economy/consumers/consumer-sentiment-declined-slightly-in-october-bae24944">[WSJ]</a></blockquote>
 
-<b>11. 터키 중앙은행 금리 36%로 인하...인플레 둔화에도 논란</b>
-<blockquote>터키 중앙은행이 인플레이션 둔화를 근거로 기준금리를 36%로 인하했다. 이는 $180억 규모 투자펀드 스캔들 와중에 단행된 결정이다.
-<a href="https://www.ft.com/content/c6c68f72-4d00-4475-b7ec-847fd2c4d2fa">[FT]</a></blockquote>
+<b>11. 프랑스, 무디스 신용등급 Aa3 유지...재정 리스크 일단 회피</b>
+<blockquote>무디스가 프랑스의 신용등급을 Aa3로 유지하며 등급 강등 우려를 불식시켰다. 평가사는 2027년 적자 감축 예산안 통과를 전제로 현 등급을 유지한다고 밝혔다.
+<a href="https://www.ft.com/content/840f9c94-cb41-4340-9fc4-41e76d908831">[FT]</a></blockquote>
 
-<b>12. 미 실업수당 청구 19.4만 건...노동시장 강세 지속</b>
-<blockquote>10월 17일 마감 주간 미국 신규 실업수당 청구 건수가 19.4만 건으로 전주 대비 6천 건 감소했다. 노동시장 강세가 이어지고 있다.
-<a href="https://www.wsj.com/economy/jobs/u-s-jobless-claims-return-to-downward-trend-9ba853fc">[WSJ]</a></blockquote>
+<b>12. 러시아 중앙은행 기준금리 동결...인플레 고착화 우려</b>
+<blockquote>러시아 중앙은행이 기준금리를 동결하고 내년에도 소폭 인하에 그칠 것이라는 전망을 내놨다. 인플레이션이 완고하게 높은 수준을 유지하며 통화정책 정상화가 지연될 것으로 보인다.
+<a href="https://www.wsj.com/pro/central-banking/russias-central-bank-sees-only-modest-further-drop-in-key-rate-8a604c0d">[WSJ]</a></blockquote>
 
-<b>13. 캐나다 생산자물가 9월 2% 상승...24개월 연속 상승세</b>
-<blockquote>캐나다 통계청에 따르면 9월 산업제품가격지수가 전월 대비 2%, 전년 동월 대비 14.5% 상승했다. 연간 상승은 24개월째 이어졌다.
-<a href="https://www.wsj.com/economy/central-banking/canada-producer-prices-rise-again-in-september-climbing-2-for-the-month-39c694c2">[WSJ]</a></blockquote>
+<b>13. Trump, 캐나다산 일부 제품 50% 관세 해제...중간선거 전략</b>
+<blockquote>Trump 행정부가 오는 금요일 캐나다산 농산물·임산물 일부에 대한 50% 관세를 철회할 예정이다. 메인주의 Susan Collins 상원의원 등 중간선거를 앞둔 공화당 의원들을 돕기 위한 조치로 풀이된다.
+<a href="https://www.wsj.com/politics/policy/trump-expected-to-remove-some-tariffs-on-canada-in-bid-to-help-susan-collins-6a89ed1d">[WSJ]</a></blockquote>
 
-<b>14. Newmont 금 생산 증가로 3분기 이익 급증</b>
-<blockquote>세계 최대 금 생산업체 Newmont의 3분기 순이익이 $24.8억으로 전년 동기 $18.3억에서 증가했다. 금 판매 증가가 실적을 견인했다.
-<a href="https://www.wsj.com/business/earnings/newmont-logs-higher-profit-revenue-on-higher-gold-sales-f49e99d3">[WSJ]</a></blockquote>
+<b>14. 법무부, 알래스카 상원선거 인증 금지 소송...이름 혼동 논란</b>
+<blockquote>Trump 행정부가 알래스카 상원선거에서 공화당 후보가 패배할 경우 결과 인증을 막아달라는 소송을 제기했다. 두 명의 Dan Sullivan 후보 출마로 인한 유권자 혼동이 선거를 왜곡할 수 있다는 주장이다.
+<a href="https://www.wsj.com/politics/elections/justice-department-sues-to-block-alaska-senate-results-if-gop-candidate-loses-c2597f6c">[WSJ]</a></blockquote>
 
-<b>15. Blackstone 금리 충격에 자산 매각 실적 급감</b>
-<blockquote>Blackstone의 사모펀드 부문 자산 매각 수익이 49% 감소했다. 금리 상승으로 부동산 밸류에이션이 하락하면서 투자자 현금 회수가 지연되고 있다.
-<a href="https://www.ft.com/content/df7c95d7-72d1-4cec-87f6-9f7968ac3e5e">[FT]</a></blockquote>
+<b>15. 민주당, 중간선거 승리 시 Pete Hegseth 국방장관 탄핵 추진</b>
+<blockquote>하원 민주당이 중간선거 승리 후 첫 조치로 Pete Hegseth 국방장관 탄핵을 추진할 계획이다. Hakeem Jeffries 원내대표는 국방장관 해임이 우선 과제 중 하나라고 밝혔다.
+<a href="https://www.wsj.com/politics/house-democrats-target-hegseth-for-impeachment-push-e851feb5">[WSJ]</a></blockquote>
 
-<b>16. Sallie Mae 대손충당금 증가로 연간 전망 하향</b>
-<blockquote>미국 학자금 대출업체 SLM Corp.(Sallie Mae)가 대손상각 증가로 연간 주당순이익 전망을 $1.95~2.05로 하향 조정했다. 기존 전망은 $3.10~3.20이었다.
-<a href="https://www.wsj.com/business/earnings/sallie-mae-cuts-full-year-view-after-logging-higher-charge-offs-52bcaa21">[WSJ]</a></blockquote>
+<b>16. FBI 전직 관리 2명, Hunter Biden 수사 관련 위증 혐의 기소</b>
+<blockquote>연방검찰이 전직 FBI 관리 2명을 Hunter Biden 수사와 관련한 의회 증언에서 거짓말을 한 혐의로 기소했다. 중간선거를 앞두고 정치적 긴장을 고조시킬 수 있는 사안이다.
+<a href="https://www.wsj.com/politics/policy/former-fbi-officials-charged-with-lying-to-congress-about-hunter-biden-probe-3974fdd1">[WSJ]</a></blockquote>
 
-<b>17. Union Pacific·Norfolk Southern 실적 개선...화물 트럭→철도 전환</b>
-<blockquote>미국 주요 철도사들이 최근 분기 매출과 이익 증가를 기록했다. 화주들이 트럭에서 철도로 운송 수단을 전환하면서 물량이 늘어났다.
-<a href="https://www.wsj.com/business/earnings/union-pacific-posts-higher-profit-revenue-on-volume-growth-c6666acd">[WSJ]</a></blockquote>
+<b>17. 러시아-우크라이나, Oleshky 인근 임시 휴전 합의...인도적 지원 허용</b>
+<blockquote>러시아와 우크라이나가 교황청과 Melania Trump의 중재로 점령지 Oleshky 인근에서 임시 휴전에 합의했다. 인도적 지원 반입과 민간인 대피가 허용될 전망이다.
+<a href="https://www.ft.com/content/ba33fb18-1dea-4214-9221-228c155a6ac1">[FT]</a></blockquote>
 
-<b>18. Kering 명품 매출 둔화...3분기 1% 감소</b>
-<blockquote>Gucci와 Bottega Veneta를 보유한 Kering의 매출이 전년 동기 대비 1% 감소했다. 명품 시장의 수요 급감이 지속되고 있다.
-<a href="https://www.wsj.com/business/retail/kerings-sales-lose-steam-in-struggling-luxury-market-2154c2d6">[WSJ]</a></blockquote>
+<b>18. Netanyahu, 서안지구 총격 후 봉쇄 요구...이스라엘군 2명 사망</b>
+<blockquote>이스라엘군 2명이 팔레스타인 무장세력의 총격으로 사망한 뒤 Benjamin Netanyahu 총리가 서안지구 전면 봉쇄를 요구했다. 다음 주 총선을 앞두고 강경 대응 압력이 높아지고 있다.
+<a href="https://www.wsj.com/world/middle-east/netanyahu-calls-for-west-bank-lockdown-after-deadly-attack-98d5e3e3">[WSJ]</a></blockquote>
 
-<b>19. L'Oreal 3분기 매출 7.2% 증가...$129.8억 기록</b>
-<blockquote>L'Oreal의 3분기 매출이 전년 동기 대비 동일 기준 7.2% 증가한 $129.8억을 기록했다. 회사는 연간 이익 증가를 전망하고 있다.
-<a href="https://www.wsj.com/business/earnings/loreal-eyes-profit-rise-this-year-as-sales-keep-growing-d1cbee8f">[WSJ]</a></blockquote>
+<b>19. 우크라이나, Starlink 속도 제한 지속 주장...Trump 복구 약속에도</b>
+<blockquote>우크라이나 군과 정부 관계자들이 Trump 대통령의 복구 약속에도 Starlink 연결이 고속 비행 시 여전히 끊긴다고 밝혔다. 드론 작전에 필수적인 통신 시스템의 제약이 계속되고 있다는 지적이다.
+<a href="https://www.wsj.com/world/ukraine-says-starlink-isnt-working-despite-trumps-promise-to-restore-it-c3609d3d">[WSJ]</a></blockquote>
 
-<b>20. American Airlines 4분기 추가 손실 전망</b>
-<blockquote>American Airlines는 4분기 조정 주당순손실 $0.50~1.10을 예상한다고 밝혔다. 연료비 급등이 실적을 압박하고 있다.
-<a href="https://www.wsj.com/business/earnings/american-airlines-forecasts-another-quarterly-loss-on-surging-fuel-costs-68307f23">[WSJ]</a></blockquote>
+<b>20. 다음 주 연준 결정 주목...채권·외환시장 긴장 고조</b>
+<blockquote>다음 주 연방준비제도의 금리 결정이 시장의 최대 관심사로 떠올랐다. 유가 급등에 따른 인플레이션 우려와 경기 둔화 신호가 교차하며 통화정책 방향에 대한 불확실성이 커지고 있다.
+<a href="https://www.wsj.com/economy/week-ahead-for-fx-bonds-decisions-from-fed-other-central-banks-in-focus-92a52730">[WSJ]</a></blockquote>
 
-<b>21. Bloom Energy 전망 상향...현장 발전 솔루션 수요 급증</b>
-<blockquote>Bloom Energy가 연간 조정 주당순이익 전망을 $3.10~3.40으로 상향 조정했다. 3분기 순이익 $2.5억을 기록하며 현장 전력 솔루션 수요가 급증했다.
-<a href="https://www.wsj.com/business/earnings/bloom-energy-lifts-outlook-logs-higher-profit-c36d68c8">[WSJ]</a></blockquote>
+<b>21. 미 천연가스 선물 하락...온화한 날씨에 생산 증가</b>
+<blockquote>미국 천연가스 선물 가격이 이번 주 하락세를 이어갔다. 계절치고 온화한 날씨가 이어지고 생산량이 증가하면서 수요 둔화 우려가 가격 하락을 초래했다.
+<a href="https://www.wsj.com/articles/european-gas-prices-at-highest-since-2022-on-lng-supply-fears-52b80e20">[WSJ]</a></blockquote>
 
-<b>22. Western Digital 데이터 스토리지 수요에 이익 증가</b>
-<blockquote>Western Digital의 회계연도 1분기 순이익이 $17.8억으로 증가했다. 지속적인 데이터 스토리지 수요와 가격 개선이 실적을 견인했다.
-<a href="https://www.wsj.com/business/earnings/western-digital-profit-grows-on-data-storage-demand-28a69a7d">[WSJ]</a></blockquote>
+<b>22. American Express, 전 세계 인력 5% 감축...3,500명 구조조정</b>
+<blockquote>American Express가 글로벌 인력의 약 5%인 3,500명을 감축한다고 발표했다. 조직 계층 축소와 의사결정 속도 개선을 목표로 한 구조조정이라고 회사 측은 설명했다.
+<a href="https://www.wsj.com/business/earnings/american-express-raises-profit-outlook-on-increased-member-spending-375dac71">[WSJ]</a></blockquote>
 
-<b>23. Trump, Musk에 전화해 우크라이나 Starlink 제한 해제 요청</b>
-<blockquote>Trump 대통령이 Elon Musk에게 전화해 우크라이나의 Starlink 군사용 시스템 속도 제한 해제를 요청했다. 통화 직후 시스템이 정상 작동한 것으로 나타났다.
-<a href="https://www.wsj.com/world/trump-called-musk-and-asked-him-to-lift-ukraine-starlink-restrictions-5aeebc6e">[WSJ]</a></blockquote>
+<b>23. Volvo Car 추가 감원 2,500명...주가 26% 급락</b>
+<blockquote>볼보자동차가 전체 인력의 약 6%인 2,500명을 추가 감축한다고 밝히며 주가가 26% 급락했다. 자동차 시장 여건 악화 속에 비용 절감 압박이 심화되고 있다.
+<a href="https://www.wsj.com/business/autos/volvo-car-to-cut-2-500-jobs-as-part-of-plan-to-cut-costs-further-c304f1f8">[WSJ]</a></blockquote>
 
-<b>24. 러시아, 평화협상 직후 키예프에 집속탄 투하</b>
-<blockquote>Trump 행정부 특사 Witkoff와 Putin의 평화 회담 직후 러시아가 우크라이나 수도 키예프에 광범위 피해를 유발하는 집속탄을 투하했다.
-<a href="https://www.ft.com/content/9f0c58d3-1833-40de-b805-f5ac53f05ff0">[FT]</a></blockquote>
-
-<b>25. 영국, 은행 '적격성' 규제 완화...Barclays·Odey 사례 제재 기준 약화</b>
-<blockquote>영국이 은행가 책임을 묻던 '적격성 평가' 규제를 완화했다. 이 제도는 Barclays 前 CEO Jes Staley와 헤지펀드 Crispin Odey 제재에 활용됐었다.
-<a href="https://www.ft.com/content/0a5c7582-133c-4e24-8e3d-daa30f5dad56">[FT]</a></blockquote>
-
-<b>26. Meta, Zuckerberg 캘리포니아 잔류 합의...부유세 우회 목적</b>
-<blockquote>Meta가 Mark Zuckerberg의 캘리포니아 거주를 보장하는 새로운 무의결권 주식 클래스를 신설하기로 합의했다. 이는 주 부유세 제안에 대응하기 위한 조치다.
-<a href="https://www.ft.com/content/b34502b6-38dc-4a46-a8e7-d9131726cd31">[FT]</a></blockquote>
-
-<b>27. Barclays AI 구조조정으로 5% 감원 단행</b>
-<blockquote>Barclays가 AI 업무 재편 과정에서 전체 인력의 5%를 감축한다. 금융업계의 AI 도입이 고용 구조에 미치는 영향이 가시화되고 있다.
-<a href="https://www.wsj.com/cio-journal/barclays-cuts-5-of-jobs-in-ai-overhaul-598857e2">[WSJ]</a></blockquote>
-
-<b>28. PHP 사이버보안 위기 확산...전 세계 웹사이트 70% 영향</b>
-<blockquote>AI가 발견한 PHP 보안 취약점이 전 세계 웹사이트의 최대 70%에 영향을 미칠 수 있는 것으로 나타났다. 기술업계가 긴급 대응에 나섰다.
-<a href="https://www.wsj.com/tech/cybersecurity/php-cybersecurity-bug-explained-000955c6">[WSJ]</a></blockquote>
-
-<b>29. 미 당국, 비트코인 담보 모기지 장려</b>
-<blockquote>미국 규제 당국이 암호화폐 보유 자산을 주택담보대출 담보로 활용하는 방안을 장려하고 있다.
-<a href="https://www.ft.com/content/42176f60-b2fd-431c-9f2c-e7e015b07315">[FT]</a></blockquote>
-
-<b>30. 영국 정부, 비상사태 대비 촉구...필수품 비축 권고</b>
-<blockquote>영국 정부가 자연재해, 사이버 공격, 국가 주도 테러 위험 증가에 대비해 가정과 기업에 필수품 비축을 권고했다.
-<a href="https://www.ft.com/content/925486f3-1dd4-462a-ba1b-794efd2d6429">[FT]</a></blockquote>
-
-<b>31. 유럽 위성 독립 필요성 부각...Economist 사설</b>
-<blockquote>Economist는 사설을 통해 유럽이 미국 위성 의존에서 벗어나야 한다고 주장했다. 유럽은 자체 위성망과 발사 능력을 확보해야 한다는 지적이다.
-<a href="https://www.economist.com/leaders/2026/10/22/europe-must-escape-its-reliance-on-american-satellites">[Economist]</a></blockquote>
-
-<b>32. Economist, 유럽 위성 독립 시급 강조</b>
-<blockquote>Starlink 사태는 유럽이 자체 위성망과 발사 능력을 확보해야 하는 이유를 보여준다. 미국 기술이 앞서 있지만 Brussels는 독립 능력이 필요하다.
-<a href="https://www.ft.com/content/73986a48-b513-458b-b8ea-f9e11ed3e941">[FT]</a></blockquote>
-
-<b>33. 중국, 대만 고립 위한 '회색지대' 전술 강화</b>
-<blockquote>중국이 대만 외교관의 해외 활동을 차단하고 영해를 통제하는 등 '회색지대' 전술을 강화하고 있다.
-<a href="https://www.ft.com/content/587f1f89-3bff-4aae-9130-41f142f1cc5f">[FT]</a></blockquote>
-
-<b>34. 닛폰스틸 US Steel에 $30억 투자...Pittsburgh 인근 설비 현대화</b>
-<blockquote>US Steel이 Pittsburgh 인근 열연공장에 $30억을 투자한다고 밝혔다. 노후 설비를 교체해 연간 생산능력을 220만 톤에서 350만 톤으로 확대할 계획이다.
-<a href="https://www.wsj.com/business/nippons-u-s-steel-to-invest-nearly-3-billion-in-hot-strip-mill-near-pittsburgh-b9784176">[WSJ]</a></blockquote>
-
-<b>35. Shell·Exxon 영국 화학사업 Infineum 매각 추진...$80억 규모</b>
-<blockquote>Shell과 ExxonMobil의 합작 영국 화학사업 Infineum이 Bank of America를 자문사로 선임하고 매각을 추진한다. Shell은 핵심 석유·가스 사업에 집중하고 있다.
-<a href="https://www.ft.com/content/2d4876ae-c707-4df5-a3ae-ae3268343ef2">[FT]</a></blockquote>
+<b>24. 인도네시아 국부펀드, MSCI 경고에도 투자 전략 고수</b>
+<blockquote>인도네시아 국부펀드가 MSCI의 등급 강등 경고로 현지 시장이 또 한 차례 급락했음에도 기존 투자 전략을 유지하겠다고 밝혔다. 펀드 측은 장기 전략에 대한 확신을 재확인했다.
+<a href="https://www.wsj.com/finance/investing/indonesias-sovereign-fund-sticks-with-investment-strategy-after-msci-warning-12459e59">[WSJ]</a></blockquote>
 
 ━━━━━━━━━━━━━━━━━━━━
 📡 <b>출처: WSJ · FT · The Economist</b>
