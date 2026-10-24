@@ -4,101 +4,37 @@
 
 ✅ <b>간밤의 주요 헤드라인</b>
 
-<b>1. 미국, 이란 육상 무역로 봉쇄 강화...파키스탄·이라크 국경 폐쇄</b>
-<blockquote>파키스탄과 이라크가 이란과 일부 국경 통로를 폐쇄하며 해상 봉쇄와 항공 제재에 이어 육상 무역로마저 차단됐다. 미국의 對이란 압박이 전방위로 확대되며 이란의 경제적 고립이 심화되고 있다.
-<a href="https://www.wsj.com/world/middle-east/iran-is-now-losing-overland-trade-routes-to-u-s-pressure-6c264333">[WSJ]</a></blockquote>
+<b>1. 이란, 미국인 암살 계획 '고급 단계' 진입...중동 긴장 최고조</b>
+<blockquote>정보 당국 문서에 따르면 이란의 중동 내 미국인 타깃 암살 계획이 '고급 단계(advanced stages)'에 도달한 것으로 드러났다. 지역 내 긴장이 고조되는 가운데 이번 정보는 미국의 대(對)이란 군사작전 재개 준비와 맞물려 있다.
+<a href="https://www.ft.com/content/e2e82393-c7ca-4bc1-b270-022b3702d9e7">[FT]</a></blockquote>
 
-<b>2. 유가 117달러 돌파, 4월 이후 최고...미국 인플레 기대 상승</b>
-<blockquote>중동 긴장 고조로 유가가 배럴당 117달러를 기록하며 지난 4월 이후 최고치를 경신했다. 에너지 가격 급등이 미국의 인플레이션 기대를 끌어올리며 연준의 금리 결정에 새로운 변수로 떠올랐다.
-<a href="https://www.ft.com/content/8948193b-438b-4d71-a0b1-31dff56fc308">[FT]</a></blockquote>
+<b>2. 미국, 이란 위협에 중동 거점 긴급 철수...군사작전 재개 임박</b>
+<blockquote>미국이 이란의 미국인 타깃 암살 계획 정보를 확보한 직후 중동 지역 거점 요원들을 긴급 철수시켰다. 이번 조치는 Trump 행정부가 이란에 대한 군사작전 재개를 준비 중인 시점에 나왔다.
+<a href="https://www.wsj.com/world/middle-east/u-s-evacuates-mideast-outposts-after-suspected-iranian-plot-to-target-americans-4b876fbc">[WSJ]</a></blockquote>
 
-<b>3. 유가, 중동 리스크에 주간 상승 마감...공급 불안 지속</b>
-<blockquote>미국-이란 충돌 재개 우려와 사우디 에너지 시설 추가 공격 가능성이 시장을 긴장시키며 유가 선물이 이번 주 강세를 이어갔다. 중동발 공급 차질 리스크가 여전히 가격 상승을 뒷받침하고 있다.
-<a href="https://www.wsj.com/world/middle-east/oil-prices-rise-as-middle-east-risks-persist-c1262364">[WSJ]</a></blockquote>
+<b>3. 이스라엘 중앙은행, 암호화폐 제재 회피안 거부...경제 고립 우려</b>
+<blockquote>이스라엘 중앙은행이 Netanyahu 총리의 암호화폐 기반 제재 회피안을 거부했다. 비평가들은 이 제안이 채택될 경우 이스라엘이 경제적 고립국(pariah)으로 전락할 것이라고 경고했다.
+<a href="https://www.ft.com/content/39e475e7-0392-4856-aaaf-5ab3e35b8215">[FT]</a></blockquote>
 
-<b>4. SLB 3분기 매출 94.5억달러...중동 사업 회복세 뚜렷</b>
-<blockquote>글로벌 에너지 서비스 업체 SLB의 3분기 매출이 전년 대비 5.8% 증가한 94.5억달러를 기록했다. 데이터센터 부문의 급성장과 중동 사업 회복이 실적 개선을 견인했다.
-<a href="https://www.wsj.com/business/earnings/slb-logs-higher-revenue-as-business-in-the-middle-east-recovers-f1b81666">[WSJ]</a></blockquote>
+<b>4. 미국 에너지 임원들, 러시아 자금 LNG 스타트업서 사퇴...정부에 우려 전달</b>
+<blockquote>LNG 스타트업 Polar LNG의 고위 임원들이 미공개 러시아 자금 지원 사실을 이유로 회사를 떠났다. 이들은 Trump 행정부에 우려를 공유한 것으로 알려졌다.
+<a href="https://www.wsj.com/business/energy-oil/u-s-energy-execs-say-they-quit-startup-over-undisclosed-russian-funding-b5eae266">[WSJ]</a></blockquote>
 
-<b>5. 러시아 디젤 탱커, 미국 항구 향해 신호...Trump-Putin 거래 결실</b>
-<blockquote>러시아산 디젤을 실은 탱커가 미국 항구를 목적지로 간헐적 신호를 보내며 직접 선적 재개 가능성이 포착됐다. Trump 대통령의 글로벌 연료 공급 확대 추진이 러시아산 에너지 수입 재개로 이어질지 주목된다.
-<a href="https://www.wsj.com/finance/commodities-futures/tanker-carrying-russian-diesel-signals-u-s-port-after-trump-putin-deal-c09c15dd">[WSJ]</a></blockquote>
+<b>5. 우크라이나군, Starlink 제한 해제 발표...드론 통신 정상화</b>
+<blockquote>우크라이나군은 지난 10월 14일 이후 Elon Musk의 SpaceX가 부과한 Starlink 속도 제한이 해제됐다고 밝혔다. 이 제한은 러시아 공습에 대한 키이우의 방어 능력을 저해했으며, 드론 통신 시스템이 정상화됐다.
+<a href="https://www.ft.com/content/5b5592f4-c59d-4eb1-af78-078dc32fcab8">[FT]</a> <a href="https://www.wsj.com/world/europe/ukraines-military-starlink-is-working-again-kyiv-says-7ad2617d">[WSJ]</a></blockquote>
 
-<b>6. 미 주식 하락, 유가 5개월 최고...안전자산 선호 확대</b>
-<blockquote>미 증시가 유가 급등 속에 하락 마감하며 투자자들이 덜 위험한 자산으로 이동했다. 유가가 5개월 만에 최고치를 경신하면서 인플레이션 우려가 주식 매도 압력으로 작용했다.
-<a href="https://www.wsj.com/finance/stocks/u-s-stocks-fall-as-oil-prices-hit-five-month-high-a800db83">[WSJ]</a></blockquote>
+<b>6. 유럽·캐나다, SpaceX 의존도 탈피 가속...머스크 리스크 대응</b>
+<blockquote>Elon Musk의 우크라이나 Starlink 서비스 제한 조치 이후 유럽과 캐나다가 자체 위성 네트워크 구축에 속도를 내고 있다. 미국 동맹국들은 SpaceX 의존도를 낮추고 독자 통제권을 확보하려는 움직임을 보이고 있다.
+<a href="https://www.wsj.com/world/europe/u-s-allies-race-to-escape-spacexs-orbit-8fd29af8">[WSJ]</a></blockquote>
 
-<b>7. 금 4,000달러 붕괴...안전자산 역설 심화</b>
-<blockquote>금 가격이 온스당 4,000달러 아래로 급락하며 이번 주 시장 매도세에 동참했다. 투자자들이 미 국채로 몰리는 가운데 전통적 안전자산인 금마저 하락하는 역설적 상황이 연출됐다.
-<a href="https://www.ft.com/content/5a6e15e9-249d-4d59-a140-c51302930a9f">[FT]</a></blockquote>
+<b>7. 김정은, 중국과 관계 재확인...러시아 밀착 견제 의도</b>
+<blockquote>김정은 위원장이 중국과의 유대를 재확인했다. 분석가들은 북한과 러시아의 관계 강화에 대한 베이징의 우려가 배경에 있다고 평가했다.
+<a href="https://www.ft.com/content/fd106d25-3abf-4729-be26-683d1d115d2e">[FT]</a></blockquote>
 
-<b>8. 귀금속 전반 약세...은 연중 최저치 경신</b>
-<blockquote>귀금속 가격이 유가 상승 압력 속에 전반적 하락세를 이어갔다. 은이 연중 최저치를 기록했고 금도 4,000달러 선 아래에서 거래를 마감하며 안전자산 수요가 국채로 집중되는 양상이다.
-<a href="https://www.wsj.com/finance/commodities-futures/gold-is-flat-likely-to-consolidate-in-near-term-1fb03f5c">[WSJ]</a></blockquote>
-
-<b>9. 미 국채 수익률 상승, 유로존 채권은 하락...프랑스 우려 지속</b>
-<blockquote>미 국채 수익률이 상승한 반면 프랑스 국채 혼란 속에 유로존 채권 수익률은 하락했다. 다음 주 연준 금리 결정을 앞두고 투자자들이 미 국채로 안전자산 수요를 집중시키고 있다.
-<a href="https://www.wsj.com/finance/investing/u-s-treasury-yields-edge-up-bond-market-focus-to-stay-on-france-8b28a326">[WSJ]</a></blockquote>
-
-<b>10. 미 소비자 심리 10월 48.0...기록적 저점 근접 지속</b>
-<blockquote>미시간대 소비자 심리지수가 10월 48.0으로 전월 48.1에서 소폭 하락했다. 역대 최저 수준 근처에서 정체되며 미국 가계의 경기 인식 악화가 장기화되고 있다.
-<a href="https://www.wsj.com/economy/consumers/consumer-sentiment-declined-slightly-in-october-bae24944">[WSJ]</a></blockquote>
-
-<b>11. 프랑스, 무디스 신용등급 Aa3 유지...재정 리스크 일단 회피</b>
-<blockquote>무디스가 프랑스의 신용등급을 Aa3로 유지하며 등급 강등 우려를 불식시켰다. 평가사는 2027년 적자 감축 예산안 통과를 전제로 현 등급을 유지한다고 밝혔다.
-<a href="https://www.ft.com/content/840f9c94-cb41-4340-9fc4-41e76d908831">[FT]</a></blockquote>
-
-<b>12. 러시아 중앙은행 기준금리 동결...인플레 고착화 우려</b>
-<blockquote>러시아 중앙은행이 기준금리를 동결하고 내년에도 소폭 인하에 그칠 것이라는 전망을 내놨다. 인플레이션이 완고하게 높은 수준을 유지하며 통화정책 정상화가 지연될 것으로 보인다.
-<a href="https://www.wsj.com/pro/central-banking/russias-central-bank-sees-only-modest-further-drop-in-key-rate-8a604c0d">[WSJ]</a></blockquote>
-
-<b>13. Trump, 캐나다산 일부 제품 50% 관세 해제...중간선거 전략</b>
-<blockquote>Trump 행정부가 오는 금요일 캐나다산 농산물·임산물 일부에 대한 50% 관세를 철회할 예정이다. 메인주의 Susan Collins 상원의원 등 중간선거를 앞둔 공화당 의원들을 돕기 위한 조치로 풀이된다.
-<a href="https://www.wsj.com/politics/policy/trump-expected-to-remove-some-tariffs-on-canada-in-bid-to-help-susan-collins-6a89ed1d">[WSJ]</a></blockquote>
-
-<b>14. 법무부, 알래스카 상원선거 인증 금지 소송...이름 혼동 논란</b>
-<blockquote>Trump 행정부가 알래스카 상원선거에서 공화당 후보가 패배할 경우 결과 인증을 막아달라는 소송을 제기했다. 두 명의 Dan Sullivan 후보 출마로 인한 유권자 혼동이 선거를 왜곡할 수 있다는 주장이다.
-<a href="https://www.wsj.com/politics/elections/justice-department-sues-to-block-alaska-senate-results-if-gop-candidate-loses-c2597f6c">[WSJ]</a></blockquote>
-
-<b>15. 민주당, 중간선거 승리 시 Pete Hegseth 국방장관 탄핵 추진</b>
-<blockquote>하원 민주당이 중간선거 승리 후 첫 조치로 Pete Hegseth 국방장관 탄핵을 추진할 계획이다. Hakeem Jeffries 원내대표는 국방장관 해임이 우선 과제 중 하나라고 밝혔다.
-<a href="https://www.wsj.com/politics/house-democrats-target-hegseth-for-impeachment-push-e851feb5">[WSJ]</a></blockquote>
-
-<b>16. FBI 전직 관리 2명, Hunter Biden 수사 관련 위증 혐의 기소</b>
-<blockquote>연방검찰이 전직 FBI 관리 2명을 Hunter Biden 수사와 관련한 의회 증언에서 거짓말을 한 혐의로 기소했다. 중간선거를 앞두고 정치적 긴장을 고조시킬 수 있는 사안이다.
-<a href="https://www.wsj.com/politics/policy/former-fbi-officials-charged-with-lying-to-congress-about-hunter-biden-probe-3974fdd1">[WSJ]</a></blockquote>
-
-<b>17. 러시아-우크라이나, Oleshky 인근 임시 휴전 합의...인도적 지원 허용</b>
-<blockquote>러시아와 우크라이나가 교황청과 Melania Trump의 중재로 점령지 Oleshky 인근에서 임시 휴전에 합의했다. 인도적 지원 반입과 민간인 대피가 허용될 전망이다.
-<a href="https://www.ft.com/content/ba33fb18-1dea-4214-9221-228c155a6ac1">[FT]</a></blockquote>
-
-<b>18. Netanyahu, 서안지구 총격 후 봉쇄 요구...이스라엘군 2명 사망</b>
-<blockquote>이스라엘군 2명이 팔레스타인 무장세력의 총격으로 사망한 뒤 Benjamin Netanyahu 총리가 서안지구 전면 봉쇄를 요구했다. 다음 주 총선을 앞두고 강경 대응 압력이 높아지고 있다.
-<a href="https://www.wsj.com/world/middle-east/netanyahu-calls-for-west-bank-lockdown-after-deadly-attack-98d5e3e3">[WSJ]</a></blockquote>
-
-<b>19. 우크라이나, Starlink 속도 제한 지속 주장...Trump 복구 약속에도</b>
-<blockquote>우크라이나 군과 정부 관계자들이 Trump 대통령의 복구 약속에도 Starlink 연결이 고속 비행 시 여전히 끊긴다고 밝혔다. 드론 작전에 필수적인 통신 시스템의 제약이 계속되고 있다는 지적이다.
-<a href="https://www.wsj.com/world/ukraine-says-starlink-isnt-working-despite-trumps-promise-to-restore-it-c3609d3d">[WSJ]</a></blockquote>
-
-<b>20. 다음 주 연준 결정 주목...채권·외환시장 긴장 고조</b>
-<blockquote>다음 주 연방준비제도의 금리 결정이 시장의 최대 관심사로 떠올랐다. 유가 급등에 따른 인플레이션 우려와 경기 둔화 신호가 교차하며 통화정책 방향에 대한 불확실성이 커지고 있다.
-<a href="https://www.wsj.com/economy/week-ahead-for-fx-bonds-decisions-from-fed-other-central-banks-in-focus-92a52730">[WSJ]</a></blockquote>
-
-<b>21. 미 천연가스 선물 하락...온화한 날씨에 생산 증가</b>
-<blockquote>미국 천연가스 선물 가격이 이번 주 하락세를 이어갔다. 계절치고 온화한 날씨가 이어지고 생산량이 증가하면서 수요 둔화 우려가 가격 하락을 초래했다.
-<a href="https://www.wsj.com/articles/european-gas-prices-at-highest-since-2022-on-lng-supply-fears-52b80e20">[WSJ]</a></blockquote>
-
-<b>22. American Express, 전 세계 인력 5% 감축...3,500명 구조조정</b>
-<blockquote>American Express가 글로벌 인력의 약 5%인 3,500명을 감축한다고 발표했다. 조직 계층 축소와 의사결정 속도 개선을 목표로 한 구조조정이라고 회사 측은 설명했다.
-<a href="https://www.wsj.com/business/earnings/american-express-raises-profit-outlook-on-increased-member-spending-375dac71">[WSJ]</a></blockquote>
-
-<b>23. Volvo Car 추가 감원 2,500명...주가 26% 급락</b>
-<blockquote>볼보자동차가 전체 인력의 약 6%인 2,500명을 추가 감축한다고 밝히며 주가가 26% 급락했다. 자동차 시장 여건 악화 속에 비용 절감 압박이 심화되고 있다.
-<a href="https://www.wsj.com/business/autos/volvo-car-to-cut-2-500-jobs-as-part-of-plan-to-cut-costs-further-c304f1f8">[WSJ]</a></blockquote>
-
-<b>24. 인도네시아 국부펀드, MSCI 경고에도 투자 전략 고수</b>
-<blockquote>인도네시아 국부펀드가 MSCI의 등급 강등 경고로 현지 시장이 또 한 차례 급락했음에도 기존 투자 전략을 유지하겠다고 밝혔다. 펀드 측은 장기 전략에 대한 확신을 재확인했다.
-<a href="https://www.wsj.com/finance/investing/indonesias-sovereign-fund-sticks-with-investment-strategy-after-msci-warning-12459e59">[WSJ]</a></blockquote>
+<b>8. 프랑스 전역서 수십만 대규모 시위...2주 연속 사회 불안</b>
+<blockquote>프랑스 전역에서 수십만 명이 참가한 대규모 시위가 이틀째 이어졌다. 정부는 지난 주말 폭력 사태에 대응해 7만 명의 경찰을 배치했으며, 이번 시위는 규모는 컸으나 폭력성은 이전보다 낮았다.
+<a href="https://www.ft.com/content/643b2bc6-2963-4759-82ae-03db082c71f7">[FT]</a> <a href="https://www.wsj.com/world/europe/france-girds-for-another-day-of-protest-after-widespread-violence-0504934c">[WSJ]</a></blockquote>
 
 ━━━━━━━━━━━━━━━━━━━━
 📡 <b>출처: WSJ · FT · The Economist</b>
