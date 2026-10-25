@@ -4,37 +4,105 @@
 
 ✅ <b>간밤의 주요 헤드라인</b>
 
-<b>1. 이란, 미국인 암살 계획 '고급 단계' 진입...중동 긴장 최고조</b>
-<blockquote>정보 당국 문서에 따르면 이란의 중동 내 미국인 타깃 암살 계획이 '고급 단계(advanced stages)'에 도달한 것으로 드러났다. 지역 내 긴장이 고조되는 가운데 이번 정보는 미국의 대(對)이란 군사작전 재개 준비와 맞물려 있다.
-<a href="https://www.ft.com/content/e2e82393-c7ca-4bc1-b270-022b3702d9e7">[FT]</a></blockquote>
+<b>1. FOMC 이번주 개최...금리 인상 힌트 여부 주목</b>
+<blockquote>이번주 열리는 연준 FOMC 회의에서 금리 인상 신호가 나올지 시장이 촉각을 곤두세우고 있다. 최근 인플레이션 지표와 고용 지표가 혼조를 보이는 가운데 연준이 어떤 메시지를 내놓을지가 달러와 채권 시장 방향성을 좌우할 전망이다.
+<a href="https://www.ft.com/content/181316cc-0f4c-4328-b990-ad0d43ce424c">[FT]</a></blockquote>
 
-<b>2. 미국, 이란 위협에 중동 거점 긴급 철수...군사작전 재개 임박</b>
-<blockquote>미국이 이란의 미국인 타깃 암살 계획 정보를 확보한 직후 중동 지역 거점 요원들을 긴급 철수시켰다. 이번 조치는 Trump 행정부가 이란에 대한 군사작전 재개를 준비 중인 시점에 나왔다.
-<a href="https://www.wsj.com/world/middle-east/u-s-evacuates-mideast-outposts-after-suspected-iranian-plot-to-target-americans-4b876fbc">[WSJ]</a></blockquote>
+<b>2. Trumponomics 2년 평가...승자와 패자 엇갈려</b>
+<blockquote>Trump 대통령이 집권 2년차를 맞으며 경제정책 성적표가 나왔다. 감세와 규제 완화로 기업과 고소득층은 혜택을 봤지만, 관세 정책과 인플레이션으로 중산층 부담은 커졌다는 분석이다. 중간선거를 앞두고 유권자 평가가 엇갈리고 있다.
+<a href="https://www.economist.com/united-states/2026/10/25/the-winners-and-losers-of-trumponomics">[Economist]</a></blockquote>
 
-<b>3. 이스라엘 중앙은행, 암호화폐 제재 회피안 거부...경제 고립 우려</b>
-<blockquote>이스라엘 중앙은행이 Netanyahu 총리의 암호화폐 기반 제재 회피안을 거부했다. 비평가들은 이 제안이 채택될 경우 이스라엘이 경제적 고립국(pariah)으로 전락할 것이라고 경고했다.
-<a href="https://www.ft.com/content/39e475e7-0392-4856-aaaf-5ab3e35b8215">[FT]</a></blockquote>
+<b>3. 미국 중간선거 앞두고 부패 우려 확산...FT 여론조사</b>
+<blockquote>FT 여론조사 결과 미국 유권자들이 Trump 행정부 하에서 부패 문제를 심각하게 우려하는 것으로 나타났다. 응답자들은 부패와 물가 위기를 연결지으며, 화요일 중간선거에서 이 문제가 투표 결정에 영향을 미칠 것으로 보인다.
+<a href="https://www.ft.com/content/2770ef24-198c-49bc-8cb8-b9d40108d797">[FT]</a></blockquote>
 
-<b>4. 미국 에너지 임원들, 러시아 자금 LNG 스타트업서 사퇴...정부에 우려 전달</b>
-<blockquote>LNG 스타트업 Polar LNG의 고위 임원들이 미공개 러시아 자금 지원 사실을 이유로 회사를 떠났다. 이들은 Trump 행정부에 우려를 공유한 것으로 알려졌다.
-<a href="https://www.wsj.com/business/energy-oil/u-s-energy-execs-say-they-quit-startup-over-undisclosed-russian-funding-b5eae266">[WSJ]</a></blockquote>
+<b>4. 알래스카 상원 선거 분쟁 격화...법무부 개입 논란</b>
+<blockquote>법무장관 Todd Blanche가 알래스카 상원 선거에서 공화당 후보가 패배할 경우 결과 인증을 막겠다는 법무부 소송을 강경히 옹호했다. 공화당 상원의원 Lisa Murkowski와 Trump 대통령 간 갈등이 깊어지면서 선거 후 법적 분쟁 가능성이 커지고 있다.
+<a href="https://www.wsj.com/politics/elections/alaska-election-feud-gets-uglier-as-blanche-defends-justice-department-action-9d27090e">[WSJ]</a></blockquote>
 
-<b>5. 우크라이나군, Starlink 제한 해제 발표...드론 통신 정상화</b>
-<blockquote>우크라이나군은 지난 10월 14일 이후 Elon Musk의 SpaceX가 부과한 Starlink 속도 제한이 해제됐다고 밝혔다. 이 제한은 러시아 공습에 대한 키이우의 방어 능력을 저해했으며, 드론 통신 시스템이 정상화됐다.
-<a href="https://www.ft.com/content/5b5592f4-c59d-4eb1-af78-078dc32fcab8">[FT]</a> <a href="https://www.wsj.com/world/europe/ukraines-military-starlink-is-working-again-kyiv-says-7ad2617d">[WSJ]</a></blockquote>
+<b>5. 대법원 판결이 중간선거 지형 바꿔...광고·후보 명단 영향</b>
+<blockquote>최근 연방대법원 판결들이 중간선거 캠페인 광고와 투표용지 후보 명단에 직접적인 영향을 미치고 있다. 선거자금 규제 완화와 후보 자격 요건 관련 판결이 각 주에서 유권자들이 보는 광고와 선택지를 바꾸고 있는 것으로 나타났다.
+<a href="https://www.wsj.com/politics/policy/how-the-supreme-court-is-shaping-the-midterm-elections-be0d1125">[WSJ]</a></blockquote>
 
-<b>6. 유럽·캐나다, SpaceX 의존도 탈피 가속...머스크 리스크 대응</b>
-<blockquote>Elon Musk의 우크라이나 Starlink 서비스 제한 조치 이후 유럽과 캐나다가 자체 위성 네트워크 구축에 속도를 내고 있다. 미국 동맹국들은 SpaceX 의존도를 낮추고 독자 통제권을 확보하려는 움직임을 보이고 있다.
-<a href="https://www.wsj.com/world/europe/u-s-allies-race-to-escape-spacexs-orbit-8fd29af8">[WSJ]</a></blockquote>
+<b>6. 이스라엘 총선 화요일 개최...Netanyahu 거취 최대 변수</b>
+<blockquote>이스라엘이 화요일 총선을 치르며 Netanyahu 총리의 정치적 운명이 결정된다. 여론조사는 접전을 예고하고 있으며, 결과에 따라 이란 공격 재개 여부 등 중동 지정학 리스크가 크게 달라질 전망이다.
+<a href="https://www.economist.com/middle-east-and-africa/2026/10/25/politics-not-strategy-could-mean-more-israeli-strikes-on-iran">[Economist]</a></blockquote>
 
-<b>7. 김정은, 중국과 관계 재확인...러시아 밀착 견제 의도</b>
-<blockquote>김정은 위원장이 중국과의 유대를 재확인했다. 분석가들은 북한과 러시아의 관계 강화에 대한 베이징의 우려가 배경에 있다고 평가했다.
-<a href="https://www.ft.com/content/fd106d25-3abf-4729-be26-683d1d115d2e">[FT]</a></blockquote>
+<b>7. 이스라엘 해외 유권자 6만명 귀국 투표...Netanyahu 퇴진 운동</b>
+<blockquote>이스라엘이 대면 투표만 허용하는 가운데 6만명 이상의 해외 거주 유권자들이 Netanyahu 총리를 퇴진시키기 위해 귀국해 투표할 예정이다. 이번 선거는 이스라엘 역사상 가장 많은 해외 유권자가 참여하는 선거로 기록될 전망이다.
+<a href="https://www.wsj.com/world/middle-east/the-push-to-oust-netanyahu-draws-thousands-of-israeli-expats-home-to-vote-26f71bca">[WSJ]</a></blockquote>
 
-<b>8. 프랑스 전역서 수십만 대규모 시위...2주 연속 사회 불안</b>
-<blockquote>프랑스 전역에서 수십만 명이 참가한 대규모 시위가 이틀째 이어졌다. 정부는 지난 주말 폭력 사태에 대응해 7만 명의 경찰을 배치했으며, 이번 시위는 규모는 컸으나 폭력성은 이전보다 낮았다.
-<a href="https://www.ft.com/content/643b2bc6-2963-4759-82ae-03db082c71f7">[FT]</a> <a href="https://www.wsj.com/world/europe/france-girds-for-another-day-of-protest-after-widespread-violence-0504934c">[WSJ]</a></blockquote>
+<b>8. FT 사설..."이스라엘 영혼 걸린 선거, Netanyahu 승리땐 파괴적"</b>
+<blockquote>FT는 화요일 이스라엘 총선을 "이스라엘의 영혼을 위한 전투"로 규정하며, Netanyahu가 승리할 경우 이스라엘과 중동 지역이 파괴적인 경로로 나아갈 것이라고 경고했다. 민주주의와 지역 안정성이 모두 위협받을 수 있다는 분석이다.
+<a href="https://www.ft.com/content/a9040cdc-a599-4489-a975-ce90906c92c4">[FT]</a></blockquote>
+
+<b>9. 이스라엘·미국 선거 앞두고...이란 추가 공격 가능성 커져</b>
+<blockquote>이스라엘과 미국에서 이번주 선거를 앞두고 양국 정치 일정이 이란에 대한 추가 군사 공격 결정에 영향을 미치고 있다. 전략적 필요보다 정치적 고려가 이란 타격 시점과 강도를 좌우할 것이라는 분석이 나온다.
+<a href="https://www.economist.com/middle-east-and-africa/2026/10/25/politics-not-strategy-could-mean-more-israeli-strikes-on-iran">[Economist]</a></blockquote>
+
+<b>10. 사우디 주도군 집결 직후 후티 미사일 공격...수십명 사망</b>
+<blockquote>사우디 주도 연합군 병력이 집결한 직후 후티 반군의 미사일 공격으로 수십명이 사망했다. 이번 공격은 사우디가 이란의 지원을 받는 후티 반군과의 전투에서 전술 및 정보 면에서 여전히 취약점을 안고 있음을 보여준다.
+<a href="https://www.wsj.com/world/middle-east/saudi-led-troops-had-just-gathered-when-a-houthi-missile-left-dozens-dead-abf87bfb">[WSJ]</a></blockquote>
+
+<b>11. 프랑스 Le Pen 대선 출마..."국가 통합" 약속</b>
+<blockquote>프랑스 극우 지도자 Marine Le Pen이 내년 대선 출마를 공식 선언하며 국가 통합과 질서 회복을 내세웠다. 최근 잇따른 시위 속에서 자신만이 프랑스를 통합할 수 있는 후보라고 강조하며 Trump의 MAGA 운동을 본떠 캠페인을 시작했다.
+<a href="https://www.ft.com/content/fd1c3f30-2789-4fca-a93f-57850b1448a8">[FT]</a></blockquote>
+
+<b>12. Le Pen, 시위 격화 속 대선 캠페인...Trump 모델 따라</b>
+<blockquote>Le Pen 후보가 주말 대규모 시위가 이어진 직후 대선 캠페인을 시작하며 자신을 프랑스의 통합자로 포지셔닝했다. Trump 대통령의 MAGA 운동을 모델로 삼아 포퓰리즘 기조를 강화하고 있어 유로존 재정정책 불확실성이 커질 전망이다.
+<a href="https://www.wsj.com/world/europe/le-pen-pitches-herself-as-frances-unifier-after-another-weekend-of-protests-1ddb802c">[WSJ]</a></blockquote>
+
+<b>13. 영국 총리 Burnham, EU 정상회담 앞 인력 이동 논의 촉구</b>
+<blockquote>영국 총리 Andy Burnham이 EU 정상회담을 앞두고 인력 자유 이동에 대한 "솔직한 논의"를 요구했다. 이는 Brexit 재협상 논의를 재점화시킬 수 있는 발언으로, 파운드화 변동성을 키울 가능성이 있다.
+<a href="https://www.ft.com/content/ef271c35-6e32-455a-8463-579788530fd3">[FT]</a></blockquote>
+
+<b>14. 영국, 캐나다 주도 방위은행 불참...Carney에 냉담</b>
+<blockquote>영국이 캐나다 총리 Mark Carney가 주도하는 방위 금융기구 참여를 거부하고 별도 구상을 지지하기로 했다. 존 Healey 재무장관의 이번 결정은 Carney에 대한 냉대로 받아들여질 수 있으며, 영국-캐나다 관계에 영향을 미칠 전망이다.
+<a href="https://www.ft.com/content/1f7924c1-ab63-465d-94b8-e97861e2348e">[FT]</a></blockquote>
+
+<b>15. FT 칼럼..."영국엔 전기톱 경제학 필요"</b>
+<blockquote>FT 칼럼은 영국이 저성장·증가하는 부채·비대해진 국가의 악순환에서 벗어나려면 쇼크 요법이 필요하다고 주장했다. 과감한 규제 철폐와 구조개혁만이 영국 경제를 해방시킬 수 있다는 분석이다.
+<a href="https://www.ft.com/content/46955baa-a3c0-487c-bf3e-d89430a84516">[FT]</a></blockquote>
+
+<b>16. WSJ 칼럼..."Putin 달래기론은 우크라이나 평화 못가져와"</b>
+<blockquote>WSJ는 Trump 대통령의 크렘린 유화 정책이 우크라이나 평화를 가져오지 못할 것이라고 비판했다. 러시아에 대한 굴종적 태도는 오히려 절름발이 의회에서 Trump의 입법 의제도 위태롭게 만들 것이라는 경고다.
+<a href="https://www.wsj.com/opinion/coddling-putin-wont-bring-peace-to-ukraine-2464d660">[WSJ]</a></blockquote>
+
+<b>17. WSJ 칼럼..."의회는 러시아 문제 해결해야...Trump 저지 용기 필요"</b>
+<blockquote>WSJ는 공화당 의회가 Trump 대통령의 친러시아 정책을 저지할 용기를 내야 한다고 촉구했다. 의회의 러시아 문제 방치는 미국의 국가안보와 글로벌 리더십에 심각한 위협이 될 것이라는 주장이다.
+<a href="https://www.wsj.com/opinion/congresss-russia-problems-2a6720dc">[WSJ]</a></blockquote>
+
+<b>18. Marco Rubio, 유럽에 답 빚졌다...공동 미래 비전 없어</b>
+<blockquote>미국 국무장관 Marco Rubio가 최근 아테네 연설에서 대서양 양안의 공동 운명을 언급했지만, 구체적인 공동 미래 비전은 제시하지 않았다. FT는 미국이 유럽에 대한 의도를 명확히 밝혀야 한다고 지적했다.
+<a href="https://www.ft.com/content/899bc060-3f17-4ed9-bea7-710c467d92fd">[FT]</a></blockquote>
+
+<b>19. 베네수엘라 야당 지도자 Machado 귀국...Trump 지원 정부에 도전장</b>
+<blockquote>노벨평화상 수상자인 베네수엘라 야당 지도자 María Corina Machado가 망명에서 돌아와 Trump 행정부가 지원하는 과도정부에 도전장을 내밀었다. 그녀의 귀국은 베네수엘라 정국을 더욱 복잡하게 만들고 대선 실시 압박을 강화할 전망이다.
+<a href="https://www.ft.com/content/f691e41e-dd01-4ac0-ade7-5f7ca23d6135">[FT]</a></blockquote>
+
+<b>20. Machado 귀국에 Trump 베네수엘라 계획 차질 우려</b>
+<blockquote>Machado의 깜짝 귀국으로 Trump 대통령의 베네수엘라 계획에 차질이 빚어질 수 있다. 그녀는 즉각적인 대선 실시를 요구하고 있어, 미국이 지원하는 과도정부 전략과 충돌하고 있다.
+<a href="https://www.wsj.com/world/americas/venezuelas-machado-returns-home-challenging-u-s-backed-government-7e3468e8">[WSJ]</a></blockquote>
+
+<b>21. 김정은, 중국 방문해 신규 다리 건넜다...시진핑은 불참</b>
+<blockquote>김정은 북한 국무위원장이 깜짝 방중해 새로 건설된 국경 다리를 건넜다. 베이징과 평양 간 관계가 따뜻해지고 있지만, 중국 주석 시진핑은 회동에 참석하지 않아 양국 관계의 미묘한 온도차가 드러났다.
+<a href="https://www.wsj.com/world/asia/kim-jong-un-makes-surprise-trip-to-china-crosses-new-bridge-3d0f7069">[WSJ]</a></blockquote>
+
+<b>22. 인도 중앙은행, 루피 방어...달러당 100 사수 총력전</b>
+<blockquote>인도 중앙은행이 루피화를 달러당 100 아래로 유지하기 위해 점점 더 강경한 조치를 취하고 있다. 외환시장 개입과 자본통제 강화로 루피 환율을 안정시켰지만, 이로 인한 경제적 비용이 커지고 있다는 우려가 나온다.
+<a href="https://www.economist.com/asia/2026/10/25/india-has-stabilised-its-currency-but-at-what-cost">[Economist]</a></blockquote>
+
+<b>23. 미국 조선업 부활...한국 Hanwha가 핵심 역할</b>
+<blockquote>Trump 대통령의 미국 조선업 부활 정책에서 한국의 Hanwha가 핵심 역할을 맡고 있다. 중국에 주도권을 빼앗긴 미국 조선업을 재건하기 위해 한국 조선업계의 기술과 노하우를 도입하고 있다.
+<a href="https://www.wsj.com/world/asia/the-u-s-shipbuilding-revival-is-taking-lessons-halfway-around-the-world-d60f1816">[WSJ]</a></blockquote>
+
+<b>24. 캐나다 보수당 승리로 Carney 에너지 정책 탄력...탄소세 폐지 추진</b>
+<blockquote>캐나다 브리티시컬럼비아주 보수당 승리로 Mark Carney 총리의 에너지 정책이 탄력을 받게 됐다. 보수당은 배출량 제한 종료와 주 탄소세 체계 폐지를 추진하고 있어, 캐나다 기후정책이 급선회할 전망이다.
+<a href="https://www.ft.com/content/397d5d63-1d60-4218-b2bd-8ce6e8f527b1">[FT]</a></blockquote>
+
+<b>25. Airbus, BAE와 GCAP 전투기 참여 협상...독일 합류 검토</b>
+<blockquote>유럽 항공방산 업체 Airbus가 영국·이탈리아·일본이 주도하는 GCAP 차세대 전투기 프로그램 참여를 논의 중이다. 독일이 프랑스·스페인과의 경쟁 사업 FCAS가 붕괴된 후 GCAP 합류를 검토하면서 유럽 방위산업 지형이 재편되고 있다.
+<a href="https://www.ft.com/content/701768ba-b541-491e-bcc5-e76d1baea2fe">[FT]</a></blockquote>
 
 ━━━━━━━━━━━━━━━━━━━━
 📡 <b>출처: WSJ · FT · The Economist</b>
