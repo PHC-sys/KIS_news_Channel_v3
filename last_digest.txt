@@ -4,173 +4,181 @@
 
 ✅ <b>간밤의 주요 헤드라인</b>
 
-<b>1. 이스라엘 총선, 출구조사서 승자 불분명...연정 협상 장기화 전망</b>
-<blockquote>이스라엘 의회 선거가 사상 최고 투표율을 기록했으나 출구조사 결과 Benjamin Netanyahu와 Gadi Eisenkot 진영 모두 과반 확보에 실패했다. 10·7 테러 이후 첫 선거로 연정 구성까지 수주 이상 소요될 가능성이 크다.
-<a href="https://www.wsj.com/world/middle-east/israel-election-results-netanyahu-9e62d9d3">[WSJ]</a> <a href="https://www.ft.com/content/6dab34da-a039-46e6-9547-0c7213a00001">[FT]</a></blockquote>
+<b>1. Fed 금리 동결...12월 인상 가능성 여전</b>
+<blockquote>연준이 인플레이션 우려 속 기준금리를 동결했지만 Lisa Cook 이사와 Beth Hammack 총재가 인상 찬성 반대표를 던졌다. Kevin Warsh 의장은 매파 기조를 유지하며 12월 회의에서 금리 인상 여지를 남겼다. 주식시장은 소폭 상승, 국채 수익률은 혼조세를 나타냈다.
+<a href="https://www.wsj.com/economy/central-banking/federal-reserve-interest-rate-decision-df120667">[WSJ]</a></blockquote>
 
-<b>2. 국제유가 $100 아래로 하락...중동 외교 진전 기대감 반영</b>
-<blockquote>WTI 원유 가격이 배럴당 100달러 아래로 내려앉았다. 이스라엘 선거와 지역 외교 노력이 맞물리며 중동 긴장 완화 기대감이 확산됐다. 사우디 공격 리스크에 대한 시장 평가도 낮아졌다.
-<a href="https://www.wsj.com/world/middle-east/oil-prices-fall-as-traders-assess-iran-diplomacy-saudi-attacks-95bb0210">[WSJ]</a></blockquote>
+<b>2. 연준, 내년부터 통화정책 회의 7회로 축소...수십 년 관행 바뀐다</b>
+<blockquote>연준이 2027년부터 연 8회였던 FOMC 회의를 7회로 줄이기로 했다. 경제와 물가 전망의 불확실성이 높아지는 가운데 정책 결정 간격을 조정해 시장과의 소통 방식을 재조정하겠다는 의도로 풀이된다.
+<a href="https://www.ft.com/content/f31fccd8-e9b6-4b01-989d-790ca6bb4d29">[FT]</a></blockquote>
 
-<b>3. 영국, RAF 기지 공격 음모 배후로 이란 지목...혐의자 2명 기소</b>
-<blockquote>영국 경찰이 RAF Fairford 기지 공격 기도 사건과 관련해 Mohmed Ahmad Abdulkarim를 외국 정보기관(이란) 지원 혐의로 기소했다. 이란 연계 테러 위협이 유럽으로 확산되는 양상이다.
-<a href="https://www.wsj.com/world/middle-east/u-k-police-charge-british-man-with-assisting-iran-in-foiled-air-base-attack-aaf40c9d">[WSJ]</a></blockquote>
+<b>3. 채권시장, Fed 결정 후 방향 엇갈려...단기물은 상승</b>
+<blockquote>연준의 금리 동결 결정 이후 미 국채 수익률이 만기별로 엇갈렸다. Warsh 의장이 공격적 긴축에 주저하는 태도를 보이자 시장은 안도했지만, 장기물 수익률은 여전히 불안정한 흐름을 보였다.
+<a href="https://www.wsj.com/finance/investing/the-fed-held-steady-on-rates-leaving-investors-to-sit-tight-too-9c77723b">[WSJ]</a></blockquote>
 
-<b>4. 이란, 한국 해운사 Sinokor에 호르무즈 해협 통과 위반 경고</b>
-<blockquote>이란이 한국 선박회사 Sinokor를 호르무즈 해협 통과 규정 반복 위반 혐의로 위협했다. 이란은 그간 이 같은 규정을 군사 행동으로만 집행해왔다는 점에서 긴장이 고조되고 있다.
+<b>4. Fed 금리 동결에도 시장 안도...주식 소폭 상승</b>
+<blockquote>연준이 금리를 동결하고 경제 전망을 상향 조정하자 투자자들은 긴축 종료 기대감을 키웠다. S&P 500과 다우존스 지수는 소폭 상승했고, 나스닥은 테크 랠리 열기가 식으며 하락 전환했다.
+<a href="https://www.wsj.com/finance/stocks/u-s-stocks-up-treasury-yields-mixed-after-fed-hold-0766f105">[WSJ]</a></blockquote>
+
+<b>5. 캐나다 중앙은행, 성장 자신감에 금리 인상 단행</b>
+<blockquote>캐나다 중앙은행이 국내 경제 회복과 기업의 무역 불확실성 대응력에 자신감을 보이며 기준금리를 인상했다. 인플레이션 압력과 성장 전망이 함께 개선되면서 긴축 사이클 재개 신호로 받아들여진다.
+<a href="https://www.wsj.com/pro/central-banking/growth-plays-key-supporting-role-in-bank-of-canada-rate-hike-decision-fa80b153">[WSJ]</a></blockquote>
+
+<b>6. 미국, 중간선거 후 이란 공습 재개 시사...단기 고강도 전략</b>
+<blockquote>미국이 중동 동맹국들에게 다음 주 중간선거 이후 이란에 대한 단기간 고강도 공습을 재개할 가능성을 경고했다. 미국과 이스라엘 군은 테헤란을 협상 테이블로 끌어내기 위한 군사 작전을 준비 중인 것으로 알려졌다.
+<a href="https://www.wsj.com/world/middle-east/u-s-warns-gulf-of-possible-short-intense-renewal-of-iran-war-after-midterms-cd1a55e1">[WSJ]</a></blockquote>
+
+<b>7. Vance 부통령, 이란 강경파에 평화협상 재개 제안</b>
+<blockquote>Donald Trump 대통령의 지시로 JD Vance 부통령이 이란 안보 수장에게 평화 협상 재개를 촉구하는 서한을 보냈다. 중간선거를 앞두고 중동 긴장 완화를 모색하는 외교적 노력의 일환으로 평가된다.
+<a href="https://www.wsj.com/world/middle-east/vance-reaches-out-to-iranian-hard-liner-in-bid-to-restart-peace-talks-2c8a2ab8">[WSJ]</a></blockquote>
+
+<b>8. 유가 $115 돌파...중동 긴장 고조에 공급 우려 확산</b>
+<blockquote>중동 전쟁 확전 우려와 예멘 Houthi 반군의 사우디 최대 정유시설 공격으로 국제유가가 배럴당 $115를 넘어섰다. 미국의 이란 공습 재개 가능성이 거론되며 에너지 공급망 리스크가 커지고 있다.
+<a href="https://www.wsj.com/world/middle-east/oil-prices-rise-as-houthi-militants-target-saudi-energy-45c38fe0">[WSJ]</a></blockquote>
+
+<b>9. 유럽 가스 가격 €100 돌파...이란 전쟁 확전·겨울 한파 우려</b>
+<blockquote>유럽 천연가스 가격이 €100를 넘어서며 급등했다. 이란 전쟁 확전 가능성과 겨울철 한파 예보, 낮은 저장량이 겹치면서 에너지 위기 재연 우려가 커지고 있다.
+<a href="https://www.ft.com/content/afe6e244-8433-4371-a26f-7aacbc9b8dcd">[FT]</a></blockquote>
+
+<b>10. 이란, 가스 부족 심화로 에너지 긴급조치...공무원 재택근무 지시</b>
+<blockquote>전쟁 여파로 이란의 천연가스 공급이 급감하자 정부가 국민에게 에너지 절약을 호소하고 공무원들에게 재택근무를 지시했다. 에너지 위기 회피를 위한 비상 대책이 가동되고 있다.
+<a href="https://www.ft.com/content/77e4e4a5-a041-4d59-9d8c-0a7af9ef6d25">[FT]</a></blockquote>
+
+<b>11. 이란, 한국 선사 호르무즈 통항 제한 위협...통과 위반 적발</b>
+<blockquote>이란 당국이 한국 선사 Sinokor에 호르무즈 해협 통항 규칙 반복 위반을 경고하며 군사 조치 가능성을 시사했다. 중동 전쟁 속 해상 수송로 리스크가 다시 부각되고 있다.
 <a href="https://www.ft.com/content/171ffdaa-e3e7-41b9-a4c6-09c9ace3f719">[FT]</a></blockquote>
 
-<b>5. 미국, 우크라이나 평화협상서 러시아에 미국 석유 메이저 사업권 제안</b>
-<blockquote>백악관이 우크라이나 평화 협상의 일환으로 전후 러시아 내 미국 석유 메이저의 사업 재개를 제안한 것으로 나타났다. Vladimir Putin을 협상 테이블로 끌어내기 위한 경제적 유인책으로 풀이된다.
-<a href="https://www.ft.com/content/d703aaae-f607-4b30-9830-ac2a25472d44">[FT]</a></blockquote>
+<b>12. 영국 예산안, 은행 타격·소득세 동결로 온건 재정 조정</b>
+<blockquote>John Healey 재무장관이 은행세 인상과 소득세 동결 연장을 담은 예산안을 발표했다. 세금 인상과 지출 증가를 제한하며 재정 건전화를 꾀했지만, 시장은 중장기 성장 동력 부족을 우려하고 있다.
+<a href="https://www.ft.com/content/5ec57ee9-4eb9-4889-82f0-df402185b147">[FT]</a></blockquote>
 
-<b>6. Putin, 북유럽 정상과 통화서 러시아 역사 장광설...평화협상 난항</b>
-<blockquote>Vladimir Putin 러시아 대통령이 우크라이나 평화협상 재개를 모색하는 서유럽 정상들과의 통화에서 러시아 역사에 대한 장시간 강의로 일관했다. 협상 진전이 쉽지 않을 것임을 시사한다.
-<a href="https://www.ft.com/content/a384acd1-c90c-4b71-bf7d-6c6e00bf9822">[FT]</a></blockquote>
+<b>13. OBR, 영국 생활수준 10년간 정체 경고...에너지·세금 부담 증가</b>
+<blockquote>영국 재정감시기구(OBR)가 에너지 가격 상승과 세금 부담 증가로 실질 가처분소득이 이번 10년간 정체될 것이라고 전망했다. 경제 전망이 '상당히 암울하다'는 평가가 나온다.
+<a href="https://www.ft.com/content/eb7ac014-33a2-43e6-a2dd-55b141886197">[FT]</a></blockquote>
 
-<b>7. 러-우 전선 도시 Oleshky서 인도적 휴전 개시...주민 대피 목적</b>
-<blockquote>러시아와 우크라이나가 전선 도시 Oleshky에서 식량·의약품이 끊긴 주민 대피를 위한 국지 휴전에 합의했다. 장기화된 전쟁 속 인도적 조치가 이뤄진 드문 사례다.
-<a href="https://www.ft.com/content/9aedc2d9-dc92-4412-bc5a-d5ffecf4d8d9">[FT]</a></blockquote>
+<b>14. 영국 국채시장, 예산안에 안정 반응...온건 조치 호평</b>
+<blockquote>Healey 재무장관의 온건한 예산안 발표 이후 영국 국채(길트) 수익률이 예산안 발표 전 수준을 유지하며 안정세를 보였다. 시장은 세금·지출 조정 폭이 크지 않았다는 점을 긍정 평가했다.
+<a href="https://www.ft.com/content/d7788234-ffaf-49a5-9528-cff0a1685fe9">[FT]</a></blockquote>
 
-<b>8. EU, 내년 우크라이나 지원금 부족 경고...비EU 파트너 기여 급감</b>
-<blockquote>유럽연합 집행위가 2027년 우크라이나 지원 예산 중 비EU 파트너 기여분이 40억 유로에 그칠 것으로 전망했다. 올해 190억 유로에서 급감하는 수치로, 키이우에 자금 압박을 가중시킬 전망이다.
-<a href="https://www.ft.com/content/8aba217f-064f-4193-89fc-3565bd2ee910">[FT]</a></blockquote>
+<b>15. 영국, 은행·부동산·고소득층 세금 인상...성장 전망은 유보</b>
+<blockquote>영국 정부가 은행 법인세와 부동산 세금, 고소득층 소득세 동결을 연장하며 세수 확대에 나섰다. 하지만 경제 성장 전망은 여전히 불투명하며, 기업들은 투자 위축 우려를 제기하고 있다.
+<a href="https://www.ft.com/content/80acb561-34e2-4b71-b4b3-b564f3ec54ce">[FT]</a></blockquote>
 
-<b>9. Nord Stream 파괴 용의자, 우크라이나군 직속 지휘 받았다...독일 법정 증언</b>
-<blockquote>독일 함부르크 법정에서 Nord Stream 가스관 파괴 용의자 Serhii Kuznetsov가 우크라이나군 직속 지휘를 받았다는 증언이 나왔다. 유럽 에너지 인프라 공격의 국가 배후 의혹이 구체화되고 있다.
-<a href="https://www.ft.com/content/fdc70b65-af31-4697-91b3-69c6f1a1db9e">[FT]</a></blockquote>
+<b>16. 영국 재무장관, 채권시장 안정 확보...중장기 과제는 미뤄</b>
+<blockquote>John Healey 재무장관이 온건한 예산안으로 국채 투자자들을 안심시켰지만, 지출 삭감과 구조 개혁 등 중장기 재정 결정은 뒤로 미뤘다. 정치적 안정은 얻었으나 경제 전략은 여전히 불분명하다는 평가가 나온다.
+<a href="https://www.ft.com/content/165e3954-19cc-469e-9eab-1557953bbb19">[FT]</a></blockquote>
 
-<b>10. Anthropic, $63B 부채 조달로 AI 인프라 투자 최대 규모 기록</b>
-<blockquote>Anthropic이 AI 인프라 구축을 위해 630억 달러 규모의 부채를 조달했다. Broadcom CEO가 직접 협상에 나서며 역대 최대 AI 인프라 자금조달 딜이 성사됐다. 기업 AI 도입은 아직 초기 단계라는 평가다.
-<a href="https://www.wsj.com/finance/broadcom-ceo-intervened-to-seal-63-billion-anthropic-debt-deal-c807754f">[WSJ]</a> <a href="https://www.ft.com/content/d144a865-285a-490e-be11-f924ada8cbc7">[FT]</a></blockquote>
+<b>17. 영국 예산안, 국채시장 안정 속 성장·재정 딜레마 회피</b>
+<blockquote>Andy Burnham 정부가 일부 세금 인상과 지출 확대를 담은 예산안을 내놨지만, 조기 총선을 앞두고 어려운 선택은 유보했다. 채권시장의 부채 우려 속에서도 국채 금리는 안정세를 유지했다.
+<a href="https://www.wsj.com/world/uk/u-k-s-budget-ducks-hard-choices-amid-market-concerns-over-debt-5aa7d1d6">[WSJ]</a></blockquote>
 
-<b>11. Meta, Anthropic IPO와 동시에 $95B 자금조달 추진...AI 투자 경쟁 가속</b>
-<blockquote>Meta가 Anthropic의 IPO 계획과 같은 시기 950억 달러 규모 자금조달을 추진 중이다. AI 인프라 투자 경쟁이 빅테크 간 동시다발적 대규모 파이낸싱으로 이어지는 'Hotelling 효과'가 나타나고 있다.
-<a href="https://www.ft.com/content/0b7db9a1-8279-4025-8c2a-44a1010828f4">[FT]</a> <a href="https://www.ft.com/content/689a2114-57c5-4391-a335-dc97e5716610">[FT]</a></blockquote>
+<b>18. 이스라엘 선거, Netanyahu 근소 우세...연정 구성 불투명</b>
+<blockquote>이스라엘 총선 초기 개표 결과 Benjamin Netanyahu 총리의 연정과 야권 모두 과반 확보에 실패한 것으로 나타났다. 정치적 교착 상태가 재연될 가능성이 크며, 시장은 불확실성 지속을 우려하고 있다.
+<a href="https://www.wsj.com/world/middle-east/israel-braces-for-uncertainty-with-early-results-pointing-to-deadlock-ce284c9d">[WSJ]</a></blockquote>
 
-<b>12. 나스닥, Anthropic 랠리 이틀째 연장...기술주 1% 이상 상승</b>
-<blockquote>Anthropic IPO 발표 이후 기술주 강세가 이틀째 이어지며 나스닥 지수가 1% 이상 상승했다. AI 인프라 투자 열풍이 빅테크 밸류에이션 재평가로 이어지고 있다.
-<a href="https://www.wsj.com/finance/stocks/stock-futures-steady-as-anthropic-rally-stalls-israel-election-in-focus-9c4f12ad">[WSJ]</a> <a href="https://www.ft.com/content/a4f9f81e-df30-4669-9eca-865d9d14e441">[FT]</a></blockquote>
+<b>19. Netanyahu 선두...야권, 아랍 정당 제외한 유대계 연정 압박</b>
+<blockquote>Benjamin Netanyahu 총리가 조기 개표에서 선두를 유지하자 아랍 정당을 배제한 유대계 야권 연정 구성을 촉구했다. 하지만 어느 진영도 단독 과반을 확보하지 못해 연정 협상이 장기화될 전망이다.
+<a href="https://www.ft.com/content/6dab34da-a039-46e6-9547-0c7213a00001">[FT]</a></blockquote>
 
-<b>13. Teradyne 3분기 순이익 3배 급증...반도체 검사 장비 수요 호조</b>
-<blockquote>자동화 테스트 장비 업체 Teradyne의 3분기 순이익이 3억4240만 달러로 전년 동기 1억1960만 달러 대비 3배 가까이 증가했다. 반도체 검사 수요 확대가 실적을 견인했다.
-<a href="https://www.wsj.com/business/earnings/teradyne-revenue-profit-jump-on-semiconductor-test-growth-33b949a7">[WSJ]</a></blockquote>
+<b>20. 이스라엘 야권, Netanyahu 축출 실패 우려 확산</b>
+<blockquote>이스라엘 야권 인사들이 Benjamin Netanyahu 총리를 끌어내릴 역사적 기회를 놓쳤다는 자괴감을 드러냈다. 장기 집권 총리에 대한 반대 여론이 높았음에도 선거에서 결정타를 날리지 못했다는 평가가 나온다.
+<a href="https://www.ft.com/content/6a370b14-23e9-43e9-8489-2732ac5a74f3">[FT]</a></blockquote>
 
-<b>14. NXP Semiconductors, 자동차·산업용 반도체 성장에 순이익 40% 증가</b>
-<blockquote>NXP Semiconductors의 3분기 순이익이 8억8400만 달러로 전년 동기 6억3100만 달러 대비 40% 늘었다. 자동차 및 산업용 반도체 부문의 강세가 뚜렷했다.
-<a href="https://www.wsj.com/business/earnings/nxp-semiconductors-profit-jumps-on-automotive-industrial-growth-590e0491">[WSJ]</a></blockquote>
+<b>21. 이스라엘 아랍계 정당, 의석 급증으로 캐스팅보트 노려</b>
+<blockquote>이스라엘 아랍계 정당들이 팔레스타인계 유권자 투표율 급증에 힘입어 의회 의석을 대폭 늘릴 전망이다. 연정 구성에서 캐스팅보트 역할을 할 가능성이 커지며 정치 지형 변화가 예상된다.
+<a href="https://www.ft.com/content/e73bd81d-89b4-4ef4-9be0-459bcc97633b">[FT]</a></blockquote>
 
-<b>15. Seagate, AI 데이터 스토리지 수요에 순이익 급증</b>
-<blockquote>Seagate의 3분기 실적이 AI 인프라 구축에 따른 데이터 스토리지 수요 증가로 급등했다. AI 붐이 반도체뿐 아니라 저장장치 업체 실적으로도 확산되고 있다.
-<a href="https://www.wsj.com/business/earnings/seagate-posts-soaring-profit-on-continued-data-storage-demand-97d495f8">[WSJ]</a></blockquote>
+<b>22. 브라질 야권 Bolsonaro, 미국행...여권, 수사망 압박</b>
+<blockquote>브라질 대선 패배 후보이자 Jair Bolsonaro 전 대통령의 아들 Flávio Bolsonaro가 여권 무효화 조치에도 불구하고 아르헨티나를 거쳐 미국 마이애미에 도착했다. 브라질 당국의 형사 수사를 피해 사실상 망명한 것으로 보인다.
+<a href="https://www.wsj.com/world/americas/flavio-bolsonaro-fled-brazil-to-argentina-boarded-flight-to-ecuador-6a0e9da0">[WSJ]</a></blockquote>
 
-<b>16. Apple, iPhone Duo 폴더블 화면 균열 문제 인정...소수 기기 결함</b>
-<blockquote>Apple이 2000달러짜리 폴더블 스마트폰 iPhone Duo의 내부 화면 균열 문제를 공식 인정했다. '소수 기기'에 영향을 미친다고 밝혔으나 신제품 신뢰도에 타격이 우려된다.
-<a href="https://www.wsj.com/tech/personal-tech/iphone-duo-broken-hinge-screen-31b2b28a">[WSJ]</a> <a href="https://www.ft.com/content/324875fb-8631-4339-8516-6057de9ac085">[FT]</a></blockquote>
+<b>23. 브라질 야권 후보 망명, Lula 정권 압박 강화</b>
+<blockquote>브라질 대선 패배 후보가 여권 취소 조치를 무시하고 미국으로 출국하면서 Luiz Inácio Lula da Silva 정권의 야권 탄압 논란이 커지고 있다. 정치 보복 우려가 제기되며 민주주의 후퇴 경고음이 나온다.
+<a href="https://www.ft.com/content/ec7a3e3e-21e3-44de-81ee-db2f2073bee3">[FT]</a></blockquote>
 
-<b>17. General Motors, NYSE서 나스닥으로 상장 이전...AI 전략 가속화</b>
-<blockquote>General Motors가 뉴욕증권거래소에서 나스닥으로 주식 상장을 옮긴다. 기술 중심 거래소로의 이동은 AI 사업 강화 의지를 반영한 것으로 해석된다.
-<a href="https://www.wsj.com/finance/stocks/general-motors-moving-stock-listing-to-nasdaq-from-nyse-fbc36f02">[WSJ]</a> <a href="https://www.ft.com/content/01467514-66c1-4375-9906-45a47b949270">[FT]</a></blockquote>
+<b>24. 이탈리아, EU 규정 준수 2027년 예산안 통과</b>
+<blockquote>Giorgia Meloni 이탈리아 정부가 EU 재정 규정을 충족하는 €260억 규모의 세금 감면·지출 확대 예산안을 의회에서 통과시켰다. 3개 정당 연정이 재정 건전성과 경기 부양 사이에서 균형을 잡으려는 시도로 풀이된다.
+<a href="https://www.ft.com/content/4ea17c8c-ca26-40be-85d2-4d4a8e41a4bd">[FT]</a></blockquote>
 
-<b>18. 미국 소비자신뢰지수 10월 91.7 기록...전월比 개선세</b>
-<blockquote>컨퍼런스보드 발표 미국 소비자신뢰지수가 10월 91.7로 9월 84.2, 시장 예상 81을 모두 상회했다. 소비 심리 개선이 Fed 금리 결정에 영향을 줄 전망이다.
-<a href="https://www.wsj.com/economy/central-banking/u-s-consumer-confidence-improved-in-october-conference-board-says-746458b3">[WSJ]</a></blockquote>
+<b>25. 세르비아, Vučić 대통령 축출...민주주의 경고등</b>
+<blockquote>세르비아에서 Aleksandar Vučić 대통령이 선거로 축출되면서 권위주의 정권에 대한 경고 신호가 울렸다. 민주주의 지지자들에게는 고무적이지만, 발칸 지역 정치 불안정성이 커질 수 있다는 우려도 나온다.
+<a href="https://www.ft.com/content/c3272845-85cd-40ea-b945-9204ce2d6d0c">[FT]</a></blockquote>
 
-<b>19. 미국 9월 내구재 주문 63억 달러 증가...전월比 반등</b>
-<blockquote>9월 미국 내구재 주문액이 3454억 달러로 63억 달러 증가하며 8월 0.1% 증가에 이어 상승세를 이어갔다. 제조업 수요가 회복 조짐을 보이고 있다.
-<a href="https://www.wsj.com/economy/durable-goods-orders-rose-in-september-8e82e1cd">[WSJ]</a></blockquote>
+<b>26. 중국 증시 약세 지속...글로벌 랠리 속 예외</b>
+<blockquote>세계 주요 증시가 상승세를 이어가는 가운데 중국 증시만 약세를 벗어나지 못하고 있다. 경제 성장 둔화와 규제 불확실성이 투자 심리를 짓누르며, '중국이 미래를 선도한다면 왜 투자자들은 침울한가'라는 의문이 제기된다.
+<a href="https://www.economist.com/finance-and-economics/2026/10/28/chinas-stock-markets-are-the-great-global-exception">[Economist]</a></blockquote>
 
-<b>20. 미국 주택가격 8월 2.1% 상승...상승폭 확대 지속</b>
-<blockquote>S&P Case-Shiller 전국 주택가격지수가 8월 전년 동월比 2.1% 올라 7월 1.9% 상승보다 오름폭이 커졌다. 주택가격 상승세가 인플레 압력으로 작용할 가능성이 있다.
-<a href="https://www.wsj.com/economy/housing/u-s-home-price-growth-kept-climbing-in-august-d3840176">[WSJ]</a></blockquote>
+<b>27. Microsoft 분기 실적 급증...클라우드 성장 가속</b>
+<blockquote>Microsoft가 클라우드 사업 성장 가속에 힘입어 분기 순이익이 급증했다고 발표했다. 매출은 19% 증가한 $923억을 기록했으며, AI 인프라 투자 수익에 대한 투자자 우려를 완화했다.
+<a href="https://www.wsj.com/tech/microsoft-msft-q1-earnings-report-2027-stock-5809ce40">[WSJ]</a></blockquote>
 
-<b>21. 금 가격 급등세, 시장 참여자들도 이해 못해...전통 논리 무력화</b>
-<blockquote>금 가격이 기존 경제 논리로 설명되지 않는 급등세를 보이며 시장 전문가들조차 당혹감을 표시하고 있다. 전통적 안전자산 수요 이론만으로는 현 가격을 설명하기 어렵다는 분석이다.
-<a href="https://www.ft.com/content/f0d7a819-7bdf-486d-9fd1-b8cf2eeee15a">[FT]</a></blockquote>
+<b>28. Google 주가 9% 급락...AI 투자 비용 급증에 현금흐름 악화</b>
+<blockquote>Google이 AI 인프라에 $510억을 쏟아부으며 분기 순현금흐름이 -$91억을 기록하자 주가가 9% 급락했다. 검색 사업 매출도 예상을 밑돌며 투자자 신뢰가 흔들렸다.
+<a href="https://www.ft.com/content/eb386156-5bf9-4edd-80f2-803fdee1e33d">[FT]</a></blockquote>
 
-<b>22. 로펌 Weil Gotshal, 파산 전문 변호사 고용...청산 검토 본격화</b>
-<blockquote>대형 로펌 Weil Gotshal이 Davis Polk을 파산 자문사로 선임하며 청산 가능성을 검토 중이다. 주말 마라톤 파트너 회의 후 상황이 악화되면서 합병 또는 축소 운영 등 여러 옵션이 논의되고 있다.
-<a href="https://www.wsj.com/business/weil-gotshal-leaders-spent-frantic-weekend-trying-to-stabilize-law-firm-3a1f6f31">[WSJ]</a> <a href="https://www.ft.com/content/69ccfcb0-3f5e-4b77-9e04-a386e827b872">[FT]</a></blockquote>
+<b>29. Oracle, AI 투자 회수 시기 앞당겨...주가 급등</b>
+<blockquote>Oracle이 AI 데이터센터 투자로 2029년까지 잉여현금흐름 $300억 달성이 가능하다고 전망하며 추가 자금 조달 규모를 $200억으로 제한하겠다고 밝혔다. 투자자들은 AI 베팅 성과가 예상보다 빠르다는 데 환호했다.
+<a href="https://www.ft.com/content/fb08df06-da63-4e94-822d-a47b94616871">[FT]</a></blockquote>
 
-<b>23. Boeing 주가 10% 급락...737 인도 목표 하향에 생산 차질 인정</b>
-<blockquote>Boeing 주가가 10% 폭락했다. Kelly Ortberg CEO가 737 여객기 인도 목표를 낮추고 생산 일정 지연을 공식 인정하면서 투자 심리가 악화됐다.
-<a href="https://www.ft.com/content/f8c1c655-bb55-4ee1-bc8c-8315a6f6821f">[FT]</a></blockquote>
+<b>30. Peltz의 Trian, Wendy's 인수 제안...$38억 비공개화</b>
+<blockquote>행동주의 펀드 Trian Partners가 패스트푸드 체인 Wendy's에 $38억 규모 인수 제안을 했다. 지난 5년간 주가가 70% 하락한 Wendy's를 비공개 기업으로 전환해 구조조정을 추진하겠다는 계획이다.
+<a href="https://www.wsj.com/business/deals/nelson-peltzs-trian-offers-to-buy-wendys-for-1-4-billion-4c8332c1">[WSJ]</a></blockquote>
 
-<b>24. 사모펀드 보유 기업, 2028~29년 $3000억 만기 부채 벽 직면</b>
-<blockquote>사모펀드가 인수한 기업들이 2028~2029년 만기 도래하는 3000억 달러 규모의 부채에 직면했다. 소프트웨어 기업이 전체의 약 3분의 1을 차지하며 리파이낸싱 리스크가 커지고 있다.
-<a href="https://www.wsj.com/finance/investing/a-300-billion-debt-wall-is-looming-over-private-equity-backed-companies-d6359497">[WSJ]</a></blockquote>
+<b>31. GE Vernova, 송전장비 업체 $90억 인수...에너지 수요 급증 대응</b>
+<blockquote>General Electric에서 분리된 에너지 기업 GE Vernova가 고압 송전장비 제조사를 $90억에 인수한다고 발표했다. 전력망 현대화와 AI 데이터센터 전력 수요 급증에 대응하기 위한 포트폴리오 확대 전략이다.
+<a href="https://www.wsj.com/business/energy-oil/ge-vernova-to-buy-high-voltage-grid-equipment-manufacturer-for-9-billion-b29dd2ef">[WSJ]</a></blockquote>
 
-<b>25. Visa 4분기 순이익 60억 달러...결제 거래량·건수 증가 견인</b>
-<blockquote>Visa의 4분기 순이익이 60억 달러를 기록했다. 결제 거래량과 처리 건수 증가가 실적을 끌어올렸다.
-<a href="https://www.wsj.com/business/earnings/visa-reports-higher-profit-on-payment-volumes-transactions-growth-f07ed804">[WSJ]</a></blockquote>
+<b>32. 월가 명문 Weil Gotshal, 해체 결정...파트너 대거 이탈</b>
+<blockquote>월가 파산 법률 분야를 개척한 Weil Gotshal & Manges 로펌이 경영진의 해체 결정을 내렸다. 스타 변호사들의 대거 이탈과 합병 협상 실패로 선택지가 사라진 것으로 알려졌다.
+<a href="https://www.wsj.com/business/weil-gotshal-leaders-discussing-plan-to-wind-down-law-firm-09d60c10">[WSJ]</a></blockquote>
 
-<b>26. PayPal, 연간 전망 상향...턴어라운드 계획 강조</b>
-<blockquote>PayPal이 3분기 실적 호조에 힘입어 연간 전망을 상향 조정했다. 독립 법인으로서 성장 가능성을 입증하려는 경영진의 턴어라운드 계획이 주목받고 있다.
-<a href="https://www.wsj.com/business/retail/paypal-lifts-full-year-outlook-ceo-stresses-turnaround-plan-15cd0e2e">[WSJ]</a></blockquote>
+<b>33. Weil Gotshal 해체, 백년 명문 로펌의 몰락</b>
+<blockquote>미국 최대·최고 로펌 중 하나였던 Weil Gotshal & Manges의 경영진이 파트너들에게 로펌 해체를 권고했다. 스타 변호사 영입 경쟁과 업계 변화 속에서 파산 법률 시장 지배력을 잃으며 사실상 붕괴했다.
+<a href="https://www.ft.com/content/0476f216-0060-475c-962f-61d73d7d660b">[FT]</a></blockquote>
 
-<b>27. Coca-Cola, 판매량·가격 상승에 연간 전망 상향</b>
-<blockquote>Coca-Cola가 3분기 판매량과 가격 상승에 힘입어 실적이 개선되자 연간 전망을 상향 조정했다. 글로벌 음료 수요가 견조함을 확인시켰다.
-<a href="https://www.wsj.com/business/earnings/coca-cola-raises-outlook-as-increased-volumes-prices-boost-results-323f3710">[WSJ]</a></blockquote>
+<b>34. FedEx 실적 전망 상향...운임·물동량 증가</b>
+<blockquote>FedEx가 운송 운임과 물동량 증가에 힘입어 2027 회계연도 매출 성장 전망을 12%로 상향 조정했다. 글로벌 물류 수요 회복이 가시화되며 배송 업계 전반의 긍정적 신호로 받아들여진다.
+<a href="https://www.wsj.com/business/earnings/fedex-lifts-outlook-as-shipping-rates-volumes-drive-revenue-growth-a52e0668">[WSJ]</a></blockquote>
 
-<b>28. Royal Caribbean 3분기 순이익 17억 달러...연간 전망 상향</b>
-<blockquote>Royal Caribbean의 3분기 순이익이 17억3000만 달러(주당 6.45달러)로 전년 동기 15억8000만 달러(주당 5.74달러)를 웃돌았다. 크루즈 수요 회복세가 지속되며 연간 가이던스를 높였다.
-<a href="https://www.wsj.com/business/earnings/royal-caribbean-lifts-full-year-forecast-after-posting-higher-quarterly-profit-cf18ff38">[WSJ]</a></blockquote>
+<b>35. Airbus 분기 실적 감소...항공기 인도 지연</b>
+<blockquote>세계 최대 항공기 제조사 Airbus가 생산 차질로 분기 실적이 감소했다고 발표했다. 하지만 연간 870대 인도 목표는 유지하며 공급망 정상화에 대한 자신감을 나타냈다.
+<a href="https://www.ft.com/content/9aaeaa0c-3846-4eef-9356-6261f6543075">[FT]</a></blockquote>
 
-<b>29. 브라질 Bolsonaro, 여권 압수 명령 받아...대선 패배 후 수사 압박</b>
-<blockquote>브라질 법원이 Flávio Bolsonaro 전 대통령 후보의 여권을 압수했다. 자금세탁 의혹 수사를 거부한 데 따른 조치로, 대선 패배 후 정치적 입지가 더욱 좁아지고 있다.
-<a href="https://www.wsj.com/world/americas/brazil-cancels-bolsonaros-passports-as-questions-swirl-about-his-location-9e8561fe">[WSJ]</a> <a href="https://www.ft.com/content/f294230a-0956-4c8c-9bb5-4dd5b6e7438a">[FT]</a></blockquote>
+<b>36. UBS CEO, 자본규제 압박에 스위스 철수 시사</b>
+<blockquote>UBS CEO가 스위스 의회의 자회사 자본 규제 강화 요구에 반발하며 본사 이전 가능성을 언급했다. 스위스 정치권과 UBS 간 갈등이 고조되며 금융 허브 지위에 금이 갈 수 있다는 우려가 나온다.
+<a href="https://www.wsj.com/finance/banking/ubs-profit-climbs-as-wealth-management-inflows-increase-868e9b5f">[WSJ]</a></blockquote>
 
-<b>30. 중국 경제성장률 공식 통계에 회의론 확산...실제 성장 의문</b>
-<blockquote>중국 정부가 올해 견조한 경제성장률을 발표했으나 점점 더 많은 경제학자들이 공식 수치의 정확성에 의문을 제기하고 있다. 실물 지표와 괴리가 크다는 지적이다.
-<a href="https://www.wsj.com/economy/china-claims-strong-economic-growth-but-skeptics-question-official-figures-22e583db">[WSJ]</a></blockquote>
+<b>37. Carvana 분기 순이익 급증...차량 판매 40% 증가</b>
+<blockquote>온라인 중고차 유통업체 Carvana가 차량 판매 급증에 힘입어 3분기 순이익 $2.89억을 기록했다. 전년 동기 $1.51억 대비 91% 증가하며 온라인 중고차 시장 회복세를 확인시켰다.
+<a href="https://www.wsj.com/business/earnings/carvana-profit-soars-as-vehicle-sales-climb-nearly-40-8e0355ab">[WSJ]</a></blockquote>
 
-<b>31. 김정은, 전격 중국 방문...옛 우방과 관계 재구축</b>
-<blockquote>북한 김정은 국무위원장이 중국을 전격 방문했다. 오랜 우방국과의 관계를 재건하려는 움직임으로 풀이된다.
-<a href="https://www.economist.com/china/2026/10/27/kim-jong-uns-curious-visit-to-china">[Economist]</a></blockquote>
+<b>38. eBay 매출 증가...수집품·라이브 쇼핑 강세</b>
+<blockquote>eBay가 수집품과 라이브 쇼핑 부문 호조로 분기 매출이 증가했다고 발표했다. Jamie Iannone CEO는 주요 카테고리 전반에서 모멘텀이 확대되고 있으며, 수집품이 여전히 최대 성장 동력이라고 밝혔다.
+<a href="https://www.wsj.com/business/retail/ebay-sales-rise-on-strength-in-collectibles-live-shopping-77cd8df4">[WSJ]</a></blockquote>
 
-<b>32. 영국 Burnham 정부 첫 예산안 앞두고 재정 규율 주목</b>
-<blockquote>Andy Burnham 정부의 첫 예산안 발표를 앞두고 재정 긴축 의지가 초점이다. 은행세 인상, 도박세 증가, 재산세 개편 등이 검토되고 있으며 경제학자들은 세입 확대뿐 아니라 지출 절제도 필요하다고 경고했다.
-<a href="https://www.wsj.com/economy/central-banking/u-k-fiscal-discipline-in-focus-ahead-of-burnham-governments-first-budget-5fa7e2a9">[WSJ]</a> <a href="https://www.ft.com/content/f116a855-61cc-4e36-9f9b-c2ff168b6605">[FT]</a></blockquote>
+<b>39. Campari, 아페리티프·데킬라 강세...미국 시장은 부진</b>
+<blockquote>이탈리아 주류 그룹 Davide Campari-Milano가 소수 핵심 브랜드 집중 전략으로 매출이 증가했다고 밝혔다. 하지만 미국 시장의 주류 소비 약세는 여전히 지속되고 있다고 경고했다.
+<a href="https://www.wsj.com/business/earnings/campari-says-aperitifs-tequila-are-driving-sales-but-u-s-drinking-trends-remain-weak-48828379">[WSJ]</a></blockquote>
 
-<b>33. 영국 정부, 20여 개 도로 건설 계획 조용히 취소...재정 절감 우선</b>
-<blockquote>영국 정부가 20여 개 이상의 신규 도로 건설 계획을 조용히 취소했다. 비용 절감 조치지만 Andy Burnham이 내세운 지역 성장 공약과 모순된다는 지적이 나온다.
-<a href="https://www.ft.com/content/92780ba3-5201-4002-abca-3ee1a053eb30">[FT]</a></blockquote>
+<b>40. Danone 매출 증가...북미 시장 회복 본격화</b>
+<blockquote>프랑스 식품 대기업 Danone이 3분기 전체 매출 4% 증가에 북미 사업부가 2.4% 성장하며 터닝포인트를 맞았다고 발표했다. 북미 시장 구조조정이 성과를 내기 시작했다는 평가다.
+<a href="https://www.wsj.com/business/danone-sales-grow-amid-north-america-turnaround-001565d9">[WSJ]</a></blockquote>
 
-<b>34. EU-미국, Airbus 대출 놓고 무역 마찰 재점화 조짐</b>
-<blockquote>유럽투자은행의 Airbus 대출이 미국-EU 항공기 무역 합의를 위반할 수 있다고 Jamieson Greer Trump 행정부 무역 담당자가 경고했다. 대서양 양안 무역 긴장이 다시 고조될 가능성이 있다.
-<a href="https://www.ft.com/content/f989f4aa-a986-4ced-ba51-fa85f396f06d">[FT]</a></blockquote>
+<b>41. GSK 주가 하락...중국 대상포진 백신 수요 급감</b>
+<blockquote>영국 제약사 GSK가 중국의 대상포진 백신 수요 급감으로 매출이 예상을 밑돌자 주가가 하락했다. FTSE 100 지수 구성 종목인 GSK는 백신 사업 둔화가 실적을 압박하고 있다고 밝혔다.
+<a href="https://www.ft.com/content/a9c75c2d-9267-4098-83b2-2d03f67eaacb">[FT]</a></blockquote>
 
-<b>35. 러시아 디젤 탱커 3척, 미국 향해 출항...제재 대상 선박 포함</b>
-<blockquote>러시아 디젤 유조선 3척이 미국으로 향하고 있으며 이 중 2척은 제재 대상이다. Trump 대통령의 Putin과의 유가 인하 협상이 배경이지만 의회의 법적 압박 가능성이 제기된다.
-<a href="https://www.ft.com/content/d847744f-cfa5-4dc5-bdd2-faeee0b584f7">[FT]</a></blockquote>
+<b>42. 스페인 고속열차 충돌 68명 사망...인프라 안전 도마 위</b>
+<blockquote>스페인 톨레도 인근에서 고속열차 2대가 충돌해 최소 68명이 사망했다. 올해 1월 안달루시아 열차 사고(46명 사망)에 이은 대형 참사로, 같은 노선에서 두 번째 충돌 사고가 발생하면서 인프라 안전성이 재조명되고 있다.
+<a href="https://www.ft.com/content/3500a00d-d676-4460-83f8-8ea2bfce1049">[FT]</a></blockquote>
 
-<b>36. 미국 방산 스타트업 Odin Energetics, 드론용 폭약 자체 생산 나서</b>
-<blockquote>Peter Thiel 지원을 받는 신생 업체 Odin Energetics가 미국산 드론용 폭약 생산에 나섰다. 2차 세계대전 이후 쇠퇴한 미국 폭발물 공급망을 재건하려는 시도다.
-<a href="https://www.wsj.com/politics/national-security/america-needs-explosives-for-its-drones-this-startup-is-making-them-7f9d77f8">[WSJ]</a></blockquote>
+<b>43. 독일 소비자 심리 소폭 악화...인플레이션 우려 지속</b>
+<blockquote>독일의 11월 소비자 기후지수가 -30.8로 10월 -30.6에서 하락했다. 인플레이션 우려가 여전히 소비 심리를 짓누르며 경기 회복 속도가 더딜 것이라는 전망이 나온다.
+<a href="https://www.wsj.com/economy/consumers/german-consumers-grow-slightly-gloomier-on-lingering-inflation-concerns-a15a9232">[WSJ]</a></blockquote>
 
-<b>37. Palmer Luckey, Qualcomm과 손잡고 미국산 군용 노트북 생산</b>
-<blockquote>Anduril과 Qualcomm이 합작해 군용 및 정부용 견고형 노트북을 미국에서 생산한다. 국방 공급망의 국산화 전략이 가속화되고 있다.
-<a href="https://www.wsj.com/tech/palmer-luckeys-new-weapon-the-american-made-laptop-5e17c6f0">[WSJ]</a></blockquote>
-
-<b>38. 호주, 데이터센터·항공우주 산업 육성에 연 7.7% 수익률 기록</b>
-<blockquote>호주 노동당 정부의 국가재건기금이 2년 차 7.7% 수익률을 기록하며 데이터센터, 항공우주 등 신산업 육성 전략이 성과를 내고 있다.
-<a href="https://www.ft.com/content/49bb03a5-e9f5-45bf-8c2c-b02d3fcfa712">[FT]</a></blockquote>
-
-<b>39. 엘리트 컨설팅사, 2022년 이후 처음 초봉 인상</b>
-<blockquote>McKinsey, BCG, Bain 등 엘리트 컨설팅 기업들이 2022년 이후 처음으로 신입 연봉을 올렸다. 채용 시장이 다시 뜨거워지면서 인재 확보 경쟁이 격화되고 있다.
-<a href="https://www.ft.com/content/dcfaf62f-497d-4db0-bb2d-a55e0b749750">[FT]</a></blockquote>
-
-<b>40. EY 영국 파트너 평균 보수 기록적 87만 파운드...구조조정 속 양극화</b>
-<blockquote>EY 영국 법인이 파트너를 감축하고 승진자를 줄이는 가운데 파트너 평균 보수를 87만 파운드로 끌어올렸다. 컨설팅 업황 부진 속 상위 계층 보수 보호 전략이 뚜렷하다.
-<a href="https://www.ft.com/content/5d818f91-72af-4970-964b-3a29f9cd551a">[FT]</a></blockquote>
-
-<b>41. 중국 Pop Mart, Labubu 열풍 식으며 분기 매출 최대 50% 급감</b>
-<blockquote>중국 인형 제조사 Pop Mart의 분기 매출이 최대 50% 감소했다. 히트 상품 Labubu에 대한 수요가 급격히 식으며 소비 둔화가 완구 시장까지 확산되고 있다.
-<a href="https://www.ft.com/content/0025f8af-d34a-4170-bbae-31dce32e45c6">[FT]</a></blockquote>
-
-<b>42. Mbappé, 마오쩌둥 밈 논란에 중국 사과...스폰서 계약 취소됐다</b>
-<blockquote>레알 마드리드 선수 Kylian Mbappé가 자신의 얼굴이 합성된 마오쩌둥 이미지를 보고 웃으며 '독재자'라고 언급한 것이 중국 온라인에서 논란이 되자 사과했다. 중국 스폰서들은 이미 계약을 취소한 상태다.
-<a href="https://www.ft.com/content/ff1cb60c-3c35-4109-aaa5-33c86a5884f5">[FT]</a></blockquote>
+<b>44. 로펌 Sidley Austin, 은행가 영입해 구조조정 부문 이끌어...월가 이례적</b>
+<blockquote>로펌 Sidley Austin이 구조조정 전문 은행가 William Evarts를 영입해 관련 부문을 이끌게 했다. 은행가가 로펌의 전문 분야를 직접 이끄는 것은 월가에서도 드문 사례로, 법률업계 인재 지형 변화를 보여준다.
+<a href="https://www.ft.com/content/84da55e7-f544-4c80-81fc-02fa166454fa">[FT]</a></blockquote>
 
 ━━━━━━━━━━━━━━━━━━━━
 📡 <b>출처: WSJ · FT · The Economist</b>
