@@ -4,105 +4,197 @@
 
 ✅ <b>간밤의 주요 헤드라인</b>
 
-<b>1. 미국 3분기 GDP 3.4% 성장...PCE 인플레 가속, 실업수당 청구 감소</b>
-<blockquote>미국 경제가 3분기 3.4% 성장하며 예상치를 상회했다. 기업 투자 급증과 견조한 소비 지출이 견인했으며, 9월 PCE 인플레이션은 가속했다. 실업수당 청구 건수는 주간 19만4000건으로 1000건 감소했다. 한편 국가부채 비율은 회계연도 말 기준 GDP 대비 100%를 기록, 1946년 이후 최고치를 기록했다.
-<a href="https://www.ft.com/content/f2de9f3c-3290-4e87-bbc2-55430025f2ab">[FT]</a> <a href="https://www.wsj.com/economy/us-gdp-report-q3-2026-87eb755d">[WSJ]</a> <a href="https://www.wsj.com/economy/central-banking/pce-inflation-accelerated-last-month-5f72a43f">[WSJ]</a> <a href="https://www.wsj.com/economy/jobs/u-s-jobless-claims-unexpectedly-edge-lower-0aee8b41">[WSJ]</a> <a href="https://www.wsj.com/economy/federal-debt-hits-100-of-gdp-585d3cb0">[WSJ]</a></blockquote>
+<b>1. Amazon·Intel 실적 실망에 미 증시 급락...AI 투자 수익성 의문 확산</b>
+<blockquote>Amazon과 Intel의 부진한 실적이 AI 관련 투자 수익성에 대한 우려를 증폭시키며 미국 증시가 급락했다. 기술주 중심의 매도세가 자체 동력을 얻으며 투자자들은 기술주 조정이 투기 붕괴로 이어질 수 있다는 우려를 키우고 있다.
+<a href="https://www.wsj.com/finance/stocks/u-s-stocks-slide-as-amazon-intel-earnings-spark-more-ai-selling-5670f50d">[WSJ]</a></blockquote>
 
-<b>2. Alphabet 시가총액 $500bn 증발...Intel 20% 폭락, Amazon도 실망</b>
-<blockquote>Google 모회사 Alphabet이 AI 검색 모드 도입 이후 기존 검색 매출 타격을 인정하며 실적 부진으로 시총 5000억 달러가 증발했다. Intel은 PC 시장 전망 악화로 주가가 20% 급락했고, Amazon은 3분기 순이익 200억 달러를 기록했지만 잉여현금흐름 급감과 크리스마스 시즌 매출 가이던스 하향으로 주가가 하락했다. AI 인프라 투자 대비 수익화 의문이 부각되며 나스닥 지수가 1.4% 하락했다.
-<a href="https://www.ft.com/content/eb386156-5bf9-4edd-80f2-803fdee1e33d">[FT]</a> <a href="https://www.wsj.com/tech/ai/alphabet-sheds-half-a-trillion-in-market-value-in-stocks-worst-day-ever-bde7bb6e">[WSJ]</a> <a href="https://www.ft.com/content/d7540e89-08db-43d3-92e0-3c15dd3a60cb">[FT]</a> <a href="https://www.wsj.com/business/earnings/intel-shares-tumble-on-lower-profit-weak-guidance-a2bdcdd8">[WSJ]</a> <a href="https://www.ft.com/content/8affd8dd-b783-48c8-86e2-ac4a647fa0f3">[FT]</a> <a href="https://www.wsj.com/tech/amazon-amzn-q3-earnings-report-2026-stock-a0b92f17">[WSJ]</a> <a href="https://www.wsj.com/cio-journal/ai-is-almost-the-easy-part-everything-else-is-hard-556c9204">[WSJ]</a></blockquote>
+<b>2. Anthropic, IPO 후 투자등급 받지 못할 전망...AI 기업 밸류에이션 논란</b>
+<blockquote>사모펀드 운용사 Blackstone은 AI 스타트업 Anthropic이 IPO 이후 투자등급을 받지 못하고 높은 수준의 정크 등급을 받을 것으로 전망했다. 이는 기존 가이던스에서 후퇴한 것으로 AI 기업 차입 붐에 대한 우려를 더하고 있다.
+<a href="https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f">[FT]</a></blockquote>
 
-<b>3. 미국-이란 대화 모색에 유가 하락...중동 리스크는 여전</b>
-<blockquote>미국이 이란 강경파와 협상 재개를 모색한다는 소식에 WTI 유가가 하락했다. Brad Cooper 제독이 백악관에서 Trump 대통령에게 이란 군사 옵션을 브리핑했으나, 외교적 해법 모색이 우선시되는 모습이다. Chevron은 글로벌 분쟁으로 에너지 공급 차질이 이어지는 가운데 원유·가스 탐사를 확대하고 있으며, ExxonMobil CEO는 보안 우려로 아부다비 에너지 컨퍼런스 참석을 취소했다. 한편 Shell 등 유럽 석유 메이저들은 이란 전쟁으로 인한 실적 호조를 배경으로 자사주 매입을 확대했다.
-<a href="https://www.wsj.com/finance/commodities-futures/oil-falls-as-traders-weigh-middle-east-risks-f814aedd">[WSJ]</a> <a href="https://www.wsj.com/business/energy-oil/oil-prices-fall-as-traders-assess-u-s-iran-diplomacy-afe80fa9">[WSJ]</a> <a href="https://www.wsj.com/politics/national-security/top-admiral-briefs-trump-on-iran-attack-options-5bd6f13c">[WSJ]</a> <a href="https://www.ft.com/content/288ccf9d-6456-4bed-85c0-e7216bb31c66">[FT]</a> <a href="https://www.wsj.com/business/energy-oil/chevron-is-back-to-searching-for-oil-and-gas-in-far-flung-places-85082fbf">[WSJ]</a> <a href="https://www.ft.com/content/5ded8d57-46f5-406c-a4ce-e58415b8d4ad">[FT]</a> <a href="https://www.wsj.com/business/earnings/air-canada-expects-high-fuel-costs-to-eat-further-into-profit-41aeac3e">[WSJ]</a></blockquote>
+<b>3. AI 매도세에 나스닥 1년래 최악의 달...기술주 조정 심화</b>
+<blockquote>Intel이 사상 최악의 일일 낙폭을 기록하며 투자자들의 불안이 최고조에 달했다. AI 투자에 대한 의문이 커지면서 나스닥은 1년 이상 만에 최악의 월간 성적을 기록할 전망이다.
+<a href="https://www.wsj.com/finance/stocks/the-week-the-cracks-in-the-ai-trade-grew-deeper-9e25b20f">[WSJ]</a></blockquote>
 
-<b>4. Christine Lagarde ECB 총재 2월 조기 사임...후임 경쟁 본격화</b>
-<blockquote>ECB 총재 Christine Lagarde가 2월 조기 사임을 발표했다. ECB는 금리를 2.5%로 동결했으며, 프랑스 채권시장 혼란과 에너지 가격 급등 속에 후임 총재는 어려운 과제를 물려받게 됐다. Pablo Hernández de Cos와 Klaas Knot가 유력 후보로 거론되며, 유럽 주요국들은 후임 선정을 둘러싼 경쟁을 시작했다.
-<a href="https://www.wsj.com/world/europe/christine-lagarde-to-resign-early-as-ecb-president-2ad844e6">[WSJ]</a> <a href="https://www.ft.com/content/b9294b91-0eee-413b-bdde-0569f48539b9">[FT]</a> <a href="https://www.ft.com/content/c7c8c7b4-eab7-4ffc-a6bf-f4f79358aa00">[FT]</a> <a href="https://www.wsj.com/economy/central-banking/ecb-leaves-rates-unchanged-as-challenges-mount-for-lagardes-successor-153e78eb">[WSJ]</a> <a href="https://www.economist.com/finance-and-economics/2026/10/29/christine-lagarde-departs-at-a-moment-of-peril">[Economist]</a></blockquote>
+<b>4. 기술주 매도세에 국채 수익률 급락...안전자산 선호 강화</b>
+<blockquote>Amazon과 Intel의 실적 부진으로 AI 투자에 대한 우려가 심화되면서 기술주 매도세가 확대됐다. 투자자들이 안전자산으로 이동하며 국채 수요가 증가했다.
+<a href="https://www.wsj.com/finance/stocks/ai-selloff-deepens-oil-jumps-and-crypto-falls-4703d21b">[WSJ]</a></blockquote>
 
-<b>5. 영국 예산 신뢰성 논란...Burnham·Healey 갈등, Poundland 위기</b>
-<blockquote>John Healey 국방장관이 Andy Burnham 총리의 복지 지출 계획을 공개적으로 반박하며 영국 정부 내 갈등이 불거졌다. Healey는 영국이 자신의 생전에 EU 재가입하지 않을 것이라 발언하며 Burnham을 견제했다. 경제학자들은 Healey의 적자 감축 공약이 공공서비스 압박과 가계 부담을 감안할 때 신뢰성이 떨어진다고 지적했다. 한편 Burnham 총리는 할인점 체인 Poundland의 미국 모회사가 회사를 파산 절차로 몰아가는 것에 대해 설명을 요구했다.
-<a href="https://www.ft.com/content/24a59c81-1e3d-4ff1-8856-2812f27985c3">[FT]</a> <a href="https://www.ft.com/content/9ae4ef59-dec4-4f2f-b4dd-bd5b55501e26">[FT]</a> <a href="https://www.ft.com/content/4cdfc27f-8780-475f-9eec-01086733c140">[FT]</a></blockquote>
+<b>5. Anthropic 8월 자체 밸류에이션 $1.2조 책정...AI 버블 우려 증폭</b>
+<blockquote>AI 스타트업 Anthropic이 8월 자체 밸류에이션을 $1.2조로 책정한 것으로 알려지며 AI 버블 논란이 재점화됐다. 이는 실제 수익성에 대한 의문과 함께 과도한 밸류에이션 우려를 키우고 있다.
+<a href="https://www.ft.com/content/60fb40ed-f1bf-416e-982b-1b9b80582ab4">[FT]</a></blockquote>
 
-<b>6. 아일랜드 경제 급성장 지속...유로존 신뢰는 하락</b>
-<blockquote>아일랜드 경제가 3분기에도 급성장하며 유로존 전체 확장 기대를 높였다. 반면 유로존 전체 경제 신뢰도는 10월에도 하락세를 이어갔으며, 중동 분쟁으로 에너지 가격이 높은 수준을 유지하면서 소비자와 기업에 압박이 가중되고 있다.
-<a href="https://www.wsj.com/economy/global/irish-economy-surges-again-in-boost-to-eurozone-58395075">[WSJ]</a> <a href="https://www.wsj.com/economy/central-banking/eurozone-economic-sentiment-fell-again-in-october-15d9c0c6">[WSJ]</a></blockquote>
+<b>6. AI 투자 우려에 미 기술주 급락...차입 붐 지속 가능성 의문</b>
+<blockquote>AI 지출에 대한 우려가 심화되면서 미국 기술주가 급락했다. Anthropic이 IPO 후 정크 등급을 받을 수 있다는 소식이 업계 전반의 대규모 차입에 대한 우려를 더하고 있다.
+<a href="https://www.ft.com/content/3ba953ae-84bb-4de4-959e-baec3e908fb3">[FT]</a></blockquote>
 
-<b>7. Binance $1.7bn 해킹 피해 가능성...Polymarket도 유출 사고</b>
-<blockquote>Binance 창립자 Changpeng Zhao가 거래소가 역대 최대 규모 암호화폐 해킹 피해를 입었을 가능성을 시사했다. 해커들이 최소 17억 달러 이상을 탈취한 것으로 추정되며, 사용자 자금은 안전하다고 밝혔다. 예측시장 플랫폼 Polymarket도 일부 사용자 계정에서 자금이 유출되는 보안 사고를 겪었으며, 피해자에게 전액 보상하겠다고 밝혔다.
-<a href="https://www.wsj.com/finance/currencies/binance-founder-says-exchange-may-be-victim-of-biggest-ever-crypto-heist-24a82e5f">[WSJ]</a> <a href="https://www.wsj.com/business/polymarket-pauses-trading-after-some-users-report-funds-drained-b014527d">[WSJ]</a></blockquote>
+<b>7. 10월 글로벌 채권 수익률 급락...안전자산 수요 강화</b>
+<blockquote>안전자산 선호 심리가 강화되며 10월 글로벌 채권 수익률이 급락세를 보였다. 시장은 미 재무부의 단기 차입 증가에 대비하면서도 국채 수요가 부활하는 모습을 보였다.
+<a href="https://www.wsj.com/finance/stocks/u-s-treasury-yields-fall-to-multiweek-lows-in-asian-trade-d355dffd">[WSJ]</a></blockquote>
 
-<b>8. DoorDash, Instacart를 $17bn에 인수...미국 온라인 식품 배달 통합</b>
-<blockquote>DoorDash가 Instacart를 주당 $65, 총 170억 달러에 인수한다고 발표했다. 합병 후 회사는 Walmart와 동일한 미국 온라인 식료품 시장 점유율을 확보하게 되며, 치열한 경쟁이 이어지는 미국 음식 배달 시장이 한층 더 통합되는 계기가 될 전망이다.
-<a href="https://www.ft.com/content/13c96ad2-6aee-4c28-9f3c-d2ad9ca1c3d0">[FT]</a> <a href="https://www.ft.com/content/d84d7db1-d18d-49ce-9f60-e42c07a3d67a">[FT]</a> <a href="https://www.wsj.com/business/deals/doordash-to-buy-instacart-for-17-billion-7d6a6f3f">[WSJ]</a></blockquote>
+<b>8. 헤지펀드 Arini, 손실 심화로 $800m 부채 매각</b>
+<blockquote>대담한 베팅으로 알려진 Hamza Lemssouguer의 헤지펀드 Arini가 여러 투자 자산 급락 후 마진콜을 받으며 $800m 규모의 부채를 매각했다. 펀드 손실이 심화되고 있는 것으로 나타났다.
+<a href="https://www.wsj.com/finance/investing/hedge-fund-arini-offloads-800-million-in-debt-as-losses-deepen-2d24626c">[WSJ]</a></blockquote>
 
-<b>9. Josh Kushner의 Thrive, 홈 시큐리티 업체 ADT를 $7.6bn에 인수</b>
-<blockquote>Josh Kushner가 이끄는 Thrive와 OpenAI 지원 투자그룹이 미국 홈 시큐리티 업체 ADT를 주당 $10, 총 76억 달러에 인수하기로 합의했다. 이는 전일 종가 대비 35% 프리미엄이며, Thrive는 ADT를 홈 시큐리티 사업의 기반으로 삼을 계획이다.
-<a href="https://www.ft.com/content/f88e30a0-1252-4695-97b0-03da22e5fd42">[FT]</a> <a href="https://www.wsj.com/business/deals/josh-kushners-thrive-to-buy-adt-for-7-6-billion-55403c7a">[WSJ]</a></blockquote>
+<b>9. 스위스 Partners, 사모펀드 인출 한도 절반으로 축소 계획</b>
+<blockquote>스위스 자산운용사 Partners가 고객들의 자금 인출이 늘어나며 압박을 받고 있다. 최대 규모 미국 및 유럽 사모펀드의 인출 한도를 절반으로 줄일 계획이다.
+<a href="https://www.ft.com/content/e42fabdb-2fa1-47ef-a014-9873639c40ae">[FT]</a></blockquote>
 
-<b>10. 미국 중간선거 D-4...알래스카·텍사스 상원 경합 치열</b>
-<blockquote>미국 중간선거를 나흘 앞두고 상원 과반 확보를 위한 경합이 치열해지고 있다. 알래스카에서는 민주당 후보와 같은 이름의 공화당 후보가 출마하면서 선거 조작 의혹이 불거졌고, Trump 대통령은 민주당 Mary Peltola 후보를 형사 기소하고 후보 자격을 박탈하라고 요구했다. 법무부는 관련 수사를 확대하고 새로운 소환장을 발부했다. 텍사스에서도 부패와 에너지 이슈가 쟁점으로 떠오르며 상원 경합이 격화되고 있다.
-<a href="https://www.ft.com/content/4894285b-40dc-4a8d-a685-2696f3292bc9">[FT]</a> <a href="https://www.wsj.com/politics/policy/justice-department-sends-new-subpoenas-in-alaska-election-probe-47efebc9">[WSJ]</a> <a href="https://www.wsj.com/politics/elections/trump-calls-for-alaska-democratic-senate-candidate-to-be-prosecuted-aec2c451">[WSJ]</a> <a href="https://www.wsj.com/podcasts/opinion-potomac-watch/the-key-senate-races-to-watch-on-election-night/584650FF-E02A-445E-B836-0F69EB4A7E06">[WSJ]</a> <a href="https://www.economist.com/united-states/2026/10/29/democrats-are-rediscovering-what-an-appealing-politics-of-progress-looks-like">[Economist]</a> <a href="https://www.economist.com/united-states/2026/10/29/the-midterms-could-reshape-american-politics-far-beyond-congress">[Economist]</a> <a href="https://www.ft.com/content/1407fb94-ceee-4c7f-bd1d-268f4aa61b20">[FT]</a> <a href="https://www.ft.com/content/2cd96df5-1725-4438-bd86-2b5c97f0f9e7">[FT]</a> <a href="https://www.wsj.com/politics/policy/alaska-senate-bombshell-lays-bare-the-shadowy-plots-in-politics-98e92720">[WSJ]</a></blockquote>
+<b>10. 북한 해커, Binance서 $6.3bn 탈취...30분 만에 사상 최대 암호화폐 해킹</b>
+<blockquote>북한 해커들이 세계 최대 암호화폐 거래소 Binance를 공격해 30분 만에 $6.3bn을 탈취했다. 이는 암호화폐 도난 사상 최대 규모로 디지털 자산 보안에 대한 우려를 증폭시키고 있다.
+<a href="https://www.ft.com/content/e84eceda-040b-4e5f-b906-09768085933a">[FT]</a></blockquote>
 
-<b>11. 이스라엘 총선 결과...Netanyahu, 외국 개입 주장하며 아랍계 정당 부상</b>
-<blockquote>이스라엘 총선에서 아랍계 정당이 6석 중 1석을 차지하며 핵심 캐스팅보트로 떠올랐다. Netanyahu 총리는 팔레스타인계 이스라엘 시민들의 높은 투표율로 과반 확보에 실패하자 외국 세력의 선거 개입 의혹을 제기했으며, 보안당국이 조사에 착수했다. Netanyahu는 아랍계 정당과의 연정을 거부하고 있어 정국 불확실성이 지속될 전망이다.
-<a href="https://www.ft.com/content/f66a684c-4073-4cf8-b5b8-8851c72e8bc0">[FT]</a> <a href="https://www.wsj.com/world/middle-east/israels-arabs-emerge-as-key-political-powerhouse-2fd6c12c">[WSJ]</a> <a href="https://www.economist.com/middle-east-and-africa/2026/10/29/binyamin-netanyahu-has-not-won-but-nor-has-he-lost">[Economist]</a></blockquote>
+<b>11. Binance, $6.3bn 해킹 후 고객 자금 회수 총력...엔지니어 노트북 해킹 경로</b>
+<blockquote>세계 최대 암호화폐 거래소 Binance가 $6.3bn 규모의 해킹 이후 고객 자금 회수에 총력을 기울이고 있다. 거래소는 엔지니어의 노트북이 해킹되는 중대 보안 사고가 발생했다고 밝혔다.
+<a href="https://www.ft.com/content/c7f5e395-c3a9-430e-b757-5014527b4d49">[FT]</a></blockquote>
 
-<b>12. 베네수엘라 야당 지도자 María Corina Machado 귀국...Trump 지지 표명</b>
-<blockquote>베네수엘라 야당 지도자 María Corina Machado가 망명에서 돌아와 Trump 대통령과 국무장관을 칭찬하며 미국의 선거 일정 제시를 환영했다. 임시 대통령 Rodríguez와 Machado는 각각 경쟁적인 비전을 제시하며 차기 선거를 앞둔 권력 투쟁의 서막을 열었다.
-<a href="https://www.wsj.com/world/americas/machados-return-offers-a-preview-of-venezuelas-next-electionwhenever-it-comes-2263ecb4">[WSJ]</a> <a href="https://www.ft.com/content/bc97b73d-2a7f-4873-b955-441abdf8f4a9">[FT]</a></blockquote>
+<b>12. Binance 해킹, 표준 크립토 도난 수법 우회...기술 분석 주목</b>
+<blockquote>$6.3bn 규모의 Binance 해킹 사건 분석 결과, 해커들이 암호화폐 도난에 사용되는 표준 방법을 우회한 것으로 나타났다. 보안 전문가들은 새로운 해킹 기법에 주목하고 있다.
+<a href="https://www.ft.com/content/58fee10f-8a99-4e8b-835d-ddba5e434ce3">[FT]</a></blockquote>
 
-<b>13. 시진핑, 군 숙청 주도한 Zhang Shengmin 장군 정치국 승진</b>
-<blockquote>중국 공산당이 Zhang Shengmin 장군을 정치국에 임명했다. Zhang은 군부 내 부패 척결과 기강 확립을 주도한 인물로, 시진핑 주석의 군부 장악 강화 의지를 보여주는 인사로 평가된다. 한편 중국 정부는 도시 순위 발표를 중단하도록 지시했으며, 교통 인프라 투자가 정점에 달한 것으로 나타났다. BYD의 해외 수출 급증은 중국 내수 시장 둔화를 일부 상쇄하고 있다.
-<a href="https://www.ft.com/content/995c849c-b4db-4e24-964c-b269a3aeb741">[FT]</a> <a href="https://www.economist.com/china/2026/10/29/china-loves-to-rank-its-cities-the-government-wants-it-to-stop">[Economist]</a> <a href="https://www.economist.com/china/2026/10/29/chinas-investment-in-transport-infrastructure-has-peaked">[Economist]</a> <a href="https://www.ft.com/content/9b19295f-a16a-4bc2-8f1a-5ab6d075b8af">[FT]</a></blockquote>
+<b>13. Binance 사상 최대 해킹이지만 첫 사례는 아냐...크립토 도난 역사</b>
+<blockquote>세계 최대 암호화폐 거래소의 보안 사고는 일련의 디지털 자산 도난 사건 중 최신 사례다. 암호화폐 업계는 대규모 해킹 사건이 반복되며 보안 취약성 문제에 직면해 있다.
+<a href="https://www.ft.com/content/95d38ca9-9a70-4982-a797-cdad2afa3acf">[FT]</a></blockquote>
 
-<b>14. Starbucks 미국 매출 7.7% 증가...중국 둔화는 성장 전망 흐려</b>
-<blockquote>Starbucks가 미국 동일점포 매출 7.7% 증가를 기록하며 턴어라운드 진전을 보였으나, 중국 시장 둔화로 향후 성장 전망이 불투명해졌다. CEO는 자사주 매입을 재개한다고 밝혔다.
-<a href="https://www.ft.com/content/1f5eec1a-569a-493f-a0ce-bde2ca12a3cc">[FT]</a> <a href="https://www.wsj.com/business/earnings/starbucks-same-store-sales-climb-on-u-s-growth-88bc1df5">[WSJ]</a></blockquote>
+<b>14. 이란, 호르무즈 해협서 기뢰 공격...2019년 이후 첫 전술 변화</b>
+<blockquote>이란이 목요일 고속정을 이용해 호르무즈 해협의 유조선에 기뢰를 부착하며 2019년 이후 처음으로 이 같은 전술을 사용했다. 선박이 손상을 입으며 중동 에너지 공급망 리스크가 재부상했다.
+<a href="https://www.ft.com/content/66ba3e98-26f5-46f1-9af3-5854364b4e9f">[FT]</a></blockquote>
 
-<b>15. Eli Lilly 체중 감량 약물 수요 급증...실적 전망 상향</b>
-<blockquote>Eli Lilly가 체중 감량 약물 수요 급증에 힘입어 3분기 실적이 호조를 보이며 연간 매출 전망을 올해 들어 두 번째로 상향 조정했다. 주가는 사상 최고치를 경신했다.
-<a href="https://www.ft.com/content/5a3eaa0a-c903-4d41-bc7c-c3e5b8ef773c">[FT]</a></blockquote>
+<b>15. 우크라이나, 러시아 정유시설 타격 재개...Trump 요구 무시</b>
+<blockquote>우크라이나가 2주간의 중단을 끝내고 러시아 정유시설에 대한 공격을 재개했다. 이는 러시아의 목요일 민간인 27명 사망 공격 이후 이뤄진 것으로 Trump 행정부의 자제 요구를 무시한 것이다.
+<a href="https://www.wsj.com/world/europe/ukraine-hits-russian-oil-refinery-ending-a-pause-and-defying-trump-be68eeff">[WSJ]</a></blockquote>
 
-<b>16. Mondelez·Gilead·Burger King 실적 호조...소비재 업체는 엇갈려</b>
-<blockquote>Oreo와 Ritz를 보유한 Mondelez가 신흥시장 성장에 힘입어 3분기 순이익 13억1000만 달러를 기록했다. 제약사 Gilead는 HIV 포트폴리오 강세로 연간 매출 가이던스를 310억~313억 달러로 상향했다. Burger King은 미국 매출 증가로 모회사 Restaurant Brands International의 실적 성장을 주도했다. 반면 Advil과 Sensodyne을 보유한 소비재 업체는 감기·독감 발병률 감소로 매출 전망을 하향 조정하며 주가가 급락했다.
-<a href="https://www.wsj.com/business/earnings/mondelez-profit-sales-rise-on-emerging-market-growth-049ffe2a">[WSJ]</a> <a href="https://www.wsj.com/business/earnings/gilead-sciences-lifts-sales-guidance-on-hiv-portfolio-strength-d5bafd4e">[WSJ]</a> <a href="https://www.wsj.com/business/retail/restaurant-brands-international-profit-revenue-rise-on-u-s-burger-king-sales-c1546d0a">[WSJ]</a> <a href="https://www.ft.com/content/3c44bd99-dd58-47b8-9fa2-7aad2827b73a">[FT]</a></blockquote>
+<b>16. 중동·우크라이나 분쟁에 유가 상승...공급 차질 우려 확산</b>
+<blockquote>중동에서의 군사적 긴장 고조 가능성에 시장이 긴장하며 유가가 상승했다. 호르무즈 해협 유조선 공격, 후티 반군의 사우디 정유시설 추가 공격 주장, 우크라이나의 러시아 정유시설 타격이 공급 우려를 키웠다.
+<a href="https://www.wsj.com/world/middle-east/oil-prices-rise-after-hormuz-tanker-attack-houthi-claims-stoke-supply-fears-de48df37">[WSJ]</a></blockquote>
 
-<b>17. ING, €1.84bn 자사주 매입 발표...구조조정·감원 병행</b>
-<blockquote>네덜란드 은행 ING가 18억4000만 유로 규모의 자사주 매입 프로그램을 발표하면서도 도매 금융 부문 구조조정과 인력 감축 계획을 밝혔다.
-<a href="https://www.wsj.com/business/earnings/ing-launches-buyback-but-flags-job-cuts-and-unit-restructuring-b19efaf1">[WSJ]</a></blockquote>
+<b>17. 카타르 협상단, 중간선거 앞두고 테헤란 재방문...전쟁 확전 막기 최후 노력</b>
+<blockquote>카타르 중재단이 다음 주 미국 중간선거를 앞두고 테헤란을 재방문했다. 새로운 대규모 전쟁을 막기 위한 최후의 중재 노력이 진행되고 있다.
+<a href="https://www.ft.com/content/293a8f46-dd7d-4d63-a974-150ecafe7e4c">[FT]</a></blockquote>
 
-<b>18. 미국 국채 수익률 하락...금·은 선물도 약세</b>
-<blockquote>연준과 ECB가 모두 금리를 동결한 가운데 미국과 유럽 국채 수익률이 하락했다. 금과 은 선물 가격도 예상보다 강한 미국 GDP 수치가 향후 고금리 기조를 뒷받침하면서 약세로 마감했다. 천연가스 선물은 온화한 날씨 전망으로 하락했다.
-<a href="https://www.wsj.com/finance/commodities-futures/u-s-treasury-yields-fall-as-investors-digest-fed-meet-focus-shifts-to-ecb-d29ffbec">[WSJ]</a> <a href="https://www.wsj.com/finance/jgb-yields-rise-amid-caution-ahead-of-boj-decision-0a68d866">[WSJ]</a> <a href="https://www.wsj.com/finance/commodities-futures/gold-falls-as-traders-mull-fed-decision-d2dbef6c">[WSJ]</a> <a href="https://www.wsj.com/finance/commodities-futures/european-gas-prices-retreat-after-topping-100-euros-a-megawatt-hour-b9a8807b">[WSJ]</a></blockquote>
+<b>18. 이란 전쟁·관세로 미국 주택건설 비용 상승...주택 위기 심화</b>
+<blockquote>미국은 주택건설 비용을 낮추기 위한 싸움에서 지고 있다. 이란 전쟁, 관세, AI 인프라 건설이 건축자재, 인건비, 차입 비용을 모두 끌어올리고 있다.
+<a href="https://www.wsj.com/economy/housing/just-about-every-part-of-building-a-house-is-getting-more-expensive-d0f5ebcb">[WSJ]</a></blockquote>
 
-<b>19. Partners Group 플래그십 PE 펀드, 환매 요청 급증</b>
-<blockquote>Partners Group의 미국 주력 사모펀드에 대한 부유층 투자자들의 환매 요청이 3분기 순자산 대비 15%로 두 배 증가했다. PE 시장의 유동성 압박이 가중되고 있음을 보여준다.
-<a href="https://www.ft.com/content/1ff658df-963e-4b92-9e12-f0cf5517b2ec">[FT]</a></blockquote>
+<b>19. Dallas 연은 총재 Logan, 최소 2회 추가 금리인상 필요 발언</b>
+<blockquote>Dallas 연방준비은행 총재 Lorie Logan은 현재 경제 전망을 고려할 때 최소 2회의 25bp 금리인상이 필요하다고 밝혔다. 연준 내 매파 기조가 지속되고 있음을 보여준다.
+<a href="https://www.wsj.com/economy/central-banking/fed-needs-to-implement-at-least-two-more-rate-increases-dallas-feds-logan-says-c5003190">[WSJ]</a></blockquote>
 
-<b>20. Druckenmiller, 무기한 선물거래 플랫폼 tradeXYZ 투자</b>
-<blockquote>헤지펀드 억만장자 Stanley Druckenmiller가 CME Group의 경쟁사로 무기한 선물 거래를 월스트리트에 도입하려는 tradeXYZ에 투자했다고 밝혔다.
-<a href="https://www.ft.com/content/08dea965-63c8-4e63-a69d-b2c2a8e909eb">[FT]</a></blockquote>
+<b>20. 중앙은행들 10월 금리 동결 유지...추가 인상 기반 다지기</b>
+<blockquote>중앙은행들이 10월 회의에서 각본대로 금리를 동결했지만 향후 추가 금리인상을 위한 기반을 다졌다. 인플레이션 압력이 지속되는 가운데 통화정책 기조는 여전히 긴축적이다.
+<a href="https://www.ft.com/content/db8bd441-431c-4f2f-8b98-0876b234c7bf">[FT]</a></blockquote>
 
-<b>21. 로펌 Weil Gotshal 붕괴...Paul Weiss는 재무공시 중단</b>
-<blockquote>95년 역사의 대형 로펌 Weil Gotshal이 일련의 파트너 이탈로 갑작스럽게 붕괴했다. 1200명의 변호사를 보유한 수익성 높은 회사가 무너진 것에 업계가 충격을 받았다. 한편 Kirkland & Ellis에 이어 Paul Weiss도 업계 벤치마크 랭킹에 재무 실적 공개를 중단하기로 하면서 로펌 투명성이 약화되고 있다.
-<a href="https://www.ft.com/content/98dfc71b-19eb-4194-8c6a-bb6d9b463074">[FT]</a> <a href="https://www.ft.com/content/13d0c9c9-77c9-4526-90e1-ef95a2024224">[FT]</a></blockquote>
+<b>21. 유로존 3분기 성장 둔화...ECB 긴축 경로 지지하지만 프랑스 부진</b>
+<blockquote>유로존 3분기 성장률이 예상보다 양호하게 나오며 ECB의 긴축 경로를 뒷받침했다. 하지만 프랑스 경제는 예상보다 약한 수치를 기록하며 우려를 키웠다.
+<a href="https://www.ft.com/content/6dc54eed-2904-487d-8656-85ac25111933">[FT]</a></blockquote>
 
-<b>22. 영국 FCA, 암호화폐 거래소 HTX 제소...영국 철수 합의</b>
-<blockquote>영국 금융감독청(FCA)이 Trump 지지자인 억만장자 Justin Sun과 연결된 암호화폐 거래소 HTX를 불법 암호자산 서비스 홍보 혐의로 제소했다. HTX는 영국 시장에서 철수하기로 합의했다.
-<a href="https://www.ft.com/content/54c236ef-af7a-40df-9f0f-abf3d6c825d2">[FT]</a></blockquote>
+<b>22. 유로존 경제 둔화에 프랑스 GDP 역성장...재정 우려 심화</b>
+<blockquote>유로존 경제가 높은 에너지 가격 속에 둔화했다. 프랑스 경제는 역성장하며 정치적 교착 상태 속에서 정부 부채 부담에 대한 우려가 심화되고 있다.
+<a href="https://www.wsj.com/economy/french-economy-shrinks-as-debt-worries-mount-562e99d0">[WSJ]</a></blockquote>
 
-<b>23. 스페인 철도 참사 69명 사망...안전시스템 점검 착수</b>
-<blockquote>스페인에서 발생한 철도 충돌 사고로 69명이 사망하면서 전국 철도망 안전시스템에 대한 조사가 시작됐다. 11월 총선을 앞두고 철도 안전이 선거 쟁점으로 부상하며 정치권에서 격렬한 공방이 벌어졌다.
-<a href="https://www.wsj.com/world/europe/why-does-spain-keep-having-deadly-rail-accidents-65d8416e">[WSJ]</a> <a href="https://www.ft.com/content/1996b518-af9c-4146-8864-88c498135f35">[FT]</a></blockquote>
+<b>23. Fitch, 프랑스 신용등급 전망 '안정적'에서 '부정적'으로 하향</b>
+<blockquote>Fitch는 8월 검토 이후 상황이 악화됐다며 프랑스 신용등급 전망을 부정적으로 낮췄다. 성장 둔화, 차입비용 상승, 재정적자 확대를 이유로 들었다.
+<a href="https://www.wsj.com/world/europe/fitch-lowers-frances-outlook-to-negative-from-stable-27de23a3">[WSJ]</a></blockquote>
 
-<b>24. Trump 행정부, 카메룬과 송환 협정...전쟁범죄 혐의 부대에 장갑차 지원</b>
-<blockquote>Trump 행정부가 카메룬과 제3국 추방자 수용 협정을 체결하면서 전쟁범죄 혐의를 받는 카메룬 군부대에 장갑차를 제공하기로 합의했다.
-<a href="https://www.wsj.com/world/africa/trumps-deportation-deal-with-cameroon-will-equip-unit-accused-of-war-crimes-a94d3faa">[WSJ]</a></blockquote>
+<b>24. 영국 Healey 예산안, 긴급성 결여...어려운 결정 미뤄</b>
+<blockquote>Healey의 예산안에는 급진적 미래에 대한 힌트가 거의 없었다. 어려운 결정을 미루는 우울한 연기였다는 평가가 나온다.
+<a href="https://www.ft.com/content/1ef10df0-9d8f-4d5e-8480-88ee9e00d039">[FT]</a></blockquote>
 
-<b>25. 브라질 정치권, Bolsonaro 선거 부정 주장에서 거리두기</b>
-<blockquote>브라질에서 일부 Jair Bolsonaro 지지자들조차 Lula 대통령이 부정선거로 당선됐다는 주장을 거부하고 있다. Bolsonaro의 아들 Flávio Bolsonaro는 자금세탁 조사를 받던 중 출국한 것으로 알려졌다.
-<a href="https://www.ft.com/content/fa67c9ad-882a-4713-a0be-de909c8f3f0a">[FT]</a> <a href="https://www.ft.com/content/0cb91253-62e1-4cdf-864e-61174b297e51">[FT]</a></blockquote>
+<b>25. 영국 예산안 복지·국방 결정 미뤄...지출검토 앞두고 어려운 선택 남아</b>
+<blockquote>Healey 재무장관이 '기도하고 미루기' 예산안으로 시간을 벌었다. 중요한 지출검토를 앞두고 복지와 국방에 대한 어려운 결정이 앞으로 남아있다.
+<a href="https://www.ft.com/content/31a3c465-54ab-409c-a59d-873117f143e7">[FT]</a></blockquote>
+
+<b>26. 2026 중간선거 상원 의석 전망 트래커...경합주 분석</b>
+<blockquote>2026년 선거에서 상원 권력 균형이 걸려있다. 가장 경쟁이 치열한 상원 격전지들을 추적하는 트래커가 공개됐다.
+<a href="https://www.wsj.com/politics/elections/senate-seats-2026-midterm-election-tracker-04778377">[WSJ]</a></blockquote>
+
+<b>27. FT, 2026 중간선거 생활비 추적...유권자 결정 핵심 데이터</b>
+<blockquote>FT가 미국 유권자들에게 영향을 미칠 생활비 변화를 추적하고 있다. 경제 지표가 중간선거 결과를 좌우할 핵심 요인으로 떠올랐다.
+<a href="https://www.ft.com/content/71dccbca-4a1f-485a-9790-28cc527cdb82">[FT]</a></blockquote>
+
+<b>28. 알래스카 상원 선거, 투표 조작 의혹으로 정치 중심...수사 진행 중</b>
+<blockquote>알래스카 상원 선거가 현재 정치계의 중심에 있다. 투표 적층(ballot stacking)이 강경 정치 전술을 넘어선 것인지에 대한 수사가 빠르게 진행되고 있다.
+<a href="https://www.wsj.com/politics/policy/alaska-senate-election-ballot-midterms-6f9f4c4c">[WSJ]</a></blockquote>
+
+<b>29. 중간선거 '블루 웨이브' 효과, 향후 수년간 지속될 전망</b>
+<blockquote>이번 선거 사이클의 상원 의석 구도는 공화당에게 재앙이 될 수 있다. 중간선거에서 민주당 승리의 영향은 수년간 지속될 것으로 보인다.
+<a href="https://www.ft.com/content/594747ef-2ccf-4b78-bfb3-b45742e6974f">[FT]</a></blockquote>
+
+<b>30. 하원 권력 균형 가를 2026 중간선거 주요 경합 지역 분석</b>
+<blockquote>2026년 선거에서 하원 권력 균형이 걸려있다. 하원 통제권을 결정할 수 있는 주요 경합 지역들이 주목받고 있다.
+<a href="https://www.wsj.com/politics/elections/the-2026-races-that-could-determine-house-control-9500c90d">[WSJ]</a></blockquote>
+
+<b>31. 2026 중간선거는 Trump 심판대...FT 웨비나 개최 예정</b>
+<blockquote>FT가 11월 10일 2026년 미국 중간선거를 주제로 구독자 웨비나를 개최한다. FT 기자들과 전문가들이 참여해 Trump에 대한 평가를 논의할 예정이다.
+<a href="https://www.ft.com/content/4a419040-0f8c-4078-bdf9-7c4a5fcd52f4">[FT]</a></blockquote>
+
+<b>32. 미국, 우크라이나에 Patriot 요격미사일 $2.1bn 규모 판매 승인</b>
+<blockquote>미국이 우크라이나에 대한 Patriot 요격미사일 $2.1bn 규모 판매를 승인했다. Volodymyr Zelenskyy는 이전에 Trump 행정부가 양국 관계 악화로 무기 공급을 지연시켰다고 비난한 바 있다.
+<a href="https://www.ft.com/content/321cf4f9-d236-4b50-a52c-c2a21f7c447b">[FT]</a></blockquote>
+
+<b>33. 러시아, 우크라이나와 희귀한 휴전...주민 대피 허용</b>
+<blockquote>러시아가 러시아 점령지 Oleshky에서 수백 명의 주민을 우크라이나로 송환하기 위해 희귀한 휴전을 관찰했다. 대피는 러시아와 벨라루스를 경유해 이뤄질 예정이다.
+<a href="https://www.ft.com/content/a6e29400-95bb-453e-8cc6-55c54d857024">[FT]</a></blockquote>
+
+<b>34. CD&R, $40bn 규모 Global Payments 인수 추진...역대 최대 LBO급</b>
+<blockquote>사모펀드 CD&R이 $40bn 규모의 카드 처리업체 Global Payments 인수를 추진하고 있다. 성사될 경우 역사상 최대 규모의 차입매수(LBO) 중 하나가 될 전망이다.
+<a href="https://www.ft.com/content/da16af06-4431-4ced-9c3e-a0753d8c45c9">[FT]</a></blockquote>
+
+<b>35. BASF, Evonik에 €11bn 인수 제안했으나 거절당해</b>
+<blockquote>BASF의 €11bn(약 $12.5bn) 규모 Evonik 인수 제안이 거절됐다. 독일 화학기업이 아시아와 중동 경쟁사들에 맞서기 위한 시도가 좌절됐다.
+<a href="https://www.wsj.com/business/deals/basfs-12-5-billion-takeover-bid-for-evonik-rebuffed-5fe08975">[WSJ]</a></blockquote>
+
+<b>36. Colgate-Palmolive 매출 증가...미국 소비자 부진에도 해외 호조</b>
+<blockquote>Colgate-Palmolive가 최근 분기 매출 증가를 기록했다. 해외 시장의 강세가 북미 지역의 지속적인 부진을 상쇄했다.
+<a href="https://www.wsj.com/business/earnings/colgate-palmolive-posts-higher-profit-sales-857724f5">[WSJ]</a></blockquote>
+
+<b>37. AstraZeneca, 암 치료제 강세로 매출 증가...$1.5bn 비용절감 계획</b>
+<blockquote>영국 제약사 AstraZeneca가 암 치료제의 강력한 판매로 매출 증가를 기록했다. 특허 만료 영향을 상쇄하며 신약 파이프라인 자금 마련을 위해 $1.5bn 비용절감 계획을 발표했다.
+<a href="https://www.wsj.com/business/earnings/astrazeneca-posts-revenue-profit-growth-on-strong-cancer-drug-sales-ec7ebdb5">[WSJ]</a></blockquote>
+
+<b>38. NatWest, 내년 이자수익 전망 실망...주가 하락</b>
+<blockquote>영국 시중은행 NatWest의 주가가 하락했다. 은행이 내년 예상보다 약한 이자수익을 전망했기 때문이다.
+<a href="https://www.wsj.com/business/earnings/natwest-earnings-boosted-by-higher-net-interest-income-20ebc371">[WSJ]</a></blockquote>
+
+<b>39. AbbVie 매출 증가, 면역·신경과학 부문 강세...배당 인상</b>
+<blockquote>제약회사 AbbVie가 면역학과 신경과학 부문의 강세로 3분기 매출이 증가하며 연간 이익 전망을 상향했다. 분기 배당도 인상했다.
+<a href="https://www.wsj.com/business/earnings/abbvie-revenue-rises-on-strength-in-immunology-neuroscience-1fb8fdb7">[WSJ]</a></blockquote>
+
+<b>40. Volkswagen, ID.Golf 개발 일시 중단...현금흐름 보존 목적</b>
+<blockquote>독일 자동차업체 Volkswagen이 필요한 투자를 안전하게 수용할 수 있을 때까지 ID.Golf 모델 개발을 일시 중단한다고 밝혔다. 현금흐름 보존이 목적이다.
+<a href="https://www.wsj.com/business/autos/volkswagen-pauses-work-on-id-golf-model-to-preserve-cash-flow-4054161a">[WSJ]</a></blockquote>
+
+<b>41. Apollo·Thrive, 사모펀드 세대교체 속 부채 금융업자로 재부상</b>
+<blockquote>Apollo와 Thrive가 부채 금융업자로서의 새로운 역할을 활용하며 새로운 금융 질서에서 여전히 수익성 높은 자리를 차지하고 있다. 사모펀드의 세대교체를 활용한 전략이다.
+<a href="https://www.ft.com/content/95480c09-5018-4400-b9c1-f2d53373a47c">[FT]</a></blockquote>
+
+<b>42. Canadian National Railway 3분기 이익 증가...화물 수요로 매출 급증</b>
+<blockquote>Canadian National Railway가 3분기 이익 증가를 보고했다. 화물 부문 전반의 강력한 가격 상승에 힘입어 매출이 급증했다.
+<a href="https://www.wsj.com/business/earnings/canadian-national-railways-profit-rises-as-freight-demand-lifts-revenue-bcf3e893">[WSJ]</a></blockquote>
+
+<b>43. 중국, 대만 인근 해역서 해저 데이터 수집 강화...전투 준비 의심</b>
+<blockquote>중국이 최근 대만 인근 해역의 해저를 매핑하기 위해 다수의 선박을 파견했다. 대만은 이러한 조사가 "전투공간 준비"를 돕는다고 주장하고 있다.
+<a href="https://www.wsj.com/world/china/china-scoops-up-data-that-could-aid-its-forces-in-waters-around-taiwan-7acaf563">[WSJ]</a></blockquote>
+
+<b>44. Nvidia CEO 측근 중국 임원, 중국 스파이 혐의 수사 대상</b>
+<blockquote>수사관들은 Alice Huang이라는 여성이 Nvidia CEO Jensen Huang과의 관계를 바탕으로 중국에 정보를 제공한 것으로 의심하고 있다.
+<a href="https://www.wsj.com/tech/chinese-executive-close-to-nvidia-ceo-suspected-of-giving-china-information-798eb6a1">[WSJ]</a></blockquote>
+
+<b>45. 중국 광산 자율주행 전기 트럭, 90톤 석탄 배터리로 운반</b>
+<blockquote>자율주행차가 전 세계 광산에서 더 큰 역할을 맡아왔다. 이제 많은 차량이 전기화되고 있으며, 특히 중국에서 그 추세가 두드러진다.
+<a href="https://www.wsj.com/world/asia/these-trucks-haul-90-tons-of-coal-on-battery-powerand-drive-themselves-39b80cc3">[WSJ]</a></blockquote>
+
+<b>46. 캐나다, Vancouver 항구 확장 국가 우선과제 지정...對美 무역 다변화</b>
+<blockquote>캐나다가 Vancouver 항구 확장을 국가 우선과제로 지정했다. 2035년까지 對非美 수출을 두 배로 늘리겠다는 목표 달성에 필요하다고 주장한다.
+<a href="https://www.wsj.com/world/americas/canada-deems-vancouver-port-expansion-national-priority-in-bid-to-diversify-trade-3daf2f55">[WSJ]</a></blockquote>
+
+<b>47. 캐나다 9월 GDP 위축 전망...2개월 연속 정체 후 냉각</b>
+<blockquote>캐나다 경제가 최근 분기에 냉각됐다. 활동이 2개월 연속 예기치 않게 정체된 후 초기 데이터는 9월 소폭 위축을 가리키고 있다.
+<a href="https://www.wsj.com/economy/canada-gdp-seen-dipping-in-september-after-two-flat-months-2dccc3a3">[WSJ]</a></blockquote>
+
+<b>48. FT 글로벌 인플레이션·금리 추적기...국가별 비교 인터랙티브 차트</b>
+<blockquote>FT가 인터랙티브 차트를 통해 최신 글로벌 인플레이션과 금리 데이터를 추적한다. 국가별 비교가 가능하다.
+<a href="https://www.ft.com/content/088d3368-bb8b-4ff3-9df7-a7680d4d81b2">[FT]</a></blockquote>
 
 ━━━━━━━━━━━━━━━━━━━━
 📡 <b>출처: WSJ · FT · The Economist</b>
