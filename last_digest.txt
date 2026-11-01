@@ -4,29 +4,45 @@
 
 ✅ <b>간밤의 주요 헤드라인</b>
 
-<b>1. 이란, 미국·이스라엘 공격시 '지리적 제한 없는' 즉각 보복 경고...중동 전쟁 리스크 극한 확대</b>
-<blockquote>Ayatollah Khamenei가 군 지휘관들에게 보복이 '즉각적'일 것이라고 지시했다. 카타르 중재자들이 우려되는 미국·이스라엘 폭격 캠페인을 막기 위해 나섰지만, 이란은 공격 받을 경우 지리적 제한 없이 대응하겠다는 입장을 분명히 했다.
-<a href="https://www.ft.com/content/77370477-62df-4499-9ab6-4063d3e361bd">[FT]</a></blockquote>
+<b>1. 걸프 지역, 미국-이란 전쟁 재개 우려 고조...OPEC 생산도 동결 유지</b>
+<blockquote>걸프 외교관들은 미국-이스라엘 동맹과 이란 간 재충돌 시 이전보다 피해 규모가 클 것으로 경고했다. OPEC과 동맹국들은 걸프 해운 차질 지속 속에 원유 생산을 전쟁 전 수준 이하로 유지하기로 했다. 중동 에너지 공급 리스크가 다시 부각되고 있다.
+<a href="https://www.ft.com/content/efaa2962-1acb-45cf-afb4-d0088f0a1046">[FT]</a> <a href="https://www.wsj.com/business/energy-oil/opec-allies-keep-output-steady-while-gulf-shipping-remains-under-threat-c1d14171">[WSJ]</a></blockquote>
 
-<b>2. Binance $6.3bn 해킹, FBI "북한 연계 해커 소행" 확인...암호화폐 거래소 보안 강화 나서</b>
-<blockquote>FBI가 토요일 이번 사이버 절도가 북한과 연계된 해커들의 소행이라고 밝혔다. 이번 사건은 역대 최대 규모의 암호화폐 탈취 사건 중 하나로, 주요 거래소들이 보안 체계 강화에 나서고 있다.
-<a href="https://www.ft.com/content/c7062e37-86fd-45ef-8f58-573de0fcaaf0">[FT]</a></blockquote>
+<b>2. 정크본드 시장 '대학살'...크레딧 투자자 손실 확대</b>
+<blockquote>투기등급 채권 시장에서 급격한 매도세가 발생하며 신용 투자자들이 막대한 손실을 입었다. 발행사들이 자산을 채권자 손이 닿지 않는 곳으로 이전하는 공격적 전략을 쓰면서 매도 압력이 가중됐다. 금융여건 긴축 효과가 하이일드 시장에서 가시화되고 있다.
+<a href="https://www.ft.com/content/fdc9a85d-d2c4-465f-99ca-609d68b6d443">[FT]</a></blockquote>
 
-<b>3. Steve Bannon "중간선거 후 공화당 '내전' 발발할 것"...새 의회 구성 전 격렬한 입법 충돌 예고</b>
-<blockquote>전 백악관 수석 전략가가 중간선거 이후 공화당 내부에서 '괴물급' 입법 전쟁이 벌어질 것이라고 전망했다. 새 의회가 선서하기 전까지 극심한 정치 교착 상태가 이어질 것이란 관측이다.
-<a href="https://www.ft.com/content/a97de5ca-484e-4ed9-84e0-958b90b85ef8">[FT]</a></blockquote>
+<b>3. Binance, 해킹 후 출금 재개에도 $36억 순유출 기록</b>
+<blockquote>사상 최대 규모 암호화폐 해킹을 당한 바이낸스가 출금을 재개했으나 이용자들이 36억달러를 인출했다. 거래소는 지금까지 도난 자산의 약 95%를 교체했다고 밝혔으며, 북한 연계 해킹 조직 소행으로 추정된다. 크립토 시장 신뢰 위기가 심화하는 모습이다.
+<a href="https://www.wsj.com/finance/currencies/binance-resumes-withdrawals-after-suffering-biggest-ever-crypto-hack-11d1900f">[WSJ]</a> <a href="https://www.ft.com/content/1d4dd7b2-9dee-433b-ac2a-e8022af1dd07">[FT]</a></blockquote>
 
-<b>4. 미국 재정적자 급증 속 재정 매파 사라져...장기 국채 공급 우려 커진다</b>
-<blockquote>워싱턴에서 재정 건전성을 강조하던 목소리가 실종되면서 미국 부채가 급증하고 있다. 2027년 Affordable Care Act 보험료가 13% 인상되는 가운데, 재정 확대 기조가 지속되면서 장기 국채 시장에 대한 부담이 가중되고 있다.
-<a href="https://www.wsj.com/tech/ai/americas-debt-soars-as-washingtons-fiscal-hawks-vanish-39152a93">[WSJ]</a></blockquote>
+<b>4. AI 투자자들, 역사상 최대 베팅에 보험 수요 급증</b>
+<blockquote>수조달러가 걸린 인공지능 투자에서 투자자·트레이더·테크 임원들이 대규모 헤지 수단을 찾고 있다. AI 붐에 대한 기대가 고조되는 가운데, 리스크 관리 필요성도 동시에 커지고 있다. 시장 변동성에 대비한 보호 장치 수요가 확대되는 양상이다.
+<a href="https://www.wsj.com/finance/stocks/ai-investors-are-racing-to-get-insurance-on-the-biggest-market-bet-in-history-a60e296f">[WSJ]</a></blockquote>
 
-<b>5. 투자자들, AI 지출 과의존 우려에 성장 베팅 줄이고 채권 회귀...장기 매도세 후 반전</b>
-<blockquote>미국 경제가 기술주 지출에 지나치게 의존하고 있다는 우려가 커지면서, 투자자들이 성장주 포지션을 축소하고 채권으로 돌아서고 있다. 장기간 이어진 채권 매도세가 멈추고 듀레이션 수요가 되살아나는 모습이다.
-<a href="https://www.ft.com/content/56b0d5fa-829c-47b1-b07b-b4be18f60151">[FT]</a></blockquote>
+<b>5. Trump, 중간선거 최종 유세...의회 통제권 향배 주목</b>
+<blockquote>공화당이 화요일 중간선거에서 의회 장악을 수호하려는 가운데 대통령에 대한 반발 조짐이 나타나고 있다. Trump는 불안한 유권자들에게 최후 호소에 나섰다. 미국 의회가 Trump 행정부에 실질적 견제를 할 수 있을지 여부가 이번 선거의 핵심 쟁점으로 떠올랐다.
+<a href="https://www.ft.com/content/75e8405b-124f-44aa-9c5e-0a33d0ee5b92">[FT]</a> <a href="https://www.ft.com/content/2f1b9cd5-4b6c-4e21-9e16-dcbfe7ecbd3e">[FT]</a></blockquote>
 
-<b>6. Nvidia CEO 측근 중국계 임원, 중국에 정보 제공 의혹...미중 기술 안보 긴장 고조</b>
-<blockquote>수사 당국은 Jensen Huang과의 관계를 바탕으로 Alice Huang이 포섭됐다고 보고 있다. Nvidia 핵심 인사가 중국 측에 정보를 넘겼을 가능성이 제기되면서, 반도체 기술을 둘러싼 미중 안보 갈등이 심화되고 있다.
-<a href="https://www.wsj.com/tech/chinese-executive-close-to-nvidia-ceo-suspected-of-giving-china-information-798eb6a1">[WSJ]</a></blockquote>
+<b>6. 미국 유권자, 안정적 고용·임금 상승 속 생활비 불만 고조</b>
+<blockquote>화요일 투표에 나서는 유권자들은 견조한 노동시장과 증가한 급여 혜택을 누리고 있지만, 생활비와 Trump의 경제 정책 운용에는 불만을 드러냈다. 한편 미국 고용 성장세는 둔화될 것으로 전망된다. 연준의 향후 정책 경로 판단에 고용시장 지표가 중요한 변수로 작용할 전망이다.
+<a href="https://www.wsj.com/economy/us-economic-data-growth-9a4f7690">[WSJ]</a> <a href="https://www.ft.com/content/b62877b9-4260-4b4a-9f0f-a5dee7571b7c">[FT]</a></blockquote>
+
+<b>7. 유럽 연금 시스템 붕괴 우려...세대 간 갈등 심화</b>
+<blockquote>유럽 각국 정부가 미래 연금 수급자들의 권리를 보장하는 데 어려움을 겪으면서 취약한 세대 간 계약이 흔들리고 있다. 대륙 전역에서 공황과 분노가 확산되고 있다. 재정 압박과 인구 고령화가 맞물리면서 사회 안정망 지속가능성에 대한 우려가 커지고 있다.
+<a href="https://www.wsj.com/world/europe/panic-and-anger-spread-as-europes-great-pension-covenant-unravels-69a94ed7">[WSJ]</a></blockquote>
+
+<b>8. 불가리아, 친러 대통령 재선 유력...동유럽 지정학 변화 신호</b>
+<blockquote>출구조사 결과에 따르면 불가리아 임시 대통령 Iliana Yotova가 재선에 성공하며 크렘린 우호 노선을 공고히 할 전망이다. 동유럽에서 러시아 영향력이 다시 확대될 가능성이 제기된다. 서방과의 관계 재조정이 불가피할 것으로 보인다.
+<a href="https://www.ft.com/content/c1565a1b-9962-40d2-a764-5a19d0f3c700">[FT]</a></blockquote>
+
+<b>9. 미국 핵심 광물 정책, 로비 편향 심화...공급망 리스크 지속</b>
+<blockquote>수십억달러 정부 지원에도 불구하고 미국 내 광물 생산 증가는 미미한 가운데, Washington 로비스트들에게는 특수가 이어지고 있다. 거래는 활발하지만 실제 국내 생산 확대는 지지부진하다. 핵심 광물 공급망 안보 구축이 정치적 이해관계에 가로막힌 모습이다.
+<a href="https://www.ft.com/content/e89a420d-3a93-402f-ab0d-461476cf23ce">[FT]</a></blockquote>
+
+<b>10. 영국 복지 지출 증가 압력...재정 건전성 악화 우려</b>
+<blockquote>정치적 인센티브 구조와 국가 지원에 대한 기대 상승, 심층 경제 문제가 맞물리면서 영국 복지 제도 통제가 어려워지고 있다. 지출 억제 시도가 구조적 장애물에 직면했다. 재정 여력 축소 속에 사회보장 부담이 가중되는 딜레마가 심화하고 있다.
+<a href="https://www.ft.com/content/873aed2b-48e7-4928-b651-b7039a8e3dd3">[FT]</a></blockquote>
 
 ━━━━━━━━━━━━━━━━━━━━
 📡 <b>출처: WSJ · FT · The Economist</b>
