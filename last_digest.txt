@@ -4,213 +4,205 @@
 
 ✅ <b>간밤의 주요 헤드라인</b>
 
-<b>1. 미국-이란 평화 협상 진전...유가 -3% 급락</b>
-<blockquote>미국이 우크라이나를 거쳐 유럽으로 향하는 러시아 가스 판매 복원을 추진하면서 에너지 공급 불안이 완화됐다. 유가 선물은 7월 이후 최대 낙폭을 기록했다.
-<a href="https://www.wsj.com/world/europe/u-s-pushes-to-restore-russian-gas-sales-to-europe-via-ukraine-0ca62dc7">[WSJ]</a></blockquote>
+<b>1. 미국 중간선거 투표 진행...트럼프 재정·통화정책 영향력 판가름</b>
+<blockquote>미국 유권자들이 3일(현지시간) 중간선거 투표를 진행하며 공화당과 민주당의 상하원 주도권 다툼이 막바지에 접어들었다. 투표 결과는 트럼프 대통령의 잔여 임기 정책 방향과 재정·통화정책 불확실성에 직접 영향을 미칠 전망이다.
+<a href="https://www.ft.com/content/77c2eaca-4fe1-4c69-b3bd-c517b045ff37">[FT]</a></blockquote>
 
-<b>2. 이란 측 직접 평화협상 임박...중동 리스크 프리미엄 축소</b>
-<blockquote>이란 대통령이 최고지도자로부터 미국과의 협상 권한을 부여받았다고 밝히며 유가는 추가 하락했다. 외교적 해법 기대감이 시장에 반영됐다.
-<a href="https://www.ft.com/content/d7fe99f8-d292-4cb5-a8fd-45be0f8cc2b3">[FT]</a></blockquote>
+<b>2. 미국, 이란 Qeshm Island 공격...선거 전날 중동 긴장 재점화</b>
+<blockquote>미국이 중간선거 전날 이란의 Qeshm Island를 타격했다고 밝혔다. 워싱턴은 이번 공격이 이란의 지대공 미사일 위협에 대한 방어 조치라고 설명했지만, 유가는 소폭 등락하며 외교 진전 기대와 지정학 리스크 사이에서 방향을 잡지 못했다.
+<a href="https://www.ft.com/content/ebeaca62-8958-459a-be9d-d3d39e441a53">[FT]</a></blockquote>
 
-<b>3. Netanyahu, Trump에 이란 재공습 압박...걸프 동맹국은 보복 대비</b>
-<blockquote>이스라엘 총리가 Trump 대통령과 통화해 이란에 대한 새로운 공습을 요청했다. 미국의 걸프 동맹국들은 이란의 무제한 보복 위협에 대비 중이다.
-<a href="https://www.ft.com/content/8505c9d9-bb41-4052-a3dd-874dc9a509b1">[FT]</a></blockquote>
+<b>3. 미·러·우크라이나 2월 이후 첫 회담 개최...브뤼셀서 다자 협의</b>
+<blockquote>미국이 러시아·우크라이나와 2월 이후 처음으로 회담을 개최한다. 미국·영국·EU·NATO 관계자들이 이번 주 브뤼셀에서 만나며, 이후 아부다비에서 추가 논의가 예정돼 지정학 긴장 완화 기대감을 높였다.
+<a href="https://www.ft.com/content/cb91f234-85af-4686-9cc5-6f6189e0304c">[FT]</a></blockquote>
 
-<b>4. 유가 선물 급락에 국채 수익률 일제히 하락</b>
-<blockquote>WTI 원유가 3% 이상 급락하자 미국 국채와 유럽 국채 수익률이 동반 하락했다. 인플레이션 압력 완화 기대감이 채권시장을 지지했다.
-<a href="https://www.wsj.com/finance/investing/treasury-yields-little-changed-in-asian-trade-ahead-of-midterms-key-data-this-week-c5a1fdb3">[WSJ]</a></blockquote>
+<b>4. 미·러·중, Trump·Putin·Xi 정상회담 논의...2주 내 APEC 계기</b>
+<blockquote>미국·러시아·중국이 Trump·Putin·Xi Jinping 3국 정상회담 개최를 논의 중이다. Trump 대통령이 2주 내 중국 선전(深圳)에서 열리는 APEC 정상회의 참석을 계기로 회담이 성사될 가능성이 제기됐다.
+<a href="https://www.ft.com/content/73c1d1cc-6bb2-43a6-8532-7823e5c1a40b">[FT]</a></blockquote>
 
-<b>5. 천연가스 선물 3주 하락 뒤 소폭 반등</b>
-<blockquote>미국 천연가스 선물이 3주 연속 하락 이후 소폭 상승 출발했다. Morgan Stanley는 겨울철 공급 리스크를 감안해 유럽 가스 가격 강세 시나리오를 상향 조정했다.
-<a href="https://www.wsj.com/finance/commodities-futures/morgan-stanley-raises-bullish-european-gas-price-scenario-on-winter-supply-risks-77062b22">[WSJ]</a></blockquote>
+<b>5. 유가 $103로 하락...중동 외교 진전 기대에 공급 우려 완화</b>
+<blockquote>국제유가가 배럴당 $103로 하락했다. 미국의 이란 공격에도 불구하고 미·이란 간 외교 진전 가능성이 제기되며 중동 지정학 리스크가 일부 완화됐다는 평가다.
+<a href="https://www.ft.com/content/d0ab9542-8542-4357-a534-ddbdd1a9678d">[FT]</a></blockquote>
 
-<b>6. 미국 유권자 2/3 "Trump 인플레 대응 불만"...중간선거 최대 쟁점</b>
-<blockquote>FT 여론조사에서 미국 유권자의 대다수가 Trump 대통령의 인플레이션 대응에 불만을 표시했다. 경제 문제 해결 능력이 투표 결정의 핵심 요인으로 꼽혔다.
-<a href="https://www.ft.com/content/5ed63d08-66f3-4ad3-9ec7-2ec8b590fc85">[FT]</a></blockquote>
+<b>6. Trump, 이스라엘 군사원조 연말 중단 발표...예상보다 급격한 단계적 폐지</b>
+<blockquote>Trump 대통령이 연간 $40억 규모의 이스라엘 군사원조를 올해 말까지 중단하겠다고 밝혔다. 미국과 이스라엘은 지원금 단계적 폐지를 논의해왔지만, Trump의 발언은 예상보다 훨씬 빠른 시행을 시사해 중동 정책 변화 우려를 키웠다.
+<a href="https://www.wsj.com/world/middle-east/trump-says-u-s-plans-to-cut-off-aid-to-israel-by-end-of-the-year-0046c0ed">[WSJ]</a></blockquote>
 
-<b>7. 민주당 'blue wave' 가능성...Trump 레임덕 위기 고조</b>
-<blockquote>중간선거 주요 경합주에서 민주당이 상·하원 동시 장악 가능성이 커지고 있다. 에너지·무역·재정 정책의 대전환이 예상된다.
-<a href="https://www.ft.com/content/1626b14d-524f-4d2a-94d1-860ae4a68692">[FT]</a></blockquote>
+<b>7. 러시아, 우크라이나 구호센터 공습으로 31명 사망...인도주의 시설 타격</b>
+<blockquote>러시아군이 우크라이나 남부의 한 학교를 공습해 구호물품 배급 중이던 31명이 사망했다. 수십 명이 실종 상태이며, 인도주의 시설에 대한 공격으로 전쟁 긴장이 고조됐다.
+<a href="https://www.wsj.com/world/russian-airstrike-kills-31-at-ukraine-aid-center-888562b1">[WSJ]</a></blockquote>
 
-<b>8. Trump 시대 휘발유 가격 역대 최고 경신...중간선거 앞 타격</b>
-<blockquote>Trump 2기 평균 휘발유 가격이 Biden 시대를 넘어 사상 최고치를 기록했다. 생활비 부담 문제가 화요일 중간선거의 핵심 변수로 떠올랐다.
-<a href="https://www.ft.com/content/ee2748fb-9f85-4095-b599-526e5a4a6baa">[FT]</a></blockquote>
+<b>8. NATO, 러시아 영토 타격 계획 공개...장거리 정밀무기로 억지력 확보</b>
+<blockquote>NATO 사령관들이 러시아의 동맹국 공격을 억지하기 위해 러시아 영토 깊숙이 타격할 수 있는 장거리 정밀무기를 핵심으로 하는 새 방위계획을 공개했다. 이는 러시아·우크라이나 갈등의 확전 가능성을 높이는 요인으로 작용했다.
+<a href="https://www.wsj.com/world/europe/natos-new-defense-plan-would-mean-strikes-deep-inside-russia-cd703f14">[WSJ]</a></blockquote>
 
-<b>9. Trump, 중간선거 유세 마무리는 링컨 기념관...건설 프로젝트 자랑</b>
-<blockquote>Trump 대통령이 월요일 링컨 기념관 앞에서 자신의 건설·재건 사업 성과를 중심으로 한 연설을 진행했다. 선거 막판 유권자 불만에도 불구하고 이례적인 유세 전략을 택했다.
-<a href="https://www.wsj.com/politics/elections/trump-surprises-republicans-with-election-eve-speech-about-reflecting-pool-14433ebf">[WSJ]</a></blockquote>
+<b>9. 중국 은행, 이란·러시아 자금흐름 중개...제재 우회 경로 부상</b>
+<blockquote>중국의 한 소형 은행이 이란·러시아 자금흐름의 핵심 중개자로 부상했다. 중국이 불법 자금흐름의 주요 허브로 떠올랐지만, 미국 관리들은 강력한 제재를 꺼리고 있는 것으로 전해졌다.
+<a href="https://www.wsj.com/world/the-little-known-chinese-bank-in-the-middle-of-iranian-and-russian-money-flows-9e76173b">[WSJ]</a></blockquote>
 
-<b>10. FT 분석 "Trump 제국적 대통령직, 민심 반란에 직면"</b>
-<blockquote>유권자들이 생활비 부담 속에 Trump의 기념비 건설에 피로감을 드러내고 있다. 중간선거는 대통령의 과도한 권력 행사에 대한 심판대가 될 전망이다.
-<a href="https://www.ft.com/content/7ee57da7-9687-4ceb-8057-d5afab78d728">[FT]</a></blockquote>
+<b>10. 캐나다 중앙은행 총재, 금리 2.5% 인상 방어...추가 인상 신중 접근</b>
+<blockquote>캐나다 중앙은행 총재 Macklem이 지난주 금리를 2.5%로 인상한 결정을 방어하며 인플레이션 압력과 향후 12개월 가격 인상 전망 확산에 대응할 필요가 있었다고 밝혔다. 그는 향후 금리 인상에 신중하게 접근하겠다고 약속했다.
+<a href="https://www.wsj.com/economy/global/bank-of-canada-gov-macklem-pledges-to-proceed-carefully-on-further-rate-increases-a27c79ee">[WSJ]</a></blockquote>
 
-<b>11. Michigan 민주당 Stevens 의원, 공화당 Rogers 지지로 당내 충격</b>
-<blockquote>민주당 Haley Stevens 하원의원이 상원 경선에서 민주당 Abdul El-Sayed 대신 공화당 Mike Rogers를 지지해 당내 분열을 야기했다. 민주당 지도부는 즉각 반발에 나섰다.
-<a href="https://www.ft.com/content/17ea8ea2-a834-428b-8c93-bc1803ca4d9f">[FT]</a></blockquote>
+<b>11. 미국 9월 구인 증가...노동시장 회복세 지속 신호</b>
+<blockquote>미국 노동부가 발표한 9월 구인·이직 조사(JOLTS)에서 구인 건수가 증가하고 채용이 비교적 안정적으로 유지됐다. 이는 노동시장 회복세가 지속되고 있다는 신호로 해석됐다.
+<a href="https://www.wsj.com/economy/jobs/u-s-job-openings-rose-in-september-86fb0e38">[WSJ]</a></blockquote>
 
-<b>12. 미 행정부, 대법원에 캘리포니아 일부 우편 투표 무효화 요청</b>
-<blockquote>Trump 행정부가 비시민권자 투표 의혹을 제기하며 캘리포니아 우편 투표 일부를 따로 분류하라고 대법원에 긴급 신청했다. 선거 막판 법적 공방이 가열됐다.
-<a href="https://www.ft.com/content/b3619ebb-01cc-4458-bc77-b04e5b16b658">[FT]</a></blockquote>
-
-<b>13. 미국 증시 혼조...유가 급락에도 AI 우려가 상쇄</b>
-<blockquote>월요일 미국 증시는 유가 하락에 따른 인플레이션 완화 기대에도 불구하고 AI 투자 거품 우려로 혼조 마감했다. 기술주 낙폭이 전체 지수 상승을 제한했다.
-<a href="https://www.wsj.com/finance/stocks/u-s-stocks-mixed-as-percolating-ai-fears-offset-oil-relief-6c9535a6">[WSJ]</a></blockquote>
-
-<b>14. Dow 소폭 반등, 기술주는 상승 모멘텀 상실</b>
-<blockquote>Dow 지수는 금요일 급락에서 반등했으나 유가 급락 효과가 장 후반 퇴색하며 기술주 상승세가 꺾였다. 시장은 중간선거 결과를 기다리는 관망세로 전환됐다.
-<a href="https://www.wsj.com/finance/stocks/stock-futures-higher-oil-lower-as-investors-return-to-risk-17e79294">[WSJ]</a></blockquote>
-
-<b>15. 금 선물 반등...유가 급락에 안전자산 수요 회복</b>
-<blockquote>금 선물이 유가 급락과 함께 주초 상승세를 기록했다. 미-이란 외교 진전 기대가 지정학 리스크 프리미엄을 낮추며 금 매수세를 자극했다.
-<a href="https://www.wsj.com/finance/commodities-futures/gold-rises-but-expectations-of-tighter-u-s-monetary-policy-weigh-512a4860">[WSJ]</a></blockquote>
-
-<b>16. Anthropic IPO 투자자들, $1.5조 보수적 밸류에이션 압박</b>
-<blockquote>AI 기업 Anthropic의 IPO 참여 기관투자자들이 기술주 급락 이후 당초 목표보다 낮은 $1.5조 밸류에이션을 요구하고 있다. AI 투자 거품 우려가 가격 협상에 반영됐다.
-<a href="https://www.wsj.com/finance/stocks/anthropic-investors-push-for-cautious-valuation-closer-to-1-5-trillion-2f2df9cf">[WSJ]</a></blockquote>
-
-<b>17. Anthropic, IPO 앞두고 $900bn AI 인프라 지출 공개</b>
-<blockquote>AI 기업 Anthropic이 IPO를 앞두고 총 $900bn 규모의 인프라 지출 약속을 공개했다. 수익 증가 속도를 초과하는 인프라 비용 부담이 투자자들의 경제성 검증 대상이 됐다.
-<a href="https://www.ft.com/content/4d91dbab-6fe4-45ab-beee-d77e091cb37f">[FT]</a></blockquote>
-
-<b>18. Marvell, Lumentum $115bn 인수...AI 연결성 리더 노린다</b>
-<blockquote>반도체 기업 Marvell이 데이터센터 부품업체 Lumentum을 $115bn에 인수한다. 전량 주식 교환 방식으로 진행되는 이번 딜은 AI 인프라 투자 확대를 겨냥한 것이다.
-<a href="https://www.ft.com/content/92322fad-f293-48b8-a14b-00506d78eb3b">[FT]</a></blockquote>
-
-<b>19. Palantir 수익 급증...미 상업부문 매출이 정부 사업 추월</b>
-<blockquote>데이터 분석 기업 Palantir의 매출이 급증하며 미국 상업부문 매출이 처음으로 정부 사업을 넘어섰다. 기업들이 AI 연구소 대신 자체 AI 통제를 선호하는 추세가 반영됐다.
-<a href="https://www.wsj.com/business/earnings/palantir-lifts-outlook-as-u-s-commercial-business-overtakes-government-business-16eb693f">[WSJ]</a></blockquote>
-
-<b>20. Oracle, AI 투자 위해 $20bn 조달 나서</b>
-<blockquote>소프트웨어 기업 Oracle이 보통주 $10bn, 회사채 $10bn 등 총 $20bn 규모의 자금 조달에 나섰다. AI 인프라 확충을 위한 공격적 투자 재원 확보가 목적이다.
-<a href="https://www.wsj.com/finance/oracle-looks-to-raise-20-billion-to-fund-ai-ambitions-582c814f">[WSJ]</a></blockquote>
-
-<b>21. FT "AI 투자 전망, Elon Musk의 진실성에 점점 더 의존"</b>
-<blockquote>AI 인프라 투자 예측이 Elon Musk의 SpaceX 관련 발언과 계획에 크게 좌우되고 있다. 시장은 Musk의 신뢰성 검증을 요구하고 있다.
-<a href="https://www.ft.com/content/9cd0e738-2f1b-42cc-b1ca-d2c8675d7d34">[FT]</a></blockquote>
-
-<b>22. Apple 실적 호조...중국 부진 속 iPhone·Mac 매출 견조</b>
-<blockquote>Apple의 3분기 하드웨어 매출이 견조한 성장을 기록했으나 중국 시장 부진은 지속됐다. 월가는 연말 쇼핑 시즌 매출 가이던스에 주목하고 있다.
+<b>12. Apple, 메모리칩 비용 '전례없는' 압박 경고...홀리데이 매출 전망에도 주가 하락</b>
+<blockquote>Apple이 메모리칩 비용 상승으로 마진이 압박받을 것이라고 경고했다. 홀리데이 시즌 매출 전망은 견조했지만, 비용 압박 경고에 주가가 하락하며 성장 둔화 우려가 커졌다.
 <a href="https://www.ft.com/content/f6ad8c32-cacb-48ad-ad85-a9a7edac3f16">[FT]</a></blockquote>
 
-<b>23. Apple 성장 둔화...신임 CEO Ternus, 마진 약화 경고</b>
-<blockquote>Apple 주가가 하락했다. 신임 CEO John Ternus가 향후 분기 마진 약화 가능성을 경고하며 높은 가격 전략만으로는 성장 한계를 극복하기 어렵다는 우려가 제기됐다.
-<a href="https://www.wsj.com/tech/apple-beats-wall-street-expectations-with-boost-from-higher-prices-36749418">[WSJ]</a></blockquote>
+<b>13. AMD, 실적 예상치 상회...데이터센터 우선 전략 전환 성과</b>
+<blockquote>AMD가 3분기 실적에서 월스트리트 예상을 웃돌았다. 데이터센터 우선 전략으로 전환한 결과 AI 인프라 수요가 증가하며 주가가 급등했다.
+<a href="https://www.wsj.com/business/earnings/advancedmicrodevices-amd-thirdquarter-earnings-report-2026-stock-e186e911">[WSJ]</a></blockquote>
 
-<b>24. 미국 ISM 제조업지수 10월 55.5...전월비 상승</b>
-<blockquote>미국 공급관리협회(ISM) 제조업 구매관리자지수(PMI)가 10월 55.5를 기록해 9월 54.5에서 상승했다. 제조업 확장세가 지속되고 있다.
-<a href="https://www.wsj.com/economy/central-banking/u-s-factory-activity-expands-in-october-72c3b8bb">[WSJ]</a></blockquote>
+<b>14. 중국, AI 우려로 IPO 승인 중단...증시 조정 압력에 신규 상장 제동</b>
+<blockquote>중국 시장 규제당국이 은행들에 진행 중인 IPO는 계속하되 당분간 신규 상장은 받지 않겠다고 통보했다. AI 기술주 조정으로 증시가 흔들리자 상장 러시를 제어하기 위한 조치로 풀이된다.
+<a href="https://www.wsj.com/finance/stocks/beijing-reins-in-ipo-rush-after-ai-concerns-hit-stock-market-d6abe32b">[WSJ]</a></blockquote>
 
-<b>25. 캐나다 제조업 PMI 10월 49.6...위축 구간 진입</b>
-<blockquote>S&P Global 캐나다 제조업 PMI가 10월 49.6으로 하락해 3개월 연속 하락세를 이어갔다. 기준선 50 아래로 떨어지며 제조업 위축 국면에 진입했다.
-<a href="https://www.wsj.com/economy/canada-manufacturing-sector-pmi-slips-into-contraction-territory-525c459c">[WSJ]</a></blockquote>
+<b>15. 중국 AI주 조정, 글로벌 시장 경고 신호...공급 과잉 우려 부각</b>
+<blockquote>중국 AI 관련 주식들이 조정을 받으며 글로벌 AI 붐에 경고등이 켜졌다. 신기술 공급이 수요를 따라잡을 때 어떤 일이 벌어지는지를 보여주는 사례로 분석됐다.
+<a href="https://www.economist.com/finance-and-economics/2026/11/03/chinas-ai-stock-market-struggles-are-a-warning">[Economist]</a></blockquote>
 
-<b>26. 미국, 남아공·르완다 무관세 혜택 박탈 추진</b>
-<blockquote>미국 정부가 남아공과 르완다에 대한 무관세 무역 접근권을 철회하는 절차에 착수했다. 무역 장벽과 국가안보 우려를 이유로 들며 양국과의 관계가 악화되고 있다.
-<a href="https://www.ft.com/content/fae48a2f-7fb1-4b49-a261-0449fc335427">[FT]</a></blockquote>
+<b>16. 헤지펀드, 10월 AI 조정으로 손실...Marshall Wace·Millennium 타격</b>
+<blockquote>10월 AI 기술주 조정과 채권시장 변동성으로 Marshall Wace와 Millennium 등 주요 헤지펀드들이 손실을 기록했다. 월스트리트의 기술주 하락이 헤지펀드 섹터 전반에 타격을 줬다.
+<a href="https://www.ft.com/content/fae029f1-f03e-4509-852e-396fa4863271">[FT]</a></blockquote>
 
-<b>27. 폴란드 법치 회복 투쟁...PiS 유산 되돌리기 난항</b>
-<blockquote>폴란드 현 정부가 전임 PiS 정부의 사법부 장악 유산을 청산하는 과정에서 법치 원칙 내에서의 개혁 필요성에 직면했다. EU는 폴란드의 법치 회복을 주시하고 있다.
-<a href="https://www.ft.com/content/551ece11-bd7c-4c9a-8914-1e6d4331af70">[FT]</a></blockquote>
+<b>17. Apollo, 3분기 대출 $114bn 기록...AI 금융 붐에 Anthropic·Nvidia 지원</b>
+<blockquote>미국 사모펀드 Apollo가 3분기 신규 대출 규모로 사상 최대인 $114bn을 기록했다. AI 금융 붐 속에 Anthropic과 Nvidia에 자금을 공급하며 대출 확대를 이어갔다.
+<a href="https://www.ft.com/content/72cb3140-49ba-4ce1-be8c-ee5295612b55">[FT]</a></blockquote>
 
-<b>28. 영국 정부, 합법 이민 정책 완화...돌봄 노동자 영구정착 15년 요건 폐기</b>
-<blockquote>영국 내무장관 Shabana Mahmood이 돌봄 노동자 다수에게 영구정착까지 15년을 요구하던 계획을 철회했다. 노동력 부족 우려가 강경 이민 정책 후퇴로 이어졌다.
-<a href="https://www.ft.com/content/04772b49-0aec-4acc-b2cb-1fae192a5f60">[FT]</a></blockquote>
+<b>18. AI 크레딧 시장 냉각 조짐...데이터센터 붐 자금조달 비용 상승</b>
+<blockquote>AI 데이터센터 붐을 뒷받침하던 크레딧 시장에 냉각 조짐이 나타났다. 투자자들이 더 높은 자금조달 비용을 요구하며 AI 인프라 금융에 제동이 걸릴 가능성이 제기됐다.
+<a href="https://www.ft.com/content/5f08f1fb-4948-4420-8fe4-3c8c8cc492ef">[FT]</a></blockquote>
 
-<b>29. 영국 노동당, 녹색당과 협력 종료..."시온주의는 인종주의" 결의안 이유</b>
-<blockquote>영국 노동당이 녹색당과의 11개 지방의회 협력 협정을 종료했다. 녹색당의 "시온주의는 인종주의" 결의안 채택이 결별의 계기가 됐다.
-<a href="https://www.ft.com/content/95132ff4-57b1-4078-8911-bdd163fe3175">[FT]</a></blockquote>
+<b>19. Super Micro, AI 인프라 수요로 매출 급증...1분기 $19.95bn 기록</b>
+<blockquote>서버 제조사 Super Micro Computer의 1분기 매출이 전년 동기 $5.02bn에서 $19.95bn으로 급증했다. 고객들이 AI 인프라에 대한 지출을 지속하며 실적 호조를 이어갔다.
+<a href="https://www.wsj.com/business/earnings/super-micro-computer-revenue-surges-on-ai-infrastructure-demand-32e5542c">[WSJ]</a></blockquote>
 
-<b>30. EU "Brexit 트라우마 여전"...차기 EU 외교수장 경고</b>
-<blockquote>EU 차기 외교안보 고위대표 Kaja Kallas가 Brexit이 남긴 상처가 향후 영국과의 협상에도 그림자를 드리울 것이라고 경고했다. EU는 Brexit 경험에서 벗어나지 못하고 있다.
-<a href="https://www.ft.com/content/968342d7-4642-4b7d-a64f-4a096b293acf">[FT]</a></blockquote>
+<b>20. Shopify, AI 컴퓨팅 비용에 압박...홀리데이 인프라 구축 부담 가중</b>
+<blockquote>전자상거래 기업 Shopify의 3분기 실적과 홀리데이 전망이 AI 컴퓨팅과 인프라 구축 비용 상승 압박을 시사했다. AI 도입 비용이 수익성에 부담으로 작용하고 있다.
+<a href="https://www.wsj.com/business/earnings/shopify-profit-revenue-up-as-merchant-volume-rises-4614feba">[WSJ]</a></blockquote>
 
-<b>31. 프랑스 농촌, 극우 정당에 희망 걸어...Marine Le Pen 지지 확산</b>
-<blockquote>경제적 어려움에 시달리는 프랑스 시골 마을들이 극우 정당 대표 Marine Le Pen을 희망의 상징으로 받아들이고 있다. 농촌 지역의 정치 지형이 급속히 우경화되고 있다.
-<a href="https://www.economist.com/europe/2026/11/02/frances-unhappy-countryside-turns-to-the-populist-right">[Economist]</a></blockquote>
+<b>21. Forward-Deployed Engineer 수요 급증...연봉 $150만 경쟁 가열</b>
+<blockquote>기업들의 AI 투자 회수 경쟁이 가열되며 Forward-Deployed Engineer(FDE) 수요가 급증하고 있다. 기업·AI 연구소·컨설팅사들이 동일 인재를 놓고 경쟁하며 연봉이 $150만까지 치솟았다.
+<a href="https://www.wsj.com/cio-journal/demand-for-forward-deployed-engineers-is-leading-to-1-5-million-paychecks-c1cd713a">[WSJ]</a></blockquote>
 
-<b>32. 스페인 열차 사고, Sánchez 재선 가능성 타격</b>
-<blockquote>Madrid-Sevilla 노선에서 올해 두 번째 치명적 열차 사고가 발생하며 11월 29일 총선을 앞둔 Sánchez 총리의 재선 전망에 먹구름이 드리웠다. "모든 게 엉망"이라는 인식이 확산되고 있다.
-<a href="https://www.ft.com/content/3ee74496-7746-457c-860d-2d0b4975691b">[FT]</a></blockquote>
+<b>22. Trump, 'AI' 용어 금지령으로 CEO들 혼란...문장 중간 표현 수정도</b>
+<blockquote>Trump 대통령이 'AI'라는 용어 사용을 금지한 이후 Nvidia부터 Microsoft까지 CEO들이 언어적 줄타기에 나섰다. 일부는 문장 중간에 표현을 수정하는 등 혼란이 이어지고 있다.
+<a href="https://www.wsj.com/tech/ai/trump-declared-war-on-the-term-ai-ceos-are-struggling-to-keep-up-c81387ef">[WSJ]</a></blockquote>
 
-<b>33. Putin이 서방 분열시킨 방법...세 진영으로 갈라진 동맹</b>
-<blockquote>러시아에 대한 대응을 둘러싸고 서방 동맹 내부에서 세 개의 서로 다른 진영이 형성됐다. Putin의 전략이 NATO 결속에 균열을 내고 있다.
-<a href="https://www.ft.com/content/eae872b0-69cb-445c-a107-aab95f9a8525">[FT]</a></blockquote>
+<b>23. Anthropic IPO 가능성 부상...기술주 침체 속 예외적 시장 개방</b>
+<blockquote>AI 기업 Anthropic의 IPO 가능성이 제기되며 기술주 시장에 주목이 쏠렸다. 전반적인 IPO 시장 침체 속에서도 Anthropic에는 시장 문이 열려 있다는 평가다.
+<a href="https://www.wsj.com/tech/ai/the-ipo-market-is-open-for-anthropic-not-for-everyone-else-15d97043">[WSJ]</a></blockquote>
 
-<b>34. 폴란드 동부 주민들, 일상에 침투한 러시아 전쟁 실감</b>
-<blockquote>폴란드 동부 지역 주민들이 러시아의 우크라이나 공습 때마다 경보 사이렌과 문자 경보를 받고 있다. 러시아의 영공 침범이 일상화되며 긴장이 고조되고 있다.
-<a href="https://www.ft.com/content/3f2c660b-2693-4e39-a9b9-fb77189e7422">[FT]</a></blockquote>
+<b>24. Google, 학교 계정 AI 접근 제한...Gemini 챗봇 기본 차단</b>
+<blockquote>Google이 학교 아동 계정에서 Gemini 챗봇과 Google Search를 기본적으로 차단했다. WSJ의 학교 내 AI 도입 조사 이후 반발에 대응한 조치다.
+<a href="https://www.wsj.com/tech/ai/google-curbs-ai-in-school-accounts-after-pushback-6b8021fc">[WSJ]</a></blockquote>
 
-<b>35. 우크라이나·러시아 비상경보 앱 동시 사이버 공격</b>
-<blockquote>우크라이나의 Air Alert 앱이 방사능·화학물질 위협과 시가전 허위 경보를 발송했다. 러시아 비상경보 시스템도 동시에 공격받으며 양국 간 사이버전이 격화됐다.
-<a href="https://www.wsj.com/world/cyberattacks-hit-ukraines-and-russias-emergency-alert-apps-e2d01065">[WSJ]</a></blockquote>
+<b>25. EU 법원 자문, AI 챗봇 저작권 침해 위험 경고...뉴스 재사용 쟁점</b>
+<blockquote>EU 최고법원 자문관이 AI 챗봇이 뉴스 기사를 재사용해 답변을 생성할 경우 저작권법 위반 위험이 있다고 경고했다. 기술 기업들의 AI 콘텐츠 활용에 법적 제약이 가해질 가능성이 커졌다.
+<a href="https://www.wsj.com/business/media/eu-court-adviser-warns-ai-chatbots-could-risk-infringing-copyright-law-41793aa3">[WSJ]</a></blockquote>
 
-<b>36. 유럽 슈퍼마켓 냉동고 55도까지 과열...새로운 사이버 공격</b>
-<blockquote>스웨덴, 벨기에, 아일랜드, 에스토니아 등 유럽 수십 개 매장에서 냉동고 온도가 55도까지 치솟는 사이버 공격이 발생했다. 유럽 인프라 보안 취약성이 다시 드러났다.
-<a href="https://www.ft.com/content/2526056c-c616-4116-94b1-ac278da21cca">[FT]</a></blockquote>
+<b>26. 비트코인 채굴→AI 전환 기업, 난항 지속...변동성은 암호화폐와 동일</b>
+<blockquote>비트코인 채굴 서버를 AI 데이터센터로 전환한 기업들이 운영 난항을 겪고 있다. AI 시장이 암호화폐만큼 변동성이 크다는 점이 드러나며 전환 전략의 한계가 노출됐다.
+<a href="https://www.wsj.com/finance/currencies/bitcoin-miners-pivoted-to-aionly-to-find-its-just-as-turbulent-as-crypto-17485887">[WSJ]</a></blockquote>
 
-<b>37. 이스라엘 선거관리위원장, Netanyahu "도난 선거" 주장 반박</b>
-<blockquote>이스라엘 중앙선거관리위원회 위원장이 Netanyahu 총리의 "선거 도난" 주장을 정면 반박하며 선거가 적법하게 실시됐다고 강조했다.
-<a href="https://www.ft.com/content/47427e95-69bf-4fd7-bf7f-a1bb6b11334e">[FT]</a></blockquote>
+<b>27. Binance 해커, 가짜 인터뷰·SNS 프로필로 $6.3bn 탈취...인적 오류 악용</b>
+<blockquote>Binance의 내부 조사 결과, 해커들이 가짜 인터뷰와 소셜미디어 프로필을 이용해 사상 최대 규모인 $6.3bn을 탈취한 것으로 드러났다. 인적 오류가 핵심 공격 경로였다.
+<a href="https://www.ft.com/content/1ed838c0-a525-49bb-b494-15e4d1296791">[FT]</a></blockquote>
 
-<b>38. 독일 정부, 정치인들에 iPhone 해킹 경고</b>
-<blockquote>독일 정부가 Apple로부터 경고를 받은 국회의원과 공무원들에게 자신의 iPhone이 해킹됐을 가능성을 전제하라고 권고했다. 국가안보 차원의 사이버 위협이 현실화됐다.
-<a href="https://www.ft.com/content/77626f75-01e9-4123-8510-a095b2231861">[FT]</a></blockquote>
+<b>28. 북한, Binance 해킹 개입 부인...불량국가 이미지 탈피 노력</b>
+<blockquote>북한이 Binance $6.3bn 해킹 개입을 신속히 부인했다. Kim Jong Un의 여동생이 평양으로서는 이례적으로 성명을 내며 불량국가 이미지 탈피를 시도했다.
+<a href="https://www.wsj.com/world/asia/eager-to-rebut-rogue-nation-image-north-korea-denies-role-in-binance-heist-a46659c6">[WSJ]</a></blockquote>
 
-<b>39. Diamondback Energy 3분기 순익 $1.6bn...생산 목표 재상향</b>
-<blockquote>석유·가스 기업 Diamondback Energy가 3분기 순이익 $1.6bn을 기록하며 전년 $1.02bn에서 증가했다. 회사는 생산 목표를 다시 한번 상향 조정했다.
-<a href="https://www.wsj.com/business/earnings/diamondback-energy-lifts-production-targets-again-as-revenue-grows-1a98b68d">[WSJ]</a></blockquote>
+<b>29. 중국 경제 성장 허상 지적...비생산적 투자로 은행·지방정부 막힘</b>
+<blockquote>중국 정부가 장밋빛 통계를 발표하지만, 실제로는 비생산적 투자로 은행과 지방정부가 막혀 있다는 분석이 나왔다. 중국 경제 성장의 허상이 드러나고 있다.
+<a href="https://www.wsj.com/world/china/broken-china-review-a-mirage-of-growth-67fe6d8e">[WSJ]</a></blockquote>
 
-<b>40. Blackstone, Mitsubishi LNG 캐나다 지분에 $3.1bn 투자</b>
-<blockquote>Blackstone 주도 컨소시엄이 Mitsubishi의 캐나다 천연가스 액화 프로젝트 지분에 $3.1bn을 투자하기로 합의했다. 북미 LNG 인프라 투자가 가속화되고 있다.
-<a href="https://www.wsj.com/finance/investing/blackstone-leads-3-1-billion-investment-in-mitsubishis-stake-in-lng-canada-96379858">[WSJ]</a></blockquote>
+<b>30. 중국 주식시장 정보 불균형...외국인 투자자 불리한 진실</b>
+<blockquote>중국 주식시장에서 외국인 투자자들이 국내 투자자와 다른 정보를 받는 구조적 불균형이 드러났다. 이는 외국 자본 유치에 걸림돌로 작용하고 있다.
+<a href="https://www.wsj.com/world/china/china-stock-markets-hidden-problem-foreign-investors-get-a-different-truth-a95ea686">[WSJ]</a></blockquote>
 
-<b>41. Alstom 실적 쇼크에 주가 26% 급락...이익 전망 하향</b>
-<blockquote>프랑스 철도차량 제조업체 Alstom이 이익 전망을 대폭 낮추며 주가가 26% 폭락했다. 신임 CEO Martin Sion 체제에서 두 번째 어닝 쇼크다.
-<a href="https://www.ft.com/content/95723b31-c35b-4d68-9abe-9e082e95e362">[FT]</a></blockquote>
+<b>31. JD.com, 독일 Ceconomy €2.2bn 인수 승인...EU 국가 보조금 판정에도</b>
+<blockquote>중국 전자상거래 기업 JD.com이 독일 MediaMarkt 소유주 Ceconomy를 €2.2bn에 인수하는 거래가 EU 승인을 받았다. JD.com이 국가 보조금을 받았다는 판정에도 브뤼셀이 승인했다.
+<a href="https://www.ft.com/content/9f71bc39-fef2-4af1-a2e4-b2ff17aa5641">[FT]</a></blockquote>
 
-<b>42. Fox 순익 증가...월드컵·선거로 광고 매출 급증</b>
-<blockquote>Fox의 분기 이익이 증가했다. 월드컵과 중간선거가 광고 매출을 끌어올렸으나 CEO Lachlan Murdoch은 Fox News 시청률 하락이 구조적 문제는 아니라고 해명했다.
-<a href="https://www.wsj.com/business/earnings/fox-q1-earnings-report-2027-73ef3b55">[WSJ]</a></blockquote>
+<b>32. CVS Health, $117bn 헬스케어 제국 해체 검토...약국 사업 분할 가능성</b>
+<blockquote>CVS Health가 약국 사업 분할을 검토하며 $117bn 규모 헬스케어 제국 해체에 나섰다. Pharmacy Benefit Manager와 건강보험사에 대한 정치적 압박이 거세지는 가운데 구조조정 가능성이 제기됐다.
+<a href="https://www.ft.com/content/2478a5ea-263a-4f4f-ac96-7d619fb39bb8">[FT]</a></blockquote>
 
-<b>43. Fox News 시청률 급락...CNN·MSNBC는 증가</b>
-<blockquote>중간선거를 앞두고 Fox News의 시청률이 급락한 반면 CNN과 MSNBC는 시청자를 확대했다. Lachlan Murdoch은 "시청자 피로"를 원인으로 꼽았다.
-<a href="https://www.ft.com/content/f1d46023-f199-4822-bd76-293afde613b3">[FT]</a></blockquote>
+<b>33. Pfizer, 신약 성장으로 수익성 개선...코로나 제품 매출 감소 상쇄</b>
+<blockquote>Pfizer가 코로나 제품 매출 감소에도 불구하고 신약 매출 증가로 수익성 개선을 전망했다. 블록버스터 혈액희석제를 포함한 비코로나 의약품 매출이 7% 증가했다.
+<a href="https://www.ft.com/content/405784ae-4bb2-4f7f-ad18-ebb5e7a0eaf1">[FT]</a></blockquote>
 
-<b>44. Clorox 실적 개선에도 전망 하향...원가 상승 부담</b>
-<blockquote>청소용품 제조사 Clorox가 매출과 이익 증가를 기록했으나 원가 상승 부담으로 연간 주당순이익 전망을 가이던스 하단인 $5.70-$6 중 낮은 쪽으로 조정했다.
-<a href="https://www.wsj.com/business/retail/clorox-posts-higher-revenue-profit-trims-outlook-on-higher-costs-4e6a468b">[WSJ]</a></blockquote>
+<b>34. Yum Brands, Taco Bell 매출 회복...Cyclospora 발병 여파 진정</b>
+<blockquote>Yum Brands의 CEO Chris Turner가 Taco Bell 매출이 9월 말 이후 외식업계 전반을 앞서며 회복세를 보이고 있다고 밝혔다. Cyclospora 발병 여파가 진정되며 실적이 개선됐다.
+<a href="https://www.wsj.com/business/earnings/yum-revenue-rises-despite-taco-bell-cyclospora-outbreak-fallout-04afd09a">[WSJ]</a></blockquote>
 
-<b>45. Estee Lauder 턴어라운드 결실...1분기 매출·이익 증가</b>
-<blockquote>화장품 기업 Estee Lauder가 1분기 매출과 이익 증가를 기록하며 턴어라운드 전략이 성과를 내고 있다. 회사는 연간 전망도 상향 조정했다.
-<a href="https://www.wsj.com/business/retail/estee-lauder-posts-higher-profit-sales-as-turnaround-bears-fruit-14072a3f">[WSJ]</a></blockquote>
+<b>35. Keurig Dr Pepper, 커피 사업 부진 지속...회복 예상보다 지연</b>
+<blockquote>음료 기업 Keurig Dr Pepper가 3분기 순이익 $810mn을 기록했지만, 커피 사업 회복이 예상보다 지연되며 실적 압박이 이어졌다.
+<a href="https://www.wsj.com/business/earnings/keurig-dr-pepper-posts-higher-3q-profit-sales-9f8453bc">[WSJ]</a></blockquote>
 
-<b>46. Marriott 분기 매출 증가...미국·캐나다 수요 견조</b>
-<blockquote>호텔 체인 Marriott International의 분기 매출이 증가했다. 미국과 캐나다의 광범위한 수요와 중동 여행 트렌드 개선이 실적을 뒷받침했다.
-<a href="https://www.wsj.com/business/earnings/marriott-revenue-rises-on-broad-based-demand-in-u-s-canada-5799d605">[WSJ]</a></blockquote>
+<b>36. Block Inc., Square 결제 볼륨 급증으로 수익 증가...3분기 순이익 $565.6mn</b>
+<blockquote>Cash App과 Square 소유주 Block Inc.가 3분기 순이익 $565.6mn을 기록하며 전년 동기 $461.5mn에서 증가했다. Square 결제 볼륨 급증이 실적을 견인했다.
+<a href="https://www.wsj.com/business/earnings/block-inc-profit-rises-as-square-payment-volume-jumps-b59af0ce">[WSJ]</a></blockquote>
 
-<b>47. Binance $6.3bn 해킹 사고...블록체인 아닌 생태계 취약점 노출</b>
-<blockquote>암호화폐 거래소 Binance가 $6.3bn 규모의 해킹을 당했다. 블록체인 자체보다는 주변 생태계의 기술적 취약점이 문제로 지적됐다.
-<a href="https://www.ft.com/content/aee842a2-2949-4746-8742-03c0397f0391">[FT]</a></blockquote>
+<b>37. Booking.com, 지정학 갈등으로 실적 감소...3분기 수익·매출 하락</b>
+<blockquote>온라인 여행사 Booking.com이 3분기 순이익 $27.2억, 주당 $3.61을 기록하며 매출이 1% 감소한 $88.9억을 기록했다. 글로벌 분쟁이 여행 수요에 부담을 준 것으로 분석됐다.
+<a href="https://www.wsj.com/business/earnings/booking-profit-sales-fall-as-global-conflicts-wear-on-travel-demand-f91deef1">[WSJ]</a></blockquote>
 
-<b>48. 온라인 베팅업체들, 미국 주(州) 선거에 거액 투자</b>
-<blockquote>화요일 중간선거를 앞두고 도박 및 예측 시장 기업들이 자신들의 규제 환경을 형성할 기회로 삼아 주 차원 선거에 막대한 자금을 쏟아붓고 있다.
-<a href="https://www.ft.com/content/13bce257-b287-4d03-bf43-e894c3ef421f">[FT]</a></blockquote>
+<b>38. Unilever, 식품 분할 후 €1bn 비용 절감 계획...2029년까지 구조조정</b>
+<blockquote>소비재 기업 Unilever가 2029년 말까지 €1bn(약 $1.1bn) 비용 절감 계획을 발표했다. 식품 사업 분할 이후 운영 효율화로 성장 기반을 다지겠다는 전략이다.
+<a href="https://www.ft.com/content/d86c9440-0c50-4879-ae46-81c9649934c0">[FT]</a></blockquote>
 
-<b>49. 주민 반발 속 AI 인프라 전력망 업그레이드 충돌</b>
-<blockquote>AI 투자 확대와 전력 수요 증가로 미국 전역에서 주거지 내 송전선 건설 계획을 둘러싼 주민과 전력사의 갈등이 격화되고 있다.
-<a href="https://www.wsj.com/us-news/homeowners-fight-utilities-over-grid-upgrades-in-their-backyards-7e31d36f">[WSJ]</a></blockquote>
+<b>39. Carl Icahn의 CVR Energy, Marathon 정유소 $4bn 인수...전쟁으로 정유업 호황</b>
+<blockquote>Carl Icahn의 CVR Energy가 Marathon의 정유소 2곳을 $4bn에 인수하는 계약을 체결했다. 글로벌 분쟁으로 미국 정유업체들의 매출이 증가하는 가운데 이뤄진 거래다.
+<a href="https://www.wsj.com/business/deals/carl-icahns-cvr-energy-near-over-4-billion-deal-for-marathon-refineries-e8487579">[WSJ]</a></blockquote>
 
-<b>50. EU-캐나다 관계 강화 모색...실질 내용은 아직 부족</b>
-<blockquote>EU와 캐나다가 정책 공조 강화에 큰 야심을 드러냈으나 구체적 실질 내용은 아직 부족하다. 양측은 협력 확대를 위한 로드맵 마련에 나섰다.
-<a href="https://www.ft.com/content/3e5ff393-ff2e-482d-ae8a-48444dc00458">[FT]</a></blockquote>
+<b>40. 사우디 Aramco, 전쟁 속에도 이익 급증...유가 상승이 피해 시설 상쇄</b>
+<blockquote>사우디 Aramco가 전쟁으로 시설이 폭격당했음에도 유가 상승 덕분에 이익이 급증했다. 높은 유가가 전쟁 피해를 상쇄하며 실적 호조를 이어갔다.
+<a href="https://www.economist.com/business/2026/11/03/besieged-by-war-saudi-aramco-continues-to-gush-profits">[Economist]</a></blockquote>
 
-<b>51. 세르비아, 러시아인 선호 은행 Alta Bank 폐쇄</b>
-<blockquote>세르비아가 전 대통령 Aleksandar Vučić의 선거 패배 이후 대규모 자금이 국외로 송금된 혐의로 Alta Bank를 폐쇄했다. 러시아 자금 이동 경로 차단 조치로 해석된다.
-<a href="https://www.ft.com/content/c478c8b6-789f-4253-8970-1244b93c1cce">[FT]</a></blockquote>
+<b>41. 투자자들, 미국 주지사 선거 주목...AI 데이터센터 개발 영향 전망</b>
+<blockquote>월스트리트가 36개 주지사 선거에 주목하고 있다. AI 데이터센터 개발에 대한 주 정부의 정책 변화가 투자 환경에 중대한 영향을 미칠 것으로 예상되기 때문이다.
+<a href="https://www.ft.com/content/c8a092e5-c1e4-46b8-83e1-73404900a0c5">[FT]</a></blockquote>
 
-<b>52. 미국 식품업계 수십억 달러 건강 점검 압박</b>
-<blockquote>초가공식품 제조사들이 미국 정부의 예방 가능한 질병 감축 노력 강화로 압박을 받고 있다. 규제 비용이 업계 전반에 부담으로 작용할 전망이다.
-<a href="https://www.ft.com/content/3b0a8555-b00b-4132-bc30-61c61cd967f2">[FT]</a></blockquote>
+<b>42. 영국 보수당, David Cameron 동원해 모금 강화...Reform UK 앞서기 위한 전략</b>
+<blockquote>영국 보수당이 전 총리 David Cameron을 모금 행사에 내세우며 자금 확보에 나섰다. 보수당이 거의 2년 만에 처음으로 Reform UK를 앞서는 여론조사 결과를 기록한 가운데 추진된 전략이다.
+<a href="https://www.ft.com/content/df602ad9-2399-4b10-970c-c1ae231fbf2e">[FT]</a></blockquote>
+
+<b>43. EU, Brexit 재협상 서명 거부...학비 협상 타결 전까지 대기</b>
+<blockquote>EU가 영국에 EU 학생들에게 더 저렴한 대학 학비를 제공할 것을 요구하며 Brexit 재협상 최종 서명을 거부했다. 영국 노동당 정부의 Brexit '리셋' 시도가 학비 문제로 난항을 겪고 있다.
+<a href="https://www.ft.com/content/1ae28330-37b2-4f12-86c1-fd73156bb4ec">[FT]</a></blockquote>
+
+<b>44. 영국 연금 개혁, 연금 수령자에 연간 소득 기본 제공...자금 고갈 방지</b>
+<blockquote>영국 정부가 연금 수령자들이 사적 연금을 너무 빨리 소진하지 않도록 연간 소득을 기본으로 제공하는 개혁안을 발표했다. 고령층의 자금 고갈 방지가 목적이다.
+<a href="https://www.ft.com/content/ff3cf416-a839-4f9c-a46c-ea5c4147b8ae">[FT]</a></blockquote>
+
+<b>45. 영국, 노예무역 사과 예정...배상금은 거부</b>
+<blockquote>영국이 대서양 노예무역에서 주요 역할을 했던 점에 대해 사과할 예정이지만, 배상금 지급은 거부할 방침이다. 영국은 노예무역을 종식시킨 역할도 강조했다.
+<a href="https://www.wsj.com/world/uk/britain-set-to-apologize-for-role-in-trans-atlantic-slave-trade-a7afc8dc">[WSJ]</a></blockquote>
+
+<b>46. 영국 이민 개혁, 고소득자 혜택 확대...유학생 유치는 위축 우려</b>
+<blockquote>영국 이민 개혁안에서 고소득자들이 수혜를 볼 전망이지만, 유학생 유치는 위축될 위험이 제기됐다. 이민 정책 변화가 교육 산업에 부정적 영향을 미칠 가능성이 있다.
+<a href="https://www.ft.com/content/29e0bba8-8ff4-413d-b2fa-91bc198f1a20">[FT]</a></blockquote>
+
+<b>47. 세르비아, Vučić 정권 연계 은행 소유주 체포...선거 패배 후 금고 비움 혐의</b>
+<blockquote>세르비아 당국이 Alta Bank 소유주 Davor Macura를 체포했다. 그는 세르비아 강경파 Vučić의 선거 패배 후 은행 금고를 비운 혐의를 받고 있다.
+<a href="https://www.ft.com/content/af6b1093-0d68-47e6-999e-24b1161cf4ac">[FT]</a></blockquote>
+
+<b>48. 파라과이, 대통령과 연계된 디지털 은행 압류...유동성 문제로 청산 절차</b>
+<blockquote>파라과이 당국이 대통령 Peña와 연계된 급성장 디지털 은행 Ueno Bank를 유동성 문제로 압류하고 청산 절차에 착수했다.
+<a href="https://www.ft.com/content/9381a90b-a65a-4e1e-9a35-4732d16891de">[FT]</a></blockquote>
+
+<b>49. 엘살바도르 대통령, 아이티 갱단 대응에 2,500명 파병...도시 전투 우려</b>
+<blockquote>엘살바도르 대통령이 무법천지 아이티에 2,500명의 병력을 파견했다. 도시 전투 수렁에 빠질 위험이 높아지며 고위험 도박이라는 평가가 나온다.
+<a href="https://www.wsj.com/world/americas/el-salvadors-president-takes-a-high-stakes-gamble-confronting-haitian-gangs-44446248">[WSJ]</a></blockquote>
+
+<b>50. 유럽 방위 통합 vs 민족주의...Trump·Putin이 통합 촉발, 지속 불확실</b>
+<blockquote>Donald Trump와 Vladimir Putin이 유럽의 자체 방위에 대한 진지한 논의를 촉발했지만, 민족주의가 유럽을 분열시킬 수 있다는 우려가 제기됐다. 방위 통합의 지속 가능성이 의문시된다.
+<a href="https://www.economist.com/international/2026/11/03/fear-united-europe-nationalism-may-tear-it-apart">[Economist]</a></blockquote>
 
 ━━━━━━━━━━━━━━━━━━━━
 📡 <b>출처: WSJ · FT · The Economist</b>
