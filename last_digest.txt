@@ -4,117 +4,233 @@
 
 ✅ <b>간밤의 주요 헤드라인</b>
 
-<b>1. 민주당 중간선거 압승...상하원 동시 탈환에 주지사까지</b>
-<blockquote>민주당이 상하원 과반을 되찾으며 중간선거에서 역대급 승리를 거뒀다. 유권자 4분의 3이 경제 상황을 '좋지 않다'고 평가하며 물가 부담과 이란전쟁에 대한 불만을 표출했다. 공화당은 2년 전 트럼프 당선 때 결집했던 유권자층이 이탈하며 참패했다.
-<a href="https://www.wsj.com/politics/elections/democrats-midterm-victory-shakes-up-2028-electoral-map-a7ff9e79">[WSJ]</a> <a href="https://www.ft.com/content/f27626ac-8427-45d7-a995-a8dfe8d01bd9">[FT]</a></blockquote>
+<b>1. 월가 $3.2조 증발, 민주당 중간선거 압승에 AI 랠리 붕괴</b>
+<blockquote>민주당이 중간선거에서 역사적 승리를 거두며 나스닥 100지수가 6.4% 폭락했다. 데이터센터 건설 규제 우려가 테크 섹터를 강타하며 AI 관련 주식이 일제히 급락했다. 월가는 하루 만에 3조2000억 달러 시가총액을 잃었다.
+<a href="https://www.ft.com/content/3d079b3d-580d-400b-bf9c-56af6a08f60f">[FT]</a></blockquote>
 
-<b>2. Vance 부통령, 이란전쟁이 참패 원인...트럼프와 첫 공개 균열</b>
-<blockquote>JD Vance 부통령은 공화당 중간선거 참패의 원인으로 이란전쟁을 지목하며 Trump 대통령의 군사작전에 대해 이례적인 공개 비판을 내놨다. 백악관 내부에서는 향후 군사작전 강화 여부를 놓고 논쟁이 벌어지고 있다.
-<a href="https://www.wsj.com/politics/policy/vances-break-with-trump-on-iran-follows-weeks-of-handwringing-over-war-6b43c90c">[WSJ]</a></blockquote>
+<b>2. 민주당, 50년래 최대 의회 압승...남부 레드월 무너졌다</b>
+<blockquote>민주당이 남부 전역에서 공화당 텃밭을 무너뜨리며 50년 만에 최대 규모의 의회 석권을 이뤄냈다. 흑인·히스패닉·청년층 투표율이 승리를 견인했으며, 2028년 대선 지형이 전면 재편됐다.
+<a href="https://www.economist.com/united-states/2026/11/05/the-democrats-have-won-the-biggest-congressional-landslide-in-50-years">[Economist]</a></blockquote>
 
-<b>3. Murdoch 미디어 제국, Trump와 거리두기 시작</b>
-<blockquote>Fox News는 이란전쟁 전략에 의문을 제기하고 New York Post는 1면에 'Blue Tsunami'를 실으며 Rupert Murdoch의 미디어 그룹이 Trump 대통령과 관계를 재조정하고 있다. 측근은 "Rupert은 패자와 함께하지 않는다"고 전했다.
-<a href="https://www.ft.com/content/ead0309f-537a-4cc1-9d65-a3b9de01e69d">[FT]</a></blockquote>
+<b>3. 남부 레드월 붕괴, 민주당 역사적 선거 지도 다시 그렸다</b>
+<blockquote>민주당이 남부 지역에서 공화당의 수십 년 지배를 깨며 광범위한 승리를 거뒀다. "견고한 남부가 무너지고 있다"는 평가가 나오며, 2028년 미국 정치 지형이 즉각 재설정됐다.
+<a href="https://www.wsj.com/politics/elections/the-red-wall-falls-democrats-shatter-decades-of-gop-dominance-across-the-south-a299a14d">[WSJ]</a></blockquote>
 
-<b>4. 유가 $100 아래로 급락...민주당 승리에 중동 긴장완화 기대</b>
-<blockquote>원유 선물이 2개월 만에 최저치로 떨어졌다. 민주당의 상하원 장악으로 중동 분쟁의 조기 해결 가능성이 높아지고 미국의 추가 군사 확전 우려가 완화됐다는 평가다.
-<a href="https://www.wsj.com/business/energy-oil/oil-prices-rise-as-investors-weigh-u-s-midterm-results-iran-risks-1d97da8a">[WSJ]</a> <a href="https://www.ft.com/content/b526f876-810a-4e74-8b8d-4ffca04b29c7">[FT]</a></blockquote>
+<b>4. 비즈니스 출신 민주당 후보들 약진...MBA 의원 대거 당선</b>
+<blockquote>이번 중간선거에서 MBA 학위와 경영 경력을 보유한 민주당 후보들이 핵심 지역구를 석권했다. Costco 이사 출신 후보 등 비즈니스 배경의 후보들이 공화당 우세 지역을 뒤집으며 당의 혼합적 기록을 깼다.
+<a href="https://www.wsj.com/politics/elections/the-costco-board-member-and-other-m-b-a-s-who-won-in-the-midterms-53610398">[WSJ]</a></blockquote>
 
-<b>5. 금 선물 $4,000 회복...유가 하락 속 안전자산 재조정</b>
-<blockquote>금 선물이 $4,000선을 되찾았다. 민주당 승리로 중동 긴장 완화 기대가 커지며 유가가 급락한 가운데, 안전자산 수요가 재편되는 흐름이 포착됐다.
-<a href="https://www.wsj.com/finance/commodities-futures/gold-edges-higher-amid-cooling-oil-prices-c805a544">[WSJ]</a></blockquote>
+<b>5. Chuck Schumer, 의회 양원 장악 후 당내 진보파와 충돌 가능성</b>
+<blockquote>민주당 상원 원내대표 Chuck Schumer가 중간선거 승리 후 환호했지만, 승리를 위해 봉합한 당내 진보파와의 갈등이 불거질 전망이다. 의회 장악 후 정책 방향을 놓고 내부 대립이 예상된다.
+<a href="https://www.wsj.com/politics/policy/chuck-schumer-was-democrats-punching-bag-now-hes-riding-high-b77bcaa2">[WSJ]</a></blockquote>
 
-<b>6. 미국 천연가스 선물 2거래일 연속 상승</b>
-<blockquote>천연가스 선물이 2.2% 오른 $2.959/mmBtu를 기록하며 이틀째 상승세를 이어갔다. 겨울 수요 시즌을 앞두고 재고 수준이 주목받고 있다.
-<a href="https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-rise-for-second-session-1bce85ae">[WSJ]</a></blockquote>
+<b>6. 월가, 민주당 승리에도 중도파 영향력 확대 기대</b>
+<blockquote>투자자들은 중간선거 압승이 미국 정치에서 극단주의 세력의 영향력을 제한할 것으로 전망한다. 월가는 민주당 내 중도 세력이 워싱턴에서 실질적 힘을 발휘할 것으로 기대하고 있다.
+<a href="https://www.ft.com/content/18739027-d5cc-4e18-825e-d43ac7d1ef9f">[FT]</a></blockquote>
 
-<b>7. Trump의 러시아産 디젤 수입 시도 차질...미국 재고 20년 최저</b>
-<blockquote>러시아산 디젤을 실은 유조선 2척이 항로를 바꾸며 Trump 행정부의 연료 가격 인하 노력이 난항을 겪고 있다. 미국 디젤 재고는 20년 만에 최저 수준을 기록 중이다.
-<a href="https://www.ft.com/content/f66ebf48-6d09-4a91-9af5-8bf7adca65ba">[FT]</a></blockquote>
+<b>7. 백악관, 보수단체들에 이례적 경고..."우리가 지켜보고 있다"</b>
+<blockquote>백악관이 목요일 보수 단체들에게 이들의 발언을 감시하고 있다고 경고했다. Trump 대통령 측근들이 분열 조짐을 보이던 연합을 붙잡기 위해 강경 대응에 나선 것으로 풀이된다.
+<a href="https://www.wsj.com/politics/policy/trump-administration-tells-conservative-groups-were-watching-you-095ed5ca">[WSJ]</a></blockquote>
 
-<b>8. 미국 원유재고 5주 연속 감소...디젤 재고는 20년 최저</b>
-<blockquote>미국 상업용 원유 재고가 86만5000배럴 줄어들며 5주 연속 감소세를 기록했다. 증류유(디젤·난방유) 재고는 20년 이상 만에 최저치로 떨어졌다고 EIA가 발표했다.
-<a href="https://www.wsj.com/finance/commodities-futures/u-s-crude-oil-stockpiles-post-fifth-straight-weekly-drop-96cefc7d">[WSJ]</a></blockquote>
+<b>8. 중간선거 참패로 대법관 임명 창 닫혀...보수 판사 교체 불투명</b>
+<blockquote>중간선거 패배로 고령의 보수 성향 대법관들이 공화당 통제 하 상원에서 후임 인준을 받을 가능성이 수년간 사라졌다. 대법관 임명을 둘러싼 Trump 행정부의 전략적 창이 급격히 닫혔다는 평가다.
+<a href="https://www.wsj.com/politics/policy/midterm-rout-closes-trumps-window-on-the-supreme-court-ce7c8225">[WSJ]</a></blockquote>
 
-<b>9. Dow 18개월 만에 최대 상승...분점정부에 주식 강세</b>
-<blockquote>민주당의 의회 장악으로 입법 교착 전망이 나오며 주식시장이 급등했다. 투자자들은 재정지출 확대가 제한되고 정책 불확실성이 줄어들 것으로 기대하고 있다.
-<a href="https://www.wsj.com/finance/stocks/stock-futures-edge-lower-treasurys-strengthen-after-democratic-sweep-f2198d07">[WSJ]</a> <a href="https://www.ft.com/content/a0b18705-3bd8-4886-992c-b6062fdec6ea">[FT]</a></blockquote>
+<b>9. 민주당, 데이터센터 건설 규제 공약에 AI 붐 꺾일까</b>
+<blockquote>신규 당선 민주당 의원들이 데이터센터 건설 억제를 공약하며 미국 증시를 이끌어온 AI 투자 테마가 흔들리고 있다. 규제 우려가 테크 주식을 강타하며 AI 랠리의 지속 가능성에 의문이 제기된다.
+<a href="https://www.ft.com/content/5dedb9bf-bd12-4956-b2b7-ce968e1e1371">[FT]</a></blockquote>
 
-<b>10. 하이퍼스케일러 급등·칩메이커 하락...AI 정책 전환 베팅</b>
-<blockquote>민주당 승리로 AI 규제 강화 가능성이 제기되며 빅테크 내부에서도 차별적 반응이 나타났다. 하이퍼스케일러 기업들은 강세를 보인 반면 칩메이커 주가는 하락했다. 데이터센터 확장 계획의 45%가 영향을 받을 수 있다는 분석도 나왔다.
-<a href="https://www.ft.com/content/a0b18705-3bd8-4886-992c-b6062fdec6ea">[FT]</a> <a href="https://www.ft.com/content/b7d0761f-e5fb-4746-924f-b15420a57844">[FT]</a></blockquote>
+<b>10. 나스닥, 팬데믹 이후 최대 낙폭...민주당 청색파도가 AI 베팅 뒤엎어</b>
+<blockquote>투자자들은 전국 각지에서 당선된 민주당 의원들이 데이터센터 개발을 늦출 것을 우려하며 테크 주식을 대거 매도했다. 나스닥은 코로나19 팬데믹 이후 최악의 하루를 기록했다.
+<a href="https://www.ft.com/content/7c6ceb4f-d7b1-49ec-9047-0e2e4cd2615c">[FT]</a></blockquote>
 
-<b>11. Musk 순자산 $30bn 증발...정치 투자 실패 타격</b>
-<blockquote>Elon Musk가 중간선거에 $440mn 이상을 투입했지만 공화당이 참패하며 Tesla 주가 급락으로 순자산이 $30bn 가까이 줄었다. 민주당 의회는 Musk에 대한 조사 강도를 높일 전망이다.
-<a href="https://www.ft.com/content/9a8d4922-74dd-4149-bb28-a15f719ca836">[FT]</a> <a href="https://www.wsj.com/politics/elections/elon-musk-midterms-texas-blue-wave-bff60456">[WSJ]</a></blockquote>
+<b>11. 월가, AI 현실 점검 $2.5조 규모...작년 4월 관세 혼란 이후 최악</b>
+<blockquote>나스닥 종합지수가 조정 국면에 진입하며 증시는 작년 4월 관세 갈등 이후 최악의 날을 맞았다. 두 주요 반도체 기업의 실망스러운 실적과 선거 후 데이터센터 규제 우려가 AI 관련 주식을 강타했다.
+<a href="https://www.wsj.com/finance/stocks/wall-street-gets-2-5-trillion-ai-reality-check-with-historic-rout-of-tech-stocks-93985d7c">[WSJ]</a></blockquote>
 
-<b>12. 미국 ISM 서비스업 지수 10월 54.5...소폭 둔화</b>
-<blockquote>ISM 서비스업 구매관리자지수(PMI)가 10월 54.5를 기록하며 전월 54.9에서 소폭 하락했다. 시장 예상치 54.8에 근접한 수준으로, 서비스업 확장세는 유지됐다.
-<a href="https://www.wsj.com/economy/central-banking/u-s-services-sector-activity-expands-again-in-october-6d04c6ed">[WSJ]</a></blockquote>
+<b>12. AI 백래시, 트릴리언 달러 데이터센터 붐 위협...업계 인정</b>
+<blockquote>FT AI 서밋에 참석한 테크 업계 임원들은 자신들이 데이터센터 확장에 대한 적대감을 부채질했음을 인정했다. AI 관련 인프라 투자 열풍이 정치적 반발로 제동이 걸릴 위기에 처했다.
+<a href="https://www.ft.com/content/32fd4450-5880-437d-9bd9-df13289ada24">[FT]</a></blockquote>
 
-<b>13. 미국 9월 무역적자 0.7% 축소...$105bn</b>
-<blockquote>9월 무역적자가 $105bn로 전월 대비 0.7% 줄어들었다. 수입이 수출을 초과한 폭이 예상보다 작았다는 평가다.
-<a href="https://www.wsj.com/economy/trade/u-s-trade-deficit-contracted-in-september-e9eeff46">[WSJ]</a></blockquote>
+<b>13. 테크 리더들, 정치 전략 긴급 재검토 필요...데이터센터 반발 확산</b>
+<blockquote>미국 데이터센터 건설 반대 움직임이 AI 불안과 업계의 권력·부에 대한 회의론을 상징한다. 테크 리더들은 정치적 접근 방식을 근본적으로 재고해야 한다는 목소리가 커지고 있다.
+<a href="https://www.ft.com/content/6b64ea5b-48c3-474f-944b-845163db9b40">[FT]</a></blockquote>
 
-<b>14. ADP 10월 민간고용 8.6만명 증가...예상 상회</b>
-<blockquote>ADP 집계 민간 부문 고용이 10월 8만6000명 순증했다. 시장 예상치 7만5000명을 웃도는 수치로, 고용 시장의 견조함이 확인됐다.
-<a href="https://www.wsj.com/economy/jobs/private-sector-hiring-remained-solid-in-october-39ac72ae">[WSJ]</a></blockquote>
+<b>14. Elon Musk, 중간선거 이후 $120bn 손실...테슬라 주가 폭락</b>
+<blockquote>민주당 중간선거 승리 이후 테슬라 주가가 급락하며 Elon Musk는 거의 1200억 달러의 자산 가치를 잃었다. 공화당 지지 발언이 부메랑이 된 것으로 풀이된다.
+<a href="https://www.ft.com/content/9a8d4922-74dd-4149-bb28-a15f719ca836">[FT]</a></blockquote>
 
-<b>15. 유로존 10월 인플레 4%로 반등...ECB 긴축 지속 전망</b>
-<blockquote>유로존 소비자물가가 10월 전년비 4% 상승하며 ECB 목표치의 2배를 기록했다. 에너지 비용 상승이 주요 원인으로, 중앙은행의 긴축 기조가 이어질 것으로 보인다.
-<a href="https://www.wsj.com/economy/global/eurozone-inflation-climbs-again-driven-by-energy-costs-0adbaef3">[WSJ]</a> <a href="https://www.ft.com/content/a3da6c3a-4ab3-413c-bbeb-490d7cde34dc">[FT]</a></blockquote>
+<b>15. 월가 메가 도너들, 민주당 압승에 타격...헤지펀드·PE 거액 허공</b>
+<blockquote>최고위 헤지펀드 매니저와 프라이빗 에쿼티 임원들이 공화당 캠페인에 3억 달러 이상을 쏟아부었지만 효과는 전무했다. 월가 공화당 후원자들이 선거 결과에 큰 타격을 입었다.
+<a href="https://www.ft.com/content/1338f6b6-81b1-478b-9807-5cfe1fc39113">[FT]</a></blockquote>
 
-<b>16. Zillow 트래픽 감소...주택시장 동결에 실적 타격</b>
-<blockquote>Zillow는 "한 세대 만에 가장 어려운 주택시장"이라며 앱과 웹사이트 트래픽이 감소했다고 밝혔다. 높은 주택담보대출 금리가 시장을 얼어붙게 만들고 있다.
-<a href="https://www.wsj.com/business/earnings/zillow-revenue-rises-as-rentals-help-offset-weak-market-for-home-sales-02fc9d5e">[WSJ]</a></blockquote>
+<b>16. AI 리더들이 중간선거에서 배울 교훈...규제 대응 전략 재수립해야</b>
+<blockquote>중간선거 결과는 AI 업계 리더들에게 정치 환경 변화에 대비한 전략 수립의 중요성을 일깨웠다. 민주당 승리가 AI 규제 강화로 이어질 가능성에 업계가 대응책 마련에 나섰다.
+<a href="https://www.wsj.com/cio-journal/what-ai-leaders-can-learn-from-the-midterms-291f5f01">[WSJ]</a></blockquote>
 
-<b>17. Qualcomm 4분기 매출 8% 감소...$103억</b>
-<blockquote>Qualcomm 4분기 매출이 $103억2000만으로 전년 대비 8% 줄었다. 자동차용 칩 매출 급증에도 핸드셋 부문 부진이 상쇄했다.
-<a href="https://www.wsj.com/business/earnings/qualcomm-revenue-falls-as-handset-slowdown-offsets-automotive-gains-dd021608">[WSJ]</a></blockquote>
+<b>17. 골드만삭스, 2010년 이후 최대 파트너 승진...트레이딩·딜메이킹 호황</b>
+<blockquote>골드만삭스가 트레이딩과 딜메이킹 붐에 힘입어 기록적 규모의 엔지니어를 포함한 파트너 승진 인원을 발표했다. 투자은행의 엘리트 집단이 대거 확대되며 수익 호조가 반영됐다.
+<a href="https://www.ft.com/content/2f7eadc8-e01e-45df-8fcc-275e3e100558">[FT]</a></blockquote>
 
-<b>18. Arm Holdings 매출 27% 증가...AI 수요 견인</b>
-<blockquote>Arm Holdings는 클라우드·디바이스·자율시스템 전반에서 AI가 강력한 컴퓨팅 수요를 만들어내고 있다며 매출 27% 증가를 기록했다고 밝혔다.
-<a href="https://www.wsj.com/business/earnings/arm-holdings-sales-climb-27-on-ai-demand-206782b6">[WSJ]</a></blockquote>
+<b>18. 골드만삭스, 웰스매니지먼트 출신 대거 파트너 승진...성별·인종 비율 미공개</b>
+<blockquote>골드만삭스의 독점적 파트너 클럽이 웰스매니지먼트 부문에서 대거 유입된 최대 규모 신규 멤버를 맞이했다. 올해는 이례적으로 성별 및 인종 구성 비율을 공개하지 않았다.
+<a href="https://www.wsj.com/finance/banking/goldmans-exclusive-club-of-partners-welcomes-an-influx-from-wealth-management-ebe2e32a">[WSJ]</a></blockquote>
 
-<b>19. Expedia 실적·전망 상향...연간 매출 최대 $164억</b>
-<blockquote>온라인 여행사 Expedia는 연간 매출 전망을 $163억7000만~$164억3000만으로 상향 조정했다. 기존 가이던스 $160억5000만~$162억2000만에서 높아졌다.
-<a href="https://www.wsj.com/business/earnings/expedia-raises-outlook-following-higher-profit-sales-6556d0a2">[WSJ]</a></blockquote>
+<b>19. 헤지펀드 Walleye, 자본 환원하며 주식 사업 축소...최악의 달 겪어</b>
+<blockquote>자산 170억 달러 규모의 멀티전략 펀드 Walleye가 코로나 위기 이후 최악의 월간 실적을 기록한 뒤 주식 사업 축소와 함께 고객 자본을 환원한다고 밝혔다.
+<a href="https://www.ft.com/content/fb02c333-a439-4acd-b0b6-e50633ce863e">[FT]</a></blockquote>
 
-<b>20. CVS Health, $1,020억 규모 분할 추진...약국 9,000개 독립</b>
-<blockquote>CVS Health가 약국 사업부를 분사하기로 했다. 약 9,000개 점포를 별도 회사로 독립시키는 이번 조치는 약국급여관리자(PBM)와 건강보험사에 대한 정치적 압박이 커지는 가운데 나왔다.
-<a href="https://www.ft.com/content/2478a5ea-263a-4f4f-ac96-7d619fb39bb8">[FT]</a></blockquote>
+<b>20. Blue Origin, 로켓 발사 일정 2027년까지 연기...Musk와 격차 확대</b>
+<blockquote>Jeff Bezos의 로켓 회사 Blue Origin이 치명적 폭발 사고 이후 발사 일정을 2027년으로 연기했다. Elon Musk의 SpaceX와의 경쟁에서 추가로 뒤처지게 됐다.
+<a href="https://www.ft.com/content/39efbb7e-44a3-4a75-883b-e76ed6f9f5fd">[FT]</a></blockquote>
 
-<b>21. Wayfair 3분기 흑자전환...미국 매출 급증</b>
-<blockquote>Wayfair가 3분기 흑자로 돌아섰다. 미국 매출 급증과 팬데믹 이후 가장 빠른 성장 속도가 실적을 견인했다.
-<a href="https://www.wsj.com/business/retail/wayfair-logs-profit-as-u-s-sales-drive-revenue-growth-d85c49aa">[WSJ]</a></blockquote>
+<b>21. Nvidia 지원 Cohere, IPO 시점 불투명...매출 급증에도 신중</b>
+<blockquote>캐나다 AI 기업 Cohere의 CEO는 매출이 급증하고 Nvidia와 캐나다 정부로부터 신규 투자를 받았음에도 IPO 일정은 여전히 불확실하다고 밝혔다.
+<a href="https://www.wsj.com/pro/venture-capital/nvidia-backed-cohere-says-ipo-timing-uncertain-despite-surging-revenue-3310476f">[WSJ]</a></blockquote>
 
-<b>22. 중국, AI 붐 재점화 위해 주식시장 방어 강화</b>
-<blockquote>중국 정부가 주로 시장 지지에 활용하는 ETF로 사상 두 번째로 많은 자금이 유입됐다. 베이징이 AI 경쟁력 강화를 위해 증시 방어에 나선 것으로 풀이된다.
-<a href="https://www.ft.com/content/b86cc3e7-e638-4b58-8d4d-4516c13c45f5">[FT]</a></blockquote>
+<b>22. Mercedes, 차량에 AI 업그레이드 탑재...MIT 스핀오프와 협력</b>
+<blockquote>Mercedes가 MIT에서 분사한 스타트업 Liquid AI와 협력해 클라우드가 아닌 차량 내부에서 직접 AI 모델을 구동하는 시스템을 개발하고 있다.
+<a href="https://www.wsj.com/cio-journal/mercedes-gives-its-cars-an-ai-upgrade-607daae2">[WSJ]</a></blockquote>
 
-<b>23. 중국, AI 연구 자동화 실험실 확대...미국 견제 의식</b>
-<blockquote>중국이 미국을 의식해 AI가 제어하는 과학 연구 실험실 투자를 늘리고 있다. 연구 자동화를 통해 산업 경쟁력을 강화하려는 전략이다.
-<a href="https://www.economist.com/china/2026/11/04/with-an-eye-on-america-china-is-beefing-up-its-ai-controlled-labs">[Economist]</a></blockquote>
+<b>23. 유가 $100 아래로 급락, 민주당 승리로 이란 외교 기대</b>
+<blockquote>미국 중간선거 이후 이란과의 외교 전망이 부상하며 유가가 배럴당 100달러 아래로 떨어졌다. 트레이더들은 미국-이란 관계 개선과 중동 원유 공급 회복 가능성을 저울질하고 있다.
+<a href="https://www.wsj.com/business/energy-oil/oil-prices-stay-below-100-as-traders-weigh-iran-diplomacy-supply-outlook-4e8f12e5">[WSJ]</a></blockquote>
 
-<b>24. Solvay, 희토류 공급망 다변화 계약...중국 의존도 축소</b>
-<blockquote>벨기에 화학기업 Solvay가 브라질 광산에서 희토류를 공급받는 계약을 체결했다. 유럽과 미국의 첨단 자석 생산에서 중국 의존도를 낮추는 데 기여할 전망이다.
-<a href="https://www.ft.com/content/7479802b-7071-4ab7-a7a0-bbebc20010e3">[FT]</a></blockquote>
+<b>24. 사우디, 후티 평화협상서 $51bn 요구 받아...선택지 고민 중</b>
+<blockquote>사우디가 이란 지원 후티 무장단체에 평화 조건을 물었고, 후티는 510억 달러를 요구했다. 왕국은 후티 위협에 대응할 쉬운 선택지가 없는 상황이다.
+<a href="https://www.wsj.com/world/middle-east/saudi-arabia-has-no-easy-choices-as-it-weighs-how-to-combat-houthi-threat-a4adc358">[WSJ]</a></blockquote>
 
-<b>25. Sequoia Capital, 런던 오피스 폐쇄...실리콘밸리 집중</b>
-<blockquote>유명 벤처캐피털 Sequoia가 런던 사무소를 닫고 실리콘밸리에 재집중한다. 영국이 AI 산업 선도국으로 자리매김하려는 계획에 타격이 될 전망이다.
-<a href="https://www.ft.com/content/a55bf156-1c61-4ff6-8c3c-5b8db837abd0">[FT]</a></blockquote>
+<b>25. 재생에너지 기업들, 미 선거 결과에 환호...정책 명확성 확보</b>
+<blockquote>Ørsted 등 재생에너지 기업들이 선거 결과가 가져온 정책 방향의 명확성을 환영했다. Trump 행정부의 2년간 적대적 환경 이후 정치적 배경 변화가 업계에 호재로 작용하고 있다.
+<a href="https://www.ft.com/content/3066017e-996c-4689-9bd8-021eb70b99ac">[FT]</a></blockquote>
 
-<b>26. Bill Gates, AI 생물무기 위험 경고..."코로나보다 심각할 수 있어"</b>
-<blockquote>Bill Gates는 AI가 생물무기 개발에 악용될 경우 "코로나보다 훨씬 심각한 팬데믹"을 초래할 수 있다며 정부 규제 강화가 필요하다고 밝혔다.
-<a href="https://www.ft.com/content/8ede113c-1e4a-49a6-8199-3936b7d58340">[FT]</a> <a href="https://www.ft.com/content/a94656af-513d-4f40-a98a-cb57eecaed85">[FT]</a></blockquote>
+<b>26. 민주당, 에너지 위기 대응 조기 시험대...중간선거서 에너지 가격 공약</b>
+<blockquote>민주당이 높은 에너지 가격을 집중 공격하며 중간선거에서 손쉬운 승리를 거뒀다. 이제 에너지 문제 해결에 대한 구체적 행동이 요구되며, 당이 어떤 정책을 선택할지 주목된다.
+<a href="https://www.wsj.com/politics/policy/the-democrats-are-about-to-get-an-early-test-on-the-energy-crisis-9e86926f">[WSJ]</a></blockquote>
 
-<b>27. 유럽, 민주당 승리 환영...Trump주의 퇴조 기대</b>
-<blockquote>유럽 지도자들이 민주당의 중간선거 압승을 환영했다. 다만 독일 Merz는 Trump 대통령이 여전히 행정명령을 통해 정책을 펼칠 것으로 예상했다.
-<a href="https://www.ft.com/content/97070d8f-ce2d-4873-8c70-cc8338f7ce1c">[FT]</a></blockquote>
+<b>27. 민주당 압승이 미국 에너지 정책에 던진 큰 질문들</b>
+<blockquote>민주당은 중간선거에서 에너지 비용 문제를 최우선 과제로 내세웠다. 이제 압도적 의회 장악 이후 실제 에너지 정책을 어떻게 이끌어갈지가 관건이다.
+<a href="https://www.ft.com/content/bdf4430c-5514-433a-ba04-67b0f9cf0de9">[FT]</a></blockquote>
 
-<b>28. 캐나다, Trump 패배에 환호..."물레방아 돌 듯 기쁘다"</b>
-<blockquote>캐나다에서는 Trump 대통령의 공화당이 중간선거에서 참패하자 환영 반응이 나왔다. 유권자들이 공화당 의제를 거부한 것을 "캐나다의 승리"로 받아들이고 있다.
-<a href="https://www.ft.com/content/026cf61a-3e15-4d0e-bdb5-050fe005b725">[FT]</a></blockquote>
+<b>28. BoE, 이란 전쟁 이후 첫 금리 인상...에너지 가격 영향 주시</b>
+<blockquote>영란은행이 이란 전쟁 시작 이후 처음으로 기준금리를 인상했다. 전쟁으로 에너지 가격이 상승했지만, 중간선거 이후 전쟁 종식 기대로 유가가 하락한 상황이다.
+<a href="https://www.wsj.com/economy/central-banking/bank-of-england-raises-rates-for-first-time-since-start-of-iran-war-f6353d96">[WSJ]</a></blockquote>
+
+<b>29. BoE, 금리 4%로 인상하며 추가 인상 시사...인플레 2차 효과 우려</b>
+<blockquote>영란은행이 기준금리를 4%로 올리며 2023년 이후 첫 인상을 단행했다. 인플레이션 압력 증가 전망과 함께 추가 금리 인상 가능성을 열어뒀다.
+<a href="https://www.ft.com/content/290cf85b-6d95-4c79-af9b-e2a3d79072f6">[FT]</a></blockquote>
+
+<b>30. BoE, 고착 인플레 우려에 추가 금리 인상 여지 남겨...매파 전환</b>
+<blockquote>영란은행이 3년 만에 첫 금리 인상을 단행하며 인플레이션이 뿌리내릴 우려가 있다는 매파적 메시지를 내놨다. 이는 중앙은행의 기조 급변을 알리는 신호다.
+<a href="https://www.ft.com/content/88476c6f-2e7c-4ec6-b92c-cd933b9aeb01">[FT]</a></blockquote>
+
+<b>31. BoE 금리 인상, 트래커 모기지 추세에 위협...고정금리 차입자는 완충</b>
+<blockquote>이번 주 영란은행 금리 인상 결정이 트래커 모기지 확산 추세를 위협할 전망이다. 대부분의 고정금리 대출자는 영향을 받지 않지만, 5년 만기 만료자는 지급 충격에 직면한다.
+<a href="https://www.ft.com/content/ed74a1e3-1d80-41dd-9404-2dee3015c162">[FT]</a></blockquote>
+
+<b>32. 영국, 채용 공고 임금 공개 의무화 추진...임금 불평등 해소 목표</b>
+<blockquote>영국 정부가 채용 공고에 급여 명시를 의무화할 방침이다. 이는 임금 불평등을 줄이고 '경쟁력 있는 급여'라는 모호한 표현을 없애기 위한 조치다.
+<a href="https://www.ft.com/content/6a1b17dd-3da2-410b-b64e-fbf111e40336">[FT]</a></blockquote>
+
+<b>33. 노르웨이 중앙은행, 금리 동결했지만 긴축 가능성 열어둬</b>
+<blockquote>노르웨이 중앙은행이 기준금리를 유지했지만, 인플레이션이 높게 유지될 경우 추가 긴축 정책 가능성을 열어뒀다.
+<a href="https://www.wsj.com/economy/central-banking/norges-bank-holds-key-interest-rate-but-signals-readiness-to-tighten-dedee6ad">[WSJ]</a></blockquote>
+
+<b>34. 중국, 소프트뱅크 ABB 로봇 부문 $5.4bn 인수 차단...AI 기술 통제 강화</b>
+<blockquote>중국이 소프트뱅크의 ABB 로봇 사업부 54억 달러 인수를 차단했다. 베이징이 자국 내 개발된 AI 데이터와 전문성이 해외로 유출되는 것을 막으려는 의도로 풀이된다.
+<a href="https://www.wsj.com/business/deals/abb-confirms-china-blocked-softbank-deal-for-robotics-unit-cf1d44bf">[WSJ]</a></blockquote>
+
+<b>35. 중국 은행권, 부실 재벌 문제로 숙취...야생 자본주의 후유증</b>
+<blockquote>부채에 빠진 재벌들이 중국 은행 시스템을 괴롭히고 있다. 대출 기관들은 수년간의 야생 자본주의 시대가 남긴 숙취를 겪고 있다.
+<a href="https://www.economist.com/finance-and-economics/2026/11/05/indebted-tycoons-haunt-chinas-banking-system">[Economist]</a></blockquote>
+
+<b>36. 토요타, 엔화 약세 수혜로 실적 상향...주가 39년래 최대 상승</b>
+<blockquote>토요타가 엔화 약세와 원가 절감 덕분에 영업이익이 34% 증가하며 연간 실적 전망을 상향 조정했다. 중동 분쟁 영향에도 주가는 39년 만에 최대 상승폭을 기록했다.
+<a href="https://www.wsj.com/business/autos/toyota-raises-earnings-forecast-after-higher-operating-profit-a7f0879b">[WSJ]</a></blockquote>
+
+<b>37. 유럽 증시, 민주당 압승 후 월가 추월...Stoxx 600 S&P500 앞질러</b>
+<blockquote>Stoxx Europe 600 지수가 미국 주식 급락 후 올해 들어 S&P 500을 앞서고 있다. 민주당 압승 이후 미국 증시가 흔들리며 유럽 증시가 상대적 강세를 보이고 있다.
+<a href="https://www.ft.com/content/1ca182d6-8d16-4ddb-98fb-cf933b4c3073">[FT]</a></blockquote>
+
+<b>38. General Mills, 북미 외 하겐다즈 사업 분사 검토...Cheerios로 유명</b>
+<blockquote>Cheerios와 Lucky Charms로 잘 알려진 General Mills가 북미 외 지역 하겐다즈 사업 분리를 검토하고 있다. 계획은 초기 단계이며 최종적으로 사업을 유지할 가능성도 있다.
+<a href="https://www.wsj.com/business/general-mills-considering-separation-of-haagen-dazs-business-outside-north-america-7f110a77">[WSJ]</a></blockquote>
+
+<b>39. 파라과이 대통령 사임, 측근 은행 붕괴로 위기...빠른 성장 경제 흔들려</b>
+<blockquote>Santiago Peña 파라과이 대통령이 그와 밀접한 은행의 붕괴로 촉발된 위기 속에 사임했다. 투자자들을 끌어들이며 미국과 긴밀한 관계를 맺어온 빠르게 성장하는 남미 경제가 요동쳤다.
+<a href="https://www.wsj.com/world/americas/paraguays-president-resigns-as-collapse-of-bank-with-close-ties-to-him-sparks-crisis-a62895f1">[WSJ]</a></blockquote>
+
+<b>40. Monzo, £7.5bn 밸류에이션 자금조달 검토...Nubank 인수 무산 후</b>
+<blockquote>브라질 핀테크 Nubank의 100억 파운드 인수가 성사되지 않자 Monzo가 프라이빗 에쿼티 그룹과의 협상이 지연되며 75억 파운드 밸류에이션으로 자금 조달을 모색하고 있다.
+<a href="https://www.ft.com/content/6553ec40-00a8-4832-8ca5-c528b9da224a">[FT]</a></blockquote>
+
+<b>41. FTC, 아마존 블랙프라이데이·프라임데이 광고 가격 3배 인상 주장</b>
+<blockquote>FTC가 아마존이 블랙프라이데이와 프라임데이에 광고 가격을 3배로 올렸으며 가격 인상의 진짜 원인을 오도하는 발언을 했다고 밝혔다. 지난 8월 소송의 비공개 세부사항이 공개됐다.
+<a href="https://www.wsj.com/tech/ftc-claims-amazon-tripled-ad-prices-for-black-friday-prime-day-ae340913">[WSJ]</a></blockquote>
+
+<b>42. Wendy's, Trian의 $1.4bn 인수 제안 거부...자체 턴어라운드 고수</b>
+<blockquote>어려움을 겪고 있는 버거 체인 Wendy's가 Nelson Peltz의 헤지펀드 Trian이 제시한 14억 달러 인수 제안을 거절하고 자체 턴어라운드 계획을 지지했다.
+<a href="https://www.wsj.com/business/deals/wendys-rejects-trians-1-4-billion-takeover-offer-984b1892">[WSJ]</a></blockquote>
+
+<b>43. Macquarie, 커모디티 수익 50% 급증하며 1분기 실적 예상 상회</b>
+<blockquote>호주 금융그룹 Macquarie의 커모디티 관련 수익이 시장 변동성 증가로 급증하며 상반기 이익이 50% 증가해 예상을 웃돌았다.
+<a href="https://www.wsj.com/business/earnings/macquarie-beats-expectations-with-50-jump-in-first-half-profit-b8de7b98">[WSJ]</a></blockquote>
+
+<b>44. 미국 실업수당 청구 18.9만건으로 다시 감소...예상 하회</b>
+<blockquote>미국 노동부는 10월 31일까지 주간 신규 실업수당 청구가 18만9000건으로 감소했다고 밝혔다. 이는 경제학자들이 예상한 19만7000건을 밑도는 수치다.
+<a href="https://www.wsj.com/economy/jobs/u-s-jobless-claims-slide-lower-again-54f85605">[WSJ]</a></blockquote>
+
+<b>45. 홈빌더 주가 상승, 투자자들 희망 찾기...중간선거 후 강세</b>
+<blockquote>D.R. Horton, PulteGroup, Lennar 등 주요 주택건설업체들이 화요일 중간선거 이후 모두 강세를 보였다. 투자자들이 주택 시장 회복 가능성에 희망을 걸고 있다.
+<a href="https://www.wsj.com/finance/stocks/why-investors-are-searching-for-hope-in-home-builders-07a525bd">[WSJ]</a></blockquote>
+
+<b>46. LA, 민주사회주의자 Nithya Raman 시장 당선...DSA 후보 약진</b>
+<blockquote>민주사회주의자 Nithya Raman이 현직 Karen Bass를 누르고 LA 시장에 당선됐다. 이는 워싱턴과 프로비던스 등 여러 도시에서 DSA 후보들이 승리한 흐름의 일환이다.
+<a href="https://www.wsj.com/politics/elections/democratic-socialist-nithya-raman-wins-los-angeles-mayors-race-54583571">[WSJ]</a></blockquote>
+
+<b>47. Trump 대통령 거부권, 민주당 의제 견제...하지만 만능은 아냐</b>
+<blockquote>Trump 대통령의 헌법상 법안 거부 권한이 의회를 장악한 민주당의 의제를 저지하는 수단이 되겠지만 만능 해결책은 아니다. 정치적 협상이 불가피할 전망이다.
+<a href="https://www.wsj.com/politics/policy/what-to-know-about-trumps-veto-power-3fd31dd9">[WSJ]</a></blockquote>
+
+<b>48. Rheinmetall, 딜 지연으로 매출 전망 하향...주가 17% 급락</b>
+<blockquote>독일 방산업체 Rheinmetall이 Boxer 장갑차 주문 지연으로 매출 전망을 낮추며 주가가 17% 폭락했다. 방산 그룹에 새로운 악재로 작용했다.
+<a href="https://www.ft.com/content/4d0c5a48-3ef7-494d-baf8-063ef9edb2e5">[FT]</a></blockquote>
+
+<b>49. Meloni, EU의 우크라이나 접근법 비판..."분열된 대응으로 무의미해질 수 있어"</b>
+<blockquote>이탈리아 총리 Giorgia Meloni가 유럽연합의 우크라이나 협상 접근 방식이 분열돼 있다며 평화 협상에서 EU가 무의미해질 위험이 있다고 경고했다. 유럽이사회 의장에게 보낸 서한에서 밝혔다.
+<a href="https://www.ft.com/content/fce3e1e9-576c-4415-ad31-29583cb377ed">[FT]</a></blockquote>
+
+<b>50. 유럽 항공편 최소 20편 이상에 폭탄 위협...전문가들 조직적 캠페인 추정</b>
+<blockquote>유럽 항공편에 대한 폭탄 위협이 최소 20편 이상 추가로 접수됐다. 전문가들은 이 사태가 유럽 전역 항공 여행을 교란하기 위한 조직적 캠페인이라고 주장한다.
+<a href="https://www.ft.com/content/e2eb8161-7620-494b-9905-4271164d0e4c">[FT]</a></blockquote>
+
+<b>51. 독일 정부, 탱크 제조사 KNDS 지분 절반 인수 임박...상장 가능성 열어둬</b>
+<blockquote>독일 정부가 프랑스-독일 합작 KNDS의 지분 절반을 인수하는 계약이 이번 주 마무리될 전망이다. 향후 기업공개 가능성은 배제하지 않았다.
+<a href="https://www.ft.com/content/198d3d9d-b7d4-4c3a-884e-ad7b4e359dfa">[FT]</a></blockquote>
+
+<b>52. 폴란드 드론 제조사 WB Electronics, €7bn IPO 준비...은행에 제안 요청</b>
+<blockquote>전투에서 검증된 유럽 드론 제조사 WB Electronics가 내년 바르샤바 상장을 앞두고 은행들에게 주관 역할 제안을 요청하며 70억 유로 IPO를 향한 단계를 밟고 있다.
+<a href="https://www.ft.com/content/58106ce0-31ec-4814-b1b4-bba34778e9e7">[FT]</a></blockquote>
+
+<b>53. 여론조사, 민주당 미국 중간선거 '청색파도' 규모 과소평가...보정 과잉 탓</b>
+<blockquote>예측 불가능한 유권자들이 대선 후 보정 과잉으로 이어질 수 있다는 분석이 나왔다. 여론조사 기관들이 민주당 압승 규모를 제대로 예측하지 못한 배경이 지적됐다.
+<a href="https://www.ft.com/content/c8314951-713a-4370-ac7b-89b35e771f7e">[FT]</a></blockquote>
+
+<b>54. 프랑스 시위, 60만 명 참여로 최대 규모...생활비 문제 집중</b>
+<blockquote>목요일 생활비 문제를 둘러싼 시위가 9월 운동 시작 이후 최대 참여자를 모은 것으로 보인다. 거의 60만 명이 최근 시위에 합류했다.
+<a href="https://www.ft.com/content/5ddd52f0-adb8-41d6-9a06-a680daa2e427">[FT]</a></blockquote>
+
+<b>55. Russell Brand, 강간 및 성폭행 유죄 판결...월요일 선고</b>
+<blockquote>코미디언에서 온라인 논객으로 변신한 Russell Brand가 런던에서 4주간의 재판 끝에 4건의 강간 및 성폭행 혐의에 대해 유죄 판결을 받았다. 선고는 월요일 진행된다.
+<a href="https://www.wsj.com/world/uk/russell-brand-guilty-verdict-02e0ad15">[WSJ]</a></blockquote>
+
+<b>56. 크레디트 뮈튈 Arkéa, €100mn 해킹 후 자금 회수 나서</b>
+<blockquote>프랑스 은행 크레디트 뮈튈 Arkéa가 자체 계좌를 겨냥한 1억 유로 해킹 공격 이후 자금 회수에 나섰다. 공격 기법은 지난주 암호화폐 거래소 Binance 해킹과 유사하다.
+<a href="https://www.ft.com/content/3f6ef089-f478-4d00-a080-21a88ffd721b">[FT]</a></blockquote>
+
+<b>57. Cristiano Ronaldo, 국가대표 은퇴...41세, 2003년부터 포르투갈 대표</b>
+<blockquote>마데이라 태생의 41세 Cristiano Ronaldo가 국제 축구 무대에서 은퇴했다. 그는 2003년부터 포르투갈 대표팀으로 활약해왔다.
+<a href="https://www.ft.com/content/97d0c0d8-c84b-408b-a386-038963769757">[FT]</a></blockquote>
 
 ━━━━━━━━━━━━━━━━━━━━
 📡 <b>출처: WSJ · FT · The Economist</b>
