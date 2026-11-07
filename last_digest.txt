@@ -4,101 +4,49 @@
 
 ✅ <b>간밤의 주요 헤드라인</b>
 
-<b>1. Trump, Stephen Miller 백악관 비서실장 임명...중간선거 참패 후 강경파 전면배치</b>
-<blockquote>Trump 대통령이 중간선거 공화당 참패 직후 Stephen Miller를 백악관 비서실장으로 임명했다. 이민·대이란 정책 강경파인 Miller는 Trump 1기 행정부 초기부터 핵심 참모로 활동했으며, 기존 비서실장 Susie Wiles는 정치 캠페인 조직으로 자리를 옮긴다.
-<a href="https://www.wsj.com/politics/elections/trump-names-stephen-miller-his-new-chief-of-staff-2f835632">[WSJ]</a></blockquote>
+<b>1. 미 민주당, 중간선거서 수십 년 만에 최대 주의회 장악...재정·통상정책 주도권 확보</b>
+<blockquote>민주당이 중간선거에서 주의회 다수당 지위를 대거 탈환하며 수십 년 만에 최고 성과를 거뒀다. 이번 승리로 민주당은 주요 주에서 삼권 장악(trifecta)을 확대, 예산·세제·규제 정책에 대한 실질적 영향력을 강화하게 됐다. 트럼프 행정부의 레임덕이 심화될 가능성이 커지면서 연방 재정정책과 무역협상 불확실성이 확대될 전망이다.
+<a href="https://www.wsj.com/politics/elections/see-democrats-historic-statehouse-wins-and-their-new-trifectas-aff55a0c">[WSJ]</a></blockquote>
 
-<b>2. 마이애미 연방검사 사임...Trump 정치보복 수사 책임자 물러나</b>
-<blockquote>Trump 행정부에서 대통령 정적에 대한 공모 수사를 지휘했던 Jason Reding Quiñones 마이애미 연방검사가 사임했다. 중간선거 이후 법무부 인사 교체가 본격화될 것으로 예상된다.
-<a href="https://www.wsj.com/politics/policy/top-prosecutor-overseeing-conspiracy-probe-of-trump-foes-resigns-c9bb4d94">[WSJ]</a></blockquote>
+<b>2. 청년층, 경제 압박에 공화당 이탈...식료품비·학자금 부채 불만 폭발</b>
+<blockquote>이번 중간선거에서 젊은 유권자들이 공화당을 대거 이탈하거나 기권하며 선거 결과를 좌우했다. 이들은 치솟는 식료품비, 학자금 대출 부담, 정체된 임금을 주요 이유로 꼽았다. 경제적 불만이 정치 성향을 바꾸는 '뉴 스윙 보터(New Swing Voter)'로 부상하면서 향후 선거에서 핵심 변수가 될 것으로 보인다.
+<a href="https://www.wsj.com/politics/elections/the-new-swing-voter-young-underemployed-and-deeply-disillusioned-c0696d7a">[WSJ]</a></blockquote>
 
-<b>3. 백악관, 비영리단체 테러 연계 행정명령 검토...세금 면제 즉각 박탈 가능</b>
-<blockquote>Trump 행정부가 일부 비영리단체를 테러 연계 조직으로 지정해 세금 면제 지위를 즉각 박탈하는 행정명령을 검토 중이다. 명령은 아직 최종 확정되지 않았으며, 정치적 반대 세력에 대한 압박 수단으로 해석된다.
-<a href="https://www.wsj.com/politics/policy/trump-executive-order-irs-nonprofit-status-bf7e1735">[WSJ]</a></blockquote>
+<b>3. Trump, UFC 회장 Dana White 백악관 대변인 임명...강경 대응 시그널</b>
+<blockquote>Donald Trump 대통령이 UFC 대표 Dana White를 백악관 대변인으로 지명했다. 중간선거 패배 직후 공격적 성향의 인물을 기용하며 민주당 의회와의 정면 대결 태세를 갖췄다는 분석이 나온다. White는 정치 경험이 전무하지만 트럼프와 오랜 친분을 유지해왔다.
+<a href="https://www.ft.com/content/52c3c7ac-f0ee-4b90-a2c8-68e76d120a79">[FT]</a></blockquote>
 
-<b>4. AI 관련 기술주 $3.2조 증발 후 소폭 반등...역사적 폭락에서 회복 시도</b>
-<blockquote>기술주 중심 Nasdaq 100 지수가 전날 역사적 폭락 이후 1.4% 반등했다. 그러나 이번 주 기술주에서 증발한 시가총액은 $3.2조에 달하며, 반등 폭은 과거 급락 이후 회복 사례에 비해 미미한 수준이다.
-<a href="https://www.ft.com/content/642b32dc-e3a1-4df8-ae91-5c84bdeb89e0">[FT]</a></blockquote>
+<b>4. Hegseth 국방장관 탄핵안 채택 임박...군사 예산 불확실성 증폭</b>
+<blockquote>Pete Hegseth 국방장관에 대한 탄핵 표결이 다음 주로 예정된 가운데, 의회 비판 세력은 그가 저항할 경우 국방예산 승인이 지연될 수 있다고 경고했다. Hegseth는 탄핵에 맞서 적극적 방어 캠페인을 벌이고 있으며, 정치권은 국방 정책 공백 장기화를 우려하고 있다.
+<a href="https://www.wsj.com/politics/hegseth-mounts-aggressive-campaign-to-fight-pending-impeachment-2f4dc7ae">[WSJ]</a></blockquote>
 
-<b>5. 대만·한국 증시 안정화 조치 발동...아시아 기술주 출혈 확산 방어</b>
-<blockquote>대만 당국이 한국에 이어 증시 안정화 조치를 가동했다. 글로벌 AI 관련 주식 폭락이 아시아 시장으로 번지면서 양국 정부가 동시 개입에 나섰다.
-<a href="https://www.wsj.com/finance/commodities-futures/taiwan-activates-market-stabilization-measures-to-stem-ai-bleeding-169e36e1">[WSJ]</a></blockquote>
+<b>5. 민주당 장악 의회, 우크라이나 지원 확대 추진...외교정책 충돌 불가피</b>
+<blockquote>중간선거로 의회를 장악한 민주당이 우크라이나 군사·경제 지원을 입법 수단을 동원해 확대할 방침이다. 트럼프 대통령은 외교정책 주도권을 여전히 쥐고 있지만, 의회가 예산 승인과 제재 법안을 통해 사실상 정책 방향에 개입할 가능성이 커졌다.
+<a href="https://www.ft.com/content/fac3a560-7845-4acf-9487-54ec8a445d74">[FT]</a></blockquote>
 
-<b>6. Anthropic, $1.5조 기업가치 목표 IPO 강행...추수감사절 전 상장 추진</b>
-<blockquote>AI 스타트업 Anthropic이 기술주 폭락 속에서도 $1.5조 기업가치를 목표로 IPO를 추진한다. Claude 모델 개발사인 Anthropic은 추수감사절 전 상장을 계획하고 있으며, 영국 소매 투자자 대상 공모도 준비 중이다.
-<a href="https://www.ft.com/content/314e17df-e7af-4814-b208-70a0557cb452">[FT]</a></blockquote>
+<b>6. 이스라엘 Eisenkot, 조각 28일 시한 부여받아...Netanyahu 장기 집권 종료 가능성</b>
+<blockquote>이스라엘 Isaac Herzog 대통령이 야당 인사인 Gadi Eisenkot 전 군 총참모장에게 연립정부 구성 권한을 부여했다. Eisenkot는 28일 내 과반 연정을 구성해야 하며, 성공할 경우 Benjamin Netanyahu의 장기 집권이 막을 내린다. 중동 정책 기조 변화 가능성에 지정학 리스크 프리미엄이 재부상할 수 있다.
+<a href="https://www.ft.com/content/bf737648-b974-4f87-ba0b-958f2aff1163">[FT]</a> <a href="https://www.wsj.com/world/middle-east/netanyahus-challenger-tapped-to-try-to-form-israeli-government-583fd2da">[WSJ]</a></blockquote>
 
-<b>7. Tesla Cybertruck 생산 중단 결정...출시 열기 식고 판매 부진</b>
-<blockquote>Tesla가 스테인리스 스틸 전기 픽업트럭 Cybertruck의 생산을 단계적으로 중단한다. Elon Musk가 '최고 제품'이라 칭했던 Cybertruck은 초기 화제 이후 수요가 급감했으며, Musk의 우파 정치 활동과 연결되며 브랜드 이미지가 악화됐다.
-<a href="https://www.wsj.com/business/autos/tesla-winding-down-production-of-cybertruck-musk-says-89df7158">[WSJ]</a></blockquote>
+<b>7. 유럽 전역 폭탄 위협·사이버 공격 동시다발...배후 미상에 당국 긴장</b>
+<blockquote>유럽 각국에서 폭탄 위협 전화와 대규모 해킹 공격이 잇따라 발생해 항공편이 회항하고 언론사가 긴급 대피했다. 당국은 배후를 파악하지 못한 채 조사 중이며, 조직적 사이버 테러 가능성이 제기되고 있다. 유로존 안보 불안이 고조되면서 역내 리스크 프리미엄 상승 압력이 커지고 있다.
+<a href="https://www.wsj.com/world/europe/someone-is-causing-chaos-across-europe-the-question-is-who-ba3749a6">[WSJ]</a></blockquote>
 
-<b>8. 10월 美 고용 16.5만명 증가...실업률 4.1%로 하락</b>
-<blockquote>미국 경제는 10월 16.5만 명의 일자리를 추가하며 시장 예상을 상회했다. 실업률은 4.1%로 낮아졌으며, 전문 및 비즈니스 서비스 부문에서 7만 명의 고용이 늘었다.
-<a href="https://www.wsj.com/economy/jobs/october-jobs-report-unemployment-d7392948">[WSJ]</a></blockquote>
+<b>8. 미 정보기관, Nvidia CEO가 중국 스파이와 친밀 관계...기술 유출 경고</b>
+<blockquote>미국 정보당국이 Nvidia CEO Jensen Huang이 중국 정보기관이 포섭한 것으로 의심되는 임원과 친밀한 관계를 맺었다며 본인에게 경고한 것으로 확인됐다. 해당 임원은 미국 기업 정보 수집 임무를 받은 것으로 알려졌다. 미중 기술전쟁이 반도체 공급망 전반으로 확산될 수 있다는 우려가 커지고 있다.
+<a href="https://www.ft.com/content/a55a2a22-4479-4f93-a445-6147a5c6d790">[FT]</a></blockquote>
 
-<b>9. 美 소비자심리 11월 51로 개선...10월 48에서 반등</b>
-<blockquote>미시간대 소비자심리지수 11월 예비치는 51을 기록해 10월 확정치 48에서 개선됐다. 그러나 절대 수준은 여전히 저조하며, 고물가와 정치 불확실성이 소비 심리를 압박하고 있다.
-<a href="https://www.wsj.com/economy/consumers/u-s-consumer-mood-improved-but-remained-gloomy-this-month-568256a3">[WSJ]</a></blockquote>
+<b>9. 북한 해커, 암호화폐 플랫폼 통해 수십억 달러 자금세탁...법 집행 무력화</b>
+<blockquote>북한 해커 조직이 Binance 해킹으로 탈취한 수십억 달러를 익명 암호화폐 서비스를 통해 세탁하고 있는 것으로 드러났다. 일부 플랫폼 개발자들은 탈중앙화 구조상 해커 차단이 불가능하다고 주장해 법 집행기관을 좌절시키고 있다. 암호화폐 자금세탁 방지 규제가 강화될 가능성이 제기된다.
+<a href="https://www.wsj.com/finance/currencies/the-shadowy-crypto-services-helping-the-binance-hackers-launder-stolen-billions-28641737">[WSJ]</a></blockquote>
 
-<b>10. 캐나다 실업률 6.7% 기록...6개월 만에 최고치</b>
-<blockquote>캐나다 노동시장이 10월 다시 위축되며 실업률이 6개월 만에 최고치인 6.7%로 상승했다. 고용은 감소했고 구직자 수는 증가했다.
-<a href="https://www.wsj.com/economy/jobs/canada-unemployment-rate-climbs-to-six-month-high-of-6-7-90a664ca">[WSJ]</a></blockquote>
+<b>10. Berkshire Hathaway 3분기 순익 28% 급감...자사주 매입 $96억으로 확대</b>
+<blockquote>Berkshire Hathaway의 3분기 순이익이 투자 수익 감소와 보험 부문 수익성 악화로 전년 대비 28% 급감했다. 영업이익은 5.8% 줄었다. 반면 자사주 매입 규모는 $96억(약 €80억)으로 늘려 현금 배분 기조를 전환했다. Warren Buffett의 신중한 투자 기조가 지속되는 가운데 밸류에이션 매력을 자체 주식에서 찾고 있는 것으로 풀이된다.
+<a href="https://www.ft.com/content/1f153350-2377-4e48-a073-0539376eab4c">[FT]</a> <a href="https://www.wsj.com/business/earnings/berkshire-hathaway-brkb-q3-earnings-report-2026-stock-02843721">[WSJ]</a></blockquote>
 
-<b>11. Fed 12월 금리 인상 기대 유지...고용 견조·시장 변동성이 변수</b>
-<blockquote>견조한 10월 고용지표로 Fed의 12월 금리 인상 기대가 유지되고 있다. 그러나 AI 기술주 폭락으로 촉발된 시장 변동성이 지속될 경우 인상 결정에 영향을 줄 수 있다는 분석이다.
-<a href="https://www.wsj.com/economy/central-banking/solid-jobs-report-leaves-inflation-markets-to-settle-feds-december-call-7738799e">[WSJ]</a></blockquote>
-
-<b>12. ECB 총재 후임 경쟁 본격화...스페인 Pablo Hernandez vs 네덜란드 Klaas Knot</b>
-<blockquote>Christine Lagarde ECB 총재 후임을 두고 스페인 중앙은행 총재 Pablo Hernandez de Cos와 네덜란드 중앙은행 총재 Klaas Knot의 양자 경쟁이 공식화됐다. 유럽 각국 정부가 두 후보 중 선택할 예정이다.
-<a href="https://www.wsj.com/economy/central-banking/contest-to-succeed-ecb-head-lagarde-is-officially-a-two-horse-race-bac3d822">[WSJ]</a></blockquote>
-
-<b>13. BoJ 12월 금리 인상 가능성...명목 임금 상승률 30년 만에 최고치</b>
-<blockquote>일본 9월 명목 임금 상승률이 30년 만에 최고치를 기록하며 BoJ의 12월 금리 인상 가능성을 뒷받침하고 있다. 견조한 임금 상승세가 지속되면서 통화정책 정상화 명분이 강화됐다.
-<a href="https://www.ft.com/content/fdfbe384-62c8-43b6-b3c6-4785fab99de7">[FT]</a></blockquote>
-
-<b>14. 국제유가 주간 두자릿수 하락...중동 외교 해법 기대감 확산</b>
-<blockquote>국제유가가 이번 주 두자릿수 하락률을 기록했다. Trump 행정부의 중간선거 참패로 민주당이 의회를 장악하면서 미국이 대이란 외교 해법을 추진할 것이란 기대가 유가 급락을 주도했다. 다만 해운 리스크는 여전히 우려 요인이다.
-<a href="https://www.wsj.com/business/energy-oil/brent-crude-climbs-above-100-as-middle-east-oil-supply-risks-persist-caaf64bb">[WSJ]</a></blockquote>
-
-<b>15. 구리 가격 하락...AI 수요 둔화 우려 확산</b>
-<blockquote>구리 가격이 하락세를 보였다. 올해 AI 데이터센터 수요 급증 전망으로 급등했던 구리는 민주당의 중간선거 승리 이후 AI 투자 위축 우려가 확산되며 약세를 나타냈다.
-<a href="https://www.ft.com/content/0a4e2a58-f83f-4445-8f32-892657cf8c27">[FT]</a></blockquote>
-
-<b>16. 공화당, 이스라엘에 선거 패배 책임 전가...美-이스라엘 동맹 시험대</b>
-<blockquote>공화당 내부에서 중간선거 참패 책임을 이스라엘에 돌리는 목소리가 나오고 있다. 민주당 승리로 미국-이스라엘 동맹이 수십 년 만에 가장 큰 시험대에 올랐다는 분석이다.
-<a href="https://www.economist.com/middle-east-and-africa/2026/11/06/republicans-blame-israel-for-their-defeat">[Economist]</a></blockquote>
-
-<b>17. 이스라엘-미국 관계 재조정 전망...카타르 평화중재 새 국면</b>
-<blockquote>미국과 이스라엘 양국 선거 결과가 정치 지형을 뒤흔들면서 카타르가 이란 평화협상 중재에 새롭게 나서고 있다. 민주당 집권으로 대이란 외교 정책 전환 가능성이 커졌다.
-<a href="https://www.wsj.com/world/middle-east/whats-next-for-iran-peace-talks-after-the-midterms-a031003c">[WSJ]</a></blockquote>
-
-<b>18. 유럽, 美-러 안보협정 체결 우려...NATO 약화·러시아 영향권 복원 가능성</b>
-<blockquote>유럽 관리들이 미국이 러시아와 안보 협정을 체결해 NATO를 약화시키고 러시아의 세력권을 복원할 수 있다는 우려를 표명했다. 민주당 의회가 Trump 행정부의 대러 정책을 견제할지 주목된다.
-<a href="https://www.ft.com/content/1731d88c-fba2-4060-84dc-7dfddd7bfbca">[FT]</a></blockquote>
-
-<b>19. 美, 중국에 부산 무역협정 이행 압박...희토류 공급 확대 요구</b>
-<blockquote>미국이 중국에 부산 무역협정 조건을 '즉시' 이행하라고 압박했다. 워싱턴은 베이징이 희토류 등 핵심 제품 공급 확대 약속을 지키지 않고 있다고 지적했다.
-<a href="https://www.ft.com/content/391bb785-0247-4c39-b53b-35007187d603">[FT]</a></blockquote>
-
-<b>20. WSJ 달러지수 97.52 기록...주간 0.46% 상승</b>
-<blockquote>WSJ 달러지수가 0.5% 상승하며 이틀 연속 강세를 나타냈다. 주간 누적 상승률은 0.46%로 97.52를 기록했다.
-<a href="https://www.wsj.com/finance/currencies/asian-currencies-mixed-diminishing-risk-appetite-might-weigh-84b91434">[WSJ]</a></blockquote>
-
-<b>21. 유로존 소매판매 급락...에너지 쇼크에 소비심리 위축</b>
-<blockquote>유로존 9월 소매판매가 급감했다. 고공행진 중인 에너지 가격이 소비자 신뢰를 압박하며 소비 지출이 위축됐다.
-<a href="https://www.wsj.com/economy/global/eurozone-retail-sales-slumped-in-september-9c1b2ae4">[WSJ]</a></blockquote>
-
-<b>22. Moderna 흑자 전환...연간 매출 성장 전망 상향</b>
-<blockquote>Moderna가 분기 흑자를 기록하며 연간 매출 성장 전망을 15~25%로 상향 조정했다. 기존 전망은 최대 10% 성장이었으며, Covid-19 백신 수요 안정화가 실적 개선을 견인했다.
-<a href="https://www.wsj.com/health/moderna-lifts-full-year-outlook-swings-to-quarterly-profit-d05bf4b3">[WSJ]</a></blockquote>
-
-<b>23. 재생에너지 기업 주가 반등...민주당 승리에 정책 불확실성 해소</b>
-<blockquote>Ørsted 등 재생에너지 기업 주가가 반등했다. 민주당의 중간선거 승리로 Trump 행정부의 2년간 적대적 정책 기조가 전환될 것이란 기대가 확산됐다.
-<a href="https://www.ft.com/content/3066017e-996c-4689-9bd8-021eb70b99ac">[FT]</a></blockquote>
-
-<b>24. Ikea 매출 감소...가격 인하에도 소비 위축</b>
-<blockquote>Ikea의 매출이 감소했다. 가격을 인하했음에도 소비자 수요 약세와 지정학적 혼란이 매출과 이익을 압박했다고 Inter Ikea가 밝혔다.
-<a href="https://www.ft.com/content/605c7eb8-41a9-47c4-84c7-12b6dfb77261">[FT]</a></blockquote>
+<b>11. AI 일자리 대체 우려 완화...10월 법률·컨설팅 채용 강세</b>
+<blockquote>10월 고용보고서에서 법률사무소와 컨설팅 업체의 채용이 호조를 보이며 AI가 화이트칼라 일자리를 대규모로 대체할 것이란 우려가 약화됐다. 전문직 고용 증가세가 유지되면서 노동시장 경착륙 리스크가 제한적이라는 평가가 나온다.
+<a href="https://www.wsj.com/economy/jobs/is-ai-taking-white-collar-jobs-what-the-latest-numbers-tell-us-dd31b115">[WSJ]</a></blockquote>
 
 ━━━━━━━━━━━━━━━━━━━━
 📡 <b>출처: WSJ · FT · The Economist</b>
