@@ -4,49 +4,69 @@
 
 ✅ <b>간밤의 주요 헤드라인</b>
 
-<b>1. 미 민주당, 중간선거서 수십 년 만에 최대 주의회 장악...재정·통상정책 주도권 확보</b>
-<blockquote>민주당이 중간선거에서 주의회 다수당 지위를 대거 탈환하며 수십 년 만에 최고 성과를 거뒀다. 이번 승리로 민주당은 주요 주에서 삼권 장악(trifecta)을 확대, 예산·세제·규제 정책에 대한 실질적 영향력을 강화하게 됐다. 트럼프 행정부의 레임덕이 심화될 가능성이 커지면서 연방 재정정책과 무역협상 불확실성이 확대될 전망이다.
-<a href="https://www.wsj.com/politics/elections/see-democrats-historic-statehouse-wins-and-their-new-trifectas-aff55a0c">[WSJ]</a></blockquote>
+<b>1. 미국 인플레이션 지표 발표 임박...연준 정책 경로 가늠 주요 변수</b>
+<blockquote>이번 주 발표될 미국 소비자물가 관련 지표들이 최근 경기둔화 우려와 맞물려 연준의 향후 통화정책 방향을 가늠하는 핵심 변수로 부상했다. 시장은 생활비 부담 완화 여부와 함께 금리 인하 속도 조정 가능성에 주목하고 있다.
+<a href="https://www.ft.com/content/3d46dfb4-eef8-4ea0-9264-282bd269647e">[FT]</a></blockquote>
 
-<b>2. 청년층, 경제 압박에 공화당 이탈...식료품비·학자금 부채 불만 폭발</b>
-<blockquote>이번 중간선거에서 젊은 유권자들이 공화당을 대거 이탈하거나 기권하며 선거 결과를 좌우했다. 이들은 치솟는 식료품비, 학자금 대출 부담, 정체된 임금을 주요 이유로 꼽았다. 경제적 불만이 정치 성향을 바꾸는 '뉴 스윙 보터(New Swing Voter)'로 부상하면서 향후 선거에서 핵심 변수가 될 것으로 보인다.
-<a href="https://www.wsj.com/politics/elections/the-new-swing-voter-young-underemployed-and-deeply-disillusioned-c0696d7a">[WSJ]</a></blockquote>
+<b>2. 예멘 후티 반군, 사우디 수도 리야드 공격...국영 석유사 건물 피해</b>
+<blockquote>이란 지원을 받는 예멘 후티 반군이 사우디 수도 리야드의 King Abdullah 금융지구를 공격, Saudi Aramco 사무실이 입주한 건물이 파편에 피해를 입었다. 이번 공격은 사우디 주요 인프라에 대한 후티 반군의 지속적인 위협을 보여주며 중동 에너지 공급 불안 우려를 키우고 있다.
+<a href="https://www.wsj.com/world/middle-east/iconic-saudi-tower-hit-as-yemens-houthis-target-riyadh-889ae71f">[WSJ]</a> <a href="https://www.ft.com/content/eeadc13e-b915-4591-ab85-54db81030996">[FT]</a></blockquote>
 
-<b>3. Trump, UFC 회장 Dana White 백악관 대변인 임명...강경 대응 시그널</b>
-<blockquote>Donald Trump 대통령이 UFC 대표 Dana White를 백악관 대변인으로 지명했다. 중간선거 패배 직후 공격적 성향의 인물을 기용하며 민주당 의회와의 정면 대결 태세를 갖췄다는 분석이 나온다. White는 정치 경험이 전무하지만 트럼프와 오랜 친분을 유지해왔다.
-<a href="https://www.ft.com/content/52c3c7ac-f0ee-4b90-a2c8-68e76d120a79">[FT]</a></blockquote>
+<b>3. 민주당, Trump 행정부 인사 탄핵·조사 예고...정치 불확실성 고조</b>
+<blockquote>중간선거 승리 이후 민주당은 Pete Hegseth 국방장관과 Elon Musk, 베네수엘라 석유 거래 등을 대상으로 탄핵 및 의회 조사를 추진하겠다고 밝혔다. 이는 향후 2년간 행정부와 의회 간 대치가 심화되고 주요 정책 입법이 교착될 가능성을 시사한다.
+<a href="https://www.ft.com/content/111fefdb-0f85-4f8f-854f-86a5f81aceec">[FT]</a> <a href="https://www.wsj.com/opinion/another-impeachment-isnt-the-answer-to-our-problems-ea5ec08d">[WSJ]</a></blockquote>
 
-<b>4. Hegseth 국방장관 탄핵안 채택 임박...군사 예산 불확실성 증폭</b>
-<blockquote>Pete Hegseth 국방장관에 대한 탄핵 표결이 다음 주로 예정된 가운데, 의회 비판 세력은 그가 저항할 경우 국방예산 승인이 지연될 수 있다고 경고했다. Hegseth는 탄핵에 맞서 적극적 방어 캠페인을 벌이고 있으며, 정치권은 국방 정책 공백 장기화를 우려하고 있다.
-<a href="https://www.wsj.com/politics/hegseth-mounts-aggressive-campaign-to-fight-pending-impeachment-2f4dc7ae">[WSJ]</a></blockquote>
+<b>4. 미 의회 회기 재개...정부 예산·국방비·사법 인준 일정 주목</b>
+<blockquote>의회가 워싱턴으로 복귀하며 정부 운영 예산 협상, Pete Hegseth 국방장관 인준안, 사법부 인사 승인, 군사비 지출안 등이 향후 55일간 레임덕 회기의 핵심 의제로 부상했다. 초당적 합의 가능성과 함께 당 지도부 선출 일정도 병행된다.
+<a href="https://www.wsj.com/politics/policy/defeated-gop-led-congress-returns-with-55-days-and-a-long-wish-list-a93e98e7">[WSJ]</a></blockquote>
 
-<b>5. 민주당 장악 의회, 우크라이나 지원 확대 추진...외교정책 충돌 불가피</b>
-<blockquote>중간선거로 의회를 장악한 민주당이 우크라이나 군사·경제 지원을 입법 수단을 동원해 확대할 방침이다. 트럼프 대통령은 외교정책 주도권을 여전히 쥐고 있지만, 의회가 예산 승인과 제재 법안을 통해 사실상 정책 방향에 개입할 가능성이 커졌다.
-<a href="https://www.ft.com/content/fac3a560-7845-4acf-9487-54ec8a445d74">[FT]</a></blockquote>
+<b>5. 공화당 내분 격화...부패 의혹·선거 패배 책임 공방</b>
+<blockquote>중간선거 참패 이후 공화당 내에서 전직 보건 당국자의 기업 로비 의혹 제기와 함께 향후 당 노선을 두고 내분이 격화되고 있다. 책임 소재와 재건 방향을 놓고 당내 갈등이 깊어지며 2028년 대선을 앞둔 정치적 불확실성이 커지고 있다.
+<a href="https://www.economist.com/united-states/2026/11/08/the-fight-over-republicans-future-has-begun">[Economist]</a> <a href="https://www.ft.com/content/66e9ca46-d1ea-473c-b8d6-06ba1dfc9e76">[FT]</a></blockquote>
 
-<b>6. 이스라엘 Eisenkot, 조각 28일 시한 부여받아...Netanyahu 장기 집권 종료 가능성</b>
-<blockquote>이스라엘 Isaac Herzog 대통령이 야당 인사인 Gadi Eisenkot 전 군 총참모장에게 연립정부 구성 권한을 부여했다. Eisenkot는 28일 내 과반 연정을 구성해야 하며, 성공할 경우 Benjamin Netanyahu의 장기 집권이 막을 내린다. 중동 정책 기조 변화 가능성에 지정학 리스크 프리미엄이 재부상할 수 있다.
-<a href="https://www.ft.com/content/bf737648-b974-4f87-ba0b-958f2aff1163">[FT]</a> <a href="https://www.wsj.com/world/middle-east/netanyahus-challenger-tapped-to-try-to-form-israeli-government-583fd2da">[WSJ]</a></blockquote>
+<b>6. Hakeem Jeffries 민주당 원내대표, 상이한 정책 우선순위 조율 과제</b>
+<blockquote>하원을 장악한 민주당의 Hakeem Jeffries 원내대표는 당내 진보·온건 진영 간 상이한 정책 우선순위를 조율해야 하는 과제를 안게 됐다. 재정정책, 규제 개혁, 사회 정책 등에서 당내 합의를 도출하는 것이 향후 입법 성과의 관건이 될 전망이다.
+<a href="https://www.wsj.com/articles/hakeem-jeffries-must-navigate-a-democratic-party-with-competing-priorities-6c679608">[WSJ]</a></blockquote>
 
-<b>7. 유럽 전역 폭탄 위협·사이버 공격 동시다발...배후 미상에 당국 긴장</b>
-<blockquote>유럽 각국에서 폭탄 위협 전화와 대규모 해킹 공격이 잇따라 발생해 항공편이 회항하고 언론사가 긴급 대피했다. 당국은 배후를 파악하지 못한 채 조사 중이며, 조직적 사이버 테러 가능성이 제기되고 있다. 유로존 안보 불안이 고조되면서 역내 리스크 프리미엄 상승 압력이 커지고 있다.
-<a href="https://www.wsj.com/world/europe/someone-is-causing-chaos-across-europe-the-question-is-who-ba3749a6">[WSJ]</a></blockquote>
+<b>7. 민주당, 종교 유권자층 공략 성과...개신교·가톨릭 지지 확대</b>
+<blockquote>민주당은 중간선거에서 기독교 신앙을 내세운 James Talarico 등 후보들을 통해 개신교와 가톨릭 유권자층에서 지지를 확대했다. 수십 년간 공화당이 장악했던 종교 보수층 일부를 확보한 것으로, 이를 유지하는 것이 향후 선거 전략의 과제로 떠올랐다.
+<a href="https://www.wsj.com/politics/elections/after-decades-of-a-religious-right-democrats-find-a-religious-left-30ea7168">[WSJ]</a></blockquote>
 
-<b>8. 미 정보기관, Nvidia CEO가 중국 스파이와 친밀 관계...기술 유출 경고</b>
-<blockquote>미국 정보당국이 Nvidia CEO Jensen Huang이 중국 정보기관이 포섭한 것으로 의심되는 임원과 친밀한 관계를 맺었다며 본인에게 경고한 것으로 확인됐다. 해당 임원은 미국 기업 정보 수집 임무를 받은 것으로 알려졌다. 미중 기술전쟁이 반도체 공급망 전반으로 확산될 수 있다는 우려가 커지고 있다.
-<a href="https://www.ft.com/content/a55a2a22-4479-4f93-a445-6147a5c6d790">[FT]</a></blockquote>
+<b>8. 미국 새 경제 어젠다 모색...성장 정책만으론 생활비 우려 해소 한계</b>
+<blockquote>선거 이후 미국 정책 당국은 친성장 정책만으로는 유권자들의 생활비 부담 우려를 해소하기 어렵다는 인식 하에 새로운 경제 어젠다를 모색하고 있다. 재정정책과 통화정책 간 균형, 인플레이션 억제와 성장 촉진의 조화가 핵심 과제로 부상했다.
+<a href="https://www.ft.com/content/81bd54ff-61b4-4fa6-83d3-5a73821a879c">[FT]</a></blockquote>
 
-<b>9. 북한 해커, 암호화폐 플랫폼 통해 수십억 달러 자금세탁...법 집행 무력화</b>
-<blockquote>북한 해커 조직이 Binance 해킹으로 탈취한 수십억 달러를 익명 암호화폐 서비스를 통해 세탁하고 있는 것으로 드러났다. 일부 플랫폼 개발자들은 탈중앙화 구조상 해커 차단이 불가능하다고 주장해 법 집행기관을 좌절시키고 있다. 암호화폐 자금세탁 방지 규제가 강화될 가능성이 제기된다.
-<a href="https://www.wsj.com/finance/currencies/the-shadowy-crypto-services-helping-the-binance-hackers-launder-stolen-billions-28641737">[WSJ]</a></blockquote>
+<b>9. Trump, 법무부 요직에 전직 민주당원 Stanley Woodward 기용</b>
+<blockquote>Donald Trump 대통령은 전직 민주당원 출신 Stanley Woodward를 법무부 고위직에 임명했다. 그는 알래스카 선거 분쟁과 Trump 골프장 재개발 논란 등 여러 법적 논쟁의 중심에 서 있으며, 이번 인사는 행정부의 법 집행 기조 변화를 시사할 수 있다.
+<a href="https://www.wsj.com/us-news/law/how-a-former-democrat-became-trumps-bulldog-at-the-justice-department-75bd2f37">[WSJ]</a></blockquote>
 
-<b>10. Berkshire Hathaway 3분기 순익 28% 급감...자사주 매입 $96억으로 확대</b>
-<blockquote>Berkshire Hathaway의 3분기 순이익이 투자 수익 감소와 보험 부문 수익성 악화로 전년 대비 28% 급감했다. 영업이익은 5.8% 줄었다. 반면 자사주 매입 규모는 $96억(약 €80억)으로 늘려 현금 배분 기조를 전환했다. Warren Buffett의 신중한 투자 기조가 지속되는 가운데 밸류에이션 매력을 자체 주식에서 찾고 있는 것으로 풀이된다.
-<a href="https://www.ft.com/content/1f153350-2377-4e48-a073-0539376eab4c">[FT]</a> <a href="https://www.wsj.com/business/earnings/berkshire-hathaway-brkb-q3-earnings-report-2026-stock-02843721">[WSJ]</a></blockquote>
+<b>10. Nvidia CEO Jensen Huang, 중국 스파이 의혹 여성과 불륜 시인...이사회 조사 착수</b>
+<blockquote>Nvidia의 Jensen Huang CEO가 중국 정보기관 연계 의혹을 받는 임원과의 불륜 관계를 직원들에게 사과하며 시인했다. 이사회는 국가안보 위험 여부를 포함한 전반적 조사에 착수했으며, AI 반도체 섹터의 안보 리스크에 대한 우려가 커지고 있다.
+<a href="https://www.ft.com/content/1397e2f4-d7f5-4cbb-a4d9-04ecf661d1aa">[FT]</a> <a href="https://www.wsj.com/tech/ai/nvidias-board-to-investigate-reports-that-jensen-huang-was-spying-target-c630325e">[WSJ]</a></blockquote>
 
-<b>11. AI 일자리 대체 우려 완화...10월 법률·컨설팅 채용 강세</b>
-<blockquote>10월 고용보고서에서 법률사무소와 컨설팅 업체의 채용이 호조를 보이며 AI가 화이트칼라 일자리를 대규모로 대체할 것이란 우려가 약화됐다. 전문직 고용 증가세가 유지되면서 노동시장 경착륙 리스크가 제한적이라는 평가가 나온다.
-<a href="https://www.wsj.com/economy/jobs/is-ai-taking-white-collar-jobs-what-the-latest-numbers-tell-us-dd31b115">[WSJ]</a></blockquote>
+<b>11. AI 기업 Anthropic, 데이터센터 전력 확보에 34억 달러 투입...에너지 인프라 수요 급증</b>
+<blockquote>AI 연구소 Anthropic은 데이터센터용 가스 발전 전력을 확보하기 위해 34억 달러 규모의 직접 조달 계약을 체결했다. AI 산업의 폭발적 전력 수요 증가로 기존 전력 공급망을 우회한 장비 확보 경쟁이 치열해지며, 장기 에너지 인프라 투자 확대와 인플레이션 압력이 동시에 부각되고 있다.
+<a href="https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0">[FT]</a></blockquote>
+
+<b>12. 테크 주식 급락 후에도 주식형 펀드 연초 대비 9.9% 수익 유지</b>
+<blockquote>10월 인공지능 관련 주식 급락에도 불구하고 주식형 펀드는 2026년 들어 9.9%의 수익률을 유지하고 있다. 이는 AI 랠리 이후 조정 국면에서도 펀드 투자자들의 자산배분 전략이 비교적 견조했음을 시사하며, 향후 시장 심리 회복 여부가 주목된다.
+<a href="https://www.wsj.com/finance/investing/after-tech-rout-stock-funds-hold-9-9-gain-2026-9d6d9773">[WSJ]</a></blockquote>
+
+<b>13. 이스라엘 대통령, 야당 지도자 Gadi Eisenkot에 우선 조閣권...Netanyahu 교체 시도</b>
+<blockquote>이스라엘 Isaac Herzog 대통령은 야당 정치인 Gadi Eisenkot에게 연립정부 구성 우선권을 부여했다. Eisenkot은 28일 내에 연정 구성을 시도하며 Benjamin Netanyahu 장기 집권을 종식시킬 기회를 얻었으나, 정당 간 이견과 정치 세력 간 갈등이 여전히 변수로 남아 있다.
+<a href="https://www.economist.com/middle-east-and-africa/2026/11/08/gadi-eisenkot-has-a-chance-to-form-a-new-government-in-israel">[Economist]</a> <a href="https://www.wsj.com/world/middle-east/netanyahus-challenger-tapped-to-try-to-form-israeli-government-583fd2da">[WSJ]</a> <a href="https://www.ft.com/content/bf737648-b974-4f87-ba0b-958f2aff1163">[FT]</a></blockquote>
+
+<b>14. 남아공 집권 ANC, 지방선거 역대 최악 참패...31% 득표에 그쳐</b>
+<blockquote>아파르트헤이트 종식 후 집권해온 남아프리카공화국 African National Congress가 지방선거에서 31% 득표율을 기록하며 역대 최악의 성적을 냈다. 신흥국 정치 불안정성이 커지며 남아공 자산시장과 광물 수출 전망에 대한 우려가 제기되고 있다.
+<a href="https://www.wsj.com/world/africa/party-that-defeated-apartheid-hits-electoral-setback-in-south-africa-709f0483">[WSJ]</a></blockquote>
+
+<b>15. 영국 문화장관, EU 재가입 논의 여지 시사...브렉시트 재평가 논쟁</b>
+<blockquote>영국 Lisa Nandy 문화장관은 EU 재가입이 "우리가 가진 선택지인지" 의문을 제기하며 장기적 대EU 관계 재설정 논의에 불을 지폈다. Andy Burnham 총리도 브뤼셀과의 관계를 재검토하겠다는 입장을 밝혔으며, 파운드화 및 유로존과의 무역·통화 관계 변화 가능성이 부각되고 있다.
+<a href="https://www.ft.com/content/1401fe6f-52a2-4639-bed3-67cc828085f1">[FT]</a></blockquote>
+
+<b>16. 아일랜드 정부, 통일 비용 연 30억~250억 유로 추산...유로존 재정 리스크</b>
+<blockquote>아일랜드 연립정부는 남북 통일 시나리오 계획안을 발표하며 초기 1년간 소요 비용을 30억~250억 유로로 추산했다. 총리는 정부 내 전담 부서를 신설해 통일 논의를 본격화하겠다고 밝혔으며, 유로존 재정 부담 확대 가능성이 제기되고 있다.
+<a href="https://www.ft.com/content/e372642c-81a5-4098-8fdf-d118d22fa896">[FT]</a></blockquote>
 
 ━━━━━━━━━━━━━━━━━━━━
 📡 <b>출처: WSJ · FT · The Economist</b>
