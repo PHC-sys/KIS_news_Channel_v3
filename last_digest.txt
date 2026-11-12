@@ -4,69 +4,157 @@
 
 ✅ <b>간밤의 주요 헤드라인</b>
 
-<b>1. 미국 인플레이션 지표 발표 임박...연준 정책 경로 가늠 주요 변수</b>
-<blockquote>이번 주 발표될 미국 소비자물가 관련 지표들이 최근 경기둔화 우려와 맞물려 연준의 향후 통화정책 방향을 가늠하는 핵심 변수로 부상했다. 시장은 생활비 부담 완화 여부와 함께 금리 인하 속도 조정 가능성에 주목하고 있다.
-<a href="https://www.ft.com/content/3d46dfb4-eef8-4ea0-9264-282bd269647e">[FT]</a></blockquote>
+<b>1. CoreWeave 실적 호조에 미국 증시 급등...AI 트레이드 부활 신호</b>
+<blockquote>AI 데이터센터 운영업체 CoreWeave가 시장 예상을 상회하는 실적을 발표하며 AI 인프라 투자 회수 우려를 완화했다. 이에 힘입어 나스닥이 급등하며 지난주 역사적 폭락 이후 일주일 만에 AI 관련 주식에 투자자들이 대거 복귀했다.
+<a href="https://www.wsj.com/finance/stocks/u-s-stocks-rise-as-coreweave-update-eases-some-ai-worries-f8bfbaa7">[WSJ]</a></blockquote>
 
-<b>2. 예멘 후티 반군, 사우디 수도 리야드 공격...국영 석유사 건물 피해</b>
-<blockquote>이란 지원을 받는 예멘 후티 반군이 사우디 수도 리야드의 King Abdullah 금융지구를 공격, Saudi Aramco 사무실이 입주한 건물이 파편에 피해를 입었다. 이번 공격은 사우디 주요 인프라에 대한 후티 반군의 지속적인 위협을 보여주며 중동 에너지 공급 불안 우려를 키우고 있다.
-<a href="https://www.wsj.com/world/middle-east/iconic-saudi-tower-hit-as-yemens-houthis-target-riyadh-889ae71f">[WSJ]</a> <a href="https://www.ft.com/content/eeadc13e-b915-4591-ab85-54db81030996">[FT]</a></blockquote>
+<b>2. CoreWeave, 지난주 급락 딛고 AI 트레이드 재점화...나스닥 반등 주도</b>
+<blockquote>AI 데이터센터 업체 CoreWeave의 강한 실적 발표로 기술주가 일제히 반등했다. 지난주 역사적 급락 후 일주일도 안 돼 투자자들이 AI 관련 주식으로 재진입하며 나스닥 지수가 급등했다.
+<a href="https://www.wsj.com/finance/stocks/investors-run-back-to-ai-stocks-less-than-a-week-after-a-historic-selloff-854483e8">[WSJ]</a></blockquote>
 
-<b>3. 민주당, Trump 행정부 인사 탄핵·조사 예고...정치 불확실성 고조</b>
-<blockquote>중간선거 승리 이후 민주당은 Pete Hegseth 국방장관과 Elon Musk, 베네수엘라 석유 거래 등을 대상으로 탄핵 및 의회 조사를 추진하겠다고 밝혔다. 이는 향후 2년간 행정부와 의회 간 대치가 심화되고 주요 정책 입법이 교착될 가능성을 시사한다.
-<a href="https://www.ft.com/content/111fefdb-0f85-4f8f-854f-86a5f81aceec">[FT]</a> <a href="https://www.wsj.com/opinion/another-impeachment-isnt-the-answer-to-our-problems-ea5ec08d">[WSJ]</a></blockquote>
+<b>3. 미국 기술주 급등, AI 트레이드 부활...나스닥 지난주 낙폭 만회</b>
+<blockquote>CoreWeave 실적 호조와 Anthropic의 IPO 기업가치 상향 전망이 투자심리를 개선하며 나스닥이 지난주 손실을 모두 되돌렸다. AI 인프라 투자 지속 가능성에 대한 우려가 일단 진정됐다는 평가가 나온다.
+<a href="https://www.ft.com/content/639de881-6017-454f-abfa-cfb191d1e7cd">[FT]</a></blockquote>
 
-<b>4. 미 의회 회기 재개...정부 예산·국방비·사법 인준 일정 주목</b>
-<blockquote>의회가 워싱턴으로 복귀하며 정부 운영 예산 협상, Pete Hegseth 국방장관 인준안, 사법부 인사 승인, 군사비 지출안 등이 향후 55일간 레임덕 회기의 핵심 의제로 부상했다. 초당적 합의 가능성과 함께 당 지도부 선출 일정도 병행된다.
-<a href="https://www.wsj.com/politics/policy/defeated-gop-led-congress-returns-with-55-days-and-a-long-wish-list-a93e98e7">[WSJ]</a></blockquote>
+<b>4. CoreWeave 업데이트에 AI 낙관론 재부상...나스닥 선물 급등</b>
+<blockquote>CoreWeave의 긍정적 실적 전망이 AI 투자 우려를 완화하며 기술주가 일제히 상승했다. 나스닥 선물이 장 전 급등하며 AI 인프라 부채 부담 우려가 과도했다는 재평가가 진행됐다.
+<a href="https://www.wsj.com/finance/commodities-futures/nasdaq-futures-rally-as-ai-optimism-returns-af100e62">[WSJ]</a></blockquote>
 
-<b>5. 공화당 내분 격화...부패 의혹·선거 패배 책임 공방</b>
-<blockquote>중간선거 참패 이후 공화당 내에서 전직 보건 당국자의 기업 로비 의혹 제기와 함께 향후 당 노선을 두고 내분이 격화되고 있다. 책임 소재와 재건 방향을 놓고 당내 갈등이 깊어지며 2028년 대선을 앞둔 정치적 불확실성이 커지고 있다.
-<a href="https://www.economist.com/united-states/2026/11/08/the-fight-over-republicans-future-has-begun">[Economist]</a> <a href="https://www.ft.com/content/66e9ca46-d1ea-473c-b8d6-06ba1dfc9e76">[FT]</a></blockquote>
+<b>5. CoreWeave 주가 급등, AI 트레이드 재점화...United는 AI 봇 예약 금지</b>
+<blockquote>CoreWeave 실적 호조로 AI 관련 주식이 반등한 가운데, United Airlines는 데이터 프라이버시 우려로 AI 봇의 항공권 예약을 전면 차단한다고 밝혔다. AI 기술 상용화를 둘러싼 엇갈린 신호가 나타났다.
+<a href="https://www.wsj.com/finance/stocks/coreweave-jumps-boosting-the-ai-trade-e5c1569b">[WSJ]</a></blockquote>
 
-<b>6. Hakeem Jeffries 민주당 원내대표, 상이한 정책 우선순위 조율 과제</b>
-<blockquote>하원을 장악한 민주당의 Hakeem Jeffries 원내대표는 당내 진보·온건 진영 간 상이한 정책 우선순위를 조율해야 하는 과제를 안게 됐다. 재정정책, 규제 개혁, 사회 정책 등에서 당내 합의를 도출하는 것이 향후 입법 성과의 관건이 될 전망이다.
-<a href="https://www.wsj.com/articles/hakeem-jeffries-must-navigate-a-democratic-party-with-competing-priorities-6c679608">[WSJ]</a></blockquote>
+<b>6. CoreWeave, 자금 제약 우회로 찾아...장기 지속성 여전히 의문</b>
+<blockquote>CoreWeave가 자본시장 제약을 일시적으로 우회할 방법을 찾았으나, 야심찬 확장 계획은 여전히 자본시장의 협조가 필수적이다. 단기 실적 개선에도 불구하고 장기 자금조달 전략에 대한 우려가 남아있다.
+<a href="https://www.wsj.com/business/energy-oil/coreweave-finds-a-workaround-to-capital-constraintsfor-now-1f548211">[WSJ]</a></blockquote>
 
-<b>7. 민주당, 종교 유권자층 공략 성과...개신교·가톨릭 지지 확대</b>
-<blockquote>민주당은 중간선거에서 기독교 신앙을 내세운 James Talarico 등 후보들을 통해 개신교와 가톨릭 유권자층에서 지지를 확대했다. 수십 년간 공화당이 장악했던 종교 보수층 일부를 확보한 것으로, 이를 유지하는 것이 향후 선거 전략의 과제로 떠올랐다.
-<a href="https://www.wsj.com/politics/elections/after-decades-of-a-religious-right-democrats-find-a-religious-left-30ea7168">[WSJ]</a></blockquote>
+<b>7. CoreWeave, 정크본드 시장에서 우대 대접 원해...신용등급 상향 추진</b>
+<blockquote>클라우드 컴퓨팅 업체 CoreWeave가 그간 관대했던 정크본드 시장에서 혜택을 누린 가운데, 이제 투자등급 채권 시장 진입을 목표로 신용등급 상향을 추진하고 있다.
+<a href="https://www.ft.com/content/16d4593e-b9ce-4eab-90af-9835c79eb9f2">[FT]</a></blockquote>
 
-<b>8. 미국 새 경제 어젠다 모색...성장 정책만으론 생활비 우려 해소 한계</b>
-<blockquote>선거 이후 미국 정책 당국은 친성장 정책만으로는 유권자들의 생활비 부담 우려를 해소하기 어렵다는 인식 하에 새로운 경제 어젠다를 모색하고 있다. 재정정책과 통화정책 간 균형, 인플레이션 억제와 성장 촉진의 조화가 핵심 과제로 부상했다.
-<a href="https://www.ft.com/content/81bd54ff-61b4-4fa6-83d3-5a73821a879c">[FT]</a></blockquote>
+<b>8. Nvidia 이사회, Jensen Huang CEO 거취 결정 앞둬...중국인 부하와 불륜 파문</b>
+<blockquote>Nvidia 이사회가 Jensen Huang CEO의 거취를 논의 중이다. 중국 스파이 혐의를 받는 부하 직원과의 불륜 의혹이 제기된 직후 내부 조사가 진행됐으며, 이사회의 최종 결정이 임박했다.
+<a href="https://www.ft.com/content/d3838274-a055-4d5d-a1ff-48f2979a08f0">[FT]</a></blockquote>
 
-<b>9. Trump, 법무부 요직에 전직 민주당원 Stanley Woodward 기용</b>
-<blockquote>Donald Trump 대통령은 전직 민주당원 출신 Stanley Woodward를 법무부 고위직에 임명했다. 그는 알래스카 선거 분쟁과 Trump 골프장 재개발 논란 등 여러 법적 논쟁의 중심에 서 있으며, 이번 인사는 행정부의 법 집행 기조 변화를 시사할 수 있다.
-<a href="https://www.wsj.com/us-news/law/how-a-former-democrat-became-trumps-bulldog-at-the-justice-department-75bd2f37">[WSJ]</a></blockquote>
+<b>9. Nvidia, Jensen Huang CEO 해임 준비 중...중국 스파이 의혹 불륜 조사 후</b>
+<blockquote>Nvidia가 창업자 Jensen Huang CEO를 해임할 준비를 하고 있다. 중국 스파이 의혹을 받는 여성과의 불륜 사실이 사내 조사로 확인된 데 따른 조치로, 미국 반도체 산업 최대 스캔들로 번지고 있다.
+<a href="https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad">[WSJ]</a></blockquote>
 
-<b>10. Nvidia CEO Jensen Huang, 중국 스파이 의혹 여성과 불륜 시인...이사회 조사 착수</b>
-<blockquote>Nvidia의 Jensen Huang CEO가 중국 정보기관 연계 의혹을 받는 임원과의 불륜 관계를 직원들에게 사과하며 시인했다. 이사회는 국가안보 위험 여부를 포함한 전반적 조사에 착수했으며, AI 반도체 섹터의 안보 리스크에 대한 우려가 커지고 있다.
-<a href="https://www.ft.com/content/1397e2f4-d7f5-4cbb-a4d9-04ecf661d1aa">[FT]</a> <a href="https://www.wsj.com/tech/ai/nvidias-board-to-investigate-reports-that-jensen-huang-was-spying-target-c630325e">[WSJ]</a></blockquote>
+<b>10. Jensen Huang 스캔들 고발한 31세 트레이더...Nvidia 공매도로 수익</b>
+<blockquote>Culper Research의 31세 애널리스트가 6개월 전 Jensen Huang의 '중국 문제'를 지적한 보고서를 발표하며 Nvidia를 공매도했다. 당시 무시됐던 보고서가 이번 주 스캔들로 확인되며 주목받고 있다.
+<a href="https://www.wsj.com/business/nvidia-short-seller-culper-jensen-huang-0e0cec38">[WSJ]</a></blockquote>
 
-<b>11. AI 기업 Anthropic, 데이터센터 전력 확보에 34억 달러 투입...에너지 인프라 수요 급증</b>
-<blockquote>AI 연구소 Anthropic은 데이터센터용 가스 발전 전력을 확보하기 위해 34억 달러 규모의 직접 조달 계약을 체결했다. AI 산업의 폭발적 전력 수요 증가로 기존 전력 공급망을 우회한 장비 확보 경쟁이 치열해지며, 장기 에너지 인프라 투자 확대와 인플레이션 압력이 동시에 부각되고 있다.
-<a href="https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0">[FT]</a></blockquote>
+<b>11. 민주당 중간선거 승리 후 AI 데이터센터 규제 위협...오하이오·텍사스 조짐</b>
+<blockquote>중간선거에서 승리한 민주당이 오하이오와 텍사스에서 수조 달러 규모의 데이터센터 건설 계획에 제동을 걸 조짐을 보이고 있다. 새로 선출된 민주당 주지사들이 AI 인프라 확장에 대한 환경·전력망 규제 강화를 시사했다.
+<a href="https://www.wsj.com/tech/ai/three-states-where-the-ai-boom-could-slow-after-the-midterms-a84ab30f">[WSJ]</a></blockquote>
 
-<b>12. 테크 주식 급락 후에도 주식형 펀드 연초 대비 9.9% 수익 유지</b>
-<blockquote>10월 인공지능 관련 주식 급락에도 불구하고 주식형 펀드는 2026년 들어 9.9%의 수익률을 유지하고 있다. 이는 AI 랠리 이후 조정 국면에서도 펀드 투자자들의 자산배분 전략이 비교적 견조했음을 시사하며, 향후 시장 심리 회복 여부가 주목된다.
-<a href="https://www.wsj.com/finance/investing/after-tech-rout-stock-funds-hold-9-9-gain-2026-9d6d9773">[WSJ]</a></blockquote>
+<b>12. 민주당 청색 파도 후 AI 규제 우려 부상...데이터센터 건설 중단 위기</b>
+<blockquote>중간선거 민주당 압승 이후 데이터센터 건설 붐이 중단될 수 있다는 우려가 시장에 확산됐다. 민주당이 환경 및 전력망 부담을 이유로 대규모 AI 인프라 프로젝트 승인을 보류할 가능성이 제기됐다.
+<a href="https://www.ft.com/content/895a17ab-4fa7-45ab-9347-c6108352c690">[FT]</a></blockquote>
 
-<b>13. 이스라엘 대통령, 야당 지도자 Gadi Eisenkot에 우선 조閣권...Netanyahu 교체 시도</b>
-<blockquote>이스라엘 Isaac Herzog 대통령은 야당 정치인 Gadi Eisenkot에게 연립정부 구성 우선권을 부여했다. Eisenkot은 28일 내에 연정 구성을 시도하며 Benjamin Netanyahu 장기 집권을 종식시킬 기회를 얻었으나, 정당 간 이견과 정치 세력 간 갈등이 여전히 변수로 남아 있다.
-<a href="https://www.economist.com/middle-east-and-africa/2026/11/08/gadi-eisenkot-has-a-chance-to-form-a-new-government-in-israel">[Economist]</a> <a href="https://www.wsj.com/world/middle-east/netanyahus-challenger-tapped-to-try-to-form-israeli-government-583fd2da">[WSJ]</a> <a href="https://www.ft.com/content/bf737648-b974-4f87-ba0b-958f2aff1163">[FT]</a></blockquote>
+<b>13. AI 자금조달, 주식·채권시장 압박 속 난관...다음 단계 투자 불투명</b>
+<blockquote>AI 붐의 다음 단계 자금조달이 쉽지 않을 전망이다. 주식시장과 정크본드 시장이 이미 AI 인프라 투자로 과부하 상태를 보이며, 추가 대규모 자금 유입에 대한 시장의 소화 능력이 의문시되고 있다.
+<a href="https://www.ft.com/content/324ba152-0805-485b-94d5-d16bc904a98f">[FT]</a></blockquote>
 
-<b>14. 남아공 집권 ANC, 지방선거 역대 최악 참패...31% 득표에 그쳐</b>
-<blockquote>아파르트헤이트 종식 후 집권해온 남아프리카공화국 African National Congress가 지방선거에서 31% 득표율을 기록하며 역대 최악의 성적을 냈다. 신흥국 정치 불안정성이 커지며 남아공 자산시장과 광물 수출 전망에 대한 우려가 제기되고 있다.
-<a href="https://www.wsj.com/world/africa/party-that-defeated-apartheid-hits-electoral-setback-in-south-africa-709f0483">[WSJ]</a></blockquote>
+<b>14. Nvidia 싱가포르 매출 실종, Megaspeed 의혹 심화...투명성 논란</b>
+<blockquote>Nvidia가 Megaspeed 거래처 의혹이 불거진 작년부터 싱가포르 매출 공시를 중단하며 투명성 논란이 커지고 있다. 의심스러운 거래처와의 관계가 재무제표에서 어떻게 처리됐는지 불투명한 상황이다.
+<a href="https://www.wsj.com/business/earnings/nvidias-disappearing-singapore-sales-deepen-mystery-around-megaspeed-7d483180">[WSJ]</a></blockquote>
 
-<b>15. 영국 문화장관, EU 재가입 논의 여지 시사...브렉시트 재평가 논쟁</b>
-<blockquote>영국 Lisa Nandy 문화장관은 EU 재가입이 "우리가 가진 선택지인지" 의문을 제기하며 장기적 대EU 관계 재설정 논의에 불을 지폈다. Andy Burnham 총리도 브뤼셀과의 관계를 재검토하겠다는 입장을 밝혔으며, 파운드화 및 유로존과의 무역·통화 관계 변화 가능성이 부각되고 있다.
-<a href="https://www.ft.com/content/1401fe6f-52a2-4639-bed3-67cc828085f1">[FT]</a></blockquote>
+<b>15. 미국 경제 호조 속 트럼프 혼란 우려 무색...AI 급락이 취약성 노출</b>
+<blockquote>세계 최대 경제 미국이 모든 실린더를 가동하며 호황을 구가하고 있으나, 기술주 급락은 AI 주도 붐의 불안정성을 부각시켰다. 트럼프 행정부의 정책 변동성에도 불구하고 거시경제 지표는 견조한 흐름을 이어가고 있다.
+<a href="https://www.ft.com/content/51fb0811-982a-4c7b-8d87-f85cd9008f3b">[FT]</a></blockquote>
 
-<b>16. 아일랜드 정부, 통일 비용 연 30억~250억 유로 추산...유로존 재정 리스크</b>
-<blockquote>아일랜드 연립정부는 남북 통일 시나리오 계획안을 발표하며 초기 1년간 소요 비용을 30억~250억 유로로 추산했다. 총리는 정부 내 전담 부서를 신설해 통일 논의를 본격화하겠다고 밝혔으며, 유로존 재정 부담 확대 가능성이 제기되고 있다.
-<a href="https://www.ft.com/content/e372642c-81a5-4098-8fdf-d118d22fa896">[FT]</a></blockquote>
+<b>16. 글로벌 경제, AI 버블 붕괴에 취약...아시아 국가들 노출도 높아</b>
+<blockquote>일부 국가, 특히 아시아 국가들이 미국 데이터센터 건설 붐에 과도하게 노출돼 있어 AI 투자 급감 시 충격이 클 것으로 분석됐다. 반도체·장비 수출 의존도가 높은 국가들의 경제 취약성이 부각됐다.
+<a href="https://www.wsj.com/economy/the-global-economy-looks-vulnerable-to-an-ai-bust-a04bb0f1">[WSJ]</a></blockquote>
+
+<b>17. 연준 금리인상 베팅 확대로 금값 하락...비이자 자산 매력 약화</b>
+<blockquote>연준의 추가 금리인상 베팅이 강해지며 금값이 아시아 장 초반 하락했다. 비이자 자산인 금의 투자 매력이 약화되며 안전자산 선호 흐름이 달러로 이동하고 있다.
+<a href="https://www.wsj.com/finance/commodities-futures/gold-dims-amid-rising-fed-rate-hike-expectations-22fab6f0">[WSJ]</a></blockquote>
+
+<b>18. 달러, 19개월 최고치 경신...연준 금리인상 베팅 강화</b>
+<blockquote>연준의 공격적 금리인상 가능성에 대한 베팅이 확대되며 달러가 주요 통화 대비 19개월 최고 수준으로 강세를 보였다. 유로화는 18개월 최저치로 하락하며 통화 약세 압력이 지속됐다.
+<a href="https://www.wsj.com/economy/central-banking/euro-falls-to-18-month-low-against-dollar-on-fed-rate-hike-bets-02d386c5">[WSJ]</a></blockquote>
+
+<b>19. 유가 하락 재개, 중동 리스크 프리미엄 축소...분쟁 해결 기대</b>
+<blockquote>중동 분쟁 해결 가능성이 거론되며 유가가 아시아 장 초반 하락세를 재개했다. 전날 소폭 반등했으나 거래자들이 중동 정세 완화 전망을 반영하며 리스크 프리미엄이 축소됐다.
+<a href="https://www.wsj.com/finance/commodities-futures/oil-resumes-decline-as-risk-premium-fades-bcdc7fc5">[WSJ]</a></blockquote>
+
+<b>20. 중동 교전 지속에 유가 반등...미국-이란 외교 해결 기대 후퇴</b>
+<blockquote>중동 지역 교전이 계속되며 미국-이란 분쟁의 외교적 해결 기대가 약화되자 유가 선물이 반등했다. 공급 차질 우려가 재부상하며 전날 하락분을 일부 되돌렸다.
+<a href="https://www.wsj.com/business/energy-oil/oil-prices-rebound-as-middle-east-supply-risks-persist-4e078d4b">[WSJ]</a></blockquote>
+
+<b>21. 폴란드 Orlen, 카타르 LNG 공급계약 해지...전쟁 후 첫 취소 사례</b>
+<blockquote>폴란드 정유사 Orlen이 QatarEnergy와의 장기 LNG 공급계약을 수개월간 불가항력 조항 발동 후 결국 취소했다. 이란 전쟁 발발 이후 카타르와의 LNG 계약 취소 사례로는 첫 사례로 알려졌다.
+<a href="https://www.wsj.com/finance/commodities-futures/polands-orlen-cancels-qatar-lng-supply-deal-after-months-of-force-majeure-88f37e7b">[WSJ]</a></blockquote>
+
+<b>22. OPEC 산유량, 사우디 회복으로 전쟁 전 수준 근접...대체 송유관 가동</b>
+<blockquote>OPEC 회원국들이 10월 원유 생산량을 전쟁 전 수준 근처까지 끌어올렸다. 사우디아라비아가 대체 송유관과 우회로를 가동하며 생산량을 회복시킨 것이 주효했다.
+<a href="https://www.wsj.com/business/energy-oil/opecs-oil-production-nears-prewar-levels-on-saudi-rebound-70ffcc13">[WSJ]</a></blockquote>
+
+<b>23. Bessent 재무장관, 이란 암살 위협 후 군사기지로 이동...압박 캠페인 주도</b>
+<blockquote>Scott Bessent 재무장관이 이란 연계 암살 위협을 받고 군사기지로 거처를 옮겼다. 그는 트럼프 행정부의 대이란 경제 압박 캠페인을 주도해온 인물로, 테헤란의 주요 표적이 됐다.
+<a href="https://www.wsj.com/politics/national-security/bessent-moved-to-military-base-after-threats-linked-to-iran-95cfced1">[WSJ]</a></blockquote>
+
+<b>24. JD Vance, 이란 강경파와 직접 협상 검토...전쟁 종식 추진</b>
+<blockquote>JD Vance 부통령이 이란 강경파 인사와의 직접 대화를 고려하며 전쟁 종식을 추진하고 있다. 일부 미국 관리들은 부통령이 이란 외교의 전면에 나서는 것이 정치적으로 위험할 수 있다고 우려하고 있다.
+<a href="https://www.wsj.com/world/middle-east/vance-considers-direct-talks-with-iran-hardliner-in-push-to-end-war-0c2e3ea4">[WSJ]</a></blockquote>
+
+<b>25. JD Vance, 이란 협상 주도자로 부상...Bessent 암살 위협·Hegseth 탄핵 실패도</b>
+<blockquote>JD Vance 부통령이 이란과의 협상을 주도하는 역할로 부상했다. 한편 민주당의 Pete Hegseth 국방장관 탄핵 시도가 실패했으며, United Airlines가 AI 봇의 항공권 예약을 금지한다고 밝혔다.
+<a href="https://www.wsj.com/world/middle-east/jd-vance-emerges-as-lead-iran-negotiator-cba55bcb">[WSJ]</a></blockquote>
+
+<b>26. 민주당, 중간선거 승리 후 트럼프 프로젝트 표적 삼아...이란 전쟁·물가에 반발</b>
+<blockquote>중간선거에서 압승한 민주당이 불인기 이란 전쟁과 높은 물가를 배경으로 트럼프 대통령의 주요 프로젝트를 겨냥하고 있다. 내년 의회 장악 후 국방장관의 '전쟁부' 명칭 변경 등 국방 우선순위를 공격할 계획이다.
+<a href="https://www.wsj.com/politics/national-security/democrats-target-trumps-warship-as-they-look-to-slash-his-signature-projects-41ceae17">[WSJ]</a></blockquote>
+
+<b>27. 민주당, 트럼프 행정부 '부패 눈사태' 폭로 예고...탄핵은 회피</b>
+<blockquote>민주당 Jamie Raskin 의원이 트럼프 대통령과 측근에 대한 광범위한 조사를 시작하겠다고 밝혔다. 다만 탄핵은 '주의 분산'이 될 수 있다며 신중한 접근을 당부했다.
+<a href="https://www.ft.com/content/3d3fcb94-143d-446c-8b09-b1f830ca97e9">[FT]</a></blockquote>
+
+<b>28. Pete Hegseth 탄핵 실패, 민주당 이란 전쟁 종식 전략 시험대</b>
+<blockquote>민주당의 Pete Hegseth 국방장관 탄핵 시도가 실패로 돌아갔다. 이는 민주당이 이란 전쟁 종식을 위해 행정부에 압박을 가하는 전략의 첫 시험대였으며, 앞으로 더 많은 충돌이 예상된다.
+<a href="https://www.economist.com/united-states/2026/11/11/democrats-strategy-for-ending-the-war-in-iran">[Economist]</a></blockquote>
+
+<b>29. 영국 주택시장 비관론, 3년 만에 최고치...높은 모기지 금리 부담</b>
+<blockquote>영국 부동산 중개인들의 주택시장 전망이 3년 만에 최악 수준으로 악화됐다. Rics 조사에서 매매 및 가격 전망이 급락했으며, 높은 모기지 금리가 수요를 억눌렀다는 분석이 나왔다.
+<a href="https://www.ft.com/content/b9eb728e-847d-44f8-a2cc-bb139bc7220f">[FT]</a></blockquote>
+
+<b>30. 영국 재무부, 최악 상황 대비 에너지 지원 논의...전쟁 종식이 최대 부양책</b>
+<blockquote>Rachel Healey 영국 재무장관이 에너지 위기 심화에 대비해 가계 지원 방안을 논의 중이라고 밝혔다. 이란 전쟁 종식이 영국 경제에 가장 큰 부양 효과를 가져올 것이라고 강조했다.
+<a href="https://www.ft.com/content/22798c90-e999-4564-924a-4f04343cac3d">[FT]</a></blockquote>
+
+<b>31. 우크라이나 평화회담, 포로 교환 성과에도 돌파구 없어...안보 보장 논의</b>
+<blockquote>우크라이나와 러시아, 미국이 참여한 평화회담이 포로 교환 합의로 일부 성과를 냈으나 전쟁 종식의 돌파구는 마련하지 못했다. 전후 안보 보장 문제가 주요 의제로 논의됐다.
+<a href="https://www.ft.com/content/39254048-0d84-47b8-bb97-4b9d9e1f2b92">[FT]</a></blockquote>
+
+<b>32. ExxonMobil, EU 탄소포집 규칙에 법적 도전...투자협정 근거 제시</b>
+<blockquote>미국 석유기업 ExxonMobil이 EU의 탄소포집 규제에 대해 투자협정을 근거로 법적 이의를 제기했다. 브뤼셀의 녹색 규제에 도전하며 시기 요건의 유예를 요구하고 있다.
+<a href="https://www.ft.com/content/377d2ae5-112f-411f-bfc1-5e498948cb7b">[FT]</a></blockquote>
+
+<b>33. 스페인 총파업, 14년 만에 전국 확산...총선 앞두고 생계비 이슈 부각</b>
+<blockquote>스페인 전역에서 14년 만의 총파업이 벌어지며 시위대가 거리로 나섰다. 총선을 몇 주 앞두고 치솟는 생계비에 대한 대책 마련을 촉구하는 목소리가 커지고 있다.
+<a href="https://www.wsj.com/world/europe/spain-hit-by-general-strike-as-cost-of-living-takes-center-stage-ahead-of-elections-2c86baf7">[WSJ]</a></blockquote>
+
+<b>34. NATO, 러시아에 '공세적' 접근 취해야...육해공·사이버·우주 전 영역</b>
+<blockquote>영국 전 국가안보보좌관 Mark Sedwill이 NATO가 러시아에 대해 육해공은 물론 사이버·우주 등 모든 영역에서 공세적 접근을 취해야 한다고 주장했다. 방어적 자세에서 벗어나야 한다는 제언이다.
+<a href="https://www.ft.com/content/83dba705-b3cd-426b-92d2-096ac895c702">[FT]</a></blockquote>
+
+<b>35. 트럼프, 아시아 무역협정서 투자 유치 저조...약속 대비 2.7%만 집행</b>
+<blockquote>일본, 한국, 대만이 관세 완화를 위한 무역·투자 협정에서 약속한 자금 및 직접투자의 2.7%만 집행한 것으로 나타났다. 트럼프 행정부의 아시아 무역 딜이 실제 투자로 이어지지 않고 있다는 지적이다.
+<a href="https://www.ft.com/content/70b733ec-6cab-41f5-9242-85f7f8916352">[FT]</a></blockquote>
+
+<b>36. 트럼프 화석연료 드라이브, 전쟁 중 에너지 안보 우려와 맞물려</b>
+<blockquote>워싱턴에서 고비용 인허가 시스템 개혁 입법 요구가 커지고 있다. 석유·가스 부문의 절실한 인프라 구축을 지원하기 위한 조치로, 전쟁 중 에너지 안보 우려가 배경이다.
+<a href="https://www.ft.com/content/9b79e9f6-4805-4299-bf76-1743ac258054">[FT]</a></blockquote>
+
+<b>37. 영국 유학생 감소폭, 미국보다 커...대학가 이민 통제 완화 촉구</b>
+<blockquote>영국이 국제 대학원생 감소에서 미국보다 더 큰 타격을 입었다. 영국 대학 부문이 이민 통제 완화를 요구하며 학생 유치 경쟁력 회복을 촉구하고 있다.
+<a href="https://www.ft.com/content/8eb628d1-782d-4c2a-b711-164e4d117081">[FT]</a></blockquote>
+
+<b>38. NYSE 계열사, 이달 24시간 토큰화 주식 거래 개시...70개 자산 대상</b>
+<blockquote>Intercontinental Exchange와 OKX의 합작사 OKXICE가 11월 23일부터 적격 미국 고객 대상으로 70개 이상 자산의 토큰화 버전을 24시간 거래할 수 있는 서비스를 시작한다고 밝혔다.
+<a href="https://www.wsj.com/finance/investing/nyse-affiliate-to-launch-24-7-tokenized-stock-trading-this-month-b3f0843a">[WSJ]</a></blockquote>
 
 ━━━━━━━━━━━━━━━━━━━━
 📡 <b>출처: WSJ · FT · The Economist</b>
