@@ -1,7 +1,10 @@
 name: Morning Digest
 
 on:
-  workflow_dispatch:        # cron-job.org 또는 수동 실행
+  workflow_dispatch:        # 수동 실행 / 외부 트리거
+  schedule:
+    # KST 07:50 = UTC 전일 22:50
+    - cron: '50 22 * * *'
 
 jobs:
   morning-digest:
