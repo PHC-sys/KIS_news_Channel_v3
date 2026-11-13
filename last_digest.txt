@@ -1,88 +1,184 @@
-🌙 **간밤의 글로벌 마켓 뉴스**
+🌙 <b>간밤의 글로벌 마켓 뉴스</b>
 [{DATE} | WSJ · FT · Economist ]
 ━━━━━━━━━━━━━━━━━━━━
 
-✅ **간밤의 주요 헤드라인**
+✅ <b>간밤의 주요 헤드라인</b>
 
-**1. Nvidia CEO Jensen Huang 전격 퇴진...AI 붐 핵심 인물 부재 충격**
-<blockquote>Nvidia가 창립 이래 단독 CEO를 맡아온 Jensen Huang의 사임을 발표했다. 중국 스파이 혐의자·직원과의 불륜 스캔들이 연쇄 터지며 이사회가 결단을 내렸고, CFO Colette Kress가 임시 CEO로 선임됐다. Nvidia 주가는 장중 14% 급락 후 5% 하락 마감했으며, AI 섹터 전반에 충격파가 확산됐다.
-<a href="https://www.wsj.com/business/nvidia-starts-search-for-next-ceo-4fe0a873">[WSJ]</a> <a href="https://www.ft.com/content/b4a0f3d9-f075-47ea-9a85-77cdade9a06f">[FT]</a> <a href="https://www.economist.com/business/2026/11/12/jensen-huang-is-out-his-successor-has-the-toughest-job-in-tech">[Economist]</a></blockquote>
+<b>1. 미국 PPI 둔화했으나 여전히 고공 행진...연준 금리인하 기대 후퇴</b>
+<blockquote>10월 미국 생산자물가(PPI) 상승세가 9월보다 완화됐지만, 전년 대비 도매 인플레이션은 여전히 추세를 크게 웃돌고 있다. 시장에서는 연준의 추가 금리 인하 기대가 약화되는 모습이다.
+<a href="https://www.wsj.com/economy/central-banking/producer-price-inflation-cooled-last-month-remains-elevated-d2d4007f">[WSJ]</a></blockquote>
 
-**2. Cisco·Applied Materials 호실적...AI 인프라 수요 여전히 강세**
-<blockquote>Cisco Systems는 1분기 순이익 45.5억달러를 기록하며 전망을 상향 조정했다. Agentic AI 시장의 폭발적 수요가 실적을 견인했다. Applied Materials 역시 반도체 장비 판매 증가로 4분기 순이익 27.2억달러를 달성했다.
-<a href="https://www.wsj.com/business/earnings/cisco-systems-raises-outlook-on-soaring-revenue-profit-7efeabd0">[WSJ]</a> <a href="https://www.wsj.com/business/earnings/applied-materials-sales-profit-climb-on-semiconductor-demand-1954e62c">[WSJ]</a></blockquote>
+<b>2. 미국 국채, Liberation Day 이후 최악의 주...인플레 우려 재점화</b>
+<blockquote>미국 국채가 트럼프의 'Liberation Day' 관세 발표 이후 최악의 주간 성적을 기록했다. 예상보다 높은 인플레이션 지표와 연준 인사들의 매파적 발언이 금리 인하 기대에 베팅했던 투자자들에게 타격을 줬다.
+<a href="https://www.ft.com/content/7bebace2-dc87-410a-ae29-ffd9f3176def">[FT]</a></blockquote>
 
-**3. Trump "이란과 협상 불필요"...에너지 리스크 프리미엄 복귀**
-<blockquote>Trump 대통령이 이란과의 협상을 추진해온 JD Vance 부통령에게 협상 중단을 지시하며 "미국은 이란과의 합의가 필요 없다"고 밝혔다. 원유 선물은 리스크 프리미엄 재부상으로 상승 전환했다.
-<a href="https://www.wsj.com/politics/policy/trump-now-says-u-s-doesnt-need-a-deal-with-iran-e493c1ed">[WSJ]</a> <a href="https://www.ft.com/content/3c1727bb-2966-4e5c-808b-873d14854fa2">[FT]</a></blockquote>
+<b>3. 연준, 2027년 10월 FOMC 회의 취소 확정...Warsh 개혁 신호탄</b>
+<blockquote>연준이 내년 10월 금리 결정 회의를 열지 않기로 확정했다. Kevin Warsh 연준 의장의 연준 개혁 구상 중 가장 눈에 띄지 않지만 가장 지속적인 영향을 미칠 조치로, 연간 금리 결정 횟수가 줄어들게 된다.
+<a href="https://www.wsj.com/economy/central-banking/federal-reserve-calendar-changes-890c4390">[WSJ]</a></blockquote>
 
-**4. 이스라엘, 가자 병원 공습으로 최소 6명 사망...휴전 와중 긴장 지속**
-<blockquote>이스라엘군이 가자지구 Nasser 병원을 공습해 의사와 환자 포함 최소 6명이 숨졌다. 이스라엘은 Hamas 전투원 제거가 목적이었다고 밝혔으나, Trump 행정부의 가자 평화안 진전은 교착 상태에 놓였다.
-<a href="https://www.wsj.com/world/middle-east/israel-strikes-gaza-hospital-killing-at-least-six-e01ebd5f">[WSJ]</a> <a href="https://www.ft.com/content/2a3d0391-c4d9-4195-af36-b5ee66415cd9">[FT]</a></blockquote>
+<b>4. 미국·유로존 국채 금리 동반 상승...인플레 압박 지속</b>
+<blockquote>유럽과 미국 채권 시장에서 수익률이 일제히 상승했다. 인플레이션 압력이 연준의 추가 금리 인상 기대를 강하게 유지시키고 있다.
+<a href="https://www.wsj.com/economy/central-banking/upward-pressure-remains-in-treasury-yields-even-as-two-year-yield-stabilizes-0c267082">[WSJ]</a></blockquote>
 
-**5. 美 국채 매도 가속화...연준 금리 인상 경로 유지 전망**
-<blockquote>연준 인플레 억제를 위한 금리 인상 경로 유지 발언이 이어지며 미 국채 매도가 가속화됐다. 유럽 채권도 동반 약세를 보였으며, 연준은 2027년 10월 회의에서는 금리 결정을 생략한다고 밝혔다.
-<a href="https://www.wsj.com/economy/central-banking/treasury-yields-rise-as-fed-rate-hike-expectations-remain-strong-401fed89">[WSJ]</a> <a href="https://www.wsj.com/economy/central-banking/federal-reserve-to-forgo-rate-decision-at-october-2027-meeting-99c5523f">[WSJ]</a></blockquote>
+<b>5. Nvidia 스캔들 타임라인 정리...세계 최대 AI 기업 CEO 어떻게 무너졌나</b>
+<blockquote>Jensen Huang이 두 건의 불륜 스캔들—그중 하나는 스파이 의혹이 제기된 인물과의 관계—로 Nvidia CEO 자리에서 물러나기까지의 전 과정이 공개됐다. 세계에서 가장 영향력 있는 AI 기업 수장의 추락 경위가 주목받고 있다.
+<a href="https://www.wsj.com/tech/ai/a-timeline-of-nvidia-ceo-jensen-huangs-suspected-spy-drama-05cbebf3">[WSJ]</a></blockquote>
 
-**6. 美 주택 판매 16년 만에 최저...모기지 금리 급등 여파**
-<blockquote>10월 미국 기존 주택 판매가 전월 대비 5.5% 감소하며 2010년 서브프라임 위기 이후 최저치를 기록했다. 고금리로 인한 모기지 부담이 주택시장을 4년 넘게 얼어붙게 한 것으로 분석된다.
-<a href="https://www.wsj.com/economy/housing/home-sales-in-october-plummet-to-16-year-low-16adebc0">[WSJ]</a> <a href="https://www.ft.com/content/1e08661e-1db0-4ff7-8236-77254bb05790">[FT]</a></blockquote>
+<b>6. Nvidia 신임 CEO, 과거 '사슴 눈' 발언으로 구설...리더십 시험대</b>
+<blockquote>Jensen Huang이 과거 "사슴 눈처럼 멍했다"고 평가했던 인물이 이제 Nvidia를 이끌게 됐다. 신임 CEO의 리더십이 시장의 집중 조명을 받고 있다.
+<a href="https://www.wsj.com/articles/jensen-huang-called-her-a-deer-in-the-headlights-now-she-runs-nvidia-d7f063dd">[WSJ]</a></blockquote>
 
-**7. 美 신규 실업수당 청구 예상 밖 증가...노동시장 균열 조짐**
-<blockquote>11월 7일 종료 주간 신규 실업수당 청구 건수가 20만건으로 전주 19.1만건, 시장 예상 19.5만건을 모두 웃돌았다. 노동시장의 점진적 냉각 신호로 해석된다.
-<a href="https://www.wsj.com/economy/jobs/u-s-jobless-claims-rise-more-than-expected-in-the-week-c1651a1c">[WSJ]</a></blockquote>
+<b>7. 전 Nvidia CEO, 중국 접근 노력 수년간 지속...베이징 유대 재조명</b>
+<blockquote>Jensen Huang이 수년간 중국과의 관계를 강화하려 노력해온 정황이 드러나면서, 베이징과의 유대가 집중 조사를 받고 있다.
+<a href="https://www.ft.com/content/3efa9733-fbb4-47c2-83ba-b01e548ef277">[FT]</a></blockquote>
 
-**8. 민주당, 중간선거로 의회 장악...Trump 측근 조사 착수**
-<blockquote>민주당이 화요일 중간선거에서 하원·상원 모두 탈환하며 Trump 연합을 무너뜨렸다. 주요 위원회 장악에 성공한 민주당은 Trump 최고 모금 책임자 Meredith O'Rourke에 대한 조사에 착수했으며, 8억달러 규모 기업 기부금 관련 기록을 요구했다.
-<a href="https://www.wsj.com/politics/elections/the-voters-who-swung-the-house-away-from-trump-8035c7d1">[WSJ]</a> <a href="https://www.wsj.com/politics/policy/democrats-open-probe-into-top-trump-fundraiser-meredith-orourke-94f93562">[WSJ]</a></blockquote>
+<b>8. Bessent, Lutnick에 Megaspeed 제재 실패 책임 전가...내각 갈등 격화</b>
+<blockquote>Scott Bessent 재무장관이 Alice Huang이 임원으로 있던 Megaspeed에 대한 제재 부과 실패 책임을 Howard Lutnick 상무장관에게 돌렸다. 트럼프 행정부 내 긴장이 고조되는 양상이다.
+<a href="https://www.ft.com/content/ce6d292e-eaaa-4c23-b909-34276e1a1e8d">[FT]</a></blockquote>
 
-**9. Trump, 멕시코에 관세 두 배 위협...불법 이민 압박 목적**
-<blockquote>Trump 대통령이 멕시코가 불법 국경 통과를 막지 않으면 관세를 두 배로 인상하겠다고 위협했다. 불법 이민 단속을 무역 압박 수단으로 활용하는 모습이다.
-<a href="https://www.ft.com/content/b4bb6e99-97c8-4392-a227-b7b74853ba26">[FT]</a></blockquote>
+<b>9. Nvidia 스캔들, 트럼프 내각까지 번져...Lutnick 압박 거세</b>
+<blockquote>Jensen Huang 스캔들이 Donald Trump 내각으로 확산되면서 상무장관 Howard Lutnick이 정치적 압박에 직면해 있다.
+<a href="https://www.economist.com/united-states/2026/11/13/the-jensen-huang-scandal-reaches-donald-trumps-cabinet">[Economist]</a></blockquote>
 
-**10. 영국 총리 Burnham, EU와 "실질적 혜택" 협상 추진**
-<blockquote>영국 Burnham 총리가 EU와의 협상에서 영국에 실질적 혜택을 가져오는 합의를 목표로 한다고 밝혔다. 다만 EU 재가입은 논의 대상이 아니라고 선을 그었다.
-<a href="https://www.ft.com/content/291248d4-b8f0-4b88-b847-d2ae4262d351">[FT]</a></blockquote>
+<b>10. Nvidia CEO 물색 과정에 Arm 최고경영자 접촉...반도체 업계 동요</b>
+<blockquote>Jensen Huang 사임 후 Nvidia CEO 후보 물색 과정에서 SoftBank 소유 영국 반도체 기업 Arm의 Rene Haas CEO가 접촉 대상에 올랐던 것으로 드러났다.
+<a href="https://www.ft.com/content/2a64f698-46dd-4178-a3f4-4c5f4c0a0926">[FT]</a></blockquote>
 
-**11. Mercedes-Benz, 독일 내 신규 투자 전면 중단...공장 폐쇄 가능성 경고**
-<blockquote>Mercedes-Benz가 독일 내 모든 신규 투자를 중단한다고 발표했다. 노조와 인건비 절감을 둘러싼 갈등이 격화되며 공장 폐쇄 가능성까지 경고한 상태다.
-<a href="https://www.ft.com/content/f4a1fd87-9abc-4965-963a-a5349dbfdab7">[FT]</a></blockquote>
+<b>11. Nvidia 공매도 세력 2억달러 수익...누가 'Jensxit' 앞두고 베팅했나</b>
+<blockquote>Jensen Huang 퇴진 직전 Nvidia 공매도로 2억달러 수익을 올린 세력이 있는 것으로 포착돼 시장의 이목이 쏠리고 있다.
+<a href="https://www.ft.com/content/13c485dc-2d51-4920-bd1f-13a11c79d96c">[FT]</a></blockquote>
 
-**12. 이탈리아 은행들, 정부 증세에 국채 보유 축소 검토**
-<blockquote>이탈리아 최대 은행 Intesa Sanpaolo 회장이 정부의 은행 추가 과세에 대응해 국채 보유를 줄일 수 있다고 경고했다. 정부와 은행 간 긴장이 고조되고 있다.
-<a href="https://www.ft.com/content/6e27b96d-cb31-4e1a-bb1c-46816be25983">[FT]</a></blockquote>
+<b>12. Huang, 1,350억달러 보유 주식 매각 리스크 부상...투자자 긴장</b>
+<blockquote>Nvidia 공동 창업자 Jensen Huang이 보유한 1,350억달러 규모 주식 매각 가능성이 투자자들을 불안하게 만들고 있다. 다만 매각 시도 자체가 법적·가격 리스크를 수반해 쉽지 않은 상황이다.
+<a href="https://www.ft.com/content/7a1ee00c-ddbd-4ae2-8323-e4dc603d7a41">[FT]</a></blockquote>
 
-**13. 유럽, 러시아 안보 제안 거부...Zelenskyy "주목 필요" 경고**
-<blockquote>유럽 정상들이 아부다비 회담에서 제시된 러시아의 유럽 안보 재편 제안을 거부했다. Zelenskyy 우크라이나 대통령은 "유럽이 주목해야 한다"고 경고했다.
-<a href="https://www.ft.com/content/8d28a5be-af56-421f-a33d-779a0fcc7ad4">[FT]</a></blockquote>
+<b>13. Anthropic CEO, IPO 앞두고 '시장 혼란 무시'...과대약속 피하겠다</b>
+<blockquote>1.5조달러 규모 상장을 일주일 앞둔 AI 기업 Anthropic의 CEO가 최근 테크주 혼란에 "별로 신경 쓰지 않는다"며 IPO에서 "과소약속 후 초과 달성"을 희망한다고 밝혔다.
+<a href="https://www.ft.com/content/4b7b83d7-7fea-4ce2-bfe3-4f2cf75b1d82">[FT]</a></blockquote>
 
-**14. 美 육군 중령, 영국서 러시아 스파이 혐의로 체포**
-<blockquote>미국 육군 장교 Brandon Tyner 중령이 영국 당국의 위장 작전에 적발돼 러시아 스파이 혐의로 체포됐다. 영국 정보기관과 접촉한 것으로 알려졌다.
-<a href="https://www.wsj.com/politics/national-security/u-s-military-officer-arrested-in-the-u-k-was-detained-in-sting-operation-e809a042">[WSJ]</a></blockquote>
+<b>14. 미국 증시 혼조 마감...Nvidia 여파에 반도체주 낙폭 확대</b>
+<blockquote>미국 증시가 혼조세로 마감했다. Jensen Huang을 둘러싼 혼란이 반도체 섹터 전반으로 확산되며 기술주 지수를 끌어내렸고, 금리 인하 기대 후퇴도 부담 요인으로 작용했다.
+<a href="https://www.wsj.com/finance/stocks/u-s-stocks-mixed-on-nvidia-fallout-fears-f9946e8d">[WSJ]</a></blockquote>
 
-**15. 우크라이나, Starlink 군사용 재차 차단...방어 능력 타격**
-<blockquote>우크라이나군이 SpaceX의 군사용 위성 서비스 Starshield가 또다시 제한되고 있다고 밝혔다. 시속 160km 이상 비행하는 드론의 연결이 끊기며 방어 작전에 차질이 빚어지고 있다.
-<a href="https://www.wsj.com/world/ukraine-says-its-military-starlink-is-disrupted-again-hurting-defenses-bfb00a64">[WSJ]</a> <a href="https://www.ft.com/content/6cd890f1-2e4d-468a-807f-529f45e1678e">[FT]</a></blockquote>
+<b>15. 테크주 하락, 다음주 AI 트레이드 시험대 본격화</b>
+<blockquote>기술주가 하락세를 보이며 다음 주 AI 관련 주요 이벤트들이 AI 투자 테마에 대한 본격적인 시험대가 될 전망이다.
+<a href="https://www.wsj.com/finance/stocks/tech-stocks-fall-as-next-week-brings-big-tests-for-the-ai-trade-6a346b49">[WSJ]</a></blockquote>
 
-**16. Cravath 직원, 내부 거래 정보로 7만달러 부당 이득 기소**
-<blockquote>미국 대형 로펌 Cravath의 직원이 고객사 M&A 정보를 이용한 내부자거래 혐의로 기소됐다. Paramount의 Warner Bros. 인수 건 등에서 7만달러의 부당 이득을 취한 것으로 드러났다.
-<a href="https://www.wsj.com/finance/regulation/cravath-employee-is-charged-with-insider-trading-using-confidential-deal-information-a5cdd0a9">[WSJ]</a> <a href="https://www.ft.com/content/ef151433-c522-44e8-b735-38548341b5a0">[FT]</a></blockquote>
+<b>16. AI 트레이드, 한 달간 국채 시장 장악...매크로 서사 주도</b>
+<blockquote>AI 투자 열풍이 지난 한 달간 미국 국채 시장을 좌지우지하며 거시경제 서사의 중심에 섰다.
+<a href="https://www.wsj.com/finance/stocks/how-the-ai-trade-hijacked-the-treasury-market-for-a-month-3fa26a9f">[WSJ]</a></blockquote>
 
-**17. SEC 집행 건수 16년 만에 최저...규제 완화 신호**
-<blockquote>미국 증권거래위원회(SEC)의 상장 기업 대상 집행 조치 건수가 2010년 이후 최저치로 떨어졌다. 규제 당국의 완화 기조를 보여주는 신호로 해석된다.
-<a href="https://www.ft.com/content/74fa38d2-6925-4204-a61b-192e5277e063">[FT]</a></blockquote>
+<b>17. FAA, 전국 항공편 출발 전면 중단 명령...통신 장애 여파</b>
+<blockquote>미국 연방항공청(FAA)이 항공교통관제센터의 통신 장애로 전국 모든 항공편 출발을 일시 중단시켰다. Sean Duffy 교통장관이 조치 배경을 설명했다.
+<a href="https://www.wsj.com/us-news/faa-temporarily-halts-flights-across-u-s-b9b06e59">[WSJ]</a></blockquote>
 
-**18. 중국, 해운보험 허브 구축 추진...런던 독점 체제 도전**
-<blockquote>중국 정부가 국내 선박회사·은행·보험사들을 대상으로 해운보험 허브 구축을 위한 자금 조성 방안을 타진하고 있다. 런던 중심의 글로벌 해운보험 시장에 도전장을 내민 것으로 풀이된다.
-<a href="https://www.wsj.com/business/logistics/beijing-is-trying-to-build-a-chinese-rival-for-insuring-world-shipping-eaf8ccdb">[WSJ]</a></blockquote>
+<b>18. Microsoft 글로벌 장애로 기업·정부 업무 마비...독일 '경제 타격 클 것'</b>
+<blockquote>수십만 사용자가 Outlook과 Teams 등 Microsoft 서비스 접속 문제를 겪으며 전 세계 기업과 정부 업무가 중단됐다. 독일 정부는 경제에 "매우 큰 영향"을 예상한다고 밝혔다.
+<a href="https://www.wsj.com/tech/microsoft-working-to-fix-widespread-outage-8df67a4e">[WSJ]</a></blockquote>
 
-**19. 중국 정부, Nvidia 스캔들 "날조" 비난...기술 제재 구실 경고**
-<blockquote>중국 외교부가 Nvidia CEO Jensen Huang 스캔들이 미국이 "스파이 서사를 날조"해 기술 규제 강화의 구실로 삼으려는 시도라고 비난했다. 미·중 기술 갈등이 한층 격화될 조짐이다.
-<a href="https://www.ft.com/content/66e7337e-3696-4259-84f4-57533bc185bd">[FT]</a></blockquote>
+<b>19. 미국 인프라 허가 절차 지연 심각...AI 붐 속에도 건설 발목</b>
+<blockquote>AI 붐에도 불구하고 미국에서 대형 인프라를 건설하는 데는 여전히 시간이 너무 오래 걸리고 비용이 과도하다는 지적이 나왔다.
+<a href="https://www.wsj.com/politics/policy/this-permitting-overhaul-cant-come-fast-enough-98564d37">[WSJ]</a></blockquote>
 
-**20. 중국 탄소 배출 감소 시작...전력화 진전이 핵심 요인**
-<blockquote>중국의 이산화탄소 배출량이 감소세로 전환됐다. 전력화 기술 진전과 청정 에너지 확대가 주요 요인으로 꼽힌다. 중국은 동남아시아로 청정 기술 수출도 급증시키고 있다.
-<a href="https://www.economist.com/china/2026/11/12/chinas-carbon-dioxide-emissions-have-begun-to-fall">[Economist]</a> <a href="https://www.economist.com/china/2026/11/12/chinas-exports-of-clean-tech-to-south-east-asia-are-soaring">[Economist]</a></blockquote>
+<b>20. IEA, 걸프 공급 복구로 글로벌 원유 공급 과잉 경고...재고 재건 수개월 소요</b>
+<blockquote>국제에너지기구(IEA)가 걸프 지역 원유 출하 재개로 글로벌 원유 시장이 공급 과잉으로 전환됐다고 분석했다. 다만 미·이란 전쟁으로 고갈된 재고를 재건하는 데는 수개월이 걸릴 전망이다.
+<a href="https://www.ft.com/content/20b68fe2-9d60-4c0c-b714-1f3e03015823">[FT]</a></blockquote>
+
+<b>21. 유가 2주 연속 하락...중동 공급 리스크 완화 반영</b>
+<blockquote>국제 유가가 2주 연속 하락했다. 트레이더들은 IEA의 공급 과잉 전망, 중동 원유 출하 차질 지속, 미·이란 협상 타결 기대 냉각 등을 저울질하고 있다.
+<a href="https://www.wsj.com/business/energy-oil/oil-prices-rise-as-middle-east-supply-risks-persist-2066e758">[WSJ]</a></blockquote>
+
+<b>22. 이란, 바레인에 드론 공격 감행...중동 긴장 다시 고조</b>
+<blockquote>이란이 걸프 국가 바레인을 겨냥한 드론 공격을 시도했으나 미국이 요격했다. 두 달 만에 처음으로 확인된 바레인 공격으로 중동 저강도 분쟁이 확대되는 양상이다.
+<a href="https://www.wsj.com/world/middle-east/iran-escalates-low-level-conflict-with-a-shot-at-bahrain-73ff9b51">[WSJ]</a></blockquote>
+
+<b>23. 유로존 무역적자 9월 확대...에너지 가격 상승이 주원인</b>
+<blockquote>9월 유로존의 역외 상품 무역적자가 확대됐다. 가계와 기업이 화석연료 수입에 더 많은 비용을 지불하면서 적자 폭이 커졌다.
+<a href="https://www.wsj.com/economy/trade/eurozone-goods-trade-deficit-narrowed-in-september-d4f7635b">[WSJ]</a></blockquote>
+
+<b>24. 독일 연정, ECB 인사 합의 지연...3개 이사 공석 놓고 교착</b>
+<blockquote>독일 총리와 재무장관이 유럽중앙은행(ECB) 이사회 공석 3곳 중 한 자리 후보 선정에 합의하지 못하고 있다.
+<a href="https://www.ft.com/content/bcfa33cc-535a-4692-ae5f-39e144b78799">[FT]</a></blockquote>
+
+<b>25. 독일 정보기관 권한 대폭 확대...감시·방해 작전 허용</b>
+<blockquote>독일이 정보기관의 감시 역량을 강화하고 적국을 상대로 한 방해 공작을 허용하는 개혁안을 통과시켰다.
+<a href="https://www.ft.com/content/6c55228c-ac59-44cb-926b-6e41585fbf0c">[FT]</a></blockquote>
+
+<b>26. 노르웨이, 기후 소송 패소...해외 배출 고려 의무 판결, 향후 유전 영향</b>
+<blockquote>노르웨이 대법원이 정부가 유전 승인 시 해외에서 석유 연소로 발생하는 배출도 고려했어야 한다고 판결하며 기후 소송에서 국가가 패소했다. 향후 유전 프로젝트에 영향을 미칠 것으로 보인다.
+<a href="https://www.ft.com/content/8535fe3e-f48b-43ac-b14c-946cd5aa1d51">[FT]</a></blockquote>
+
+<b>27. 캐나다 9월 제조업 활동 정체...에너지 가격 상승에도 부진</b>
+<blockquote>9월 캐나다 제조업 활동이 에너지 가격 상승에도 불구하고 정체됐다. 무역 긴장과 높은 불확실성 속에서 제조업 부문이 어려움을 겪으며 3분기를 약하게 마무리했다.
+<a href="https://www.wsj.com/economy/canada-factory-activity-flatlines-in-september-3620209c">[WSJ]</a></blockquote>
+
+<b>28. SEC, 임원 보수 공시 규정 완화 계획...CEO·CFO만 의무화</b>
+<blockquote>미국 증권거래위원회(SEC)가 CEO와 CFO만 보수 패키지 공시를 의무화하는 규정 완화안을 추진 중이다.
+<a href="https://www.ft.com/content/de634392-47bd-4a21-938a-77620aeb3d17">[FT]</a></blockquote>
+
+<b>29. Cravath 직원, 내부정보 이용 불법 거래 혐의 기소...Paramount 딜 정보 악용</b>
+<blockquote>법무부가 미국 로펌 Cravath 직원을 Paramount의 Warner Bros. 인수 등 고객 안건 정보를 이용한 내부자거래 혐의로 기소했다. 7만달러 부당 이익을 챙긴 것으로 알려졌다.
+<a href="https://www.wsj.com/finance/regulation/cravath-employee-is-charged-with-insider-trading-using-confidential-deal-information-a5cdd0a9">[WSJ]</a></blockquote>
+
+<b>30. 철도 CEO 발언 실수로 720억달러 M&A 좌초 위기...규제당국 '중대한 우려'</b>
+<blockquote>미국 최초 대륙 횡단 철도망을 만들 720억달러 규모 합병을 심사 중인 규제당국이 Union Pacific CEO의 발언 영상을 본 후 "중대한 우려"를 표명하며 거래가 위기를 맞았다.
+<a href="https://www.wsj.com/business/deals/railroad-ceos-loose-lips-threaten-to-torpedo-his-72-billion-megadeal-30162207">[WSJ]</a></blockquote>
+
+<b>31. Stellantis, 캐나다에 2,400만달러 상환 제안했으나 정부 '약속 위반' 반박</b>
+<blockquote>Stellantis가 캐나다 정부가 요구하는 보조금 일부를 상환하겠다고 제안했으나, 온타리오 공장 매각 계획을 법정에서 방어할 준비가 돼 있는지는 밝히지 않았다. 정부는 자동차업체가 약속을 위반하고 있다고 맞섰다.
+<a href="https://www.wsj.com/business/autos/stellantis-offers-to-repay-c-24-million-to-canada-but-government-says-automaker-breaching-commitments-15d5e00c">[WSJ]</a></blockquote>
+
+<b>32. 중국, 향후 COP 유치 포기...기후과학 보고서 발간 놓고 EU와 충돌</b>
+<blockquote>중국이 향후 유엔 기후변화협약 당사국총회(COP) 개최 입찰을 철회했다. EU는 IPCC(기후변화에 관한 정부간 협의체) 핵심 보고서의 신속한 발간을 지지할 것을 베이징에 압박하고 있다.
+<a href="https://www.ft.com/content/3cc097d4-00af-4ece-8c86-d1bc9af7664d">[FT]</a></blockquote>
+
+<b>33. CFO, CEO 승계 대비 '대기 CEO' 역할 핵심 임무로 부상</b>
+<blockquote>Nvidia 승계 사례가 보여주듯, 최고재무책임자(CFO)의 주요 역할 중 하나는 위기 시 CEO를 대행할 준비를 갖추는 것임이 재확인됐다.
+<a href="https://www.wsj.com/cfo-journal/nvidia-succession-shows-key-part-of-cfos-jobs-serving-as-on-call-ceos-in-a-pinch-dfb15c3b">[WSJ]</a></blockquote>
+
+<b>34. Baker McKenzie, 시간당 청구 기본 모델 폐기 검토...AI 영향</b>
+<blockquote>글로벌 로펌 Baker McKenzie가 고객 청구 방식의 기본값으로 시간당 요금제를 폐지하는 방안을 추진 중이다. AI가 법률 업계 전통적 결제 구조를 뒤흔들고 있다는 신호다.
+<a href="https://www.wsj.com/business/baker-mckenzie-looks-to-abandon-the-billable-hour-as-default-ca662e2e">[WSJ]</a></blockquote>
+
+<b>35. Richemont 매출 성장 둔화...Cartier 모기업 주가 하락</b>
+<blockquote>Cartier와 Van Cleef & Arpels를 보유한 Richemont가 매출 성장 둔화를 보고하며 주가가 하락했다.
+<a href="https://www.wsj.com/business/retail/cartier-parent-richemont-post-sales-rise-despite-uncertain-market-backdrop-2e5ad747">[WSJ]</a></blockquote>
+
+<b>36. 유럽 증시 반등...유가 하락에 투심 회복</b>
+<blockquote>유럽 증시가 장중 낙폭을 만회하고 상승 전환했다. 유가 하락이 투자 심리를 끌어올렸다.
+<a href="https://www.wsj.com/finance/stocks/nikkei-rises-1-1-led-by-chip-stocks-eb2ed881">[WSJ]</a></blockquote>
+
+<b>37. Amazon, 위기 맞은 Fermi와 데이터센터 계약 부활...Rick Perry 후원 벤처</b>
+<blockquote>Amazon이 Rick Perry 전 장관이 후원하는 데이터센터 벤처 Fermi의 앵커 테넌트가 되기로 합의하며 계약을 되살렸다. 협상 결렬과 이사회 혼란으로 주가가 급락했던 Fermi에 숨통이 트였다.
+<a href="https://www.ft.com/content/692fbfe8-da52-42c0-b436-9c4aff21fbdb">[FT]</a></blockquote>
+
+<b>38. Meta, 직원 대상 예측시장 앱 테스트...'크레드' 사용</b>
+<blockquote>Meta가 직원들이 질문이나 이벤트 결과에 실제 돈이 아닌 '크레드(cred)'로 베팅할 수 있는 예측시장 앱을 개발 중이며 내부 테스트를 진행하고 있다.
+<a href="https://www.wsj.com/tech/meta-testing-new-prediction-market-app-with-employees-bf7bacb2">[WSJ]</a></blockquote>
+
+<b>39. AI 낙관론 유지 '여전히 중요'...신뢰 흔들림 속 균형 모색</b>
+<blockquote>AI 기술에 대한 낙관론을 유지하는 것이 여전히 중요하다는 주장이 나왔다. 최근 우려에도 불구하고 기술의 긍정적 측면을 강조해야 한다는 목소리다.
+<a href="https://www.wsj.com/tech/ai/ai-apocalypse-fear-b04fd8d0">[WSJ]</a></blockquote>
+
+<b>40. Rolls-Royce 비즈니스 모델, 혼란 속 '면도날·블레이드' 전략 재조명</b>
+<blockquote>Rolls-Royce의 전통적 '면도날과 날(razor-and-blade)' 비즈니스 모델이 격변하는 세계에서도 여전히 유효성을 입증하고 있다.
+<a href="https://www.ft.com/content/53908349-419a-42be-9efc-e38981c15499">[FT]</a></blockquote>
+
+<b>41. 연준 의사록·영국 데이터 주목...다음 주 채권·외환 시장 관전 포인트</b>
+<blockquote>연준의 12월 금리 인상 기대가 예상보다 강한 고용 지표와 인플레이션 데이터를 배경으로 높아진 가운데, 다음 주 연준 회의록과 영국 경제 지표가 시장의 초점이 될 전망이다.
+<a href="https://www.wsj.com/economy/week-ahead-for-fx-bonds-fed-minutes-u-k-data-in-focus-679dc61f">[WSJ]</a></blockquote>
+
+<b>42. 미국 보호무역주의 실패...미시시피주 사례가 증명</b>
+<blockquote>미국의 보호무역 정책이 효과를 내지 못하고 있다는 분석이 나왔다. 민주당이 자유무역으로 전환할 가능성은 낮지만, 트럼프로부터 관세 권한 일부를 되찾으려 시도할 것으로 보인다.
+<a href="https://www.ft.com/content/9d1a4cb5-a389-4eab-a7d3-1db0eb3f2f19">[FT]</a></blockquote>
+
+<b>43. 밸류 펀드의 AI 노출 확대...저가주 바구니에 테크주 섞여</b>
+<blockquote>가치주(value) 펀드가 투자자들의 예상과 달리 저렴하고 지루한 종목만 담고 있지 않다. AI 관련 주식 비중이 상당한 것으로 나타났다.
+<a href="https://www.wsj.com/finance/investing/the-stock-markets-bargain-bin-is-secretly-stuffed-with-ai-stocks-8fa3edbe">[WSJ]</a></blockquote>
+
+<b>44. Huang 퇴진 이후에도 소송·의회 압박 지속 전망</b>
+<blockquote>Jensen Huang의 Nvidia CEO 사임이 의회와 집단소송 원고 측의 압박을 완화시킬 가능성은 낮아 보인다.
+<a href="https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-huangs-departure-from-nvidia-unlikely-to-mollify-congress-plaintiffs-lawyers-baf11ad1">[WSJ]</a></blockquote>
 
 ━━━━━━━━━━━━━━━━━━━━
-📡 **출처: WSJ · FT · The Economist**
+📡 <b>출처: WSJ · FT · The Economist</b>
