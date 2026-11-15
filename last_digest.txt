@@ -4,57 +4,85 @@
 
 ✅ <b>간밤의 주요 헤드라인</b>
 
-<b>1. FAA 항공관제 전국 마비...구리선 교체 작업 중 라우터 오류로 전역 지상대기령</b>
-<blockquote>미 연방항공청(FAA)이 통신시스템 현대화 작업 중 L3Harris 계약업체가 설치한 라우터 결함으로 전국 항공기 이륙 중단령을 발령했다. 조종사와 관제탑 간 통신 시스템이 마비되며 주말까지 운항 차질이 이어질 전망이다.
-<a href="https://www.wsj.com/business/airlines/the-tangle-of-wires-at-the-heart-of-a-nationwide-air-travel-meltdown-0356872e">[WSJ]</a></blockquote>
+<b>1. 이란, 바레인 공격으로 걸프 긴장 고조...페르시안만 해상 교통로 위협</b>
+<blockquote>바레인 정부는 이란이 이번 주 두 차례에 걸쳐 미사일 공격을 시도했다고 발표했다. 수개월간 유지되던 걸프만 지역의 상대적 평온 국면이 깨지며 중동 지정학 리스크가 고조되고 있다. 페르시안만 원유 수송로에 대한 우려가 커지고 있다.
+<a href="https://www.ft.com/content/fc7ccc23-c051-49e6-85e5-8d8ba0a83ef9">[FT]</a></blockquote>
 
-<b>2. 미국 공항 대란에 수천편 결항...정치권 책임 공방 격화</b>
-<blockquote>항공관제 시스템 마비로 수천 편의 항공편이 지연·취소되며 승객 불편이 확산됐다. 여야는 시스템 노후화 책임을 놓고 공방을 벌이고 있다.
-<a href="https://www.ft.com/content/f66f9811-59a2-4e52-a944-c7ed81dabc50">[FT]</a></blockquote>
+<b>2. 사우디 지원 예멘군, 홍해 요충지 후퇴...후티 반군에 바브엘만데브 해협 통제권 이양</b>
+<blockquote>예멘 정부군이 바브엘만데브 해협 인근 지역에서 철수하며 사실상 이란 지원 후티 반군에 홍해 전략 요충지 통제권을 넘겼다. 정부군은 수도 아덴 방어를 위한 전략적 후퇴라고 설명했지만, 홍해 해상 교통로에 대한 우려가 증폭되고 있다.
+<a href="https://www.ft.com/content/2e7028ba-987c-4874-9426-fe38a8753c67">[FT]</a></blockquote>
 
-<b>3. FAA 마비 원인은 '일상적' 구리선 교체 작업...L3Harris 시공 불량 지목</b>
-<blockquote>당국은 L3Harris가 결함 라우터를 설치했거나 시공 과정에서 무능함을 드러냈다고 밝혔다. 전국 지상대기령 이후 항공사들은 운항 정상화에 총력을 기울이고 있다.
-<a href="https://www.wsj.com/business/airlines/travel-woes-persist-as-airlines-race-to-reset-after-groundstop-f34a7f9f">[WSJ]</a></blockquote>
+<b>3. Diamondback, Permian Basin 확장 위해 $50억 딜 추진...에너지 공급 대응 가시화</b>
+<blockquote>미국 셰일 기업 Diamondback이 Permian Basin 유전 지분 확대를 위해 50억달러 규모의 인수 계약을 추진 중이다. 이란 전쟁으로 인한 에너지 가격 변동성이 지속되는 가운데 미국 셰일 업체들의 생산 확대 움직임이 본격화하고 있다.
+<a href="https://www.ft.com/content/a56fc76f-af32-45b2-8ae1-d5e211cb9643">[FT]</a></blockquote>
 
-<b>4. Sean Duffy 교통장관, 의회에 500억 달러 요구...공항 혼란 책임론 역공</b>
-<blockquote>Sean Duffy 교통장관은 공항 대란 책임을 의회에 돌리며 500억 달러 예산 지원을 요구했다. 그는 중간선거 이후 백악관 고위 인사 중 세 번째로 논란에 휩싸인 인물이 됐다.
-<a href="https://www.wsj.com/politics/policy/duffy-blames-congress-demands-50-billion-as-white-house-confronts-airport-mess-13ddca17">[WSJ]</a></blockquote>
+<b>4. Jensen Huang, Nvidia CEO 복귀 논의...측근들과 이사회 압박 검토</b>
+<blockquote>Jensen Huang이 중국 스파이 스캔들로 사임한 뒤 측근들과 함께 Nvidia 이사회를 상대로 CEO 복귀 가능성을 논의 중인 것으로 알려졌다. 기술업계 지지자들이 Huang의 복직을 촉구하며 이사회를 압박하고 있다.
+<a href="https://www.ft.com/content/45383d86-33c4-4d99-86e5-5e058d3567c1">[FT]</a></blockquote>
 
-<b>5. 항공관제 마비 여파 주말까지 지속...여행객 불편 가중</b>
-<blockquote>FAA가 전국 지상대기령을 해제했으나 시스템 복구 지연으로 주말 내내 운항 차질이 예상된다. 항공사들은 승객 재배치 작업을 서두르고 있다.
-<a href="https://www.wsj.com/us-news/faa-temporarily-halts-flights-across-u-s-b9b06e59">[WSJ]</a></blockquote>
+<b>5. Bessent 재무장관, Nvidia에 외부 CEO 선임 압박...중국 수출규제 위반 의혹 추궁</b>
+<blockquote>Scott Bessent 재무장관이 Nvidia 이사회에 외부 인사를 차기 CEO로 선임할 것을 촉구했다. Bessent는 Nvidia가 매출 확대를 위해 중국 수출규제를 위반하지 않았는지 밝힐 것을 요구하며 경영진 쇄신이 필요하다고 강조했다.
+<a href="https://www.wsj.com/tech/ai/bessent-urges-nvidia-to-pick-outsider-as-next-ceo-f9d21a83">[WSJ]</a></blockquote>
 
-<b>6. Nvidia, Jensen Huang 추락 후 소송 리스크 노출...임원 행위 보험 커버 부족</b>
-<blockquote>Nvidia는 Jensen Huang의 스캔들로 인한 손해배상 소송에 대비한 보험 커버리지가 충분하지 않은 것으로 드러났다. 임원 행위에 따른 손해를 전액 보상받지 못할 가능성이 커졌다.
-<a href="https://www.ft.com/content/4aba8386-35cc-463b-a79c-a0c85c362c89">[FT]</a></blockquote>
+<b>6. Jensen Huang, 중국 칩 판매망 구축...미국 수출규제 회피 비즈니스 모델 의혹</b>
+<blockquote>WSJ는 Jensen Huang이 미국의 수출규제를 우회해 중국 시장의 AI 칩 수요를 충족시키는 비즈니스 모델을 구축했다고 보도했다. 중국 고객사들에 대한 Nvidia의 판매 전략이 미국 정부의 기술안보 정책과 충돌하고 있다.
+<a href="https://www.wsj.com/articles/how-jensen-huang-built-a-business-to-feed-chinese-appetite-for-american-chips-6c88ecce">[WSJ]</a></blockquote>
 
-<b>7. Jensen Huang 몰락이 빅테크에 던진 충격...Nvidia 이후 달라질 판도</b>
-<blockquote>Jensen Huang의 추락은 빅테크 업계 전반에 파장을 일으키고 있다. 칩 업계 전문가들은 Nvidia가 이전과 같은 위상을 되찾기 어려울 것으로 전망한다.
-<a href="https://www.wsj.com/tech/what-jensen-huangs-downfall-means-for-big-tech-9e6ca5df">[WSJ]</a></blockquote>
+<b>7. 의회, Nvidia 스캔들 계기로 AI 칩 수출규제 입법 추진...대중국 통제 강화</b>
+<blockquote>Jensen Huang의 중국 스파이 스캔들 이후 미국 의회가 AI 반도체 수출규제 법안 통과에 박차를 가하고 있다. 의회 관계자들은 이번 사건이 중국행 첨단 칩 통제 강화 입법에 모멘텀을 제공했다고 밝혔다.
+<a href="https://www.ft.com/content/3062790a-553d-41b8-9c7d-bae17b9d2e29">[FT]</a></blockquote>
 
-<b>8. Economist 칩 전문가 "Nvidia는 절대 예전으로 돌아갈 수 없다"</b>
-<blockquote>Economist의 칩 산업 전문가 Shailesh Chitnis는 Jensen Huang의 몰락을 되짚으며 Nvidia의 미래가 근본적으로 달라질 것이라고 진단했다.
-<a href="https://www.economist.com/business/2026/11/14/the-bottom-line-newsletter-nvidia-will-never-be-the-same">[Economist]</a></blockquote>
+<b>8. 미국·동맹국, AI 공급망 보호 협정 체결...중국 배제 공급망 구축 가시화</b>
+<blockquote>미국과 동맹국들이 AI 공급망을 중국으로부터 보호하기 위한 협정에 서명했다. 협정은 Donald Trump 대통령이 중국 선전에서 열리는 아시아태평양경제협력체(APEC) 정상회의에서 Xi Jinping 주석과 만나기 직전에 발표됐다.
+<a href="https://www.ft.com/content/3c2197fc-9618-4838-91e6-522ce1a96a22">[FT]</a></blockquote>
 
-<b>9. Trump Media, 10억 달러 부채 위기 직면...비트코인 베팅 실패로 자산 매각 압박</b>
-<blockquote>Truth Social 운영사 Trump Media는 주가와 비트코인 가격 급락으로 10억 달러 규모 부채 상환 압박에 시달리고 있다. 회사는 자산 매각 또는 고금리 차입을 검토 중이다.
-<a href="https://www.ft.com/content/ada459c4-5f43-4a4a-bc6c-90de8897a4f0">[FT]</a></blockquote>
+<b>9. FDA, 중국 개발 암 치료제 승인 거부...베이징 바이오텍 섹터 타격</b>
+<blockquote>미국 식품의약국(FDA)이 Summit Therapeutics의 암 치료제 Ivonescimab 승인을 거부했다. 중국에서 개발된 이 약물은 중국 바이오 의약품이 미국 규제 기준을 통과할 수 있는지를 시험하는 사례로 주목받았다.
+<a href="https://www.ft.com/content/390948a3-429c-410a-b5fe-54cc5a380b99">[FT]</a></blockquote>
 
-<b>10. 중국, 서방 테크·AI 타겟한 대규모 스파이 작전...민주당, Musk에 우크라이나 Starlink 기록 보존 명령</b>
-<blockquote>중국이 서방의 첨단 기술 및 인공지능(AI) 기업을 겨냥한 광범위한 스파이 활동을 전개하고 있는 것으로 드러났다. 한편 민주당은 Elon Musk에게 우크라이나의 Starlink 접속 관련 기록을 보존하라고 요구했다.
-<a href="https://www.wsj.com/world/china/the-massive-chinese-spy-operation-targeting-western-tech-and-ai-cd58ff86">[WSJ]</a></blockquote>
+<b>10. Anthropic IPO 앞두고 AI 섹터 밸류에이션 시험대...OpenAI 압박 가중</b>
+<blockquote>Anthropic의 대규모 IPO가 임박하며 OpenAI에 대한 경쟁 압박이 커지고 있다. 코딩 에이전트 시장이 성장하고 있지만 AI 기업들의 다음 성장 동력이 무엇인지에 대한 시장의 관심이 집중되고 있다.
+<a href="https://www.economist.com/business/2026/11/15/anthropics-giant-ipo-puts-the-heat-on-openai">[Economist]</a></blockquote>
 
-<b>11. 미국, 우크라이나에 Donbas 철수-NATO 가입 맞교환 제안...Zelenskyy, 국민투표 시사</b>
-<blockquote>미국은 우크라이나가 Donbas 지역에서 철수하는 대신 NATO 회원국 지위를 보장하는 방안을 제시했다고 Volodymyr Zelenskyy 대통령이 밝혔다. Zelenskyy는 이 제안을 국민에게 물을 것이라고 말했다.
-<a href="https://www.ft.com/content/24319e2d-1a34-4a72-8c91-008d974234f9">[FT]</a></blockquote>
+<b>11. Anthropic 뉴욕 상장 임박...AI 버블 논쟁 재점화 전망</b>
+<blockquote>Anthropic의 뉴욕 상장일이 다가오며 AI 섹터 밸류에이션에 대한 논쟁이 재점화될 전망이다. 시장은 상장 후 주가 흐름을 통해 AI 기업들의 적정 가치를 가늠하게 될 것이라고 전망하고 있다.
+<a href="https://www.ft.com/content/3c7c1b7a-541d-47a3-b074-b8e17e7b050c">[FT]</a></blockquote>
 
-<b>12. 우크라이나 휴전 전 NATO 논의 착수...모스크바에 추가 협상카드 제공 우려</b>
-<blockquote>유럽에서는 우크라이나 휴전 이전에 NATO 확대 논의를 시작하는 것이 러시아에 추가 협상 레버리지를 제공할 수 있다는 우려가 나온다. 안보 구도 재편 논의가 전쟁 종결 협상을 복잡하게 만들 가능성이 제기됐다.
-<a href="https://www.ft.com/content/4f951f7e-5ea7-41bf-91f0-d550f2231a33">[FT]</a></blockquote>
+<b>12. Anthropic 상장, 프론티어 AI 기업도 공개시장 압력에 굴복...밸류에이션 시험</b>
+<blockquote>FT는 Anthropic IPO가 가장 강력한 프론티어 AI 연구소조차 공개 주식시장의 압력을 피할 수 없음을 보여주는 사례라고 분석했다. AI 섹터의 다음 성장 단계에 대한 투자자들의 판단이 주가에 반영될 전망이다.
+<a href="https://www.ft.com/content/bc8ac781-9837-46de-b7ed-958886ba43af">[FT]</a></blockquote>
 
-<b>13. 독일, 영-일-이탈리아 차세대 전투기 프로젝트 참여 좌절...로마 거부로 방산 협력 난항</b>
-<blockquote>독일이 영국·일본·이탈리아가 추진 중인 차세대 전투기 공동개발 프로그램에 동등 파트너로 참여하려던 시도가 이탈리아의 반대로 무산됐다. 유럽 방산 협력 구도에 차질이 빚어질 전망이다.
-<a href="https://www.ft.com/content/3ba2bcd1-b80c-48a2-91c7-35f25366f8aa">[FT]</a></blockquote>
+<b>13. Nvidia 실적 발표 앞두고 AI 섹터 매도세 진정 기대...변동성 지속 전망</b>
+<blockquote>Nvidia의 실적 발표가 AI 섹터 매도세를 진정시킬 수 있을지 시장의 관심이 집중되고 있다. Jensen Huang 스캔들 이후 AI 관련 주가 변동성이 확대된 가운데 실적이 섹터 전체 방향성을 가늠할 주요 지표가 될 것으로 예상된다.
+<a href="https://www.ft.com/content/3ccb1761-a0cd-43ba-a3e7-e19d00950ae3">[FT]</a></blockquote>
+
+<b>14. 에스토니아, 러시아와 국경 폐쇄...GRU 배후 드론업체 폭발 시도 의혹</b>
+<blockquote>에스토니아가 러시아 군사정보기관 GRU의 드론 제조업체 폭발 시도를 적발한 뒤 러시아와의 국경을 폐쇄했다고 발표했다. 이번 조치는 나토 회원국과 러시아 간 긴장이 고조되는 가운데 나온 것이다.
+<a href="https://www.ft.com/content/4dbb2c30-1649-4d0f-b1b6-3ca91c64e250">[FT]</a></blockquote>
+
+<b>15. FAA 항공편 전면 중단 사태 3일째 지속...수백 편 추가 결항</b>
+<blockquote>미국 연방항공청(FAA)의 항공편 전면 중단 조치가 3일째 이어지며 일요일에도 수백 편이 추가 결항됐다. 항공사들은 금요일 중단 조치 이후 무너진 운항 스케줄을 재구성하는 데 어려움을 겪고 있다.
+<a href="https://www.wsj.com/business/airlines/groundstop-ripples-into-third-day-of-scrapped-flights-003cba99">[WSJ]</a></blockquote>
+
+<b>16. EU 은행감독청, 단일 예금보험제도 대신 대안 검토...국경 간 대출 확대 목표</b>
+<blockquote>유럽은행청(EBA) 의장이 단일 예금보험제도 도입에서 방향을 선회해 국경 간 대출을 늘릴 수 있는 대안 방안을 검토 중이다. 유로존 은행 통합에 대한 정치적 저항을 감안한 우회 전략으로 풀이된다.
+<a href="https://www.ft.com/content/016ce22d-1e09-4f1d-a7e6-9acf183e757f">[FT]</a></blockquote>
+
+<b>17. 영국 전기료, 2030년까지 13% 인상 전망...송배전망 투자 비용 부담</b>
+<blockquote>영국 기업들이 2030년 말까지 전기료가 약 13% 오를 것으로 전망하고 있다. 인상분은 주로 전력망 투자 비용에서 비롯될 것으로 분석됐다. 유럽 경제의 에너지 비용 부담이 가중되고 있다.
+<a href="https://www.ft.com/content/51ce4dd5-d726-41fd-b46c-a378dce14b69">[FT]</a></blockquote>
+
+<b>18. 홍콩 New World, $32억 라이츠이슈 단행...82% 할인가에 부채 축소</b>
+<blockquote>홍콩 부동산 개발업체 New World Development가 부채 축소를 위해 32억달러 규모의 유상증자를 실시한다고 발표했다. 정씨 일가 소유의 이 부동산 기업은 주가 대비 82% 할인된 가격으로 신주를 발행해 재무구조 개선에 나선다.
+<a href="https://www.ft.com/content/9daa3a26-c49c-4c94-91af-0d4c2116d2e4">[FT]</a></blockquote>
+
+<b>19. 기니 금 채굴 붐, 금값 상승에 사망 사고 속출...정부 단속 강화</b>
+<blockquote>국제 금값 상승으로 기니에서 금 채굴 붐이 일며 사망 사고가 잇따르고 있다. 기니 정부는 불법 채굴에 대한 단속을 강화하고 있지만 높은 금값이 채굴 열풍을 부추기고 있다.
+<a href="https://www.ft.com/content/0d0d8fae-14f4-410f-8597-8e58f1172ad7">[FT]</a></blockquote>
+
+<b>20. 미 민주당, 중도파와 진보파 재정정책 충돌...트럼프 선거구 출신 의원들 견제</b>
+<blockquote>민주당 하원·상원 다수당 지위가 트럼프 당선 선거구와 적색 주에서의 승리로 확보된 가운데, 중도파 의원들이 진보파의 대규모 재정지출 법안에 제동을 걸고 있다. 의료·인프라 분야 수조달러 규모 지출 아젠다를 놓고 당내 갈등이 심화되고 있다.
+<a href="https://www.wsj.com/politics/elections/the-centrist-forces-working-to-tame-the-far-left-on-capitol-hill-0f89edd3">[WSJ]</a></blockquote>
 
 ━━━━━━━━━━━━━━━━━━━━
 📡 <b>출처: WSJ · FT · The Economist</b>
