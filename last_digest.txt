@@ -4,121 +4,125 @@
 
 ✅ <b>간밤의 주요 헤드라인</b>
 
-<b>1. Nvidia 황젠슨 스캔들에 AI 섹터 전반 급락...Nasdaq -2.7% 기록</b>
-<blockquote>Nvidia 황젠슨 CEO 사퇴 스캔들이 계속 확대되며 미 증시가 큰 폭으로 하락했다. S&P 500은 세 거래일 연속 하락했고, Nasdaq 100은 2.7% 급락하며 지난주 사퇴 발표 이후 가장 큰 낙폭을 기록했다. Nvidia 이사회는 황젠슨 복귀를 검토하지 않고 있다고 밝혔으나, 그의 측근들은 공개서한과 전화 캠페인을 통해 사퇴 결정이 성급했다고 주장하고 있다.
-<a href="https://www.wsj.com/finance/stocks/u-s-stocks-extend-slide-on-nvidia-china-fears-ea169587">[WSJ]</a> <a href="https://www.ft.com/content/12d927a9-98b1-40b9-8f75-01fb56a693d1">[FT]</a> <a href="https://www.wsj.com/business/nvidias-board-not-considering-reinstating-jensen-huang-as-ceo-a2b913b1">[WSJ]</a> <a href="https://www.ft.com/content/e5275763-d7e2-4857-8ac6-6b888111986a">[FT]</a> <a href="https://www.wsj.com/tech/the-campaign-to-bring-back-jensen-huang-as-nvidia-ceo-e91b0b2c">[WSJ]</a></blockquote>
+<b>1. Nvidia 실적 호조에도 CEO 복귀 논란...Jensen Huang 거취 불확실성 지속</b>
+<blockquote>Nvidia가 3분기 매출 전년비 2배 이상 증가 발표하며 가이던스를 상향했으나, Jensen Huang이 사임 후 복귀 의사를 밝혀 시장은 경영 불확실성에 주목하고 있다. 임시 CEO Colette Kress는 실적 발표에서 회사의 미래 방향에 대한 질문에 직면할 전망이다.
+<a href="https://www.wsj.com/tech/ai/nvidia-nvda-3q-2027-earnings-report-stock-6e642303">[WSJ]</a> <a href="https://www.ft.com/content/3a8881b8-068c-4950-9238-4f8eb1efc870">[FT]</a> <a href="https://www.ft.com/content/e265542c-25d9-4a82-8cb7-e4a4b641cdda">[FT]</a></blockquote>
 
-<b>2. OpenAI, 캘리포니아주 검찰로부터 소송 직면...AI 안전 경시 혐의</b>
-<blockquote>캘리포니아주 법무장관이 OpenAI를 상대로 소송을 제기했다. 기소장에는 OpenAI가 필수 안전장치 없이 AI 모델을 개발해 대중을 오도하고 위험에 빠뜨렸다는 내용이 담겼다. 검찰은 무단 AI 해킹 사건 80건이 발생한 것은 "성장을 안전보다 우선시하는 내부 문화의 예측 가능한 결과"라고 지적했다.
-<a href="https://www.wsj.com/tech/ai/california-ag-accuses-openai-of-misleading-and-endangering-the-public-8e5c60d0">[WSJ]</a> <a href="https://www.ft.com/content/1e18af77-d434-4871-81cc-b0e74a0e97bd">[FT]</a></blockquote>
+<b>2. SEC, Nvidia 공시 위반 의혹 조사 착수...국가안보위원회 신설</b>
+<blockquote>SEC가 Nvidia의 투자자 공시법 위반 여부를 조사 중이며, Nvidia는 미국 칩 수출규제 준수 감독을 위한 국가안보위원회를 신설했다. 이는 Jensen Huang의 중국 스파이 의혹 연루 사태 이후 나온 첫 조치다.
+<a href="https://www.wsj.com/business/the-sec-is-investigating-nvidia-c59a9845">[WSJ]</a> <a href="https://www.wsj.com/business/sec-is-probing-nvidia-amid-departure-of-ceo-jensen-huang-ee7643f8">[WSJ]</a> <a href="https://www.wsj.com/politics/national-security/nvidia-forms-national-security-committee-after-huangs-exit-c3261fc2">[WSJ]</a> <a href="https://www.ft.com/content/aeacbf89-5511-4d1c-81c2-b4c227bdfceb">[FT]</a></blockquote>
 
-<b>3. 미 상무부, 對中 반도체 수출 규제 추가 강화...황젠슨 사태 후 압박 가중</b>
-<blockquote>미 상무부가 Nvidia 등 미국 기업의 對中 칩 수출을 더욱 제한하는 새 규정을 발표했다. 이번 조치는 황젠슨 스캔들 이후 행정부 내부에서 상무부가 받아온 압박을 반영한 것으로, 중국에 대한 첨단 반도체 기술 유출을 차단하려는 의도다.
-<a href="https://www.wsj.com/world/asia/commerce-department-rule-aims-to-further-limit-chip-shipments-to-china-c6244c33">[WSJ]</a> <a href="https://www.wsj.com/politics/national-security/commerce-department-moves-to-crack-down-on-chip-exports-65b8f3c2">[WSJ]</a> <a href="https://www.ft.com/content/6b475027-f28a-4d1f-9331-c19a0e4d5a68">[FT]</a></blockquote>
+<b>3. Nvidia 가족 기업 연루 의혹 확산...Huang 딸·사위 Megaspeed 연결고리</b>
+<blockquote>Jensen Huang의 딸과 사위가 중국 스파이 스캔들 연관 기업 Megaspeed와 연루됐다는 의혹이 제기되며 이사회가 조사에 착수했다. Nvidia는 싱가포르 매출이 1,040억 달러에 달하는 가운데 해당 지역 매출 공시를 중단한 것으로 알려졌다.
+<a href="https://www.ft.com/content/65ff066f-a81c-4d24-95da-73c2d7b83a27">[FT]</a> <a href="https://www.ft.com/content/6d1efc79-8e86-475e-91da-4cf15fd50079">[FT]</a> <a href="https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf">[FT]</a></blockquote>
 
-<b>4. Intel 주주소송 직면...PC 판매 부진 미공개로 주가 29% 급락</b>
-<blockquote>Intel이 PC 판매 급감 규모를 제대로 공시하지 않았다는 이유로 주주들로부터 소송을 당했다. 해당 정보가 뒤늦게 공개된 뒤 Intel 주가는 29% 폭락했으며, 투자자들은 회사가 중요한 사업 위험을 은폐했다고 주장하고 있다.
-<a href="https://www.wsj.com/tech/intel-sued-by-investors-after-29-stock-plunge-c6591bbf">[WSJ]</a></blockquote>
+<b>4. AI 섹터 투자 심리 급랭...Jensen Huang 없는 Nvidia 의존도 경계</b>
+<blockquote>Nvidia 주가가 하락하며 AI 투자 거품 우려가 확산되고 있다. 투자자들은 반도체 자체가 아닌 Jensen Huang 개인에 대한 의존도가 과도했다는 평가 속에 포트폴리오 방어 전략을 모색하고 있다.
+<a href="https://www.wsj.com/finance/stocks/u-s-stocks-fall-as-ai-doubts-fester-a0979bdb">[WSJ]</a> <a href="https://www.ft.com/content/4a3b9892-67c6-4177-8503-80c0a5eb3b60">[FT]</a> <a href="https://www.wsj.com/finance/stocks/stocks-dip-ahead-of-nvidia-earnings-1007fe69">[WSJ]</a> <a href="https://www.ft.com/content/6776c08b-5c36-4f15-8d2f-708fccde555c">[FT]</a> <a href="https://www.ft.com/content/250e02c2-3195-4c92-ba20-fb19a3f118d6">[FT]</a> <a href="https://www.ft.com/content/115eeb4e-4d7c-468b-968d-0bbb74a229b1">[FT]</a> <a href="https://www.wsj.com/finance/stocks/its-hard-to-protect-your-nest-egg-from-nvidia-2e7419b7">[WSJ]</a> <a href="https://www.wsj.com/finance/stocks/investors-press-for-answers-from-nvidia-where-everything-has-changed-9fa681ce">[WSJ]</a></blockquote>
 
-<b>5. IPO 시장 얼어붙으며 2026년 최대 상장주 모두 손실...AI 거품 붕괴 신호</b>
-<blockquote>올해 가장 큰 규모로 상장한 10개 기업의 주가가 평균 20% 이상 하락했다. 4년간 상승세를 이어가던 IPO 시장이 2026년 들어 급격히 냉각되면서 AI 붐에 대한 과도한 기대가 꺾이고 있다는 분석이 나온다.
-<a href="https://www.ft.com/content/7974acec-e378-4298-a1a7-2b16b00d8b32">[FT]</a></blockquote>
+<b>5. AI 스타트업 Anthropic, 수요 호조로 IPO 가격 인상 추진</b>
+<blockquote>Anthropic이 시장 혼란과 Nvidia CEO 사임 충격 속에서도 강한 투자 수요에 힘입어 IPO 공모가 인상을 계획 중이다. AI 스타트업 시장의 차별화된 투자심리를 보여주는 사례로 평가된다.
+<a href="https://www.wsj.com/finance/anthropic-plans-to-raise-ipo-price-after-strong-demand-1a6b0af1">[WSJ]</a></blockquote>
 
-<b>6. Kevin Warsh 연준의장 "AI, 高성장 지속 가능...인플레이션 없이 GDP 상향 가능"</b>
-<blockquote>Kevin Warsh 연준의장은 AI로 인한 생산성 혁신이 인플레이션을 자극하지 않으면서도 미국 경제를 장기 평균 이상의 성장 궤도에 올려놓을 수 있다고 밝혔다. 연준은 AI가 일자리, 생산성, 금융시장에 미칠 영향을 시나리오별로 모델링 중이며, Warsh 의장은 미국이 AI 분야에서 주도권을 잃으면 초강대국 지위를 유지할 수 없다고 강조했다.
-<a href="https://www.wsj.com/economy/central-banking/warsh-says-fed-is-gaming-out-how-ai-could-reshape-economy-ab296fc9">[WSJ]</a> <a href="https://www.ft.com/content/0431ca7c-5bef-4ffa-a4bd-aa29354eb691">[FT]</a></blockquote>
+<b>6. OpenAI-NATO 사이버 방어 협력...AI 모델 활용한 위협 탐지</b>
+<blockquote>OpenAI가 NATO의 기술·사이버 허브와 파트너십을 맺고 AI 모델을 활용해 의심 활동 탐지, 취약점 발견, 수정 배포를 지원한다고 밝혔다. ChatGPT 개발사의 군사·안보 영역 확장이 본격화되고 있다.
+<a href="https://www.wsj.com/tech/cybersecurity/openai-partners-with-nato-on-cyber-defenses-ea4df258">[WSJ]</a></blockquote>
 
-<b>7. 미 국채 금리 하락, 독일 국채는 상승...연준 발언에 금리 커브 재조정</b>
-<blockquote>미 국채 금리가 한 주를 하락으로 시작했다. 지난주 인플레이션 지표와 연준 매파 발언으로 급등했던 금리가 일부 반납됐다. 반면 독일 국채 금리는 소폭 상승하며 미국과 유럽 간 금리 격차가 좁혀지는 모습을 보였다.
-<a href="https://www.wsj.com/finance/investing/u-s-treasury-yields-decline-but-fed-rate-hike-prospects-in-focus-1257629b">[WSJ]</a></blockquote>
+<b>7. 미국, 이란 Qeshm Island 공격 단행...바레인 미군기지 타격에 보복</b>
+<blockquote>미국이 이란의 바레인 미군기지 타격에 대응해 Qeshm Island를 공습했으며, 이란 혁명수비대는 호르무즈 해협에서 유조선 2척이 피격됐다고 발표했다. 중동 지정학 리스크가 에너지 공급망 전면으로 확산되는 국면이다.
+<a href="https://www.ft.com/content/e79991c9-3f45-461a-9e3a-9c9f15ec029a">[FT]</a></blockquote>
 
-<b>8. 영국 2년물 금리 5% 돌파...경제 호조·BoE 매파 메시지에 3년래 최고</b>
-<blockquote>영국 국채 2년물 금리가 5%를 넘어서며 3년 만에 최고치를 기록했다. 최근 발표된 경제지표가 예상보다 견조했고, 영란은행이 금리 인하에 신중한 입장을 유지하면서 단기 국채 금리가 급등했다.
-<a href="https://www.ft.com/content/aad29fc8-1b1b-4b7a-9e60-99989887ad89">[FT]</a></blockquote>
+<b>8. 미국 10월 수입물가 1.1% 상승...9월과 동일, 예상 상회</b>
+<blockquote>미국 노동통계국이 10월 수입물가가 전월비 1.1% 올라 9월 증가율과 같은 수준을 기록했다고 발표했다. 시장 예상치 0.7%를 크게 웃돌며 인플레이션 재점화 우려가 커지고 있다.
+<a href="https://www.wsj.com/economy/u-s-import-prices-climb-again-in-october-f4e6bf35">[WSJ]</a></blockquote>
 
-<b>9. 캐나다 중앙은행 Tiff Macklem 총재 6월 퇴임...차기 총재 선정 경쟁 시작</b>
-<blockquote>캐나다 중앙은행 Tiff Macklem 총재가 6월 임기 만료와 함께 퇴임한다고 밝혔다. 차기 총재는 미국 의존도를 낮추고 경제 성장 동력을 다변화하는 과제를 떠안게 된다. 캐나다 10월 소비자물가는 전년 대비 3.1%로 전월과 동일한 수준을 유지했다.
-<a href="https://www.wsj.com/economy/central-banking/bank-of-canada-gov-macklem-to-leave-in-june-kicking-off-search-for-new-leader-cbce9e69">[WSJ]</a> <a href="https://www.wsj.com/economy/central-banking/canada-inflation-holds-steady-at-3-1-in-october-d47350f2">[WSJ]</a></blockquote>
+<b>9. 연준 Musalem, 내년 봄까지 여러 차례 금리 인상 필요 시사</b>
+<blockquote>세인트루이스 연은 총재 Alberto Musalem은 내년 봄 이전까지 인플레이션 통제를 위해 여러 차례 금리 인상이 필요할 것이라고 밝혔다. 연준 내 매파 목소리가 다시 힘을 얻는 모습이다.
+<a href="https://www.wsj.com/economy/central-banking/feds-musalem-says-several-rate-hikes-likely-needed-before-spring-2027-ffb3a9fc">[WSJ]</a></blockquote>
 
-<b>10. 일본 GDP 역성장 기록...BoJ 12월 금리인상 불확실성 확대</b>
-<blockquote>일본 실질 GDP가 2분기와 3분기 사이 분기 연율 기준 마이너스 성장을 기록했다. 이에 따라 일본은행의 12월 금리 인상 가능성에 의문이 제기되고 있다.
-<a href="https://www.ft.com/content/5dfa6759-407c-4166-b221-802a5f5b936a">[FT]</a></blockquote>
+<b>10. 달러 강세 지속·금 소폭 상승·국채 수익률 하락...엇갈린 시그널</b>
+<blockquote>달러화는 2025년 4월 이후 최고 수준까지 상승하며 'Liberation Day' 이후 낙폭을 모두 회복했고, 금 선물은 소폭 반등했으나 미 국채와 유로존 국채 수익률은 하락했다. 금리 기대와 달러 강세가 충돌하는 혼조 장세가 이어지고 있다.
+<a href="https://www.wsj.com/finance/commodities-futures/gold-struggles-to-recover-as-dollar-rates-weigh-13856211">[WSJ]</a> <a href="https://www.wsj.com/economy/central-banking/u-s-treasury-eurozone-bond-yields-edge-lower-as-fresh-drivers-are-sought-746b3b6d">[WSJ]</a> <a href="https://www.ft.com/content/b8215e9c-bed2-49e8-a36f-6d7aca599bba">[FT]</a> <a href="https://www.ft.com/content/c53ae58c-64b9-4d90-8a0b-d338e80f4614">[FT]</a></blockquote>
 
-<b>11. Trump-시진핑-푸틴 목요일 3자 정상회담...러 에너지·對中 무역 긴장 고조</b>
-<blockquote>목요일 Donald Trump 대통령과 시진핑 중국 국가주석, Vladimir Putin 러시아 대통령의 역사적 3자 정상회담이 열린다. 러시아는 회담에서 "공동성명" 발표를 목표로 하고 있으며, 아시아 지역에서 벌어지는 일련의 외교 행사는 강대국 간 경쟁 구도를 재편할 가능성이 있다. Nvidia 스파이 스캔들은 회담을 앞두고 중국의 對美 관계 개선 노력에 타격을 주고 있다.
-<a href="https://www.ft.com/content/e567ba7d-c53a-47a2-a361-3b8a107fcdef">[FT]</a> <a href="https://www.ft.com/content/5621d364-c767-4b40-a090-054042d1c49b">[FT]</a> <a href="https://www.wsj.com/world/china/nvidia-scandal-threatens-chinas-charm-offensive-ahead-of-trump-summit-9fa887fe">[WSJ]</a></blockquote>
+<b>11. 연준 이사 Lisa Cook, 백악관 청문회 불참 선언...Trump 압박 거부</b>
+<blockquote>연준 이사 Lisa Cook이 Trump 행정부가 소집한 해임 여부 청문회 참석을 거부했다. 변호사는 백악관 경제고문이 패널에 포함된 청문회는 불공정하며 연준의 독립성을 위태롭게 한다고 밝혔다.
+<a href="https://www.wsj.com/politics/policy/feds-lisa-cook-rebuffs-white-house-hearing-citing-biased-panel-e6eac42b">[WSJ]</a> <a href="https://www.ft.com/content/ac8fe697-a48d-4b0a-b556-46ae5463a6e4">[FT]</a></blockquote>
 
-<b>12. Trump, 김정은과 추가 회담 가능성 시사...아시아 순방 중 접촉 열려둬</b>
-<blockquote>Donald Trump 대통령이 이번 주 아시아 순방 중 북한 김정은 국무위원장과 만날 가능성을 열어뒀다. Trump는 1기 대통령 재임 시절 싱가포르에서 김정은과 첫 정상회담을 가졌고, 1년 뒤에는 북한 땅을 잠시 밟은 바 있다.
-<a href="https://www.wsj.com/politics/trump-says-he-might-meet-with-north-koreas-kim-during-asia-trip-1634f7f0">[WSJ]</a></blockquote>
+<b>12. Trump, 아시아 순방 개시...중·러·미 정상회담 앞두고 필리핀 도착</b>
+<blockquote>Trump 대통령이 중간선거 패배 후 첫 해외 순방에 나서 필리핀에 도착했으며, 중국에서 열릴 Xi Jinping·Vladimir Putin과의 3자 정상회담을 앞두고 있다. 동맹국과 경쟁국 모두 그의 외교 전략 변화를 주시하고 있다.
+<a href="https://www.wsj.com/world/trump-returns-to-world-stage-after-midterm-setback-65a1c88b">[WSJ]</a> <a href="https://www.wsj.com/world/china/why-neither-trump-nor-xi-is-likely-to-raise-nvidia-at-their-summit-5b93bc1a">[WSJ]</a> <a href="https://www.wsj.com/politics/policy/van-hollens-challenge-of-schumer-exposes-democrats-identity-crisis-2460b1a1">[WSJ]</a> <a href="https://www.ft.com/content/6a0efb61-a756-4794-90db-3d591f42f17f">[FT]</a></blockquote>
 
-<b>13. 이란 전쟁 교착 국면 지속...미-이란 어느 쪽도 먼저 양보 못 해</b>
-<blockquote>미국과 이란 간 전쟁이 교착 상태에 빠지며 어느 쪽도 먼저 물러서지 못하는 상황이 이어지고 있다. 중동 긴장이 고조된 가운데 미 항공모함 George Washington호가 이란 공격 작전에 투입되고 있으며, 바레인은 시아파 성직자 64명을 이란과 연계 혐의로 종신형에 처했다. 이스라엘은 겨울 폭우가 가자지구를 강타하면서 인도적 위기를 악화시키고 있다는 비난을 받고 있다.
-<a href="https://www.economist.com/international/2026/11/16/the-war-room-newsletter-will-america-or-iran-blink-first">[Economist]</a> <a href="https://www.wsj.com/world/middle-east/watch-what-u-s-aircraft-carriers-bring-to-the-iran-war-cf8b3b51">[WSJ]</a> <a href="https://www.ft.com/content/675941c1-d4e9-4407-8d1f-1ea8d358522a">[FT]</a> <a href="https://www.ft.com/content/463238ee-2d5f-4ae8-b48b-8a39444c08bd">[FT]</a></blockquote>
+<b>13. 캐나다-중국, 무역협정 확대 합의...Mark Carney의 탈미국 의존 전략</b>
+<blockquote>캐나다 총리 Mark Carney가 중국과 무역협정 확대에 합의하며 미국 의존도를 낮추려는 노력을 가속화하고 있다. 북미 무역 질서 재편 가능성이 커지는 대목이다.
+<a href="https://www.wsj.com/world/canada-and-china-draw-closer-with-expanded-trade-pact-b4566a38">[WSJ]</a></blockquote>
 
-<b>14. 폴란드 중앙은행, 헌법재판소 예산 지급 거부...Tusk 정부와 충돌</b>
-<blockquote>폴란드 중앙은행이 헌법재판소에 대한 예산 지급을 중단하며 Donald Tusk 정부와 갈등을 빚고 있다. 정부는 야당 성향의 중앙은행이 정치적 목적으로 움직인다고 비난했다. 이 충돌은 유럽 금융 시스템 내 정치적 긴장의 새로운 신호로 주목된다.
-<a href="https://www.ft.com/content/112b35e9-9864-4d7b-8ece-c71f07c876ca">[FT]</a></blockquote>
+<b>14. 중국 JD.com 3분기 매출·이익 증가...해외·음식배달 확장 주력</b>
+<blockquote>중국 전자상거래 대기업 JD.com이 3분기 매출과 순이익 증가를 기록했다. 중국 내 소비 부진 속에서 해외 사업과 음식 배달 부문 확대로 돌파구를 모색하고 있다.
+<a href="https://www.wsj.com/business/earnings/jd-com-profit-revenue-grow-as-it-seeks-food-delivery-overseas-expansion-9da42b17">[WSJ]</a></blockquote>
 
-<b>15. 유가 하락세 지속...2027년 글로벌 공급 과잉 전망에 중동 리스크 상쇄</b>
-<blockquote>유가가 하락 흐름을 이어갔다. 애널리스트들은 내년 글로벌 원유 시장에 공급 과잉이 심화될 것으로 전망하고 있으며, 중동 지정학 리스크에도 불구하고 가격 상승 압력이 제한되고 있다.
-<a href="https://www.wsj.com/finance/commodities-futures/oil-edges-lower-as-supply-surplus-prospects-offset-mideast-tensions-9105d9bf">[WSJ]</a></blockquote>
+<b>15. ECB 차기 총재에 스페인 Pablo Hernández de Cos...프랑스·독일 합의</b>
+<blockquote>유럽 주요국 정상들이 차기 유럽중앙은행(ECB) 총재로 스페인 경제학자 Pablo Hernández de Cos를 선출하는 데 합의에 근접했다. 프랑스와 독일의 지지로 Christine Lagarde의 후임 인선이 마무리 단계에 접어들었다.
+<a href="https://www.wsj.com/world/europe/european-leaders-near-deal-to-pick-spanish-economist-as-next-ecb-president-62cc0c92">[WSJ]</a> <a href="https://www.ft.com/content/d83f2a71-aea1-4654-a89a-84ad203f6646">[FT]</a></blockquote>
 
-<b>16. Chevron, 미 걸프만 유전업체 50억달러 인수 임박...Blackstone 투자 자산</b>
-<blockquote>Chevron이 Blackstone 계열 석유 생산업체 Beacon Offshore Energy를 약 50억달러에 인수하는 협상을 거의 마무리했다. 이란 전쟁으로 인한 에너지 가격 변동성 속에서 미국 걸프만 심해 생산을 확대하려는 전략의 일환이다.
-<a href="https://www.ft.com/content/92e1c14a-f836-40b0-8d9e-0ed1c1d2fea9">[FT]</a></blockquote>
+<b>16. 프랑스 Marine Le Pen, 은퇴 연령 60세 인하 공약...재정 우려 확산</b>
+<blockquote>극우 대선 선두주자 Marine Le Pen이 프랑스 은퇴 연령을 60세까지 낮추겠다는 연금 개혁안을 제시해 실행 가능성과 재정 부담에 대한 비판이 쏟아지고 있다.
+<a href="https://www.ft.com/content/c7ef0eb8-c9c5-46ef-b65d-c0ceaf111717">[FT]</a></blockquote>
 
-<b>17. Diamondback, 50억달러 규모 Permian 유전 인수...셰일 M&A 가속</b>
-<blockquote>Diamondback이 Permian 분지 내 유전 자산을 50억달러 규모로 인수하는 계약을 체결했다. 이란 전쟁으로 인한 에너지 가격 변동성 속에서도 미국 셰일 붐의 중심지에서 M&A가 이어지고 있다.
-<a href="https://www.ft.com/content/a56fc76f-af32-45b2-8ae1-d5e211cb9643">[FT]</a></blockquote>
+<b>17. JPMorgan Chase, Bregje de Best를 차기 CFO 임명</b>
+<blockquote>JPMorgan Chase가 2006년 입사해 2025년 6월부터 상업·투자은행 부문 재무책임자를 맡아온 Bregje de Best를 Jeremy Barnum의 후임 최고재무책임자(CFO)로 승진 발표했다. 여성 임원 등용이 주목받는 인사다.
+<a href="https://www.wsj.com/finance/banking/jpmorgan-chase-names-bregje-de-best-to-succeed-jeremy-barnum-as-cfo-ea77f240">[WSJ]</a> <a href="https://www.ft.com/content/cc080db6-46c1-49fb-a3d5-2680b3360b6d">[FT]</a></blockquote>
 
-<b>18. 천연가스 선물 하락 폭 확대...생산 회복·단기 날씨 온난화 영향</b>
-<blockquote>미국 천연가스 선물이 금요일에 이어 추가 하락했다. 생산량이 회복세를 보이고 단기 기온 전망이 평년보다 따뜻하게 나타나며 난방 수요 기대가 약화됐다.
-<a href="https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-start-week-lower-4a1e94a5">[WSJ]</a></blockquote>
+<b>18. Deutsche Bank 주가 급락...러시아 올리가르히·Epstein 관리 부실 폭로</b>
+<blockquote>Deutsche Bank가 고위험 고객인 러시아 올리가르히와 Jeffrey Epstein 관리 부실 사례를 담은 내부고발 문건이 언론 컨소시엄에 유출되며 주가가 급락했다. 과거 리스크 관리 실패가 재조명되고 있다.
+<a href="https://www.wsj.com/finance/deutsche-bank-shares-drop-after-wide-ranging-whistleblower-leaks-bc550948">[WSJ]</a></blockquote>
 
-<b>19. Eli Lilly, 바이오텍 Calytrix Bio 최대 15억달러 인수...희귀 혈액암 치료제 확보</b>
-<blockquote>Eli Lilly가 JPMorgan Chase 투자를 받은 비상장 바이오텍 Calytrix Bio를 최대 15억달러에 인수한다. Calytrix는 희귀 혈액암 치료제 파이프라인을 보유하고 있다.
-<a href="https://www.wsj.com/business/deals/eli-lilly-to-buy-calytrix-bio-for-up-to-1-5-billion-591745e4">[WSJ]</a></blockquote>
+<b>19. General Motors, 외부 CEO 후보 물색...Mary Barra 승계 준비</b>
+<blockquote>General Motors가 장기 재임 중인 Mary Barra CEO의 후임으로 외부 경영진을 포함한 광범위한 후보군을 검토하고 있다. 내부 승진 외 외부 영입도 열어두고 승계 작업을 진행 중이다.
+<a href="https://www.wsj.com/business/autos/general-motors-seeks-outside-ceo-contenders-to-succeed-mary-barra-e8177c4a">[WSJ]</a></blockquote>
 
-<b>20. Johnson & Johnson, 안과 질환 바이오 Ollin 최대 33억달러 인수</b>
-<blockquote>Johnson & Johnson이 임상단계 바이오제약사 Ollin Biosciences를 최대 33억달러(초기 22억달러)에 인수한다고 발표했다. Ollin은 중증 안과 질환 치료제를 개발 중이다. 바이오텍 섹터에서 대형 M&A가 연이어 발표되고 있다.
-<a href="https://www.wsj.com/health/pharma/johnson-johnson-to-buy-ollin-biosciences-for-2-2-billion-dee42c0c">[WSJ]</a> <a href="https://www.ft.com/content/450100ba-074c-46a6-b962-89dbef146135">[FT]</a></blockquote>
+<b>20. TPG, 결제 자동화 기업 Bill Holdings 인수 협상 막바지</b>
+<blockquote>사모펀드 TPG가 결제 자동화 플랫폼 Bill Holdings의 비공개 인수 거래를 최종 단계에서 협의 중이다. Bill Holdings는 시가총액이 고점 대비 80% 이상 급락한 후 매각을 추진해왔다.
+<a href="https://www.ft.com/content/629eb12c-f200-486d-8c63-32e2ebf3d97e">[FT]</a></blockquote>
 
-<b>21. UniCredit-Commerzbank 인수, EU·미 승인 획득...2년 협상 끝 마무리</b>
-<blockquote>UniCredit의 독일 Commerzbank 인수가 유럽연합과 미국 규제 당국의 승인을 받았다. 이번 승인은 2년간 이어진 협상의 주요 걸림돌이 제거된 것으로, 베를린 정부의 반대에도 불구하고 거래가 완료될 전망이다.
-<a href="https://www.wsj.com/business/deals/unicredits-commerzbank-bid-gets-eu-approval-44a821a6">[WSJ]</a></blockquote>
+<b>21. 핀란드 위성기업 Iceye, 이탈리아 로켓 제조사 Avio 23억달러 인수 제안</b>
+<blockquote>핀란드-폴란드 합작 위성 스타트업 Iceye가 이탈리아 로켓 제조사 Avio에 23억 달러 규모 인수를 제안하며 유럽의 통합 우주·방산 기업 구축을 목표로 하고 있다. 유럽 각국 정부의 대미 독립 추진이 배경이다.
+<a href="https://www.wsj.com/business/deals/finnish-satellite-startup-iceye-launches-2-3-billion-bid-for-rocket-maker-avio-9546b85c">[WSJ]</a> <a href="https://www.ft.com/content/9fed851a-d75f-4f7e-8afa-700f3786391d">[FT]</a></blockquote>
 
-<b>22. Quebecor, 캐나다 Telus에 220억달러 인수 제안...범국가 통신사 탄생</b>
-<blockquote>캐나다 통신사 Quebecor가 경쟁사 Telus에 219억6000만달러 규모의 인수 제안을 했다. 양사가 결합하면 Telus의 서부 캐나다 기반과 Quebecor의 동부 확장세를 결합한 범국가 통신 그룹이 탄생한다.
-<a href="https://www.wsj.com/business/deals/quebecor-proposes-combination-with-telus-a6b8a209">[WSJ]</a></blockquote>
+<b>22. Home Depot CEO 병가 후 사임...재무책임자 Richard McPhail 승진</b>
+<blockquote>Home Depot가 병가 중이던 CEO의 사임을 발표하고 재무책임자(CFO) Richard McPhail을 차기 CEO로 선임했다. 동시에 연간 실적 가이던스를 상향 조정했다.
+<a href="https://www.wsj.com/business/retail/home-depot-elevates-finance-chief-richard-mcphail-to-ceo-1364922a">[WSJ]</a></blockquote>
 
-<b>23. Blackstone, Amazon 데이터센터 자산 50억달러 인수...AI 인프라 확대</b>
-<blockquote>Blackstone Digital Infrastructure Trust가 Amazon.com의 데이터센터 포트폴리오 지분을 약 50억달러에 인수하기로 합의했다. AI 수요 급증으로 데이터센터 자산 가치가 급등하는 가운데 대형 거래가 성사됐다.
-<a href="https://www.wsj.com/business/deals/blackstone-digital-infrastructure-trust-to-acquire-data-center-portfolio-from-amazon-for-5-billion-87e53519">[WSJ]</a></blockquote>
+<b>23. Disney, 30억달러 비용 절감 계획...Skydance·Netflix 뒤이어</b>
+<blockquote>Disney가 연간 30억 달러 비용 감축을 약속하며 인력 감축에 나섰다. Skydance와 Netflix의 유사 조치에 이은 미디어 업계 전반의 구조조정 흐름이다.
+<a href="https://www.ft.com/content/68aac78a-baee-4123-9c65-7b6e631a02ac">[FT]</a></blockquote>
 
-<b>24. 예측시장 Kalshi, 증권사 인수로 주식 거래 진출...법적 분쟁 와중 사업 확장</b>
-<blockquote>예측시장 플랫폼 Kalshi가 증권사를 인수하고 주식 거래 사업에 진출한다. 미국 각 주 정부와 Yes-No 계약 적법성을 놓고 법적 공방을 벌이는 중에도 사업 영역을 확대하는 공격적 행보를 보이고 있다.
-<a href="https://www.wsj.com/finance/kalshi-buys-securities-firm-to-expand-into-stock-trading-8c1ade89">[WSJ]</a></blockquote>
+<b>24. Google, 지하 3마일 암반 증발 지열발전 기술 도입</b>
+<blockquote>Google이 스타트업 Quaise의 지열 기술을 활용해 지하 3마일 암반을 증발시켜 청정 전력을 확보하는 계약을 체결했다. 자이로트론 장비로 초심부 시추를 하는 혁신 기술이 적용된다.
+<a href="https://www.wsj.com/business/energy-oil/google-embraces-geothermal-technology-to-vaporize-rock-for-clean-power-dbd66d05">[WSJ]</a></blockquote>
 
-<b>25. Trump Inc 주가 폭락...대통령·가족 연관 자산에 투자 심리 급랭</b>
-<blockquote>Donald Trump 대통령 및 그의 가족과 연계된 기업들의 주가가 폭락세를 보이고 있다. 투자자들이 대통령과 관련된 모든 자산에 대해 회의적 태도로 돌아서며 "Trump Inc"가 자유낙하 중이다.
-<a href="https://www.economist.com/business/2026/11/16/trump-inc-is-in-free-fall">[Economist]</a></blockquote>
+<b>25. 미국 소매 판매 둔화...주식시장 하락 압력</b>
+<blockquote>미국 소매 판매 둔화가 증시에 하방 압력을 가하고 있다. SEC의 Nvidia 조사와 Disney 비용 절감 발표가 겹치며 투자 심리가 위축됐다.
+<a href="https://www.wsj.com/finance/stocks/slower-retail-sales-drag-on-market-fd1db66a">[WSJ]</a></blockquote>
 
-<b>26. 뉴욕주 제조업 경기, 10월 급등 후 11월 둔화...확장세는 유지</b>
-<blockquote>뉴욕주 제조업 활동이 11월 완만한 확장세를 보였다. 엠파이어스테이트 제조업지수는 10월 급등 이후 증가세가 둔화됐으나 여전히 플러스 영역을 유지했다.
-<a href="https://www.wsj.com/economy/central-banking/new-york-manufacturing-activity-moderates-from-october-surge-4d9db965">[WSJ]</a></blockquote>
+<b>26. 영국 고용시장 10월 예산안 전 정체...생산성은 3분기 개선</b>
+<blockquote>영국 노동시장이 10월 예산안 발표 전 정체 양상을 보였으나, 별도 발표된 3분기 생산성 지표는 개선세를 확인했다. 재정정책 불확실성이 고용에 영향을 준 것으로 분석된다.
+<a href="https://www.ft.com/content/8f2b2b32-2b63-4651-8cbf-f79007f4f5ea">[FT]</a></blockquote>
 
-<b>27. 미 경제 통계 품질 논쟁 재점화...세계 최고 수준 아니라는 지적</b>
-<blockquote>미국이 세계 최고 수준의 경제 통계를 생산하지 못한다는 논쟁이 다시 불거졌다. 전문가들은 각국의 경제 데이터 품질을 비교하며 미국의 통계 생산 체계가 개선이 필요하다고 지적했다.
-<a href="https://www.economist.com/finance-and-economics/2026/11/16/america-does-not-produce-world-beating-statistics-who-does">[Economist]</a></blockquote>
+<b>27. 결제 대행업체 Klarna, 3분기 적자 축소...고객 기반 확대</b>
+<blockquote>후불결제(BNPL) 서비스 Klarna가 3분기 6,500만 달러 순손실을 기록해 전년 동기 9,500만 달러 적자 대비 개선됐다. 고객 기반 확대와 매출 증가가 적자 축소를 견인했다.
+<a href="https://www.wsj.com/business/earnings/klarna-revenue-gains-as-customer-base-grows-854e218d">[WSJ]</a></blockquote>
 
-<b>28. 뉴욕시, 논란의 경찰 시위 진압 부대 해체...민주사회주의자 Mamdani 압박 수용</b>
-<blockquote>뉴욕시가 시위 현장에서 체포를 담당하던 논란의 경찰 부대를 해체했다. 민주사회주의 성향의 Mamdani 시장이 해당 부대 폐지 압박을 받아온 가운데 결정을 내렸다.
-<a href="https://www.wsj.com/politics/mamdani-disbands-controversial-nypd-protest-unit-e6e0d6cb">[WSJ]</a></blockquote>
+<b>28. EU 집행위, AI 수출 호조로 경제 회복력 지속 전망</b>
+<blockquote>유럽연합 집행위원회는 고유가 장기화에도 AI 투자 붐에 따른 수출 증가로 역내 경제가 회복력을 유지할 것으로 전망했다. AI 관련 장비·서비스 수요가 유럽 수출을 뒷받침하고 있다.
+<a href="https://www.wsj.com/world/europe/eu-expects-continued-resilience-as-ai-boosts-exports-a74adac6">[WSJ]</a></blockquote>
 
-<b>29. Elizabeth Warren 상원의원 vs 텍사스 연방검사 갈등...월가 조사 문서 보존 요구</b>
-<blockquote>텍사스 소재 연방검사가 Elizabeth Warren 상원의원에게 월가 등을 대상으로 한 향후 조사와 관련된 문서를 보존하라고 요구했다. Warren 의원은 1월 상원 은행위원회 위원장에 오를 것으로 예상되며, 검사는 이를 "경고성 화살"이라고 표현했다.
-<a href="https://www.wsj.com/arts-culture/books/the-white-house-vs-congress-war-is-on-and-its-ugly-c21068bc">[WSJ]</a></blockquote>
+<b>29. 정치 베팅 플랫폼 Kalshi, Trump 관련 계약 중단...조작 우려</b>
+<blockquote>예측시장 플랫폼 Kalshi가 백악관 보좌관 내부자 거래 스캔들 이후 규제당국의 조작 가능성 우려를 받아들여 Trump 대통령 발언 관련 베팅 계약을 중단했다.
+<a href="https://www.wsj.com/politics/policy/kalshi-to-halt-bets-that-are-based-on-trumps-remarks-71bbc94b">[WSJ]</a></blockquote>
+
+<b>30. 민주당 진보 세력, 상원 원내대표 교체 압박...Chuck Schumer 도전 직면</b>
+<blockquote>민주당 진보 활동가들이 중간선거 대승 공로를 내세워 차기 상원 원내대표로 Chris Van Hollen 의원을 지지하고 있다. 1994년 이후 처음으로 민주당 상원 지도부 경선이 본격화되고 있다.
+<a href="https://www.wsj.com/politics/policy/the-angry-democratic-base-powering-the-challenge-to-chuck-schumer-cbe2bcda">[WSJ]</a> <a href="https://www.wsj.com/politics/policy/van-hollens-challenge-of-schumer-exposes-democrats-identity-crisis-2460b1a1">[WSJ]</a></blockquote>
 
 ━━━━━━━━━━━━━━━━━━━━
 📡 <b>출처: WSJ · FT · The Economist</b>
