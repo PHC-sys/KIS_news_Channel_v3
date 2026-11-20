@@ -4,229 +4,145 @@
 
 ✅ <b>간밤의 주요 헤드라인</b>
 
-<b>1. Trump·Xi·Putin 역사적 3자 정상회담 종료...핵전쟁 반대 공동선언 채택</b>
-<blockquote>세 정상은 선전 회담에서 핵무기 사용을 반대하는 공동성명을 발표하고 에너지 안보에서도 협력 의지를 밝혔다. 세계 질서 재편을 상징하는 이번 정상회담에서 구체적 합의는 제한적이었다.
-<a href="https://www.wsj.com/world/trump-xi-and-putin-convene-first-ever-summit-as-world-order-shifts-82e58aab">[WSJ]</a></blockquote>
+<b>1. 나스닥 연중 수익률 마이너스 전환...AI 버블 붕괴 조짐 현실화</b>
+<blockquote>AI 투자 열풍이 급속히 식으면서 미국 증시가 급락세를 이어갔다. 메가캡 기술주 지수는 약세장 진입 직전까지 하락했으며, 나스닥 지수는 연초 대비 하락 전환했다. 시장에서는 AI 관련 과잉 투기에 대한 경고가 현실화되는 것 아니냐는 우려가 커지고 있다.
+<a href="https://www.wsj.com/finance/stocks/u-s-stocks-extend-plunge-as-ai-boom-turns-to-bust-a2d324e7">[WSJ]</a></blockquote>
 
-<b>2. Xi·Trump·Putin 회동 성공 뒤 '탈서방 세계' 신질서 본격 개막</b>
-<blockquote>선전 정상회담에서 상징성이 곧 실체였다. 세 정상의 만남은 서방 중심 질서 종언과 신냉전 체제 재편을 선언하는 무대였다는 평가다.
-<a href="https://www.ft.com/content/01dde30c-977c-4f21-8838-4c3955dfacb7">[FT]</a></blockquote>
+<b>2. Anthropic IPO 흥행 실패...상장 첫날 AI 기대감 꺾여</b>
+<blockquote>AI 기업 Anthropic의 역대 최대 규모 IPO가 상장 첫날 실망스러운 성적을 거두며 시장의 AI 투자 열기가 급격히 식었다. Anthropic 주가는 장전 거래에서 최대 10% 하락했으며, 이는 기술주 전반의 4조 달러 증발로 이어졌다.
+<a href="https://www.ft.com/content/c7ad2e0c-efd1-40c2-a5a8-819ced8acf5b">[FT]</a></blockquote>
 
-<b>3. 우크라이나 동맹국 베를린 회의 소집...유럽 연대 균열 우려 차단</b>
-<blockquote>독일이 40개국 대표단을 초청해 키이우 지원 연대를 과시했다. 러시아·중국·미국 정상의 선전 회담에 맞서 'Yalta 2.0' 이미지를 상쇄하려는 시도로 풀이된다.
-<a href="https://www.ft.com/content/b102bd7f-175c-4cd3-8f05-6c9dd10115e1">[FT]</a></blockquote>
+<b>3. Nvidia SEC 회계 조사 착수...Jensen Huang 사임 후 악재 가중</b>
+<blockquote>미 증권거래위원회(SEC)가 Nvidia에 대한 회계 조사에 착수했다. Jensen Huang 최고경영자의 사임 이후 연이어 불거진 악재로 칩 제조업체의 어려움이 가중되고 있다. Nvidia는 이미 중국 밀수 스캔들과 정부 경고 무시 논란에 휘말린 상태다.
+<a href="https://www.ft.com/content/9b28ed72-aac4-4291-9734-bf60b66645ab">[FT]</a></blockquote>
 
-<b>4. Putin, 우크라이나 협상 위해 유럽 정상들 모스크바 초청</b>
-<blockquote>러시아 대통령은 전쟁 종전 협상을 제안하며 유럽 지도자들에게 모스크바 방문을 요청했다. 하지만 강경한 조건을 완화할 의지는 보이지 않았다.
-<a href="https://www.ft.com/content/dddd1db4-d9f2-452b-9be8-651b49a8b1c2">[FT]</a></blockquote>
+<b>4. Anthropic 연구원, AI로 리만 가설 증명 주장...167년 난제 해결 가능성</b>
+<blockquote>Anthropic 소속 수학자가 자사 AI 모델 Claude를 활용해 수학계 최대 난제 중 하나인 리만 가설에 대한 증명을 발견했다고 주장했다. 167년간 미해결로 남아있던 이 문제의 해결은 AI 분야에서 가장 획기적인 성과가 될 전망이다. 발표는 Anthropic IPO 하루 뒤 나왔다.
+<a href="https://www.ft.com/content/fa8eeb49-2cb4-4286-8131-03db15383d87">[FT]</a></blockquote>
 
-<b>5. EU, 우크라이나 전쟁 계기로 '끈질긴 단합' 체질 입증</b>
-<blockquote>우크라이나 위기는 유럽연합의 결속력을 오히려 강화하는 계기가 됐다. 외교 관측통들은 유럽이 예상보다 훨씬 더 쉽게 지치지 않는 모습을 보이고 있다고 평가했다.
-<a href="https://www.economist.com/europe/2026/11/19/how-ukraine-brought-out-the-eus-stubborn-streak">[Economist]</a></blockquote>
+<b>5. AI 투자 열기 급속 냉각...월가 분석 "과열 국면 종료"</b>
+<blockquote>AI 기술에 대한 시장 열기가 급격히 식으면서 투자자들 사이에서 AI 투자 붐이 끝났다는 분석이 나오고 있다. 미국 증시는 2020년 이후 최악의 한 해를 기록할 가능성이 커졌으며, 기술주 중심의 투자 매력이 빠르게 사라지고 있다.
+<a href="https://www.ft.com/content/b1b2e948-ff5e-48c4-bc3e-f8e75c9e4af1">[FT]</a></blockquote>
 
-<b>6. 후티 반군 사우디 PIF 본사 공격...80층 타워 여러 층 파손</b>
-<blockquote>후티 반군의 공습으로 리야드 최고층 건물이 피해를 입었다. 사우디 국부펀드가 입주한 이 건물은 연일 계속되는 후티의 왕국 타격 작전 대상이 됐다.
-<a href="https://www.wsj.com/world/middle-east/houthi-attack-damages-saudi-capitals-tallest-tower-f4e15874">[WSJ]</a></blockquote>
+<b>6. Nvidia 스캔들, 미국 국가자본주의 폐해 드러내...정경유착 논란</b>
+<blockquote>Trump 행정부 하에서 정부와 기업 이해관계가 긴밀히 얽히면서 Nvidia 스캔들이 발생했다는 분석이 제기됐다. 미국식 국가자본주의가 Nvidia 사태를 초래했으며, 이번 반발이 정경유착 추세를 멈출 수 있을지 주목된다.
+<a href="https://www.wsj.com/economy/american-state-capitalism-helped-produce-the-nvidia-scandal-56ce6dee">[WSJ]</a></blockquote>
 
-<b>7. 사우디 국부펀드 본사 후티 공습 직격...리야드 연일 미사일 세례</b>
-<blockquote>예멘 후티 반군이 사우디 수도 리야드의 국부펀드(PIF) 건물을 공습해 타격했다. 후티는 사우디를 거의 매일 공격하며 걸프 긴장을 고조시키고 있다.
-<a href="https://www.ft.com/content/05ed47a5-7cc1-402f-ad0d-826ba09a05c8">[FT]</a></blockquote>
+<b>7. 중국 AI 기업, Nvidia 칩 밀수로 급조...Tom Cotton 상원의원 Lutnick 경고 무시 비판</b>
+<blockquote>중국 강경파인 Tom Cotton 공화당 상원의원이 Howard Lutnick 상무부 장관이 Nvidia 칩의 중국 밀수 경고를 반복적으로 무시했다고 비판했다. Lutnick 해임 요구는 하지 않았지만, 중국 AI 기업들이 미국산 첨단 칩에 의존하는 가운데 규제 공백이 드러났다.
+<a href="https://www.wsj.com/politics/national-security/top-republican-senator-says-lutnick-ignored-his-china-chip-warnings-512f64fd">[WSJ]</a></blockquote>
 
-<b>8. 걸프 갈등 재격화로 미-이란 전쟁 재점화 우려 급부상</b>
-<blockquote>일주일 동안 이어진 이란과 미국의 보복 공격 교환이 양국을 다시 전면 충돌 직전까지 몰아갔다는 분석이 나온다. 외교가들은 긴장 수위가 위험 수준에 달했다고 경고했다.
-<a href="https://www.ft.com/content/090da02e-2ed1-491a-a2cf-3c8a6b10522e">[FT]</a></blockquote>
+<b>8. Fed Lisa Cook 총재 "10월 금리 동결, behind the curve 초래 위험"...매파 발언</b>
+<blockquote>연준 Lisa Cook 이사가 10월 금리 인상을 건너뛴 중앙은행의 결정이 인플레이션 대응에서 뒤처질 위험을 키웠다고 발언했다. Trump 대통령이 그녀를 해임하려는 시도를 하는 가운데 나온 발언으로, 금리 인상 사이클 재개 가능성을 시사했다.
+<a href="https://www.wsj.com/economy/central-banking/lisa-cook-federal-reserve-comments-inflation-44eb3f41">[WSJ]</a></blockquote>
 
-<b>9. 이스라엘 정보국장 방미 중 이란 재공습 압력 가해</b>
-<blockquote>Netanyahu 총리가 이란에 대한 추가 폭격을 주장하는 가운데 이스라엘 정보 수장이 미국을 방문해 재공격을 촉구했다. 반면 걸프 국가들은 협상 해결을 압박하고 있다.
-<a href="https://www.wsj.com/world/middle-east/israeli-spy-chief-pressed-for-renewed-iran-strikes-during-u-s-visit-3ba229d3">[WSJ]</a></blockquote>
+<b>9. 인플레이션 2차 효과 우려 커져...임금-물가 악순환 경고</b>
+<blockquote>시장에서 인플레이션 2차 효과에 대한 우려가 커지고 있다. 임금 상승이 물가 상승으로 이어지는 악순환 가능성이 제기되면서, 연준의 금리 정책 경로에 대한 불확실성이 높아지고 있다.
+<a href="https://www.ft.com/content/b81ae370-254c-48a7-8a19-8cce53e4e2bb">[FT]</a></blockquote>
 
-<b>10. 미·이란 모두 전쟁 끝낼 수단 없어...냉장고부터 유조선까지 핀셋 타격만</b>
-<blockquote>미국과 이란 양측 모두 전쟁을 종결시킬 결정적 수단이 없는 상태다. 냉장고부터 유조선까지 소규모 타격만 주고받으며 교착 상태가 이어지고 있다.
-<a href="https://www.economist.com/middle-east-and-africa/2026/11/19/neither-america-nor-iran-has-the-means-to-end-the-war">[Economist]</a></blockquote>
+<b>10. 인플레이션 보호 자산 확보 "지금이 적기"...채권 시장 변동성 대비</b>
+<blockquote>인플레이션 보호 자산을 지금 확보하는 것이 합리적이라는 분석이 나왔다. AI 투자 열기가 식는 가운데에도 Anthropic의 강력한 상장 성적에도 불구하고 인플레이션 헤지 수요가 증가하고 있다.
+<a href="https://www.wsj.com/finance/investing/grabbing-inflation-protection-now-is-a-no-brainer-45a6364e">[WSJ]</a></blockquote>
 
-<b>11. 이란 국경지대 반군 활동 확대...정권에 새 도전 과제로 부상</b>
-<blockquote>이란 변경 지역의 소수민족 반군들이 연이어 공격을 가하며 테헤란 정권에 압박을 가하고 있다. 전쟁과 미국 봉쇄로 이미 압박받는 이란 지도부에 추가 부담이 되고 있다.
-<a href="https://www.wsj.com/world/middle-east/insurgents-in-irans-borderlands-are-becoming-a-bigger-challenge-for-the-regime-f816b46f">[WSJ]</a></blockquote>
+<b>11. 11월 미 소비자 심리지수 개선...역사적 저점 근처 유지</b>
+<blockquote>미시간대 11월 소비자 신뢰지수가 개선됐지만 여전히 역사적 저점 수준에 머물렀다. 미국인들의 광범위한 경제적 불만이 지속되고 있음을 보여준다.
+<a href="https://www.wsj.com/economy/consumers/consumer-sentiment-climbed-in-november-3e9563d8">[WSJ]</a></blockquote>
 
-<b>12. Anthropic 사상 최대 IPO로 $81bn 조달...주가 17% 급등</b>
-<blockquote>AI 기업 Anthropic이 Dario Amodei 주도 하에 월스트리트 사상 최대 규모인 810억 달러를 공모했다. 첫날 거래에서 주가는 17% 올랐다.
-<a href="https://www.ft.com/content/2b203097-7c61-464f-810f-962912a133dd">[FT]</a></blockquote>
+<b>12. 유로존 3분기 임금 상승률 2.57%로 가속...ECB 금리 정책 압박</b>
+<blockquote>유로존 협상 임금 상승률이 3분기 2.57%로 2분기 2.45%에서 가속했다고 유럽중앙은행(ECB)이 발표했다. 여전히 완만한 수준이지만 임금 상승세가 인플레이션 압력으로 작용할 가능성이 주목된다.
+<a href="https://www.wsj.com/economy/global/eurozone-wage-growth-accelerates-but-remains-modest-729eb0ed">[WSJ]</a></blockquote>
 
-<b>13. Anthropic 직원·투자자 수천명 거액 부자 대열 합류</b>
-<blockquote>Anthropic 직원 5,000명 이상 중 대다수가 IPO로 백만장자가 될 것으로 예상된다. AI 프론티어 연구소의 사상 최대 IPO가 새 부의 창출로 이어졌다.
-<a href="https://www.wsj.com/tech/ai/thousands-of-anthropic-employees-and-investors-are-set-to-reap-fortunes-d9c3c6ed">[WSJ]</a></blockquote>
+<b>13. 11월 PMI 발표 주목...미·유로존·영국 금리 인상 여력 가늠자</b>
+<blockquote>11월 플래시 구매관리자지수(PMI)가 미국, 유로존, 영국에서 발표된다. 각국 중앙은행의 추가 금리 인상 여력을 가늠할 수 있는 경제 성장 지표로 주목받고 있다.
+<a href="https://www.wsj.com/economy/week-ahead-for-fx-bonds-flash-pmi-data-to-provide-gauge-on-economic-growth-86c1a572">[WSJ]</a></blockquote>
 
-<b>14. 영국 개인투자자 10만명 Anthropic 주식 몰려...3분의2가 전량 배정</b>
-<blockquote>영국에서 10만명 이상의 개인 투자자가 Anthropic 공모주 청약에 참여했다. 대형 IPO였지만 청약자의 거의 3분의 2가 신청 물량 전부를 배정받았다.
-<a href="https://www.ft.com/content/30d21725-f889-4e3d-a3a8-63ed6b55e4d8">[FT]</a></blockquote>
+<b>14. 금 가격 15개월 최저...금리 인상 기대에 안전자산 매력 급락</b>
+<blockquote>금 선물 가격이 2025년 8월 말 이후 최저치로 떨어졌다. 연준의 금리 인상 지속 우려가 커지면서 강달러와 높은 채권 수익률이 금의 매력을 약화시켰다. 위험회피 투자자들의 전통적 안전자산 선호마저 금리 전망에 압도당했다.
+<a href="https://www.wsj.com/finance/commodities-futures/gold-silver-drop-to-lowest-levels-in-over-a-year-c657402c">[WSJ]</a></blockquote>
 
-<b>15. Anthropic 평가액 혼란...$2조냐 $1.5조냐</b>
-<blockquote>Anthropic의 복잡한 지분 구조와 펀딩 체계가 평가액 계산을 어렵게 만들고 있다. 시장에서는 기업가치를 놓고 혼란스러운 추정이 나오고 있다.
-<a href="https://www.wsj.com/finance/investing/is-anthropic-worth-1-1-trillion-or-1-5-trillion-how-to-make-sense-of-the-valuations-721b4df8">[WSJ]</a></blockquote>
+<b>15. 유가 3주 연속 하락...중동 공급 증가가 지정학 리스크 상쇄</b>
+<blockquote>원유 선물이 3주 연속 하락하며 주간 기준 하락 마감했다. 중동 지역의 공급 증가세가 계속되는 군사 공격 우려를 압도하면서 유가 하락을 주도했다. 중동 전역의 공습 지속에도 불구하고 공급 여건 개선이 시장을 지배했다.
+<a href="https://www.wsj.com/finance/commodities-futures/oil-rises-amid-middle-east-tensions-cdf9de83">[WSJ]</a></blockquote>
 
-<b>16. Anthropic IPO란 무엇인가...기록적 공모의 의미</b>
-<blockquote>Claude 챗봇 개발사 Anthropic의 주식이 목요일 정오부터 거래를 시작했다. 사상 최대 규모 기술주 IPO의 배경과 의미를 짚어본다.
-<a href="https://www.wsj.com/finance/stocks/what-to-know-about-anthropics-record-breaking-ipo-372a1fec">[WSJ]</a></blockquote>
+<b>16. 유가 85~95달러 뉴노멀 전망...트레이더들 중기 밴드 형성 예상</b>
+<blockquote>트레이더와 애널리스트들은 배럴당 85~95달러 수준의 유가가 당분간 새로운 현실이 될 것으로 전망하고 있다. 7개 차트로 설명되는 유가의 뉴노멀 국면이 가까운 미래의 현실로 자리잡을 것으로 보인다.
+<a href="https://www.wsj.com/finance/commodities-futures/oil-prices-new-charts-f84ad9d7">[WSJ]</a></blockquote>
 
-<b>17. 미국 증시 2% 이상 하락...Anthropic 데뷔에도 AI 버블 붕괴 지속</b>
-<blockquote>Anthropic의 사상 최대 IPO에도 불구하고 미 증시는 하락 마감했다. 투자자들이 AI 주식을 매도하며 인공지능 버블 붕괴 우려가 계속되고 있다.
-<a href="https://www.wsj.com/finance/stocks/u-s-stocks-slide-as-ai-bust-continues-despite-anthropic-ipo-5a14e137">[WSJ]</a></blockquote>
+<b>17. 미 천연가스 선물 2월 초 이후 최고...LNG 수출 수요 지지</b>
+<blockquote>미국 천연가스 선물이 전일 하락분을 만회하고 2월 초 이후 최고치로 마감했다. LNG 수출 수요가 가격 상승을 뒷받침했다.
+<a href="https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-edge-up-in-early-trading-2b513864">[WSJ]</a></blockquote>
 
-<b>18. 투자자들 AI 주식 팔아 Anthropic 매수...기술주 전반 하락</b>
-<blockquote>투자자들이 Anthropic 주식을 사기 위해 기존 AI 관련 주식을 대거 매도하면서 미국 주식시장 전체가 하락했다. 자금 이동이 시장 전반의 약세를 초래했다.
-<a href="https://www.wsj.com/finance/stocks/stock-futures-rise-as-optimism-improves-ahead-of-anthropic-trading-debut-ecdfbb2f">[WSJ]</a></blockquote>
+<b>18. Trump, 이란 추가 공습 검토...미군 장기 배치에 전력 부담 경고</b>
+<blockquote>Trump 대통령이 이란에 대한 신규 공격을 검토하고 있는 가운데, 미 국방부는 무기한 병력 배치와 예산 삭감 가능성이 전력 준비태세를 약화시킬 위험이 있다고 경고했다. 중동 갈등이 내년까지 이어질 경우 미군 대응 역량 저하가 우려된다.
+<a href="https://www.ft.com/content/2daf570c-189a-4362-a128-828c520b902e">[FT]</a></blockquote>
 
-<b>19. Anthropic 데뷔 후 미 증시 2% 이상 급락...상장 효과 무색</b>
-<blockquote>AI 대기업 Anthropic이 810억 달러 사상 최대 IPO로 거래를 시작했지만, 미국 증시는 2% 이상 하락 마감했다. 상장 열기가 시장 전체로 번지지 못했다.
-<a href="https://www.ft.com/content/7a6b211d-c73b-4953-97ee-ed92dab8ee07">[FT]</a></blockquote>
+<b>19. 미, 우크라이나 평화협상서 NATO 가입안 제시...영토 양보와 맞교환</b>
+<blockquote>Trump 행정부 특사들이 최근 회담에서 우크라이나의 돈바스 영토 양보와 NATO 가입을 맞교환하는 평화안을 논의했다. 이는 오랜 미국 정책의 역전을 의미하며, 민주당의 의회 장악 이전인 1월 전 합의를 서두르는 모습이다.
+<a href="https://www.ft.com/content/6c1b8a64-35f9-4aba-8605-45a4abdce6b8">[FT]</a></blockquote>
 
-<b>20. AMD 주가 11% 급락...공매도 보고서가 중국 연계 의혹 제기</b>
-<blockquote>반도체 기업 AMD가 단기 공매도 세력 Hunterbrook의 보고서 발표 이후 11%까지 하락했다. Nvidia 스캔들 여파 속에 중국 연계 의혹이 제기됐다.
-<a href="https://www.ft.com/content/69fd7870-a2cf-4e75-88bc-a1c4036efded">[FT]</a></blockquote>
+<b>20. 러시아 미사일 공격으로 키예프 교량 손상...미중러 정상회담 직후</b>
+<blockquote>러시아가 우크라이나를 겨냥한 대규모 미사일 공격을 감행해 키예프의 교량들이 손상됐다. 미국, 중국, 러시아 정상 간 3자 회담 직후 이뤄진 공격으로 긴장이 고조되고 있다.
+<a href="https://www.ft.com/content/d76c0ce7-ba3b-42b3-8efa-7724cc0900d7">[FT]</a></blockquote>
 
-<b>21. 채권 수익률 하락세...Anthropic 효과 지속 실패로 안전자산 선호</b>
-<blockquote>Anthropic IPO가 시장 전반의 위험 선호 심리를 되살리는 데 실패하면서 미 국채 수익률이 하락 마감했다. 안전자산 수요가 이어졌다.
-<a href="https://www.wsj.com/economy/central-banking/treasury-eurozone-bond-yields-edge-higher-47e08817">[WSJ]</a></blockquote>
+<b>21. 북한 우라늄 농축 시설 확장 포착...영변 단지 신규 증축동 위성 확인</b>
+<blockquote>신규 위성 사진이 북한 영변 핵단지 내 우라늄 농축 시설의 확장을 보여준다. WSJ 분석에 따르면 주요 농축동에 새로운 증축 건물이 연결된 것으로 나타났다.
+<a href="https://www.wsj.com/world/asia/new-satellite-photos-show-expansion-of-north-korean-uranium-enrichment-plant-f23c5512">[WSJ]</a></blockquote>
 
-<b>22. 연준 10월 의사록, 12월 금리 인상 확인...AI 인플레 우려로 긴축 가속 시사</b>
-<blockquote>연방준비제도 정책위원들은 최근 회의에서 12월 금리 인상을 확인하고, AI 투자 확대로 인한 인플레이션 위험을 우려하며 더 빠른 긴축 가능성을 논의했다.
-<a href="https://www.ft.com/content/470d7273-7356-48d5-9709-d9d8169d1d94">[FT]</a></blockquote>
+<b>22. Andy Burnham, Brexit 재설정 합의 도출...EU와 역사적 관계 개선안</b>
+<blockquote>Andy Burnham 영국 총리가 EU와 Brexit 재설정 합의에 도달하며 양측 관계 개선의 첫걸음을 뗐다. 금요일 타결된 합의안은 Brexit 이후 더 긴밀한 관계를 향한 출발점이 될 것으로 기대된다.
+<a href="https://www.ft.com/content/76543b3f-b669-42c8-9518-d67c967c6d5c">[FT]</a></blockquote>
 
-<b>23. 중국, 미 기술수출 규제 계속 우회...반도체 산업 자립도 추진</b>
-<blockquote>중국이 미국의 기술 수출 통제를 계속 회피하고 있으며, 동시에 자체 반도체 산업 육성을 통해 규제 자체를 무의미하게 만들려 시도하고 있다는 분석이다.
-<a href="https://www.economist.com/briefing/2026/11/19/how-china-continues-to-evade-americas-tech-export-rules">[Economist]</a></blockquote>
+<b>23. 영국-EU 관계 재설정 환영...긴밀한 관계로 가는 어려운 선택 부각</b>
+<blockquote>영국의 EU 재접근 합의가 환영받고 있지만, 더 긴밀한 관계로 나아가는 과정에서 어려운 선택들이 놓여 있음이 드러났다. 재설정 합의는 중요한 첫걸음이지만 앞으로 갈 길이 멀다는 평가다.
+<a href="https://www.ft.com/content/ceb1b3fd-f113-4ff7-93ac-aecbf7ebca90">[FT]</a></blockquote>
 
-<b>24. Nscale, 미 블랙리스트 대상 협력사 노출로 $35bn IPO 타격</b>
-<blockquote>Nvidia가 지원하는 스타트업 Nscale의 350억 달러 IPO 계획이 미국 제재 대상 협력업체와의 연결고리 때문에 차질을 빚고 있다.
-<a href="https://www.ft.com/content/97912585-2412-496c-a224-78e69328bcdb">[FT]</a></blockquote>
+<b>24. Burnham, Brexit 논쟁 재점화...정치적 위험 인식</b>
+<blockquote>Burnham 총리가 EU와의 합의를 도출했지만, Brexit 재설정이 가진 정치적 위험을 인식하고 있다. 영국이 협상 카드 대부분을 쥔 EU와 거래하는 위태로운 성격을 깨닫고 있다는 분석이다.
+<a href="https://www.ft.com/content/e90b4b48-ab43-4678-9f68-f571a77f0a64">[FT]</a></blockquote>
 
-<b>25. 호주 총리 Xi 주석과 회담 예정...철광석 갈등 고조 국면</b>
-<blockquote>Anthony Albanese 호주 총리가 금요일 중국 주석 Xi Jinping과 양자회담을 갖는다. 철광석 무역을 둘러싼 긴장이 고조되는 가운데 열리는 회동이다.
-<a href="https://www.ft.com/content/ddbf0f75-047a-421a-87c0-3e60bf42ed22">[FT]</a></blockquote>
+<b>25. 영국 대학들 안도...EU 등록금 결정 내년 연기로 정상회담 파열 위기 모면</b>
+<blockquote>유럽 학생들에 대한 낮은 등록금 적용 분쟁이 브뤼셀 정상회담 결렬 위기를 초래했으나, EU가 결정을 내년으로 연기하면서 영국 대학들이 안도했다.
+<a href="https://www.ft.com/content/77cb4ec6-4f03-4328-b566-0f1fd74b81ae">[FT]</a></blockquote>
 
-<b>26. PDD Holdings 실적 보합...Temu 모기업 압박 지속</b>
-<blockquote>Temu를 운영하는 PDD Holdings가 매출과 이익 모두 보합 수준을 기록하며 연속 이익 감소세를 끊었다. 하지만 전자상거래 생태계 강화 과정에서 수익성 압박은 계속되고 있다.
-<a href="https://www.wsj.com/business/earnings/temu-owner-reports-flat-profit-revenue-as-challenges-continue-039f7d3e">[WSJ]</a></blockquote>
+<b>26. EU 재설정, 영국 기업에 중요...현재 위치에서 긴밀 협력 필수</b>
+<blockquote>영국 경제계가 EU와의 관계 재설정이 중요하다며, 현재 출발점에서 가장 가까운 이웃들과 긴밀히 협력해야 한다고 강조했다.
+<a href="https://www.ft.com/content/0281fa15-d659-4e3f-bd9e-04771e0339b3">[FT]</a></blockquote>
 
-<b>27. Alibaba 실적 급반등...AI 수익성 개선 효과</b>
-<blockquote>Alibaba가 인공지능을 성장 동력으로 삼으면서 실적이 크게 반등했다. 다만 중국향 칩 수출 감시 강화라는 새 리스크에 직면해 있다.
-<a href="https://www.wsj.com/business/earnings/alibaba-earnings-rebound-sharply-as-ai-profitability-improves-70fd90d5">[WSJ]</a></blockquote>
+<b>27. EU, 영국과 "가장 긴밀한 관계" 열려있다...Antonio Costa 의장</b>
+<blockquote>Antonio Costa 유럽이사회 의장이 EU는 영국이 블록과의 미래 관계에 대해 내리는 어떤 결정도 존중할 것이며, 가장 긴밀한 관계에 열려있다고 밝혔다.
+<a href="https://www.wsj.com/world/europe/eu-open-to-closest-possible-relationship-with-u-k-chief-says-f2206559">[WSJ]</a></blockquote>
 
-<b>28. Lenovo, AI 하드웨어 수요로 매출 모멘텀 유지...연 $100bn 목표 사정권</b>
-<blockquote>Lenovo Group이 2분기 견조한 매출을 기록하며 연간 1,000억 달러 매출 목표 달성 궤도에 올랐다. 인공지능 인프라 수요가 강력한 성장 동력이 됐다.
-<a href="https://www.wsj.com/business/earnings/lenovo-maintains-revenue-momentum-on-ai-fueled-hardware-demand-852daa09">[WSJ]</a></blockquote>
+<b>28. Jamie Dimon, 영국 은행세 인상에 반발..."불공정 세금 환수하겠다"</b>
+<blockquote>JPMorgan Chase의 Jamie Dimon 회장이 영국 정부의 은행세 인상 결정이 불공정하다며 이를 상쇄할 방법을 찾겠다고 밝혔다. 지난달 발표된 세금 인상안에 대한 강력한 반발이다.
+<a href="https://www.ft.com/content/4dd143d0-0b10-4bb8-ac15-e04702fa8b9a">[FT]</a></blockquote>
 
-<b>29. 반도체 갈등이 Trump 내각 흔들어...Howard Lutnick 희생양 가능성</b>
-<blockquote>반도체 정책을 둘러싼 갈등이 Trump 행정부 각료들 사이에서 불거지고 있다. Howard Lutnick 상무장관이 희생양으로 제물될 가능성이 거론된다.
-<a href="https://www.economist.com/united-states/2026/11/19/a-fight-over-chips-is-roiling-donald-trumps-cabinet">[Economist]</a></blockquote>
+<b>29. Citigroup, 영국 자회사 자산 350억 달러 과소계상...리스크 관리 차질</b>
+<blockquote>Citigroup이 영국 자회사의 위험가중자산을 350억 달러 과소 계상한 것으로 드러났다. 이번 기록 관리 실수는 Jane Fraser 최고경영자의 내부 통제 강화 노력에 차질을 빚는 사건이다.
+<a href="https://www.wsj.com/finance/banking/citi-undercounted-35-billion-in-assets-at-u-k-subsidiary-f8328559">[WSJ]</a></blockquote>
 
-<b>30. 공화당 상원, $350bn 추가 국방비 처리 보류...이란 전쟁 지원 동력 약화</b>
-<blockquote>공화당 상원이 3,500억 달러 규모 추가 국방비 통과 노력을 중단했다. 국방부는 기본 예산 1조1,000억 달러 외 대규모 추가 지출을 원했으나 의원들의 지지를 확보하지 못했다.
-<a href="https://www.wsj.com/politics/policy/gop-effort-to-pass-350-billion-in-extra-military-spending-stalls-in-lame-duck-d8b14835">[WSJ]</a></blockquote>
+<b>30. PayPal, 신임 CFO 임명...독립 성장 입증 압박 속 경영진 교체</b>
+<blockquote>PayPal이 신임 최고재무책임자(CFO)를 임명했다. 올해 연이은 경영진 교체의 일환으로, 고전하는 결제 기업이 주주들에게 독립 기업으로 남아야 한다는 점을 설득하려는 노력의 일환이다.
+<a href="https://www.wsj.com/business/c-suite/paypal-appoints-xero-finance-chief-claire-bramley-as-next-cfo-cba4a93f">[WSJ]</a></blockquote>
 
-<b>31. Trump 행정부 고위직 인선 계속 상원서 난항...공화당 이탈표 속출</b>
-<blockquote>Trump 대통령의 각료급 인선이 공화당이 장악한 상원에서 거듭 난관에 부딪히고 있다. 다수당 임기 말 일부 공화당 의원들이 이탈하며 인준 장애물을 세우고 있다.
-<a href="https://www.wsj.com/politics/policy/trumps-picks-for-top-jobs-keep-running-into-trouble-in-senate-c555a68e">[WSJ]</a></blockquote>
+<b>31. Nestle, Microsoft·Boston Dynamics와 AI 공장 협력...자율 생산라인 구축</b>
+<blockquote>Nestle가 스위스에 신설한 Deep Tech 시설에서 AI, 스마트 센서, 로봇 기술을 활용해 운영 효율을 개선할 계획이다. 자율 공장 라인 구축을 위해 Google, Microsoft를 파트너로 삼았다.
+<a href="https://www.wsj.com/tech/ai/nestle-teams-up-with-microsoft-boston-dynamics-on-ai-in-factories-and-products-05bfb028">[WSJ]</a></blockquote>
 
-<b>32. Visa·Mastercard·JPMorgan 고객 데이터 해킹으로 유출</b>
-<blockquote>수천 명의 고객 정보가 해커들에 의해 유출됐다. 하지만 결제 서비스 중단이나 이번 주 초 은행 장애와는 무관한 사건으로 확인됐다.
-<a href="https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87">[WSJ]</a></blockquote>
+<b>32. 캐나다 소매판매 9월 0.8% 증가 후 반락...소비 모멘텀 둔화 조짐</b>
+<blockquote>캐나다 소매판매가 1년 반 만에 가장 급격한 하락세를 보일 것으로 예상된다. 가계 지출 회복력에 균열이 나타나고 경제 모멘텀 둔화 신호일 가능성이 있다.
+<a href="https://www.wsj.com/economy/consumers/canada-retail-sales-pull-back-after-0-8-rise-in-september-7f2f0568">[WSJ]</a></blockquote>
 
-<b>33. 독일, AI 주도 사이버 공격 급증으로 위협 수준 '심각' 격상</b>
-<blockquote>독일이 인공지능 도구로 무장한 해커들의 공격이 급증하면서 사이버 위협 경보를 최고 수준으로 올렸다. 새 도구들이 보안 취약점 악용을 훨씬 쉽게 만들고 있다.
-<a href="https://www.ft.com/content/cf875eb6-34a2-413e-b89d-bc609367a19e">[FT]</a></blockquote>
+<b>33. 미 정부, 태평양 해저 3,150만 에이커 경매...광물 자원 확보 추진</b>
+<blockquote>Trump 행정부가 미국령 사모아 인근 해저 3,150만 에이커를 매각했다. 금속과 광물의 신규 공급원 확보를 위한 조치다.
+<a href="https://www.wsj.com/politics/the-u-s-is-auctioning-off-a-slice-of-the-pacific-ocean-floor-in-push-for-minerals-e6c1ecff">[WSJ]</a></blockquote>
 
-<b>34. 영국-EU, 관계 '재설정' 합의 임박...Brexit 이후 무역 등 개선</b>
-<blockquote>Andy Burnham 영국 총리가 유럽연합과 Brexit 이후 관계를 개선하는 합의를 최종 마무리할 예정이다. 무역을 포함한 영국의 탈퇴 후 조치들이 개선될 전망이다.
-<a href="https://www.ft.com/content/912a7730-2428-4d4c-8dde-9c41a99ab562">[FT]</a></blockquote>
+<b>34. Trump, 해외 데이터센터 건설 기업에 페널티 부과 예고...AI 경쟁 대중 견제</b>
+<blockquote>Trump 대통령이 해외에 데이터센터를 건설하는 기업들에 연방정부 차원의 페널티를 부과할 것이라고 밝혔다. 중국과의 AI 경쟁에서 우위를 확보하기 위해 미국 내 시설 건설을 장려하려는 조치다.
+<a href="https://www.ft.com/content/ae564e09-eb0d-42c6-b61f-50a4e61d0240">[FT]</a></blockquote>
 
-<b>35. 프랑스-영국, EU 정상회의 앞두고 규제 주권 놓고 충돌</b>
-<blockquote>영국이 EU 규제 형성 과정에 참여할 수 있는지를 둘러싸고 협상이 막판까지 이어지고 있다. 프랑스와 영국이 주요 EU 정상회의를 앞두고 대립하고 있다.
-<a href="https://www.ft.com/content/53091ded-e5c8-4c29-a3f9-48c0ea871ab9">[FT]</a></blockquote>
-
-<b>36. 미 컨소시엄, 케냐 $62bn 희토류 광상 탐사권 확보</b>
-<blockquote>미국 주도 컨소시엄이 케냐의 620억 달러 규모 희토류 광상 탐사 입찰에서 승리했다. 워싱턴의 핵심 광물 시장 중국 독점 견제 노력의 일환이다.
-<a href="https://www.wsj.com/world/africa/u-s-consortium-wins-bid-to-prospect-at-62-billion-kenyan-rare-earth-deposit-5700b009">[WSJ]</a></blockquote>
-
-<b>37. 케냐, 미국 그룹에 핵심 희토류 광상 발굴권 부여</b>
-<blockquote>케냐가 미국 기업에 중요한 희토류 광상 개발권을 부여했다. Trump 행정부의 자석용 금속 시장 중국 지배력 견제 시도에서 승리를 거뒀다.
-<a href="https://www.ft.com/content/913e3748-6bf2-4c59-b2b6-31bf58a166ab">[FT]</a></blockquote>
-
-<b>38. 폴란드, 미 컨소시엄과 $50bn 원전 건설 계약 임박</b>
-<blockquote>폴란드 국영 전력공사 수장은 내년 초까지 미국 컨소시엄과 500억 달러 규모 원자력 발전소 건설 계약을 체결할 가능성이 가장 높다고 밝혔다.
-<a href="https://www.wsj.com/world/europe/poland-expects-deal-with-u-s-consortium-for-50-billion-nuclear-power-plant-8cd6a356">[WSJ]</a></blockquote>
-
-<b>39. 중국, 상용 소형모듈원전 가동 임박...원자력 분야 미국 주도권 도전</b>
-<blockquote>중국이 상업용 소형 모듈 원자로를 곧 가동할 것으로 예상되면서 원자력 분야에서 미국의 리더십에 도전장을 내밀고 있다.
-<a href="https://www.ft.com/content/e3135e3a-32f6-408f-9519-4f60d275f485">[FT]</a></blockquote>
-
-<b>40. 캐나다 10월 생산자물가 0.3% 상승...에너지 제품 견인</b>
-<blockquote>캐나다 통계청의 산업제품가격지수가 10월 전월 대비 0.3% 올랐다. 9월의 하향 조정된 1.5% 상승보다는 약한 수치다.
-<a href="https://www.wsj.com/economy/canada-producer-prices-rise-again-in-october-buoyed-by-energy-products-e2caa281">[WSJ]</a></blockquote>
-
-<b>41. Anthropic, 연봉 $400K 천연가스 공급 관리자 채용...AI 전력 수요 급증 반영</b>
-<blockquote>Anthropic이 연봉 40만 달러 천연가스 공급 관리자를 채용 중이다. AI 데이터센터의 폭발적 전력 수요가 에너지 업계 고용 시장까지 변화시키고 있다.
-<a href="https://www.wsj.com/business/energy-oil/why-anthropic-is-hiring-a-400-000-a-year-natural-gas-supply-manager-7c871e93">[WSJ]</a></blockquote>
-
-<b>42. 데이터센터, 미국 전력망 성장 엔진으로 급부상...상업용 수요 사상 첫 가정 추월</b>
-<blockquote>데이터센터를 포함한 상업용 전력 수요가 올해 처음으로 가정용 수요를 넘어설 전망이다. 전력망 성장의 주요 동인으로 자리잡았다.
-<a href="https://www.wsj.com/business/energy-oil/see-how-data-centers-became-the-growth-engine-of-americas-power-grid-70399f64">[WSJ]</a></blockquote>
-
-<b>43. 브라질 중앙은행 헤알화 하락 저지 개입...Lula 재선 이후 R$5→R$5.90 급락</b>
-<blockquote>브라질 중앙은행이 헤알화 급락을 막기 위해 시장 개입에 나섰다. Lula 대통령 재선 이후 달러당 5헤알에서 5.90헤알로 떨어진 환율을 방어하고 있다.
-<a href="https://www.ft.com/content/94379926-211c-4ca6-a53a-f7e4df1a2675">[FT]</a></blockquote>
-
-<b>44. 남아공 중앙은행 기준금리 7.25% 동결...인플레이션·투자 부진 우려</b>
-<blockquote>남아프리카공화국 중앙은행이 기준금리를 7.25%로 동결했다. Lesetja Kganyago 총재는 인플레이션이 예상보다 훨씬 높고 고정투자가 너무 낮다고 지적했다.
-<a href="https://www.wsj.com/economy/central-banking/south-african-reserve-bank-maintains-main-repo-rate-at-7-25-5c31ca05">[WSJ]</a></blockquote>
-
-<b>45. 미국 신규 실업수당 청구 예상외 증가...계속 청구는 급등</b>
-<blockquote>미국의 신규 실업수당 청구 건수가 지난주 예상외로 증가했다. 전주 기준 계속 청구 건수는 급증한 것으로 나타났다.
-<a href="https://www.wsj.com/economy/jobs/u-s-jobless-claims-unexpectedly-move-higher-ac495e71">[WSJ]</a></blockquote>
-
-<b>46. Walmart 실적 호조...식료품 저가 찾는 소비자들 몰려</b>
-<blockquote>Walmart가 3분기 미국 소비자들의 식료품 지출 점유율을 더 확대했다고 밝혔다. 낮은 가격을 찾는 소비자들이 대거 유입되며 실적이 개선됐다.
-<a href="https://www.ft.com/content/55ca051f-af14-48e9-94cc-b700b3097e2f">[FT]</a></blockquote>
-
-<b>47. Walmart 디지털 매장보다 빠른 성장...전자상거래·광고 견인</b>
-<blockquote>Walmart의 최근 분기 매장 매출은 다시 감소한 반면, 전자상거래·광고 등 신사업 부문 매출은 빠르게 증가하고 있다. 디지털 사업이 성장 동력으로 부상했다.
-<a href="https://www.wsj.com/business/earnings/walmart-wmt-3q-earnings-report-2026-6e658c54">[WSJ]</a></blockquote>
-
-<b>48. Gap 따뜻한 가을 날씨로 매출 부진...연간 전망 하향</b>
-<blockquote>의류 기업 Gap이 연간 매출 전망을 하향 조정했다. 따뜻한 가을 날씨로 계절 의류 판매가 타격을 받으면서 연간 매출이 보합 수준에 그칠 것으로 예상했다.
-<a href="https://www.wsj.com/business/earnings/gap-cuts-outlook-after-warm-fall-weather-weighs-on-sales-ca3ee7c3">[WSJ]</a></blockquote>
-
-<b>49. P&G, 자동화 추진으로 공급망 인력 최대 30% 감축</b>
-<blockquote>소비재 기업 P&G가 공급망 인력을 최대 30% 줄인다고 발표했다. 계약직 포함 감원은 공급망 비용 절감을 위한 지속적 노력의 일환이다.
-<a href="https://www.wsj.com/business/p-g-to-cut-up-to-30-of-product-supply-workers-amid-automation-push-8ca24808">[WSJ]</a></blockquote>
-
-<b>50. Intuit, Mailchimp을 $3.68bn에 매각...분기 실적은 개선</b>
-<blockquote>Intuit이 회계 1분기 이익과 매출 증가를 기록하고, 이메일 자동화 플랫폼 Mailchimp을 Bending Spoons에 36억8,000만 달러에 매각하기로 합의했다.
-<a href="https://www.wsj.com/business/earnings/intuit-to-sell-mailchimp-for-3-68-billion-33f03f9c">[WSJ]</a></blockquote>
-
-<b>51. Novartis, 특허 만료 이후에도 매출 성장 전망...AI 수익 기대</b>
-<blockquote>Novartis가 다가오는 특허 만료 국면에서도 매출이 계속 성장할 수 있다며 투자자들을 안심시켰다. 꾸준한 성장세와 AI로 인한 잠재적 수익을 예고했다.
-<a href="https://www.wsj.com/business/retail/novartis-sees-sales-growth-through-2031-60d33957">[WSJ]</a></blockquote>
-
-<b>52. Babcock 주가 8% 급등...드론·국가 인프라 보안 성장 계획 발표</b>
-<blockquote>영국 방산 기업 Babcock 주가가 8% 이상 뛰며 FTSE 100 지수 상승을 주도했다. 예상보다 나은 실적과 자율 드론·국가 인프라 보안 중심 신성장 계획을 발표했다.
-<a href="https://www.wsj.com/business/earnings/babcock-shares-climb-on-earnings-beat-push-into-drones-6f490fba">[WSJ]</a></blockquote>
-
-<b>53. Deutsche Bank 유출 파일, 유럽 금융사들에 교훈</b>
-<blockquote>독일 최대 은행 Deutsche Bank에 관한 폭로 내용이 유럽의 경쟁 금융사들에게 경고 신호를 보내고 있다. 내부 정보 유출이 금융권 전반에 시사점을 던진다.
-<a href="https://www.ft.com/content/e444203b-c639-4cb5-b35a-75829d2d62de">[FT]</a></blockquote>
-
-<b>54. 미 감사 감독당국, 회계법인 조사 축소하고 AI 도구 투자 확대</b>
-<blockquote>Trump 행정부가 미국 감사 감독기구의 회계법인 감독 및 단속을 축소하는 한편 AI 도구 투자는 늘리는 계획을 추진하고 있다.
-<a href="https://www.ft.com/content/9c07ad42-0778-4a1c-b30b-f561f672f92e">[FT]</a></blockquote>
-
-<b>55. Dodgers 구단주 Walter, 주 보험 감독당국 조사 대상...연방에 이어</b>
-<blockquote>델라웨어주 보험 당국이 Walter 소유 보험사들의 계열사 대출 거래를 조사하기 시작했다. 연방 당국에 이어 주 차원 조사가 추가됐다.
-<a href="https://www.wsj.com/finance/regulation/dodgers-owner-walter-faces-probe-from-state-regulator-that-says-it-was-misled-8f527738">[WSJ]</a></blockquote>
-
-<b>56. 국제사법재판소, 미얀마 로힝야 집단학살 판결...국가 책임 첫 인정</b>
-<blockquote>국제사법재판소가 미얀마가 로힝야족에 대한 집단학살을 저질렀다고 판결했다. 국가가 소수민족 말살을 시도한 것에 대해 법적 책임을 인정한 첫 사례다.
-<a href="https://www.wsj.com/world/asia/world-court-finds-myanmar-committed-genocide-against-rohingya-6fa7e663">[WSJ]</a></blockquote>
+<b>35. JD Vance 부통령, 역할 혼선 가중...Trump 본인도 압박 가해</b>
+<blockquote>JD Vance 부통령이 지난 몇 주간 세 가지 다른 역할을 오가며 혼선을 빚었다. Trump 대통령 자신이 압박을 가한 측면도 있어, 부통령의 위상과 역할에 대한 의문이 커지고 있다.
+<a href="https://www.wsj.com/politics/trump-says-vance-erred-in-critique-of-iran-war-as-questions-swirl-about-vp-87006177">[WSJ]</a></blockquote>
 
 ━━━━━━━━━━━━━━━━━━━━
 📡 <b>출처: WSJ · FT · The Economist</b>
