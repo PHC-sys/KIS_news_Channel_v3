@@ -4,101 +4,101 @@
 
 ✅ <b>간밤의 주요 헤드라인</b>
 
-<b>1. Trump 개입으로 Jensen Huang Nvidia CEO 복귀...이사회 주말 긴급 결정</b>
-<blockquote>Nvidia 이사회가 Jensen Huang을 CEO로 전격 복귀시켰다. Trump 대통령은 자신이 복귀 과정에 직접 관여했다고 밝혔으며, 이사회 의장과 임시 CEO를 포함한 고위 경영진은 주말 논의 사실을 전혀 모르고 있었던 것으로 전해졌다.
-<a href="https://www.ft.com/content/20d2ebe3-e945-4659-a122-31bf85a4e4e5">[FT]</a> <a href="https://www.wsj.com/business/trump-engineered-huangs-reinstatement-as-nvidia-ceo-4e9c1cd3">[WSJ]</a></blockquote>
+<b>1. Huawei, 미국 형사재판서 사기 혐의 유죄...8년 법정 공방 끝 판결</b>
+<blockquote>연방 배심원단이 Huawei에 대해 사기 등 범죄 혐의 유죄 평결을 내렸으나 조직범죄 공모 혐의는 무죄 판단했다. 8년간의 법적 싸움 끝에 나온 결과로, 기업 스파이 활동과 제재 회피 행위가 재판에서 드러났다.
+<a href="https://www.wsj.com/business/telecom/chinas-huawei-convicted-of-fraud-in-u-s-criminal-trial-20e17ac3">[WSJ]</a> <a href="https://www.ft.com/content/6c64b8b8-531c-4eea-8fd0-90c4c4967ab9">[FT]</a></blockquote>
 
-<b>2. JD Vance 부통령, 주말 Nvidia 이사회 설득 작전...Trump의 복귀 작전 실행</b>
-<blockquote>Trump 대통령이 Huang 복귀를 원하자 JD Vance 부통령이 주말 동안 Nvidia 이사회를 설득하는 작업을 주도했다. 백악관은 이번 복귀가 AI 경쟁력 유지를 위한 전략적 결정이라고 설명했다.
-<a href="https://www.wsj.com/politics/policy/nvidia-ceo-trump-vance-jensen-huang-bdec91c3">[WSJ]</a></blockquote>
+<b>2. Jensen Huang 복귀 후 의회 반발 거세...중국 칩 수출·스파이 의혹 청문회 예정</b>
+<blockquote>Nvidia CEO Jensen Huang이 사내 회의에서 직원들에게 사과하며 CEO 승계 계획에 여전히 반대한다는 입장을 밝혔다. 그는 다음 주 의회에서 중국 칩 수출과 중국 정보 요원 의심 인물과의 불륜 관계에 대한 초당적 추궁을 받을 예정이다. Marco Rubio 국무장관은 Nvidia에 대한 우려를 표명했으나 Trump 대통령과 Huang은 복귀를 밀어붙였다.
+<a href="https://www.wsj.com/politics/policy/jensen-huangs-comeback-collides-with-furious-lawmakers-demanding-answers-948d6eb9">[WSJ]</a> <a href="https://www.ft.com/content/cd1831d0-c3f1-4705-b8e2-badfb5e39764">[FT]</a> <a href="https://www.economist.com/united-states/2026/11/24/republican-lawmakers-are-in-revolt-over-jensen-huangs-return">[Economist]</a> <a href="https://www.wsj.com/business/jensen-huang-apologized-to-nvidia-staff-in-company-meeting-c798dfba">[WSJ]</a> <a href="https://www.wsj.com/tech/huang-tells-staff-he-is-in-therapy-apologizes-in-nvidia-town-hall-b79647f0">[WSJ]</a> <a href="https://www.wsj.com/politics/policy/rubio-sounded-alarms-on-nvidia-but-trump-and-huang-persisted-68a35638">[WSJ]</a></blockquote>
 
-<b>3. Nasdaq 7% 급등, Nvidia 31.5% 폭등...AI 랠리 전면 복귀</b>
-<blockquote>Huang 복귀 소식에 Nasdaq 지수가 7% 급등하며 지난주 매도세를 단숨에 만회했다. Nvidia 주가는 31.5% 폭등하며 시가총액 1조 달러 가까이 증가했고, S&P 500 지수도 4.7% 상승했다.
-<a href="https://www.ft.com/content/0f5a7285-fbf1-4120-86df-c9cca29644fc">[FT]</a> <a href="https://www.wsj.com/finance/stocks/u-s-stocks-jump-as-huang-return-triggers-ai-rally-7c008308">[WSJ]</a></blockquote>
+<b>3. 미 정보기관 비기밀 시스템 해킹 당해...기밀정보는 무사</b>
+<blockquote>CIA와 국가정보국장실 등 미국 정보기관의 비기밀 시스템이 해킹당했다고 미국 관리들이 밝혔다. 공개 출처 및 비기밀 시스템이 노출됐으나 기밀 정보는 침해되지 않았다고 당국은 설명했다.
+<a href="https://www.wsj.com/politics/national-security/intelligence-agencies-hacked-in-cybersecurity-breach-f147ad4f">[WSJ]</a></blockquote>
 
-<b>4. 미 국채 수익률 상승세...안전자산 이탈, 위험자산 선호 복귀</b>
-<blockquote>Huang 복귀로 투자자들이 위험자산으로 대거 이동하면서 미 국채가 매도됐다. 국채 수익률은 상승 전환했으며, 유럽 국채 수익률은 소폭 하락하는 등 대서양 양안의 금리 흐름이 엇갈렸다.
-<a href="https://www.wsj.com/finance/investing/u-s-european-bond-yields-rise-reversing-last-weeks-sharp-falls-9afadf09">[WSJ]</a></blockquote>
+<b>4. OpenAI 사우디 엔지니어, 도청 혐의로 100만 달러 보석 석방</b>
+<blockquote>검찰은 전 OpenAI 엔지니어가 고객 및 정부 관리와의 회의 등 기밀 대화를 녹음한 혐의를 제기했다. 이 사우디 출신 엔지니어는 100만 달러 보석으로 석방됐다.
+<a href="https://www.wsj.com/tech/saudi-engineer-accused-of-bugging-openai-to-be-released-on-1-million-bond-954f048e">[WSJ]</a></blockquote>
 
-<b>5. 미 의회 양당, Huang 복귀에 국가안보 우려...조사 계속 추진</b>
-<blockquote>민주·공화 양당 의원들은 Huang 복귀가 국가안보에 위험을 초래한다며 Nvidia에 대한 의회 조사를 지속하겠다고 밝혔다. 의원들은 Huang이 공개 청문회에서 증언해야 한다고 강조했다.
-<a href="https://www.ft.com/content/6b4e5bfb-d566-4a61-a12c-057881a261b8">[FT]</a> <a href="https://www.wsj.com/politics/policy/jensen-huangs-return-to-nvidia-draws-heavy-fire-from-lawmakers-ae698d88">[WSJ]</a></blockquote>
+<b>5. Anthropic, 공모가 아래로 하락...AI 밸류에이션 재조정 국면</b>
+<blockquote>역대 최대 IPO를 기록한 AI 모델 개발사 Anthropic 주가가 화요일 공모가 아래로 떨어지며 3거래일 연속 하락세를 이어갔다. 투자자들의 Jensen Huang 복귀 안도감이 사라지면서 기술주 랠리가 약화됐다.
+<a href="https://www.wsj.com/finance/stocks/anthropic-had-the-biggest-ipo-ever-the-trade-is-already-unraveling-f971d7c5">[WSJ]</a> <a href="https://www.ft.com/content/c0cb932a-076e-4471-8009-91749fde5f47">[FT]</a></blockquote>
 
-<b>6. Huang 복귀 문제점 여전...AI 생태계 근본 리스크 미해결</b>
-<blockquote>Huang의 복귀가 Nvidia와 AI 산업 전반이 직면한 구조적 문제를 해결하지 못한다는 분석이 제기됐다. 공급망 리스크, 지정학적 긴장, 과도한 밸류에이션 등 핵심 과제는 그대로 남아있다는 지적이다.
-<a href="https://www.wsj.com/finance/stocks/jensen-is-back-but-ais-problems-havent-gone-away-7551770e">[WSJ]</a></blockquote>
+<b>6. Nvidia 랠리 후퇴에 나스닥 하락...AI 주식 변동성 재확대</b>
+<blockquote>미국 증시는 혼조 마감했으며, 나스닥과 S&P 500은 월요일 랠리 반등분을 일부 반납했다. 트레이더들은 Trump 대통령의 Jensen Huang 복귀 추진이 가져올 파장을 소화하는 과정에서 Nvidia와 Anthropic 주가 급락으로 기술주가 다시 흔들렸다.
+<a href="https://www.wsj.com/finance/stocks/u-s-stocks-mixed-as-huang-relief-rally-fades-9fa9750a">[WSJ]</a> <a href="https://www.wsj.com/finance/stocks/nvidias-relief-rally-stalls-a9455613">[WSJ]</a> <a href="https://www.wsj.com/finance/stocks/nasdaq-futures-fall-as-questions-linger-over-ai-trade-68ba6d71">[WSJ]</a></blockquote>
 
-<b>7. Trump 복귀 개입, 위험한 선례...돈이 도덕 이겼다</b>
-<blockquote>FT는 사설에서 Trump의 Huang 복귀 개입이 위험한 선례를 남겼다고 비판했다. 투자자들은 급등하는 주가를 환영했지만, 이는 기업 지배구조와 윤리보다 단기 수익을 우선시한 결과라는 분석이다.
-<a href="https://www.ft.com/content/d23fd311-ac96-4dfb-88ef-b1ccb2197f13">[FT]</a> <a href="https://www.ft.com/content/189b5df2-2d06-42db-8843-1a542efb0a8f">[FT]</a></blockquote>
+<b>7. Trump의 Huang 복귀 개입, 자본주의에 던지는 질문...FT 분석</b>
+<blockquote>미국 대통령이 CEO를 복귀시키는 것이 자본주의에 어떤 의미인지 FT가 분석했다. Booma-Huang 거래가 기업 지배구조에 던지는 함의와, Silicon Valley와 Trump 행정부가 공유하는 권력관에 대한 우려가 제기됐다.
+<a href="https://www.ft.com/content/32e2579e-fbb1-47d3-b2f8-e71484eb2d39">[FT]</a></blockquote>
 
-<b>8. Nvidia 조사 여전히 진행 중...복귀에도 법적 리스크 상존</b>
-<blockquote>Huang이 복귀했지만 Nvidia와 Huang을 둘러싼 여러 조사는 계속되고 있다. 법무부, 의회, 규제당국의 조사가 진행 중이며, 이는 향후 경영에 부담 요인으로 작용할 전망이다.
-<a href="https://www.wsj.com/tech/ai/jensen-huang-is-back-at-nvidia-major-investigations-still-surround-him-c904001c">[WSJ]</a></blockquote>
+<b>8. 미 소비자신뢰 11월 급등...컨퍼런스보드 103.3 기록</b>
+<blockquote>컨퍼런스보드가 발표한 11월 소비자신뢰지수는 103.3으로 10월 91.9에서 큰 폭 상승했다. 월스트리트저널이 집계한 이코노미스트 전망치 92.2를 크게 웃도는 수치다.
+<a href="https://www.wsj.com/economy/central-banking/u-s-consumer-confidence-came-roaring-back-in-november-conference-board-says-0a91a794">[WSJ]</a></blockquote>
 
-<b>9. Arm CEO Rene Haas, Nvidia 접촉 후 장기 계약 체결...이탈 우려 불식</b>
-<blockquote>Arm의 Rene Haas CEO가 Nvidia로부터 Huang 후임 타진을 받은 뒤 Arm과 장기 근속 계약을 새로 체결했다. 이는 Huang 복귀 과정에서 Nvidia가 외부 CEO 영입을 검토했음을 시사한다.
-<a href="https://www.ft.com/content/6f3e2cbe-9ce4-47e7-be69-a2e765da8f9c">[FT]</a></blockquote>
+<b>9. Trump, 중국·EU·日·韓 등 주요국 대상 광범위 관세 인상 준비</b>
+<blockquote>미국이 이번 주 중국·유럽연합·일본·한국 등 주요 경제권을 대상으로 관세를 인상할 준비를 하고 있다. 해외 과잉 산업 생산능력을 겨냥한 고율 관세가 부과될 것으로 예상된다.
+<a href="https://www.ft.com/content/335b593d-1478-4550-ab0a-71fec6280eb0">[FT]</a> <a href="https://www.wsj.com/economy/trade/u-s-prepares-to-raise-tariffs-on-china-and-other-countries-37981740">[WSJ]</a></blockquote>
 
-<b>10. Huang 복귀, 미중 레버리지 불균형 여실히 드러내</b>
-<blockquote>FT 분석에 따르면 Nvidia 사태는 중국에 대한 미국의 레버리지가 예상보다 훨씬 약하다는 사실을 보여줬다. 반도체 공급망의 중국 의존도가 높아 미국이 강력한 압박 카드를 쓰기 어려운 상황이 드러났다.
-<a href="https://www.ft.com/content/28cb9178-ac22-44b9-99f5-d5f25a86d366">[FT]</a></blockquote>
+<b>10. 중국, 미국 대상 핵심 소재 수출 제한 1월까지 유예</b>
+<blockquote>중국이 미국에 대한 일부 핵심 소재 수출 제한 조치를 1월까지 중단한다고 밝혔다. 지난주 선전에서 열린 Trump-시진핑 정상회담 직후 나온 조치다.
+<a href="https://www.wsj.com/economy/trade/china-to-suspend-some-critical-material-export-curbs-to-u-s-until-january-35bc8dca">[WSJ]</a></blockquote>
 
-<b>11. Anthropic, 채권시장 데뷔 앞두고 정크 등급 전망...AI 자금조달 시험대</b>
-<blockquote>Anthropic이 9000억 달러 지출 계획을 발표한 가운데, 월가는 이 회사가 발행할 채권의 신용등급이 투기등급(정크)에 그칠 것으로 예상하고 있다. 이는 AI 스타트업의 자본조달 환경과 AI 산업 전반의 미래에 영향을 미칠 전망이다.
-<a href="https://www.wsj.com/finance/investing/anthropic-committed-to-spend-900-billion-wall-street-expects-its-debt-to-be-junk-5514d55d">[WSJ]</a></blockquote>
+<b>11. EU 집행위, 프랑스·벨기에에 재정 경고...독일도 모니터링 대상</b>
+<blockquote>유럽연합 집행위원회가 프랑스와 벨기에에 공공재정을 지속가능한 경로에 올려놓으라고 경고했다. 독일 역시 과도한 공공지출로 내년에 추가 모니터링 대상이 될 수 있다고 경고받았다.
+<a href="https://www.ft.com/content/20e28c3f-31b8-40d2-bbb7-ee3f92ede6ac">[FT]</a></blockquote>
 
-<b>12. Nvidia 레버리지 숏 ETF 붕괴...투자자 손실 눈덩이</b>
-<blockquote>Nvidia 주가 급등으로 레버리지 숏 ETF 투자자들이 막대한 손실을 입었다. 31.5% 주가 상승은 레버리지 구조상 훨씬 큰 손실로 증폭되며, 일부 상품은 청산 위기에 직면했다.
-<a href="https://www.ft.com/content/6a18ca6e-e85a-4f07-b8ff-08344b982609">[FT]</a></blockquote>
+<b>12. 후티 반군, 사우디 PIF 타워 재공격...11명 부상</b>
+<blockquote>예멘 후티 반군이 사우디 국부펀드 본사인 Public Investment Fund 타워를 다시 공격해 11명이 부상당했다. 이번 공격은 목요일 첫 공격에 이은 두 번째 타격이다. 사우디가 이란 지원 반군과의 갈등 재개 이후 첫 예산안을 발표한 시점에 나왔다.
+<a href="https://www.ft.com/content/ecdf59b6-c78b-4703-bc26-8d085d7b9d24">[FT]</a> <a href="https://www.wsj.com/world/middle-east/yemens-houthis-take-second-swipe-at-tallest-tower-in-saudi-capital-11cc288c">[WSJ]</a></blockquote>
 
-<b>13. CrowdStrike, Zscaler 440억 달러 인수...사이버보안 거대 통합</b>
-<blockquote>CrowdStrike가 Zscaler를 주식교환 방식으로 440억 달러에 인수한다. AI 위협이 빠르게 진화하면서 디지털 방어가 경영진의 최우선 과제로 부상한 가운데, 사이버보안 업계 양대 기업이 손잡았다.
-<a href="https://www.wsj.com/business/deals/crowdstrike-to-buy-zscaler-in-43-9-billion-stock-swap-4c926031">[WSJ]</a> <a href="https://www.ft.com/content/762bd05d-8e20-4abf-9bc5-4e6f9bf628cb">[FT]</a></blockquote>
+<b>13. 걸프, 단기 열전 종료 후 장기 냉전 우려...2029년까지 지속 가능</b>
+<blockquote>걸프 지역이 단기 고강도 전쟁에서는 살아남았지만 장기 냉전은 더 힘들 것이라고 Economist가 분석했다. 갈등이 2029년까지 이어질 수 있다는 전망이 나온다.
+<a href="https://www.economist.com/middle-east-and-africa/2026/11/24/the-gulf-survived-a-short-hot-war-a-long-cold-one-will-be-harder">[Economist]</a></blockquote>
 
-<b>14. 러시아, 60일 내 우주 핵무기 배치 가능...독일, 첩보 경고</b>
-<blockquote>독일 정부가 서방 동맹국들이 공유한 첩보를 근거로 러시아가 60일 내에 핵무기를 탑재한 'Sputnik-S' 위성을 배치할 수 있다고 경고했다. 우주 무기화가 현실화되면서 지정학적 긴장이 고조되고 있다.
-<a href="https://www.ft.com/content/dd00f616-1fef-4a26-a5f9-2b1bf83cc489">[FT]</a></blockquote>
+<b>14. 호르무즈 해협 선박 공격 지속에 유가 반등...리스크 프리미엄 반영</b>
+<blockquote>호르무즈 해협에서 선박 공격이 계속되면서 유가가 초반 하락을 만회하고 상승 마감했다. 중동 에너지 운송 위협이 지속되며 글로벌 공급 과잉 전망에도 불구하고 가격에 일부 리스크 프리미엄이 반영됐다.
+<a href="https://www.wsj.com/finance/commodities-futures/oil-futures-edge-higher-on-likely-technical-recovery-3d1650f7">[WSJ]</a> <a href="https://www.wsj.com/business/energy-oil/oil-prices-fall-as-traders-weigh-supply-outlook-shipping-risks-7225885e">[WSJ]</a></blockquote>
 
-<b>15. 우크라이나, 리비아 항구서 러시아 함정 공격...전선 아프리카로 확대</b>
-<blockquote>우크라이나 특수부대가 리비아에 정박 중이던 러시아 군함을 공격해 침몰시켰다. 우크라이나는 수개월간 러시아 선박 움직임을 추적한 끝에 전쟁터에서 멀리 떨어진 곳에서 대담한 작전을 감행했다.
-<a href="https://www.wsj.com/world/inside-the-ukrainian-attack-that-sank-russian-warship-docked-in-libya-2dbd658b">[WSJ]</a> <a href="https://www.wsj.com/world/europe/russian-ships-struck-in-attacks-far-from-ukraine-as-wars-fallout-spreads-a51964cb">[WSJ]</a></blockquote>
+<b>15. 이라크 정부, 쿠르드 유전 장악 추진...공급 불확실성 확대</b>
+<blockquote>이라크 정부가 쿠르드 지역이 장악한 유전 통제권을 가져오기로 했다. 이는 총리가 반(半)자치 쿠르드 지역과 이란 지원 시아파 무장단체에 대한 권한을 강화하려는 움직임의 일환이다.
+<a href="https://www.ft.com/content/5b03bc34-79a5-4c90-8b92-17b27b19098e">[FT]</a></blockquote>
 
-<b>16. 걸프전 속 뜻밖의 수혜국 등장...한 중동국 경제 호황</b>
-<blockquote>중동 전쟁이 격화되는 가운데, 한 중동 국가가 분쟁의 경제적 수혜를 누리고 있다. 역내 불안정이 오히려 이 국가로 자본과 사업을 집중시키면서 취약하지만 뚜렷한 경기 부양 효과가 나타나고 있다.
-<a href="https://www.economist.com/middle-east-and-africa/2026/11/23/the-unlikely-winner-from-war-in-the-gulf">[Economist]</a></blockquote>
+<b>16. 시진핑, 상하이 당서기 진징 숙청...잠재적 지도자 후보 조사</b>
+<blockquote>중국 공산당 상하이 서기 진징이 당 규율과 국가 법률 위반 혐의로 조사를 받고 있다. 한때 차기 지도자 후보로 거론됐던 그의 실각은 시진핑의 고위급 숙청 확대를 보여준다.
+<a href="https://www.wsj.com/world/china/china-takes-down-shanghai-party-boss-once-seen-as-potential-leader-5d6d06e0">[WSJ]</a> <a href="https://www.ft.com/content/02240d42-ccd8-4b4d-b0e3-49a04c950eea">[FT]</a></blockquote>
 
-<b>17. 콩고민주공화국, 코발트 수출 재금지...EV 공급망 리스크 재점화</b>
-<blockquote>세계 최대 코발트 생산국인 콩고민주공화국이 2년 만에 다시 코발트 수출을 금지했다. 가격 주도권 확보를 노린 조치로, 전기차 배터리 공급망에 새로운 불확실성을 더하고 있다.
-<a href="https://www.ft.com/content/7421ec30-dde5-409a-971c-64359c21ea3d">[FT]</a></blockquote>
+<b>17. 베네수엘라, 2,370억 달러 부채 공개...임시정부 과제 부각</b>
+<blockquote>베네수엘라가 예상보다 높은 2,370억 달러 부채 규모를 공개했다. 이는 미국이 지원하는 임시정부가 직면한 도전 과제를 부각시킨다. 재무부는 Nicolás Maduro 축출 10개월 후 명확하고 신뢰할 수 있는 경제 계획을 발표했다.
+<a href="https://www.wsj.com/world/americas/venezuela-reveals-an-eye-popping-debt-load-of-237-billion-16bddcde">[WSJ]</a> <a href="https://www.ft.com/content/5975ac9e-20a2-4c20-a0e8-805892253272">[FT]</a></blockquote>
 
-<b>18. 미국산 구리, 관세 우려 완화로 중국행 증가...아비트라지 거래 활발</b>
-<blockquote>중국 내 구리 부족이 심화되고 현지 프리미엄이 높아지면서, 트레이더들이 미국산 구리를 중국으로 옮기는 아비트라지 거래를 시작했다. Trump 관세 우려가 다소 완화된 것도 거래 증가 배경으로 작용했다.
-<a href="https://www.ft.com/content/b84dbcb1-f216-422e-89c7-f203e0ab2757">[FT]</a></blockquote>
+<b>18. 아르헨티나 경기침체 전망...Milei 재선 타격 우려</b>
+<blockquote>아르헨티나가 기술적 경기침체에 빠질 것으로 예상되면서 Milei 대통령의 인플레 퇴치 노력이 경제를 짓누르고 있다. 그는 내년 재선 도전을 준비 중이다.
+<a href="https://www.ft.com/content/7ad64c80-64d2-4516-9400-1fbad546b0fe">[FT]</a></blockquote>
 
-<b>19. 유가 하락세...공급 과잉 전망에 걸프 공격 리스크 상쇄</b>
-<blockquote>국제유가가 하락했다. 트레이더들은 글로벌 공급 과잉 전망을 중동 해운 공격 재개 및 역내 석유 인프라 차질 우려보다 더 비중 있게 평가했다.
-<a href="https://www.wsj.com/business/energy-oil/oil-prices-edge-lower-as-traders-weigh-supply-surplus-gulf-attacks-6861119f">[WSJ]</a></blockquote>
+<b>19. Sanofi, 410억 달러에 Insmed 인수...제약업계 최대 딜</b>
+<blockquote>턴어라운드를 위해 고용된 Sanofi CEO가 제약업계 최대 거래인 410억 달러 Insmed 인수로 첫발을 뗐다. 이번 인수로 Sanofi는 새로운 희귀질환 및 호흡기 치료제를 확보하며 특허 절벽에 대응한다.
+<a href="https://www.wsj.com/health/pharma/sanofis-ceo-hired-for-turnaround-starts-with-industrys-biggest-deal-11b47402">[WSJ]</a> <a href="https://www.ft.com/content/94e3ca43-cf90-4566-90df-86dd6a1554b2">[FT]</a></blockquote>
 
-<b>20. Macron, 재정 황금률 제안...헌법 개혁으로 지출 상한 설정</b>
-<blockquote>Emmanuel Macron 프랑스 대통령이 정부 지출에 상한을 설정하고 미래 재정적자를 통제하는 '예산 황금률'을 헌법에 명시하는 개혁안을 제시했다. 이는 야당이 제기했던 제안과 유사한 내용이다.
-<a href="https://www.ft.com/content/23e88085-9259-472d-8831-b3d88e1c4698">[FT]</a></blockquote>
+<b>20. Dell 서버 수요 급증에 매출 2배...전망 상향</b>
+<blockquote>Dell이 서버 수요 급증으로 매출이 두 배 증가하며 전망을 상향 조정했다. 이사회는 기존 자사주 매입 프로그램에 250억 달러 추가 승인을 결정했다.
+<a href="https://www.wsj.com/business/earnings/dell-lifts-outlook-as-revenue-doubles-on-server-demand-40c14b0b">[WSJ]</a></blockquote>
 
-<b>21. 영국 EU 재가입, 국민투표 없인 불가능...Burnham 총리</b>
-<blockquote>Andy Burnham 영국 총리는 영국이 EU에 재가입하려면 국민투표가 반드시 필요하다고 밝혔다. 다만 그는 영국과 EU의 미래 관계에 대해 고정된 입장은 없다고 덧붙였다.
-<a href="https://www.ft.com/content/46fa4178-055f-44ca-b043-773428e8e986">[FT]</a></blockquote>
+<b>21. Stripe 밸류에이션 2,000억 달러 돌파 전망...직원 주식 매각</b>
+<blockquote>Stripe의 밸류에이션이 최근 투자자 협의에서 2,000억 달러를 넘어설 전망이다. 직원 주식 매각을 위한 텐더 오퍼는 내년 초 완료될 가능성이 크다.
+<a href="https://www.wsj.com/business/stripes-valuation-set-to-top-200-billion-in-latest-investor-talks-122c9027">[WSJ]</a></blockquote>
 
-<b>22. Capita 주가 74% 폭락, 증자 단행...공무원 연금 관리 실패로 위기</b>
-<blockquote>영국 아웃소싱 업체 Capita가 공무원 연금 관리 실패로 긴급 증자를 발표하며 주가가 74% 급락했다. 회사는 CEO를 교체하고 이익 가이던스도 하향 조정했다.
-<a href="https://www.ft.com/content/d5e951e6-b5f6-4286-9de4-495c9a3c2472">[FT]</a></blockquote>
+<b>22. 미 주택가격 9월 안정적 상승...주요 도시 선도</b>
+<blockquote>미국 주택가격 상승세가 9월에도 꾸준히 이어졌다. 시카고와 뉴욕 등 주요 도시가 다시 한 번 상승을 주도했다.
+<a href="https://www.wsj.com/economy/housing/u-s-home-price-growth-held-steady-in-september-2a6a3676">[WSJ]</a></blockquote>
 
-<b>23. Texas Pacific Land, EagleRock 30억 달러 인수...토지·물 관리 사업 확대</b>
-<blockquote>Texas Pacific Land가 토지·수자원 관리 업체 EagleRock Land를 주식교환 방식으로 인수한다. 거래 규모는 약 30억 달러로, 에너지 인프라 관련 자산 통합이 목적이다.
-<a href="https://www.wsj.com/business/energy-oil/texas-pacific-land-to-buy-eaglerock-land-in-3-billion-all-stock-deal-643be79c">[WSJ]</a></blockquote>
+<b>23. 러시아 군용기, 아시아 미 동맹국 영공 접근...긴급 출격</b>
+<blockquote>러시아 군용기가 최근 며칠간 아시아 미국 동맹국의 영공을 여러 차례 접근하거나 침범해 일본과 한국이 전투기를 긴급 출격시켰다.
+<a href="https://www.wsj.com/world/russian-warplanes-trigger-alarm-among-u-s-partners-in-asia-8c2a2157">[WSJ]</a></blockquote>
 
-<b>24. 중국 사회계약 위협받나...저성장이 공산당 정당성 흔들어</b>
-<blockquote>중국 경제 부진이 장기화되면서 공산당의 정당성 근간인 사회계약이 위협받고 있다는 분석이 나왔다. 공산당의 정당성 추구는 단순한 경제성장을 넘어 훨씬 복잡한 차원의 문제라는 지적이다.
-<a href="https://www.economist.com/china/2026/11/23/does-a-crummy-economy-threaten-chinas-social-contract">[Economist]</a></blockquote>
+<b>24. 캐나다 중앙은행 총재, 인플레 지속 가능성 경고</b>
+<blockquote>캐나다 중앙은행 Macklem 총재는 인플레이션이 지속될 것으로 예상한다고 밝혔다. 중동 갈등에 따른 물가 상승 압력이 예상만큼 크지 않을 수 있지만, 설문 응답과 역사적 증거는 더 많은 가격 상승을 가리킨다고 설명했다.
+<a href="https://www.wsj.com/economy/central-banking/bank-of-canada-gov-macklem-expects-inflation-to-remain-persistent-1fbb15f1">[WSJ]</a></blockquote>
 
 ━━━━━━━━━━━━━━━━━━━━
 📡 <b>출처: WSJ · FT · The Economist</b>
